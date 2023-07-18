@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Download Files &#124; Atlas of Historical County Boundaries Project</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="Atlas of Historical Country Boundaries Project" />
+	<meta name="keywords" content="newberry, library, atlas, historical, county, boundaries, shapefiles, gis, kmz, google earth" />
+	<link type="text/css" rel="stylesheet" href="../css/screen.css" />
+	<script type="text/javascript" src="../js/atlas.js" language="JavaScript"></script>
+</head>
+<body>
+	<div id="header-wrapper">
+		<div id="header">
+			<form id="statebox">
+				<label><input type="radio" name="link_type" value="page" checked="checked" />Pages</label>
+				<!--<label><input type="radio" name="link_type" value="map" />Maps</label>-->
+				<label><input type="radio" name="link_type" value="metadata" />Metadata</label>
+				<select name="state_select" id="state_select" >            
+					<option value="">Select a state...</option>          
+					<option value="US;United_States">United States</option>          
+					<option value="AL;Alabama">Alabama</option>
+					<option value="AK;Alaska">Alaska</option>
+					<option value="AZ;Arizona">Arizona</option>
+					<option value="AR;Arkansas">Arkansas</option>
+					<option value="CA;California">California</option>
+					<option value="CO;Colorado">Colorado</option>
+					<option value="CT;Connecticut">Connecticut</option>
+					<option value="DT;Dakota_Territory">Dakota Territory</option>
+					<option value="DE;Delaware">Delaware</option>
+					<option value="DC;District_of_Columbia">District of Columbia</option>
+					<option value="FL;Florida">Florida</option>
+					<option value="GA;Georgia">Georgia</option>
+					<option value="HI;Hawaii">Hawaii</option>
+					<option value="ID;Idaho">Idaho</option>
+					<option value="IL;Illinois">Illinois</option>
+					<option value="IN;Indiana">Indiana</option>
+					<option value="IA;Iowa">Iowa</option>
+					<option value="KS;Kansas">Kansas</option>
+					<option value="KY;Kentucky">Kentucky</option>
+					<option value="LA;Louisiana">Louisiana</option>
+					<option value="ME;Maine">Maine</option>
+					<option value="MD;Maryland">Maryland</option>
+					<option value="MA;Massachusetts">Massachusetts</option>
+					<option value="MI;Michigan">Michigan</option>
+					<option value="MN;Minnesota">Minnesota</option>
+					<option value="MS;Mississippi">Mississippi</option>
+					<option value="MI;Missouri">Missouri</option>
+					<option value="MT;Montana">Montana</option>
+					<option value="NE;Nebraska">Nebraska</option>
+					<option value="NV;Nevada">Nevada</option>
+					<option value="NH;New_Hampshire">New Hampshire</option>
+					<option value="NJ;New_Jersey">New Jersey</option>
+					<option value="NM;New_Mexico">New Mexico</option>
+					<option value="NY;New_York">New York</option>
+					<option value="NC;North_Carolina">North Carolina</option>
+					<option value="ND;North_Dakota">North Dakota</option>
+					<option value="OH;Ohio">Ohio</option>
+					<option value="OK;Oklahoma">Oklahoma</option>
+					<option value="OR;Oregon">Oregon</option>
+					<option value="PA;Pennsylvania">Pennsylvania</option>
+					<option value="RI;Rhode_Island">Rhode Island</option>
+					<option value="SC;South_Carolina">South Carolina</option>
+					<option value="SD;South_Dakota">South Dakota</option>
+					<option value="TN;Tennessee">Tennessee</option>
+					<option value="TX;Texas">Texas</option>
+					<option value="UT;Utah">Utah</option>
+					<option value="VT;Vermont">Vermont</option>
+					<option value="VA;Virginia">Virginia</option>
+					<option value="WA;Washington">Washington</option>
+					<option value="WV;West_Virginia">West Virginia</option>
+					<option value="WI;Wisconsin">Wisconsin</option>
+					<option value="WY;Wyoming">Wyoming</option>
+				</select>
+				<input type="button" value="Go" id="gotostate" />
+			</form>
+			<h1><a href="index.html">Atlas of Historical County Boundaries</a></h1>
+			<ul>
+				<li><a href="http://www.newberry.org" title="Newberry Library">The Newberry Library</a></li>
+				<li><a href="https://www.newberry.org/dr-william-m-scholl-center-american-history-and-culture" title="Scholl Center">Dr. William M. Scholl Center for American History and Culture</a></li>
+			</ul>
+		</div><!--closing div for header-->
+	</div><!--closing div for header-wrapper-->
+	<div id="navlist">
+		<ul>
+			<li><a href="../index.html" title="Home">Home</a></li>
+			<li><a href="../usingatlas.html" title="Using the Atlas">Using the Atlas</a></li>
+			<li><a href="index.html" title="Download Files" id="selected">Download Files</a></li>
+			<li><a href="../project.html" title="About the Project">About the Project</a></li>
+			<li><a href="../publications.html" title="Publications">Publications</a></li>
+		</ul>
+	</div><!--closing div for navlist-->
+	<div id="page">
+		<div id="interior-header">
+			<h2>Download Files</h2>
+		</div><!--closing div for interior-header-->
+		<div id="pagecontent">
+			<p>
+				Select "State Downloads" or "U.S. Downloads" to access the relevant GIS files, KMZ files, and PDF files. You will also find explanations about what these files contain and their uses. The data used in the Atlas project is readily available to download to be consulted, reviewed, and reused for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library. Please note that some files may contain the original, out-of-date copyright license; these can be ignored.
+			</p>
+			<div class="download-link">
+				<a href="states.html" title="State Downloads">
+					<div id="statedownloads" class="link-wrapper">
+						<h3>State Downloads</h3>
+					</div>
+				</a>
+			</div>
+			<div class="download-link">
+				<a href="united_states.html" title="U.S. Downloads">
+					<div id="usdownloads" class="link-wrapper">
+						<h3>U.S. Downloads</h3>
+					</div>
+				</a>
+			</div> 
+			<h2>Using the Download Files</h2>
+				<h3>ArcGIS Desktop: ArcView, ArcEditor, & ArcInfo</h3>
+				<div class="pageinset">
+					<img src="../images/usingatlas/arcgis.jpg" alt="ArcGIS image of Maryland" />
+				</div>
+				<p>ArcView, ArcEditor, and ArcInfo are ESRI's primary desktop geographic information system (GIS) products. These products provide a large number of tools and applications to display, query, edit, and analyze GIS data. These three products differ in their capabilities, with ArcView being the most basic option.  Each product includes the ArcMap application, which is the primary tool to display and analyze map data.</p>
+				<div class="pageinset">
+					<img src="../images/usingatlas/arcgis2.jpg" alt="ArcGIS image of Maryland" />
+				</div>
+				<p>The <a href="index.html" title="Atlas Download Files Page">Atlas shapefiles available for download from the map links above</a> include polygons for each different configuration of a state's counties or the entire United States, coded by date.  The shapefiles therefore include a large number of overlapping polygons.  The files also include several types of polygons, differentiated by the value included in the CNTY_TYPE field; County, Parish, District, Proposal, and Jefferson Territory.  See the shapefile Metadata for additional information about these values.</p>
+				<p>The downloaded Atlas shapefiles can be added as a layer to the ArcMap application.  ArcMap provides several tools for working with the date-coding incorporated in these shapefiles.</p>
+				<ol>
+				<li>Animation: ArcGIS 9.2 introduced the animation toolbar, which allows the user to create, display and record animations of changes in time-coded data.  The Atlas shapefiles are well suited to these tools, and the START_DATE/END_DATE fields and the START_N/END_N fields can be used as the basis for ArcMap animations.</li>
+				<li>Definition Queries: As discussed in the READ ME file included in the download, it is possible to use ArcMap definition queries to filter the data by date, and thereby display or select the county versions in effect at that date.  Definition queries can also be used to separate the data by type of polygon, based on the values included in the CNTY_TYPE field.</li>
+				<li>Data Export: ArcMap allows the user to select the county polygons in effect at a certain date, and export them to a new shapefile.  The exported shapefiles can then be used in other mapping applications such as ArcGIS Explorer.  Using ArcGIS software, a shapefile can also be converted into a variety of different formats, including personal geodatabase, file geodatabase, and SDE database.</li>
+				</ol>
+			<h3>Google Earth KMZ files</h3>
+				<div class="pageinset">
+					<img src="../images/usingatlas/googleearth.jpg" alt="Google Earth image of Vermont" />
+				</div>
+				<p>The Atlas data is also available for <a href="downloads/index.html" title="Atlas Download Files Page">download by state and for the entire United States</a> in KMZ file format, for use with Google Earth, Google Maps, ArcGIS Explorer, and other applications.  The KMZ files are unprojected, and do not include unsuccessful county proposals.</p>
+				<p>To view the KMZ files in Google Earth (Version 5), open the Google Earth application, select File > Open from the main menu bar, and navigate to a state's KMZ file.  The KMZ file will then be added to the Temporary Places panel, and the state's historical county boundaries will be overlaid on aerial photography of the United States.</p>
+				<div class="pageinset">
+					<img src="../images/usingatlas/googleearth2.jpg" alt="Google Earth image of Vermont" />
+				</div>
+				<p>Since the KMZ file is time-coded, the Google Earth time slider will automatically appear.  This time slider can then be used to view the boundaries at a specific date, or to view an animation of the state's boundary changes over time.  The time slider properties can be adjusted to modify the animation speed, or to view a smaller time span in more detail.</p>
+				<p>With Google Earth, it is possible to compare the historical county boundaries with geographical features such as rivers, lakes, and mountain ridges.  The historical boundaries can also be compared to a large variety of layer information available in Google Earth, such as streets, populated places, and modern administrative boundaries.</p>
+				<p>From the Google Earth Places panel, the user can choose to display the counties and county names for the historical boundary layer.  Clicking within a county's area on the map displays tabular information for the selected county version, including the version's effective dates, a description of the boundary change, and a citation for the change.</p>
+				<p>A KMZ file is a compressed version of a KML file.  See the <a href="https://developers.google.com/kml/documentation/kmzarchives" title="Google Earth KMZ Files">Google Earth website</a> for more information about this format.</p>
+			<h3>ArcGIS Explorer</h3>
+				<div class="pageinset">
+					<img src="../images/usingatlas/arcexplorer.jpg" alt="Arc Explorer image" />
+				</div>
+				<p>ESRI's ArcGIS Explorer is a free desktop software application that allows the user to view map data from a variety of sources, superimposed on either a 2D flat surface or 3D globe view. Map data can be accessed from on-line GIS Services as well as from local data files.  ArcGIS Explorer also provides a variety of tools for map navigation, map display, and data query.</p>
+				<p>ArcGIS Explorer has the capability to work with the Atlas of Historical County Boundary's time-coded data in KMZ format. When the KMZ file is added as a map layer and selected, the "Play Time Animation" tool is enabled.  Clicking on this tool displays a time slider, allowing the user to view an animation of the boundary changes, or to view the boundaries as of any specified date.</p>
+				<div class="pageinset">
+					<img src="../images/usingatlas/arcexplorer2.jpg" alt="Arc Explorer image of Earth" />
+				</div>
+				<p>The Historical County Boundary shapefiles can also be added as an ArcGIS Explorer map layer.  However, as of Build 900, ArcGIS Explorer does not provide any tools to support shapefile animation, or to allow the user to display the county boundaries as of a fixed date.  All of the shapefile's polygons appear on the map at the same time.</p>
+				<p>It is possible to view the attributes of each county polygon in the shapefile and highlight that polygon on the map.  This allows the user to view the different versions of each historical polygon.  Likewise, if a copy of ArcGIS desktop software is available, it can be used to extract a shapefile of county polygons as of a certain date.  That shapefile could then be loaded into ArcGIS Explorer.</p>
+				<p>A free copy of ArcGIS Explorer can be downloaded from the <a href="http://www.esri.com/software/arcgis/explorer/index.html" title="ESRI ArcGIS Explorer">ESRI website</a>.</p>
+		
+		
+		</div><!--closing div for page-content-->
+	</div><!--closing div for page-->
+	<div id="footer-wrapper">
+		<div id="footer">
+			<ul id="rights">
+				<li><a href="http://www.newberry.org" title="Newberry Library"><img src="../images/newberry-logo.jpg" width="116" height="60" alt="Newberry Logo" title="The Newberry Library" /></a></li>
+				<li><a href="http://www.neh.gov/" title="NEH"><img src="../images/neh-logo.jpg" width="131" height="60" alt="NEH Logo" title="National Endowment for the Humanities" /></a></li>
+			</ul>
+			<ul>
+				<li><a href="index.html" title="Home">Atlas of Historical County Boundaries</a></li>
+				<li> Contact us: dis@newberry.org</li>
+			</ul>
+			<ul>
+				<li><span> The Newberry makes its collections available for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library, subject to the following terms and conditions: <a href="https://www.newberry.org/rights-and-reproductions">https://www.newberry.org/rights-and-reproductions</a></span></li> 
+			</ul>
+		</div><!--closing div for footer-->
+	</div><!--closing div for footer-wrapper-->
+<!--Google Analytics Script-->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5551324-4']);
+_gaq.push(['_trackPageview']);
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

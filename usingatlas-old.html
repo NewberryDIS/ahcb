@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Using the Atlas &#124; Atlas of Historical County Boundaries Project</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="Atlas of Historical County Boundaries Project" />
+	<meta name="keywords" content="newberry, library, atlas, historical, county, boundaries, shapefiles, gis, kmz, google earth" />
+	<link type="text/css" rel="stylesheet" href="css/screen.css" />
+	<script type="text/javascript" src="js/atlas.js" language="JavaScript"></script>
+</head>
+<body>
+	<div id="header-wrapper">
+		<div id="header">
+			<form id="statebox">
+				<label><input type="radio" name="link_type" value="page" checked="checked" />Pages</label>
+				<!--<label><input type="radio" name="link_type" value="map" />Maps</label>-->
+				<label><input type="radio" name="link_type" value="metadata" />Metadata</label>
+				<select name="state_select" id="state_select" >            
+					<option value="">Select a state...</option>          
+					<option value="US;United_States">United States</option>
+					<option value="AL;Alabama">Alabama</option>
+					<option value="AK;Alaska">Alaska</option>
+					<option value="AZ;Arizona">Arizona</option>
+					<option value="AR;Arkansas">Arkansas</option>
+					<option value="CA;California">California</option>
+					<option value="CO;Colorado">Colorado</option>
+					<option value="CT;Connecticut">Connecticut</option>
+					<option value="DT;Dakota_Territory">Dakota Territory</option>
+					<option value="DE;Delaware">Delaware</option>
+					<option value="DC;District_of_Columbia">District of Columbia</option>
+					<option value="FL;Florida">Florida</option>
+					<option value="GA;Georgia">Georgia</option>
+					<option value="HI;Hawaii">Hawaii</option>
+					<option value="ID;Idaho">Idaho</option>
+					<option value="IL;Illinois">Illinois</option>
+					<option value="IN;Indiana">Indiana</option>
+					<option value="IA;Iowa">Iowa</option>
+					<option value="KS;Kansas">Kansas</option>
+					<option value="KY;Kentucky">Kentucky</option>
+					<option value="LA;Louisiana">Louisiana</option>
+					<option value="ME;Maine">Maine</option>
+					<option value="MD;Maryland">Maryland</option>
+					<option value="MA;Massachusetts">Massachusetts</option>
+					<option value="MI;Michigan">Michigan</option>
+					<option value="MN;Minnesota">Minnesota</option>
+					<option value="MS;Mississippi">Mississippi</option>
+					<option value="MI;Missouri">Missouri</option>
+					<option value="MT;Montana">Montana</option>
+					<option value="NE;Nebraska">Nebraska</option>
+					<option value="NV;Nevada">Nevada</option>
+					<option value="NH;New_Hampshire">New Hampshire</option>
+					<option value="NJ;New_Jersey">New Jersey</option>
+					<option value="NM;New_Mexico">New Mexico</option>
+					<option value="NY;New_York">New York</option>
+					<option value="NC;North_Carolina">North Carolina</option>
+					<option value="ND;North_Dakota">North Dakota</option>
+					<option value="OH;Ohio">Ohio</option>
+					<option value="OK;Oklahoma">Oklahoma</option>
+					<option value="OR;Oregon">Oregon</option>
+					<option value="PA;Pennsylvania">Pennsylvania</option>
+					<option value="RI;Rhode_Island">Rhode Island</option>
+					<option value="SC;South_Carolina">South Carolina</option>
+					<option value="SD;South_Dakota">South Dakota</option>
+					<option value="TN;Tennessee">Tennessee</option>
+					<option value="TX;Texas">Texas</option>
+					<option value="UT;Utah">Utah</option>
+					<option value="VT;Vermont">Vermont</option>
+					<option value="VA;Virginia">Virginia</option>
+					<option value="WA;Washington">Washington</option>
+					<option value="WV;West_Virginia">West Virginia</option>
+					<option value="WI;Wisconsin">Wisconsin</option>
+					<option value="WY;Wyoming">Wyoming</option>
+				</select>
+				<input type="button" value="Go" id="gotostate" />
+			</form>
+			<h1><a href="index.html">Atlas of Historical County Boundaries</a></h1>
+			<ul>
+				<li><a href="http://www.newberry.org" title="Newberry Library">The Newberry Library</a></li>
+				<li><a href="https://www.newberry.org/dr-william-m-scholl-center-american-history-and-culture" title="Scholl Center">Dr. William M. Scholl Center for American History and Culture</a></li>
+			</ul>
+		</div><!--closing div for header-->
+	</div><!--closing div for header-wrapper-->
+	<div id="navlist">
+		<ul>
+			<li><a href="index.html" title="Home">Home</a></li>
+			<li><a href="usingatlas.html" title="Using the Atlas" id="selected">Using the Atlas</a></li>
+			<li><a href="downloads/index.html" title="Download Files">Download Files</a></li>
+			<li><a href="project.html" title="About the Project">About the Project</a></li>
+			<li><a href="publications.html" title="Publications">Publications</a></li>
+		</ul>
+	</div><!--closing div for navlist-->
+	<div id="page">
+		<div id="unavailable-notice">
+			<span class="bold">Interactive Maps Are Back</span><br>
+			This site now features new and improved interactive maps showing county border changes. <br />This site is in testing mode, we welcome your feedback; please <a href="mailto:dis@newberry.org">email us</a>.<br>
+		</div><!--closing div for unavailable-notice-->
+		<div id="interior-header">
+			<h2>Using the Atlas</h2>
+		</div><!--closing div for interior-header-->
+		<div id="pagecontent">
+			<p>The Atlas of Historical County Boundaries is meant to be a resource for people seeking records of past events, and people trying to analyze, interpret and display county-based historical data like returns of elections and censuses, and for people working on state and local history projects. The special interests of those potential users range from history to demography, economics, genealogy, geography, law, and politics.</p>
+	
+			<h3>Using the Interactive Maps</h3>
+			<div class="usingmaps">
+				<img src="images/map.png" alt="interactive map screenshot"/>
+			</div>
+
+			<p>The Web site for the <a href="index.html">Atlas of Historical County Boundary Project</a> provides interactive maps for all states.  The interactive maps cover the historical boundaries, names, organization, and attachments of every county, extinct county and unsuccessful county proposal from the creation of the first county through 31 December 2000. </p>
+			<ul class="faq tools">
+				<li><span class="bold">To pan (move the map)</span>, click and hold your mouse, then drag the map. You can also use the arrow keys on your keyboard to move the map north, south, east, and west. </li>
+		
+				<li>Use the toolbar to <span class="bold">zoom</span> <img src="images/zoom.png" alt="zoom map icon"/>, make <span class="bold">full screen</span> <img src="images/fullscreen.png" alt="full screen map icon"/> or <span class="bold">print</span> <img src="images/print.png" alt="print map icon"/>the desired map.</li>
+		
+			<li><span class="bold">Hover over a county</span> to view information about effective dates and the description of the border change: </li>
+			</ul>
+			<div class="usingmaps">
+				<img src="images/map-with-hover.png" alt="dropdown box screenshot">
+			</div>
+			<br>
+			<h3>FAQs</h3>
+			<ol class="faq">
+				<li><span class="bold">The date I want to see is not listed in the dropdown box? How can I see a map from a different date?</span><br>
+				All known border change dates are listed in the dropdown box. If the Atlas of Historical County Boundaries research team missed a date, please let us know by sending additional data to <a href="mailto:dis@newberry.org">dis@newberry.org</a>. We will keep this information on file but at this time, there are no plans to revive the research project or create new map files. <br><br>
+				If you want to see a date in between border change dates, choose the closest date before your event. For example, if you want to see Dakota Territory boundaries in 1880, choose the date “1879-10-01” which were in effect until the next change on “1881-02-08.”
+				</li>
+				<li><span class="bold">The information hover box is covering the map, how can I move it?</span><br>
+				If the hovering information box is covering a portion of the map that you want to see , click and hold your mouse on the map, then drag the map. You can also use the arrow keys on your keyboard to move the map north, south, east, and west. 
+				</li>
+				<li><span class="bold">I changed the date but I don’t think anything happened on the map. Help! </span><br>
+				Some border changes are very minor and easy to miss, especially if you have zoomed in on the map and cannot see the entire state. Try zooming out and changing dates again to see where the change occurred. If you still have problems or think there may be a problem with the map date, please contact us at <a href="mailto:dis@newberry.org">dis@newberry.org</a>.
+				</li>
+				<li><span class="bold">How can I move from one state map to another without going back to the home page each time?</span><br>
+				You can use the “Select a state” dropdown box in the upper right hand corner of each page to navigate to the data page for any state: <img class="dropdown" src="images/dropdown.png" alt="dropdown box screenshot">
+				</li>
+			</ol>
+			<br><br>
+			<h3>Using the Downloadable data</h3>
+			<p>The downloadable data can be used with various GIS (Geographic Information Systems) programs to create specialized projects. See <a href="downloads/index.html">Download Files</a> for more information.</p>
+			<br>
+		</div><!--closing div for pagecontent-->
+	</div><!--closing div for page-->
+	<div id="footer-wrapper">
+		<div id="footer">
+			<ul id="rights">
+				<li><a href="http://www.newberry.org" title="Newberry Library"><img src="images/newberry-logo.jpg" width="116" height="60" alt="Newberry Logo" title="The Newberry Library" /></a></li>
+				<li><a href="http://www.neh.gov/" title="NEH"><img src="images/neh-logo.jpg" width="131" height="60" alt="NEH Logo" title="National Endowment for the Humanities" /></a></li>
+			</ul>
+			<ul>
+				<li><a href="index.html" title="Home">Atlas of Historical County Boundaries</a></li>
+				<li> Contact us: dis@newberry.org</li>
+			</ul>
+			<ul>
+				<li><a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" title="Creative Commons"><img src="images/cc.png" alt="Creative Commons logo" title="Creative Commons Deed" /></a></li>
+			</ul>
+		</div><!--closing div for footer-->
+	</div><!--closing div for footer-wrapper-->
+<!--Google Analytics Script-->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5551324-4']);
+_gaq.push(['_trackPageview']);
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

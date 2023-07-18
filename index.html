@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Home &#124; Atlas of Historical County Boundaries Project</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="Atlas of Historical County Boundaries Project" />
+	<meta name="keywords" content="newberry, library, atlas, historical, county, boundaries, shapefiles, gis, kmz, google earth" />
+	<link rel="stylesheet" href="css/screen.css" type="text/css" />
+	<link rel="stylesheet" href="js/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/statesmap.css" type="text/css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js" language="Javascript"></script>
+	<script type="text/javascript" src="js/jquery.bxSlider.min.js" language="Javascript"></script>
+	<script type="text/javascript" src="js/fancybox/source/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="js/atlas.js" language="JavaScript"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			/*use = true to display custom message at top of page*/
+			var show_message = false;
+			
+			var slider = $('#mapvids').bxSlider({
+				auto: true,
+				autoControls: true,
+				autoHover: true,
+				captions: true,
+				controls: false,
+				pager: true,
+				pause: 4000,
+				startImage: 'images/play.png',
+				stopImage: 'images/pause.png'
+			});
+		
+			$('.various').fancybox({
+				maxWidth	: 640,
+				maxHeight	: 500,
+				fitToView	: false,
+				width		: 640,
+				height		: 370,
+				autoSize	: false,
+				closeClick	: false,
+				openEffect	: 'none',
+				closeEffect	: 'none',
+				helpers : {
+    				title : {
+    					type : 'inside'
+    				},
+    				overlay : {
+    					opacity: 1
+    				}
+    			}
+			});
+			/* message content goes here */
+			if (show_message == true){
+				var message_text = 'Welcome to the redesigned AHCBP website. In addition to an updated look and feel, the project now makes available new maps, data, and shapefiles for the United States as a whole. Also, you can watch animated versions of the AHCBP data below.';
+				
+				$('#navlist').prepend('<div id="message"><div class="close_button">X</div><p>' + message_text + '</p></div>')
+			
+				$('.close_button').bind('click', function(){
+					$(this).parent().hide();
+				});
+			}
+		});
+	</script>
+</head>
+<body>
+	<div id="header-wrapper">
+		<div id="header">
+			<form id="statebox">
+				<label>
+					<input type="radio" name="link_type" value="page" checked="checked" />
+					Pages
+				</label>
+				<!--<label><input type="radio" name="link_type" value="map" />Maps</label>-->
+				<label>
+					<input type="radio" name="link_type" value="blue" />
+					Metadata
+				</label>
+				<select name="state_select" id="state_select" >            
+					<option value="">Select a state...</option>          
+					<option value="US;United_States">United States</option>
+					<option value="AL;Alabama">Alabama</option>
+					<option value="AK;Alaska">Alaska</option>
+					<option value="AZ;Arizona">Arizona</option>
+					<option value="AR;Arkansas">Arkansas</option>
+					<option value="CA;California">California</option>
+					<option value="CO;Colorado">Colorado</option>
+					<option value="CT;Connecticut">Connecticut</option>
+					<option value="DT;Dakota_Territory">Dakota Territory</option>
+					<option value="DE;Delaware">Delaware</option>
+					<option value="DC;District_of_Columbia">District of Columbia</option>
+					<option value="FL;Florida">Florida</option>
+					<option value="GA;Georgia">Georgia</option>
+					<option value="HI;Hawaii">Hawaii</option>
+					<option value="ID;Idaho">Idaho</option>
+					<option value="IL;Illinois">Illinois</option>
+					<option value="IN;Indiana">Indiana</option>
+					<option value="IA;Iowa">Iowa</option>
+					<option value="KS;Kansas">Kansas</option>
+					<option value="KY;Kentucky">Kentucky</option>
+					<option value="LA;Louisiana">Louisiana</option>
+					<option value="ME;Maine">Maine</option>
+					<option value="MD;Maryland">Maryland</option>
+					<option value="MA;Massachusetts">Massachusetts</option>
+					<option value="MI;Michigan">Michigan</option>
+					<option value="MN;Minnesota">Minnesota</option>
+					<option value="MS;Mississippi">Mississippi</option>
+					<option value="MI;Missouri">Missouri</option>
+					<option value="MT;Montana">Montana</option>
+					<option value="NE;Nebraska">Nebraska</option>
+					<option value="NV;Nevada">Nevada</option>
+					<option value="NH;New_Hampshire">New Hampshire</option>
+					<option value="NJ;New_Jersey">New Jersey</option>
+					<option value="NM;New_Mexico">New Mexico</option>
+					<option value="NY;New_York">New York</option>
+					<option value="NC;North_Carolina">North Carolina</option>
+					<option value="ND;North_Dakota">North Dakota</option>
+					<option value="OH;Ohio">Ohio</option>
+					<option value="OK;Oklahoma">Oklahoma</option>
+					<option value="OR;Oregon">Oregon</option>
+					<option value="PA;Pennsylvania">Pennsylvania</option>
+					<option value="RI;Rhode_Island">Rhode Island</option>
+					<option value="SC;South_Carolina">South Carolina</option>
+					<option value="SD;South_Dakota">South Dakota</option>
+					<option value="TN;Tennessee">Tennessee</option>
+					<option value="TX;Texas">Texas</option>
+					<option value="UT;Utah">Utah</option>
+					<option value="VT;Vermont">Vermont</option>
+					<option value="VA;Virginia">Virginia</option>
+					<option value="WA;Washington">Washington</option>
+					<option value="WV;West_Virginia">West Virginia</option>
+					<option value="WI;Wisconsin">Wisconsin</option>
+					<option value="WY;Wyoming">Wyoming</option>
+				</select>
+				<input type="button" value="Go" id="gotostate" />
+			</form>
+			<h1><a href="index.html">Atlas of Historical County Boundaries</a></h1>
+			<ul>
+				<li><a href="http://www.newberry.org" title="Newberry Library">The Newberry Library</a></li>
+				<li><a href="https://www.newberry.org/dr-william-m-scholl-center-american-history-and-culture" title="Scholl Center">Dr. William M. Scholl Center for American History and Culture</a></li>
+			</ul>
+		</div><!--closing div for header-->
+	</div><!--closing div for header-wrapper-->
+	<div id="navlist">
+		<ul>
+			<li><a href="index.html" title="Home" id="selected">Home</a></li>
+			<li><a href="usingatlas.html" title="Using the Atlas">Using the Atlas</a></li>
+			<li><a href="downloads/index.html" title="Download Files">Download Files</a></li>
+			<li><a href="project.html" title="About the Project">About the Project</a></li>
+			<li><a href="publications.html" title="Publications">Publications</a></li>
+		</ul>
+	</div><!--closing div for navlist-->
+	<div id="page" >
+
+		<div id="unavailable-notice">
+			<span class="bold">Interactive Maps Are Back</span><br>
+			This site now features new and improved interactive maps showing county border changes. <br />This site is in testing mode, we welcome your feedback; please <a href="mailto:dis@newberry.org">email us</a>.<br>
+		</div><!--closing div for unavailable-notice-->
+
+
+
+		<div id="interior-header" class="float-left">
+			<h2>State Data</h2> 
+			<p>Select a state from the map to view all of the Atlas' content related to that state, including shapefiles, chronologies, and metadata.</p>
+			<p>If you are having trouble viewing the map or clicking on it, try the <a href="statelist.html">list of states</a> page.</p>
+		</div><!--closing div for interior-header-->
+		<div id="pagecontent">
+			<div id="map">
+				<ul id="statesmap">
+					<li><a id="al" title="Alabama" href="pages/Alabama.html"></a></li>
+					<li><a id="ak" title="Alaska" href="pages/Alaska.html"></a></li>
+					<li><a id="az" title="Arizona" href="pages/Arizona.html"></a></li>
+					<li><a id="ar" title="Arkansas" href="pages/Arkansas.html"></a></li>
+					<li><a id="ca" title="California" href="pages/California.html"></a></li>
+					<li><a id="co" title="Colorado" href="pages/Colorado.html"></a></li>
+					<li><a id="ct" title="Connecticut" href="pages/Connecticut.html"></a></li>
+					<li><a id="dt" title="Dakota Territory" href="pages/Dakota_Territory.html"></a></li>
+					<li><a id="de" title="Delaware" href="pages/Delaware.html"></a></li>
+					<li><a id="dc" title="District of Columbia" href="pages/District_of_Columbia.html"></a></li>
+					<li><a id="fl" title="Florida" href="pages/Florida.html"></a></li>
+					<li><a id="ga" title="Georgia" href="pages/Georgia.html"></a></li>
+					<li><a id="hi" title="Hawaii" href="pages/Hawaii.html"></a></li>
+					<li><a id="id" title="Idaho" href="pages/Idaho.html"></a></li>
+					<li><a id="il" title="Illinois" href="pages/Illinois.html"></a></li>
+					<li><a id="in" title="Indiana" href="pages/Indiana.html"></a></li>
+					<li><a id="ia" title="Iowa" href="pages/Iowa.html"></a></li>
+					<li><a id="ks" title="Kansas" href="pages/Kansas.html"></a></li>
+					<li><a id="ky" title="Kentucky" href="pages/Kentucky.html"></a></li>
+					<li><a id="la" title="Louisiana" href="pages/Louisiana.html"></a></li>
+					<li><a id="me" title="Maine" href="pages/Maine.html"></a></li>
+					<li><a id="md" title="Maryland" href="pages/Maryland.html"></a></li>
+					<li><a id="ma" title="Massachusetts" href="pages/Massachusetts.html"></a></li>
+					<li><a id="mi" title="Michigan" href="pages/Michigan.html"></a></li>
+					<li><a id="mn" title="Minnesota" href="pages/Minnesota.html"></a></li>
+					<li><a id="ms" title="Mississippi" href="pages/Mississippi.html"></a></li>
+					<li><a id="mo" title="Missouri" href="pages/Missouri.html"></a></li>
+					<li><a id="mt" title="Montana" href="pages/Montana.html"></a></li>
+					<li><a id="ne" title="Nebraska" href="pages/Nebraska.html"></a></li>
+					<li><a id="nv" title="Nevada" href="pages/Nevada.html"></a></li>
+					<li><a id="nh" title="New Hampshire" href="pages/New_Hampshire.html"></a></li>
+					<li><a id="nj" title="New Jersey" href="pages/New_Jersey.html"></a></li>
+					<li><a id="nm" title="New Mexico" href="pages/New_Mexico.html"></a></li>
+					<li><a id="ny" title="New York" href="pages/New_York.html"></a></li>
+					<li><a id="nc" title="North Carolina" href="pages/North_Carolina.html"></a></li>
+					<li><a id="nd" title="North Dakota" href="pages/North_Dakota.html"></a></li>
+					<li><a id="oh" title="Ohio" href="pages/Ohio.html"></a></li>
+					<li><a id="ok" title="Oklahoma" href="pages/Oklahoma.html"></a></li>
+					<li><a id="or" title="Oregon" href="pages/Oregon.html"></a></li>
+					<li><a id="pa" title="Pennsylvania" href="pages/Pennsylvania.html"></a></li>
+					<li><a id="ri" title="Rhode Island" href="pages/Rhode_Island.html"></a></li>
+					<li><a id="sc" title="South Carolina" href="pages/South_Carolina.html"></a></li>
+					<li><a id="sd" title="South Dakota" href="pages/South_Dakota.html"></a></li>
+					<li><a id="tn" title="Tennessee" href="pages/Tennessee.html"></a></li>
+					<li><a id="tx" title="Texas" href="pages/Texas.html"></a></li>
+					<li><a id="ut" title="Utah" href="pages/Utah.html"></a></li>
+					<li><a id="vt" title="Vermont" href="pages/Vermont.html"></a></li>
+					<li><a id="va" title="Virginia" href="pages/Virginia.html"></a></li>
+					<li><a id="wa" title="Washington" href="pages/Washington.html"></a></li>
+					<li><a id="wv" title="West Virginia" href="pages/West_Virginia.html"></a></li>
+					<li><a id="wi" title="Wisconsin" href="pages/Wisconsin.html"></a></li>
+					<li><a id="wy" title="Wyoming" href="pages/Wyoming.html"></a></li>         
+				</ul>     
+			</div><!--closing div for statemap-->
+			<div class="clear" style="clear:both;">&nbsp;</div>
+			<div id="us" style="margin-right: 1em;">
+				<h3>National Data</h3>
+				<a href="pages/United_States.html" title="United States">
+					<div class="link-wrapper" id="usdownloads"></div>
+				</a>
+				<p>Click the map above for national data files, historical commentary, and metadata are also available.</p>
+			</div><!--closing div for us-->
+			<div id="videos">
+				<h3>Boundary Animations</h3>
+				<ul id="mapvids">
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/7-0lM1g9iSs?rel=0&showinfo=1&autoplay=1" title="US Historical County Boundaries, 1629-2000 (0:30)"><img src="images/usanimations/us-counties-1629-2000.png" alt="US Historical County Boundaries, 1629-2000 [graphic]" /></a>
+						<p class="caption">US Historical County Boundaries, 1629-2000 (0:30)</p>
+					</li>
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/jJ-0HzEgOd0?rel=0&showinfo=1&autoplay=1" title="US Historical County Boundaries, 1629-2000 (3:00)"><img src="images/usanimations/us-counties-1629-2000-3min.png" alt="US Historical County Boundaries, 1629-2000 (3:00) [graphic]" /></a>
+						<p class="caption">US Historical County Boundaries, 1629-2000 (3:00)</p>
+					</li>
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/QEdDU3ho1oE?rel=0&showinfo=1&autoplay=1" title="US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (0:30)"><img src="images/usanimations/us-counties-territories-1629-2000.png" alt="US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (0:30) [graphic]"  /></a>
+						<p class="caption">US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (0:30)</p>
+					</li>
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/X7WzKaqCaV4?rel=0&showinfo=1&autoplay=1" title="US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (3:00)"><img src="images/usanimations/us-counties-territories-1629-2000-3min.png" alt="US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (3:00) [graphic]" /></a>
+						<p class="caption">US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (3:00)</p>
+					</li>
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/g5_j2UaOVDM?rel=0&showinfo=1&autoplay=1" title="US Historical State & Territorial Boundaries, 1783-2000 (0:30)"><img src="images/usanimations/us-states-territories-1783-2000.png" alt="US Historical State & Territorial Boundaries, 1783-2000 (0:30) [graphic]" /></a>
+						<p class="caption">US Historical State & Territorial Boundaries, 1783-2000 (0:30)</p>
+					</li>
+					<li>
+						<a class="various fancybox.iframe" href="//www.youtube.com/embed/9KDJzkqCyIo?rel=0&showinfo=1&autoplay=1" title="US Historical State & Territorial Boundaries, 1783-2000 (3:00)"><img src="images/usanimations/us-states-territories-1783-2000-3min.png" alt="US Historical State & Territorial Boundaries, 1783-2000 (0:30) [graphic]" /></a>
+						<p class="caption">US Historical State & Territorial Boundaries, 1783-2000 (3:00)</p>
+					</li>
+				</ul>
+			</div><!--closing div for videos-->
+		</div><!--closing div for pagecontent-->
+	</div><!--closing div for page-->
+	<div id="footer-wrapper">
+		<div id="footer">
+			<ul id="rights">
+				<li><a href="http://www.newberry.org" title="Newberry Library"><img src="images/newberry-logo.jpg" width="116" height="60" alt="Newberry Logo" title="The Newberry Library" /></a></li>
+				<li><a href="http://www.neh.gov/" title="NEH"><img src="images/neh-logo.jpg" width="131" height="60" alt="NEH Logo" title="National Endowment for the Humanities" /></a></li>
+			</ul>
+			<ul>
+				<li><a href="index.html" title="Home">Atlas of Historical County Boundaries</a></li>
+				<li> Contact us: dis@newberry.org</li>
+			</ul>
+			<ul>
+				<li><span> The Newberry makes its collections available for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library, subject to the following terms and conditions: <a href="https://www.newberry.org/rights-and-reproductions">https://www.newberry.org/rights-and-reproductions</a></span></li>
+			</ul>
+		</div><!--closing div for footer-->
+	</div><!--closing div for footer-wrapper-->
+	<!--Google Analytics Script-->
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5551324-4']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+</body>
+</html>
