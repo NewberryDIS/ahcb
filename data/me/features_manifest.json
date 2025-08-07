@@ -1,0 +1,1301 @@
+{
+  "state": "ME",
+  "total_features": 185,
+  "features": {
+    "d6d79cdd9718": {
+      "county_id": "mes_york",
+      "name": "YORKSHIRE",
+      "start_date": "1652-11-20",
+      "end_date": "1664-11-29",
+      "filename": "d6d79cdd9718.json"
+    },
+    "bc8863938e4b": {
+      "county_id": "mes_nca",
+      "name": "Maine",
+      "start_date": "1664-11-30",
+      "end_date": "1665-06-22",
+      "filename": "bc8863938e4b.json"
+    },
+    "4be8c40f9b8e": {
+      "county_id": "mes_nca",
+      "name": "Maine",
+      "start_date": "1665-06-23",
+      "end_date": "1668-05-26",
+      "filename": "4be8c40f9b8e.json"
+    },
+    "dc274fb083fd": {
+      "county_id": "nys_cornwall",
+      "name": "CORNWALL (N.Y., ext)",
+      "start_date": "1665-09-05",
+      "end_date": "1675-09-29",
+      "filename": "dc274fb083fd.json"
+    },
+    "446c0b118c48": {
+      "county_id": "mac_massclaim",
+      "name": "Massachusetts Claim",
+      "start_date": "1668-05-27",
+      "end_date": "1680-03-16",
+      "filename": "446c0b118c48.json"
+    },
+    "c5ad881850cd": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1668-05-27",
+      "end_date": "1680-03-16",
+      "filename": "c5ad881850cd.json"
+    },
+    "11aea644ff65": {
+      "county_id": "mas_devonshire",
+      "name": "DEVONSHIRE (Mass.)",
+      "start_date": "1673-10-07",
+      "end_date": "1675-09-29",
+      "filename": "11aea644ff65.json"
+    },
+    "6b871bb6b9e3": {
+      "county_id": "mac_massclaim",
+      "name": "Massachusetts Claim",
+      "start_date": "1680-03-17",
+      "end_date": "1691-10-06",
+      "filename": "6b871bb6b9e3.json"
+    },
+    "3fd87f85243e": {
+      "county_id": "nys_cornwall",
+      "name": "CORNWALL (N.Y., ext)",
+      "start_date": "1683-11-01",
+      "end_date": "1687-03-31",
+      "filename": "3fd87f85243e.json"
+    },
+    "4e04b37d7ef7": {
+      "county_id": "mas_nca",
+      "name": "Massachusetts",
+      "start_date": "1691-10-07",
+      "end_date": "1716-06-25",
+      "filename": "4e04b37d7ef7.json"
+    },
+    "304adab6c3a0": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1691-10-07",
+      "end_date": "1716-06-25",
+      "filename": "304adab6c3a0.json"
+    },
+    "427735e374a4": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1716-06-26",
+      "end_date": "1760-10-31",
+      "filename": "427735e374a4.json"
+    },
+    "dc30345c5fdc": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "dc30345c5fdc.json"
+    },
+    "80b6c74212e0": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "80b6c74212e0.json"
+    },
+    "504e2f31deba": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "504e2f31deba.json"
+    },
+    "1044b4c11988": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1763-10-07",
+      "end_date": "1790-04-30",
+      "filename": "1044b4c11988.json"
+    },
+    "4f5e7179ff13": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1763-10-07",
+      "end_date": "1786-03-02",
+      "filename": "4f5e7179ff13.json"
+    },
+    "303a17d844a4": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1763-10-07",
+      "end_date": "1786-03-02",
+      "filename": "303a17d844a4.json"
+    },
+    "4f68ea3d7964": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1786-03-03",
+      "end_date": "1805-03-03",
+      "filename": "4f68ea3d7964.json"
+    },
+    "e03e766ae8b1": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1786-03-03",
+      "end_date": "1805-03-03",
+      "filename": "e03e766ae8b1.json"
+    },
+    "268e5bc45512": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1790-05-01",
+      "end_date": "1831-03-14",
+      "filename": "268e5bc45512.json"
+    },
+    "85260d7319e1": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1790-05-01",
+      "end_date": "1791-04-30",
+      "filename": "85260d7319e1.json"
+    },
+    "b3f69a600229": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1790-05-01",
+      "end_date": "1791-04-30",
+      "filename": "b3f69a600229.json"
+    },
+    "d264fa47f863": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1791-05-01",
+      "end_date": "1811-06-20",
+      "filename": "d264fa47f863.json"
+    },
+    "5c3e4915cd41": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1791-05-01",
+      "end_date": "1799-02-19",
+      "filename": "5c3e4915cd41.json"
+    },
+    "1e2d5c4d4384": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1799-02-20",
+      "end_date": "1811-02-24",
+      "filename": "1e2d5c4d4384.json"
+    },
+    "3119e949fda4": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1799-02-20",
+      "end_date": "1805-03-03",
+      "filename": "3119e949fda4.json"
+    },
+    "7f3c294bacae": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1805-03-04",
+      "end_date": "1824-02-16",
+      "filename": "7f3c294bacae.json"
+    },
+    "195628d2c6b1": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1805-03-04",
+      "end_date": "1821-02-27",
+      "filename": "195628d2c6b1.json"
+    },
+    "9a5679356950": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1805-03-04",
+      "end_date": "1808-03-07",
+      "filename": "9a5679356950.json"
+    },
+    "314faa2bdf17": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1805-03-04",
+      "end_date": "1808-03-07",
+      "filename": "314faa2bdf17.json"
+    },
+    "64216f13af97": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1808-03-08",
+      "end_date": "1814-01-27",
+      "filename": "64216f13af97.json"
+    },
+    "5a612cd94607": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1808-03-08",
+      "end_date": "1809-05-31",
+      "filename": "5a612cd94607.json"
+    },
+    "f1e00733a5de": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1809-06-01",
+      "end_date": "1811-06-20",
+      "filename": "f1e00733a5de.json"
+    },
+    "b073e11c7c49": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1809-06-01",
+      "end_date": "1811-02-24",
+      "filename": "b073e11c7c49.json"
+    },
+    "b798bddc5991": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1811-06-21",
+      "end_date": "1812-06-11",
+      "filename": "b798bddc5991.json"
+    },
+    "c5d13ded4803": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1811-06-21",
+      "end_date": "1812-06-11",
+      "filename": "c5d13ded4803.json"
+    },
+    "5e20a0eb8ff6": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1811-02-25",
+      "end_date": "1812-02-28",
+      "filename": "5e20a0eb8ff6.json"
+    },
+    "0c0239993bd5": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1811-02-25",
+      "end_date": "1812-02-28",
+      "filename": "0c0239993bd5.json"
+    },
+    "9b7d434d49bc": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1812-02-29",
+      "end_date": "1821-03-07",
+      "filename": "9b7d434d49bc.json"
+    },
+    "b28fd783aab2": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1812-02-29",
+      "end_date": "1813-02-25",
+      "filename": "b28fd783aab2.json"
+    },
+    "86296869a7bc": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1812-06-12",
+      "end_date": "1813-02-15",
+      "filename": "86296869a7bc.json"
+    },
+    "191d008a1ec8": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1812-06-12",
+      "end_date": "1813-02-15",
+      "filename": "191d008a1ec8.json"
+    },
+    "e9bec48102d1": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1813-02-26",
+      "end_date": "1817-06-13",
+      "filename": "e9bec48102d1.json"
+    },
+    "660a4503689f": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1813-02-26",
+      "end_date": "1814-01-27",
+      "filename": "660a4503689f.json"
+    },
+    "af433bf78d42": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1813-02-16",
+      "end_date": "1816-02-14",
+      "filename": "af433bf78d42.json"
+    },
+    "08292b644f5a": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1813-02-16",
+      "end_date": "1813-02-25",
+      "filename": "08292b644f5a.json"
+    },
+    "947033dbcd2a": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1814-01-28",
+      "end_date": "1819-02-01",
+      "filename": "947033dbcd2a.json"
+    },
+    "4483ed3a8105": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1814-01-28",
+      "end_date": "1821-02-07",
+      "filename": "4483ed3a8105.json"
+    },
+    "b2b6db58b28a": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1816-06-17",
+      "end_date": "1827-07-02",
+      "filename": "b2b6db58b28a.json"
+    },
+    "a63974d087ac": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1816-06-17",
+      "end_date": "1817-06-13",
+      "filename": "a63974d087ac.json"
+    },
+    "28915c37d4da": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1816-02-15",
+      "end_date": "1816-06-16",
+      "filename": "28915c37d4da.json"
+    },
+    "f1acdec127d4": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1816-02-15",
+      "end_date": "1816-06-16",
+      "filename": "f1acdec127d4.json"
+    },
+    "20bc77e790b7": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1817-06-14",
+      "end_date": "1827-07-02",
+      "filename": "20bc77e790b7.json"
+    },
+    "23e55990f185": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1817-06-14",
+      "end_date": "1819-02-01",
+      "filename": "23e55990f185.json"
+    },
+    "0bed9e6df5f4": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1819-02-02",
+      "end_date": "1821-03-16",
+      "filename": "0bed9e6df5f4.json"
+    },
+    "0f4dfe3a615b": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1819-02-02",
+      "end_date": "1821-02-07",
+      "filename": "0f4dfe3a615b.json"
+    },
+    "914d2a463ec1": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1821-03-08",
+      "end_date": "1827-07-02",
+      "filename": "914d2a463ec1.json"
+    },
+    "490fc8293628": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1821-02-28",
+      "end_date": "1824-02-16",
+      "filename": "490fc8293628.json"
+    },
+    "fd111c5a51fa": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1821-02-28",
+      "end_date": "1823-01-30",
+      "filename": "fd111c5a51fa.json"
+    },
+    "649dda64256a": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1821-03-08",
+      "end_date": "1821-03-16",
+      "filename": "649dda64256a.json"
+    },
+    "4bed3a19ca8d": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1821-03-17",
+      "end_date": "1827-07-02",
+      "filename": "4bed3a19ca8d.json"
+    },
+    "b330d91246c5": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1821-03-17",
+      "end_date": "1823-01-30",
+      "filename": "b330d91246c5.json"
+    },
+    "1743f9b5975b": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1821-02-08",
+      "end_date": "1821-02-27",
+      "filename": "1743f9b5975b.json"
+    },
+    "ee009f879296": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1821-02-08",
+      "end_date": "1821-03-07",
+      "filename": "ee009f879296.json"
+    },
+    "8a529112ca5b": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1823-01-31",
+      "end_date": "1830-03-11",
+      "filename": "8a529112ca5b.json"
+    },
+    "51bb423c7755": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1823-01-31",
+      "end_date": "1830-03-05",
+      "filename": "51bb423c7755.json"
+    },
+    "b923abced530": {
+      "county_id": "mes_york",
+      "name": "YORK",
+      "start_date": "1824-02-17",
+      "end_date": "2000-12-31",
+      "filename": "b923abced530.json"
+    },
+    "76d317ee1661": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1824-02-17",
+      "end_date": "1830-03-11",
+      "filename": "76d317ee1661.json"
+    },
+    "ffc170da9ecf": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1827-07-03",
+      "end_date": "1836-02-09",
+      "filename": "ffc170da9ecf.json"
+    },
+    "c203dbae41df": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1827-07-03",
+      "end_date": "1831-03-16",
+      "filename": "c203dbae41df.json"
+    },
+    "78fe306817f8": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1827-07-03",
+      "end_date": "1831-03-14",
+      "filename": "78fe306817f8.json"
+    },
+    "4808b825000f": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1827-07-03",
+      "end_date": "1830-03-05",
+      "filename": "4808b825000f.json"
+    },
+    "3aadab23dba6": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1827-07-03",
+      "end_date": "1835-03-09",
+      "filename": "3aadab23dba6.json"
+    },
+    "d8dd75b63305": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1830-03-17",
+      "end_date": "1842-03-06",
+      "filename": "d8dd75b63305.json"
+    },
+    "90aabc0e1187": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1830-03-17",
+      "end_date": "1838-05-08",
+      "filename": "90aabc0e1187.json"
+    },
+    "4c318daee7cb": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1830-03-06",
+      "end_date": "1835-03-09",
+      "filename": "4c318daee7cb.json"
+    },
+    "bc4ce12c1365": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1830-03-06",
+      "end_date": "1833-02-09",
+      "filename": "bc4ce12c1365.json"
+    },
+    "699239765c46": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1830-03-12",
+      "end_date": "1830-03-16",
+      "filename": "699239765c46.json"
+    },
+    "503139a8ba8e": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1830-03-12",
+      "end_date": "1830-03-16",
+      "filename": "503139a8ba8e.json"
+    },
+    "cce7c61d56e0": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1831-03-17",
+      "end_date": "1839-04-30",
+      "filename": "cce7c61d56e0.json"
+    },
+    "ec08b0ca06cd": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1831-03-17",
+      "end_date": "1835-03-09",
+      "filename": "ec08b0ca06cd.json"
+    },
+    "c7e084f35444": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1831-03-15",
+      "end_date": "1833-02-09",
+      "filename": "c7e084f35444.json"
+    },
+    "d2118bd5067b": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1831-03-15",
+      "end_date": "1831-03-16",
+      "filename": "d2118bd5067b.json"
+    },
+    "5d27bf566031": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1833-02-10",
+      "end_date": "1838-04-29",
+      "filename": "5d27bf566031.json"
+    },
+    "fd298f014252": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1833-02-10",
+      "end_date": "1835-03-09",
+      "filename": "fd298f014252.json"
+    },
+    "6459c456eb87": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1835-03-10",
+      "end_date": "1838-05-08",
+      "filename": "6459c456eb87.json"
+    },
+    "9b696e544b65": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1835-03-10",
+      "end_date": "1838-04-29",
+      "filename": "9b696e544b65.json"
+    },
+    "4b09448c3758": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1835-03-10",
+      "end_date": "1838-03-14",
+      "filename": "4b09448c3758.json"
+    },
+    "c5861100569d": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1835-03-10",
+      "end_date": "1836-02-09",
+      "filename": "c5861100569d.json"
+    },
+    "0490a35d042d": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1836-02-10",
+      "end_date": "1840-03-05",
+      "filename": "0490a35d042d.json"
+    },
+    "7c56f07f21ac": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1836-02-10",
+      "end_date": "1838-03-14",
+      "filename": "7c56f07f21ac.json"
+    },
+    "a7cee52d5ad4": {
+      "county_id": "mes_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1838-05-09",
+      "end_date": "1840-03-17",
+      "filename": "a7cee52d5ad4.json"
+    },
+    "33ad44930408": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1838-05-09",
+      "end_date": "1842-03-06",
+      "filename": "33ad44930408.json"
+    },
+    "7642ffd85313": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1838-05-09",
+      "end_date": "1840-02-28",
+      "filename": "7642ffd85313.json"
+    },
+    "9f95c3a1ec8b": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1838-05-09",
+      "end_date": "1840-02-28",
+      "filename": "9f95c3a1ec8b.json"
+    },
+    "9a033b5622c4": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1838-03-15",
+      "end_date": "1854-04-10",
+      "filename": "9a033b5622c4.json"
+    },
+    "6b68cea8152e": {
+      "county_id": "mes_piscataquis",
+      "name": "PISCATAQUIS",
+      "start_date": "1838-04-30",
+      "end_date": "1844-03-11",
+      "filename": "6b68cea8152e.json"
+    },
+    "cdba7faeb7b2": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1838-03-15",
+      "end_date": "1841-02-19",
+      "filename": "cdba7faeb7b2.json"
+    },
+    "1e6851510850": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1838-04-30",
+      "end_date": "1839-04-30",
+      "filename": "1e6851510850.json"
+    },
+    "74ab5abe4864": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1838-04-30",
+      "end_date": "1838-05-08",
+      "filename": "74ab5abe4864.json"
+    },
+    "9576cc3fcd3c": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1839-05-01",
+      "end_date": "1844-03-11",
+      "filename": "9576cc3fcd3c.json"
+    },
+    "429667748192": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1839-05-01",
+      "end_date": "1841-02-19",
+      "filename": "429667748192.json"
+    },
+    "1d86cb4d3a29": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1839-05-01",
+      "end_date": "1843-03-20",
+      "filename": "1d86cb4d3a29.json"
+    },
+    "89bc887b7116": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1840-03-06",
+      "end_date": "1843-03-23",
+      "filename": "89bc887b7116.json"
+    },
+    "ac712eb6ee43": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1840-03-06",
+      "end_date": "1844-02-29",
+      "filename": "ac712eb6ee43.json"
+    },
+    "e690fa872380": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1840-03-18",
+      "end_date": "1841-04-05",
+      "filename": "e690fa872380.json"
+    },
+    "694967953685": {
+      "county_id": "mes_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1840-03-18",
+      "end_date": "1841-04-05",
+      "filename": "694967953685.json"
+    },
+    "b41cc76b644f": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1840-02-29",
+      "end_date": "1840-03-17",
+      "filename": "b41cc76b644f.json"
+    },
+    "c51ae97c889b": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1840-02-29",
+      "end_date": "1840-03-05",
+      "filename": "c51ae97c889b.json"
+    },
+    "a174f838153f": {
+      "county_id": "mes_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1841-04-06",
+      "end_date": "1847-08-01",
+      "filename": "a174f838153f.json"
+    },
+    "b8777a1f6967": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1841-04-06",
+      "end_date": "1844-02-28",
+      "filename": "b8777a1f6967.json"
+    },
+    "49dbd35de3bf": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1841-02-20",
+      "end_date": "1843-03-20",
+      "filename": "49dbd35de3bf.json"
+    },
+    "1e9c836aa33a": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1841-02-20",
+      "end_date": "1843-03-23",
+      "filename": "1e9c836aa33a.json"
+    },
+    "26f04d5e1ce4": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1842-03-07",
+      "end_date": "1844-03-06",
+      "filename": "26f04d5e1ce4.json"
+    },
+    "79c2ae9cc092": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1842-03-07",
+      "end_date": "1844-02-29",
+      "filename": "79c2ae9cc092.json"
+    },
+    "6ef55a192bc8": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1843-03-24",
+      "end_date": "1852-04-08",
+      "filename": "6ef55a192bc8.json"
+    },
+    "e5140601739c": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1843-03-24",
+      "end_date": "1850-08-19",
+      "filename": "e5140601739c.json"
+    },
+    "db6f2c3eb916": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1843-03-21",
+      "end_date": "1844-03-11",
+      "filename": "db6f2c3eb916.json"
+    },
+    "a162cb739483": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1843-03-21",
+      "end_date": "1844-02-28",
+      "filename": "a162cb739483.json"
+    },
+    "9fec4ba20694": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1844-03-12",
+      "end_date": "1885-03-03",
+      "filename": "9fec4ba20694.json"
+    },
+    "f6f2ccb22bea": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1844-03-12",
+      "end_date": "1885-03-03",
+      "filename": "f6f2ccb22bea.json"
+    },
+    "297a4c84855b": {
+      "county_id": "mes_piscataquis",
+      "name": "PISCATAQUIS",
+      "start_date": "1844-03-12",
+      "end_date": "1885-02-26",
+      "filename": "297a4c84855b.json"
+    },
+    "aef674de376b": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1844-03-12",
+      "end_date": "1850-08-19",
+      "filename": "aef674de376b.json"
+    },
+    "ca3d5813a290": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1844-03-07",
+      "end_date": "1847-08-01",
+      "filename": "ca3d5813a290.json"
+    },
+    "53624b5a333e": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1844-03-07",
+      "end_date": "1847-08-01",
+      "filename": "53624b5a333e.json"
+    },
+    "9dd328f61f7e": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1844-03-12",
+      "end_date": "1849-07-23",
+      "filename": "9dd328f61f7e.json"
+    },
+    "93b4aaa81e14": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1844-03-01",
+      "end_date": "1847-08-01",
+      "filename": "93b4aaa81e14.json"
+    },
+    "3e271c59554d": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1844-02-29",
+      "end_date": "1844-03-11",
+      "filename": "3e271c59554d.json"
+    },
+    "09b7d91a79d9": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1844-02-29",
+      "end_date": "1844-03-11",
+      "filename": "09b7d91a79d9.json"
+    },
+    "e020fb0b1184": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1844-03-01",
+      "end_date": "1844-03-06",
+      "filename": "e020fb0b1184.json"
+    },
+    "991577769f89": {
+      "county_id": "mes_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1847-08-02",
+      "end_date": "2000-12-31",
+      "filename": "991577769f89.json"
+    },
+    "963c0b0b77ea": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1847-08-02",
+      "end_date": "1854-03-30",
+      "filename": "963c0b0b77ea.json"
+    },
+    "6042481db366": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1847-08-02",
+      "end_date": "1854-03-30",
+      "filename": "6042481db366.json"
+    },
+    "bb49926d10d3": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1847-08-02",
+      "end_date": "1849-07-23",
+      "filename": "bb49926d10d3.json"
+    },
+    "4242480cfee0": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1849-07-24",
+      "end_date": "1850-08-07",
+      "filename": "4242480cfee0.json"
+    },
+    "90f029f88ac6": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1849-07-24",
+      "end_date": "1850-08-07",
+      "filename": "90f029f88ac6.json"
+    },
+    "8231aff819de": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1850-08-08",
+      "end_date": "1885-02-26",
+      "filename": "8231aff819de.json"
+    },
+    "0dbae42055c4": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1850-08-08",
+      "end_date": "1854-03-30",
+      "filename": "0dbae42055c4.json"
+    },
+    "a0aef7516238": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1850-08-20",
+      "end_date": "1858-03-14",
+      "filename": "a0aef7516238.json"
+    },
+    "09223f67ab0e": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1850-08-20",
+      "end_date": "1852-04-08",
+      "filename": "09223f67ab0e.json"
+    },
+    "b01c23f2cf21": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1852-04-09",
+      "end_date": "1858-03-14",
+      "filename": "b01c23f2cf21.json"
+    },
+    "e02d15aa9f62": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1852-04-09",
+      "end_date": "1854-03-30",
+      "filename": "e02d15aa9f62.json"
+    },
+    "f14961c47ff3": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1854-04-11",
+      "end_date": "1860-03-31",
+      "filename": "f14961c47ff3.json"
+    },
+    "bcbe8552718b": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1854-04-11",
+      "end_date": "1860-03-31",
+      "filename": "bcbe8552718b.json"
+    },
+    "76fb1b86c09c": {
+      "county_id": "mes_sagadahoc",
+      "name": "SAGADAHOC",
+      "start_date": "1854-04-04",
+      "end_date": "1891-02-04",
+      "filename": "76fb1b86c09c.json"
+    },
+    "e54215ade856": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1854-04-04",
+      "end_date": "1854-04-10",
+      "filename": "e54215ade856.json"
+    },
+    "5b711d512de7": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1854-03-31",
+      "end_date": "1978-06-30",
+      "filename": "5b711d512de7.json"
+    },
+    "63bfd9aec14c": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1854-03-31",
+      "end_date": "1858-03-19",
+      "filename": "63bfd9aec14c.json"
+    },
+    "5c819ea43f62": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1854-03-31",
+      "end_date": "1855-03-15",
+      "filename": "5c819ea43f62.json"
+    },
+    "b97b33ca35d8": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1854-03-31",
+      "end_date": "1855-03-15",
+      "filename": "b97b33ca35d8.json"
+    },
+    "a5965abd8572": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1854-03-31",
+      "end_date": "1854-04-03",
+      "filename": "a5965abd8572.json"
+    },
+    "8933fc53d85c": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1855-03-16",
+      "end_date": "1856-03-11",
+      "filename": "8933fc53d85c.json"
+    },
+    "594cdff99b9f": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1855-03-16",
+      "end_date": "1856-03-11",
+      "filename": "594cdff99b9f.json"
+    },
+    "da1105e006f7": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1856-03-12",
+      "end_date": "1859-04-01",
+      "filename": "da1105e006f7.json"
+    },
+    "05957e78e8a9": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1856-03-12",
+      "end_date": "1858-03-19",
+      "filename": "05957e78e8a9.json"
+    },
+    "9413a646c316": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1858-03-15",
+      "end_date": "1913-03-11",
+      "filename": "9413a646c316.json"
+    },
+    "1f196c2796ab": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1858-03-20",
+      "end_date": "1891-02-04",
+      "filename": "1f196c2796ab.json"
+    },
+    "a301fcde761c": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1858-03-15",
+      "end_date": "1889-03-04",
+      "filename": "a301fcde761c.json"
+    },
+    "42cfa4bca2e8": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1858-03-20",
+      "end_date": "1859-04-01",
+      "filename": "42cfa4bca2e8.json"
+    },
+    "7a87fd85d396": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1859-04-02",
+      "end_date": "1867-02-13",
+      "filename": "7a87fd85d396.json"
+    },
+    "ab6fcad6f8ed": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1859-04-02",
+      "end_date": "1867-02-13",
+      "filename": "ab6fcad6f8ed.json"
+    },
+    "624b05194edf": {
+      "county_id": "mes_knox",
+      "name": "KNOX",
+      "start_date": "1860-04-01",
+      "end_date": "1913-03-11",
+      "filename": "624b05194edf.json"
+    },
+    "fb4320712f79": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1860-04-01",
+      "end_date": "1907-02-20",
+      "filename": "fb4320712f79.json"
+    },
+    "96fae2cd30bf": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1860-04-01",
+      "end_date": "1873-02-25",
+      "filename": "96fae2cd30bf.json"
+    },
+    "1d116da3b0c4": {
+      "county_id": "mes_androscoggin",
+      "name": "ANDROSCOGGIN",
+      "start_date": "1867-02-14",
+      "end_date": "2000-12-31",
+      "filename": "1d116da3b0c4.json"
+    },
+    "17165748f48c": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1867-02-14",
+      "end_date": "1873-02-25",
+      "filename": "17165748f48c.json"
+    },
+    "d445d807fc6c": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1873-02-26",
+      "end_date": "1907-02-20",
+      "filename": "d445d807fc6c.json"
+    },
+    "a5ba54b5d405": {
+      "county_id": "mes_waldo",
+      "name": "WALDO",
+      "start_date": "1873-02-26",
+      "end_date": "2000-12-31",
+      "filename": "a5ba54b5d405.json"
+    },
+    "5ab27a3a5143": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1885-03-04",
+      "end_date": "2000-12-31",
+      "filename": "5ab27a3a5143.json"
+    },
+    "3c2a8e350df2": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1885-03-04",
+      "end_date": "1889-03-04",
+      "filename": "3c2a8e350df2.json"
+    },
+    "0ab98ded0656": {
+      "county_id": "mes_piscataquis",
+      "name": "PISCATAQUIS",
+      "start_date": "1885-02-27",
+      "end_date": "2000-12-31",
+      "filename": "0ab98ded0656.json"
+    },
+    "f7b3aa9f6214": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET",
+      "start_date": "1885-02-27",
+      "end_date": "2000-12-31",
+      "filename": "f7b3aa9f6214.json"
+    },
+    "fd836ad7ae4f": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1889-03-05",
+      "end_date": "1903-03-27",
+      "filename": "fd836ad7ae4f.json"
+    },
+    "78bdac78fed0": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1889-03-05",
+      "end_date": "1903-03-27",
+      "filename": "78bdac78fed0.json"
+    },
+    "429ca090cf9b": {
+      "county_id": "mes_sagadahoc",
+      "name": "SAGADAHOC",
+      "start_date": "1891-02-05",
+      "end_date": "2000-12-31",
+      "filename": "429ca090cf9b.json"
+    },
+    "6facf5f1d1fc": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1891-02-05",
+      "end_date": "1978-06-30",
+      "filename": "6facf5f1d1fc.json"
+    },
+    "4a559e80d177": {
+      "county_id": "mes_aroostook",
+      "name": "AROOSTOOK",
+      "start_date": "1903-03-28",
+      "end_date": "2000-12-31",
+      "filename": "4a559e80d177.json"
+    },
+    "51a370bc4017": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT",
+      "start_date": "1903-03-28",
+      "end_date": "2000-12-31",
+      "filename": "51a370bc4017.json"
+    },
+    "80eca8504b4f": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC",
+      "start_date": "1907-02-21",
+      "end_date": "2000-12-31",
+      "filename": "80eca8504b4f.json"
+    },
+    "a5c3800bf12b": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1907-02-21",
+      "end_date": "2000-12-31",
+      "filename": "a5c3800bf12b.json"
+    },
+    "6210b43f731d": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK",
+      "start_date": "1913-03-12",
+      "end_date": "2000-12-31",
+      "filename": "6210b43f731d.json"
+    },
+    "1a634b1cbf33": {
+      "county_id": "mes_knox",
+      "name": "KNOX",
+      "start_date": "1913-03-12",
+      "end_date": "2000-12-31",
+      "filename": "1a634b1cbf33.json"
+    },
+    "ad62146676d2": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD",
+      "start_date": "1978-07-01",
+      "end_date": "2000-12-31",
+      "filename": "ad62146676d2.json"
+    },
+    "701ce5c8f96d": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1978-07-01",
+      "end_date": "2000-12-31",
+      "filename": "701ce5c8f96d.json"
+    }
+  }
+}

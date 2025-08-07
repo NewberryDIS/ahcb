@@ -1,0 +1,1021 @@
+{
+  "state": "SD",
+  "total_features": 145,
+  "features": {
+    "cc51b1f046e3": {
+      "county_id": "sds_boreman",
+      "name": "BOREMAN (ext)",
+      "start_date": "1889-11-02",
+      "end_date": "1909-03-01",
+      "filename": "cc51b1f046e3.json"
+    },
+    "72fb3ac89313": {
+      "county_id": "sds_ewing",
+      "name": "EWING (ext)",
+      "start_date": "1889-11-02",
+      "end_date": "1894-11-05",
+      "filename": "72fb3ac89313.json"
+    },
+    "c07e4d4d4804": {
+      "county_id": "sds_martin",
+      "name": "MARTIN (ext)",
+      "start_date": "1889-11-02",
+      "end_date": "1894-11-05",
+      "filename": "c07e4d4d4804.json"
+    },
+    "74e006e67949": {
+      "county_id": "sds_schnasse",
+      "name": "SCHNASSE (ext)",
+      "start_date": "1889-11-02",
+      "end_date": "1909-03-01",
+      "filename": "74e006e67949.json"
+    },
+    "d74ef030c28c": {
+      "county_id": "sds_wagner",
+      "name": "WAGNER (ext)",
+      "start_date": "1889-11-02",
+      "end_date": "1898-11-07",
+      "filename": "d74ef030c28c.json"
+    },
+    "8d6c46e80e61": {
+      "county_id": "sds_presho",
+      "name": "PRESHO (ext)",
+      "start_date": "1891-06-04",
+      "end_date": "1898-11-07",
+      "filename": "8d6c46e80e61.json"
+    },
+    "54430fa2f6fd": {
+      "county_id": "sds_lyman",
+      "name": "LYMAN",
+      "start_date": "1891-06-04",
+      "end_date": "1897-06-02",
+      "filename": "54430fa2f6fd.json"
+    },
+    "fe5c07bc1008": {
+      "county_id": "sds_gregory",
+      "name": "GREGORY",
+      "start_date": "1891-06-04",
+      "end_date": "1897-06-02",
+      "filename": "fe5c07bc1008.json"
+    },
+    "c19f15df2558": {
+      "county_id": "sds_tripp",
+      "name": "TRIPP",
+      "start_date": "1891-06-04",
+      "end_date": "1907-06-05",
+      "filename": "c19f15df2558.json"
+    },
+    "f692abc7e3ee": {
+      "county_id": "sds_stanley",
+      "name": "STANLEY",
+      "start_date": "1893-02-28",
+      "end_date": "1898-11-07",
+      "filename": "f692abc7e3ee.json"
+    },
+    "c504b66f13c5": {
+      "county_id": "sds_sterling",
+      "name": "STERLING (ext)",
+      "start_date": "1893-02-28",
+      "end_date": "1898-11-07",
+      "filename": "c504b66f13c5.json"
+    },
+    "e8e9abca98da": {
+      "county_id": "sds_armstrong",
+      "name": "PYATT (ext)",
+      "start_date": "1893-02-28",
+      "end_date": "1895-06-05",
+      "filename": "e8e9abca98da.json"
+    },
+    "33c5856f44da": {
+      "county_id": "sds_nowlin",
+      "name": "NOWLIN (ext)",
+      "start_date": "1893-02-28",
+      "end_date": "1898-11-07",
+      "filename": "33c5856f44da.json"
+    },
+    "e02639121200": {
+      "county_id": "sds_pratt",
+      "name": "PRATT (ext)",
+      "start_date": "1893-02-28",
+      "end_date": "1898-11-07",
+      "filename": "e02639121200.json"
+    },
+    "327b1f7f7770": {
+      "county_id": "sds_butte",
+      "name": "BUTTE",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "327b1f7f7770.json"
+    },
+    "50f356dd5122": {
+      "county_id": "sds_harding",
+      "name": "HARDING",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "50f356dd5122.json"
+    },
+    "b60292641e75": {
+      "county_id": "sds_scobey",
+      "name": "SCOBEY (ext)",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "b60292641e75.json"
+    },
+    "33f32ab8c5c4": {
+      "county_id": "sds_choteau",
+      "name": "CHOTEAU (ext)",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "33f32ab8c5c4.json"
+    },
+    "d1bf6c87cd1d": {
+      "county_id": "sds_delano",
+      "name": "DELANO (ext)",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "d1bf6c87cd1d.json"
+    },
+    "ce816f835e0d": {
+      "county_id": "sds_martin",
+      "name": "MARTIN (ext)",
+      "start_date": "1894-11-06",
+      "end_date": "1898-11-07",
+      "filename": "ce816f835e0d.json"
+    },
+    "c323dc22e833": {
+      "county_id": "sds_armstrong",
+      "name": "ARMSTRONG (ext)",
+      "start_date": "1895-06-06",
+      "end_date": "1898-11-07",
+      "filename": "c323dc22e833.json"
+    },
+    "9d03488dfdd0": {
+      "county_id": "sds_gregory",
+      "name": "GREGORY",
+      "start_date": "1897-06-03",
+      "end_date": "2000-12-31",
+      "filename": "9d03488dfdd0.json"
+    },
+    "cefd2e0300b1": {
+      "county_id": "sds_lyman",
+      "name": "LYMAN",
+      "start_date": "1897-06-03",
+      "end_date": "1898-11-07",
+      "filename": "cefd2e0300b1.json"
+    },
+    "9b6930582692": {
+      "county_id": "sds_butte",
+      "name": "BUTTE",
+      "start_date": "1898-11-08",
+      "end_date": "1908-11-02",
+      "filename": "9b6930582692.json"
+    },
+    "6b877b1f6b60": {
+      "county_id": "sds_pennington",
+      "name": "PENNINGTON",
+      "start_date": "1898-11-08",
+      "end_date": "2000-12-31",
+      "filename": "6b877b1f6b60.json"
+    },
+    "cf9639c93baa": {
+      "county_id": "sds_meade",
+      "name": "MEADE",
+      "start_date": "1898-11-08",
+      "end_date": "2000-12-31",
+      "filename": "cf9639c93baa.json"
+    },
+    "bde63fdb5ea8": {
+      "county_id": "sds_lyman",
+      "name": "LYMAN",
+      "start_date": "1898-11-08",
+      "end_date": "1916-11-06",
+      "filename": "bde63fdb5ea8.json"
+    },
+    "e852fab27cde": {
+      "county_id": "sds_stanley",
+      "name": "STANLEY",
+      "start_date": "1898-11-08",
+      "end_date": "1914-11-02",
+      "filename": "e852fab27cde.json"
+    },
+    "019632c37e74": {
+      "county_id": "sds_armstrong",
+      "name": "ARMSTRONG (ext)",
+      "start_date": "1898-11-08",
+      "end_date": "1911-01-30",
+      "filename": "019632c37e74.json"
+    },
+    "c6af13027a19": {
+      "county_id": "sds_jackson",
+      "name": "JACKSON",
+      "start_date": "1898-11-08",
+      "end_date": "1909-06-02",
+      "filename": "c6af13027a19.json"
+    },
+    "0df8f52b3ea5": {
+      "county_id": "sds_presho",
+      "name": "PRESHO (ext)",
+      "start_date": "1898-11-08",
+      "end_date": "1907-06-05",
+      "filename": "0df8f52b3ea5.json"
+    },
+    "110bda3c4be6": {
+      "county_id": "sds_washington",
+      "name": "WASHINGTON (ext)",
+      "start_date": "1898-11-08",
+      "end_date": "1909-06-02",
+      "filename": "110bda3c4be6.json"
+    },
+    "9232102a7a53": {
+      "county_id": "sds_sterling",
+      "name": "STERLING (ext)",
+      "start_date": "1898-11-08",
+      "end_date": "1911-01-31",
+      "filename": "9232102a7a53.json"
+    },
+    "c6ddf3f9c68f": {
+      "county_id": "sds_pratt",
+      "name": "PRATT (ext)",
+      "start_date": "1898-11-08",
+      "end_date": "1909-06-02",
+      "filename": "c6ddf3f9c68f.json"
+    },
+    "58efb5317eea": {
+      "county_id": "sds_nca7",
+      "name": "NCA 7",
+      "start_date": "1898-11-08",
+      "end_date": "1907-06-05",
+      "filename": "58efb5317eea.json"
+    },
+    "7d9e6605f3d8": {
+      "county_id": "sds_nca22",
+      "name": "NCA 22",
+      "start_date": "1898-11-08",
+      "end_date": "1907-06-05",
+      "filename": "7d9e6605f3d8.json"
+    },
+    "1fa0a954b23b": {
+      "county_id": "sds_clay",
+      "name": "CLAY",
+      "start_date": "1902-11-04",
+      "end_date": "2000-12-31",
+      "filename": "1fa0a954b23b.json"
+    },
+    "12c566036af0": {
+      "county_id": "sds_tripp",
+      "name": "TRIPP",
+      "start_date": "1907-06-06",
+      "end_date": "2000-12-31",
+      "filename": "12c566036af0.json"
+    },
+    "16c70dd7beb1": {
+      "county_id": "sds_nca7",
+      "name": "NCA 7",
+      "start_date": "1907-06-06",
+      "end_date": "1909-06-02",
+      "filename": "16c70dd7beb1.json"
+    },
+    "545dceef197f": {
+      "county_id": "sds_perkins",
+      "name": "PERKINS",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "545dceef197f.json"
+    },
+    "05d554dc957f": {
+      "county_id": "sds_harding",
+      "name": "HARDING",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "05d554dc957f.json"
+    },
+    "87247b4c7218": {
+      "county_id": "sds_butte",
+      "name": "BUTTE",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "87247b4c7218.json"
+    },
+    "d0a55fb24cb4": {
+      "county_id": "sds_corson",
+      "name": "CORSON",
+      "start_date": "1909-03-02",
+      "end_date": "2000-12-31",
+      "filename": "d0a55fb24cb4.json"
+    },
+    "9ac848405595": {
+      "county_id": "sds_bennett",
+      "name": "BENNETT",
+      "start_date": "1909-06-03",
+      "end_date": "1911-03-01",
+      "filename": "9ac848405595.json"
+    },
+    "488ae6e9d9ad": {
+      "county_id": "sds_todd",
+      "name": "TODD",
+      "start_date": "1909-06-03",
+      "end_date": "1911-03-01",
+      "filename": "488ae6e9d9ad.json"
+    },
+    "3aa0be6574a8": {
+      "county_id": "sds_washington",
+      "name": "WASHINGTON (ext)",
+      "start_date": "1909-06-03",
+      "end_date": "1944-12-31",
+      "filename": "3aa0be6574a8.json"
+    },
+    "affcf59c6f89": {
+      "county_id": "sds_shannon",
+      "name": "SHANNON",
+      "start_date": "1909-06-03",
+      "end_date": "1944-12-31",
+      "filename": "affcf59c6f89.json"
+    },
+    "a7ac7b99eafb": {
+      "county_id": "sds_washabaugh",
+      "name": "WASHABAUGH (ext)",
+      "start_date": "1909-06-03",
+      "end_date": "1911-03-01",
+      "filename": "a7ac7b99eafb.json"
+    },
+    "8ea8e04652dd": {
+      "county_id": "sds_mellette",
+      "name": "MELLETTE",
+      "start_date": "1909-06-03",
+      "end_date": "1911-03-01",
+      "filename": "8ea8e04652dd.json"
+    },
+    "8216d05116f3": {
+      "county_id": "sds_dewey",
+      "name": "DEWEY",
+      "start_date": "1909-03-02",
+      "end_date": "1911-01-30",
+      "filename": "8216d05116f3.json"
+    },
+    "776de7e1ad42": {
+      "county_id": "sds_schnasse",
+      "name": "SCHNASSE (ext)",
+      "start_date": "1909-03-02",
+      "end_date": "1911-01-31",
+      "filename": "776de7e1ad42.json"
+    },
+    "4389acb20484": {
+      "county_id": "sds_nca1",
+      "name": "NCA 1",
+      "start_date": "1909-03-02",
+      "end_date": "1911-01-30",
+      "filename": "4389acb20484.json"
+    },
+    "cfdedaa376f3": {
+      "county_id": "sds_ziebach",
+      "name": "ZIEBACH",
+      "start_date": "1911-02-01",
+      "end_date": "2000-12-31",
+      "filename": "cfdedaa376f3.json"
+    },
+    "5208ca916392": {
+      "county_id": "sds_mellette",
+      "name": "MELLETTE",
+      "start_date": "1911-03-02",
+      "end_date": "2000-12-31",
+      "filename": "5208ca916392.json"
+    },
+    "04bc3181d7fd": {
+      "county_id": "sds_todd",
+      "name": "TODD",
+      "start_date": "1911-03-02",
+      "end_date": "2000-12-31",
+      "filename": "04bc3181d7fd.json"
+    },
+    "f8bd1a9436d9": {
+      "county_id": "sds_bennett",
+      "name": "BENNETT",
+      "start_date": "1911-03-02",
+      "end_date": "2000-12-31",
+      "filename": "f8bd1a9436d9.json"
+    },
+    "33fea2405118": {
+      "county_id": "sds_washabaugh",
+      "name": "WASHABAUGH (ext)",
+      "start_date": "1911-03-02",
+      "end_date": "1982-12-31",
+      "filename": "33fea2405118.json"
+    },
+    "cf4132131f4e": {
+      "county_id": "sds_armstrong",
+      "name": "ARMSTRONG (ext)",
+      "start_date": "1911-02-01",
+      "end_date": "1952-12-31",
+      "filename": "cf4132131f4e.json"
+    },
+    "9b33a673a3ed": {
+      "county_id": "sds_armstrong",
+      "name": "ARMSTRONG (ext)",
+      "start_date": "1911-01-31",
+      "end_date": "1911-01-31",
+      "filename": "9b33a673a3ed.json"
+    },
+    "63ae1fdd901f": {
+      "county_id": "sds_dewey",
+      "name": "DEWEY",
+      "start_date": "1911-01-31",
+      "end_date": "1952-12-31",
+      "filename": "63ae1fdd901f.json"
+    },
+    "23a717410429": {
+      "county_id": "sds_nca1",
+      "name": "NCA 1",
+      "start_date": "1911-01-31",
+      "end_date": "1911-01-31",
+      "filename": "23a717410429.json"
+    },
+    "e0833b282c79": {
+      "county_id": "sds_haakon",
+      "name": "HAAKON",
+      "start_date": "1914-11-03",
+      "end_date": "2000-12-31",
+      "filename": "e0833b282c79.json"
+    },
+    "0dc9743a80e2": {
+      "county_id": "sds_stanley",
+      "name": "STANLEY",
+      "start_date": "1914-11-03",
+      "end_date": "2000-12-31",
+      "filename": "0dc9743a80e2.json"
+    },
+    "75c72fb09bdd": {
+      "county_id": "sds_jackson",
+      "name": "JACKSON",
+      "start_date": "1914-11-03",
+      "end_date": "1982-12-31",
+      "filename": "75c72fb09bdd.json"
+    },
+    "4425799fde41": {
+      "county_id": "sds_lyman",
+      "name": "LYMAN",
+      "start_date": "1916-11-07",
+      "end_date": "2000-12-31",
+      "filename": "4425799fde41.json"
+    },
+    "4f9f4ab11b17": {
+      "county_id": "sds_jones",
+      "name": "JONES",
+      "start_date": "1916-11-07",
+      "end_date": "2000-12-31",
+      "filename": "4f9f4ab11b17.json"
+    },
+    "d250fe439b36": {
+      "county_id": "sds_shannon",
+      "name": "SHANNON",
+      "start_date": "1945-01-01",
+      "end_date": "2000-12-31",
+      "filename": "d250fe439b36.json"
+    },
+    "847cddc1b51f": {
+      "county_id": "sds_dewey",
+      "name": "DEWEY",
+      "start_date": "1953-01-01",
+      "end_date": "2000-12-31",
+      "filename": "847cddc1b51f.json"
+    },
+    "92c72038bd53": {
+      "county_id": "sds_jackson",
+      "name": "JACKSON",
+      "start_date": "1983-01-01",
+      "end_date": "2000-12-31",
+      "filename": "92c72038bd53.json"
+    },
+    "13c4febce2aa": {
+      "county_id": "sds_yankton",
+      "name": "YANKTON",
+      "start_date": "1862-04-10",
+      "end_date": "2000-12-31",
+      "filename": "13c4febce2aa.json"
+    },
+    "ac02d48eeb63": {
+      "county_id": "sds_clay",
+      "name": "CLAY",
+      "start_date": "1862-04-10",
+      "end_date": "1902-11-03",
+      "filename": "ac02d48eeb63.json"
+    },
+    "13d901b3e154": {
+      "county_id": "sds_bonhomme",
+      "name": "BON HOMME",
+      "start_date": "1862-04-05",
+      "end_date": "2000-12-31",
+      "filename": "13d901b3e154.json"
+    },
+    "1fb20e26e295": {
+      "county_id": "sds_turner",
+      "name": "TURNER",
+      "start_date": "1871-01-13",
+      "end_date": "2000-12-31",
+      "filename": "1fb20e26e295.json"
+    },
+    "c68e4c032dcd": {
+      "county_id": "sds_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1873-01-10",
+      "end_date": "2000-12-31",
+      "filename": "c68e4c032dcd.json"
+    },
+    "06c354e0931f": {
+      "county_id": "sds_walworth",
+      "name": "WALWORTH",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "06c354e0931f.json"
+    },
+    "e4a1749ecf2c": {
+      "county_id": "sds_sully",
+      "name": "SULLY",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "e4a1749ecf2c.json"
+    },
+    "21d9cdc62c15": {
+      "county_id": "sds_moody",
+      "name": "MOODY",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "21d9cdc62c15.json"
+    },
+    "371d2ec12e1e": {
+      "county_id": "sds_hughes",
+      "name": "HUGHES",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "371d2ec12e1e.json"
+    },
+    "80de6a012644": {
+      "county_id": "sds_lyman",
+      "name": "LYMAN",
+      "start_date": "1873-01-08",
+      "end_date": "1891-06-03",
+      "filename": "80de6a012644.json"
+    },
+    "77a055a216d2": {
+      "county_id": "sds_lake",
+      "name": "LAKE",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "77a055a216d2.json"
+    },
+    "c8628f634651": {
+      "county_id": "sds_codington",
+      "name": "CODINGTON",
+      "start_date": "1877-02-15",
+      "end_date": "2000-12-31",
+      "filename": "c8628f634651.json"
+    },
+    "4a3059165b41": {
+      "county_id": "sds_ziebach01",
+      "name": "ZIEBACH (orig)",
+      "start_date": "1877-02-10",
+      "end_date": "1898-11-07",
+      "filename": "4a3059165b41.json"
+    },
+    "9273b67d2510": {
+      "county_id": "sds_brown",
+      "name": "BROWN",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "9273b67d2510.json"
+    },
+    "2a12890a2d02": {
+      "county_id": "sds_beadle",
+      "name": "BEADLE",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "2a12890a2d02.json"
+    },
+    "6459de7a6cd8": {
+      "county_id": "sds_gregory",
+      "name": "GREGORY",
+      "start_date": "1882-05-23",
+      "end_date": "1891-06-03",
+      "filename": "6459de7a6cd8.json"
+    },
+    "2e9327fdc900": {
+      "county_id": "sds_tripp",
+      "name": "TRIPP",
+      "start_date": "1882-05-23",
+      "end_date": "1891-06-03",
+      "filename": "2e9327fdc900.json"
+    },
+    "511b762795e2": {
+      "county_id": "sds_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1883-04-17",
+      "end_date": "2000-12-31",
+      "filename": "511b762795e2.json"
+    },
+    "3e0df081668a": {
+      "county_id": "sds_custer",
+      "name": "CUSTER",
+      "start_date": "1883-04-03",
+      "end_date": "2000-12-31",
+      "filename": "3e0df081668a.json"
+    },
+    "2db1b9bb7359": {
+      "county_id": "sds_fallriver",
+      "name": "FALL RIVER",
+      "start_date": "1883-04-03",
+      "end_date": "2000-12-31",
+      "filename": "2db1b9bb7359.json"
+    },
+    "5ad0d8182ada": {
+      "county_id": "sds_jerauld",
+      "name": "JERAULD",
+      "start_date": "1883-04-17",
+      "end_date": "2000-12-31",
+      "filename": "5ad0d8182ada.json"
+    },
+    "fb29ad06268e": {
+      "county_id": "sds_miner",
+      "name": "MINER",
+      "start_date": "1883-05-01",
+      "end_date": "2000-12-31",
+      "filename": "fb29ad06268e.json"
+    },
+    "026371cc9bab": {
+      "county_id": "sds_sanborn",
+      "name": "SANBORN",
+      "start_date": "1883-05-01",
+      "end_date": "2000-12-31",
+      "filename": "026371cc9bab.json"
+    },
+    "c956652575b5": {
+      "county_id": "sds_aurora",
+      "name": "AURORA",
+      "start_date": "1883-04-17",
+      "end_date": "2000-12-31",
+      "filename": "c956652575b5.json"
+    },
+    "7cf0c6ca0a5b": {
+      "county_id": "sds_potter",
+      "name": "POTTER",
+      "start_date": "1883-03-08",
+      "end_date": "2000-12-31",
+      "filename": "7cf0c6ca0a5b.json"
+    },
+    "adb9fbed4856": {
+      "county_id": "sds_faulk",
+      "name": "FAULK",
+      "start_date": "1883-03-08",
+      "end_date": "2000-12-31",
+      "filename": "adb9fbed4856.json"
+    },
+    "03404799cca6": {
+      "county_id": "sds_scobey",
+      "name": "SCOBEY (ext)",
+      "start_date": "1883-03-08",
+      "end_date": "1894-11-05",
+      "filename": "03404799cca6.json"
+    },
+    "3b9ccca62328": {
+      "county_id": "sds_delano",
+      "name": "DELANO (ext)",
+      "start_date": "1883-03-08",
+      "end_date": "1894-11-05",
+      "filename": "3b9ccca62328.json"
+    },
+    "acf6a3948c5d": {
+      "county_id": "sds_armstrong",
+      "name": "PYATT (ext)",
+      "start_date": "1883-03-08",
+      "end_date": "1893-02-27",
+      "filename": "acf6a3948c5d.json"
+    },
+    "d3519547a356": {
+      "county_id": "sds_jackson",
+      "name": "JACKSON",
+      "start_date": "1883-03-08",
+      "end_date": "1898-11-07",
+      "filename": "d3519547a356.json"
+    },
+    "1c5ccaf0ed9a": {
+      "county_id": "sds_sterling",
+      "name": "STERLING (ext)",
+      "start_date": "1883-03-08",
+      "end_date": "1893-02-27",
+      "filename": "1c5ccaf0ed9a.json"
+    },
+    "07d9f6f16684": {
+      "county_id": "sds_nowlin",
+      "name": "NOWLIN (ext)",
+      "start_date": "1883-03-08",
+      "end_date": "1893-02-27",
+      "filename": "07d9f6f16684.json"
+    },
+    "cf0f31a8c841": {
+      "county_id": "sds_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "cf0f31a8c841.json"
+    },
+    "8695292dd1fa": {
+      "county_id": "sds_brule",
+      "name": "BRULE",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "8695292dd1fa.json"
+    },
+    "b56cd19af04f": {
+      "county_id": "sds_washington",
+      "name": "WASHINGTON (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1898-11-07",
+      "filename": "b56cd19af04f.json"
+    },
+    "4bb778d20f7a": {
+      "county_id": "sds_shannon",
+      "name": "SHANNON",
+      "start_date": "1883-03-09",
+      "end_date": "1909-06-02",
+      "filename": "4bb778d20f7a.json"
+    },
+    "89328aa7573b": {
+      "county_id": "sds_stanley",
+      "name": "STANLEY",
+      "start_date": "1883-03-09",
+      "end_date": "1893-02-27",
+      "filename": "89328aa7573b.json"
+    },
+    "eb353dc0324e": {
+      "county_id": "sds_choteau",
+      "name": "CHOTEAU (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1894-11-05",
+      "filename": "eb353dc0324e.json"
+    },
+    "cff4bb97a10f": {
+      "county_id": "sds_dewey",
+      "name": "DEWEY",
+      "start_date": "1883-03-09",
+      "end_date": "1909-03-01",
+      "filename": "cff4bb97a10f.json"
+    },
+    "d5a1fd16861d": {
+      "county_id": "sds_lugenbeel",
+      "name": "LUGENBEEL (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1909-06-02",
+      "filename": "d5a1fd16861d.json"
+    },
+    "dea049346fb5": {
+      "county_id": "sds_rinehart",
+      "name": "RINEHART (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1898-11-07",
+      "filename": "dea049346fb5.json"
+    },
+    "27b820493da8": {
+      "county_id": "sds_presho",
+      "name": "PRESHO (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1891-06-03",
+      "filename": "27b820493da8.json"
+    },
+    "d6f079864295": {
+      "county_id": "sds_washabaugh",
+      "name": "WASHABAUGH (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1909-06-02",
+      "filename": "d6f079864295.json"
+    },
+    "ee0c70d6b23d": {
+      "county_id": "sds_pratt",
+      "name": "PRATT (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1893-02-27",
+      "filename": "ee0c70d6b23d.json"
+    },
+    "3e90331252cc": {
+      "county_id": "sds_nca1",
+      "name": "NCA 1",
+      "start_date": "1883-03-09",
+      "end_date": "1909-03-01",
+      "filename": "3e90331252cc.json"
+    },
+    "0699e9100079": {
+      "county_id": "sds_nca7",
+      "name": "NCA 7",
+      "start_date": "1883-03-09",
+      "end_date": "1893-02-27",
+      "filename": "0699e9100079.json"
+    },
+    "16ec6910ee17": {
+      "county_id": "sds_hyde",
+      "name": "HYDE",
+      "start_date": "1883-02-27",
+      "end_date": "2000-12-31",
+      "filename": "16ec6910ee17.json"
+    },
+    "dfe4b3b1a8b6": {
+      "county_id": "sds_marshall",
+      "name": "MARSHALL",
+      "start_date": "1885-05-02",
+      "end_date": "2000-12-31",
+      "filename": "dfe4b3b1a8b6.json"
+    },
+    "fe7c45548875": {
+      "county_id": "sds_clark",
+      "name": "CLARK",
+      "start_date": "1885-05-02",
+      "end_date": "2000-12-31",
+      "filename": "fe7c45548875.json"
+    },
+    "835fb3d1146c": {
+      "county_id": "sds_edmunds",
+      "name": "EDMUNDS",
+      "start_date": "1885-02-06",
+      "end_date": "2000-12-31",
+      "filename": "835fb3d1146c.json"
+    },
+    "29a0793707e0": {
+      "county_id": "sds_mcpherson",
+      "name": "McPHERSON",
+      "start_date": "1885-02-06",
+      "end_date": "2000-12-31",
+      "filename": "29a0793707e0.json"
+    },
+    "4118d880751f": {
+      "county_id": "sds_roberts",
+      "name": "ROBERTS",
+      "start_date": "1885-03-09",
+      "end_date": "2000-12-31",
+      "filename": "4118d880751f.json"
+    },
+    "c95f2c55ed62": {
+      "county_id": "sds_day",
+      "name": "DAY",
+      "start_date": "1889-03-08",
+      "end_date": "2000-12-31",
+      "filename": "c95f2c55ed62.json"
+    },
+    "301bd58d9749": {
+      "county_id": "sds_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1889-03-09",
+      "end_date": "2000-12-31",
+      "filename": "301bd58d9749.json"
+    },
+    "79616f579fb0": {
+      "county_id": "sds_butte",
+      "name": "BUTTE",
+      "start_date": "1889-02-28",
+      "end_date": "1894-11-05",
+      "filename": "79616f579fb0.json"
+    },
+    "5a2e13db7906": {
+      "county_id": "sds_harding",
+      "name": "HARDING",
+      "start_date": "1889-02-28",
+      "end_date": "1894-11-05",
+      "filename": "5a2e13db7906.json"
+    },
+    "19667646d080": {
+      "county_id": "sds_meade",
+      "name": "MEADE",
+      "start_date": "1889-03-09",
+      "end_date": "1898-11-07",
+      "filename": "19667646d080.json"
+    },
+    "65c516a482c4": {
+      "county_id": "sds_grant",
+      "name": "GRANT",
+      "start_date": "1889-03-08",
+      "end_date": "2000-12-31",
+      "filename": "65c516a482c4.json"
+    },
+    "d3cbfb3040a2": {
+      "county_id": "sds_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1871-01-13",
+      "end_date": "2000-12-31",
+      "filename": "d3cbfb3040a2.json"
+    },
+    "a64773381974": {
+      "county_id": "sds_union",
+      "name": "UNION",
+      "start_date": "1871-02-09",
+      "end_date": "2000-12-31",
+      "filename": "a64773381974.json"
+    },
+    "23c10cd68879": {
+      "county_id": "sds_deuel",
+      "name": "DEUEL",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "23c10cd68879.json"
+    },
+    "3a259e7c2a42": {
+      "county_id": "sds_brookings",
+      "name": "BROOKINGS",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "3a259e7c2a42.json"
+    },
+    "57090a56e846": {
+      "county_id": "sds_minnehaha",
+      "name": "MINNEHAHA",
+      "start_date": "1873-01-08",
+      "end_date": "2000-12-31",
+      "filename": "57090a56e846.json"
+    },
+    "28859fee7618": {
+      "county_id": "sds_meyer",
+      "name": "MEYER (ext)",
+      "start_date": "1875-01-11",
+      "end_date": "1909-06-02",
+      "filename": "28859fee7618.json"
+    },
+    "98ba832aea69": {
+      "county_id": "sds_charlesmix",
+      "name": "CHARLES MIX",
+      "start_date": "1875-01-14",
+      "end_date": "2000-12-31",
+      "filename": "98ba832aea69.json"
+    },
+    "b4776e9a0eeb": {
+      "county_id": "sds_pennington",
+      "name": "PENNINGTON",
+      "start_date": "1877-02-10",
+      "end_date": "1898-11-07",
+      "filename": "b4776e9a0eeb.json"
+    },
+    "1087df18b4e0": {
+      "county_id": "sds_hamlin",
+      "name": "HAMLIN",
+      "start_date": "1877-02-15",
+      "end_date": "2000-12-31",
+      "filename": "1087df18b4e0.json"
+    },
+    "0e42a4f10f53": {
+      "county_id": "sds_hutchinson",
+      "name": "HUTCHINSON",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "0e42a4f10f53.json"
+    },
+    "ff4e1f651a83": {
+      "county_id": "sds_kingsbury",
+      "name": "KINGSBURY",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "ff4e1f651a83.json"
+    },
+    "11598163233b": {
+      "county_id": "sds_hand",
+      "name": "HAND",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "11598163233b.json"
+    },
+    "368825d52871": {
+      "county_id": "sds_mccook",
+      "name": "McCOOK",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "368825d52871.json"
+    },
+    "5eb5b9ad52ea": {
+      "county_id": "sds_spink",
+      "name": "SPINK",
+      "start_date": "1879-10-01",
+      "end_date": "2000-12-31",
+      "filename": "5eb5b9ad52ea.json"
+    },
+    "ce37516768d7": {
+      "county_id": "sds_davison",
+      "name": "DAVISON",
+      "start_date": "1881-10-11",
+      "end_date": "2000-12-31",
+      "filename": "ce37516768d7.json"
+    },
+    "a8959e943607": {
+      "county_id": "sds_hanson",
+      "name": "HANSON",
+      "start_date": "1881-10-11",
+      "end_date": "2000-12-31",
+      "filename": "a8959e943607.json"
+    },
+    "de3d2206cf5a": {
+      "county_id": "sds_todd01",
+      "name": "TODD (orig)",
+      "start_date": "1882-05-23",
+      "end_date": "1897-06-02",
+      "filename": "de3d2206cf5a.json"
+    },
+    "c2de2d96a51a": {
+      "county_id": "sds_nca7",
+      "name": "NCA 7",
+      "start_date": "1893-02-28",
+      "end_date": "1898-11-07",
+      "filename": "c2de2d96a51a.json"
+    }
+  }
+}

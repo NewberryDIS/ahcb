@@ -1,0 +1,80 @@
+.all-maps {
+  width: min(1200px, 95vw);
+  margin: 2rem auto;
+}
+.all-maps ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.state-postcard {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 20vh;
+  width: 33vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid var(--accent-color);
+  /* filter: saturate(0); */
+}
+.state-postcard * {
+  transition: var(--global-transition);
+}
+/* .state-postcard::after { */
+/*   content: ""; */
+/*   position: absolute; */
+/*   inset: 0; */
+/*   background-color: rgba(var(--accent), 0.8); */
+/*   opacity: 1; */
+/*   z-index: 3; */
+/*   pointer-events: none; */
+/*   filter: saturate(1); */
+/* } */
+.state-postcard:hover {
+  border: 1px solid white;
+  & .card-img {
+    filter: saturate(1);
+    opacity: 1;
+  }
+  & h3 {
+    opacity: 0;
+  }
+}
+.card-img,
+.card-img-name {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card-img {
+  filter: saturate(0);
+  opacity: 0.5;
+  z-index: 2;
+}
+.card-img-name {
+  z-index: 4;
+}
+.state-postcard a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.state-postcard h3 {
+  text-align: center;
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  color: white;
+  background: black;
+}

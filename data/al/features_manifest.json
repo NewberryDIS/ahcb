@@ -1,0 +1,4619 @@
+{
+  "state": "AL",
+  "total_features": 659,
+  "features": {
+    "2ad6da2f4f58": {
+      "county_id": "gas_bourbon",
+      "name": "BOURBON (Ga., ext)",
+      "start_date": "1785-02-07",
+      "end_date": "1788-01-31",
+      "filename": "2ad6da2f4f58.json"
+    },
+    "6b2ef44fa75e": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1785-02-07",
+      "end_date": "1788-01-31",
+      "filename": "6b2ef44fa75e.json"
+    },
+    "69839fa51bce": {
+      "county_id": "swf_part",
+      "name": "Spanish West Florida",
+      "start_date": "1785-02-07",
+      "end_date": "1813-04-14",
+      "filename": "69839fa51bce.json"
+    },
+    "239d89fb86d9": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1788-02-01",
+      "end_date": "1798-04-06",
+      "filename": "239d89fb86d9.json"
+    },
+    "c75a5bdabebe": {
+      "county_id": "mst",
+      "name": "Mississippi Terr.",
+      "start_date": "1798-04-07",
+      "end_date": "1799-04-01",
+      "filename": "c75a5bdabebe.json"
+    },
+    "ee33c6a4ab82": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1798-04-07",
+      "end_date": "1802-04-23",
+      "filename": "ee33c6a4ab82.json"
+    },
+    "56bb855824e7": {
+      "county_id": "mss_adams",
+      "name": "ADAMS (Miss.)",
+      "start_date": "1799-04-02",
+      "end_date": "1800-06-03",
+      "filename": "56bb855824e7.json"
+    },
+    "59bce7589e89": {
+      "county_id": "mss_jefferson",
+      "name": "PICKERING (Miss.)",
+      "start_date": "1799-04-02",
+      "end_date": "1800-06-03",
+      "filename": "59bce7589e89.json"
+    },
+    "5c13c3d7efbc": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1800-06-04",
+      "end_date": "1809-12-20",
+      "filename": "5c13c3d7efbc.json"
+    },
+    "fc6af04c52fd": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE (Miss.)",
+      "start_date": "1802-01-27",
+      "end_date": "1802-01-29",
+      "filename": "fc6af04c52fd.json"
+    },
+    "d4d64c9a0871": {
+      "county_id": "als_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1802-01-27",
+      "end_date": "1802-01-29",
+      "filename": "d4d64c9a0871.json"
+    },
+    "30628b65eb07": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1802-04-24",
+      "end_date": "1804-03-26",
+      "filename": "30628b65eb07.json"
+    },
+    "894636ecf6c1": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1804-03-27",
+      "end_date": "1808-12-12",
+      "filename": "894636ecf6c1.json"
+    },
+    "d0c21eb6fd51": {
+      "county_id": "olt_part",
+      "name": "Orleans Territory",
+      "start_date": "1804-03-26",
+      "end_date": "1810-12-06",
+      "filename": "d0c21eb6fd51.json"
+    },
+    "08789a58e940": {
+      "county_id": "als_disputed",
+      "name": "Disputed Area",
+      "start_date": "1804-03-26",
+      "end_date": "1813-04-14",
+      "filename": "08789a58e940.json"
+    },
+    "9ea19060506e": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1808-12-13",
+      "end_date": "1818-02-05",
+      "filename": "9ea19060506e.json"
+    },
+    "7512fb4ccc73": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1808-12-13",
+      "end_date": "1809-12-20",
+      "filename": "7512fb4ccc73.json"
+    },
+    "e714dfd79694": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1809-12-21",
+      "end_date": "1818-02-06",
+      "filename": "e714dfd79694.json"
+    },
+    "77c1e569cd10": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1809-12-21",
+      "end_date": "1812-12-09",
+      "filename": "77c1e569cd10.json"
+    },
+    "8e777e57b6c2": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE (Miss.)",
+      "start_date": "1809-12-21",
+      "end_date": "1811-12-08",
+      "filename": "8e777e57b6c2.json"
+    },
+    "4089de0f35db": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1809-12-21",
+      "end_date": "1815-06-28",
+      "filename": "4089de0f35db.json"
+    },
+    "e0f2b12ef570": {
+      "county_id": "olt_felicianacnty",
+      "name": "FELICIANA (Orl Terr)",
+      "start_date": "1810-12-07",
+      "end_date": "1812-04-29",
+      "filename": "e0f2b12ef570.json"
+    },
+    "fd05b8c23d52": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE (Miss.)",
+      "start_date": "1811-12-09",
+      "end_date": "1817-03-02",
+      "filename": "fd05b8c23d52.json"
+    },
+    "b7f0954373e4": {
+      "county_id": "mss_greene",
+      "name": "GREENE (Miss.)",
+      "start_date": "1811-12-09",
+      "end_date": "1817-03-02",
+      "filename": "b7f0954373e4.json"
+    },
+    "7f8e728493e6": {
+      "county_id": "olt_pascagoulaparish",
+      "name": "PASCAGOULA (Orl T)",
+      "start_date": "1811-01-26",
+      "end_date": "1812-04-29",
+      "filename": "7f8e728493e6.json"
+    },
+    "f99eddd72a4b": {
+      "county_id": "olt_pascagoulaparish",
+      "name": "PASCAGOULA (Orl T)",
+      "start_date": "1811-01-04",
+      "end_date": "1811-01-25",
+      "filename": "f99eddd72a4b.json"
+    },
+    "e7ab5adc57eb": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1812-12-10",
+      "end_date": "1829-01-25",
+      "filename": "e7ab5adc57eb.json"
+    },
+    "2456d520f39b": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1812-12-10",
+      "end_date": "1818-02-06",
+      "filename": "2456d520f39b.json"
+    },
+    "bbf9e700174b": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1812-08-01",
+      "end_date": "1812-12-17",
+      "filename": "bbf9e700174b.json"
+    },
+    "50660e4f8f6b": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1812-12-18",
+      "end_date": "1818-02-06",
+      "filename": "50660e4f8f6b.json"
+    },
+    "472ca912af40": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON (Miss.)",
+      "start_date": "1812-12-18",
+      "end_date": "1817-03-02",
+      "filename": "472ca912af40.json"
+    },
+    "f4bb971aee00": {
+      "county_id": "mst_part",
+      "name": "Mississippi Terr.",
+      "start_date": "1812-04-30",
+      "end_date": "1812-07-31",
+      "filename": "f4bb971aee00.json"
+    },
+    "458305bc1e95": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1815-06-29",
+      "end_date": "1816-12-05",
+      "filename": "458305bc1e95.json"
+    },
+    "bc42bb2e18e5": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1815-06-29",
+      "end_date": "1818-02-05",
+      "filename": "bc42bb2e18e5.json"
+    },
+    "99f50ffaf2b1": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1816-12-06",
+      "end_date": "1818-02-08",
+      "filename": "99f50ffaf2b1.json"
+    },
+    "3e11981e9c56": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1816-12-06",
+      "end_date": "1818-02-05",
+      "filename": "3e11981e9c56.json"
+    },
+    "492a86f077ba": {
+      "county_id": "als_nca3",
+      "name": "NCA 3",
+      "start_date": "1817-03-03",
+      "end_date": "1818-02-06",
+      "filename": "492a86f077ba.json"
+    },
+    "fe247f2ffa29": {
+      "county_id": "als_nca2",
+      "name": "NCA 2",
+      "start_date": "1817-03-03",
+      "end_date": "1818-02-06",
+      "filename": "fe247f2ffa29.json"
+    },
+    "79daeb6f1259": {
+      "county_id": "als_nca4",
+      "name": "NCA 4",
+      "start_date": "1817-03-03",
+      "end_date": "1818-02-06",
+      "filename": "79daeb6f1259.json"
+    },
+    "5ea17e5eafd1": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "5ea17e5eafd1.json"
+    },
+    "9a765c1f0996": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1818-02-13",
+      "end_date": "1819-12-12",
+      "filename": "9a765c1f0996.json"
+    },
+    "909086226c75": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1818-02-13",
+      "end_date": "1819-12-12",
+      "filename": "909086226c75.json"
+    },
+    "1b984b536eb6": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1818-02-13",
+      "end_date": "1818-11-19",
+      "filename": "1b984b536eb6.json"
+    },
+    "f856cbdf4108": {
+      "county_id": "als_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "f856cbdf4108.json"
+    },
+    "d7e6ebcf081a": {
+      "county_id": "als_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "d7e6ebcf081a.json"
+    },
+    "c4dfdc05dff6": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1818-02-07",
+      "end_date": "1820-05-28",
+      "filename": "c4dfdc05dff6.json"
+    },
+    "87490458a745": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1818-02-07",
+      "end_date": "1820-05-28",
+      "filename": "87490458a745.json"
+    },
+    "34dca89965a9": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1818-02-07",
+      "end_date": "1819-12-12",
+      "filename": "34dca89965a9.json"
+    },
+    "fd6d64482f75": {
+      "county_id": "als_bibb",
+      "name": "CAHAWBA",
+      "start_date": "1818-02-07",
+      "end_date": "1818-11-19",
+      "filename": "fd6d64482f75.json"
+    },
+    "6a50d6f15b9d": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1818-02-07",
+      "end_date": "1818-11-19",
+      "filename": "6a50d6f15b9d.json"
+    },
+    "2aea5cc86530": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-02-07",
+      "end_date": "1818-02-08",
+      "filename": "2aea5cc86530.json"
+    },
+    "74c09920e74e": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-02-07",
+      "end_date": "1818-11-19",
+      "filename": "74c09920e74e.json"
+    },
+    "ade5415faf16": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1818-02-12",
+      "end_date": "1819-12-12",
+      "filename": "ade5415faf16.json"
+    },
+    "f74db63bd4a1": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1818-02-09",
+      "end_date": "1818-11-19",
+      "filename": "f74db63bd4a1.json"
+    },
+    "cd823f65b2f9": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-02-09",
+      "end_date": "1818-11-19",
+      "filename": "cd823f65b2f9.json"
+    },
+    "4418a34ea26a": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1818-02-09",
+      "end_date": "1818-02-12",
+      "filename": "4418a34ea26a.json"
+    },
+    "f7b6c9453655": {
+      "county_id": "als_bibb",
+      "name": "CAHAWBA",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "f7b6c9453655.json"
+    },
+    "66d0d18058c1": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "66d0d18058c1.json"
+    },
+    "25533c40812e": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "25533c40812e.json"
+    },
+    "c482b37bd2a9": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "c482b37bd2a9.json"
+    },
+    "a62c905a28a8": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-11-20",
+      "end_date": "1818-11-20",
+      "filename": "a62c905a28a8.json"
+    },
+    "d1ce03367e1e": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1818-11-20",
+      "end_date": "1818-11-20",
+      "filename": "d1ce03367e1e.json"
+    },
+    "8cc40fb8c2c2": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "8cc40fb8c2c2.json"
+    },
+    "be6fcb28472a": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-11-21",
+      "end_date": "1819-12-12",
+      "filename": "be6fcb28472a.json"
+    },
+    "52f741ff28df": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1818-11-21",
+      "end_date": "1819-12-12",
+      "filename": "52f741ff28df.json"
+    },
+    "82446f109afe": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1818-11-21",
+      "end_date": "1819-12-12",
+      "filename": "82446f109afe.json"
+    },
+    "92051b3ea45c": {
+      "county_id": "als_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1818-02-06",
+      "end_date": "1895-02-05",
+      "filename": "92051b3ea45c.json"
+    },
+    "e84ed553eec6": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1818-02-06",
+      "end_date": "1832-01-20",
+      "filename": "e84ed553eec6.json"
+    },
+    "b3bb50795539": {
+      "county_id": "als_morgan",
+      "name": "COTACO",
+      "start_date": "1818-02-06",
+      "end_date": "1821-06-13",
+      "filename": "b3bb50795539.json"
+    },
+    "f4b5b7955cfc": {
+      "county_id": "als_limestone",
+      "name": "LIMESTONE",
+      "start_date": "1818-02-06",
+      "end_date": "1821-11-26",
+      "filename": "f4b5b7955cfc.json"
+    },
+    "259bb470f3e4": {
+      "county_id": "als_lauderdale",
+      "name": "LAUDERDALE",
+      "start_date": "1818-02-06",
+      "end_date": "1821-11-26",
+      "filename": "259bb470f3e4.json"
+    },
+    "ad7ac73bbc9d": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1818-02-06",
+      "end_date": "1819-12-12",
+      "filename": "ad7ac73bbc9d.json"
+    },
+    "97a68530d086": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-12",
+      "filename": "97a68530d086.json"
+    },
+    "9a4fa639e9a4": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-11",
+      "filename": "9a4fa639e9a4.json"
+    },
+    "ab4b78fe4487": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1818-02-06",
+      "end_date": "1819-12-12",
+      "filename": "ab4b78fe4487.json"
+    },
+    "9a0c55d9c062": {
+      "county_id": "als_nca6",
+      "name": "NCA 6",
+      "start_date": "1818-02-06",
+      "end_date": "1819-12-16",
+      "filename": "9a0c55d9c062.json"
+    },
+    "1285f795a272": {
+      "county_id": "als_nca7",
+      "name": "NCA 7",
+      "start_date": "1818-02-06",
+      "end_date": "1819-12-16",
+      "filename": "1285f795a272.json"
+    },
+    "32d3d6771c3e": {
+      "county_id": "als_nca5",
+      "name": "NCA 5",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-11",
+      "filename": "32d3d6771c3e.json"
+    },
+    "1bac102dfe43": {
+      "county_id": "als_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-06",
+      "filename": "1bac102dfe43.json"
+    },
+    "923655f65ef3": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-06",
+      "filename": "923655f65ef3.json"
+    },
+    "beabd0b3b307": {
+      "county_id": "als_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-12",
+      "filename": "beabd0b3b307.json"
+    },
+    "9e96bf716aa5": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1819-12-13",
+      "end_date": "1837-12-01",
+      "filename": "9e96bf716aa5.json"
+    },
+    "6e2c3263e0d6": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1819-12-13",
+      "end_date": "1829-01-25",
+      "filename": "6e2c3263e0d6.json"
+    },
+    "f6392d8852a1": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1819-12-13",
+      "end_date": "1828-01-02",
+      "filename": "f6392d8852a1.json"
+    },
+    "dc182d8ed029": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1819-12-13",
+      "end_date": "1827-01-11",
+      "filename": "dc182d8ed029.json"
+    },
+    "56f72de18502": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1819-12-13",
+      "end_date": "1826-01-05",
+      "filename": "56f72de18502.json"
+    },
+    "0dd5b7a0057a": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1819-12-13",
+      "end_date": "1822-12-29",
+      "filename": "0dd5b7a0057a.json"
+    },
+    "64d9f8c5735a": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1819-12-13",
+      "end_date": "1822-12-26",
+      "filename": "64d9f8c5735a.json"
+    },
+    "edfdb33a493c": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1819-12-13",
+      "end_date": "1822-12-26",
+      "filename": "edfdb33a493c.json"
+    },
+    "1a5a95d72b38": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1819-12-13",
+      "end_date": "1821-12-06",
+      "filename": "1a5a95d72b38.json"
+    },
+    "41262166bba9": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1819-12-13",
+      "end_date": "1821-03-31",
+      "filename": "41262166bba9.json"
+    },
+    "9ab6f7595c73": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1819-12-13",
+      "end_date": "1821-03-31",
+      "filename": "9ab6f7595c73.json"
+    },
+    "2f257e4d668c": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1819-12-13",
+      "end_date": "1821-12-06",
+      "filename": "2f257e4d668c.json"
+    },
+    "15e6301151c2": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1819-12-13",
+      "end_date": "1821-12-06",
+      "filename": "15e6301151c2.json"
+    },
+    "6795f0152a07": {
+      "county_id": "als_greene",
+      "name": "GREENE",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-19",
+      "filename": "6795f0152a07.json"
+    },
+    "e95b16aa0b2f": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-19",
+      "filename": "e95b16aa0b2f.json"
+    },
+    "da0511e3e825": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-15",
+      "filename": "da0511e3e825.json"
+    },
+    "59c97fe07c5e": {
+      "county_id": "als_bibb",
+      "name": "CAHAWBA",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-03",
+      "filename": "59c97fe07c5e.json"
+    },
+    "773c0c3fc781": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-12",
+      "filename": "773c0c3fc781.json"
+    },
+    "35e153d604d1": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-18",
+      "filename": "35e153d604d1.json"
+    },
+    "5aa1e739cbae": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1819-12-13",
+      "end_date": "1820-05-28",
+      "filename": "5aa1e739cbae.json"
+    },
+    "9fd6b1892251": {
+      "county_id": "als_nca9",
+      "name": "NCA 9",
+      "start_date": "1819-12-13",
+      "end_date": "1827-02-28",
+      "filename": "9fd6b1892251.json"
+    },
+    "106b349d9374": {
+      "county_id": "als_nca6",
+      "name": "NCA 6",
+      "start_date": "1819-12-17",
+      "end_date": "1832-12-17",
+      "filename": "106b349d9374.json"
+    },
+    "5cc373b14486": {
+      "county_id": "als_nca8",
+      "name": "NCA 8",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-19",
+      "filename": "5cc373b14486.json"
+    },
+    "6a27863262df": {
+      "county_id": "als_nca7",
+      "name": "NCA 7",
+      "start_date": "1819-12-17",
+      "end_date": "1820-12-18",
+      "filename": "6a27863262df.json"
+    },
+    "ed5a78604b61": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1820-12-16",
+      "end_date": "1832-12-20",
+      "filename": "ed5a78604b61.json"
+    },
+    "71fe773b9bb5": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1820-12-16",
+      "end_date": "1829-01-26",
+      "filename": "71fe773b9bb5.json"
+    },
+    "27a9105daac9": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1820-12-16",
+      "end_date": "1829-01-25",
+      "filename": "27a9105daac9.json"
+    },
+    "166b9f92768c": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1820-12-13",
+      "end_date": "1827-01-11",
+      "filename": "166b9f92768c.json"
+    },
+    "14c02276c764": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1820-12-19",
+      "end_date": "1824-12-19",
+      "filename": "14c02276c764.json"
+    },
+    "1bd7de2840f3": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1820-12-19",
+      "end_date": "1822-12-31",
+      "filename": "1bd7de2840f3.json"
+    },
+    "96cab43ecec2": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1820-12-19",
+      "end_date": "1820-12-19",
+      "filename": "96cab43ecec2.json"
+    },
+    "2e6ac2054f38": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1820-12-13",
+      "end_date": "1820-12-19",
+      "filename": "2e6ac2054f38.json"
+    },
+    "d534fce1ec59": {
+      "county_id": "als_nca10",
+      "name": "NCA 10",
+      "start_date": "1820-12-19",
+      "end_date": "1822-12-29",
+      "filename": "d534fce1ec59.json"
+    },
+    "271385a3648a": {
+      "county_id": "als_greene",
+      "name": "GREENE",
+      "start_date": "1820-12-20",
+      "end_date": "1832-01-20",
+      "filename": "271385a3648a.json"
+    },
+    "17d16c8abe28": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1820-12-20",
+      "end_date": "1822-12-31",
+      "filename": "17d16c8abe28.json"
+    },
+    "50924c7f57de": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1820-12-20",
+      "end_date": "1821-12-16",
+      "filename": "50924c7f57de.json"
+    },
+    "fd8b3d411694": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1820-12-20",
+      "end_date": "1821-12-16",
+      "filename": "fd8b3d411694.json"
+    },
+    "e7c111932b4c": {
+      "county_id": "als_nca8",
+      "name": "NCA 8",
+      "start_date": "1820-12-20",
+      "end_date": "1832-01-20",
+      "filename": "e7c111932b4c.json"
+    },
+    "3b1ec75d4562": {
+      "county_id": "als_nca11",
+      "name": "NCA 11",
+      "start_date": "1820-12-20",
+      "end_date": "1821-11-26",
+      "filename": "3b1ec75d4562.json"
+    },
+    "dfed571b2bb4": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1820-05-29",
+      "end_date": "1829-01-26",
+      "filename": "dfed571b2bb4.json"
+    },
+    "59b8b8c54867": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1820-05-29",
+      "end_date": "1820-12-15",
+      "filename": "59b8b8c54867.json"
+    },
+    "933347f901f4": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1820-05-29",
+      "end_date": "1820-12-15",
+      "filename": "933347f901f4.json"
+    },
+    "521f189305b3": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1820-12-04",
+      "end_date": "1820-12-12",
+      "filename": "521f189305b3.json"
+    },
+    "19352b75da59": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1821-12-17",
+      "end_date": "1828-01-02",
+      "filename": "19352b75da59.json"
+    },
+    "7dc51d0b427a": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1821-12-07",
+      "end_date": "1825-10-16",
+      "filename": "7dc51d0b427a.json"
+    },
+    "3533f947b3f5": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1821-12-07",
+      "end_date": "1825-10-16",
+      "filename": "3533f947b3f5.json"
+    },
+    "f2dbe9dff468": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1821-12-07",
+      "end_date": "1824-12-21",
+      "filename": "f2dbe9dff468.json"
+    },
+    "109f1f4c4048": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1821-12-07",
+      "end_date": "1822-12-30",
+      "filename": "109f1f4c4048.json"
+    },
+    "e53032ea679a": {
+      "county_id": "als_decatur",
+      "name": "DECATUR (ext)",
+      "start_date": "1821-12-07",
+      "end_date": "1822-12-30",
+      "filename": "e53032ea679a.json"
+    },
+    "b90c9a408f2b": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1821-12-17",
+      "end_date": "1822-12-29",
+      "filename": "b90c9a408f2b.json"
+    },
+    "5b12faa0573b": {
+      "county_id": "als_nca12",
+      "name": "NCA 12",
+      "start_date": "1821-12-07",
+      "end_date": "1822-12-30",
+      "filename": "5b12faa0573b.json"
+    },
+    "b61da126a742": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1821-12-07",
+      "end_date": "1824-12-21",
+      "filename": "b61da126a742.json"
+    },
+    "15afff057e70": {
+      "county_id": "als_lauderdale",
+      "name": "LAUDERDALE",
+      "start_date": "1821-11-27",
+      "end_date": "2000-12-31",
+      "filename": "15afff057e70.json"
+    },
+    "89d837ae28f9": {
+      "county_id": "als_limestone",
+      "name": "LIMESTONE",
+      "start_date": "1821-11-27",
+      "end_date": "2000-12-31",
+      "filename": "89d837ae28f9.json"
+    },
+    "5bc1171faa4d": {
+      "county_id": "als_morgan",
+      "name": "MORGAN",
+      "start_date": "1821-06-14",
+      "end_date": "1832-01-20",
+      "filename": "5bc1171faa4d.json"
+    },
+    "c82555b24e40": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1821-04-01",
+      "end_date": "1823-12-18",
+      "filename": "c82555b24e40.json"
+    },
+    "a78490b2a676": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1821-04-01",
+      "end_date": "1823-12-18",
+      "filename": "a78490b2a676.json"
+    },
+    "7a3eae0e884d": {
+      "county_id": "als_nca11",
+      "name": "NCA 11",
+      "start_date": "1821-11-27",
+      "end_date": "1832-01-20",
+      "filename": "7a3eae0e884d.json"
+    },
+    "2c8ea15a3147": {
+      "county_id": "als_nca12",
+      "name": "NCA 12",
+      "start_date": "1821-11-27",
+      "end_date": "1821-12-06",
+      "filename": "2c8ea15a3147.json"
+    },
+    "44f3031519e7": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1822-12-30",
+      "end_date": "1832-01-20",
+      "filename": "44f3031519e7.json"
+    },
+    "945656f9e722": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1822-12-30",
+      "end_date": "1830-01-19",
+      "filename": "945656f9e722.json"
+    },
+    "e0ffb8714187": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1822-12-30",
+      "end_date": "1828-01-02",
+      "filename": "e0ffb8714187.json"
+    },
+    "a002919fdc50": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1871-12-07",
+      "end_date": "1883-02-09",
+      "filename": "a002919fdc50.json"
+    },
+    "c5ace10605bc": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1871-12-07",
+      "end_date": "1879-01-30",
+      "filename": "c5ace10605bc.json"
+    },
+    "e284a5a7c092": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1871-03-06",
+      "end_date": "1877-02-07",
+      "filename": "e284a5a7c092.json"
+    },
+    "471b60019a7b": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1871-02-23",
+      "end_date": "1877-02-05",
+      "filename": "471b60019a7b.json"
+    },
+    "b2dbb19249d6": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1871-03-06",
+      "end_date": "1873-04-22",
+      "filename": "b2dbb19249d6.json"
+    },
+    "5bab389e425d": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1871-03-09",
+      "end_date": "1872-02-07",
+      "filename": "5bab389e425d.json"
+    },
+    "7f526b336071": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1871-03-09",
+      "end_date": "1871-12-10",
+      "filename": "7f526b336071.json"
+    },
+    "f540b7c62f40": {
+      "county_id": "als_geneva",
+      "name": "GENEVA",
+      "start_date": "1871-02-15",
+      "end_date": "1903-02-08",
+      "filename": "f540b7c62f40.json"
+    },
+    "de0d5b668778": {
+      "county_id": "als_coffee",
+      "name": "COFFEE",
+      "start_date": "1871-02-15",
+      "end_date": "1871-02-22",
+      "filename": "de0d5b668778.json"
+    },
+    "e0a6a68862e5": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1872-02-24",
+      "end_date": "1881-02-28",
+      "filename": "e0a6a68862e5.json"
+    },
+    "ba44efe3caa7": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1915-08-06",
+      "end_date": "1963-09-13",
+      "filename": "ba44efe3caa7.json"
+    },
+    "0eb448978226": {
+      "county_id": "als_elmore",
+      "name": "ELMORE",
+      "start_date": "1923-08-09",
+      "end_date": "2000-12-31",
+      "filename": "0eb448978226.json"
+    },
+    "86666a467ba1": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1923-08-09",
+      "end_date": "2000-12-31",
+      "filename": "86666a467ba1.json"
+    },
+    "ef6be9a04acb": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1923-09-14",
+      "end_date": "2000-12-31",
+      "filename": "ef6be9a04acb.json"
+    },
+    "7331b1f33d2e": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1923-09-14",
+      "end_date": "1931-07-09",
+      "filename": "7331b1f33d2e.json"
+    },
+    "4eba2d31fce2": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1927-12-31",
+      "end_date": "1980-05-27",
+      "filename": "4eba2d31fce2.json"
+    },
+    "195adb7410c6": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1927-12-31",
+      "end_date": "1953-09-14",
+      "filename": "195adb7410c6.json"
+    },
+    "b20a7c0a6a1b": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1931-07-10",
+      "end_date": "2000-12-31",
+      "filename": "b20a7c0a6a1b.json"
+    },
+    "52de7e935394": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1822-12-31",
+      "end_date": "1825-12-27",
+      "filename": "52de7e935394.json"
+    },
+    "de76b4d31659": {
+      "county_id": "als_decatur",
+      "name": "DECATUR (ext)",
+      "start_date": "1822-12-31",
+      "end_date": "1825-12-27",
+      "filename": "de76b4d31659.json"
+    },
+    "8c9faa4098a2": {
+      "county_id": "als_nca12",
+      "name": "NCA 12",
+      "start_date": "1822-12-31",
+      "end_date": "1825-12-27",
+      "filename": "8c9faa4098a2.json"
+    },
+    "593362994a22": {
+      "county_id": "als_nca13",
+      "name": "NCA 13",
+      "start_date": "1822-12-31",
+      "end_date": "1825-12-27",
+      "filename": "593362994a22.json"
+    },
+    "61d4bcd5a3b4": {
+      "county_id": "als_nca10",
+      "name": "NCA 10",
+      "start_date": "1822-12-30",
+      "end_date": "1822-12-31",
+      "filename": "61d4bcd5a3b4.json"
+    },
+    "584d5caeb25a": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1822-12-27",
+      "end_date": "1829-01-25",
+      "filename": "584d5caeb25a.json"
+    },
+    "8f9560eb55ac": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1822-12-27",
+      "end_date": "1822-12-29",
+      "filename": "8f9560eb55ac.json"
+    },
+    "d731e1e6e137": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1823-12-26",
+      "end_date": "1827-12-30",
+      "filename": "d731e1e6e137.json"
+    },
+    "650bd05a0f4f": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1823-12-26",
+      "end_date": "1824-12-19",
+      "filename": "650bd05a0f4f.json"
+    },
+    "6d2b3de6a247": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1823-12-26",
+      "end_date": "1824-12-19",
+      "filename": "6d2b3de6a247.json"
+    },
+    "6348a331e04a": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1823-12-26",
+      "end_date": "1824-12-19",
+      "filename": "6348a331e04a.json"
+    },
+    "be2847cee9c6": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1823-12-19",
+      "end_date": "1829-01-28",
+      "filename": "be2847cee9c6.json"
+    },
+    "ff3022b3c7cf": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1823-01-01",
+      "end_date": "1823-12-25",
+      "filename": "ff3022b3c7cf.json"
+    },
+    "797baef17fc9": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1823-01-01",
+      "end_date": "1823-12-25",
+      "filename": "797baef17fc9.json"
+    },
+    "485bf0805460": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1823-12-19",
+      "end_date": "1823-12-25",
+      "filename": "485bf0805460.json"
+    },
+    "00a41bb71211": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1824-12-22",
+      "end_date": "1843-01-08",
+      "filename": "00a41bb71211.json"
+    },
+    "ba5bddfeaa65": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1824-12-22",
+      "end_date": "1829-01-28",
+      "filename": "ba5bddfeaa65.json"
+    },
+    "54ec8171917a": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1824-12-22",
+      "end_date": "1827-12-30",
+      "filename": "54ec8171917a.json"
+    },
+    "7e1dc2565782": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1824-12-22",
+      "end_date": "1826-01-03",
+      "filename": "7e1dc2565782.json"
+    },
+    "a945bdd17c05": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1824-12-20",
+      "end_date": "1832-01-20",
+      "filename": "a945bdd17c05.json"
+    },
+    "3d9d54d5842f": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1824-12-20",
+      "end_date": "1831-01-14",
+      "filename": "3d9d54d5842f.json"
+    },
+    "c2c936e88cfe": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1824-12-20",
+      "end_date": "1831-01-14",
+      "filename": "c2c936e88cfe.json"
+    },
+    "d3c4ea77cbc1": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1824-12-20",
+      "end_date": "1824-12-21",
+      "filename": "d3c4ea77cbc1.json"
+    },
+    "274a0c39f149": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1824-12-20",
+      "end_date": "1824-12-21",
+      "filename": "274a0c39f149.json"
+    },
+    "728b2465493f": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1866-12-05",
+      "end_date": "1867-02-07",
+      "filename": "728b2465493f.json"
+    },
+    "bdc2e2c1b66d": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1866-12-05",
+      "end_date": "1867-02-18",
+      "filename": "bdc2e2c1b66d.json"
+    },
+    "a8af509d372a": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1866-12-05",
+      "end_date": "1867-01-16",
+      "filename": "a8af509d372a.json"
+    },
+    "5c1260d79d88": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1866-12-05",
+      "end_date": "1867-01-16",
+      "filename": "5c1260d79d88.json"
+    },
+    "31bd20350096": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1866-12-06",
+      "end_date": "1866-12-06",
+      "filename": "31bd20350096.json"
+    },
+    "e71806c30e1c": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1866-12-06",
+      "end_date": "1866-12-06",
+      "filename": "e71806c30e1c.json"
+    },
+    "924ba73fb04a": {
+      "county_id": "als_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1866-12-06",
+      "end_date": "1866-12-06",
+      "filename": "924ba73fb04a.json"
+    },
+    "aea883acd5d5": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1866-12-05",
+      "end_date": "1866-12-30",
+      "filename": "aea883acd5d5.json"
+    },
+    "8a168f103465": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1866-12-05",
+      "end_date": "1866-12-30",
+      "filename": "8a168f103465.json"
+    },
+    "028f651f49e8": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1866-12-05",
+      "end_date": "1868-12-30",
+      "filename": "028f651f49e8.json"
+    },
+    "47150363ecac": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1877-02-09",
+      "end_date": "1893-02-08",
+      "filename": "47150363ecac.json"
+    },
+    "22c47a41c658": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1877-02-06",
+      "end_date": "1887-02-27",
+      "filename": "22c47a41c658.json"
+    },
+    "1246fd33533b": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1877-02-06",
+      "end_date": "1887-02-21",
+      "filename": "1246fd33533b.json"
+    },
+    "bce7998c2b3a": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1877-02-05",
+      "end_date": "1887-02-21",
+      "filename": "bce7998c2b3a.json"
+    },
+    "3daad963540f": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1877-02-09",
+      "end_date": "1885-02-16",
+      "filename": "3daad963540f.json"
+    },
+    "a33d20882687": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1877-02-08",
+      "end_date": "1884-12-11",
+      "filename": "a33d20882687.json"
+    },
+    "c2525c14b22d": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1877-01-30",
+      "end_date": "1879-02-03",
+      "filename": "c2525c14b22d.json"
+    },
+    "7c2456b5785b": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1877-01-30",
+      "end_date": "1879-01-30",
+      "filename": "7c2456b5785b.json"
+    },
+    "9661512da8c6": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1877-02-08",
+      "end_date": "1879-01-28",
+      "filename": "9661512da8c6.json"
+    },
+    "2287dc8ee89e": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1877-02-08",
+      "end_date": "1879-01-28",
+      "filename": "2287dc8ee89e.json"
+    },
+    "d280ce564081": {
+      "county_id": "als_hale",
+      "name": "HALE",
+      "start_date": "1877-01-13",
+      "end_date": "2000-12-31",
+      "filename": "d280ce564081.json"
+    },
+    "35516914eca1": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1907-03-02",
+      "end_date": "1980-05-27",
+      "filename": "35516914eca1.json"
+    },
+    "0ba3d94966ed": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1907-03-02",
+      "end_date": "1943-09-30",
+      "filename": "0ba3d94966ed.json"
+    },
+    "11eb969ab6d2": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1907-07-25",
+      "end_date": "1907-07-28",
+      "filename": "11eb969ab6d2.json"
+    },
+    "029e373bf775": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1907-07-25",
+      "end_date": "1907-08-08",
+      "filename": "029e373bf775.json"
+    },
+    "b70572e02d53": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1915-09-28",
+      "end_date": "2000-12-31",
+      "filename": "b70572e02d53.json"
+    },
+    "0ff28a317e69": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1915-09-28",
+      "end_date": "1927-12-30",
+      "filename": "0ff28a317e69.json"
+    },
+    "db65ce90e0c4": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1915-09-28",
+      "end_date": "1943-09-30",
+      "filename": "db65ce90e0c4.json"
+    },
+    "c4366b41fa0d": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1915-08-06",
+      "end_date": "1932-09-29",
+      "filename": "c4366b41fa0d.json"
+    },
+    "47c633d504e2": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1915-09-10",
+      "end_date": "1915-09-27",
+      "filename": "47c633d504e2.json"
+    },
+    "764d9003dac4": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1915-09-10",
+      "end_date": "1915-09-27",
+      "filename": "764d9003dac4.json"
+    },
+    "7710dd01305f": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1825-10-17",
+      "end_date": "1828-01-02",
+      "filename": "7710dd01305f.json"
+    },
+    "3f4aba8f30d4": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1825-12-28",
+      "end_date": "1826-01-05",
+      "filename": "3f4aba8f30d4.json"
+    },
+    "75d6d4dea9f8": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1825-10-17",
+      "end_date": "1826-01-03",
+      "filename": "75d6d4dea9f8.json"
+    },
+    "ed7994823371": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1825-10-17",
+      "end_date": "1826-01-03",
+      "filename": "ed7994823371.json"
+    },
+    "fb0e60e6dd7d": {
+      "county_id": "als_nca13",
+      "name": "NCA 13",
+      "start_date": "1825-12-28",
+      "end_date": "1832-01-20",
+      "filename": "fb0e60e6dd7d.json"
+    },
+    "2d5bec18f6d4": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1826-01-06",
+      "end_date": "1836-01-08",
+      "filename": "2d5bec18f6d4.json"
+    },
+    "2a82b67edcbc": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1826-01-06",
+      "end_date": "1832-01-20",
+      "filename": "2a82b67edcbc.json"
+    },
+    "b99362d4ca33": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1826-01-04",
+      "end_date": "1831-12-27",
+      "filename": "b99362d4ca33.json"
+    },
+    "9c02d7cf72f2": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1826-01-04",
+      "end_date": "1828-12-19",
+      "filename": "9c02d7cf72f2.json"
+    },
+    "303cfa1b0303": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1826-01-04",
+      "end_date": "1828-01-02",
+      "filename": "303cfa1b0303.json"
+    },
+    "71a853677fc5": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1827-12-28",
+      "end_date": "1866-12-30",
+      "filename": "71a853677fc5.json"
+    },
+    "562b121bad22": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1827-12-31",
+      "end_date": "1833-04-01",
+      "filename": "562b121bad22.json"
+    },
+    "c7c03f8ed63d": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1827-12-31",
+      "end_date": "1831-01-14",
+      "filename": "c7c03f8ed63d.json"
+    },
+    "7823eb30741b": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1827-12-28",
+      "end_date": "1829-01-28",
+      "filename": "7823eb30741b.json"
+    },
+    "dc7f25c2b3e3": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1827-01-12",
+      "end_date": "1827-12-27",
+      "filename": "dc7f25c2b3e3.json"
+    },
+    "79532037fd71": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1827-01-12",
+      "end_date": "1827-12-27",
+      "filename": "79532037fd71.json"
+    },
+    "cdf8cb91b4da": {
+      "county_id": "als_nca9",
+      "name": "NCA 9",
+      "start_date": "1827-03-01",
+      "end_date": "1829-01-28",
+      "filename": "cdf8cb91b4da.json"
+    },
+    "36ff639e82ff": {
+      "county_id": "als_nca14",
+      "name": "NCA 14",
+      "start_date": "1827-03-01",
+      "end_date": "1828-01-08",
+      "filename": "36ff639e82ff.json"
+    },
+    "aeda1684345f": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1828-12-20",
+      "end_date": "1840-01-28",
+      "filename": "aeda1684345f.json"
+    },
+    "ff077c63d590": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1828-12-20",
+      "end_date": "1829-01-26",
+      "filename": "ff077c63d590.json"
+    },
+    "7d9c2432270e": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1828-01-03",
+      "end_date": "1867-01-29",
+      "filename": "7d9c2432270e.json"
+    },
+    "5e55e19fd52b": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1828-01-03",
+      "end_date": "1831-01-14",
+      "filename": "5e55e19fd52b.json"
+    },
+    "af4cf88ec4c6": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1828-01-03",
+      "end_date": "1829-01-26",
+      "filename": "af4cf88ec4c6.json"
+    },
+    "5488155d8348": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1828-01-03",
+      "end_date": "1828-12-19",
+      "filename": "5488155d8348.json"
+    },
+    "b71b25221ffc": {
+      "county_id": "als_nca14",
+      "name": "NCA 14",
+      "start_date": "1828-01-09",
+      "end_date": "1829-01-28",
+      "filename": "b71b25221ffc.json"
+    },
+    "89419f7263f6": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1828-01-03",
+      "end_date": "1829-01-26",
+      "filename": "89419f7263f6.json"
+    },
+    "a677ba20383e": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1829-01-29",
+      "end_date": "1831-01-14",
+      "filename": "a677ba20383e.json"
+    },
+    "2d325a37f3d0": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1829-01-29",
+      "end_date": "1831-01-14",
+      "filename": "2d325a37f3d0.json"
+    },
+    "98d0142e6f7a": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1829-01-29",
+      "end_date": "1830-01-19",
+      "filename": "98d0142e6f7a.json"
+    },
+    "fed83f4f7f85": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1829-01-29",
+      "end_date": "1830-01-19",
+      "filename": "fed83f4f7f85.json"
+    },
+    "7e417cd0e3f7": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1829-01-27",
+      "end_date": "1866-11-23",
+      "filename": "7e417cd0e3f7.json"
+    },
+    "89f7e8c900fd": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1829-01-26",
+      "end_date": "1840-02-03",
+      "filename": "89f7e8c900fd.json"
+    },
+    "9029ec8232e6": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1829-01-26",
+      "end_date": "1833-01-04",
+      "filename": "9029ec8232e6.json"
+    },
+    "7506a29fbc75": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1829-01-27",
+      "end_date": "1832-12-20",
+      "filename": "7506a29fbc75.json"
+    },
+    "e57c9f83344c": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1829-01-27",
+      "end_date": "1832-12-17",
+      "filename": "e57c9f83344c.json"
+    },
+    "b7651813f941": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1829-01-26",
+      "end_date": "1830-01-19",
+      "filename": "b7651813f941.json"
+    },
+    "293d52d9fe87": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1829-01-27",
+      "end_date": "1830-01-19",
+      "filename": "293d52d9fe87.json"
+    },
+    "2397d2b89e8c": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1829-01-27",
+      "end_date": "1829-01-28",
+      "filename": "2397d2b89e8c.json"
+    },
+    "3ddcb61e9381": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1829-01-26",
+      "end_date": "1830-01-19",
+      "filename": "3ddcb61e9381.json"
+    },
+    "2cca5e29deb6": {
+      "county_id": "als_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1830-01-20",
+      "end_date": "1866-11-23",
+      "filename": "2cca5e29deb6.json"
+    },
+    "e2385852bd0d": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1830-01-20",
+      "end_date": "1840-02-03",
+      "filename": "e2385852bd0d.json"
+    },
+    "12bd897c63e0": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1830-01-20",
+      "end_date": "1833-01-04",
+      "filename": "12bd897c63e0.json"
+    },
+    "0621a89552fa": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1830-01-20",
+      "end_date": "1831-12-27",
+      "filename": "0621a89552fa.json"
+    },
+    "d71dd4436209": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1830-01-20",
+      "end_date": "1831-01-14",
+      "filename": "d71dd4436209.json"
+    },
+    "bfb738f45bf2": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1830-01-20",
+      "end_date": "1831-01-14",
+      "filename": "bfb738f45bf2.json"
+    },
+    "a4ef3cbf8e95": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1830-01-20",
+      "end_date": "1831-01-14",
+      "filename": "a4ef3cbf8e95.json"
+    },
+    "5abc7b74e64b": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1831-01-15",
+      "end_date": "1901-12-30",
+      "filename": "5abc7b74e64b.json"
+    },
+    "a7ab7672bd85": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1831-01-15",
+      "end_date": "1837-12-22",
+      "filename": "a7ab7672bd85.json"
+    },
+    "0473c5c19a8e": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1831-01-15",
+      "end_date": "1832-12-17",
+      "filename": "0473c5c19a8e.json"
+    },
+    "3ca206c43e48": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1831-01-15",
+      "end_date": "1832-01-20",
+      "filename": "3ca206c43e48.json"
+    },
+    "48487868ce6e": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1831-01-15",
+      "end_date": "1832-01-19",
+      "filename": "48487868ce6e.json"
+    },
+    "56367401538c": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1831-01-15",
+      "end_date": "1832-01-19",
+      "filename": "56367401538c.json"
+    },
+    "923b4083e6c4": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1831-01-15",
+      "end_date": "1832-01-17",
+      "filename": "923b4083e6c4.json"
+    },
+    "a1b096e772f6": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1831-01-15",
+      "end_date": "1832-01-17",
+      "filename": "a1b096e772f6.json"
+    },
+    "e904446e14ad": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1831-12-28",
+      "end_date": "1844-01-16",
+      "filename": "e904446e14ad.json"
+    },
+    "26d12fde543f": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1831-12-28",
+      "end_date": "1832-12-17",
+      "filename": "26d12fde543f.json"
+    },
+    "2b739359a2df": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1831-01-15",
+      "end_date": "1843-02-12",
+      "filename": "2b739359a2df.json"
+    },
+    "9527b7af3c3d": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1832-12-21",
+      "end_date": "1868-12-09",
+      "filename": "9527b7af3c3d.json"
+    },
+    "714cf1f674ad": {
+      "county_id": "als_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1832-12-18",
+      "end_date": "1866-12-05",
+      "filename": "714cf1f674ad.json"
+    },
+    "fdf0f6863d18": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1832-12-18",
+      "end_date": "1866-02-09",
+      "filename": "fdf0f6863d18.json"
+    },
+    "45fe3575f9ba": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1832-12-21",
+      "end_date": "1860-02-20",
+      "filename": "45fe3575f9ba.json"
+    },
+    "15ceb123b4c2": {
+      "county_id": "als_sumter",
+      "name": "SUMTER",
+      "start_date": "1832-12-18",
+      "end_date": "1847-12-28",
+      "filename": "15ceb123b4c2.json"
+    },
+    "9afc555ac9ea": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1832-12-18",
+      "end_date": "1847-12-28",
+      "filename": "9afc555ac9ea.json"
+    },
+    "10da54cacf79": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1832-12-18",
+      "end_date": "1844-01-16",
+      "filename": "10da54cacf79.json"
+    },
+    "23e7b365312a": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1832-12-18",
+      "end_date": "1843-02-13",
+      "filename": "23e7b365312a.json"
+    },
+    "8dbf6fb9e8dd": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1832-12-18",
+      "end_date": "1839-02-01",
+      "filename": "8dbf6fb9e8dd.json"
+    },
+    "8d3ebb31829b": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1832-12-18",
+      "end_date": "1837-12-24",
+      "filename": "8d3ebb31829b.json"
+    },
+    "08f31e43da43": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1832-12-18",
+      "end_date": "1837-12-19",
+      "filename": "08f31e43da43.json"
+    },
+    "481767cc5d95": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1832-12-18",
+      "end_date": "1837-06-23",
+      "filename": "481767cc5d95.json"
+    },
+    "86495b2c958e": {
+      "county_id": "als_calhoun",
+      "name": "BENTON",
+      "start_date": "1832-12-18",
+      "end_date": "1836-12-22",
+      "filename": "86495b2c958e.json"
+    },
+    "b48f8d8b2bbd": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1832-12-18",
+      "end_date": "1836-12-22",
+      "filename": "b48f8d8b2bbd.json"
+    },
+    "ccaabf9c9112": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1832-12-18",
+      "end_date": "1834-01-13",
+      "filename": "ccaabf9c9112.json"
+    },
+    "79782acd7406": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1832-12-18",
+      "end_date": "1833-12-31",
+      "filename": "79782acd7406.json"
+    },
+    "0291ca9ab13d": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1832-12-18",
+      "end_date": "1833-12-31",
+      "filename": "0291ca9ab13d.json"
+    },
+    "e676405c56ff": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1832-12-18",
+      "end_date": "1833-04-01",
+      "filename": "e676405c56ff.json"
+    },
+    "35f2388652ac": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1832-01-21",
+      "end_date": "1867-02-05",
+      "filename": "35f2388652ac.json"
+    },
+    "85cfbe4c8e0a": {
+      "county_id": "als_greene",
+      "name": "GREENE",
+      "start_date": "1832-01-21",
+      "end_date": "1843-02-13",
+      "filename": "85cfbe4c8e0a.json"
+    },
+    "c5f57315574f": {
+      "county_id": "als_morgan",
+      "name": "MORGAN",
+      "start_date": "1832-01-21",
+      "end_date": "1840-12-14",
+      "filename": "c5f57315574f.json"
+    },
+    "8ea89aaa9c58": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1832-01-21",
+      "end_date": "1836-01-08",
+      "filename": "8ea89aaa9c58.json"
+    },
+    "1d7a9ad44771": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1832-01-21",
+      "end_date": "1834-01-13",
+      "filename": "1d7a9ad44771.json"
+    },
+    "6d6f97240da1": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1832-01-21",
+      "end_date": "1832-12-17",
+      "filename": "6d6f97240da1.json"
+    },
+    "9cee890ebae7": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1832-01-21",
+      "end_date": "1832-12-17",
+      "filename": "9cee890ebae7.json"
+    },
+    "bee84fd56662": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1832-01-18",
+      "end_date": "1868-12-29",
+      "filename": "bee84fd56662.json"
+    },
+    "dabd60e06bb1": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1832-01-20",
+      "end_date": "1837-12-22",
+      "filename": "dabd60e06bb1.json"
+    },
+    "6408ec036c86": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1832-01-18",
+      "end_date": "1832-12-17",
+      "filename": "6408ec036c86.json"
+    },
+    "870ef6dbdca5": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1832-01-20",
+      "end_date": "1840-02-02",
+      "filename": "870ef6dbdca5.json"
+    },
+    "06c890be8eba": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1833-04-02",
+      "end_date": "1861-02-07",
+      "filename": "06c890be8eba.json"
+    },
+    "d25184d34019": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1833-04-02",
+      "end_date": "1840-02-02",
+      "filename": "d25184d34019.json"
+    },
+    "5651e7bb3858": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1833-01-05",
+      "end_date": "1838-12-31",
+      "filename": "5651e7bb3858.json"
+    },
+    "c792356f5825": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1833-01-05",
+      "end_date": "1837-12-01",
+      "filename": "c792356f5825.json"
+    },
+    "b12625950b31": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1834-01-01",
+      "end_date": "1837-12-19",
+      "filename": "b12625950b31.json"
+    },
+    "f5a095ee2e43": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1834-01-01",
+      "end_date": "1837-06-23",
+      "filename": "f5a095ee2e43.json"
+    },
+    "1e5977b774c7": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1834-01-14",
+      "end_date": "1836-01-08",
+      "filename": "1e5977b774c7.json"
+    },
+    "c4e754ecd3bd": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1834-01-14",
+      "end_date": "1836-01-08",
+      "filename": "c4e754ecd3bd.json"
+    },
+    "6d6facc2f66f": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1836-12-23",
+      "end_date": "1845-01-26",
+      "filename": "6d6facc2f66f.json"
+    },
+    "02e12c93dadc": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1836-12-23",
+      "end_date": "1843-01-26",
+      "filename": "02e12c93dadc.json"
+    },
+    "4c0cf60d0b6c": {
+      "county_id": "als_calhoun",
+      "name": "BENTON",
+      "start_date": "1836-12-23",
+      "end_date": "1843-01-26",
+      "filename": "4c0cf60d0b6c.json"
+    },
+    "8ac1d7300c33": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1836-01-09",
+      "end_date": "1866-12-06",
+      "filename": "8ac1d7300c33.json"
+    },
+    "2c7389138a9c": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1836-01-09",
+      "end_date": "1866-12-06",
+      "filename": "2c7389138a9c.json"
+    },
+    "19288ed70e2d": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1836-01-09",
+      "end_date": "1848-03-02",
+      "filename": "19288ed70e2d.json"
+    },
+    "f7bef7dfc6e2": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1836-01-09",
+      "end_date": "1843-02-06",
+      "filename": "f7bef7dfc6e2.json"
+    },
+    "9aed65d48eb5": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1836-01-09",
+      "end_date": "1837-12-22",
+      "filename": "9aed65d48eb5.json"
+    },
+    "0a4d9bee5777": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1836-01-09",
+      "end_date": "1837-12-22",
+      "filename": "0a4d9bee5777.json"
+    },
+    "0ff1a59ecae8": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1836-01-09",
+      "end_date": "1836-12-22",
+      "filename": "0ff1a59ecae8.json"
+    },
+    "ce458f491288": {
+      "county_id": "als_madison",
+      "name": "MADISON",
+      "start_date": "1837-12-23",
+      "end_date": "2000-12-31",
+      "filename": "ce458f491288.json"
+    },
+    "f03c3acf6fdf": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1837-12-23",
+      "end_date": "1867-02-03",
+      "filename": "f03c3acf6fdf.json"
+    },
+    "3f94ab2b3c32": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1837-12-21",
+      "end_date": "1866-12-30",
+      "filename": "3f94ab2b3c32.json"
+    },
+    "689b64004ecc": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1837-12-23",
+      "end_date": "1843-01-08",
+      "filename": "689b64004ecc.json"
+    },
+    "ef97935abc2e": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1837-12-25",
+      "end_date": "1843-02-10",
+      "filename": "ef97935abc2e.json"
+    },
+    "1e229314cc3f": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1837-12-25",
+      "end_date": "1843-02-10",
+      "filename": "1e229314cc3f.json"
+    },
+    "161779e3c6ac": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1837-12-21",
+      "end_date": "1839-02-01",
+      "filename": "161779e3c6ac.json"
+    },
+    "7ba2e368626b": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1837-12-23",
+      "end_date": "1840-12-14",
+      "filename": "7ba2e368626b.json"
+    },
+    "194ac032e351": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1837-12-02",
+      "end_date": "1841-01-01",
+      "filename": "194ac032e351.json"
+    },
+    "019dc1febc3f": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1837-12-20",
+      "end_date": "1840-01-28",
+      "filename": "019dc1febc3f.json"
+    },
+    "dc81f4616c8f": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1837-12-02",
+      "end_date": "1838-12-31",
+      "filename": "dc81f4616c8f.json"
+    },
+    "acbfd5ca3b15": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1837-06-24",
+      "end_date": "1837-12-20",
+      "filename": "acbfd5ca3b15.json"
+    },
+    "3202793a555d": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1837-06-24",
+      "end_date": "1837-12-20",
+      "filename": "3202793a555d.json"
+    },
+    "a61dd314b040": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1837-12-20",
+      "end_date": "1837-12-24",
+      "filename": "a61dd314b040.json"
+    },
+    "0d04c84616ce": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1839-02-02",
+      "end_date": "1845-01-26",
+      "filename": "0d04c84616ce.json"
+    },
+    "53742fb4cc18": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1839-01-01",
+      "end_date": "1843-02-12",
+      "filename": "53742fb4cc18.json"
+    },
+    "6801c5b0cb06": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1839-02-02",
+      "end_date": "1866-12-04",
+      "filename": "6801c5b0cb06.json"
+    },
+    "83a19acb5deb": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1839-01-01",
+      "end_date": "1841-01-01",
+      "filename": "83a19acb5deb.json"
+    },
+    "0a225576b684": {
+      "county_id": "als_morgan",
+      "name": "MORGAN",
+      "start_date": "1840-12-15",
+      "end_date": "1877-01-23",
+      "filename": "0a225576b684.json"
+    },
+    "85a6c5f632fd": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1840-02-04",
+      "end_date": "1867-02-17",
+      "filename": "85a6c5f632fd.json"
+    },
+    "9c983739c5de": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1840-02-04",
+      "end_date": "1867-01-29",
+      "filename": "9c983739c5de.json"
+    },
+    "9cf6971bb2db": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1840-01-29",
+      "end_date": "1866-11-23",
+      "filename": "9cf6971bb2db.json"
+    },
+    "1c53e682af92": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1840-02-03",
+      "end_date": "1852-02-08",
+      "filename": "1c53e682af92.json"
+    },
+    "d14e2880539e": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1840-02-03",
+      "end_date": "1852-02-08",
+      "filename": "d14e2880539e.json"
+    },
+    "a98cefe0b939": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1840-01-29",
+      "end_date": "1841-12-28",
+      "filename": "a98cefe0b939.json"
+    },
+    "de7f21ac7ad0": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1840-12-15",
+      "end_date": "1843-02-06",
+      "filename": "de7f21ac7ad0.json"
+    },
+    "79973285b879": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1841-12-29",
+      "end_date": "1868-12-25",
+      "filename": "79973285b879.json"
+    },
+    "3f60a6275e2d": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1841-01-02",
+      "end_date": "1866-11-23",
+      "filename": "3f60a6275e2d.json"
+    },
+    "4e79c5df9371": {
+      "county_id": "als_coffee",
+      "name": "COFFEE",
+      "start_date": "1841-12-29",
+      "end_date": "1866-11-23",
+      "filename": "4e79c5df9371.json"
+    },
+    "856b98c8523f": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1841-01-02",
+      "end_date": "1868-12-09",
+      "filename": "856b98c8523f.json"
+    },
+    "5dd31ebf1cc7": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1843-01-09",
+      "end_date": "1867-02-03",
+      "filename": "5dd31ebf1cc7.json"
+    },
+    "234f24cf1c02": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1843-02-14",
+      "end_date": "1867-01-29",
+      "filename": "234f24cf1c02.json"
+    },
+    "a0f80e3c8aac": {
+      "county_id": "als_greene",
+      "name": "GREENE",
+      "start_date": "1843-02-14",
+      "end_date": "1867-01-29",
+      "filename": "a0f80e3c8aac.json"
+    },
+    "fa1035e25a39": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1843-02-11",
+      "end_date": "1866-12-04",
+      "filename": "fa1035e25a39.json"
+    },
+    "40b9d76d9aab": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1843-02-13",
+      "end_date": "1868-12-09",
+      "filename": "40b9d76d9aab.json"
+    },
+    "40a44e8fce06": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1843-02-13",
+      "end_date": "1901-12-30",
+      "filename": "40a44e8fce06.json"
+    },
+    "ea97c40d343f": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1843-01-09",
+      "end_date": "1850-02-11",
+      "filename": "ea97c40d343f.json"
+    },
+    "af370152df2c": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1843-02-11",
+      "end_date": "1845-01-26",
+      "filename": "af370152df2c.json"
+    },
+    "b384f294c7f0": {
+      "county_id": "als_calhoun",
+      "name": "BENTON",
+      "start_date": "1843-01-27",
+      "end_date": "1845-01-26",
+      "filename": "b384f294c7f0.json"
+    },
+    "cbc2417f98a9": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1843-02-07",
+      "end_date": "1852-02-04",
+      "filename": "cbc2417f98a9.json"
+    },
+    "ccee354e59da": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1843-01-27",
+      "end_date": "1844-01-15",
+      "filename": "ccee354e59da.json"
+    },
+    "c8e397c10ba7": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1843-02-07",
+      "end_date": "1844-01-15",
+      "filename": "c8e397c10ba7.json"
+    },
+    "3b5800889dd4": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1844-01-17",
+      "end_date": "1868-12-25",
+      "filename": "3b5800889dd4.json"
+    },
+    "72bea5951660": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1844-01-17",
+      "end_date": "1866-12-04",
+      "filename": "72bea5951660.json"
+    },
+    "d2d720e13197": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1844-01-16",
+      "end_date": "1866-12-06",
+      "filename": "d2d720e13197.json"
+    },
+    "9ffe85f1d6bb": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1844-01-16",
+      "end_date": "1848-03-02",
+      "filename": "9ffe85f1d6bb.json"
+    },
+    "21c30bb78401": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1845-01-27",
+      "end_date": "1850-02-04",
+      "filename": "21c30bb78401.json"
+    },
+    "bb6b35d6a66c": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1845-01-27",
+      "end_date": "1846-02-01",
+      "filename": "bb6b35d6a66c.json"
+    },
+    "e7a7a1dd58cf": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1845-01-27",
+      "end_date": "1846-02-01",
+      "filename": "e7a7a1dd58cf.json"
+    },
+    "82db9e988179": {
+      "county_id": "als_calhoun",
+      "name": "BENTON",
+      "start_date": "1845-01-27",
+      "end_date": "1850-02-04",
+      "filename": "82db9e988179.json"
+    },
+    "b685bee99884": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1846-02-02",
+      "end_date": "1866-12-04",
+      "filename": "b685bee99884.json"
+    },
+    "9c96f968df48": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1846-02-02",
+      "end_date": "1866-02-09",
+      "filename": "9c96f968df48.json"
+    },
+    "647e560d5af8": {
+      "county_id": "als_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1847-12-29",
+      "end_date": "2000-12-31",
+      "filename": "647e560d5af8.json"
+    },
+    "6a7c6116707b": {
+      "county_id": "als_sumter",
+      "name": "SUMTER",
+      "start_date": "1847-12-29",
+      "end_date": "2000-12-31",
+      "filename": "6a7c6116707b.json"
+    },
+    "b1287783f7e6": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1847-12-29",
+      "end_date": "1860-02-20",
+      "filename": "b1287783f7e6.json"
+    },
+    "b81b58bb6d02": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1848-03-03",
+      "end_date": "1854-02-14",
+      "filename": "b81b58bb6d02.json"
+    },
+    "6eed67a0acf3": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1848-03-03",
+      "end_date": "1852-02-04",
+      "filename": "6eed67a0acf3.json"
+    },
+    "302fa72b3bdd": {
+      "county_id": "als_winston",
+      "name": "HANCOCK",
+      "start_date": "1850-02-12",
+      "end_date": "1858-01-21",
+      "filename": "302fa72b3bdd.json"
+    },
+    "ccbf188bc1f2": {
+      "county_id": "als_calhoun",
+      "name": "BENTON",
+      "start_date": "1850-02-05",
+      "end_date": "1858-01-28",
+      "filename": "ccbf188bc1f2.json"
+    },
+    "a9fdf8c273f8": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1850-02-05",
+      "end_date": "1866-12-05",
+      "filename": "a9fdf8c273f8.json"
+    },
+    "a6845216d067": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1850-02-12",
+      "end_date": "1877-02-07",
+      "filename": "a6845216d067.json"
+    },
+    "dd59f45a56c7": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1852-02-09",
+      "end_date": "1867-01-29",
+      "filename": "dd59f45a56c7.json"
+    },
+    "136599ecf4ce": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1852-02-09",
+      "end_date": "1861-02-07",
+      "filename": "136599ecf4ce.json"
+    },
+    "0674d57983d8": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1852-02-05",
+      "end_date": "1858-02-01",
+      "filename": "0674d57983d8.json"
+    },
+    "2ba3f9f4c48f": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1852-02-05",
+      "end_date": "1854-02-14",
+      "filename": "2ba3f9f4c48f.json"
+    },
+    "accd1f2c0798": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1854-02-15",
+      "end_date": "1858-02-01",
+      "filename": "accd1f2c0798.json"
+    },
+    "e658f34adbc5": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1854-02-15",
+      "end_date": "1858-02-01",
+      "filename": "e658f34adbc5.json"
+    },
+    "e8cae13a9208": {
+      "county_id": "als_winston",
+      "name": "WINSTON",
+      "start_date": "1858-01-22",
+      "end_date": "1877-01-23",
+      "filename": "e8cae13a9208.json"
+    },
+    "dbe6062557fc": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1858-02-02",
+      "end_date": "1866-12-06",
+      "filename": "dbe6062557fc.json"
+    },
+    "935b3bc644cb": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1858-01-29",
+      "end_date": "1866-12-05",
+      "filename": "935b3bc644cb.json"
+    },
+    "cb77114c710d": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1858-02-02",
+      "end_date": "1860-02-24",
+      "filename": "cb77114c710d.json"
+    },
+    "27ee376b5b45": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1858-02-02",
+      "end_date": "1860-02-24",
+      "filename": "27ee376b5b45.json"
+    },
+    "6f29540661ad": {
+      "county_id": "als_jackson",
+      "name": "JACKSON",
+      "start_date": "1860-02-25",
+      "end_date": "2000-12-31",
+      "filename": "6f29540661ad.json"
+    },
+    "d17d3e6565ee": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1860-02-21",
+      "end_date": "1893-02-20",
+      "filename": "d17d3e6565ee.json"
+    },
+    "f1be87c508e6": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1860-02-21",
+      "end_date": "1893-02-20",
+      "filename": "f1be87c508e6.json"
+    },
+    "8414f782b344": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1860-02-25",
+      "end_date": "1866-12-06",
+      "filename": "8414f782b344.json"
+    },
+    "eae8a11d0956": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1861-11-11",
+      "end_date": "1868-12-29",
+      "filename": "eae8a11d0956.json"
+    },
+    "b43c74d60b50": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1861-11-11",
+      "end_date": "1871-03-05",
+      "filename": "b43c74d60b50.json"
+    },
+    "5d8abd6f688d": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1861-02-08",
+      "end_date": "1861-11-10",
+      "filename": "5d8abd6f688d.json"
+    },
+    "64de2e102aa6": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1861-02-08",
+      "end_date": "1861-11-10",
+      "filename": "64de2e102aa6.json"
+    },
+    "75aefabc8d5d": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1866-12-05",
+      "end_date": "1879-02-12",
+      "filename": "75aefabc8d5d.json"
+    },
+    "a52ecc5ddb86": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1866-12-06",
+      "end_date": "1867-02-13",
+      "filename": "a52ecc5ddb86.json"
+    },
+    "ef4b97cf6a65": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1866-12-05",
+      "end_date": "1867-02-07",
+      "filename": "ef4b97cf6a65.json"
+    },
+    "b93391a88c37": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1866-12-31",
+      "end_date": "1877-02-04",
+      "filename": "b93391a88c37.json"
+    },
+    "4908ee1e548a": {
+      "county_id": "als_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1866-12-07",
+      "end_date": "1873-03-16",
+      "filename": "4908ee1e548a.json"
+    },
+    "d4340b384a3a": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1866-12-31",
+      "end_date": "1868-12-29",
+      "filename": "d4340b384a3a.json"
+    },
+    "30cd4bf83775": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1866-12-31",
+      "end_date": "1868-12-09",
+      "filename": "30cd4bf83775.json"
+    },
+    "0038fafb5981": {
+      "county_id": "als_elmore",
+      "name": "ELMORE",
+      "start_date": "1866-12-31",
+      "end_date": "1868-12-09",
+      "filename": "0038fafb5981.json"
+    },
+    "e4bc5270f759": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1866-12-07",
+      "end_date": "1867-12-02",
+      "filename": "e4bc5270f759.json"
+    },
+    "b1ea892cedb4": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1866-12-07",
+      "end_date": "1867-12-02",
+      "filename": "b1ea892cedb4.json"
+    },
+    "a96e14de7321": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1866-12-07",
+      "end_date": "1867-12-02",
+      "filename": "a96e14de7321.json"
+    },
+    "ad7a3015b8cc": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1866-12-07",
+      "end_date": "1867-12-02",
+      "filename": "ad7a3015b8cc.json"
+    },
+    "db46f8bac8f8": {
+      "county_id": "als_baine",
+      "name": "BAINE (ext)",
+      "start_date": "1866-12-07",
+      "end_date": "1867-02-18",
+      "filename": "db46f8bac8f8.json"
+    },
+    "4f62d63c9366": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1866-12-07",
+      "end_date": "1867-02-18",
+      "filename": "4f62d63c9366.json"
+    },
+    "0be600570bcf": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1866-12-07",
+      "end_date": "1867-02-18",
+      "filename": "0be600570bcf.json"
+    },
+    "a1cf4169147b": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1866-12-31",
+      "end_date": "1867-02-15",
+      "filename": "a1cf4169147b.json"
+    },
+    "0b5f07ad7b08": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1866-12-07",
+      "end_date": "1867-02-14",
+      "filename": "0b5f07ad7b08.json"
+    },
+    "ec78efb5f57d": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1866-12-07",
+      "end_date": "1867-02-13",
+      "filename": "ec78efb5f57d.json"
+    },
+    "dae33105079a": {
+      "county_id": "als_coffee",
+      "name": "COFFEE",
+      "start_date": "1866-11-24",
+      "end_date": "1868-12-25",
+      "filename": "dae33105079a.json"
+    },
+    "dfc7b621bf55": {
+      "county_id": "als_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1866-11-24",
+      "end_date": "1867-02-18",
+      "filename": "dfc7b621bf55.json"
+    },
+    "95784a306bb3": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1866-11-24",
+      "end_date": "1867-02-17",
+      "filename": "95784a306bb3.json"
+    },
+    "bce060a6e462": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1866-11-24",
+      "end_date": "1867-02-10",
+      "filename": "bce060a6e462.json"
+    },
+    "31644f036496": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1866-11-24",
+      "end_date": "1867-02-10",
+      "filename": "31644f036496.json"
+    },
+    "04a3e46a32d9": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1866-11-24",
+      "end_date": "1866-12-04",
+      "filename": "04a3e46a32d9.json"
+    },
+    "5e6e986be27c": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1866-02-10",
+      "end_date": "1866-12-04",
+      "filename": "5e6e986be27c.json"
+    },
+    "27343992d08b": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1866-02-10",
+      "end_date": "1866-12-04",
+      "filename": "27343992d08b.json"
+    },
+    "1fdbe2fbcd48": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "1fdbe2fbcd48.json"
+    },
+    "bb54363f1e62": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "bb54363f1e62.json"
+    },
+    "c3287f23d027": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "c3287f23d027.json"
+    },
+    "8f283a2a2524": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "8f283a2a2524.json"
+    },
+    "3c224ca3dd16": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "3c224ca3dd16.json"
+    },
+    "11dadcdea74f": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1867-12-03",
+      "end_date": "1868-11-30",
+      "filename": "11dadcdea74f.json"
+    },
+    "9803d03c0eff": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1867-02-15",
+      "end_date": "1883-02-09",
+      "filename": "9803d03c0eff.json"
+    },
+    "8fb9a4871e33": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1867-02-15",
+      "end_date": "1867-02-15",
+      "filename": "8fb9a4871e33.json"
+    },
+    "392e2d6e3c94": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1867-02-15",
+      "end_date": "1867-02-15",
+      "filename": "392e2d6e3c94.json"
+    },
+    "e526e9a28336": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1867-02-16",
+      "end_date": "1877-01-09",
+      "filename": "e526e9a28336.json"
+    },
+    "a5b2f9d9afc7": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1867-02-16",
+      "end_date": "1873-03-16",
+      "filename": "a5b2f9d9afc7.json"
+    },
+    "a5407a4bae31": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1867-02-16",
+      "end_date": "1870-02-13",
+      "filename": "a5407a4bae31.json"
+    },
+    "4480f71a9cf4": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1867-02-18",
+      "end_date": "1868-08-05",
+      "filename": "4480f71a9cf4.json"
+    },
+    "4d8edcf568d4": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1867-02-18",
+      "end_date": "1868-12-27",
+      "filename": "4d8edcf568d4.json"
+    },
+    "51e899ad69af": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1867-02-18",
+      "end_date": "1868-12-27",
+      "filename": "51e899ad69af.json"
+    },
+    "af71c03777c7": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1867-02-18",
+      "end_date": "1867-02-18",
+      "filename": "af71c03777c7.json"
+    },
+    "d20a677ccad0": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1867-02-16",
+      "end_date": "1867-02-18",
+      "filename": "d20a677ccad0.json"
+    },
+    "6d8691636b7a": {
+      "county_id": "als_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1867-02-19",
+      "end_date": "2000-12-31",
+      "filename": "6d8691636b7a.json"
+    },
+    "80c78ca54784": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1867-11-29",
+      "end_date": "1870-01-23",
+      "filename": "80c78ca54784.json"
+    },
+    "1588a7495937": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1867-02-19",
+      "end_date": "1872-02-23",
+      "filename": "1588a7495937.json"
+    },
+    "babe9676e97b": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1867-02-19",
+      "end_date": "1872-02-23",
+      "filename": "babe9676e97b.json"
+    },
+    "03f470e45ea4": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1867-02-19",
+      "end_date": "1871-12-10",
+      "filename": "03f470e45ea4.json"
+    },
+    "094a5ad4d373": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1867-11-13",
+      "end_date": "1868-10-07",
+      "filename": "094a5ad4d373.json"
+    },
+    "d0eb612a7e1a": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1867-11-13",
+      "end_date": "1868-10-07",
+      "filename": "d0eb612a7e1a.json"
+    },
+    "9e3b0df8da6b": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1867-02-19",
+      "end_date": "1868-08-04",
+      "filename": "9e3b0df8da6b.json"
+    },
+    "b99104cc46d9": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1867-02-19",
+      "end_date": "1867-12-02",
+      "filename": "b99104cc46d9.json"
+    },
+    "d1b006e92030": {
+      "county_id": "als_baine",
+      "name": "BAINE (ext)",
+      "start_date": "1867-02-19",
+      "end_date": "1867-12-02",
+      "filename": "d1b006e92030.json"
+    },
+    "8413fd205fb6": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1867-02-19",
+      "end_date": "1867-12-02",
+      "filename": "8413fd205fb6.json"
+    },
+    "04ac5b684007": {
+      "county_id": "als_colbert",
+      "name": "COLBERT",
+      "start_date": "1867-02-06",
+      "end_date": "1867-11-28",
+      "filename": "04ac5b684007.json"
+    },
+    "dd3a6d9667fd": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1867-02-06",
+      "end_date": "1867-11-28",
+      "filename": "dd3a6d9667fd.json"
+    },
+    "2dc9661f888d": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1867-02-04",
+      "end_date": "1867-02-18",
+      "filename": "2dc9661f888d.json"
+    },
+    "a9bed9849dcd": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1867-02-04",
+      "end_date": "1867-11-12",
+      "filename": "a9bed9849dcd.json"
+    },
+    "ddbbc4f1908d": {
+      "county_id": "als_jones",
+      "name": "JONES (ext)",
+      "start_date": "1867-02-04",
+      "end_date": "1867-11-12",
+      "filename": "ddbbc4f1908d.json"
+    },
+    "c09c886382c7": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1867-02-04",
+      "end_date": "1867-11-12",
+      "filename": "c09c886382c7.json"
+    },
+    "d5bee8dee919": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1867-02-04",
+      "end_date": "1867-02-15",
+      "filename": "d5bee8dee919.json"
+    },
+    "25ee748f1772": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1867-02-08",
+      "end_date": "1871-03-08",
+      "filename": "25ee748f1772.json"
+    },
+    "1b9795998d3b": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1867-02-08",
+      "end_date": "1868-12-30",
+      "filename": "1b9795998d3b.json"
+    },
+    "5633c38be8b6": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1867-02-11",
+      "end_date": "1868-08-04",
+      "filename": "5633c38be8b6.json"
+    },
+    "e56955e97cca": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1867-02-11",
+      "end_date": "1867-02-17",
+      "filename": "e56955e97cca.json"
+    },
+    "a416805f4cc2": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1867-02-14",
+      "end_date": "1867-02-14",
+      "filename": "a416805f4cc2.json"
+    },
+    "5e58d0306ccb": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1867-02-14",
+      "end_date": "1867-02-14",
+      "filename": "5e58d0306ccb.json"
+    },
+    "184d84a536e8": {
+      "county_id": "als_greene",
+      "name": "GREENE",
+      "start_date": "1867-01-30",
+      "end_date": "2000-12-31",
+      "filename": "184d84a536e8.json"
+    },
+    "316bcaaf290a": {
+      "county_id": "als_pickens",
+      "name": "PICKENS",
+      "start_date": "1867-01-30",
+      "end_date": "2000-12-31",
+      "filename": "316bcaaf290a.json"
+    },
+    "ab897c81a3a2": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1867-01-30",
+      "end_date": "1915-09-27",
+      "filename": "ab897c81a3a2.json"
+    },
+    "157d8c2e7252": {
+      "county_id": "als_hale",
+      "name": "HALE",
+      "start_date": "1867-01-30",
+      "end_date": "1877-01-12",
+      "filename": "157d8c2e7252.json"
+    },
+    "ea0a2d275b3f": {
+      "county_id": "als_marengo",
+      "name": "MARENGO",
+      "start_date": "1867-01-30",
+      "end_date": "2000-12-31",
+      "filename": "ea0a2d275b3f.json"
+    },
+    "3d9d05e5e59c": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1867-01-30",
+      "end_date": "1867-02-17",
+      "filename": "3d9d05e5e59c.json"
+    },
+    "da013d5f6418": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1867-01-17",
+      "end_date": "1867-02-03",
+      "filename": "da013d5f6418.json"
+    },
+    "1e5740272086": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1867-01-17",
+      "end_date": "1867-02-03",
+      "filename": "1e5740272086.json"
+    },
+    "5037889a911c": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1868-12-26",
+      "end_date": "1903-02-08",
+      "filename": "5037889a911c.json"
+    },
+    "04072444c701": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1868-12-26",
+      "end_date": "1903-02-08",
+      "filename": "04072444c701.json"
+    },
+    "472604775ba6": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1868-12-24",
+      "end_date": "1871-02-22",
+      "filename": "472604775ba6.json"
+    },
+    "eec05ee2084d": {
+      "county_id": "als_coffee",
+      "name": "COFFEE",
+      "start_date": "1868-12-26",
+      "end_date": "1871-02-14",
+      "filename": "eec05ee2084d.json"
+    },
+    "8b2580c35325": {
+      "county_id": "als_geneva",
+      "name": "GENEVA",
+      "start_date": "1868-12-26",
+      "end_date": "1871-02-14",
+      "filename": "8b2580c35325.json"
+    },
+    "5bcc6165caca": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1868-12-24",
+      "end_date": "1874-12-10",
+      "filename": "5bcc6165caca.json"
+    },
+    "95c35a04aa19": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1868-12-28",
+      "end_date": "1877-01-12",
+      "filename": "95c35a04aa19.json"
+    },
+    "20b0c8f7c795": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1868-12-28",
+      "end_date": "1868-12-29",
+      "filename": "20b0c8f7c795.json"
+    },
+    "1f5282e83e08": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1868-12-31",
+      "end_date": "1873-03-14",
+      "filename": "1f5282e83e08.json"
+    },
+    "f41e80efd01b": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1868-12-30",
+      "end_date": "1899-09-30",
+      "filename": "f41e80efd01b.json"
+    },
+    "1c1068c2f775": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1868-12-31",
+      "end_date": "1871-03-08",
+      "filename": "1c1068c2f775.json"
+    },
+    "920a8020feca": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1868-12-30",
+      "end_date": "1871-03-05",
+      "filename": "920a8020feca.json"
+    },
+    "1c8fb22bf1df": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1868-12-30",
+      "end_date": "1869-12-14",
+      "filename": "1c8fb22bf1df.json"
+    },
+    "f8d78d6f30bb": {
+      "county_id": "als_chilton",
+      "name": "BAKER",
+      "start_date": "1868-12-30",
+      "end_date": "1869-12-14",
+      "filename": "f8d78d6f30bb.json"
+    },
+    "0f7c5259efba": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1868-12-30",
+      "end_date": "1869-12-14",
+      "filename": "0f7c5259efba.json"
+    },
+    "05424df5d9c8": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN",
+      "start_date": "1868-12-10",
+      "end_date": "2000-12-31",
+      "filename": "05424df5d9c8.json"
+    },
+    "2244867d2fe8": {
+      "county_id": "als_monroe",
+      "name": "MONROE",
+      "start_date": "1868-12-10",
+      "end_date": "2000-12-31",
+      "filename": "2244867d2fe8.json"
+    },
+    "de11338f9f8d": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1868-12-01",
+      "end_date": "1876-03-06",
+      "filename": "de11338f9f8d.json"
+    },
+    "4ad1ccfcd62e": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1868-12-01",
+      "end_date": "1876-03-06",
+      "filename": "4ad1ccfcd62e.json"
+    },
+    "06d1f79f22b7": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1868-12-10",
+      "end_date": "1874-12-10",
+      "filename": "06d1f79f22b7.json"
+    },
+    "46f58d9812d4": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1868-12-01",
+      "end_date": "1871-12-06",
+      "filename": "46f58d9812d4.json"
+    },
+    "bdd6bd969c06": {
+      "county_id": "als_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1868-12-10",
+      "end_date": "1875-02-24",
+      "filename": "bdd6bd969c06.json"
+    },
+    "44147830aed0": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1868-12-10",
+      "end_date": "1963-09-13",
+      "filename": "44147830aed0.json"
+    },
+    "16ab84eaa7c0": {
+      "county_id": "als_elmore",
+      "name": "ELMORE",
+      "start_date": "1868-12-10",
+      "end_date": "1870-02-13",
+      "filename": "16ab84eaa7c0.json"
+    },
+    "abe799d7a264": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1868-12-01",
+      "end_date": "1870-02-06",
+      "filename": "abe799d7a264.json"
+    },
+    "a580acae873f": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1868-12-01",
+      "end_date": "1870-02-06",
+      "filename": "a580acae873f.json"
+    },
+    "de0b67af73b5": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1868-12-01",
+      "end_date": "1870-02-24",
+      "filename": "de0b67af73b5.json"
+    },
+    "59bca300ed4c": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1868-12-01",
+      "end_date": "1870-02-24",
+      "filename": "59bca300ed4c.json"
+    },
+    "bb005036adad": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1868-10-10",
+      "end_date": "1868-12-23",
+      "filename": "bb005036adad.json"
+    },
+    "76e817bf6535": {
+      "county_id": "als_fayette",
+      "name": "FAYETTE",
+      "start_date": "1868-10-08",
+      "end_date": "2000-12-31",
+      "filename": "76e817bf6535.json"
+    },
+    "121355d91caa": {
+      "county_id": "als_lamar",
+      "name": "SANFORD",
+      "start_date": "1868-10-08",
+      "end_date": "1877-02-07",
+      "filename": "121355d91caa.json"
+    },
+    "f00a3fdb4095": {
+      "county_id": "als_marion",
+      "name": "MARION",
+      "start_date": "1868-10-08",
+      "end_date": "2000-12-31",
+      "filename": "f00a3fdb4095.json"
+    },
+    "83591afa8689": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1868-08-05",
+      "end_date": "1887-02-27",
+      "filename": "83591afa8689.json"
+    },
+    "d6bd224a3e4e": {
+      "county_id": "als_covington",
+      "name": "JONES",
+      "start_date": "1868-08-06",
+      "end_date": "1868-10-09",
+      "filename": "d6bd224a3e4e.json"
+    },
+    "bab424bfdb2d": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1868-08-05",
+      "end_date": "1868-12-23",
+      "filename": "bab424bfdb2d.json"
+    },
+    "b38f36a60a9a": {
+      "county_id": "als_autauga",
+      "name": "AUTAUGA",
+      "start_date": "1869-12-15",
+      "end_date": "2000-12-31",
+      "filename": "b38f36a60a9a.json"
+    },
+    "c86985f6ea77": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1869-12-15",
+      "end_date": "1875-02-12",
+      "filename": "c86985f6ea77.json"
+    },
+    "7e403aaef3b5": {
+      "county_id": "als_chilton",
+      "name": "BAKER",
+      "start_date": "1869-12-15",
+      "end_date": "1873-04-22",
+      "filename": "7e403aaef3b5.json"
+    },
+    "a2c7a8d3d391": {
+      "county_id": "als_elmore",
+      "name": "ELMORE",
+      "start_date": "1870-02-14",
+      "end_date": "1923-08-08",
+      "filename": "a2c7a8d3d391.json"
+    },
+    "3e8af45a3fac": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1870-02-07",
+      "end_date": "1887-02-10",
+      "filename": "3e8af45a3fac.json"
+    },
+    "aeecd7e1407e": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1870-02-14",
+      "end_date": "1877-02-08",
+      "filename": "aeecd7e1407e.json"
+    },
+    "437d4c08c699": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1870-02-25",
+      "end_date": "1877-01-23",
+      "filename": "437d4c08c699.json"
+    },
+    "f805d2ef46e6": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1870-02-25",
+      "end_date": "1877-01-23",
+      "filename": "f805d2ef46e6.json"
+    },
+    "e4ec153d4fd7": {
+      "county_id": "als_colbert",
+      "name": "COLBERT",
+      "start_date": "1870-01-24",
+      "end_date": "1895-02-05",
+      "filename": "e4ec153d4fd7.json"
+    },
+    "b491cf22545c": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1870-01-24",
+      "end_date": "1895-02-05",
+      "filename": "b491cf22545c.json"
+    },
+    "f995c03bac4a": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1870-02-07",
+      "end_date": "1871-12-06",
+      "filename": "f995c03bac4a.json"
+    },
+    "2bf7182b5135": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1871-12-11",
+      "end_date": "1874-12-13",
+      "filename": "2bf7182b5135.json"
+    },
+    "39bb47c3ed76": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1871-12-11",
+      "end_date": "1872-02-07",
+      "filename": "39bb47c3ed76.json"
+    },
+    "e226fa3d7bd6": {
+      "county_id": "als_coffee",
+      "name": "COFFEE",
+      "start_date": "1871-02-23",
+      "end_date": "2000-12-31",
+      "filename": "e226fa3d7bd6.json"
+    },
+    "d514ba8482cf": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1872-02-24",
+      "end_date": "1879-02-12",
+      "filename": "d514ba8482cf.json"
+    },
+    "f79376e6771a": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1872-02-08",
+      "end_date": "1874-12-13",
+      "filename": "f79376e6771a.json"
+    },
+    "f3864ff98b99": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1872-02-08",
+      "end_date": "1873-03-14",
+      "filename": "f3864ff98b99.json"
+    },
+    "e2cf121e2e56": {
+      "county_id": "als_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1873-03-17",
+      "end_date": "1907-07-28",
+      "filename": "e2cf121e2e56.json"
+    },
+    "1f107cfa7ad6": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1873-04-23",
+      "end_date": "1884-12-11",
+      "filename": "1f107cfa7ad6.json"
+    },
+    "acef49867aa9": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1873-03-17",
+      "end_date": "1877-01-09",
+      "filename": "acef49867aa9.json"
+    },
+    "1c46fa81a47a": {
+      "county_id": "als_chilton",
+      "name": "BAKER",
+      "start_date": "1873-04-23",
+      "end_date": "1874-12-16",
+      "filename": "1c46fa81a47a.json"
+    },
+    "291fe09f2df6": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1873-03-15",
+      "end_date": "1875-02-09",
+      "filename": "291fe09f2df6.json"
+    },
+    "27b712dadd77": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1873-03-15",
+      "end_date": "1875-02-09",
+      "filename": "27b712dadd77.json"
+    },
+    "e2777ce3b58c": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1874-12-11",
+      "end_date": "1890-12-04",
+      "filename": "e2777ce3b58c.json"
+    },
+    "b76e30d1a326": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1874-12-14",
+      "end_date": "1877-02-04",
+      "filename": "b76e30d1a326.json"
+    },
+    "51cd0285cd8a": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1874-12-14",
+      "end_date": "1877-02-05",
+      "filename": "51cd0285cd8a.json"
+    },
+    "a1cacd7f2fec": {
+      "county_id": "als_chilton",
+      "name": "CHILTON",
+      "start_date": "1874-12-17",
+      "end_date": "1875-02-12",
+      "filename": "a1cacd7f2fec.json"
+    },
+    "6b6525abb364": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1874-12-11",
+      "end_date": "1875-02-24",
+      "filename": "6b6525abb364.json"
+    },
+    "fdd4d95fd5ca": {
+      "county_id": "als_barbour",
+      "name": "BARBOUR",
+      "start_date": "1875-02-10",
+      "end_date": "2000-12-31",
+      "filename": "fdd4d95fd5ca.json"
+    },
+    "8458efd16364": {
+      "county_id": "als_chilton",
+      "name": "CHILTON",
+      "start_date": "1875-02-13",
+      "end_date": "2000-12-31",
+      "filename": "8458efd16364.json"
+    },
+    "edbd3d5f2ce9": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1875-02-10",
+      "end_date": "1932-09-29",
+      "filename": "edbd3d5f2ce9.json"
+    },
+    "ebde7321e47c": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1875-02-13",
+      "end_date": "1889-02-27",
+      "filename": "ebde7321e47c.json"
+    },
+    "06c70bbfcaa2": {
+      "county_id": "als_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1875-02-25",
+      "end_date": "2000-12-31",
+      "filename": "06c70bbfcaa2.json"
+    },
+    "3ec62558c73e": {
+      "county_id": "als_conecuh",
+      "name": "CONECUH",
+      "start_date": "1875-02-25",
+      "end_date": "2000-12-31",
+      "filename": "3ec62558c73e.json"
+    },
+    "f7c2c40e1850": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1876-03-07",
+      "end_date": "1883-02-09",
+      "filename": "f7c2c40e1850.json"
+    },
+    "143fc0ee7806": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1876-03-07",
+      "end_date": "1877-01-29",
+      "filename": "143fc0ee7806.json"
+    },
+    "7fcb58fd2d75": {
+      "county_id": "als_lamar",
+      "name": "LAMAR",
+      "start_date": "1877-02-08",
+      "end_date": "2000-12-31",
+      "filename": "7fcb58fd2d75.json"
+    },
+    "9b7cea147f7a": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1877-02-05",
+      "end_date": "1923-08-08",
+      "filename": "9b7cea147f7a.json"
+    },
+    "dd82f7b2d7af": {
+      "county_id": "als_morgan",
+      "name": "MORGAN",
+      "start_date": "1877-01-24",
+      "end_date": "2000-12-31",
+      "filename": "dd82f7b2d7af.json"
+    },
+    "33a2e3f59c53": {
+      "county_id": "als_winston",
+      "name": "WINSTON",
+      "start_date": "1877-01-24",
+      "end_date": "1901-03-04",
+      "filename": "33a2e3f59c53.json"
+    },
+    "a811d6afbfde": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1877-01-10",
+      "end_date": "1893-02-08",
+      "filename": "a811d6afbfde.json"
+    },
+    "00c3d7e98904": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1877-01-13",
+      "end_date": "1889-02-27",
+      "filename": "00c3d7e98904.json"
+    },
+    "55d2a2202aba": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1877-01-24",
+      "end_date": "1879-02-12",
+      "filename": "55d2a2202aba.json"
+    },
+    "5aa365b9902e": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1877-01-10",
+      "end_date": "1877-02-08",
+      "filename": "5aa365b9902e.json"
+    },
+    "ecaee2e99354": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1877-01-24",
+      "end_date": "1877-02-07",
+      "filename": "ecaee2e99354.json"
+    },
+    "3047ced09c9e": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1877-01-24",
+      "end_date": "1877-01-29",
+      "filename": "3047ced09c9e.json"
+    },
+    "a34c3fca8599": {
+      "county_id": "als_marshall",
+      "name": "MARSHALL",
+      "start_date": "1879-02-04",
+      "end_date": "2000-12-31",
+      "filename": "a34c3fca8599.json"
+    },
+    "5aa4a835f015": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1879-02-13",
+      "end_date": "1887-02-27",
+      "filename": "5aa4a835f015.json"
+    },
+    "8467da8ab7ec": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1879-02-13",
+      "end_date": "1887-02-10",
+      "filename": "8467da8ab7ec.json"
+    },
+    "66c4fe142844": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1879-02-13",
+      "end_date": "1885-02-16",
+      "filename": "66c4fe142844.json"
+    },
+    "0e60f20ed4fc": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1879-02-04",
+      "end_date": "1884-12-11",
+      "filename": "0e60f20ed4fc.json"
+    },
+    "c610760beaaa": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1879-02-13",
+      "end_date": "1881-02-28",
+      "filename": "c610760beaaa.json"
+    },
+    "b3b82814170f": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1879-01-31",
+      "end_date": "1899-02-09",
+      "filename": "b3b82814170f.json"
+    },
+    "77119eb7756d": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1879-01-29",
+      "end_date": "1895-02-17",
+      "filename": "77119eb7756d.json"
+    },
+    "10e8e5e9a17f": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1879-01-31",
+      "end_date": "1879-02-03",
+      "filename": "10e8e5e9a17f.json"
+    },
+    "d35996efc25d": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1879-01-29",
+      "end_date": "1879-02-12",
+      "filename": "d35996efc25d.json"
+    },
+    "abc9f53aabab": {
+      "county_id": "als_chambers",
+      "name": "CHAMBERS",
+      "start_date": "1881-03-01",
+      "end_date": "2000-12-31",
+      "filename": "abc9f53aabab.json"
+    },
+    "ade523656da9": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1881-03-01",
+      "end_date": "1915-08-05",
+      "filename": "ade523656da9.json"
+    },
+    "bd601be58941": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1883-02-10",
+      "end_date": "1886-12-10",
+      "filename": "bd601be58941.json"
+    },
+    "f712a4ae7d04": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1883-02-10",
+      "end_date": "1884-12-11",
+      "filename": "f712a4ae7d04.json"
+    },
+    "d979fc4b7e33": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1883-02-10",
+      "end_date": "1886-12-10",
+      "filename": "d979fc4b7e33.json"
+    },
+    "9c8953880cf3": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1884-12-12",
+      "end_date": "1901-02-13",
+      "filename": "9c8953880cf3.json"
+    },
+    "1a172df596a2": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1884-12-12",
+      "end_date": "1901-02-13",
+      "filename": "1a172df596a2.json"
+    },
+    "dac050d1105b": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1884-12-12",
+      "end_date": "1899-02-06",
+      "filename": "dac050d1105b.json"
+    },
+    "e2a231fca205": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1884-12-12",
+      "end_date": "1898-12-15",
+      "filename": "e2a231fca205.json"
+    },
+    "c0341b4b7a2a": {
+      "county_id": "als_macon",
+      "name": "MACON",
+      "start_date": "1885-02-17",
+      "end_date": "2000-12-31",
+      "filename": "c0341b4b7a2a.json"
+    },
+    "8685c2fd325a": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1885-02-17",
+      "end_date": "1915-08-05",
+      "filename": "8685c2fd325a.json"
+    },
+    "251a2d44fa46": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1886-12-11",
+      "end_date": "1903-09-29",
+      "filename": "251a2d44fa46.json"
+    },
+    "c723676a0a70": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1886-12-11",
+      "end_date": "1899-02-09",
+      "filename": "c723676a0a70.json"
+    },
+    "b89434e556cf": {
+      "county_id": "als_butler",
+      "name": "BUTLER",
+      "start_date": "1887-02-28",
+      "end_date": "2000-12-31",
+      "filename": "b89434e556cf.json"
+    },
+    "d0df8efd13db": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1887-02-28",
+      "end_date": "1893-02-20",
+      "filename": "d0df8efd13db.json"
+    },
+    "41e3210a8cd0": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1887-02-28",
+      "end_date": "1893-02-20",
+      "filename": "41e3210a8cd0.json"
+    },
+    "b62b23025223": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1887-02-28",
+      "end_date": "1890-12-04",
+      "filename": "b62b23025223.json"
+    },
+    "017be2a3dbd9": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1887-02-11",
+      "end_date": "1899-02-06",
+      "filename": "017be2a3dbd9.json"
+    },
+    "5b3400632ee8": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1887-02-22",
+      "end_date": "1889-02-06",
+      "filename": "5b3400632ee8.json"
+    },
+    "ee8ffd3dde25": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1887-02-22",
+      "end_date": "1889-02-06",
+      "filename": "ee8ffd3dde25.json"
+    },
+    "6656257a90c0": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1887-02-11",
+      "end_date": "1887-02-27",
+      "filename": "6656257a90c0.json"
+    },
+    "7b0b60a4d1e4": {
+      "county_id": "als_perry",
+      "name": "PERRY",
+      "start_date": "1889-02-28",
+      "end_date": "2000-12-31",
+      "filename": "7b0b60a4d1e4.json"
+    },
+    "b0026901679a": {
+      "county_id": "als_dallas",
+      "name": "DALLAS",
+      "start_date": "1889-02-28",
+      "end_date": "2000-12-31",
+      "filename": "b0026901679a.json"
+    },
+    "3ba795ca8eb0": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1889-02-07",
+      "end_date": "1897-02-12",
+      "filename": "3ba795ca8eb0.json"
+    },
+    "147815b876a4": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1889-02-07",
+      "end_date": "1897-02-12",
+      "filename": "147815b876a4.json"
+    },
+    "936a927f30a0": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1890-12-05",
+      "end_date": "1893-02-20",
+      "filename": "936a927f30a0.json"
+    },
+    "1640dae9e395": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1890-12-05",
+      "end_date": "1893-02-20",
+      "filename": "1640dae9e395.json"
+    },
+    "f3519e4f5ca3": {
+      "county_id": "als_covington",
+      "name": "COVINGTON",
+      "start_date": "1893-02-21",
+      "end_date": "2000-12-31",
+      "filename": "f3519e4f5ca3.json"
+    },
+    "2c7d54c25de7": {
+      "county_id": "als_crenshaw",
+      "name": "CRENSHAW",
+      "start_date": "1893-02-21",
+      "end_date": "2000-12-31",
+      "filename": "2c7d54c25de7.json"
+    },
+    "b60c0f512acb": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1893-02-21",
+      "end_date": "1901-04-22",
+      "filename": "b60c0f512acb.json"
+    },
+    "279f3ca33424": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1893-02-21",
+      "end_date": "1895-02-17",
+      "filename": "279f3ca33424.json"
+    },
+    "6ffb6f916fec": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1893-02-21",
+      "end_date": "1895-02-17",
+      "filename": "6ffb6f916fec.json"
+    },
+    "2c33d8fa7d82": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1893-02-21",
+      "end_date": "1895-02-17",
+      "filename": "2c33d8fa7d82.json"
+    },
+    "b83b3d96f2bb": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1893-02-09",
+      "end_date": "1894-12-11",
+      "filename": "b83b3d96f2bb.json"
+    },
+    "f9eafcaf50bf": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1893-02-09",
+      "end_date": "1894-12-11",
+      "filename": "f9eafcaf50bf.json"
+    },
+    "131dc496b36e": {
+      "county_id": "als_clay",
+      "name": "CLAY",
+      "start_date": "1894-12-12",
+      "end_date": "2000-12-31",
+      "filename": "131dc496b36e.json"
+    },
+    "add9e70ae1d5": {
+      "county_id": "als_talladega",
+      "name": "TALLADEGA",
+      "start_date": "1894-12-12",
+      "end_date": "2000-12-31",
+      "filename": "add9e70ae1d5.json"
+    },
+    "693031bb07d3": {
+      "county_id": "als_colbert",
+      "name": "COLBERT",
+      "start_date": "1895-02-06",
+      "end_date": "2000-12-31",
+      "filename": "693031bb07d3.json"
+    },
+    "1d8785ceb22d": {
+      "county_id": "als_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1895-02-06",
+      "end_date": "2000-12-31",
+      "filename": "1d8785ceb22d.json"
+    },
+    "8b1022b5fcb1": {
+      "county_id": "als_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1895-02-06",
+      "end_date": "2000-12-31",
+      "filename": "8b1022b5fcb1.json"
+    },
+    "1eae7252504a": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1895-02-18",
+      "end_date": "1901-02-27",
+      "filename": "1eae7252504a.json"
+    },
+    "e63f81c88b67": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1895-02-18",
+      "end_date": "1901-02-27",
+      "filename": "e63f81c88b67.json"
+    },
+    "d3a4f2d0a484": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1895-02-18",
+      "end_date": "1898-12-15",
+      "filename": "d3a4f2d0a484.json"
+    },
+    "83cedf2168a7": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1895-02-18",
+      "end_date": "1898-12-15",
+      "filename": "83cedf2168a7.json"
+    },
+    "672bf428b7fc": {
+      "county_id": "als_bullock",
+      "name": "BULLOCK",
+      "start_date": "1897-02-13",
+      "end_date": "2000-12-31",
+      "filename": "672bf428b7fc.json"
+    },
+    "e26ffc02bf1d": {
+      "county_id": "als_pike",
+      "name": "PIKE",
+      "start_date": "1897-02-13",
+      "end_date": "2000-12-31",
+      "filename": "e26ffc02bf1d.json"
+    },
+    "675242406b0a": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1898-12-16",
+      "end_date": "1915-09-09",
+      "filename": "675242406b0a.json"
+    },
+    "27d9ad845d12": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1898-12-16",
+      "end_date": "1901-03-04",
+      "filename": "27d9ad845d12.json"
+    },
+    "958910af699e": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1898-12-16",
+      "end_date": "1901-04-22",
+      "filename": "958910af699e.json"
+    },
+    "f2efb41ff521": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1899-10-01",
+      "end_date": "1907-03-01",
+      "filename": "f2efb41ff521.json"
+    },
+    "58080d54020f": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1899-10-01",
+      "end_date": "1907-03-01",
+      "filename": "58080d54020f.json"
+    },
+    "39a179b1dfca": {
+      "county_id": "als_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1899-02-07",
+      "end_date": "1915-09-09",
+      "filename": "39a179b1dfca.json"
+    },
+    "50f683e75fd7": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1899-02-10",
+      "end_date": "1901-09-30",
+      "filename": "50f683e75fd7.json"
+    },
+    "4d8f8c0175c7": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1899-02-10",
+      "end_date": "1901-09-30",
+      "filename": "4d8f8c0175c7.json"
+    },
+    "6d825aac02d4": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1899-02-07",
+      "end_date": "1899-09-30",
+      "filename": "6d825aac02d4.json"
+    },
+    "b1243236685f": {
+      "county_id": "als_clarke",
+      "name": "CLARKE",
+      "start_date": "1901-12-31",
+      "end_date": "2000-12-31",
+      "filename": "b1243236685f.json"
+    },
+    "947655e76cac": {
+      "county_id": "als_dekalb",
+      "name": "DE KALB",
+      "start_date": "1901-02-14",
+      "end_date": "2000-12-31",
+      "filename": "947655e76cac.json"
+    },
+    "c094c9cb14a3": {
+      "county_id": "als_mobile",
+      "name": "MOBILE",
+      "start_date": "1901-02-28",
+      "end_date": "2000-12-31",
+      "filename": "c094c9cb14a3.json"
+    },
+    "c2dfd0bc4aa8": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON",
+      "start_date": "1901-02-28",
+      "end_date": "2000-12-31",
+      "filename": "c2dfd0bc4aa8.json"
+    },
+    "ce24c85299b2": {
+      "county_id": "als_wilcox",
+      "name": "WILCOX",
+      "start_date": "1901-12-31",
+      "end_date": "2000-12-31",
+      "filename": "ce24c85299b2.json"
+    },
+    "1ea10f035ada": {
+      "county_id": "als_winston",
+      "name": "WINSTON",
+      "start_date": "1901-03-05",
+      "end_date": "2000-12-31",
+      "filename": "1ea10f035ada.json"
+    },
+    "b266e5007786": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1901-04-23",
+      "end_date": "1976-08-05",
+      "filename": "b266e5007786.json"
+    },
+    "afb16fd1c1ef": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1901-04-23",
+      "end_date": "1953-09-14",
+      "filename": "afb16fd1c1ef.json"
+    },
+    "e374fa2c0579": {
+      "county_id": "als_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1901-02-14",
+      "end_date": "1931-07-09",
+      "filename": "e374fa2c0579.json"
+    },
+    "20d40071c2d6": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1901-03-05",
+      "end_date": "1927-12-30",
+      "filename": "20d40071c2d6.json"
+    },
+    "7c4efa98cab3": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1901-10-01",
+      "end_date": "1907-08-08",
+      "filename": "7c4efa98cab3.json"
+    },
+    "dceb8a644a07": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1901-10-01",
+      "end_date": "1903-09-29",
+      "filename": "dceb8a644a07.json"
+    },
+    "712f41d42095": {
+      "county_id": "als_henry",
+      "name": "HENRY",
+      "start_date": "1903-02-09",
+      "end_date": "2000-12-31",
+      "filename": "712f41d42095.json"
+    },
+    "be17ad7c5cfd": {
+      "county_id": "als_dale",
+      "name": "DALE",
+      "start_date": "1903-02-09",
+      "end_date": "2000-12-31",
+      "filename": "be17ad7c5cfd.json"
+    },
+    "1fb750ee8ca6": {
+      "county_id": "als_houston",
+      "name": "HOUSTON",
+      "start_date": "1903-02-09",
+      "end_date": "2000-12-31",
+      "filename": "1fb750ee8ca6.json"
+    },
+    "e0305407856d": {
+      "county_id": "als_geneva",
+      "name": "GENEVA",
+      "start_date": "1903-02-09",
+      "end_date": "2000-12-31",
+      "filename": "e0305407856d.json"
+    },
+    "f107ac1f39aa": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1903-09-30",
+      "end_date": "1906-06-29",
+      "filename": "f107ac1f39aa.json"
+    },
+    "8010ed716db7": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1903-09-30",
+      "end_date": "1906-06-29",
+      "filename": "8010ed716db7.json"
+    },
+    "e0b7f01de2b6": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1906-06-30",
+      "end_date": "1907-07-24",
+      "filename": "e0b7f01de2b6.json"
+    },
+    "dd53b3cb3418": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1906-06-30",
+      "end_date": "1907-07-24",
+      "filename": "dd53b3cb3418.json"
+    },
+    "82c02b1688ff": {
+      "county_id": "als_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1907-07-29",
+      "end_date": "2000-12-31",
+      "filename": "82c02b1688ff.json"
+    },
+    "828ff543e559": {
+      "county_id": "als_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1907-07-29",
+      "end_date": "2000-12-31",
+      "filename": "828ff543e559.json"
+    },
+    "48a13a00d2cb": {
+      "county_id": "als_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1907-08-09",
+      "end_date": "1923-09-13",
+      "filename": "48a13a00d2cb.json"
+    },
+    "d108198fdc39": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1907-08-09",
+      "end_date": "1923-09-13",
+      "filename": "d108198fdc39.json"
+    },
+    "fc6f684fffab": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1931-07-10",
+      "end_date": "1976-08-05",
+      "filename": "fc6f684fffab.json"
+    },
+    "92454165fe4d": {
+      "county_id": "als_lee",
+      "name": "LEE",
+      "start_date": "1932-09-30",
+      "end_date": "2000-12-31",
+      "filename": "92454165fe4d.json"
+    },
+    "071b8721bbf1": {
+      "county_id": "als_russell",
+      "name": "RUSSELL",
+      "start_date": "1932-09-30",
+      "end_date": "2000-12-31",
+      "filename": "071b8721bbf1.json"
+    },
+    "5dd0d29ceb7e": {
+      "county_id": "als_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1943-10-01",
+      "end_date": "2000-12-31",
+      "filename": "5dd0d29ceb7e.json"
+    },
+    "ac708988e293": {
+      "county_id": "als_shelby",
+      "name": "SHELBY",
+      "start_date": "1943-10-01",
+      "end_date": "2000-12-31",
+      "filename": "ac708988e293.json"
+    },
+    "7aeb558099ea": {
+      "county_id": "als_cullman",
+      "name": "CULLMAN",
+      "start_date": "1953-09-15",
+      "end_date": "2000-12-31",
+      "filename": "7aeb558099ea.json"
+    },
+    "459eab91920e": {
+      "county_id": "als_walker",
+      "name": "WALKER",
+      "start_date": "1953-09-15",
+      "end_date": "2000-12-31",
+      "filename": "459eab91920e.json"
+    },
+    "854d1d38f7e0": {
+      "county_id": "als_tallapoosa",
+      "name": "TALLAPOOSA",
+      "start_date": "1963-09-14",
+      "end_date": "2000-12-31",
+      "filename": "854d1d38f7e0.json"
+    },
+    "1d8938c43c55": {
+      "county_id": "als_coosa",
+      "name": "COOSA",
+      "start_date": "1963-09-14",
+      "end_date": "2000-12-31",
+      "filename": "1d8938c43c55.json"
+    },
+    "adc3a2943e00": {
+      "county_id": "als_blount",
+      "name": "BLOUNT",
+      "start_date": "1976-08-06",
+      "end_date": "2000-12-31",
+      "filename": "adc3a2943e00.json"
+    },
+    "4d0d95437e95": {
+      "county_id": "als_etowah",
+      "name": "ETOWAH",
+      "start_date": "1976-08-06",
+      "end_date": "2000-12-31",
+      "filename": "4d0d95437e95.json"
+    },
+    "7563ae25ab75": {
+      "county_id": "als_bibb",
+      "name": "BIBB",
+      "start_date": "1980-05-28",
+      "end_date": "2000-12-31",
+      "filename": "7563ae25ab75.json"
+    },
+    "156b293211a7": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA",
+      "start_date": "1980-05-28",
+      "end_date": "2000-12-31",
+      "filename": "156b293211a7.json"
+    },
+    "8e15e638aa83": {
+      "county_id": "als_nca7",
+      "name": "NCA 7",
+      "start_date": "1820-12-19",
+      "end_date": "1832-01-20",
+      "filename": "8e15e638aa83.json"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "state": "NH",
+  "total_features": 63,
+  "features": {
+    "2bf1bcbc86ab": {
+      "county_id": "mas_norfolk01",
+      "name": "NORFOLK (Mass., ext)",
+      "start_date": "1643-05-10",
+      "end_date": "1679-09-17",
+      "filename": "2bf1bcbc86ab.json"
+    },
+    "1bac88cfe522": {
+      "county_id": "nhc",
+      "name": "New Hampshire Colony",
+      "start_date": "1679-09-18",
+      "end_date": "1769-04-28",
+      "filename": "1bac88cfe522.json"
+    },
+    "271e49f40384": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1769-04-29",
+      "end_date": "1778-11-09",
+      "filename": "271e49f40384.json"
+    },
+    "9b4f5b13871c": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1769-04-29",
+      "end_date": "1778-11-09",
+      "filename": "9b4f5b13871c.json"
+    },
+    "af5638642f20": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1769-04-29",
+      "end_date": "1778-11-26",
+      "filename": "af5638642f20.json"
+    },
+    "cb7f86d15cbe": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1769-04-29",
+      "end_date": "1778-11-26",
+      "filename": "cb7f86d15cbe.json"
+    },
+    "c0aa9dd60582": {
+      "county_id": "nhs_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1769-04-29",
+      "end_date": "1822-07-01",
+      "filename": "c0aa9dd60582.json"
+    },
+    "9db0b1682500": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1778-11-27",
+      "end_date": "1787-09-26",
+      "filename": "9db0b1682500.json"
+    },
+    "53bee22d7967": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1778-11-10",
+      "end_date": "1782-09-13",
+      "filename": "53bee22d7967.json"
+    },
+    "18245891d243": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1778-11-10",
+      "end_date": "1780-12-30",
+      "filename": "18245891d243.json"
+    },
+    "0f551a1a777c": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1778-11-27",
+      "end_date": "1780-12-30",
+      "filename": "0f551a1a777c.json"
+    },
+    "11ebc34c5626": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1780-12-31",
+      "end_date": "1787-09-26",
+      "filename": "11ebc34c5626.json"
+    },
+    "98ef35828668": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1780-12-31",
+      "end_date": "1782-09-13",
+      "filename": "98ef35828668.json"
+    },
+    "883763a6bf80": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR (Vt.)",
+      "start_date": "1781-04-13",
+      "end_date": "1782-02-22",
+      "filename": "883763a6bf80.json"
+    },
+    "7ddc2731450a": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR (Vt.)",
+      "start_date": "1781-04-11",
+      "end_date": "1781-04-12",
+      "filename": "7ddc2731450a.json"
+    },
+    "a44bfb6ff82e": {
+      "county_id": "vts_washington01",
+      "name": "WASHINGTON (Vt. ext)",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "a44bfb6ff82e.json"
+    },
+    "baa672f499f3": {
+      "county_id": "vts_eastunion",
+      "name": "East Union",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "baa672f499f3.json"
+    },
+    "22f88e2ab156": {
+      "county_id": "vts_orange",
+      "name": "ORANGE (Vt.)",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "22f88e2ab156.json"
+    },
+    "4220ee1d8835": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1782-09-14",
+      "end_date": "1800-11-26",
+      "filename": "4220ee1d8835.json"
+    },
+    "eb8cdc9ad1aa": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1782-09-14",
+      "end_date": "1800-11-26",
+      "filename": "eb8cdc9ad1aa.json"
+    },
+    "4a570ac61099": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1787-09-27",
+      "end_date": "1817-08-31",
+      "filename": "4a570ac61099.json"
+    },
+    "c71fc336b483": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1787-09-27",
+      "end_date": "1817-06-19",
+      "filename": "c71fc336b483.json"
+    },
+    "ab79773f5ef5": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1800-11-27",
+      "end_date": "1823-06-25",
+      "filename": "ab79773f5ef5.json"
+    },
+    "15ec9fa60cca": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1800-11-27",
+      "end_date": "1805-02-28",
+      "filename": "15ec9fa60cca.json"
+    },
+    "e8742f986d17": {
+      "county_id": "nhs_coos",
+      "name": "COOS",
+      "start_date": "1805-06-18",
+      "end_date": "1823-06-25",
+      "filename": "e8742f986d17.json"
+    },
+    "2855d603ca79": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1805-06-18",
+      "end_date": "1817-06-19",
+      "filename": "2855d603ca79.json"
+    },
+    "4d2d14052885": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1805-03-01",
+      "end_date": "1805-06-17",
+      "filename": "4d2d14052885.json"
+    },
+    "d99fdb514116": {
+      "county_id": "nhs_coos",
+      "name": "COOS",
+      "start_date": "1805-03-01",
+      "end_date": "1805-06-17",
+      "filename": "d99fdb514116.json"
+    },
+    "346e2fcc76be": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1817-09-01",
+      "end_date": "1827-09-03",
+      "filename": "346e2fcc76be.json"
+    },
+    "767e6b226585": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1817-09-01",
+      "end_date": "1822-07-01",
+      "filename": "767e6b226585.json"
+    },
+    "e1b9cd08d71c": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1817-06-20",
+      "end_date": "1817-08-31",
+      "filename": "e1b9cd08d71c.json"
+    },
+    "c8bf9be98917": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1817-06-20",
+      "end_date": "1832-12-20",
+      "filename": "c8bf9be98917.json"
+    },
+    "d85c3a593d74": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1822-07-02",
+      "end_date": "1823-07-31",
+      "filename": "d85c3a593d74.json"
+    },
+    "701ecdc3d137": {
+      "county_id": "nhs_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1822-07-02",
+      "end_date": "1823-07-31",
+      "filename": "701ecdc3d137.json"
+    },
+    "5c5166ec0ce3": {
+      "county_id": "nhs_coos",
+      "name": "COOS",
+      "start_date": "1823-06-26",
+      "end_date": "1853-01-04",
+      "filename": "5c5166ec0ce3.json"
+    },
+    "9db73fd55bcb": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1823-06-26",
+      "end_date": "1828-12-23",
+      "filename": "9db73fd55bcb.json"
+    },
+    "0824967d6608": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1823-08-01",
+      "end_date": "1824-12-09",
+      "filename": "0824967d6608.json"
+    },
+    "687a654de7dd": {
+      "county_id": "nhs_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1823-08-01",
+      "end_date": "1824-12-09",
+      "filename": "687a654de7dd.json"
+    },
+    "9c017b6fc576": {
+      "county_id": "nhs_merrimack",
+      "name": "MERRIMACK",
+      "start_date": "1823-08-01",
+      "end_date": "1828-12-23",
+      "filename": "9c017b6fc576.json"
+    },
+    "dea20e0c2bf5": {
+      "county_id": "nhs_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1824-12-10",
+      "end_date": "2000-12-31",
+      "filename": "dea20e0c2bf5.json"
+    },
+    "20be36b97513": {
+      "county_id": "nhs_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1824-12-10",
+      "end_date": "2000-12-31",
+      "filename": "20be36b97513.json"
+    },
+    "2b591555270a": {
+      "county_id": "nhs_cheshire",
+      "name": "CHESHIRE",
+      "start_date": "1827-09-04",
+      "end_date": "2000-12-31",
+      "filename": "2b591555270a.json"
+    },
+    "97d2bca5b265": {
+      "county_id": "nhs_sullivan",
+      "name": "SULLIVAN",
+      "start_date": "1827-09-04",
+      "end_date": "1837-01-12",
+      "filename": "97d2bca5b265.json"
+    },
+    "168c758c05d5": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1828-12-24",
+      "end_date": "1840-12-31",
+      "filename": "168c758c05d5.json"
+    },
+    "04eebd408a06": {
+      "county_id": "nhs_merrimack",
+      "name": "MERRIMACK",
+      "start_date": "1828-12-24",
+      "end_date": "1832-12-20",
+      "filename": "04eebd408a06.json"
+    },
+    "456706ca17da": {
+      "county_id": "nhs_merrimack",
+      "name": "MERRIMACK",
+      "start_date": "1832-12-21",
+      "end_date": "1868-06-30",
+      "filename": "456706ca17da.json"
+    },
+    "30ad0bfa3bad": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1832-12-21",
+      "end_date": "1837-01-12",
+      "filename": "30ad0bfa3bad.json"
+    },
+    "ad3964bbc1f2": {
+      "county_id": "nhs_sullivan",
+      "name": "SULLIVAN",
+      "start_date": "1837-01-13",
+      "end_date": "2000-12-31",
+      "filename": "ad3964bbc1f2.json"
+    },
+    "ddfeaef9c652": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1837-01-13",
+      "end_date": "1853-01-04",
+      "filename": "ddfeaef9c652.json"
+    },
+    "c29d79ca482b": {
+      "county_id": "nhs_strafford",
+      "name": "STRAFFORD",
+      "start_date": "1841-01-01",
+      "end_date": "2000-12-31",
+      "filename": "c29d79ca482b.json"
+    },
+    "243da697646c": {
+      "county_id": "nhs_carroll",
+      "name": "CARROLL",
+      "start_date": "1841-01-01",
+      "end_date": "1849-06-26",
+      "filename": "243da697646c.json"
+    },
+    "f1f22780add6": {
+      "county_id": "nhs_belknap",
+      "name": "BELKNAP",
+      "start_date": "1841-01-01",
+      "end_date": "1849-06-26",
+      "filename": "f1f22780add6.json"
+    },
+    "35e1cda8a727": {
+      "county_id": "nhs_belknap",
+      "name": "BELKNAP",
+      "start_date": "1849-06-27",
+      "end_date": "2000-12-31",
+      "filename": "35e1cda8a727.json"
+    },
+    "8180b3591fad": {
+      "county_id": "nhs_carroll",
+      "name": "CARROLL",
+      "start_date": "1849-06-27",
+      "end_date": "1853-01-04",
+      "filename": "8180b3591fad.json"
+    },
+    "21b2357fd08f": {
+      "county_id": "nhs_coos",
+      "name": "COOS",
+      "start_date": "1853-06-22",
+      "end_date": "2000-12-31",
+      "filename": "21b2357fd08f.json"
+    },
+    "b00f662850d3": {
+      "county_id": "nhs_carroll",
+      "name": "CARROLL",
+      "start_date": "1853-06-22",
+      "end_date": "2000-12-31",
+      "filename": "b00f662850d3.json"
+    },
+    "8ae77d8ca9e1": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1853-01-05",
+      "end_date": "1868-06-30",
+      "filename": "8ae77d8ca9e1.json"
+    },
+    "e1cd3a9af687": {
+      "county_id": "nhs_carroll",
+      "name": "CARROLL",
+      "start_date": "1853-01-05",
+      "end_date": "1853-06-21",
+      "filename": "e1cd3a9af687.json"
+    },
+    "792447bef2c9": {
+      "county_id": "nhs_coos",
+      "name": "COOS",
+      "start_date": "1853-01-05",
+      "end_date": "1853-06-21",
+      "filename": "792447bef2c9.json"
+    },
+    "119917af9181": {
+      "county_id": "nhs_merrimack",
+      "name": "MERRIMACK",
+      "start_date": "1868-07-01",
+      "end_date": "1874-07-09",
+      "filename": "119917af9181.json"
+    },
+    "d9f89345468b": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1868-07-01",
+      "end_date": "1874-07-09",
+      "filename": "d9f89345468b.json"
+    },
+    "75579b44c892": {
+      "county_id": "nhs_grafton",
+      "name": "GRAFTON",
+      "start_date": "1874-07-10",
+      "end_date": "2000-12-31",
+      "filename": "75579b44c892.json"
+    },
+    "6c20fc92d860": {
+      "county_id": "nhs_merrimack",
+      "name": "MERRIMACK",
+      "start_date": "1874-07-10",
+      "end_date": "2000-12-31",
+      "filename": "6c20fc92d860.json"
+    }
+  }
+}

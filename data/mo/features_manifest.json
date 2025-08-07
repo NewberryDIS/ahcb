@@ -1,0 +1,4514 @@
+{
+  "state": "MO",
+  "total_features": 644,
+  "features": {
+    "84b18d43819a": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES DIST.",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "84b18d43819a.json"
+    },
+    "f3ebee895a02": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE DIST.",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "f3ebee895a02.json"
+    },
+    "ed3ffb673468": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU DIST.",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "ed3ffb673468.json"
+    },
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID DIST.",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "2075254efae0": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS DIST.",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "2075254efae0.json"
+    },
+    "2a0cd9a030a7": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU DIST.",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "2a0cd9a030a7.json"
+    },
+    "76c7463a526b": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID DIST.",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "76c7463a526b.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID DIST.",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "d425265babbb": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU DIST.",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "d425265babbb.json"
+    },
+    "2b22f79fe0fd": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1812-12-07",
+      "end_date": "1813-10-31",
+      "filename": "2b22f79fe0fd.json"
+    },
+    "b67fd4902c30": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "b67fd4902c30.json"
+    },
+    "eccb7b463fdf": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "eccb7b463fdf.json"
+    },
+    "faac096e4fb5": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1812-12-07",
+      "end_date": "1813-10-31",
+      "filename": "faac096e4fb5.json"
+    },
+    "43a8973b99b9": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "43a8973b99b9.json"
+    },
+    "8c5fb2470d87": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "8c5fb2470d87.json"
+    },
+    "bfe63b6fdbf2": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1813-12-31",
+      "end_date": "1818-12-31",
+      "filename": "bfe63b6fdbf2.json"
+    },
+    "764de69741ef": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1813-12-31",
+      "end_date": "1815-03-08",
+      "filename": "764de69741ef.json"
+    },
+    "d0a7bd6417f1": {
+      "county_id": "mos_nca2",
+      "name": "NCA 2",
+      "start_date": "1813-12-31",
+      "end_date": "1815-03-08",
+      "filename": "d0a7bd6417f1.json"
+    },
+    "e325d5e593f8": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1813-12-31",
+      "end_date": "1816-02-29",
+      "filename": "e325d5e593f8.json"
+    },
+    "fbebc022efe9": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1813-12-31",
+      "end_date": "1821-12-18",
+      "filename": "fbebc022efe9.json"
+    },
+    "e9e7705c3b2f": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1813-12-31",
+      "end_date": "1818-12-31",
+      "filename": "e9e7705c3b2f.json"
+    },
+    "6afda97dcebd": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1813-11-01",
+      "end_date": "1813-12-30",
+      "filename": "6afda97dcebd.json"
+    },
+    "a001a78bfba9": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1813-11-01",
+      "end_date": "1813-12-30",
+      "filename": "a001a78bfba9.json"
+    },
+    "d8a8b3b19810": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1813-11-01",
+      "end_date": "1813-12-30",
+      "filename": "d8a8b3b19810.json"
+    },
+    "1cd92afecebf": {
+      "county_id": "mos_nca2",
+      "name": "NCA 2",
+      "start_date": "1815-03-09",
+      "end_date": "1818-10-19",
+      "filename": "1cd92afecebf.json"
+    },
+    "6fb263e438f1": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1815-03-01",
+      "end_date": "1819-01-31",
+      "filename": "6fb263e438f1.json"
+    },
+    "774916324e5b": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1815-03-09",
+      "end_date": "1816-02-29",
+      "filename": "774916324e5b.json"
+    },
+    "e91370491fed": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1816-03-01",
+      "end_date": "1818-12-31",
+      "filename": "e91370491fed.json"
+    },
+    "4486b89c749e": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1816-03-01",
+      "end_date": "1818-12-31",
+      "filename": "4486b89c749e.json"
+    },
+    "7afdb3357366": {
+      "county_id": "mos_howard",
+      "name": "HOWARD",
+      "start_date": "1816-03-01",
+      "end_date": "1819-01-31",
+      "filename": "7afdb3357366.json"
+    },
+    "88762ffea3fc": {
+      "county_id": "mos_nca2",
+      "name": "NCA 2",
+      "start_date": "1818-10-20",
+      "end_date": "1820-12-31",
+      "filename": "88762ffea3fc.json"
+    },
+    "b4cc5edb613a": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1819-02-01",
+      "end_date": "2000-12-31",
+      "filename": "b4cc5edb613a.json"
+    },
+    "8e6f9312062f": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1819-02-01",
+      "end_date": "1824-12-29",
+      "filename": "8e6f9312062f.json"
+    },
+    "c75e6500a14e": {
+      "county_id": "mos_pike",
+      "name": "PIKE",
+      "start_date": "1819-02-01",
+      "end_date": "1820-12-31",
+      "filename": "c75e6500a14e.json"
+    },
+    "c73745f7cea2": {
+      "county_id": "mos_howard",
+      "name": "HOWARD",
+      "start_date": "1819-02-01",
+      "end_date": "1820-12-31",
+      "filename": "c73745f7cea2.json"
+    },
+    "39ebbfc3bd26": {
+      "county_id": "mos_cooper",
+      "name": "COOPER",
+      "start_date": "1819-02-01",
+      "end_date": "1820-12-31",
+      "filename": "39ebbfc3bd26.json"
+    },
+    "555518f98305": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1819-02-01",
+      "end_date": "1819-07-03",
+      "filename": "555518f98305.json"
+    },
+    "0d5fcae64482": {
+      "county_id": "mos_nca4",
+      "name": "NCA 4",
+      "start_date": "1819-02-01",
+      "end_date": "1825-02-15",
+      "filename": "0d5fcae64482.json"
+    },
+    "201c3baabff9": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1819-02-01",
+      "end_date": "1825-02-15",
+      "filename": "201c3baabff9.json"
+    },
+    "dda4972f24ff": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1819-07-04",
+      "end_date": "1822-02-28",
+      "filename": "dda4972f24ff.json"
+    },
+    "76cef05b547c": {
+      "county_id": "mos_lawrence01",
+      "name": "LAWRENCE (orig)",
+      "start_date": "1819-07-04",
+      "end_date": "1825-02-15",
+      "filename": "76cef05b547c.json"
+    },
+    "c9e268d99959": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1819-07-04",
+      "end_date": "1820-12-31",
+      "filename": "c9e268d99959.json"
+    },
+    "785b1fa31004": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1819-01-01",
+      "end_date": "1876-10-21",
+      "filename": "785b1fa31004.json"
+    },
+    "cee5a119246d": {
+      "county_id": "mos_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1819-01-01",
+      "end_date": "1843-01-25",
+      "filename": "cee5a119246d.json"
+    },
+    "d7a8239ab519": {
+      "county_id": "mos_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1819-01-01",
+      "end_date": "1833-01-04",
+      "filename": "d7a8239ab519.json"
+    },
+    "e03c12978557": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1819-01-01",
+      "end_date": "1820-12-31",
+      "filename": "e03c12978557.json"
+    },
+    "7ab724797ee7": {
+      "county_id": "mos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1819-01-01",
+      "end_date": "1821-12-18",
+      "filename": "7ab724797ee7.json"
+    },
+    "80e339d89a29": {
+      "county_id": "mos_madison",
+      "name": "MADISON",
+      "start_date": "1819-01-01",
+      "end_date": "1843-02-24",
+      "filename": "80e339d89a29.json"
+    },
+    "1b7a976cd6bf": {
+      "county_id": "mos_nca3",
+      "name": "NCA 3",
+      "start_date": "1819-01-01",
+      "end_date": "1820-12-31",
+      "filename": "1b7a976cd6bf.json"
+    },
+    "f7af5a78e717": {
+      "county_id": "mos_stcharles",
+      "name": "ST. CHARLES",
+      "start_date": "1819-01-01",
+      "end_date": "1819-01-31",
+      "filename": "f7af5a78e717.json"
+    },
+    "4d979f723174": {
+      "county_id": "mos_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1819-01-01",
+      "end_date": "1820-12-31",
+      "filename": "4d979f723174.json"
+    },
+    "deeddbbfa24e": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1819-01-01",
+      "end_date": "1819-01-31",
+      "filename": "deeddbbfa24e.json"
+    },
+    "2611f8e31098": {
+      "county_id": "mos_stfrancois",
+      "name": "ST. FRANCOIS",
+      "start_date": "1821-12-19",
+      "end_date": "1833-01-15",
+      "filename": "2611f8e31098.json"
+    },
+    "bb0cf39ef63a": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1821-12-19",
+      "end_date": "1825-02-15",
+      "filename": "bb0cf39ef63a.json"
+    },
+    "351df13ce221": {
+      "county_id": "mos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1821-12-19",
+      "end_date": "1825-02-15",
+      "filename": "351df13ce221.json"
+    },
+    "308139364970": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1824-05-25",
+      "filename": "308139364970.json"
+    },
+    "e3e6b9118c98": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1821-08-10",
+      "end_date": "1825-02-15",
+      "filename": "e3e6b9118c98.json"
+    },
+    "33b48f9ddc4b": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1821-12-19",
+      "end_date": "1825-02-15",
+      "filename": "33b48f9ddc4b.json"
+    },
+    "2af9973db2e2": {
+      "county_id": "mos_howard",
+      "name": "HOWARD",
+      "start_date": "1821-01-01",
+      "end_date": "2000-12-31",
+      "filename": "2af9973db2e2.json"
+    },
+    "da9501b19fe1": {
+      "county_id": "mos_callaway",
+      "name": "CALLAWAY",
+      "start_date": "1821-01-01",
+      "end_date": "2000-12-31",
+      "filename": "da9501b19fe1.json"
+    },
+    "9a666c248640": {
+      "county_id": "mos_perry",
+      "name": "PERRY",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "9a666c248640.json"
+    },
+    "532027859b44": {
+      "county_id": "mos_pike",
+      "name": "PIKE",
+      "start_date": "1821-01-01",
+      "end_date": "1829-01-15",
+      "filename": "532027859b44.json"
+    },
+    "a07ee346e068": {
+      "county_id": "mos_chariton",
+      "name": "CHARITON",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "a07ee346e068.json"
+    },
+    "b825e637bc0c": {
+      "county_id": "mos_gasconade",
+      "name": "GASCONADE",
+      "start_date": "1821-01-01",
+      "end_date": "1825-01-13",
+      "filename": "b825e637bc0c.json"
+    },
+    "28ae904b1f1e": {
+      "county_id": "mos_cooper",
+      "name": "COOPER",
+      "start_date": "1821-01-01",
+      "end_date": "1833-01-04",
+      "filename": "28ae904b1f1e.json"
+    },
+    "4239b6917270": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1821-01-01",
+      "end_date": "1821-12-18",
+      "filename": "4239b6917270.json"
+    },
+    "31a135c85c19": {
+      "county_id": "mos_saline",
+      "name": "SALINE",
+      "start_date": "1821-01-01",
+      "end_date": "1829-01-11",
+      "filename": "31a135c85c19.json"
+    },
+    "8e590e7ccad3": {
+      "county_id": "mos_boone",
+      "name": "BOONE",
+      "start_date": "1821-01-01",
+      "end_date": "1822-01-01",
+      "filename": "8e590e7ccad3.json"
+    },
+    "29ca0d9685a4": {
+      "county_id": "mos_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1821-01-01",
+      "end_date": "1825-01-21",
+      "filename": "29ca0d9685a4.json"
+    },
+    "2f1cb480f0a0": {
+      "county_id": "mos_nca8",
+      "name": "NCA 8",
+      "start_date": "1821-01-01",
+      "end_date": "1825-01-13",
+      "filename": "2f1cb480f0a0.json"
+    },
+    "18baec48aab9": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1821-01-01",
+      "end_date": "1837-02-05",
+      "filename": "18baec48aab9.json"
+    },
+    "06eb570bc958": {
+      "county_id": "mos_lillard",
+      "name": "LILLARD (ext)",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "06eb570bc958.json"
+    },
+    "2a12ee8ad8bc": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1821-01-01",
+      "end_date": "1821-08-09",
+      "filename": "2a12ee8ad8bc.json"
+    },
+    "aa3b2cfeb566": {
+      "county_id": "mos_nca2",
+      "name": "NCA 2",
+      "start_date": "1821-01-01",
+      "end_date": "1821-08-09",
+      "filename": "aa3b2cfeb566.json"
+    },
+    "fd23598981d3": {
+      "county_id": "mos_nca5",
+      "name": "NCA 5",
+      "start_date": "1821-01-01",
+      "end_date": "1822-01-01",
+      "filename": "fd23598981d3.json"
+    },
+    "c66a97398b52": {
+      "county_id": "mos_ray",
+      "name": "RAY",
+      "start_date": "1821-01-01",
+      "end_date": "1822-01-01",
+      "filename": "c66a97398b52.json"
+    },
+    "197b5fd7fad0": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1821-01-01",
+      "end_date": "1822-01-01",
+      "filename": "197b5fd7fad0.json"
+    },
+    "c5472f68f82d": {
+      "county_id": "mos_nca6",
+      "name": "NCA 6",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "c5472f68f82d.json"
+    },
+    "938b58cd9711": {
+      "county_id": "mos_nca3",
+      "name": "NCA 3",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "938b58cd9711.json"
+    },
+    "b58858ca9c63": {
+      "county_id": "mos_nca9",
+      "name": "NCA 9",
+      "start_date": "1821-01-01",
+      "end_date": "1825-02-15",
+      "filename": "b58858ca9c63.json"
+    },
+    "0cac6c53ec4c": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1821-01-01",
+      "end_date": "1822-12-13",
+      "filename": "0cac6c53ec4c.json"
+    },
+    "61ce11efe650": {
+      "county_id": "mos_marion",
+      "name": "MARION",
+      "start_date": "1822-12-14",
+      "end_date": "1826-12-22",
+      "filename": "61ce11efe650.json"
+    },
+    "83670f3a27a9": {
+      "county_id": "mos_ray",
+      "name": "RAY",
+      "start_date": "1822-01-02",
+      "end_date": "1825-02-15",
+      "filename": "83670f3a27a9.json"
+    },
+    "82d97a5c5949": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1822-12-14",
+      "end_date": "1826-12-22",
+      "filename": "82d97a5c5949.json"
+    },
+    "7663a107e90a": {
+      "county_id": "mos_boone",
+      "name": "BOONE",
+      "start_date": "1822-01-02",
+      "end_date": "1825-02-15",
+      "filename": "7663a107e90a.json"
+    },
+    "887535984b0a": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1822-03-01",
+      "end_date": "1829-01-15",
+      "filename": "887535984b0a.json"
+    },
+    "5c5b65c7239e": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1822-03-01",
+      "end_date": "1824-12-29",
+      "filename": "5c5b65c7239e.json"
+    },
+    "9814590152d5": {
+      "county_id": "mos_nca10",
+      "name": "NCA 10",
+      "start_date": "1822-12-14",
+      "end_date": "1826-12-22",
+      "filename": "9814590152d5.json"
+    },
+    "a415c3b035c6": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1822-01-02",
+      "end_date": "1825-02-15",
+      "filename": "a415c3b035c6.json"
+    },
+    "c620e916f23f": {
+      "county_id": "mos_clay",
+      "name": "CLAY",
+      "start_date": "1822-01-02",
+      "end_date": "1825-02-15",
+      "filename": "c620e916f23f.json"
+    },
+    "058029c91d6a": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1824-12-30",
+      "end_date": "1825-02-15",
+      "filename": "058029c91d6a.json"
+    },
+    "9e6600047e7f": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1824-12-30",
+      "end_date": "1825-02-15",
+      "filename": "9e6600047e7f.json"
+    },
+    "64e01fd5a25d": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1824-05-26",
+      "end_date": "1828-05-05",
+      "filename": "64e01fd5a25d.json"
+    },
+    "a290bf96f1fa": {
+      "county_id": "mos_clay",
+      "name": "CLAY",
+      "start_date": "1825-02-16",
+      "end_date": "2000-12-31",
+      "filename": "a290bf96f1fa.json"
+    },
+    "e9b35945188b": {
+      "county_id": "mos_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1825-02-16",
+      "end_date": "2000-12-31",
+      "filename": "e9b35945188b.json"
+    },
+    "52e68f284359": {
+      "county_id": "mos_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-15",
+      "filename": "52e68f284359.json"
+    },
+    "28e2c78b3eef": {
+      "county_id": "mos_jackson",
+      "name": "JACKSON",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-15",
+      "filename": "28e2c78b3eef.json"
+    },
+    "453f40394865": {
+      "county_id": "mos_boone",
+      "name": "BOONE",
+      "start_date": "1825-02-16",
+      "end_date": "1845-03-27",
+      "filename": "453f40394865.json"
+    },
+    "d896a77d77e7": {
+      "county_id": "mos_chariton",
+      "name": "CHARITON",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-21",
+      "filename": "d896a77d77e7.json"
+    },
+    "ada22a1ddd3a": {
+      "county_id": "mos_ray",
+      "name": "RAY",
+      "start_date": "1825-02-16",
+      "end_date": "1839-01-24",
+      "filename": "ada22a1ddd3a.json"
+    },
+    "0a5f8f77aa19": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-15",
+      "filename": "0a5f8f77aa19.json"
+    },
+    "e54601b450a3": {
+      "county_id": "mos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1825-02-16",
+      "end_date": "1849-03-06",
+      "filename": "e54601b450a3.json"
+    },
+    "ec15058a9a22": {
+      "county_id": "mos_perry",
+      "name": "PERRY",
+      "start_date": "1825-02-16",
+      "end_date": "1847-02-14",
+      "filename": "ec15058a9a22.json"
+    },
+    "2d26b574ddcd": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1825-02-16",
+      "end_date": "1843-01-01",
+      "filename": "2d26b574ddcd.json"
+    },
+    "6de7795993ba": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-15",
+      "filename": "6de7795993ba.json"
+    },
+    "ef9b9c5e4118": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-15",
+      "filename": "ef9b9c5e4118.json"
+    },
+    "fd125f40f077": {
+      "county_id": "mos_nca3",
+      "name": "NCA 3",
+      "start_date": "1825-02-16",
+      "end_date": "1831-01-11",
+      "filename": "fd125f40f077.json"
+    },
+    "cd74c23b0e15": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-01",
+      "filename": "cd74c23b0e15.json"
+    },
+    "1f9024c523d0": {
+      "county_id": "mos_nca6",
+      "name": "NCA 6",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-21",
+      "filename": "1f9024c523d0.json"
+    },
+    "d605b22420fc": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-01",
+      "filename": "d605b22420fc.json"
+    },
+    "d976aad2150f": {
+      "county_id": "mos_nca11",
+      "name": "NCA 11",
+      "start_date": "1825-02-16",
+      "end_date": "1831-01-03",
+      "filename": "d976aad2150f.json"
+    },
+    "940fc767fd97": {
+      "county_id": "mos_nca8",
+      "name": "NCA 8",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-22",
+      "filename": "940fc767fd97.json"
+    },
+    "ac2be2f4255e": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1825-02-16",
+      "end_date": "1829-01-15",
+      "filename": "ac2be2f4255e.json"
+    },
+    "f629c70fb799": {
+      "county_id": "mos_nca14",
+      "name": "NCA 14",
+      "start_date": "1825-02-16",
+      "end_date": "1843-02-24",
+      "filename": "f629c70fb799.json"
+    },
+    "7bc583222a48": {
+      "county_id": "mos_nca13",
+      "name": "NCA 13",
+      "start_date": "1825-02-16",
+      "end_date": "1833-01-04",
+      "filename": "7bc583222a48.json"
+    },
+    "87e1af1b51b3": {
+      "county_id": "mos_gasconade",
+      "name": "GASCONADE",
+      "start_date": "1825-01-14",
+      "end_date": "1841-01-28",
+      "filename": "87e1af1b51b3.json"
+    },
+    "1721c45e9a7d": {
+      "county_id": "mos_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1825-01-22",
+      "end_date": "1825-02-15",
+      "filename": "1721c45e9a7d.json"
+    },
+    "5f79dfb1b786": {
+      "county_id": "mos_nca11",
+      "name": "NCA 11",
+      "start_date": "1825-01-22",
+      "end_date": "1825-02-15",
+      "filename": "5f79dfb1b786.json"
+    },
+    "2c160c51e6d2": {
+      "county_id": "mos_nca8",
+      "name": "NCA 8",
+      "start_date": "1825-01-14",
+      "end_date": "1825-02-15",
+      "filename": "2c160c51e6d2.json"
+    },
+    "12d9f57aca49": {
+      "county_id": "mos_marion",
+      "name": "MARION",
+      "start_date": "1826-12-23",
+      "end_date": "1843-02-23",
+      "filename": "12d9f57aca49.json"
+    },
+    "5bb7ccb1150b": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1826-12-23",
+      "end_date": "1829-01-15",
+      "filename": "5bb7ccb1150b.json"
+    },
+    "161152f93bf3": {
+      "county_id": "mos_nca10",
+      "name": "NCA 10",
+      "start_date": "1826-12-23",
+      "end_date": "1831-01-05",
+      "filename": "161152f93bf3.json"
+    },
+    "46b524a1bd66": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1828-05-06",
+      "end_date": "1834-06-27",
+      "filename": "46b524a1bd66.json"
+    },
+    "865ce9cb495a": {
+      "county_id": "mos_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1829-01-22",
+      "end_date": "2000-12-31",
+      "filename": "865ce9cb495a.json"
+    },
+    "1bca16cb7e88": {
+      "county_id": "mos_chariton",
+      "name": "CHARITON",
+      "start_date": "1829-01-22",
+      "end_date": "1837-01-05",
+      "filename": "1bca16cb7e88.json"
+    },
+    "16e4f08d2271": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1829-01-22",
+      "end_date": "1831-01-05",
+      "filename": "16e4f08d2271.json"
+    },
+    "1e4d9c843deb": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1829-01-23",
+      "end_date": "1831-01-03",
+      "filename": "1e4d9c843deb.json"
+    },
+    "9f6b7c3f88c6": {
+      "county_id": "mos_nca6",
+      "name": "NCA 6",
+      "start_date": "1829-01-22",
+      "end_date": "1837-01-05",
+      "filename": "9f6b7c3f88c6.json"
+    },
+    "1e37c30dd452": {
+      "county_id": "mos_pike",
+      "name": "PIKE",
+      "start_date": "1829-01-16",
+      "end_date": "2000-12-31",
+      "filename": "1e37c30dd452.json"
+    },
+    "04fe8a503e94": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1829-01-16",
+      "end_date": "1829-01-21",
+      "filename": "04fe8a503e94.json"
+    },
+    "f5b2bc0aa66e": {
+      "county_id": "mos_saline",
+      "name": "SALINE",
+      "start_date": "1829-01-12",
+      "end_date": "1833-01-25",
+      "filename": "f5b2bc0aa66e.json"
+    },
+    "90d00e076fc7": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1829-01-16",
+      "end_date": "1842-12-18",
+      "filename": "90d00e076fc7.json"
+    },
+    "a66cbcdc4325": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1829-01-16",
+      "end_date": "1835-01-01",
+      "filename": "a66cbcdc4325.json"
+    },
+    "08a4a23e1119": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1829-01-16",
+      "end_date": "1835-01-01",
+      "filename": "08a4a23e1119.json"
+    },
+    "612036080817": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1829-01-16",
+      "end_date": "1835-01-01",
+      "filename": "612036080817.json"
+    },
+    "5aa5c780e2c3": {
+      "county_id": "mos_nca15",
+      "name": "NCA 15",
+      "start_date": "1829-01-12",
+      "end_date": "1833-01-04",
+      "filename": "5aa5c780e2c3.json"
+    },
+    "7126ed9b04ab": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1829-01-16",
+      "end_date": "1831-01-03",
+      "filename": "7126ed9b04ab.json"
+    },
+    "1c46bd433040": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1831-01-12",
+      "end_date": "1837-01-05",
+      "filename": "1c46bd433040.json"
+    },
+    "80a016e5ae29": {
+      "county_id": "mos_audrain",
+      "name": "AUDRAIN",
+      "start_date": "1831-01-12",
+      "end_date": "1843-02-23",
+      "filename": "80a016e5ae29.json"
+    },
+    "c1aef766afce": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1831-01-12",
+      "end_date": "1835-01-01",
+      "filename": "c1aef766afce.json"
+    },
+    "ab0c9e0f38fd": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1831-01-12",
+      "end_date": "1831-01-17",
+      "filename": "ab0c9e0f38fd.json"
+    },
+    "9be98e6f5d1e": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1831-01-12",
+      "end_date": "1833-01-04",
+      "filename": "9be98e6f5d1e.json"
+    },
+    "63096b04c1ef": {
+      "county_id": "mos_nca3",
+      "name": "NCA 3",
+      "start_date": "1831-01-12",
+      "end_date": "1845-03-27",
+      "filename": "63096b04c1ef.json"
+    },
+    "2555178b5ced": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1831-01-18",
+      "end_date": "1833-01-01",
+      "filename": "2555178b5ced.json"
+    },
+    "60c3f14a2e74": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1831-01-06",
+      "end_date": "1831-01-11",
+      "filename": "60c3f14a2e74.json"
+    },
+    "69ec97db4388": {
+      "county_id": "mos_monroe",
+      "name": "MONROE",
+      "start_date": "1831-01-06",
+      "end_date": "1843-02-12",
+      "filename": "69ec97db4388.json"
+    },
+    "1608cb520964": {
+      "county_id": "mos_nca10",
+      "name": "NCA 10",
+      "start_date": "1831-01-06",
+      "end_date": "1833-01-01",
+      "filename": "1608cb520964.json"
+    },
+    "32e69b27e8f2": {
+      "county_id": "mos_nca17",
+      "name": "NCA 17",
+      "start_date": "1831-01-06",
+      "end_date": "1831-01-11",
+      "filename": "32e69b27e8f2.json"
+    },
+    "9e99babc7da4": {
+      "county_id": "mos_nca11",
+      "name": "NCA 11",
+      "start_date": "1831-01-04",
+      "end_date": "1845-03-27",
+      "filename": "9e99babc7da4.json"
+    },
+    "a6c310bd7359": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1831-01-04",
+      "end_date": "1831-01-11",
+      "filename": "a6c310bd7359.json"
+    },
+    "aa370c9f8925": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1831-01-04",
+      "end_date": "1831-01-11",
+      "filename": "aa370c9f8925.json"
+    },
+    "b970758f0c30": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1831-01-04",
+      "end_date": "1833-01-04",
+      "filename": "b970758f0c30.json"
+    },
+    "9d3f9f340b1b": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1872-03-09",
+      "end_date": "2000-12-31",
+      "filename": "9d3f9f340b1b.json"
+    },
+    "e90714fdabb7": {
+      "county_id": "mos_carter",
+      "name": "CARTER",
+      "start_date": "1872-03-09",
+      "end_date": "2000-12-31",
+      "filename": "e90714fdabb7.json"
+    },
+    "1c2b52a80ddf": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1872-03-09",
+      "end_date": "2000-12-31",
+      "filename": "1c2b52a80ddf.json"
+    },
+    "77b90cad5f2c": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1872-01-11",
+      "end_date": "2000-12-31",
+      "filename": "77b90cad5f2c.json"
+    },
+    "a78f4a78cff1": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1872-01-11",
+      "end_date": "2000-12-31",
+      "filename": "a78f4a78cff1.json"
+    },
+    "69e1bfd6ac5e": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1872-03-09",
+      "end_date": "1879-05-30",
+      "filename": "69e1bfd6ac5e.json"
+    },
+    "2120e0d8e48e": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1872-03-09",
+      "end_date": "1872-03-13",
+      "filename": "2120e0d8e48e.json"
+    },
+    "4447359e98ec": {
+      "county_id": "mos_butler",
+      "name": "BUTLER",
+      "start_date": "1872-03-09",
+      "end_date": "1872-03-31",
+      "filename": "4447359e98ec.json"
+    },
+    "62e7fbc4d266": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1875-03-29",
+      "end_date": "2000-12-31",
+      "filename": "62e7fbc4d266.json"
+    },
+    "98a366f5a058": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1875-03-29",
+      "end_date": "1879-05-30",
+      "filename": "98a366f5a058.json"
+    },
+    "5a3d7d9b443f": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS",
+      "start_date": "1876-10-22",
+      "end_date": "2000-12-31",
+      "filename": "5a3d7d9b443f.json"
+    },
+    "93bfbf59b534": {
+      "county_id": "mos_stlouiscity",
+      "name": "ST. LOUIS CITY",
+      "start_date": "1876-10-22",
+      "end_date": "2000-12-31",
+      "filename": "93bfbf59b534.json"
+    },
+    "c113a35f1cf7": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1845-03-15",
+      "end_date": "1849-02-04",
+      "filename": "c113a35f1cf7.json"
+    },
+    "8cc1a28028ce": {
+      "county_id": "mos_nca23",
+      "name": "NCA 23",
+      "start_date": "1845-03-15",
+      "end_date": "1846-12-17",
+      "filename": "8cc1a28028ce.json"
+    },
+    "4141e2a0c78d": {
+      "county_id": "mos_nca36",
+      "name": "NCA 36",
+      "start_date": "1845-02-28",
+      "end_date": "1846-12-17",
+      "filename": "4141e2a0c78d.json"
+    },
+    "58538b03d241": {
+      "county_id": "mos_nca34",
+      "name": "NCA 34",
+      "start_date": "1845-02-28",
+      "end_date": "1861-02-24",
+      "filename": "58538b03d241.json"
+    },
+    "076a0d437869": {
+      "county_id": "mos_nca37",
+      "name": "NCA 37",
+      "start_date": "1845-03-24",
+      "end_date": "1849-02-23",
+      "filename": "076a0d437869.json"
+    },
+    "c379e622eada": {
+      "county_id": "mos_saline",
+      "name": "SALINE",
+      "start_date": "1845-03-28",
+      "end_date": "2000-12-31",
+      "filename": "c379e622eada.json"
+    },
+    "383d6bf7c264": {
+      "county_id": "mos_boone",
+      "name": "BOONE",
+      "start_date": "1845-03-28",
+      "end_date": "2000-12-31",
+      "filename": "383d6bf7c264.json"
+    },
+    "b5c1e5ad8357": {
+      "county_id": "mos_cooper",
+      "name": "COOPER",
+      "start_date": "1845-03-28",
+      "end_date": "2000-12-31",
+      "filename": "b5c1e5ad8357.json"
+    },
+    "55bba7a1bded": {
+      "county_id": "mos_barry",
+      "name": "BARRY",
+      "start_date": "1845-03-28",
+      "end_date": "2000-12-31",
+      "filename": "55bba7a1bded.json"
+    },
+    "8b6e3fc3b9ab": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1845-03-28",
+      "end_date": "1855-12-12",
+      "filename": "8b6e3fc3b9ab.json"
+    },
+    "521a75b89cad": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1845-03-28",
+      "end_date": "1855-02-27",
+      "filename": "521a75b89cad.json"
+    },
+    "6634766bc3b0": {
+      "county_id": "mos_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1833-01-16",
+      "end_date": "1834-12-12",
+      "filename": "6634766bc3b0.json"
+    },
+    "add257a93976": {
+      "county_id": "mos_jackson",
+      "name": "JACKSON",
+      "start_date": "1833-01-16",
+      "end_date": "1835-03-02",
+      "filename": "add257a93976.json"
+    },
+    "76fd25ae39c0": {
+      "county_id": "mos_cass",
+      "name": "VAN BUREN",
+      "start_date": "1833-01-16",
+      "end_date": "1834-12-12",
+      "filename": "76fd25ae39c0.json"
+    },
+    "b1ab5f883428": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1833-01-16",
+      "end_date": "1841-01-28",
+      "filename": "b1ab5f883428.json"
+    },
+    "2ba6acc06b6f": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1833-01-16",
+      "end_date": "1833-01-25",
+      "filename": "2ba6acc06b6f.json"
+    },
+    "66578743883f": {
+      "county_id": "mos_stfrancois",
+      "name": "ST. FRANCOIS",
+      "start_date": "1833-01-16",
+      "end_date": "1843-01-01",
+      "filename": "66578743883f.json"
+    },
+    "fe4e37d12cf3": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1833-01-16",
+      "end_date": "1857-02-16",
+      "filename": "fe4e37d12cf3.json"
+    },
+    "fc56cec3402b": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1833-01-16",
+      "end_date": "1834-12-12",
+      "filename": "fc56cec3402b.json"
+    },
+    "bc31a8aae3ea": {
+      "county_id": "mos_nca15",
+      "name": "NCA 15",
+      "start_date": "1833-01-16",
+      "end_date": "1833-01-25",
+      "filename": "bc31a8aae3ea.json"
+    },
+    "d422965b023f": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1833-01-19",
+      "end_date": "1833-01-25",
+      "filename": "d422965b023f.json"
+    },
+    "eddf08a10bfc": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1833-01-19",
+      "end_date": "1837-01-13",
+      "filename": "eddf08a10bfc.json"
+    },
+    "f957bb95996a": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1833-01-19",
+      "end_date": "1835-01-04",
+      "filename": "f957bb95996a.json"
+    },
+    "8ebfdf6af3ca": {
+      "county_id": "mos_pettis",
+      "name": "PETTIS",
+      "start_date": "1833-01-26",
+      "end_date": "1834-12-02",
+      "filename": "8ebfdf6af3ca.json"
+    },
+    "d63d85d94876": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1833-01-26",
+      "end_date": "1835-01-02",
+      "filename": "d63d85d94876.json"
+    },
+    "e6534f07fbd3": {
+      "county_id": "mos_saline",
+      "name": "SALINE",
+      "start_date": "1833-01-26",
+      "end_date": "1845-03-27",
+      "filename": "e6534f07fbd3.json"
+    },
+    "8cc729c81db5": {
+      "county_id": "mos_cooper",
+      "name": "COOPER",
+      "start_date": "1833-01-26",
+      "end_date": "1845-03-27",
+      "filename": "8cc729c81db5.json"
+    },
+    "8f96965e5424": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1833-01-26",
+      "end_date": "1835-01-25",
+      "filename": "8f96965e5424.json"
+    },
+    "8bb920d7f23d": {
+      "county_id": "mos_lewis",
+      "name": "LEWIS",
+      "start_date": "1833-01-02",
+      "end_date": "2000-12-31",
+      "filename": "8bb920d7f23d.json"
+    },
+    "86fb8ca23b94": {
+      "county_id": "mos_clinton",
+      "name": "CLINTON",
+      "start_date": "1833-01-02",
+      "end_date": "2000-12-31",
+      "filename": "86fb8ca23b94.json"
+    },
+    "b8d986bdf382": {
+      "county_id": "mos_carroll",
+      "name": "CARROLL",
+      "start_date": "1833-01-02",
+      "end_date": "2000-12-31",
+      "filename": "b8d986bdf382.json"
+    },
+    "cca7d231625d": {
+      "county_id": "mos_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1833-01-05",
+      "end_date": "1849-02-04",
+      "filename": "cca7d231625d.json"
+    },
+    "5cd3b53e4218": {
+      "county_id": "mos_warren",
+      "name": "WARREN",
+      "start_date": "1833-01-05",
+      "end_date": "1843-01-25",
+      "filename": "5cd3b53e4218.json"
+    },
+    "e6934df3af85": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1833-01-05",
+      "end_date": "1833-01-18",
+      "filename": "e6934df3af85.json"
+    },
+    "0ccc8c2c1b47": {
+      "county_id": "mos_cooper",
+      "name": "COOPER",
+      "start_date": "1833-01-05",
+      "end_date": "1833-01-25",
+      "filename": "0ccc8c2c1b47.json"
+    },
+    "bcbe9fade545": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1833-01-05",
+      "end_date": "1835-01-25",
+      "filename": "bcbe9fade545.json"
+    },
+    "9dd8ea3a1648": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1833-01-05",
+      "end_date": "1833-01-18",
+      "filename": "9dd8ea3a1648.json"
+    },
+    "7361901a9f6d": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1833-01-02",
+      "end_date": "1837-03-27",
+      "filename": "7361901a9f6d.json"
+    },
+    "50c85d62d032": {
+      "county_id": "mos_nca15",
+      "name": "NCA 15",
+      "start_date": "1833-01-05",
+      "end_date": "1833-01-15",
+      "filename": "50c85d62d032.json"
+    },
+    "66ac7a97bb07": {
+      "county_id": "mos_nca10",
+      "name": "NCA 10",
+      "start_date": "1833-01-02",
+      "end_date": "1835-01-01",
+      "filename": "66ac7a97bb07.json"
+    },
+    "805a867088d1": {
+      "county_id": "mos_nca19",
+      "name": "NCA 19",
+      "start_date": "1833-01-02",
+      "end_date": "1836-12-15",
+      "filename": "805a867088d1.json"
+    },
+    "4901f18d11ff": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1833-01-02",
+      "end_date": "1836-12-28",
+      "filename": "4901f18d11ff.json"
+    },
+    "a875d1f2ca60": {
+      "county_id": "mos_nca18",
+      "name": "NCA 18",
+      "start_date": "1833-01-02",
+      "end_date": "1837-01-05",
+      "filename": "a875d1f2ca60.json"
+    },
+    "d3a8855fc798": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1833-01-02",
+      "end_date": "1833-01-15",
+      "filename": "d3a8855fc798.json"
+    },
+    "70ffa0e23220": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1833-01-02",
+      "end_date": "1835-01-04",
+      "filename": "70ffa0e23220.json"
+    },
+    "081ab34e8bb9": {
+      "county_id": "mos_pettis",
+      "name": "PETTIS",
+      "start_date": "1834-12-03",
+      "end_date": "1845-02-25",
+      "filename": "081ab34e8bb9.json"
+    },
+    "5b00708cc7aa": {
+      "county_id": "mos_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1834-12-13",
+      "end_date": "1847-01-14",
+      "filename": "5b00708cc7aa.json"
+    },
+    "f1718b7faeaa": {
+      "county_id": "mos_johnson",
+      "name": "JOHNSON",
+      "start_date": "1834-12-13",
+      "end_date": "1847-01-14",
+      "filename": "f1718b7faeaa.json"
+    },
+    "97ca98c27fd4": {
+      "county_id": "mos_henry",
+      "name": "RIVES",
+      "start_date": "1834-12-13",
+      "end_date": "1841-02-14",
+      "filename": "97ca98c27fd4.json"
+    },
+    "949bd17a7a7e": {
+      "county_id": "mos_cass",
+      "name": "VAN BUREN",
+      "start_date": "1834-12-13",
+      "end_date": "1835-03-02",
+      "filename": "949bd17a7a7e.json"
+    },
+    "382f1aeafd03": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1834-06-28",
+      "end_date": "1837-03-27",
+      "filename": "382f1aeafd03.json"
+    },
+    "e174d248d7f5": {
+      "county_id": "mos_nca20",
+      "name": "NCA 20",
+      "start_date": "1834-12-03",
+      "end_date": "1835-01-02",
+      "filename": "e174d248d7f5.json"
+    },
+    "7ef9a9fe8a2c": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1834-12-13",
+      "end_date": "1835-01-02",
+      "filename": "7ef9a9fe8a2c.json"
+    },
+    "c7f4508e8663": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1835-02-17",
+      "end_date": "1841-01-28",
+      "filename": "c7f4508e8663.json"
+    },
+    "b6a669ef705b": {
+      "county_id": "mos_jackson",
+      "name": "JACKSON",
+      "start_date": "1835-03-03",
+      "end_date": "1847-01-14",
+      "filename": "b6a669ef705b.json"
+    },
+    "6996788bf7a3": {
+      "county_id": "mos_cass",
+      "name": "VAN BUREN",
+      "start_date": "1835-03-03",
+      "end_date": "1841-02-01",
+      "filename": "6996788bf7a3.json"
+    },
+    "e4e5c0131892": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1835-01-26",
+      "end_date": "1841-01-28",
+      "filename": "e4e5c0131892.json"
+    },
+    "6bced18167d1": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1835-01-26",
+      "end_date": "1835-02-16",
+      "filename": "6bced18167d1.json"
+    },
+    "5135e02cbb31": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1835-01-26",
+      "end_date": "1837-02-05",
+      "filename": "5135e02cbb31.json"
+    },
+    "bc82f584b86c": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1835-01-26",
+      "end_date": "1835-03-13",
+      "filename": "bc82f584b86c.json"
+    },
+    "a3801ae44ffc": {
+      "county_id": "mos_nca22",
+      "name": "NCA 22",
+      "start_date": "1835-01-26",
+      "end_date": "1835-03-18",
+      "filename": "a3801ae44ffc.json"
+    },
+    "4ded7534f771": {
+      "county_id": "mos_nca21",
+      "name": "NCA 21",
+      "start_date": "1835-01-26",
+      "end_date": "1835-03-16",
+      "filename": "4ded7534f771.json"
+    },
+    "c027d26c0d95": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1835-01-26",
+      "end_date": "1837-01-13",
+      "filename": "c027d26c0d95.json"
+    },
+    "99d04905564b": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1835-01-05",
+      "end_date": "1835-03-13",
+      "filename": "99d04905564b.json"
+    },
+    "04e17814665c": {
+      "county_id": "mos_polk",
+      "name": "POLK",
+      "start_date": "1835-01-05",
+      "end_date": "1835-03-13",
+      "filename": "04e17814665c.json"
+    },
+    "e086e1f16303": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1835-01-05",
+      "end_date": "1835-01-25",
+      "filename": "e086e1f16303.json"
+    },
+    "c3d9070b857f": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1835-01-05",
+      "end_date": "1835-01-25",
+      "filename": "c3d9070b857f.json"
+    },
+    "38896e06732a": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1835-01-05",
+      "end_date": "1835-01-25",
+      "filename": "38896e06732a.json"
+    },
+    "564488d91919": {
+      "county_id": "mos_barry",
+      "name": "BARRY",
+      "start_date": "1835-01-05",
+      "end_date": "1835-03-13",
+      "filename": "564488d91919.json"
+    },
+    "3450d830f011": {
+      "county_id": "mos_polk",
+      "name": "POLK",
+      "start_date": "1835-03-14",
+      "end_date": "1841-01-11",
+      "filename": "3450d830f011.json"
+    },
+    "585fe1f5a746": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1835-03-14",
+      "end_date": "1841-01-28",
+      "filename": "585fe1f5a746.json"
+    },
+    "259702455a4c": {
+      "county_id": "mos_nca21",
+      "name": "NCA 21",
+      "start_date": "1835-03-17",
+      "end_date": "1837-02-05",
+      "filename": "259702455a4c.json"
+    },
+    "b4d472ac88af": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1835-03-14",
+      "end_date": "1835-03-18",
+      "filename": "b4d472ac88af.json"
+    },
+    "2fe326c17b38": {
+      "county_id": "mos_barry",
+      "name": "BARRY",
+      "start_date": "1835-03-14",
+      "end_date": "1838-12-30",
+      "filename": "2fe326c17b38.json"
+    },
+    "483d80b98bff": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1835-03-19",
+      "end_date": "1849-03-01",
+      "filename": "483d80b98bff.json"
+    },
+    "ddfe271fbef0": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1835-03-19",
+      "end_date": "1839-01-24",
+      "filename": "ddfe271fbef0.json"
+    },
+    "f2670380e375": {
+      "county_id": "mos_nca22",
+      "name": "NCA 22",
+      "start_date": "1835-03-19",
+      "end_date": "1841-01-28",
+      "filename": "f2670380e375.json"
+    },
+    "1a1f947df8d1": {
+      "county_id": "mos_white",
+      "name": "WHITE (ext)",
+      "start_date": "1835-03-19",
+      "end_date": "1837-01-05",
+      "filename": "1a1f947df8d1.json"
+    },
+    "5bc2f0dd9ac3": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1835-01-03",
+      "end_date": "1835-01-04",
+      "filename": "5bc2f0dd9ac3.json"
+    },
+    "cc9691cc504c": {
+      "county_id": "mos_benton",
+      "name": "BENTON",
+      "start_date": "1835-01-03",
+      "end_date": "1845-02-13",
+      "filename": "cc9691cc504c.json"
+    },
+    "9710754c9b05": {
+      "county_id": "mos_shelby",
+      "name": "SHELBY",
+      "start_date": "1835-01-02",
+      "end_date": "1843-02-12",
+      "filename": "9710754c9b05.json"
+    },
+    "bf56714efcb2": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1835-01-02",
+      "end_date": "1841-01-10",
+      "filename": "bf56714efcb2.json"
+    },
+    "b7f9a2d7c191": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1835-01-02",
+      "end_date": "1841-01-10",
+      "filename": "b7f9a2d7c191.json"
+    },
+    "d040811becb8": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1835-01-02",
+      "end_date": "1845-03-27",
+      "filename": "d040811becb8.json"
+    },
+    "a2cf95c54a4c": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1835-01-02",
+      "end_date": "1845-02-24",
+      "filename": "a2cf95c54a4c.json"
+    },
+    "51ff3374f490": {
+      "county_id": "mos_nca16",
+      "name": "NCA 16",
+      "start_date": "1835-01-03",
+      "end_date": "1835-01-04",
+      "filename": "51ff3374f490.json"
+    },
+    "2e5e0dc3643d": {
+      "county_id": "mos_nca10",
+      "name": "NCA 10",
+      "start_date": "1835-01-02",
+      "end_date": "1837-01-05",
+      "filename": "2e5e0dc3643d.json"
+    },
+    "70051f4a263c": {
+      "county_id": "mos_daviess",
+      "name": "DAVIESS",
+      "start_date": "1836-12-29",
+      "end_date": "2000-12-31",
+      "filename": "70051f4a263c.json"
+    },
+    "0656b3020c30": {
+      "county_id": "mos_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1836-12-29",
+      "end_date": "2000-12-31",
+      "filename": "0656b3020c30.json"
+    },
+    "66cb07602749": {
+      "county_id": "mos_clark",
+      "name": "CLARK",
+      "start_date": "1836-12-16",
+      "end_date": "1838-12-14",
+      "filename": "66cb07602749.json"
+    },
+    "824e3ab0f124": {
+      "county_id": "mos_nca19",
+      "name": "NCA 19",
+      "start_date": "1836-12-16",
+      "end_date": "1837-01-05",
+      "filename": "824e3ab0f124.json"
+    },
+    "7cb55bf21a2d": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1836-12-29",
+      "end_date": "1839-01-24",
+      "filename": "7cb55bf21a2d.json"
+    },
+    "f6feca41d538": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1837-02-06",
+      "end_date": "1845-02-13",
+      "filename": "f6feca41d538.json"
+    },
+    "5d4288652bdf": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1837-02-06",
+      "end_date": "1845-02-24",
+      "filename": "5d4288652bdf.json"
+    },
+    "fbda953879f4": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1837-02-06",
+      "end_date": "1843-02-22",
+      "filename": "fbda953879f4.json"
+    },
+    "1b301410eada": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1837-02-06",
+      "end_date": "1841-01-28",
+      "filename": "1b301410eada.json"
+    },
+    "8534163a384d": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1837-03-28",
+      "end_date": "1838-12-30",
+      "filename": "8534163a384d.json"
+    },
+    "87addfa8c4c4": {
+      "county_id": "mos_nca28",
+      "name": "NCA 28",
+      "start_date": "1837-03-28",
+      "end_date": "1838-12-30",
+      "filename": "87addfa8c4c4.json"
+    },
+    "68be4de4ef2d": {
+      "county_id": "mos_nca19",
+      "name": "NCA 19",
+      "start_date": "1837-02-06",
+      "end_date": "1841-01-28",
+      "filename": "68be4de4ef2d.json"
+    },
+    "e172f67628e8": {
+      "county_id": "mos_nca26",
+      "name": "NCA 26",
+      "start_date": "1837-02-06",
+      "end_date": "1841-01-28",
+      "filename": "e172f67628e8.json"
+    },
+    "47e94e898565": {
+      "county_id": "mos_nca27",
+      "name": "NCA 27",
+      "start_date": "1837-02-06",
+      "end_date": "1841-01-28",
+      "filename": "47e94e898565.json"
+    },
+    "72e8660c2d13": {
+      "county_id": "mos_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1837-01-14",
+      "end_date": "1855-01-09",
+      "filename": "72e8660c2d13.json"
+    },
+    "ef07eb73cc74": {
+      "county_id": "mos_linn",
+      "name": "LINN",
+      "start_date": "1837-01-14",
+      "end_date": "1845-03-19",
+      "filename": "ef07eb73cc74.json"
+    },
+    "bd444caeac74": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1837-01-14",
+      "end_date": "1843-02-16",
+      "filename": "bd444caeac74.json"
+    },
+    "3890f57485a6": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1837-01-14",
+      "end_date": "1837-02-05",
+      "filename": "3890f57485a6.json"
+    },
+    "ad06a96907d5": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1837-01-14",
+      "end_date": "1841-01-28",
+      "filename": "ad06a96907d5.json"
+    },
+    "7f3bbc28f7dd": {
+      "county_id": "mos_nca18",
+      "name": "NCA 18",
+      "start_date": "1837-01-14",
+      "end_date": "1839-02-11",
+      "filename": "7f3bbc28f7dd.json"
+    },
+    "66e90bfda1c9": {
+      "county_id": "mos_nca23",
+      "name": "NCA 23",
+      "start_date": "1837-01-14",
+      "end_date": "1843-02-16",
+      "filename": "66e90bfda1c9.json"
+    },
+    "ddbcd4f1f013": {
+      "county_id": "mos_macon",
+      "name": "MACON",
+      "start_date": "1837-01-06",
+      "end_date": "2000-12-31",
+      "filename": "ddbcd4f1f013.json"
+    },
+    "89c079ff6633": {
+      "county_id": "mos_ralls",
+      "name": "RALLS",
+      "start_date": "1837-01-06",
+      "end_date": "2000-12-31",
+      "filename": "89c079ff6633.json"
+    },
+    "408269b4ab97": {
+      "county_id": "mos_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1837-01-06",
+      "end_date": "1837-01-13",
+      "filename": "408269b4ab97.json"
+    },
+    "389c1dae707b": {
+      "county_id": "mos_chariton",
+      "name": "CHARITON",
+      "start_date": "1837-01-06",
+      "end_date": "1845-03-19",
+      "filename": "389c1dae707b.json"
+    },
+    "63848c7bc4ee": {
+      "county_id": "mos_linn",
+      "name": "LINN",
+      "start_date": "1837-01-06",
+      "end_date": "1837-01-13",
+      "filename": "63848c7bc4ee.json"
+    },
+    "c9b0d5fe7076": {
+      "county_id": "mos_nca25",
+      "name": "NCA 25",
+      "start_date": "1837-01-06",
+      "end_date": "1839-01-24",
+      "filename": "c9b0d5fe7076.json"
+    },
+    "67bf03ee84c8": {
+      "county_id": "mos_nca24",
+      "name": "NCA 24",
+      "start_date": "1837-01-06",
+      "end_date": "1841-01-28",
+      "filename": "67bf03ee84c8.json"
+    },
+    "471dbe603b48": {
+      "county_id": "mos_nca23",
+      "name": "NCA 23",
+      "start_date": "1837-01-06",
+      "end_date": "1837-01-13",
+      "filename": "471dbe603b48.json"
+    },
+    "af9320bcfb88": {
+      "county_id": "mos_nca18",
+      "name": "NCA 18",
+      "start_date": "1837-01-06",
+      "end_date": "1837-01-13",
+      "filename": "af9320bcfb88.json"
+    },
+    "14548e6ebe2b": {
+      "county_id": "mos_nca19",
+      "name": "NCA 19",
+      "start_date": "1837-01-06",
+      "end_date": "1837-02-05",
+      "filename": "14548e6ebe2b.json"
+    },
+    "18458ec4820e": {
+      "county_id": "mos_buchanan",
+      "name": "BUCHANAN",
+      "start_date": "1838-12-31",
+      "end_date": "2000-12-31",
+      "filename": "18458ec4820e.json"
+    },
+    "8b3b6d159c59": {
+      "county_id": "mos_platte",
+      "name": "PLATTE",
+      "start_date": "1838-12-31",
+      "end_date": "2000-12-31",
+      "filename": "8b3b6d159c59.json"
+    },
+    "916b5018c757": {
+      "county_id": "mos_clark",
+      "name": "CLARK",
+      "start_date": "1838-12-15",
+      "end_date": "1849-02-12",
+      "filename": "916b5018c757.json"
+    },
+    "a8db3d9683db": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1838-12-31",
+      "end_date": "1839-02-10",
+      "filename": "a8db3d9683db.json"
+    },
+    "261c4e0ca3ea": {
+      "county_id": "mos_barry",
+      "name": "BARRY",
+      "start_date": "1838-12-31",
+      "end_date": "1843-02-23",
+      "filename": "261c4e0ca3ea.json"
+    },
+    "248f6abeb119": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1838-12-31",
+      "end_date": "1841-01-26",
+      "filename": "248f6abeb119.json"
+    },
+    "9cfe90b4a12e": {
+      "county_id": "mos_nca30",
+      "name": "NCA 30",
+      "start_date": "1838-12-31",
+      "end_date": "1841-01-26",
+      "filename": "9cfe90b4a12e.json"
+    },
+    "ef7007da0a52": {
+      "county_id": "mos_nca29",
+      "name": "NCA 29",
+      "start_date": "1838-12-31",
+      "end_date": "1841-01-28",
+      "filename": "ef7007da0a52.json"
+    },
+    "0f6a4ec99bce": {
+      "county_id": "mos_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1838-12-31",
+      "end_date": "1843-02-23",
+      "filename": "0f6a4ec99bce.json"
+    },
+    "aa1aa80ca2b5": {
+      "county_id": "mos_grundy",
+      "name": "GRUNDY",
+      "start_date": "1839-02-12",
+      "end_date": "2000-12-31",
+      "filename": "aa1aa80ca2b5.json"
+    },
+    "60761fe00694": {
+      "county_id": "mos_ray",
+      "name": "RAY",
+      "start_date": "1839-01-25",
+      "end_date": "2000-12-31",
+      "filename": "60761fe00694.json"
+    },
+    "3491424e3591": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1839-01-25",
+      "end_date": "1849-03-01",
+      "filename": "3491424e3591.json"
+    },
+    "c673330dec00": {
+      "county_id": "mos_nca25",
+      "name": "NCA 25",
+      "start_date": "1839-01-25",
+      "end_date": "1841-01-28",
+      "filename": "c673330dec00.json"
+    },
+    "3c57a06581e1": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1839-02-11",
+      "end_date": "1841-02-11",
+      "filename": "3c57a06581e1.json"
+    },
+    "4a58dfc0cebd": {
+      "county_id": "mos_nca31",
+      "name": "NCA 31",
+      "start_date": "1839-02-11",
+      "end_date": "1841-01-28",
+      "filename": "4a58dfc0cebd.json"
+    },
+    "a4cba131a4b5": {
+      "county_id": "mos_nca18",
+      "name": "NCA 18",
+      "start_date": "1839-02-12",
+      "end_date": "1841-02-14",
+      "filename": "a4cba131a4b5.json"
+    },
+    "95b7aad8cdd3": {
+      "county_id": "mos_nca7",
+      "name": "NCA 7",
+      "start_date": "1839-01-25",
+      "end_date": "1843-02-21",
+      "filename": "95b7aad8cdd3.json"
+    },
+    "1f1bdf7731a2": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1841-02-02",
+      "end_date": "1851-08-03",
+      "filename": "1f1bdf7731a2.json"
+    },
+    "e497d07e01e1": {
+      "county_id": "mos_cass",
+      "name": "VAN BUREN",
+      "start_date": "1841-02-02",
+      "end_date": "1847-01-14",
+      "filename": "e497d07e01e1.json"
+    },
+    "c60fd84050a6": {
+      "county_id": "mos_nca33",
+      "name": "NCA 33",
+      "start_date": "1841-02-11",
+      "end_date": "1843-02-16",
+      "filename": "c60fd84050a6.json"
+    },
+    "00013ada98f2": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1841-02-11",
+      "end_date": "1843-02-16",
+      "filename": "00013ada98f2.json"
+    },
+    "a2eca5246f73": {
+      "county_id": "mos_gentry",
+      "name": "GENTRY",
+      "start_date": "1841-02-12",
+      "end_date": "1845-02-13",
+      "filename": "a2eca5246f73.json"
+    },
+    "1497178009ea": {
+      "county_id": "mos_oregon",
+      "name": "OREGON",
+      "start_date": "1841-02-15",
+      "end_date": "1857-03-01",
+      "filename": "1497178009ea.json"
+    },
+    "fa3a17dcf44f": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1841-02-15",
+      "end_date": "1859-03-09",
+      "filename": "fa3a17dcf44f.json"
+    },
+    "c4c398baf877": {
+      "county_id": "mos_henry",
+      "name": "HENRY",
+      "start_date": "1841-02-15",
+      "end_date": "1859-03-11",
+      "filename": "c4c398baf877.json"
+    },
+    "3455b75d87fc": {
+      "county_id": "mos_holt",
+      "name": "HOLT",
+      "start_date": "1841-02-15",
+      "end_date": "1843-02-23",
+      "filename": "3455b75d87fc.json"
+    },
+    "7338514c229d": {
+      "county_id": "mos_nca24",
+      "name": "NCA 24",
+      "start_date": "1841-02-15",
+      "end_date": "1843-02-16",
+      "filename": "7338514c229d.json"
+    },
+    "260b2926eec2": {
+      "county_id": "mos_nca18",
+      "name": "NCA 18",
+      "start_date": "1841-02-15",
+      "end_date": "1843-02-21",
+      "filename": "260b2926eec2.json"
+    },
+    "33f112f876a1": {
+      "county_id": "mos_nca31",
+      "name": "NCA 31",
+      "start_date": "1841-02-12",
+      "end_date": "1843-01-01",
+      "filename": "33f112f876a1.json"
+    },
+    "f0ac60aba6bd": {
+      "county_id": "mos_nca12",
+      "name": "NCA 12",
+      "start_date": "1841-02-12",
+      "end_date": "1843-01-04",
+      "filename": "f0ac60aba6bd.json"
+    },
+    "00fbd61e4c3c": {
+      "county_id": "mos_adair",
+      "name": "ADAIR",
+      "start_date": "1841-01-29",
+      "end_date": "2000-12-31",
+      "filename": "00fbd61e4c3c.json"
+    },
+    "51bb344ab53c": {
+      "county_id": "mos_andrew",
+      "name": "ANDREW",
+      "start_date": "1841-01-29",
+      "end_date": "2000-12-31",
+      "filename": "51bb344ab53c.json"
+    },
+    "a6149bae4af4": {
+      "county_id": "mos_osage",
+      "name": "OSAGE",
+      "start_date": "1841-01-29",
+      "end_date": "1855-02-28",
+      "filename": "a6149bae4af4.json"
+    },
+    "4850930f009b": {
+      "county_id": "mos_gasconade",
+      "name": "GASCONADE",
+      "start_date": "1841-01-29",
+      "end_date": "1869-03-02",
+      "filename": "4850930f009b.json"
+    },
+    "17cd6c3618b3": {
+      "county_id": "mos_scotland",
+      "name": "SCOTLAND",
+      "start_date": "1841-01-29",
+      "end_date": "1843-01-05",
+      "filename": "17cd6c3618b3.json"
+    },
+    "21aa7d2d34c7": {
+      "county_id": "mos_dallas",
+      "name": "NIANGUA",
+      "start_date": "1841-01-29",
+      "end_date": "1844-12-15",
+      "filename": "21aa7d2d34c7.json"
+    },
+    "04b45a34166e": {
+      "county_id": "mos_nca31",
+      "name": "NCA 31",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-11",
+      "filename": "04b45a34166e.json"
+    },
+    "140dae5dc354": {
+      "county_id": "mos_holt",
+      "name": "NODAWAY (orig)",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-14",
+      "filename": "140dae5dc354.json"
+    },
+    "3d002cfd57c7": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1841-01-29",
+      "end_date": "1845-02-13",
+      "filename": "3d002cfd57c7.json"
+    },
+    "82b1f250d838": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-10",
+      "filename": "82b1f250d838.json"
+    },
+    "ddac9afe6bbf": {
+      "county_id": "mos_jasper",
+      "name": "JASPER",
+      "start_date": "1841-01-29",
+      "end_date": "1847-02-15",
+      "filename": "ddac9afe6bbf.json"
+    },
+    "1d07dd2d8dae": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-01",
+      "filename": "1d07dd2d8dae.json"
+    },
+    "c38a136f6981": {
+      "county_id": "mos_dade",
+      "name": "DADE",
+      "start_date": "1841-01-29",
+      "end_date": "1843-02-23",
+      "filename": "c38a136f6981.json"
+    },
+    "99f336164bd0": {
+      "county_id": "mos_ozark",
+      "name": "OZARK",
+      "start_date": "1841-01-29",
+      "end_date": "1843-02-21",
+      "filename": "99f336164bd0.json"
+    },
+    "7c3888055a20": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1841-01-29",
+      "end_date": "1843-02-22",
+      "filename": "7c3888055a20.json"
+    },
+    "e9a144c457ae": {
+      "county_id": "mos_camden",
+      "name": "KINDERHOOK",
+      "start_date": "1841-01-29",
+      "end_date": "1843-02-22",
+      "filename": "e9a144c457ae.json"
+    },
+    "eaec822b6979": {
+      "county_id": "mos_nca24",
+      "name": "NCA 24",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-14",
+      "filename": "eaec822b6979.json"
+    },
+    "5cfff104064c": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1841-01-29",
+      "end_date": "1841-02-14",
+      "filename": "5cfff104064c.json"
+    },
+    "5622925e980f": {
+      "county_id": "mos_nca22",
+      "name": "NCA 22",
+      "start_date": "1841-01-29",
+      "end_date": "1843-02-16",
+      "filename": "5622925e980f.json"
+    },
+    "90f1675ff158": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1841-01-29",
+      "end_date": "1845-02-13",
+      "filename": "90f1675ff158.json"
+    },
+    "6b2736f7242d": {
+      "county_id": "mos_polk",
+      "name": "POLK",
+      "start_date": "1841-01-12",
+      "end_date": "1845-02-13",
+      "filename": "6b2736f7242d.json"
+    },
+    "97ffa1a2140c": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1841-01-27",
+      "end_date": "1843-02-23",
+      "filename": "97ffa1a2140c.json"
+    },
+    "3ce9f15bc33f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1841-01-11",
+      "end_date": "1849-02-26",
+      "filename": "3ce9f15bc33f.json"
+    },
+    "264560a6591e": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1841-01-11",
+      "end_date": "1843-02-26",
+      "filename": "264560a6591e.json"
+    },
+    "1d1d33c0e092": {
+      "county_id": "mos_nca32",
+      "name": "NCA 32",
+      "start_date": "1841-01-12",
+      "end_date": "1841-01-28",
+      "filename": "1d1d33c0e092.json"
+    },
+    "1d64beeb41eb": {
+      "county_id": "mos_nca30",
+      "name": "NCA 30",
+      "start_date": "1841-01-27",
+      "end_date": "1841-01-28",
+      "filename": "1d64beeb41eb.json"
+    },
+    "55936f288bb9": {
+      "county_id": "mos_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1842-12-19",
+      "end_date": "1849-03-09",
+      "filename": "55936f288bb9.json"
+    },
+    "d4c848e69fad": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1842-12-19",
+      "end_date": "1845-03-27",
+      "filename": "d4c848e69fad.json"
+    },
+    "0bdcee1f642d": {
+      "county_id": "mos_mercer",
+      "name": "MERCER",
+      "start_date": "1843-02-22",
+      "end_date": "2000-12-31",
+      "filename": "0bdcee1f642d.json"
+    },
+    "dbd836ff3deb": {
+      "county_id": "mos_putnam",
+      "name": "PUTNAM",
+      "start_date": "1843-02-22",
+      "end_date": "1845-02-27",
+      "filename": "dbd836ff3deb.json"
+    },
+    "ec8d8cd619b4": {
+      "county_id": "mos_harrison",
+      "name": "HARRISON",
+      "start_date": "1843-02-22",
+      "end_date": "1845-02-13",
+      "filename": "ec8d8cd619b4.json"
+    },
+    "49943e9c0a39": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1843-02-23",
+      "end_date": "1845-03-27",
+      "filename": "49943e9c0a39.json"
+    },
+    "11f8516ef7c0": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1843-02-27",
+      "end_date": "1851-02-28",
+      "filename": "11f8516ef7c0.json"
+    },
+    "84b3c4eca3d2": {
+      "county_id": "mos_dunklin",
+      "name": "DUNKLIN",
+      "start_date": "1843-02-27",
+      "end_date": "1849-02-26",
+      "filename": "84b3c4eca3d2.json"
+    },
+    "772dac64b619": {
+      "county_id": "mos_ozark",
+      "name": "DECATUR",
+      "start_date": "1843-02-22",
+      "end_date": "1845-03-23",
+      "filename": "772dac64b619.json"
+    },
+    "3df798578053": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1843-02-23",
+      "end_date": "1845-02-24",
+      "filename": "3df798578053.json"
+    },
+    "9de2e258382e": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1843-02-23",
+      "end_date": "1849-02-23",
+      "filename": "9de2e258382e.json"
+    },
+    "09e1d5704262": {
+      "county_id": "mos_marion",
+      "name": "MARION",
+      "start_date": "1843-02-24",
+      "end_date": "2000-12-31",
+      "filename": "09e1d5704262.json"
+    },
+    "0aa141e7b3dc": {
+      "county_id": "mos_monroe",
+      "name": "MONROE",
+      "start_date": "1843-02-24",
+      "end_date": "2000-12-31",
+      "filename": "0aa141e7b3dc.json"
+    },
+    "8ebd17b76d3b": {
+      "county_id": "mos_audrain",
+      "name": "AUDRAIN",
+      "start_date": "1843-02-24",
+      "end_date": "2000-12-31",
+      "filename": "8ebd17b76d3b.json"
+    },
+    "0492c8e93f1e": {
+      "county_id": "mos_warren",
+      "name": "WARREN",
+      "start_date": "1843-02-24",
+      "end_date": "2000-12-31",
+      "filename": "0492c8e93f1e.json"
+    },
+    "967a5b17a2e3": {
+      "county_id": "mos_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1843-02-24",
+      "end_date": "2000-12-31",
+      "filename": "967a5b17a2e3.json"
+    },
+    "9185b19b9e98": {
+      "county_id": "mos_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1843-02-24",
+      "end_date": "1849-02-04",
+      "filename": "9185b19b9e98.json"
+    },
+    "88f178d73e90": {
+      "county_id": "mos_dade",
+      "name": "DADE",
+      "start_date": "1843-02-24",
+      "end_date": "1845-02-13",
+      "filename": "88f178d73e90.json"
+    },
+    "2769719fc748": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1843-02-24",
+      "end_date": "1845-03-27",
+      "filename": "2769719fc748.json"
+    },
+    "55e01ed4af14": {
+      "county_id": "mos_barry",
+      "name": "BARRY",
+      "start_date": "1843-02-24",
+      "end_date": "1845-03-27",
+      "filename": "55e01ed4af14.json"
+    },
+    "0077f0ffdf49": {
+      "county_id": "mos_holt",
+      "name": "HOLT",
+      "start_date": "1843-02-24",
+      "end_date": "1845-02-13",
+      "filename": "0077f0ffdf49.json"
+    },
+    "807bf4ee2e2f": {
+      "county_id": "mos_atchison",
+      "name": "ALLEN",
+      "start_date": "1843-02-24",
+      "end_date": "1845-02-13",
+      "filename": "807bf4ee2e2f.json"
+    },
+    "7ad18d8505fe": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1843-02-25",
+      "end_date": "1845-02-24",
+      "filename": "7ad18d8505fe.json"
+    },
+    "63ed34e42f67": {
+      "county_id": "mos_madison",
+      "name": "MADISON",
+      "start_date": "1843-02-25",
+      "end_date": "1849-02-04",
+      "filename": "63ed34e42f67.json"
+    },
+    "1d57e0fa75d8": {
+      "county_id": "mos_nca23",
+      "name": "NCA 23",
+      "start_date": "1843-02-22",
+      "end_date": "1845-03-14",
+      "filename": "1d57e0fa75d8.json"
+    },
+    "05e7be75d458": {
+      "county_id": "mos_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1843-02-24",
+      "end_date": "1845-03-27",
+      "filename": "05e7be75d458.json"
+    },
+    "c45475a1709e": {
+      "county_id": "mos_scotland",
+      "name": "SCOTLAND",
+      "start_date": "1843-01-06",
+      "end_date": "2000-12-31",
+      "filename": "c45475a1709e.json"
+    },
+    "ef1cf6bf8666": {
+      "county_id": "mos_schuyler",
+      "name": "SCHUYLER",
+      "start_date": "1843-02-17",
+      "end_date": "2000-12-31",
+      "filename": "ef1cf6bf8666.json"
+    },
+    "b360921445ed": {
+      "county_id": "mos_knox",
+      "name": "KNOX",
+      "start_date": "1843-01-06",
+      "end_date": "2000-12-31",
+      "filename": "b360921445ed.json"
+    },
+    "227c3bcc8bde": {
+      "county_id": "mos_shelby",
+      "name": "SHELBY",
+      "start_date": "1843-02-13",
+      "end_date": "2000-12-31",
+      "filename": "227c3bcc8bde.json"
+    },
+    "71c2159dd506": {
+      "county_id": "mos_dekalb",
+      "name": "DE KALB",
+      "start_date": "1843-01-05",
+      "end_date": "2000-12-31",
+      "filename": "71c2159dd506.json"
+    },
+    "610a04ad0fe5": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1843-01-02",
+      "end_date": "1845-02-13",
+      "filename": "610a04ad0fe5.json"
+    },
+    "9b5d54d01a66": {
+      "county_id": "mos_monroe",
+      "name": "MONROE",
+      "start_date": "1843-02-13",
+      "end_date": "1843-02-23",
+      "filename": "9b5d54d01a66.json"
+    },
+    "6751650d5eb3": {
+      "county_id": "mos_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1843-01-26",
+      "end_date": "1843-02-23",
+      "filename": "6751650d5eb3.json"
+    },
+    "40c6ac3b9d69": {
+      "county_id": "mos_warren",
+      "name": "WARREN",
+      "start_date": "1843-01-26",
+      "end_date": "1843-02-23",
+      "filename": "40c6ac3b9d69.json"
+    },
+    "03bfef62fc0d": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1845-02-14",
+      "end_date": "1860-01-15",
+      "filename": "03bfef62fc0d.json"
+    },
+    "372c280879d0": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1845-02-25",
+      "end_date": "1845-03-27",
+      "filename": "372c280879d0.json"
+    },
+    "740c6e5951db": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1845-02-14",
+      "end_date": "1855-12-03",
+      "filename": "740c6e5951db.json"
+    },
+    "cb1c3d2e1e54": {
+      "county_id": "mos_harrison",
+      "name": "HARRISON",
+      "start_date": "1845-02-14",
+      "end_date": "1851-02-28",
+      "filename": "cb1c3d2e1e54.json"
+    },
+    "d602b8c864b9": {
+      "county_id": "mos_nca35",
+      "name": "NCA 35",
+      "start_date": "1845-02-14",
+      "end_date": "1851-02-28",
+      "filename": "d602b8c864b9.json"
+    },
+    "aade5ae74f6f": {
+      "county_id": "mos_polk",
+      "name": "POLK",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-16",
+      "filename": "aade5ae74f6f.json"
+    },
+    "7dcc17f842c4": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-16",
+      "filename": "7dcc17f842c4.json"
+    },
+    "1d2e2fd52387": {
+      "county_id": "mos_benton",
+      "name": "BENTON",
+      "start_date": "1845-02-14",
+      "end_date": "1845-02-25",
+      "filename": "1d2e2fd52387.json"
+    },
+    "74292ebd867b": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-27",
+      "filename": "74292ebd867b.json"
+    },
+    "6a3803424471": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1849-03-05",
+      "end_date": "1851-02-28",
+      "filename": "6a3803424471.json"
+    },
+    "320a1275bcce": {
+      "county_id": "mos_perry",
+      "name": "PERRY",
+      "start_date": "1849-03-05",
+      "end_date": "2000-12-31",
+      "filename": "320a1275bcce.json"
+    },
+    "c605e2009df9": {
+      "county_id": "mos_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1849-03-08",
+      "end_date": "2000-12-31",
+      "filename": "c605e2009df9.json"
+    },
+    "036e4d6bd3ea": {
+      "county_id": "mos_jackson",
+      "name": "JACKSON",
+      "start_date": "1849-03-08",
+      "end_date": "2000-12-31",
+      "filename": "036e4d6bd3ea.json"
+    },
+    "475240700b53": {
+      "county_id": "mos_johnson",
+      "name": "JOHNSON",
+      "start_date": "1849-03-08",
+      "end_date": "2000-12-31",
+      "filename": "475240700b53.json"
+    },
+    "fd901fa05251": {
+      "county_id": "mos_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1849-02-05",
+      "end_date": "2000-12-31",
+      "filename": "fd901fa05251.json"
+    },
+    "003ff087071a": {
+      "county_id": "mos_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1849-02-05",
+      "end_date": "2000-12-31",
+      "filename": "003ff087071a.json"
+    },
+    "b70cbe7a330b": {
+      "county_id": "mos_laclede",
+      "name": "LACLEDE",
+      "start_date": "1849-02-24",
+      "end_date": "2000-12-31",
+      "filename": "b70cbe7a330b.json"
+    },
+    "b121321b0901": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1849-02-24",
+      "end_date": "1855-12-12",
+      "filename": "b121321b0901.json"
+    },
+    "7dff086ca382": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1843-02-17",
+      "end_date": "1845-03-23",
+      "filename": "7dff086ca382.json"
+    },
+    "108746b49703": {
+      "county_id": "mos_texas",
+      "name": "ASHLEY",
+      "start_date": "1843-02-17",
+      "end_date": "1845-02-13",
+      "filename": "108746b49703.json"
+    },
+    "18865bdd79a3": {
+      "county_id": "mos_sullivan",
+      "name": "HIGHLAND",
+      "start_date": "1843-02-17",
+      "end_date": "1845-02-13",
+      "filename": "18865bdd79a3.json"
+    },
+    "4f749bba1cdd": {
+      "county_id": "mos_stfrancois",
+      "name": "ST. FRANCOIS",
+      "start_date": "1843-01-02",
+      "end_date": "1857-02-16",
+      "filename": "4f749bba1cdd.json"
+    },
+    "072ab062a7c1": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1843-01-02",
+      "end_date": "1849-03-06",
+      "filename": "072ab062a7c1.json"
+    },
+    "b92cafac05d9": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1843-02-17",
+      "end_date": "1843-02-24",
+      "filename": "b92cafac05d9.json"
+    },
+    "fa0db2a789b5": {
+      "county_id": "mos_nca22",
+      "name": "NCA 22",
+      "start_date": "1843-02-17",
+      "end_date": "1845-03-27",
+      "filename": "fa0db2a789b5.json"
+    },
+    "b0c70f074466": {
+      "county_id": "mos_nca23",
+      "name": "NCA 23",
+      "start_date": "1843-02-17",
+      "end_date": "1843-02-21",
+      "filename": "b0c70f074466.json"
+    },
+    "bc9aaec19832": {
+      "county_id": "mos_nca24",
+      "name": "NCA 24",
+      "start_date": "1843-02-17",
+      "end_date": "1843-02-21",
+      "filename": "bc9aaec19832.json"
+    },
+    "0eab7f8a9831": {
+      "county_id": "mos_dallas",
+      "name": "DALLAS",
+      "start_date": "1844-12-16",
+      "end_date": "1855-12-06",
+      "filename": "0eab7f8a9831.json"
+    },
+    "09ff9fc50902": {
+      "county_id": "mos_chariton",
+      "name": "CHARITON",
+      "start_date": "1845-03-20",
+      "end_date": "2000-12-31",
+      "filename": "09ff9fc50902.json"
+    },
+    "8c28af3d2018": {
+      "county_id": "mos_pettis",
+      "name": "PETTIS",
+      "start_date": "1845-02-26",
+      "end_date": "2000-12-31",
+      "filename": "8c28af3d2018.json"
+    },
+    "985f886486eb": {
+      "county_id": "mos_polk",
+      "name": "POLK",
+      "start_date": "1845-03-17",
+      "end_date": "2000-12-31",
+      "filename": "985f886486eb.json"
+    },
+    "1c07b64124c4": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1845-03-20",
+      "end_date": "1855-12-04",
+      "filename": "1c07b64124c4.json"
+    },
+    "bb1bd668e4c5": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1845-03-24",
+      "end_date": "1845-03-27",
+      "filename": "bb1bd668e4c5.json"
+    },
+    "39fa599e30cd": {
+      "county_id": "mos_benton",
+      "name": "BENTON",
+      "start_date": "1845-02-26",
+      "end_date": "1879-05-30",
+      "filename": "39fa599e30cd.json"
+    },
+    "bd7728c87ef3": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1845-03-17",
+      "end_date": "1859-03-11",
+      "filename": "bd7728c87ef3.json"
+    },
+    "c883eb670ccb": {
+      "county_id": "mos_linn",
+      "name": "LINN",
+      "start_date": "1845-03-20",
+      "end_date": "1855-01-09",
+      "filename": "c883eb670ccb.json"
+    },
+    "a785226ebcda": {
+      "county_id": "mos_putnam",
+      "name": "PUTNAM",
+      "start_date": "1845-02-28",
+      "end_date": "1846-12-17",
+      "filename": "a785226ebcda.json"
+    },
+    "e0e4b2e9d880": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1845-03-20",
+      "end_date": "1851-02-09",
+      "filename": "e0e4b2e9d880.json"
+    },
+    "396f4a3cb725": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1845-03-15",
+      "end_date": "1849-02-04",
+      "filename": "396f4a3cb725.json"
+    },
+    "1644cdef9c59": {
+      "county_id": "mos_ozark",
+      "name": "OZARK",
+      "start_date": "1845-03-24",
+      "end_date": "1855-02-27",
+      "filename": "1644cdef9c59.json"
+    },
+    "a48d1195e428": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1845-03-28",
+      "end_date": "1846-12-31",
+      "filename": "a48d1195e428.json"
+    },
+    "7cd336392c02": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1845-03-28",
+      "end_date": "1851-02-09",
+      "filename": "7cd336392c02.json"
+    },
+    "cb6aec6ae3d6": {
+      "county_id": "mos_atchison",
+      "name": "ATCHISON",
+      "start_date": "1845-03-28",
+      "end_date": "1857-11-04",
+      "filename": "cb6aec6ae3d6.json"
+    },
+    "d00ea02b43cc": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1845-03-28",
+      "end_date": "1857-11-04",
+      "filename": "d00ea02b43cc.json"
+    },
+    "c6cbd7d2f4ad": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1845-03-28",
+      "end_date": "1849-03-09",
+      "filename": "c6cbd7d2f4ad.json"
+    },
+    "27379e3b97a0": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1845-03-28",
+      "end_date": "1847-02-14",
+      "filename": "27379e3b97a0.json"
+    },
+    "6d200880d32b": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1845-03-28",
+      "end_date": "1849-02-23",
+      "filename": "6d200880d32b.json"
+    },
+    "69fd4ae033e2": {
+      "county_id": "mos_gentry",
+      "name": "GENTRY",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "69fd4ae033e2.json"
+    },
+    "776a4b7398e8": {
+      "county_id": "mos_holt",
+      "name": "HOLT",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "776a4b7398e8.json"
+    },
+    "10db6fa06ce5": {
+      "county_id": "mos_moniteau",
+      "name": "MONITEAU",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "10db6fa06ce5.json"
+    },
+    "e2733357e717": {
+      "county_id": "mos_hickory",
+      "name": "HICKORY",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "e2733357e717.json"
+    },
+    "6858a69a37c8": {
+      "county_id": "mos_cedar",
+      "name": "CEDAR",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "6858a69a37c8.json"
+    },
+    "e9bac8f010f8": {
+      "county_id": "mos_dade",
+      "name": "DADE",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "e9bac8f010f8.json"
+    },
+    "e1159ecbe15a": {
+      "county_id": "mos_atchison",
+      "name": "ATCHISON",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-27",
+      "filename": "e1159ecbe15a.json"
+    },
+    "71798e3a5c2a": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1845-02-25",
+      "end_date": "1845-03-19",
+      "filename": "71798e3a5c2a.json"
+    },
+    "8131c280c75b": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1845-02-25",
+      "end_date": "1845-03-14",
+      "filename": "8131c280c75b.json"
+    },
+    "adbfc4b205ba": {
+      "county_id": "mos_sullivan",
+      "name": "SULLIVAN",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "adbfc4b205ba.json"
+    },
+    "3a0159bf80d3": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-19",
+      "filename": "3a0159bf80d3.json"
+    },
+    "b5aae2f23ce6": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1845-02-25",
+      "end_date": "1845-03-14",
+      "filename": "b5aae2f23ce6.json"
+    },
+    "661c4fa0355f": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1845-02-25",
+      "end_date": "1845-03-27",
+      "filename": "661c4fa0355f.json"
+    },
+    "40399e0d2b25": {
+      "county_id": "mos_nca34",
+      "name": "NCA 34",
+      "start_date": "1845-02-14",
+      "end_date": "1845-02-27",
+      "filename": "40399e0d2b25.json"
+    },
+    "0a54dcf15fe3": {
+      "county_id": "mos_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1845-02-14",
+      "end_date": "1845-03-27",
+      "filename": "0a54dcf15fe3.json"
+    },
+    "24e6645fc4cd": {
+      "county_id": "mos_dodge",
+      "name": "DODGE (ext)",
+      "start_date": "1846-12-18",
+      "end_date": "1853-03-15",
+      "filename": "24e6645fc4cd.json"
+    },
+    "6db5e311ff37": {
+      "county_id": "mos_putnam",
+      "name": "PUTNAM",
+      "start_date": "1846-12-18",
+      "end_date": "1853-03-15",
+      "filename": "6db5e311ff37.json"
+    },
+    "dd46f58ee28e": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1847-02-16",
+      "end_date": "1849-03-02",
+      "filename": "dd46f58ee28e.json"
+    },
+    "cbb54e391ed4": {
+      "county_id": "mos_jasper",
+      "name": "JASPER",
+      "start_date": "1847-02-16",
+      "end_date": "1855-12-11",
+      "filename": "cbb54e391ed4.json"
+    },
+    "d3386d7b93f2": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1847-01-01",
+      "end_date": "1847-02-15",
+      "filename": "d3386d7b93f2.json"
+    },
+    "41b41371a9f2": {
+      "county_id": "mos_mcdonald",
+      "name": "SENECA",
+      "start_date": "1847-01-01",
+      "end_date": "1849-03-02",
+      "filename": "41b41371a9f2.json"
+    },
+    "bd2d2b4fe669": {
+      "county_id": "mos_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1847-01-15",
+      "end_date": "1849-03-07",
+      "filename": "bd2d2b4fe669.json"
+    },
+    "4552cbd4204f": {
+      "county_id": "mos_donaldson",
+      "name": "DONALDSON (ext)",
+      "start_date": "1847-01-15",
+      "end_date": "1849-03-07",
+      "filename": "4552cbd4204f.json"
+    },
+    "5a542710b219": {
+      "county_id": "mos_perry",
+      "name": "PERRY",
+      "start_date": "1847-02-15",
+      "end_date": "1849-03-04",
+      "filename": "5a542710b219.json"
+    },
+    "010bc4d22dba": {
+      "county_id": "mos_johnson",
+      "name": "JOHNSON",
+      "start_date": "1847-01-15",
+      "end_date": "1849-03-07",
+      "filename": "010bc4d22dba.json"
+    },
+    "2d1629a16f12": {
+      "county_id": "mos_jackson",
+      "name": "JACKSON",
+      "start_date": "1847-01-15",
+      "end_date": "1849-03-07",
+      "filename": "2d1629a16f12.json"
+    },
+    "7585d8899226": {
+      "county_id": "mos_cass",
+      "name": "VAN BUREN",
+      "start_date": "1847-01-15",
+      "end_date": "1849-02-18",
+      "filename": "7585d8899226.json"
+    },
+    "a3c0897d7166": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1847-02-15",
+      "end_date": "1849-03-04",
+      "filename": "a3c0897d7166.json"
+    },
+    "db20b706de7c": {
+      "county_id": "mos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1849-03-07",
+      "end_date": "2000-12-31",
+      "filename": "db20b706de7c.json"
+    },
+    "5f83a9f52d69": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE",
+      "start_date": "1849-03-07",
+      "end_date": "2000-12-31",
+      "filename": "5f83a9f52d69.json"
+    },
+    "dde03405efb9": {
+      "county_id": "mos_cass",
+      "name": "CASS",
+      "start_date": "1849-03-08",
+      "end_date": "1851-08-03",
+      "filename": "dde03405efb9.json"
+    },
+    "9419248f5e02": {
+      "county_id": "mos_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1849-03-10",
+      "end_date": "1851-02-09",
+      "filename": "9419248f5e02.json"
+    },
+    "64e9295b1431": {
+      "county_id": "mos_mcdonald",
+      "name": "McDONALD",
+      "start_date": "1849-03-03",
+      "end_date": "1879-05-30",
+      "filename": "64e9295b1431.json"
+    },
+    "714c27bcba37": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1849-03-03",
+      "end_date": "1879-05-30",
+      "filename": "714c27bcba37.json"
+    },
+    "1e8bf547471f": {
+      "county_id": "mos_dunklin",
+      "name": "DUNKLIN",
+      "start_date": "1849-02-27",
+      "end_date": "1853-02-17",
+      "filename": "1e8bf547471f.json"
+    },
+    "ac3404fe5ce3": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1849-03-02",
+      "end_date": "1855-02-27",
+      "filename": "ac3404fe5ce3.json"
+    },
+    "f8960d4b432e": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1849-03-02",
+      "end_date": "1851-02-09",
+      "filename": "f8960d4b432e.json"
+    },
+    "f829c5eec2ee": {
+      "county_id": "mos_butler",
+      "name": "BUTLER",
+      "start_date": "1849-02-27",
+      "end_date": "1863-03-17",
+      "filename": "f829c5eec2ee.json"
+    },
+    "564b26aaed5f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1849-02-27",
+      "end_date": "1851-02-18",
+      "filename": "564b26aaed5f.json"
+    },
+    "8f366be96f50": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1849-03-10",
+      "end_date": "1851-02-09",
+      "filename": "8f366be96f50.json"
+    },
+    "0cfc84f7fdef": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1849-02-27",
+      "end_date": "1851-02-28",
+      "filename": "0cfc84f7fdef.json"
+    },
+    "c7a91fc642c3": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1849-02-24",
+      "end_date": "1855-02-28",
+      "filename": "c7a91fc642c3.json"
+    },
+    "3bd411983097": {
+      "county_id": "mos_madison",
+      "name": "MADISON",
+      "start_date": "1849-02-05",
+      "end_date": "1857-02-16",
+      "filename": "3bd411983097.json"
+    },
+    "830c6f177c8f": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1849-02-05",
+      "end_date": "1857-02-16",
+      "filename": "830c6f177c8f.json"
+    },
+    "1da2fe8f2e94": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1849-02-05",
+      "end_date": "1849-02-26",
+      "filename": "1da2fe8f2e94.json"
+    },
+    "d191de47405e": {
+      "county_id": "mos_clark",
+      "name": "CLARK",
+      "start_date": "1849-02-13",
+      "end_date": "2000-12-31",
+      "filename": "d191de47405e.json"
+    },
+    "a456cef06ed2": {
+      "county_id": "mos_cass",
+      "name": "CASS",
+      "start_date": "1849-02-19",
+      "end_date": "1849-03-07",
+      "filename": "a456cef06ed2.json"
+    },
+    "ed74134e5c58": {
+      "county_id": "mos_pemiscot",
+      "name": "PEMISCOT",
+      "start_date": "1851-02-19",
+      "end_date": "2000-12-31",
+      "filename": "ed74134e5c58.json"
+    },
+    "9b569fe39347": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1851-02-10",
+      "end_date": "1855-11-30",
+      "filename": "9b569fe39347.json"
+    },
+    "e634d576380e": {
+      "county_id": "mos_cass",
+      "name": "CASS",
+      "start_date": "1851-08-04",
+      "end_date": "1852-12-31",
+      "filename": "e634d576380e.json"
+    },
+    "69184458d3f2": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1851-08-04",
+      "end_date": "1852-12-31",
+      "filename": "69184458d3f2.json"
+    },
+    "768e57c99e5b": {
+      "county_id": "mos_vernon01",
+      "name": "VERNON (orig)",
+      "start_date": "1851-08-04",
+      "end_date": "1852-12-31",
+      "filename": "768e57c99e5b.json"
+    },
+    "46b828af85a8": {
+      "county_id": "mos_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1851-02-10",
+      "end_date": "1859-03-09",
+      "filename": "46b828af85a8.json"
+    },
+    "67f3bec342ad": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1851-02-10",
+      "end_date": "1855-02-27",
+      "filename": "67f3bec342ad.json"
+    },
+    "61a3606e904b": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1851-02-10",
+      "end_date": "1855-11-30",
+      "filename": "61a3606e904b.json"
+    },
+    "9d869c2108e1": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1851-02-10",
+      "end_date": "1855-12-12",
+      "filename": "9d869c2108e1.json"
+    },
+    "533b8dcf0d82": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1851-02-19",
+      "end_date": "1855-12-12",
+      "filename": "533b8dcf0d82.json"
+    },
+    "c7510cc3f305": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1851-02-10",
+      "end_date": "1859-03-09",
+      "filename": "c7510cc3f305.json"
+    },
+    "aed8d0b4846b": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1851-03-01",
+      "end_date": "1853-02-17",
+      "filename": "aed8d0b4846b.json"
+    },
+    "bdaa448de07c": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1851-03-01",
+      "end_date": "1853-02-17",
+      "filename": "bdaa448de07c.json"
+    },
+    "1d3a475fb732": {
+      "county_id": "mos_bollinger",
+      "name": "BOLLINGER",
+      "start_date": "1851-03-01",
+      "end_date": "1859-03-13",
+      "filename": "1d3a475fb732.json"
+    },
+    "5f5526c5b4cd": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1851-03-01",
+      "end_date": "1857-02-16",
+      "filename": "5f5526c5b4cd.json"
+    },
+    "156c53eb448d": {
+      "county_id": "mos_stone",
+      "name": "STONE",
+      "start_date": "1851-02-10",
+      "end_date": "2000-12-31",
+      "filename": "156c53eb448d.json"
+    },
+    "d58806764a61": {
+      "county_id": "mos_harrison",
+      "name": "HARRISON",
+      "start_date": "1851-03-01",
+      "end_date": "2000-12-31",
+      "filename": "d58806764a61.json"
+    },
+    "f3f70c1afff5": {
+      "county_id": "mos_putnam",
+      "name": "PUTNAM",
+      "start_date": "1853-03-16",
+      "end_date": "2000-12-31",
+      "filename": "f3f70c1afff5.json"
+    },
+    "52abb662da45": {
+      "county_id": "mos_dunklin",
+      "name": "DUNKLIN",
+      "start_date": "1853-02-18",
+      "end_date": "2000-12-31",
+      "filename": "52abb662da45.json"
+    },
+    "297091f1d17f": {
+      "county_id": "mos_cass",
+      "name": "CASS",
+      "start_date": "1853-01-01",
+      "end_date": "1855-02-21",
+      "filename": "297091f1d17f.json"
+    },
+    "b84500a5bea3": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1853-01-01",
+      "end_date": "1855-02-21",
+      "filename": "b84500a5bea3.json"
+    },
+    "b9dcb16fbf62": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1853-02-18",
+      "end_date": "1855-12-12",
+      "filename": "b9dcb16fbf62.json"
+    },
+    "c90411683b13": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1853-02-18",
+      "end_date": "1865-02-09",
+      "filename": "c90411683b13.json"
+    },
+    "5ac464c1db10": {
+      "county_id": "mos_osage",
+      "name": "OSAGE",
+      "start_date": "1855-12-04",
+      "end_date": "2000-12-31",
+      "filename": "5ac464c1db10.json"
+    },
+    "1c0906b6d4b8": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1855-12-04",
+      "end_date": "1857-03-02",
+      "filename": "1c0906b6d4b8.json"
+    },
+    "c85b0d1e8481": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1855-12-04",
+      "end_date": "1868-03-23",
+      "filename": "c85b0d1e8481.json"
+    },
+    "e0c94ceb37bc": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1855-12-04",
+      "end_date": "1855-12-04",
+      "filename": "e0c94ceb37bc.json"
+    },
+    "4ee590583324": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1855-12-05",
+      "end_date": "1855-12-12",
+      "filename": "4ee590583324.json"
+    },
+    "bed01ff57331": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1855-12-05",
+      "end_date": "1860-01-13",
+      "filename": "bed01ff57331.json"
+    },
+    "fac9eb74ec8d": {
+      "county_id": "mos_dallas",
+      "name": "DALLAS",
+      "start_date": "1855-12-07",
+      "end_date": "2000-12-31",
+      "filename": "fac9eb74ec8d.json"
+    },
+    "0ec61cb728b0": {
+      "county_id": "mos_barton",
+      "name": "BARTON",
+      "start_date": "1855-12-12",
+      "end_date": "2000-12-31",
+      "filename": "0ec61cb728b0.json"
+    },
+    "283febdbe6b3": {
+      "county_id": "mos_jasper",
+      "name": "JASPER",
+      "start_date": "1855-12-12",
+      "end_date": "2000-12-31",
+      "filename": "283febdbe6b3.json"
+    },
+    "09a09047f72e": {
+      "county_id": "mos_webster",
+      "name": "WEBSTER",
+      "start_date": "1855-12-07",
+      "end_date": "1859-03-07",
+      "filename": "09a09047f72e.json"
+    },
+    "b32b311eaa13": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1855-12-07",
+      "end_date": "1859-03-07",
+      "filename": "b32b311eaa13.json"
+    },
+    "3b390f0adb50": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1855-12-13",
+      "end_date": "1860-01-15",
+      "filename": "3b390f0adb50.json"
+    },
+    "76708cd98fd0": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1855-12-13",
+      "end_date": "1868-03-23",
+      "filename": "76708cd98fd0.json"
+    },
+    "8956e008a86c": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1855-12-13",
+      "end_date": "1857-03-02",
+      "filename": "8956e008a86c.json"
+    },
+    "0b29b01aabcb": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1855-12-13",
+      "end_date": "1859-03-09",
+      "filename": "0b29b01aabcb.json"
+    },
+    "dd443d4d5348": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1855-12-13",
+      "end_date": "1859-03-13",
+      "filename": "dd443d4d5348.json"
+    },
+    "85301a4fdd74": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1855-12-13",
+      "end_date": "1868-03-23",
+      "filename": "85301a4fdd74.json"
+    },
+    "bad2e331f8c7": {
+      "county_id": "mos_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1855-12-13",
+      "end_date": "1868-03-23",
+      "filename": "bad2e331f8c7.json"
+    },
+    "e2cc2adcedca": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1855-02-27",
+      "end_date": "2000-12-31",
+      "filename": "e2cc2adcedca.json"
+    },
+    "3b9fa6c0f3f5": {
+      "county_id": "mos_vernon",
+      "name": "VERNON",
+      "start_date": "1855-02-27",
+      "end_date": "2000-12-31",
+      "filename": "3b9fa6c0f3f5.json"
+    },
+    "935092aea49a": {
+      "county_id": "mos_wright",
+      "name": "WRIGHT",
+      "start_date": "1855-02-28",
+      "end_date": "2000-12-31",
+      "filename": "935092aea49a.json"
+    },
+    "f0b000a8aadf": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1855-02-28",
+      "end_date": "1855-03-02",
+      "filename": "f0b000a8aadf.json"
+    },
+    "550c1094e8ce": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1855-02-28",
+      "end_date": "1859-03-07",
+      "filename": "550c1094e8ce.json"
+    },
+    "26589adea1ea": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1855-03-01",
+      "end_date": "1857-11-03",
+      "filename": "26589adea1ea.json"
+    },
+    "eff472dc443e": {
+      "county_id": "mos_osage",
+      "name": "OSAGE",
+      "start_date": "1855-03-01",
+      "end_date": "1855-03-01",
+      "filename": "eff472dc443e.json"
+    },
+    "6fe2c2c1fd36": {
+      "county_id": "mos_ozark",
+      "name": "OZARK",
+      "start_date": "1855-02-28",
+      "end_date": "1857-10-28",
+      "filename": "6fe2c2c1fd36.json"
+    },
+    "4d5909acc6ef": {
+      "county_id": "mos_osage",
+      "name": "OSAGE",
+      "start_date": "1855-03-02",
+      "end_date": "1855-12-03",
+      "filename": "4d5909acc6ef.json"
+    },
+    "74a0d1f16bef": {
+      "county_id": "mos_maries",
+      "name": "MARIES",
+      "start_date": "1855-03-02",
+      "end_date": "1857-11-12",
+      "filename": "74a0d1f16bef.json"
+    },
+    "33a50db205b7": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1855-03-03",
+      "end_date": "1855-12-06",
+      "filename": "33a50db205b7.json"
+    },
+    "c98277850690": {
+      "county_id": "mos_webster",
+      "name": "WEBSTER",
+      "start_date": "1855-03-03",
+      "end_date": "1855-12-06",
+      "filename": "c98277850690.json"
+    },
+    "77e4345f98ee": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1855-12-01",
+      "end_date": "1855-12-03",
+      "filename": "77e4345f98ee.json"
+    },
+    "cb599661e672": {
+      "county_id": "mos_linn",
+      "name": "LINN",
+      "start_date": "1855-01-10",
+      "end_date": "2000-12-31",
+      "filename": "cb599661e672.json"
+    },
+    "64bb321d99a9": {
+      "county_id": "mos_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1855-01-10",
+      "end_date": "2000-12-31",
+      "filename": "64bb321d99a9.json"
+    },
+    "20699e77833d": {
+      "county_id": "mos_cass",
+      "name": "CASS",
+      "start_date": "1855-02-22",
+      "end_date": "2000-12-31",
+      "filename": "20699e77833d.json"
+    },
+    "dbc9a8063945": {
+      "county_id": "mos_bates",
+      "name": "BATES",
+      "start_date": "1855-02-22",
+      "end_date": "1855-02-26",
+      "filename": "dbc9a8063945.json"
+    },
+    "f102252ed166": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1857-03-03",
+      "end_date": "2000-12-31",
+      "filename": "f102252ed166.json"
+    },
+    "3bae82151121": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1857-03-03",
+      "end_date": "1857-11-03",
+      "filename": "3bae82151121.json"
+    },
+    "0ad409cf3147": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1857-03-03",
+      "end_date": "1857-11-03",
+      "filename": "0ad409cf3147.json"
+    },
+    "0f3ea5e747f3": {
+      "county_id": "mos_ozark",
+      "name": "OZARK",
+      "start_date": "1857-10-29",
+      "end_date": "1879-05-30",
+      "filename": "0f3ea5e747f3.json"
+    },
+    "afbc210926f6": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1857-03-03",
+      "end_date": "1860-01-13",
+      "filename": "afbc210926f6.json"
+    },
+    "b3c666a34141": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1857-10-29",
+      "end_date": "1864-02-04",
+      "filename": "b3c666a34141.json"
+    },
+    "399fa1846291": {
+      "county_id": "mos_phelps",
+      "name": "PHELPS",
+      "start_date": "1857-11-13",
+      "end_date": "1859-03-03",
+      "filename": "399fa1846291.json"
+    },
+    "b2d52cbe763c": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1857-11-13",
+      "end_date": "1868-03-23",
+      "filename": "b2d52cbe763c.json"
+    },
+    "c15aa59515d8": {
+      "county_id": "mos_maries",
+      "name": "MARIES",
+      "start_date": "1857-11-13",
+      "end_date": "1859-03-03",
+      "filename": "c15aa59515d8.json"
+    },
+    "9bbb42f1b93b": {
+      "county_id": "mos_atchison",
+      "name": "ATCHISON",
+      "start_date": "1857-11-05",
+      "end_date": "1860-01-15",
+      "filename": "9bbb42f1b93b.json"
+    },
+    "fe6fe556ba48": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1857-11-04",
+      "end_date": "1868-03-23",
+      "filename": "fe6fe556ba48.json"
+    },
+    "634e755037ea": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1857-11-04",
+      "end_date": "1857-11-12",
+      "filename": "634e755037ea.json"
+    },
+    "959b994db7cc": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1857-11-04",
+      "end_date": "1859-03-11",
+      "filename": "959b994db7cc.json"
+    },
+    "fb773184eddc": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1857-11-05",
+      "end_date": "1860-01-15",
+      "filename": "fb773184eddc.json"
+    },
+    "ff1a6926c67a": {
+      "county_id": "mos_stfrancois",
+      "name": "ST. FRANCOIS",
+      "start_date": "1857-02-17",
+      "end_date": "2000-12-31",
+      "filename": "ff1a6926c67a.json"
+    },
+    "1654d576a5bb": {
+      "county_id": "mos_madison",
+      "name": "MADISON",
+      "start_date": "1857-02-17",
+      "end_date": "2000-12-31",
+      "filename": "1654d576a5bb.json"
+    },
+    "8fa53d7b8b09": {
+      "county_id": "mos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1857-02-17",
+      "end_date": "1857-03-02",
+      "filename": "8fa53d7b8b09.json"
+    },
+    "3b8199e24544": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1857-02-17",
+      "end_date": "1857-03-02",
+      "filename": "3b8199e24544.json"
+    },
+    "e951e16d97c8": {
+      "county_id": "mos_oregon",
+      "name": "OREGON",
+      "start_date": "1857-03-02",
+      "end_date": "1859-03-11",
+      "filename": "e951e16d97c8.json"
+    },
+    "5c5fea963733": {
+      "county_id": "mos_howell",
+      "name": "HOWELL",
+      "start_date": "1857-03-02",
+      "end_date": "1868-03-23",
+      "filename": "5c5fea963733.json"
+    },
+    "c79b0c3d81b4": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1857-02-17",
+      "end_date": "1868-03-23",
+      "filename": "c79b0c3d81b4.json"
+    },
+    "d9cb2066a763": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1857-02-17",
+      "end_date": "1868-03-23",
+      "filename": "d9cb2066a763.json"
+    },
+    "191f17ffa8c4": {
+      "county_id": "mos_henry",
+      "name": "HENRY",
+      "start_date": "1859-03-12",
+      "end_date": "2000-12-31",
+      "filename": "191f17ffa8c4.json"
+    },
+    "8f5c7ff8068c": {
+      "county_id": "mos_pulaski",
+      "name": "PULASKI",
+      "start_date": "1859-03-12",
+      "end_date": "2000-12-31",
+      "filename": "8f5c7ff8068c.json"
+    },
+    "1c48ed8ff262": {
+      "county_id": "mos_phelps",
+      "name": "PHELPS",
+      "start_date": "1859-03-12",
+      "end_date": "1868-02-26",
+      "filename": "1c48ed8ff262.json"
+    },
+    "57b6ffccc8a7": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1859-03-12",
+      "end_date": "1879-05-30",
+      "filename": "57b6ffccc8a7.json"
+    },
+    "498f07d2896f": {
+      "county_id": "mos_oregon",
+      "name": "OREGON",
+      "start_date": "1859-03-12",
+      "end_date": "1868-03-23",
+      "filename": "498f07d2896f.json"
+    },
+    "393ca7b15933": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1859-03-12",
+      "end_date": "1868-03-23",
+      "filename": "393ca7b15933.json"
+    },
+    "38ea077b0d3e": {
+      "county_id": "mos_bollinger",
+      "name": "BOLLINGER",
+      "start_date": "1859-03-14",
+      "end_date": "1872-03-08",
+      "filename": "38ea077b0d3e.json"
+    },
+    "b22ea646c8e2": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1859-03-14",
+      "end_date": "1868-03-23",
+      "filename": "b22ea646c8e2.json"
+    },
+    "7927748dd77b": {
+      "county_id": "mos_greene",
+      "name": "GREENE",
+      "start_date": "1859-03-08",
+      "end_date": "2000-12-31",
+      "filename": "7927748dd77b.json"
+    },
+    "80303584eb27": {
+      "county_id": "mos_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1859-03-08",
+      "end_date": "2000-12-31",
+      "filename": "80303584eb27.json"
+    },
+    "a15b52d3588e": {
+      "county_id": "mos_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1859-03-10",
+      "end_date": "1868-03-23",
+      "filename": "a15b52d3588e.json"
+    },
+    "4a56451cb1fd": {
+      "county_id": "mos_maries",
+      "name": "MARIES",
+      "start_date": "1859-03-04",
+      "end_date": "1868-02-26",
+      "filename": "4a56451cb1fd.json"
+    },
+    "593b5bb798fc": {
+      "county_id": "mos_phelps",
+      "name": "PHELPS",
+      "start_date": "1859-03-04",
+      "end_date": "1859-03-11",
+      "filename": "593b5bb798fc.json"
+    },
+    "f46cf42b1a60": {
+      "county_id": "mos_webster",
+      "name": "WEBSTER",
+      "start_date": "1859-03-08",
+      "end_date": "1864-02-04",
+      "filename": "f46cf42b1a60.json"
+    },
+    "7f50ec22fb6f": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1859-03-08",
+      "end_date": "1864-11-19",
+      "filename": "7f50ec22fb6f.json"
+    },
+    "e391e53f0530": {
+      "county_id": "mos_carter",
+      "name": "CARTER",
+      "start_date": "1859-03-10",
+      "end_date": "1868-03-23",
+      "filename": "e391e53f0530.json"
+    },
+    "efafad65e609": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1859-03-10",
+      "end_date": "1863-03-17",
+      "filename": "efafad65e609.json"
+    },
+    "0b8b528a10f1": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1859-03-10",
+      "end_date": "1859-03-11",
+      "filename": "0b8b528a10f1.json"
+    },
+    "b95d04586dd3": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1859-03-10",
+      "end_date": "1865-02-09",
+      "filename": "b95d04586dd3.json"
+    },
+    "0cb2e977f945": {
+      "county_id": "mos_morgan",
+      "name": "MORGAN",
+      "start_date": "1860-01-16",
+      "end_date": "2000-12-31",
+      "filename": "0cb2e977f945.json"
+    },
+    "9c7a74065e3d": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1860-01-16",
+      "end_date": "1861-01-24",
+      "filename": "9c7a74065e3d.json"
+    },
+    "fa6f2151e7c3": {
+      "county_id": "mos_atchison",
+      "name": "ATCHISON",
+      "start_date": "1860-01-16",
+      "end_date": "1861-01-24",
+      "filename": "fa6f2151e7c3.json"
+    },
+    "d3736c60f312": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1860-01-14",
+      "end_date": "1870-02-07",
+      "filename": "d3736c60f312.json"
+    },
+    "e78db850aa64": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1860-01-16",
+      "end_date": "1868-03-23",
+      "filename": "e78db850aa64.json"
+    },
+    "0266acd3d7d8": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1860-01-14",
+      "end_date": "1868-03-23",
+      "filename": "0266acd3d7d8.json"
+    },
+    "99fe869aacc0": {
+      "county_id": "mos_atchison",
+      "name": "ATCHISON",
+      "start_date": "1861-01-25",
+      "end_date": "2000-12-31",
+      "filename": "99fe869aacc0.json"
+    },
+    "d05315aebfd0": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1861-01-25",
+      "end_date": "1863-02-24",
+      "filename": "d05315aebfd0.json"
+    },
+    "b28964b8093b": {
+      "county_id": "mos_worth",
+      "name": "WORTH",
+      "start_date": "1861-02-25",
+      "end_date": "1863-02-24",
+      "filename": "b28964b8093b.json"
+    },
+    "4057501c9672": {
+      "county_id": "mos_nodaway",
+      "name": "NODAWAY",
+      "start_date": "1863-02-25",
+      "end_date": "2000-12-31",
+      "filename": "4057501c9672.json"
+    },
+    "1754f10fe777": {
+      "county_id": "mos_worth",
+      "name": "WORTH",
+      "start_date": "1863-02-25",
+      "end_date": "2000-12-31",
+      "filename": "1754f10fe777.json"
+    },
+    "8889d357dc0f": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1863-03-18",
+      "end_date": "1864-01-20",
+      "filename": "8889d357dc0f.json"
+    },
+    "77ab9ad3cea3": {
+      "county_id": "mos_butler",
+      "name": "BUTLER",
+      "start_date": "1863-03-18",
+      "end_date": "1864-01-20",
+      "filename": "77ab9ad3cea3.json"
+    },
+    "99dee14c488d": {
+      "county_id": "mos_taney",
+      "name": "TANEY",
+      "start_date": "1864-11-20",
+      "end_date": "2000-12-31",
+      "filename": "99dee14c488d.json"
+    },
+    "2b42dfcab4a7": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1864-11-20",
+      "end_date": "1868-03-23",
+      "filename": "2b42dfcab4a7.json"
+    },
+    "1d0778ce4a76": {
+      "county_id": "mos_webster",
+      "name": "WEBSTER",
+      "start_date": "1864-02-05",
+      "end_date": "2000-12-31",
+      "filename": "1d0778ce4a76.json"
+    },
+    "21fc6c474cd1": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1864-02-05",
+      "end_date": "1864-11-19",
+      "filename": "21fc6c474cd1.json"
+    },
+    "68d7fe05f9bb": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1864-01-21",
+      "end_date": "1868-03-23",
+      "filename": "68d7fe05f9bb.json"
+    },
+    "4fbfc96f33fd": {
+      "county_id": "mos_butler",
+      "name": "BUTLER",
+      "start_date": "1864-01-21",
+      "end_date": "1872-03-08",
+      "filename": "4fbfc96f33fd.json"
+    },
+    "a2352ff1e347": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU",
+      "start_date": "1865-02-10",
+      "end_date": "2000-12-31",
+      "filename": "a2352ff1e347.json"
+    },
+    "f85947a3a7f3": {
+      "county_id": "mos_scott",
+      "name": "SCOTT",
+      "start_date": "1865-02-10",
+      "end_date": "2000-12-31",
+      "filename": "f85947a3a7f3.json"
+    },
+    "2f1e2c558e41": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1868-03-25",
+      "end_date": "1872-03-08",
+      "filename": "2f1e2c558e41.json"
+    },
+    "c789fc48d8f8": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1868-03-25",
+      "end_date": "1872-03-08",
+      "filename": "c789fc48d8f8.json"
+    },
+    "722a18f19046": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1868-03-25",
+      "end_date": "1869-03-02",
+      "filename": "722a18f19046.json"
+    },
+    "6e75aabead88": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1868-03-25",
+      "end_date": "1872-03-08",
+      "filename": "6e75aabead88.json"
+    },
+    "ce4e67c04467": {
+      "county_id": "mos_maries",
+      "name": "MARIES",
+      "start_date": "1868-02-27",
+      "end_date": "2000-12-31",
+      "filename": "ce4e67c04467.json"
+    },
+    "a116a380db38": {
+      "county_id": "mos_phelps",
+      "name": "PHELPS",
+      "start_date": "1868-02-27",
+      "end_date": "2000-12-31",
+      "filename": "a116a380db38.json"
+    },
+    "82cfbe502ca1": {
+      "county_id": "mos_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1868-03-24",
+      "end_date": "2000-12-31",
+      "filename": "82cfbe502ca1.json"
+    },
+    "e9d1b6850bef": {
+      "county_id": "mos_oregon",
+      "name": "OREGON",
+      "start_date": "1868-03-24",
+      "end_date": "2000-12-31",
+      "filename": "e9d1b6850bef.json"
+    },
+    "ac4dfc266eac": {
+      "county_id": "mos_camden",
+      "name": "CAMDEN",
+      "start_date": "1868-03-24",
+      "end_date": "1875-03-28",
+      "filename": "ac4dfc266eac.json"
+    },
+    "0cc693a6fa14": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1868-03-24",
+      "end_date": "1868-03-24",
+      "filename": "0cc693a6fa14.json"
+    },
+    "587f6b5297d0": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1868-03-24",
+      "end_date": "1870-02-07",
+      "filename": "587f6b5297d0.json"
+    },
+    "78bb8477ec5c": {
+      "county_id": "mos_dent",
+      "name": "DENT",
+      "start_date": "1868-03-24",
+      "end_date": "1868-03-24",
+      "filename": "78bb8477ec5c.json"
+    },
+    "57022a8acb26": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1868-03-24",
+      "end_date": "1869-03-02",
+      "filename": "57022a8acb26.json"
+    },
+    "b727b4c7275c": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1868-03-24",
+      "end_date": "1875-03-28",
+      "filename": "b727b4c7275c.json"
+    },
+    "0433720a1925": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1868-03-24",
+      "end_date": "1879-05-30",
+      "filename": "0433720a1925.json"
+    },
+    "b88684432f42": {
+      "county_id": "mos_shannon",
+      "name": "SHANNON",
+      "start_date": "1868-03-24",
+      "end_date": "1868-03-24",
+      "filename": "b88684432f42.json"
+    },
+    "facc51631ce5": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-31",
+      "filename": "facc51631ce5.json"
+    },
+    "13e8316726d9": {
+      "county_id": "mos_howell",
+      "name": "HOWELL",
+      "start_date": "1868-03-24",
+      "end_date": "1879-05-30",
+      "filename": "13e8316726d9.json"
+    },
+    "54fc67a388ed": {
+      "county_id": "mos_carter",
+      "name": "CARTER",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-08",
+      "filename": "54fc67a388ed.json"
+    },
+    "5dff851b408e": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1868-03-24",
+      "end_date": "1868-03-24",
+      "filename": "5dff851b408e.json"
+    },
+    "8b271a818dc4": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-13",
+      "filename": "8b271a818dc4.json"
+    },
+    "3350520c1c60": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-13",
+      "filename": "3350520c1c60.json"
+    },
+    "71249531e79f": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-08",
+      "filename": "71249531e79f.json"
+    },
+    "791a1b5b1d84": {
+      "county_id": "mos_gasconade",
+      "name": "GASCONADE",
+      "start_date": "1869-03-03",
+      "end_date": "2000-12-31",
+      "filename": "791a1b5b1d84.json"
+    },
+    "8d360a3f8d1a": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1869-03-03",
+      "end_date": "1872-03-08",
+      "filename": "8d360a3f8d1a.json"
+    },
+    "52bad13aeebe": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1869-03-03",
+      "end_date": "1879-05-30",
+      "filename": "52bad13aeebe.json"
+    },
+    "ef370fca600c": {
+      "county_id": "mos_texas",
+      "name": "TEXAS",
+      "start_date": "1870-02-08",
+      "end_date": "1872-01-10",
+      "filename": "ef370fca600c.json"
+    },
+    "f7a8474bba90": {
+      "county_id": "mos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1870-02-08",
+      "end_date": "1872-01-10",
+      "filename": "f7a8474bba90.json"
+    },
+    "e1d6e0370930": {
+      "county_id": "mos_wayne",
+      "name": "WAYNE",
+      "start_date": "1872-03-14",
+      "end_date": "2000-12-31",
+      "filename": "e1d6e0370930.json"
+    },
+    "162ece1e030a": {
+      "county_id": "mos_stoddard",
+      "name": "STODDARD",
+      "start_date": "1872-03-14",
+      "end_date": "2000-12-31",
+      "filename": "162ece1e030a.json"
+    },
+    "14b84bf6ec15": {
+      "county_id": "mos_butler",
+      "name": "BUTLER",
+      "start_date": "1872-04-01",
+      "end_date": "2000-12-31",
+      "filename": "14b84bf6ec15.json"
+    },
+    "db670a10f696": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1872-03-14",
+      "end_date": "2000-12-31",
+      "filename": "db670a10f696.json"
+    },
+    "32721c03118b": {
+      "county_id": "mos_ripley",
+      "name": "RIPLEY",
+      "start_date": "1872-04-01",
+      "end_date": "2000-12-31",
+      "filename": "32721c03118b.json"
+    },
+    "4dd42d67bb72": {
+      "county_id": "mos_reynolds",
+      "name": "REYNOLDS",
+      "start_date": "1872-03-09",
+      "end_date": "2000-12-31",
+      "filename": "4dd42d67bb72.json"
+    },
+    "57ddeca93ca5": {
+      "county_id": "mos_bollinger",
+      "name": "BOLLINGER",
+      "start_date": "1872-03-09",
+      "end_date": "2000-12-31",
+      "filename": "57ddeca93ca5.json"
+    },
+    "828f231ffaae": {
+      "county_id": "mos_benton",
+      "name": "BENTON",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "828f231ffaae.json"
+    },
+    "d2fbbfc809ce": {
+      "county_id": "mos_miller",
+      "name": "MILLER",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "d2fbbfc809ce.json"
+    },
+    "6bcf4727c85c": {
+      "county_id": "mos_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "6bcf4727c85c.json"
+    },
+    "9a51459180fc": {
+      "county_id": "mos_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "9a51459180fc.json"
+    },
+    "7c2611c6b37f": {
+      "county_id": "mos_newton",
+      "name": "NEWTON",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "7c2611c6b37f.json"
+    },
+    "b03e9880bceb": {
+      "county_id": "mos_howell",
+      "name": "HOWELL",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "b03e9880bceb.json"
+    },
+    "f9ac8d4a9c75": {
+      "county_id": "mos_ozark",
+      "name": "OZARK",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "f9ac8d4a9c75.json"
+    },
+    "908f90d2d53d": {
+      "county_id": "mos_mcdonald",
+      "name": "MCDONALD",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "908f90d2d53d.json"
+    },
+    "ca20ccf57d61": {
+      "county_id": "mos_cole",
+      "name": "COLE",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "ca20ccf57d61.json"
+    },
+    "285b879cf458": {
+      "county_id": "mos_iron",
+      "name": "IRON",
+      "start_date": "1879-05-31",
+      "end_date": "2000-12-31",
+      "filename": "285b879cf458.json"
+    },
+    "b5629b78d017": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS (Ark.)",
+      "start_date": "1813-12-31",
+      "end_date": "1819-05-31",
+      "filename": "b5629b78d017.json"
+    },
+    "3cf3f88180c6": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "3cf3f88180c6.json"
+    },
+    "57b78648459d": {
+      "county_id": "ars_clark",
+      "name": "CLARK (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "57b78648459d.json"
+    },
+    "4d71a0a4497e": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "4d71a0a4497e.json"
+    },
+    "d4613ab9999c": {
+      "county_id": "mos_lawrence01",
+      "name": "LAWRENCE (orig)",
+      "start_date": "1815-03-01",
+      "end_date": "1819-01-31",
+      "filename": "d4613ab9999c.json"
+    },
+    "b4fd9d08761f": {
+      "county_id": "mos_lawrence01",
+      "name": "LAWRENCE (orig)",
+      "start_date": "1819-02-01",
+      "end_date": "1819-07-03",
+      "filename": "b4fd9d08761f.json"
+    },
+    "22fc1cf973eb": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "22fc1cf973eb.json"
+    },
+    "76f293cfefe8": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID",
+      "start_date": "1813-12-31",
+      "end_date": "1815-02-28",
+      "filename": "76f293cfefe8.json"
+    },
+    "7bae625743f4": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "7bae625743f4.json"
+    },
+    "275a41d2430b": {
+      "county_id": "ars_quapawres",
+      "name": "Quapaw Indian Res.",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "275a41d2430b.json"
+    },
+    "84e73b0b874b": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1813-12-31",
+      "end_date": "1819-02-21",
+      "filename": "84e73b0b874b.json"
+    },
+    "d616ad7e60c3": {
+      "county_id": "mos_nca1",
+      "name": "NCA 1",
+      "start_date": "1819-02-22",
+      "end_date": "1819-05-31",
+      "filename": "d616ad7e60c3.json"
+    }
+  }
+}

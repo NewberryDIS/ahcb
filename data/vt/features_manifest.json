@@ -1,0 +1,1084 @@
+{
+  "state": "VT",
+  "total_features": 154,
+  "features": {
+    "60d9d0b1a433": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1764-07-20",
+      "end_date": "1766-07-02",
+      "filename": "60d9d0b1a433.json"
+    },
+    "811291bf085f": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1766-07-03",
+      "end_date": "1767-06-25",
+      "filename": "811291bf085f.json"
+    },
+    "d2fdf88c69f3": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (NY, ext)",
+      "start_date": "1766-07-03",
+      "end_date": "1767-06-25",
+      "filename": "d2fdf88c69f3.json"
+    },
+    "c81599478514": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1767-06-26",
+      "end_date": "1768-03-18",
+      "filename": "c81599478514.json"
+    },
+    "c321d125e41c": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1768-03-19",
+      "end_date": "1770-03-15",
+      "filename": "c321d125e41c.json"
+    },
+    "809bca75b123": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (NY, ext)",
+      "start_date": "1768-03-19",
+      "end_date": "1772-03-23",
+      "filename": "809bca75b123.json"
+    },
+    "85612b2cab2a": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1770-03-16",
+      "end_date": "1772-03-11",
+      "filename": "85612b2cab2a.json"
+    },
+    "6a85cea15df2": {
+      "county_id": "nys_gloucester",
+      "name": "GLOUCESTER (NY, ext)",
+      "start_date": "1770-03-16",
+      "end_date": "1772-03-23",
+      "filename": "6a85cea15df2.json"
+    },
+    "380b0c608e87": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (NY, ext)",
+      "start_date": "1772-03-24",
+      "end_date": "1775-03-31",
+      "filename": "380b0c608e87.json"
+    },
+    "36e26b9f6efc": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE (N.Y.)",
+      "start_date": "1772-03-24",
+      "end_date": "1775-03-31",
+      "filename": "36e26b9f6efc.json"
+    },
+    "b395f270d0b4": {
+      "county_id": "nys_gloucester",
+      "name": "GLOUCESTER (NY, ext)",
+      "start_date": "1772-03-24",
+      "end_date": "1777-01-14",
+      "filename": "b395f270d0b4.json"
+    },
+    "d6746ed5cf44": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1772-03-24",
+      "end_date": "1774-03-08",
+      "filename": "d6746ed5cf44.json"
+    },
+    "a7816bc84c2e": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1772-03-12",
+      "end_date": "1772-03-23",
+      "filename": "a7816bc84c2e.json"
+    },
+    "df6521d99756": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE (N.Y.)",
+      "start_date": "1772-03-12",
+      "end_date": "1772-03-23",
+      "filename": "df6521d99756.json"
+    },
+    "2b03e91efe28": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1774-03-09",
+      "end_date": "1775-03-31",
+      "filename": "2b03e91efe28.json"
+    },
+    "42683092f25f": {
+      "county_id": "nys_albany",
+      "name": "ALBANY (N.Y.)",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "42683092f25f.json"
+    },
+    "0c8b68d3669d": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (NY, ext)",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "0c8b68d3669d.json"
+    },
+    "7d3518940db6": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE (N.Y.)",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "7d3518940db6.json"
+    },
+    "f7c0209d553a": {
+      "county_id": "vts",
+      "name": "Vermont",
+      "start_date": "1777-01-15",
+      "end_date": "1778-03-16",
+      "filename": "f7c0209d553a.json"
+    },
+    "495eea852ecc": {
+      "county_id": "vts_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1778-03-21",
+      "end_date": "1779-02-10",
+      "filename": "495eea852ecc.json"
+    },
+    "2925c906b171": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1778-03-17",
+      "end_date": "1779-02-10",
+      "filename": "2925c906b171.json"
+    },
+    "a622c3e92210": {
+      "county_id": "vts_cumberland",
+      "name": "UNITY",
+      "start_date": "1778-03-17",
+      "end_date": "1778-03-20",
+      "filename": "a622c3e92210.json"
+    },
+    "931901b9a3a8": {
+      "county_id": "vts_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1779-02-11",
+      "end_date": "1781-02-15",
+      "filename": "931901b9a3a8.json"
+    },
+    "115e9bb064ad": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1779-02-11",
+      "end_date": "1781-02-15",
+      "filename": "115e9bb064ad.json"
+    },
+    "baa672f499f3": {
+      "county_id": "vts_eastunion",
+      "name": "East Union",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "baa672f499f3.json"
+    },
+    "22f88e2ab156": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "22f88e2ab156.json"
+    },
+    "a44bfb6ff82e": {
+      "county_id": "vts_washington01",
+      "name": "WASHINGTON (orig)",
+      "start_date": "1781-04-11",
+      "end_date": "1782-02-22",
+      "filename": "a44bfb6ff82e.json"
+    },
+    "7ddc2731450a": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1781-04-11",
+      "end_date": "1781-04-12",
+      "filename": "7ddc2731450a.json"
+    },
+    "379f8f99a01d": {
+      "county_id": "vts_windham",
+      "name": "WINDHAM",
+      "start_date": "1781-04-13",
+      "end_date": "1787-02-26",
+      "filename": "379f8f99a01d.json"
+    },
+    "883763a6bf80": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1781-04-13",
+      "end_date": "1782-02-22",
+      "filename": "883763a6bf80.json"
+    },
+    "2c29bdf9c555": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1781-04-13",
+      "end_date": "1781-06-25",
+      "filename": "2c29bdf9c555.json"
+    },
+    "cbd9bf817084": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "cbd9bf817084.json"
+    },
+    "bdac64b4520d": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "bdac64b4520d.json"
+    },
+    "131782f3cc68": {
+      "county_id": "vts_westunion",
+      "name": "West Union",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "131782f3cc68.json"
+    },
+    "f6504071f30a": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1781-02-16",
+      "end_date": "1781-06-25",
+      "filename": "f6504071f30a.json"
+    },
+    "5fcdd054f591": {
+      "county_id": "vts_windham",
+      "name": "WINDHAM",
+      "start_date": "1781-02-16",
+      "end_date": "1781-04-12",
+      "filename": "5fcdd054f591.json"
+    },
+    "7ce0fa624e66": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1781-02-16",
+      "end_date": "1781-04-12",
+      "filename": "7ce0fa624e66.json"
+    },
+    "c2c1eb4be287": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1781-02-16",
+      "end_date": "1781-04-10",
+      "filename": "c2c1eb4be287.json"
+    },
+    "69508b037718": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1781-02-16",
+      "end_date": "1781-04-10",
+      "filename": "69508b037718.json"
+    },
+    "c7df401cebcf": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1782-02-23",
+      "end_date": "1787-02-26",
+      "filename": "c7df401cebcf.json"
+    },
+    "0763a80614f6": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1782-02-23",
+      "end_date": "1783-02-20",
+      "filename": "0763a80614f6.json"
+    },
+    "0fbcdb9866d3": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1782-02-23",
+      "end_date": "1783-02-12",
+      "filename": "0fbcdb9866d3.json"
+    },
+    "9d2ab3104ecd": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1782-02-23",
+      "end_date": "1783-02-12",
+      "filename": "9d2ab3104ecd.json"
+    },
+    "a52fa71436a4": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1783-02-21",
+      "end_date": "1783-02-26",
+      "filename": "a52fa71436a4.json"
+    },
+    "77b4fee8ab07": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1783-02-21",
+      "end_date": "1783-02-24",
+      "filename": "77b4fee8ab07.json"
+    },
+    "1fdffe7d9c75": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1783-02-25",
+      "end_date": "1787-02-26",
+      "filename": "1fdffe7d9c75.json"
+    },
+    "e9b5a86a1587": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1783-02-25",
+      "end_date": "1783-02-26",
+      "filename": "e9b5a86a1587.json"
+    },
+    "2075d986d49a": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1783-02-27",
+      "end_date": "1786-10-29",
+      "filename": "2075d986d49a.json"
+    },
+    "0dd00944da80": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1783-02-27",
+      "end_date": "1785-10-17",
+      "filename": "0dd00944da80.json"
+    },
+    "0d44e81afbf4": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1783-02-13",
+      "end_date": "1783-02-24",
+      "filename": "0d44e81afbf4.json"
+    },
+    "63d5f34ee832": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1783-02-13",
+      "end_date": "1783-02-20",
+      "filename": "63d5f34ee832.json"
+    },
+    "e4c40884f2fc": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1785-10-18",
+      "end_date": "1787-02-26",
+      "filename": "e4c40884f2fc.json"
+    },
+    "91b7018292cf": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1785-10-18",
+      "end_date": "1786-10-29",
+      "filename": "91b7018292cf.json"
+    },
+    "eaa1f8d0885e": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1786-10-30",
+      "end_date": "1787-10-18",
+      "filename": "eaa1f8d0885e.json"
+    },
+    "1f2c51327ccd": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1786-10-30",
+      "end_date": "1787-10-18",
+      "filename": "1f2c51327ccd.json"
+    },
+    "969fa61118c7": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1787-10-22",
+      "end_date": "1794-10-28",
+      "filename": "969fa61118c7.json"
+    },
+    "bf721dd0c186": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1787-10-22",
+      "end_date": "1792-11-04",
+      "filename": "bf721dd0c186.json"
+    },
+    "ea58e51fa582": {
+      "county_id": "vts_windham",
+      "name": "WINDHAM",
+      "start_date": "1787-02-27",
+      "end_date": "2000-12-31",
+      "filename": "ea58e51fa582.json"
+    },
+    "49b67dd4eb03": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1787-02-27",
+      "end_date": "1805-10-24",
+      "filename": "49b67dd4eb03.json"
+    },
+    "a5f3a8aca130": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1787-10-19",
+      "end_date": "1792-11-04",
+      "filename": "a5f3a8aca130.json"
+    },
+    "74cd1f6114cc": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1787-02-27",
+      "end_date": "1792-10-30",
+      "filename": "74cd1f6114cc.json"
+    },
+    "54d8c58ecea5": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1787-02-27",
+      "end_date": "1792-10-30",
+      "filename": "54d8c58ecea5.json"
+    },
+    "e5c25a02e7c2": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1787-10-19",
+      "end_date": "1787-10-21",
+      "filename": "e5c25a02e7c2.json"
+    },
+    "10437e03357c": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1792-11-05",
+      "end_date": "1810-10-31",
+      "filename": "10437e03357c.json"
+    },
+    "ae96f892146d": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1792-11-05",
+      "end_date": "1810-10-31",
+      "filename": "ae96f892146d.json"
+    },
+    "cdf7d3b5a653": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1792-11-05",
+      "end_date": "1802-11-08",
+      "filename": "cdf7d3b5a653.json"
+    },
+    "eaae2d72ed2f": {
+      "county_id": "vts_essex",
+      "name": "ESSEX",
+      "start_date": "1792-11-05",
+      "end_date": "1801-10-18",
+      "filename": "eaae2d72ed2f.json"
+    },
+    "9dfc41d37ae5": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1792-11-05",
+      "end_date": "1801-10-18",
+      "filename": "9dfc41d37ae5.json"
+    },
+    "4e703b0da331": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1792-10-31",
+      "end_date": "1797-03-01",
+      "filename": "4e703b0da331.json"
+    },
+    "36ba5aececeb": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1792-10-31",
+      "end_date": "1797-03-01",
+      "filename": "36ba5aececeb.json"
+    },
+    "a31621575001": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1792-11-05",
+      "end_date": "1794-10-28",
+      "filename": "a31621575001.json"
+    },
+    "319d3e9b7d5e": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1794-10-29",
+      "end_date": "1814-11-08",
+      "filename": "319d3e9b7d5e.json"
+    },
+    "8e4cf0b18926": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1794-10-29",
+      "end_date": "1802-11-08",
+      "filename": "8e4cf0b18926.json"
+    },
+    "b05dd15275ad": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1797-03-02",
+      "end_date": "1806-10-28",
+      "filename": "b05dd15275ad.json"
+    },
+    "399f4277f18d": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1797-03-02",
+      "end_date": "1805-10-24",
+      "filename": "399f4277f18d.json"
+    },
+    "d9b22a9a3af5": {
+      "county_id": "vts_essex",
+      "name": "ESSEX",
+      "start_date": "1801-10-19",
+      "end_date": "1821-11-15",
+      "filename": "d9b22a9a3af5.json"
+    },
+    "66b34f302384": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1801-10-19",
+      "end_date": "1821-11-15",
+      "filename": "66b34f302384.json"
+    },
+    "9f2efc3926d0": {
+      "county_id": "vts_grandisle",
+      "name": "GRAND ISLE",
+      "start_date": "1802-11-09",
+      "end_date": "1822-10-22",
+      "filename": "9f2efc3926d0.json"
+    },
+    "cc93e05f5429": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1802-11-09",
+      "end_date": "1822-10-22",
+      "filename": "cc93e05f5429.json"
+    },
+    "92902d9f8065": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1802-11-09",
+      "end_date": "1810-10-31",
+      "filename": "92902d9f8065.json"
+    },
+    "06135797d030": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1805-10-25",
+      "end_date": "1825-11-16",
+      "filename": "06135797d030.json"
+    },
+    "7a037875f550": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1805-10-25",
+      "end_date": "1806-10-28",
+      "filename": "7a037875f550.json"
+    },
+    "53b21a00b2fc": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1806-10-29",
+      "end_date": "1822-10-21",
+      "filename": "53b21a00b2fc.json"
+    },
+    "268bad47aa69": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1806-10-29",
+      "end_date": "1814-11-08",
+      "filename": "268bad47aa69.json"
+    },
+    "87098d6b723d": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1810-11-01",
+      "end_date": "1835-10-25",
+      "filename": "87098d6b723d.json"
+    },
+    "510b87a3c99f": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1810-11-01",
+      "end_date": "1824-11-17",
+      "filename": "510b87a3c99f.json"
+    },
+    "bd7d3a046678": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1810-11-01",
+      "end_date": "1820-12-31",
+      "filename": "bd7d3a046678.json"
+    },
+    "ee41e26ac41d": {
+      "county_id": "vts_washington",
+      "name": "JEFFERSON",
+      "start_date": "1810-11-01",
+      "end_date": "1814-11-07",
+      "filename": "ee41e26ac41d.json"
+    },
+    "77fafa5498da": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1814-11-09",
+      "end_date": "1822-10-21",
+      "filename": "77fafa5498da.json"
+    },
+    "daf972b5f0c4": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1814-11-08",
+      "end_date": "1820-12-31",
+      "filename": "daf972b5f0c4.json"
+    },
+    "e32206016874": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1814-11-09",
+      "end_date": "1829-11-30",
+      "filename": "e32206016874.json"
+    },
+    "6fc03d0f89db": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1821-12-01",
+      "end_date": "1829-11-30",
+      "filename": "6fc03d0f89db.json"
+    },
+    "92d539fc7778": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1821-12-01",
+      "end_date": "1828-10-29",
+      "filename": "92d539fc7778.json"
+    },
+    "339a6ad9c677": {
+      "county_id": "vts_essex",
+      "name": "ESSEX",
+      "start_date": "1821-11-16",
+      "end_date": "1824-11-17",
+      "filename": "339a6ad9c677.json"
+    },
+    "3a9a5892f004": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1821-01-01",
+      "end_date": "1824-11-09",
+      "filename": "3a9a5892f004.json"
+    },
+    "2343194c1d51": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1821-11-16",
+      "end_date": "1821-11-30",
+      "filename": "2343194c1d51.json"
+    },
+    "57861cfd5125": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1821-01-01",
+      "end_date": "1821-11-30",
+      "filename": "57861cfd5125.json"
+    },
+    "77d48918949c": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1822-10-22",
+      "end_date": "1823-11-02",
+      "filename": "77d48918949c.json"
+    },
+    "b1e37c4dc6ea": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1822-10-22",
+      "end_date": "1823-11-02",
+      "filename": "b1e37c4dc6ea.json"
+    },
+    "16200c9addf3": {
+      "county_id": "vts_grandisle",
+      "name": "GRAND ISLE",
+      "start_date": "1822-10-23",
+      "end_date": "1845-10-26",
+      "filename": "16200c9addf3.json"
+    },
+    "df5134b00205": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1822-10-23",
+      "end_date": "1828-10-29",
+      "filename": "df5134b00205.json"
+    },
+    "39289ce0fc8d": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1823-11-03",
+      "end_date": "1824-11-14",
+      "filename": "39289ce0fc8d.json"
+    },
+    "4adbe9499f11": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1823-11-03",
+      "end_date": "1824-11-09",
+      "filename": "4adbe9499f11.json"
+    },
+    "065e53201ac3": {
+      "county_id": "vts_essex",
+      "name": "ESSEX",
+      "start_date": "1824-11-18",
+      "end_date": "1856-11-05",
+      "filename": "065e53201ac3.json"
+    },
+    "b0cdd3be0188": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1824-11-18",
+      "end_date": "1835-11-02",
+      "filename": "b0cdd3be0188.json"
+    },
+    "538185b1fba6": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1824-11-15",
+      "end_date": "1834-10-27",
+      "filename": "538185b1fba6.json"
+    },
+    "2dea675b1c35": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1824-11-15",
+      "end_date": "1825-11-16",
+      "filename": "2dea675b1c35.json"
+    },
+    "d2655bb436f5": {
+      "county_id": "vts_orange",
+      "name": "ORANGE",
+      "start_date": "1824-11-10",
+      "end_date": "2000-12-31",
+      "filename": "d2655bb436f5.json"
+    },
+    "25040c5f35f0": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1824-11-10",
+      "end_date": "1824-11-14",
+      "filename": "25040c5f35f0.json"
+    },
+    "b7f68e46005c": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON",
+      "start_date": "1825-11-17",
+      "end_date": "2000-12-31",
+      "filename": "b7f68e46005c.json"
+    },
+    "6f761e522785": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1825-11-17",
+      "end_date": "1847-11-30",
+      "filename": "6f761e522785.json"
+    },
+    "7f453e82814e": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1828-10-30",
+      "end_date": "1835-10-25",
+      "filename": "7f453e82814e.json"
+    },
+    "75848853b29f": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1828-10-30",
+      "end_date": "1835-10-25",
+      "filename": "75848853b29f.json"
+    },
+    "1a453c5eab00": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1829-12-01",
+      "end_date": "1835-10-25",
+      "filename": "1a453c5eab00.json"
+    },
+    "3ba072f1ede0": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1829-12-01",
+      "end_date": "1834-10-27",
+      "filename": "3ba072f1ede0.json"
+    },
+    "15030fd2a206": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1834-10-28",
+      "end_date": "1847-11-09",
+      "filename": "15030fd2a206.json"
+    },
+    "4f9de8105b23": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1834-10-28",
+      "end_date": "1847-11-09",
+      "filename": "4f9de8105b23.json"
+    },
+    "b18de61a434e": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1835-11-03",
+      "end_date": "1855-12-31",
+      "filename": "b18de61a434e.json"
+    },
+    "4c5e910afedc": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1835-11-03",
+      "end_date": "1851-10-29",
+      "filename": "4c5e910afedc.json"
+    },
+    "1335cd4fbf59": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1835-10-26",
+      "end_date": "1858-11-22",
+      "filename": "1335cd4fbf59.json"
+    },
+    "3acab77fd2d6": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1835-10-26",
+      "end_date": "1844-04-21",
+      "filename": "3acab77fd2d6.json"
+    },
+    "ab688fe2723f": {
+      "county_id": "vts_lamoille",
+      "name": "LAMOILLE",
+      "start_date": "1835-10-26",
+      "end_date": "1839-11-12",
+      "filename": "ab688fe2723f.json"
+    },
+    "626431c95976": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1835-10-26",
+      "end_date": "1839-11-12",
+      "filename": "626431c95976.json"
+    },
+    "6df7ee81533c": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1835-10-26",
+      "end_date": "1835-11-02",
+      "filename": "6df7ee81533c.json"
+    },
+    "879de9b1f1a2": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1839-11-13",
+      "end_date": "1851-10-29",
+      "filename": "879de9b1f1a2.json"
+    },
+    "310eea9f6a4b": {
+      "county_id": "vts_lamoille",
+      "name": "LAMOILLE",
+      "start_date": "1839-11-13",
+      "end_date": "1844-04-21",
+      "filename": "310eea9f6a4b.json"
+    },
+    "2fbb0952a300": {
+      "county_id": "vts_lamoille",
+      "name": "LAMOILLE",
+      "start_date": "1844-04-22",
+      "end_date": "2000-12-31",
+      "filename": "2fbb0952a300.json"
+    },
+    "d132a2a5e068": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1844-04-22",
+      "end_date": "1845-10-26",
+      "filename": "d132a2a5e068.json"
+    },
+    "ea9a5b69016e": {
+      "county_id": "vts_grandisle",
+      "name": "GRAND ISLE",
+      "start_date": "1845-10-27",
+      "end_date": "2000-12-31",
+      "filename": "ea9a5b69016e.json"
+    },
+    "4cd1559d3f03": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1845-10-27",
+      "end_date": "1859-03-14",
+      "filename": "4cd1559d3f03.json"
+    },
+    "ad77db60d1d0": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1847-12-01",
+      "end_date": "1855-03-05",
+      "filename": "ad77db60d1d0.json"
+    },
+    "3d17f8068c0d": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1847-12-01",
+      "end_date": "1855-03-05",
+      "filename": "3d17f8068c0d.json"
+    },
+    "6f83ac34610c": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1847-11-10",
+      "end_date": "1847-11-30",
+      "filename": "6f83ac34610c.json"
+    },
+    "785487de5fb5": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1847-11-10",
+      "end_date": "1884-11-20",
+      "filename": "785487de5fb5.json"
+    },
+    "e55f36351979": {
+      "county_id": "vts_chittenden",
+      "name": "CHITTENDEN",
+      "start_date": "1851-10-30",
+      "end_date": "2000-12-31",
+      "filename": "e55f36351979.json"
+    },
+    "ea352cd64570": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1851-10-30",
+      "end_date": "1855-12-31",
+      "filename": "ea352cd64570.json"
+    },
+    "ea19c6a3ea88": {
+      "county_id": "vts_addison",
+      "name": "ADDISON",
+      "start_date": "1855-03-06",
+      "end_date": "2000-12-31",
+      "filename": "ea19c6a3ea88.json"
+    },
+    "e2604ae97441": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1855-03-06",
+      "end_date": "1884-11-20",
+      "filename": "e2604ae97441.json"
+    },
+    "70e754ebe9e8": {
+      "county_id": "vts_essex",
+      "name": "ESSEX",
+      "start_date": "1856-11-06",
+      "end_date": "2000-12-31",
+      "filename": "70e754ebe9e8.json"
+    },
+    "58576e0a657d": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1856-11-06",
+      "end_date": "1858-11-22",
+      "filename": "58576e0a657d.json"
+    },
+    "3b739710f00a": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1856-01-01",
+      "end_date": "1856-11-05",
+      "filename": "3b739710f00a.json"
+    },
+    "1ed6ebb389da": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1856-01-01",
+      "end_date": "1875-03-15",
+      "filename": "1ed6ebb389da.json"
+    },
+    "0af1967a2572": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1858-11-23",
+      "end_date": "1875-03-15",
+      "filename": "0af1967a2572.json"
+    },
+    "961d1a7a03d6": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1858-11-23",
+      "end_date": "1859-03-14",
+      "filename": "961d1a7a03d6.json"
+    },
+    "e67cf082660c": {
+      "county_id": "vts_orleans",
+      "name": "ORLEANS",
+      "start_date": "1859-03-15",
+      "end_date": "2000-12-31",
+      "filename": "e67cf082660c.json"
+    },
+    "3f49d73f5ef9": {
+      "county_id": "vts_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1859-03-15",
+      "end_date": "2000-12-31",
+      "filename": "3f49d73f5ef9.json"
+    },
+    "746d396097bd": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1875-03-16",
+      "end_date": "1890-12-31",
+      "filename": "746d396097bd.json"
+    },
+    "d860b0428365": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1875-03-16",
+      "end_date": "1890-12-31",
+      "filename": "d860b0428365.json"
+    },
+    "201134d156d4": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1884-11-21",
+      "end_date": "1895-10-07",
+      "filename": "201134d156d4.json"
+    },
+    "00e101b272e3": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1884-11-21",
+      "end_date": "1895-10-07",
+      "filename": "00e101b272e3.json"
+    },
+    "2829df6f2e28": {
+      "county_id": "vts_caledonia",
+      "name": "CALEDONIA",
+      "start_date": "1891-01-01",
+      "end_date": "2000-12-31",
+      "filename": "2829df6f2e28.json"
+    },
+    "b72e98c05a3d": {
+      "county_id": "vts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1891-01-01",
+      "end_date": "2000-12-31",
+      "filename": "b72e98c05a3d.json"
+    },
+    "42f8e910828f": {
+      "county_id": "vts_windsor",
+      "name": "WINDSOR",
+      "start_date": "1895-10-08",
+      "end_date": "2000-12-31",
+      "filename": "42f8e910828f.json"
+    },
+    "b5687250c1a6": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND",
+      "start_date": "1895-10-08",
+      "end_date": "2000-12-31",
+      "filename": "b5687250c1a6.json"
+    }
+  }
+}

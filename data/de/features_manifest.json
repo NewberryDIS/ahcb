@@ -1,0 +1,237 @@
+{
+  "state": "DE",
+  "total_features": 33,
+  "features": {
+    "0ac830d23b4e": {
+      "county_id": "mds_somerset",
+      "name": "SOMERSET (Md.)",
+      "start_date": "1666-08-22",
+      "end_date": "1669-10-21",
+      "filename": "0ac830d23b4e.json"
+    },
+    "f40bd33b802a": {
+      "county_id": "mds_somerset",
+      "name": "SOMERSET (Md.)",
+      "start_date": "1669-10-22",
+      "end_date": "1685-11-12",
+      "filename": "f40bd33b802a.json"
+    },
+    "7efdc57e37ff": {
+      "county_id": "mds_durham",
+      "name": "DURHAM (Md., ext)",
+      "start_date": "1669-10-22",
+      "end_date": "1672-06-18",
+      "filename": "7efdc57e37ff.json"
+    },
+    "49dac144f24e": {
+      "county_id": "mds_worcester01",
+      "name": "WORCESTER (Md., ext)",
+      "start_date": "1672-06-19",
+      "end_date": "1685-11-12",
+      "filename": "49dac144f24e.json"
+    },
+    "b7009b8bd335": {
+      "county_id": "des_sussex",
+      "name": "HOARKILL",
+      "start_date": "1673-09-12",
+      "end_date": "1680-06-20",
+      "filename": "b7009b8bd335.json"
+    },
+    "4ba61c347e04": {
+      "county_id": "des_newcastle",
+      "name": "NEW AMSTEL",
+      "start_date": "1673-09-12",
+      "end_date": "1674-11-10",
+      "filename": "4ba61c347e04.json"
+    },
+    "c94fe9a67c4d": {
+      "county_id": "des_upland",
+      "name": "UPLAND (ext)",
+      "start_date": "1673-09-12",
+      "end_date": "1678-11-11",
+      "filename": "c94fe9a67c4d.json"
+    },
+    "e2f490e2da41": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1674-11-11",
+      "end_date": "1678-11-11",
+      "filename": "e2f490e2da41.json"
+    },
+    "710ee4ef9f24": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1678-11-12",
+      "end_date": "1680-06-20",
+      "filename": "710ee4ef9f24.json"
+    },
+    "c4e175912794": {
+      "county_id": "des_upland",
+      "name": "UPLAND (ext)",
+      "start_date": "1678-11-12",
+      "end_date": "1681-06-29",
+      "filename": "c4e175912794.json"
+    },
+    "427fee68eda7": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1680-06-21",
+      "end_date": "1682-08-23",
+      "filename": "427fee68eda7.json"
+    },
+    "db704fe75177": {
+      "county_id": "des_kent",
+      "name": "ST. JONES",
+      "start_date": "1680-06-21",
+      "end_date": "1682-08-23",
+      "filename": "db704fe75177.json"
+    },
+    "46b80f5bc728": {
+      "county_id": "des_sussex",
+      "name": "HOARKILL",
+      "start_date": "1680-06-21",
+      "end_date": "1681-06-14",
+      "filename": "46b80f5bc728.json"
+    },
+    "4e7c06ee7d4e": {
+      "county_id": "des_sussex",
+      "name": "DEALE",
+      "start_date": "1681-06-15",
+      "end_date": "1682-08-23",
+      "filename": "4e7c06ee7d4e.json"
+    },
+    "d744d6c75a87": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1682-12-21",
+      "end_date": "1682-12-24",
+      "filename": "d744d6c75a87.json"
+    },
+    "9be8c0c5f7d3": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1682-12-25",
+      "end_date": "1687-05-27",
+      "filename": "9be8c0c5f7d3.json"
+    },
+    "a6f254d80b20": {
+      "county_id": "des_sussex",
+      "name": "SUSSEX",
+      "start_date": "1682-12-25",
+      "end_date": "1685-11-12",
+      "filename": "a6f254d80b20.json"
+    },
+    "750f77a71e84": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1682-08-24",
+      "end_date": "1687-05-27",
+      "filename": "750f77a71e84.json"
+    },
+    "14e3a657bd6d": {
+      "county_id": "des_sussex",
+      "name": "DEALE",
+      "start_date": "1682-08-24",
+      "end_date": "1682-12-24",
+      "filename": "14e3a657bd6d.json"
+    },
+    "4206363b3c91": {
+      "county_id": "des_kent",
+      "name": "ST. JONES",
+      "start_date": "1682-08-24",
+      "end_date": "1682-12-20",
+      "filename": "4206363b3c91.json"
+    },
+    "073aaa99e8aa": {
+      "county_id": "des_sussex",
+      "name": "SUSSEX",
+      "start_date": "1685-11-13",
+      "end_date": "1687-05-27",
+      "filename": "073aaa99e8aa.json"
+    },
+    "bb6feb176551": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1687-05-28",
+      "end_date": "1704-11-28",
+      "filename": "bb6feb176551.json"
+    },
+    "11b9f408c05c": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1687-05-28",
+      "end_date": "1704-11-28",
+      "filename": "11b9f408c05c.json"
+    },
+    "6a1a572226c2": {
+      "county_id": "des_sussex",
+      "name": "SUSSEX",
+      "start_date": "1687-05-28",
+      "end_date": "1704-11-28",
+      "filename": "6a1a572226c2.json"
+    },
+    "81cc664c88d2": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1704-11-29",
+      "end_date": "1775-09-01",
+      "filename": "81cc664c88d2.json"
+    },
+    "6a61a8eabd1c": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1704-11-29",
+      "end_date": "1775-09-01",
+      "filename": "6a61a8eabd1c.json"
+    },
+    "0f2e3badf52c": {
+      "county_id": "des_sussex",
+      "name": "SUSSEX",
+      "start_date": "1704-11-29",
+      "end_date": "1775-09-01",
+      "filename": "0f2e3badf52c.json"
+    },
+    "799525d40e9f": {
+      "county_id": "des_sussex",
+      "name": "SUSSEX",
+      "start_date": "1775-09-02",
+      "end_date": "2000-12-31",
+      "filename": "799525d40e9f.json"
+    },
+    "aaed42cc470a": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1775-09-02",
+      "end_date": "1841-02-17",
+      "filename": "aaed42cc470a.json"
+    },
+    "1ef3aea1074f": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1775-09-02",
+      "end_date": "1841-02-17",
+      "filename": "1ef3aea1074f.json"
+    },
+    "8cf2aae2c3dd": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE",
+      "start_date": "1841-02-18",
+      "end_date": "2000-12-31",
+      "filename": "8cf2aae2c3dd.json"
+    },
+    "2ae57c98d64b": {
+      "county_id": "des_kent",
+      "name": "KENT",
+      "start_date": "1841-02-18",
+      "end_date": "2000-12-31",
+      "filename": "2ae57c98d64b.json"
+    },
+    "ed51c0702a83": {
+      "county_id": "des_nca1",
+      "name": "NCA 1",
+      "start_date": "1732-05-10",
+      "end_date": "1775-09-01",
+      "filename": "ed51c0702a83.json"
+    }
+  }
+}

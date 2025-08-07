@@ -1,0 +1,951 @@
+{
+  "state": "WY",
+  "total_features": 135,
+  "features": {
+    "2075254efae0": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "2075254efae0.json"
+    },
+    "e486b08de2fb": {
+      "county_id": "ort_part",
+      "name": "Oregon Country",
+      "start_date": "1804-10-01",
+      "end_date": "1819-02-21",
+      "filename": "e486b08de2fb.json"
+    },
+    "47e5784ac5e0": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1819-02-21",
+      "filename": "47e5784ac5e0.json"
+    },
+    "6e585f995e9a": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1819-02-22",
+      "end_date": "1836-12-18",
+      "filename": "6e585f995e9a.json"
+    },
+    "5dab549f33df": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-02-22",
+      "end_date": "1821-08-09",
+      "filename": "5dab549f33df.json"
+    },
+    "438720486c4f": {
+      "county_id": "ort_part",
+      "name": "Oregon Country",
+      "start_date": "1819-02-22",
+      "end_date": "1843-07-04",
+      "filename": "438720486c4f.json"
+    },
+    "3ad5a0e0f765": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1848-07-03",
+      "filename": "3ad5a0e0f765.json"
+    },
+    "7dd1f52e177d": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1836-12-19",
+      "end_date": "1848-07-03",
+      "filename": "7dd1f52e177d.json"
+    },
+    "2d297d3d8940": {
+      "county_id": "txs_bexarpart",
+      "name": "BEXAR (Tex.)",
+      "start_date": "1836-12-19",
+      "end_date": "1848-03-14",
+      "filename": "2d297d3d8940.json"
+    },
+    "e710c8bb3378": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG (Ore.)",
+      "start_date": "1843-07-05",
+      "end_date": "1847-12-27",
+      "filename": "e710c8bb3378.json"
+    },
+    "f19449b727e8": {
+      "county_id": "ors_linn",
+      "name": "LINN (Ore.)",
+      "start_date": "1847-12-28",
+      "end_date": "1851-01-27",
+      "filename": "f19449b727e8.json"
+    },
+    "73ed41fef757": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1848-07-04",
+      "end_date": "1850-09-08",
+      "filename": "73ed41fef757.json"
+    },
+    "9f12673d59f2": {
+      "county_id": "txs_santafepart",
+      "name": "SANTA FE (Tex., ext)",
+      "start_date": "1848-03-15",
+      "end_date": "1850-09-08",
+      "filename": "9f12673d59f2.json"
+    },
+    "c295faeeb622": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1854-05-29",
+      "filename": "c295faeeb622.json"
+    },
+    "9933bb6113c9": {
+      "county_id": "utt_part",
+      "name": "Utah Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1852-03-02",
+      "filename": "9933bb6113c9.json"
+    },
+    "40195ca670ea": {
+      "county_id": "ors_linn",
+      "name": "LINN (Ore.)",
+      "start_date": "1851-01-28",
+      "end_date": "1854-01-10",
+      "filename": "40195ca670ea.json"
+    },
+    "f763e7de1c25": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1851-01-28",
+      "end_date": "1852-01-06",
+      "filename": "f763e7de1c25.json"
+    },
+    "3d3fdf5c2aaf": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1852-01-07",
+      "end_date": "1853-12-21",
+      "filename": "3d3fdf5c2aaf.json"
+    },
+    "707910ebd133": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "707910ebd133.json"
+    },
+    "eb898eac0173": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1853-12-22",
+      "end_date": "1854-01-10",
+      "filename": "eb898eac0173.json"
+    },
+    "fef532430d05": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1854-05-30",
+      "end_date": "1860-01-05",
+      "filename": "fef532430d05.json"
+    },
+    "14d6ed4a835a": {
+      "county_id": "ors_wasco",
+      "name": "WASCO (Ore.)",
+      "start_date": "1854-01-11",
+      "end_date": "1859-02-13",
+      "filename": "14d6ed4a835a.json"
+    },
+    "86a13a2caddc": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1854-01-13",
+      "end_date": "1861-02-27",
+      "filename": "86a13a2caddc.json"
+    },
+    "677b4a546819": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT (Utah)",
+      "start_date": "1854-01-13",
+      "end_date": "1856-01-04",
+      "filename": "677b4a546819.json"
+    },
+    "b7f29b0cb50f": {
+      "county_id": "uts_cache",
+      "name": "CACHE (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "b7f29b0cb50f.json"
+    },
+    "4d914ea607ad": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "4d914ea607ad.json"
+    },
+    "48b13b482daa": {
+      "county_id": "wat_part",
+      "name": "Washington Terr.",
+      "start_date": "1859-02-14",
+      "end_date": "1861-01-08",
+      "filename": "48b13b482daa.json"
+    },
+    "1c54ae1b7c40": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1860-01-06",
+      "end_date": "1861-03-01",
+      "filename": "1c54ae1b7c40.json"
+    },
+    "f405aabf80e1": {
+      "county_id": "nes_wilson",
+      "name": "WILSON (Nebr., ext)",
+      "start_date": "1860-01-06",
+      "end_date": "1863-03-02",
+      "filename": "f405aabf80e1.json"
+    },
+    "a1ef53b9876e": {
+      "county_id": "nes_morton",
+      "name": "MORTON (Nebr., ext)",
+      "start_date": "1860-01-06",
+      "end_date": "1863-03-02",
+      "filename": "a1ef53b9876e.json"
+    },
+    "e3ca7923763b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO (Idaho)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-11",
+      "filename": "e3ca7923763b.json"
+    },
+    "ac92d7a51a6a": {
+      "county_id": "dkt_part",
+      "name": "Dakota Terr.",
+      "start_date": "1861-03-02",
+      "end_date": "1863-03-02",
+      "filename": "ac92d7a51a6a.json"
+    },
+    "9d898c909d88": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1861-03-02",
+      "end_date": "1863-03-02",
+      "filename": "9d898c909d88.json"
+    },
+    "09f3a91195fb": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE (Idaho)",
+      "start_date": "1861-03-02",
+      "end_date": "1861-12-19",
+      "filename": "09f3a91195fb.json"
+    },
+    "74feda7b82da": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1861-03-02",
+      "end_date": "1862-01-16",
+      "filename": "74feda7b82da.json"
+    },
+    "72edf74983b5": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE (Idaho)",
+      "start_date": "1861-01-09",
+      "end_date": "1861-03-01",
+      "filename": "72edf74983b5.json"
+    },
+    "fea5d778f45f": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1861-02-28",
+      "end_date": "1861-03-01",
+      "filename": "fea5d778f45f.json"
+    },
+    "d82946bafb3a": {
+      "county_id": "idt_part",
+      "name": "Idaho Terr.",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-15",
+      "filename": "d82946bafb3a.json"
+    },
+    "16214de18278": {
+      "county_id": "idt_part",
+      "name": "Idaho Terr.",
+      "start_date": "1863-03-03",
+      "end_date": "1863-12-30",
+      "filename": "16214de18278.json"
+    },
+    "f73ce99cb390": {
+      "county_id": "dkt_part",
+      "name": "Dakota Terr.",
+      "start_date": "1864-05-26",
+      "end_date": "1867-01-08",
+      "filename": "f73ce99cb390.json"
+    },
+    "0d5ad393a91b": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA (Idaho)",
+      "start_date": "1864-01-22",
+      "end_date": "1864-05-25",
+      "filename": "0d5ad393a91b.json"
+    },
+    "8e966b379765": {
+      "county_id": "idt_yellowstone",
+      "name": "YELLOWSTONE (Id Ter)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "8e966b379765.json"
+    },
+    "85c4bc1adbe1": {
+      "county_id": "idt_ogalala",
+      "name": "OGALALA (Idaho Terr)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "85c4bc1adbe1.json"
+    },
+    "bc9c278382ba": {
+      "county_id": "uts_rich",
+      "name": "RICHLAND (Utah)",
+      "start_date": "1864-01-16",
+      "end_date": "1868-01-28",
+      "filename": "bc9c278382ba.json"
+    },
+    "5d06c80abdb0": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1867-12-27",
+      "end_date": "1868-12-15",
+      "filename": "5d06c80abdb0.json"
+    },
+    "b8a52502389d": {
+      "county_id": "wys_sweetwater",
+      "name": "CARTER",
+      "start_date": "1867-12-27",
+      "end_date": "1868-07-24",
+      "filename": "b8a52502389d.json"
+    },
+    "854c6818746a": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1867-01-09",
+      "end_date": "1867-12-26",
+      "filename": "854c6818746a.json"
+    },
+    "694bd25483e2": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1868-12-16",
+      "end_date": "1869-12-31",
+      "filename": "694bd25483e2.json"
+    },
+    "48fd90ce9cc0": {
+      "county_id": "wys_sweetwater",
+      "name": "CARTER",
+      "start_date": "1868-07-25",
+      "end_date": "1869-11-30",
+      "filename": "48fd90ce9cc0.json"
+    },
+    "9f12fc1f5c7b": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1868-12-16",
+      "end_date": "1869-12-31",
+      "filename": "9f12fc1f5c7b.json"
+    },
+    "3645fe9011a9": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1868-12-16",
+      "end_date": "1875-12-07",
+      "filename": "3645fe9011a9.json"
+    },
+    "dbe6aca5229c": {
+      "county_id": "wys_nca",
+      "name": "NCA",
+      "start_date": "1868-07-25",
+      "end_date": "1869-11-30",
+      "filename": "dbe6aca5229c.json"
+    },
+    "ffc3ea6b2f44": {
+      "county_id": "uts_rich",
+      "name": "RICH (Utah)",
+      "start_date": "1868-01-29",
+      "end_date": "1868-07-24",
+      "filename": "ffc3ea6b2f44.json"
+    },
+    "64679b5da2d4": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1869-12-13",
+      "end_date": "1875-12-07",
+      "filename": "64679b5da2d4.json"
+    },
+    "68c515bc0084": {
+      "county_id": "wys_sweetwater",
+      "name": "CARTER",
+      "start_date": "1869-12-01",
+      "end_date": "1869-12-12",
+      "filename": "68c515bc0084.json"
+    },
+    "25d03504f49f": {
+      "county_id": "wys_uinta",
+      "name": "UINTA",
+      "start_date": "1869-12-01",
+      "end_date": "1911-02-20",
+      "filename": "25d03504f49f.json"
+    },
+    "c4130fcec0c6": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1870-01-01",
+      "end_date": "1875-12-07",
+      "filename": "c4130fcec0c6.json"
+    },
+    "b41a266dfd5e": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1870-01-01",
+      "end_date": "1875-12-07",
+      "filename": "b41a266dfd5e.json"
+    },
+    "a04f0d02c231": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1875-12-08",
+      "end_date": "1884-03-04",
+      "filename": "a04f0d02c231.json"
+    },
+    "f636a7d8d48b": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1875-12-08",
+      "end_date": "1888-03-08",
+      "filename": "f636a7d8d48b.json"
+    },
+    "95de250f50a4": {
+      "county_id": "wys_johnson",
+      "name": "PEASE",
+      "start_date": "1875-12-08",
+      "end_date": "1879-12-12",
+      "filename": "95de250f50a4.json"
+    },
+    "896ccab7c4c5": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1875-12-08",
+      "end_date": "1886-02-04",
+      "filename": "896ccab7c4c5.json"
+    },
+    "74b303571871": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1875-12-08",
+      "end_date": "1886-02-04",
+      "filename": "74b303571871.json"
+    },
+    "cad72d5b22ad": {
+      "county_id": "wys_crook",
+      "name": "CROOK",
+      "start_date": "1875-12-08",
+      "end_date": "1890-03-11",
+      "filename": "cad72d5b22ad.json"
+    },
+    "6e7d9b623ba2": {
+      "county_id": "wys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1879-12-13",
+      "end_date": "1888-03-08",
+      "filename": "6e7d9b623ba2.json"
+    },
+    "2aad5efcf6fd": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1884-03-05",
+      "end_date": "1886-02-04",
+      "filename": "2aad5efcf6fd.json"
+    },
+    "236e70744d74": {
+      "county_id": "wys_fremont",
+      "name": "FREMONT",
+      "start_date": "1884-03-05",
+      "end_date": "1890-03-11",
+      "filename": "236e70744d74.json"
+    },
+    "1f421336d4fb": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1886-02-05",
+      "end_date": "1909-02-26",
+      "filename": "1f421336d4fb.json"
+    },
+    "d2b22f48075e": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1886-02-05",
+      "end_date": "1888-03-08",
+      "filename": "d2b22f48075e.json"
+    },
+    "503f469e71ea": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1886-02-05",
+      "end_date": "1888-03-08",
+      "filename": "503f469e71ea.json"
+    },
+    "f4ee7a29a9f5": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1888-03-09",
+      "end_date": "1911-02-20",
+      "filename": "f4ee7a29a9f5.json"
+    },
+    "3722c6a79bfc": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1888-03-09",
+      "end_date": "1909-02-26",
+      "filename": "3722c6a79bfc.json"
+    },
+    "5dda4565ff64": {
+      "county_id": "wys_natrona",
+      "name": "NATRONA",
+      "start_date": "1888-03-09",
+      "end_date": "1909-02-26",
+      "filename": "5dda4565ff64.json"
+    },
+    "771e80495950": {
+      "county_id": "wys_converse",
+      "name": "CONVERSE",
+      "start_date": "1888-03-09",
+      "end_date": "1911-02-20",
+      "filename": "771e80495950.json"
+    },
+    "b758ab3bb0bc": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1888-03-09",
+      "end_date": "1911-02-20",
+      "filename": "b758ab3bb0bc.json"
+    },
+    "e99d2a36e069": {
+      "county_id": "wys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1888-03-09",
+      "end_date": "1890-03-11",
+      "filename": "e99d2a36e069.json"
+    },
+    "f561438a4a2d": {
+      "county_id": "wys_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1888-03-09",
+      "end_date": "1890-03-11",
+      "filename": "f561438a4a2d.json"
+    },
+    "3e34ebe3c121": {
+      "county_id": "wys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1890-03-12",
+      "end_date": "1911-02-20",
+      "filename": "3e34ebe3c121.json"
+    },
+    "67e9d42e9224": {
+      "county_id": "wys_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1890-03-12",
+      "end_date": "1911-02-20",
+      "filename": "67e9d42e9224.json"
+    },
+    "b80d49659fe5": {
+      "county_id": "wys_bighorn",
+      "name": "BIG HORN",
+      "start_date": "1890-03-12",
+      "end_date": "1909-02-14",
+      "filename": "b80d49659fe5.json"
+    },
+    "a22f8ad86572": {
+      "county_id": "wys_weston",
+      "name": "WESTON",
+      "start_date": "1890-03-12",
+      "end_date": "1911-02-20",
+      "filename": "a22f8ad86572.json"
+    },
+    "f30d893136f8": {
+      "county_id": "wys_crook",
+      "name": "CROOK",
+      "start_date": "1890-03-12",
+      "end_date": "1911-02-20",
+      "filename": "f30d893136f8.json"
+    },
+    "c10e281e4371": {
+      "county_id": "wys_fremont",
+      "name": "FREMONT",
+      "start_date": "1890-03-12",
+      "end_date": "1909-02-26",
+      "filename": "c10e281e4371.json"
+    },
+    "4a567625791d": {
+      "county_id": "wys_fremont",
+      "name": "FREMONT",
+      "start_date": "1909-02-27",
+      "end_date": "1911-02-20",
+      "filename": "4a567625791d.json"
+    },
+    "d9f300bf435a": {
+      "county_id": "wys_bighorn",
+      "name": "BIG HORN",
+      "start_date": "1909-02-15",
+      "end_date": "1911-02-20",
+      "filename": "d9f300bf435a.json"
+    },
+    "9deb62760ed8": {
+      "county_id": "wys_park",
+      "name": "PARK",
+      "start_date": "1909-02-15",
+      "end_date": "1911-02-20",
+      "filename": "9deb62760ed8.json"
+    },
+    "84dfe6769f84": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1909-02-27",
+      "end_date": "1911-02-20",
+      "filename": "84dfe6769f84.json"
+    },
+    "4f59442bc64a": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1909-02-27",
+      "end_date": "1911-02-20",
+      "filename": "4f59442bc64a.json"
+    },
+    "469da149d16e": {
+      "county_id": "wys_natrona",
+      "name": "NATRONA",
+      "start_date": "1909-02-27",
+      "end_date": "1911-02-20",
+      "filename": "469da149d16e.json"
+    },
+    "2790ddf69bc1": {
+      "county_id": "wys_bighorn",
+      "name": "BIG HORN",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "2790ddf69bc1.json"
+    },
+    "44015c485dc6": {
+      "county_id": "wys_washakie",
+      "name": "WASHAKIE",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "44015c485dc6.json"
+    },
+    "ea58d1e3530f": {
+      "county_id": "wys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "ea58d1e3530f.json"
+    },
+    "9faaa0f60f70": {
+      "county_id": "wys_sweetwater",
+      "name": "SWEETWATER",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "9faaa0f60f70.json"
+    },
+    "8bb86880e114": {
+      "county_id": "wys_carbon",
+      "name": "CARBON",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "8bb86880e114.json"
+    },
+    "a6ac401e7a1c": {
+      "county_id": "wys_crook",
+      "name": "CROOK",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "a6ac401e7a1c.json"
+    },
+    "3bdcc8860757": {
+      "county_id": "wys_weston",
+      "name": "WESTON",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "3bdcc8860757.json"
+    },
+    "1b4a8091cc76": {
+      "county_id": "wys_goshen",
+      "name": "GOSHEN",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "1b4a8091cc76.json"
+    },
+    "bd900ccf8e2e": {
+      "county_id": "wys_platte",
+      "name": "PLATTE",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "bd900ccf8e2e.json"
+    },
+    "20aad864eced": {
+      "county_id": "wys_laramie",
+      "name": "LARAMIE",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "20aad864eced.json"
+    },
+    "1df284b1cf1d": {
+      "county_id": "wys_niobrara",
+      "name": "NIOBRARA",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "1df284b1cf1d.json"
+    },
+    "515888b9584a": {
+      "county_id": "wys_uinta",
+      "name": "UINTA",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "515888b9584a.json"
+    },
+    "e865a4b39f75": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1911-02-21",
+      "end_date": "1955-07-11",
+      "filename": "e865a4b39f75.json"
+    },
+    "5d012202bbf2": {
+      "county_id": "wys_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "5d012202bbf2.json"
+    },
+    "8168b9a260ff": {
+      "county_id": "wys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "8168b9a260ff.json"
+    },
+    "bb4757d25bbf": {
+      "county_id": "wys_hotsprings",
+      "name": "HOT SPRINGS",
+      "start_date": "1911-02-21",
+      "end_date": "1929-02-06",
+      "filename": "bb4757d25bbf.json"
+    },
+    "f17ddc477f96": {
+      "county_id": "wys_converse",
+      "name": "CONVERSE",
+      "start_date": "1911-02-21",
+      "end_date": "1955-07-11",
+      "filename": "f17ddc477f96.json"
+    },
+    "adc6f2f233f8": {
+      "county_id": "wys_natrona",
+      "name": "NATRONA",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "adc6f2f233f8.json"
+    },
+    "a3b624930027": {
+      "county_id": "wys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1911-02-21",
+      "end_date": "1921-02-14",
+      "filename": "a3b624930027.json"
+    },
+    "a9732ff7988e": {
+      "county_id": "wys_fremont",
+      "name": "FREMONT",
+      "start_date": "1911-02-21",
+      "end_date": "1921-02-14",
+      "filename": "a9732ff7988e.json"
+    },
+    "7ca63753133b": {
+      "county_id": "wys_park",
+      "name": "PARK",
+      "start_date": "1911-02-21",
+      "end_date": "1929-02-06",
+      "filename": "7ca63753133b.json"
+    },
+    "3c4485338663": {
+      "county_id": "wys_yellowstonenp",
+      "name": "Yellowstone NP",
+      "start_date": "1911-02-21",
+      "end_date": "1929-02-06",
+      "filename": "3c4485338663.json"
+    },
+    "3b4f3393d1f7": {
+      "county_id": "wys_fremont",
+      "name": "FREMONT",
+      "start_date": "1921-02-15",
+      "end_date": "2000-12-31",
+      "filename": "3b4f3393d1f7.json"
+    },
+    "aa30b7978d60": {
+      "county_id": "wys_sublette",
+      "name": "SUBLETTE",
+      "start_date": "1921-02-15",
+      "end_date": "2000-12-31",
+      "filename": "aa30b7978d60.json"
+    },
+    "f5c64a554d89": {
+      "county_id": "wys_teton",
+      "name": "TETON",
+      "start_date": "1921-02-15",
+      "end_date": "1923-02-14",
+      "filename": "f5c64a554d89.json"
+    },
+    "fdc2adf9049a": {
+      "county_id": "wys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1921-02-15",
+      "end_date": "1923-02-14",
+      "filename": "fdc2adf9049a.json"
+    },
+    "b2ac3994c763": {
+      "county_id": "wys_teton",
+      "name": "TETON",
+      "start_date": "1923-02-15",
+      "end_date": "1929-02-13",
+      "filename": "b2ac3994c763.json"
+    },
+    "ab540c0dcdba": {
+      "county_id": "wys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1923-02-15",
+      "end_date": "1929-02-13",
+      "filename": "ab540c0dcdba.json"
+    },
+    "d19d8bda3443": {
+      "county_id": "wys_teton",
+      "name": "TETON",
+      "start_date": "1929-02-14",
+      "end_date": "1965-02-28",
+      "filename": "d19d8bda3443.json"
+    },
+    "eabedbe770d0": {
+      "county_id": "wys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1929-02-14",
+      "end_date": "1965-02-28",
+      "filename": "eabedbe770d0.json"
+    },
+    "bba5602e2168": {
+      "county_id": "wys_yellowstonenp",
+      "name": "Yellowstone NP",
+      "start_date": "1929-02-07",
+      "end_date": "1929-02-13",
+      "filename": "bba5602e2168.json"
+    },
+    "a4a2f8ad7879": {
+      "county_id": "wys_hotsprings",
+      "name": "HOT SPRINGS",
+      "start_date": "1929-02-07",
+      "end_date": "1931-03-04",
+      "filename": "a4a2f8ad7879.json"
+    },
+    "936ab65d2f68": {
+      "county_id": "wys_park",
+      "name": "PARK",
+      "start_date": "1929-02-07",
+      "end_date": "1931-03-04",
+      "filename": "936ab65d2f68.json"
+    },
+    "796264917eb3": {
+      "county_id": "wys_park",
+      "name": "PARK",
+      "start_date": "1931-03-05",
+      "end_date": "2000-12-31",
+      "filename": "796264917eb3.json"
+    },
+    "a164bd1ca889": {
+      "county_id": "wys_hotsprings",
+      "name": "HOT SPRINGS",
+      "start_date": "1931-03-05",
+      "end_date": "2000-12-31",
+      "filename": "a164bd1ca889.json"
+    },
+    "c1b797eea12a": {
+      "county_id": "wys_converse",
+      "name": "CONVERSE",
+      "start_date": "1955-07-12",
+      "end_date": "2000-12-31",
+      "filename": "c1b797eea12a.json"
+    },
+    "e468c87f5263": {
+      "county_id": "wys_albany",
+      "name": "ALBANY",
+      "start_date": "1955-07-12",
+      "end_date": "2000-12-31",
+      "filename": "e468c87f5263.json"
+    },
+    "af486aed7063": {
+      "county_id": "wys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1965-03-01",
+      "end_date": "2000-12-31",
+      "filename": "af486aed7063.json"
+    },
+    "973da69a4f58": {
+      "county_id": "wys_teton",
+      "name": "TETON",
+      "start_date": "1965-03-01",
+      "end_date": "2000-12-31",
+      "filename": "973da69a4f58.json"
+    },
+    "e9fffa82bad0": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1868-07-24",
+      "filename": "e9fffa82bad0.json"
+    },
+    "ff190edfd09e": {
+      "county_id": "uts_cache",
+      "name": "CACHE (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1864-01-15",
+      "filename": "ff190edfd09e.json"
+    },
+    "1c700762b183": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1862-01-17",
+      "end_date": "1868-07-24",
+      "filename": "1c700762b183.json"
+    },
+    "0a1711d20a0e": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA (Idaho)",
+      "start_date": "1864-05-26",
+      "end_date": "1868-07-24",
+      "filename": "0a1711d20a0e.json"
+    },
+    "b621d3b01431": {
+      "county_id": "ids_boise",
+      "name": "BOISE (Idaho)",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-21",
+      "filename": "b621d3b01431.json"
+    },
+    "ff90a20832f5": {
+      "county_id": "ids_boise",
+      "name": "BOISE (Idaho)",
+      "start_date": "1863-01-12",
+      "end_date": "1863-12-30",
+      "filename": "ff90a20832f5.json"
+    },
+    "21f9d9055601": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE (Idaho)",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-21",
+      "filename": "21f9d9055601.json"
+    }
+  }
+}

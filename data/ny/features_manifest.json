@@ -1,0 +1,2316 @@
+{
+  "state": "NY",
+  "total_features": 330,
+  "features": {
+    "3e965fe850d6": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1662-05-07",
+      "end_date": "1669-05-18",
+      "filename": "3e965fe850d6.json"
+    },
+    "dc274fb083fd": {
+      "county_id": "nys_cornwall",
+      "name": "CORNWALL (ext)",
+      "start_date": "1665-09-05",
+      "end_date": "1675-09-29",
+      "filename": "dc274fb083fd.json"
+    },
+    "63e04e3c3d67": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD (Conn.)",
+      "start_date": "1666-05-10",
+      "end_date": "1675-05-17",
+      "filename": "63e04e3c3d67.json"
+    },
+    "f7d496a5caeb": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1669-05-19",
+      "end_date": "1674-06-02",
+      "filename": "f7d496a5caeb.json"
+    },
+    "11aea644ff65": {
+      "county_id": "mas_devonshire",
+      "name": "DEVONSHIRE (Mass.)",
+      "start_date": "1673-10-07",
+      "end_date": "1675-09-29",
+      "filename": "11aea644ff65.json"
+    },
+    "b7009b8bd335": {
+      "county_id": "des_sussex",
+      "name": "HOARKILL (Del.)",
+      "start_date": "1673-09-12",
+      "end_date": "1680-06-20",
+      "filename": "b7009b8bd335.json"
+    },
+    "4ba61c347e04": {
+      "county_id": "des_newcastle",
+      "name": "NEW AMSTEL (Del.)",
+      "start_date": "1673-09-12",
+      "end_date": "1674-11-10",
+      "filename": "4ba61c347e04.json"
+    },
+    "c94fe9a67c4d": {
+      "county_id": "des_upland",
+      "name": "UPLAND (Del., ext)",
+      "start_date": "1673-09-12",
+      "end_date": "1678-11-11",
+      "filename": "c94fe9a67c4d.json"
+    },
+    "bad0d2cd58aa": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1674-06-03",
+      "end_date": "1683-05-15",
+      "filename": "bad0d2cd58aa.json"
+    },
+    "e2f490e2da41": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE (Del.)",
+      "start_date": "1674-11-11",
+      "end_date": "1678-11-11",
+      "filename": "e2f490e2da41.json"
+    },
+    "ede8ac316eb5": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD (Conn.)",
+      "start_date": "1675-05-18",
+      "end_date": "1683-11-27",
+      "filename": "ede8ac316eb5.json"
+    },
+    "00f59c3175af": {
+      "county_id": "njs_ncawest",
+      "name": "West New Jersey",
+      "start_date": "1676-07-01",
+      "end_date": "1681-12-30",
+      "filename": "00f59c3175af.json"
+    },
+    "b87e140adcbd": {
+      "county_id": "njs_ncaeast",
+      "name": "East New Jersey",
+      "start_date": "1676-07-01",
+      "end_date": "1683-03-06",
+      "filename": "b87e140adcbd.json"
+    },
+    "710ee4ef9f24": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE (Del.)",
+      "start_date": "1678-11-12",
+      "end_date": "1680-06-20",
+      "filename": "710ee4ef9f24.json"
+    },
+    "c4e175912794": {
+      "county_id": "des_upland",
+      "name": "UPLAND (Del., ext)",
+      "start_date": "1678-11-12",
+      "end_date": "1681-06-29",
+      "filename": "c4e175912794.json"
+    },
+    "427fee68eda7": {
+      "county_id": "des_newcastle",
+      "name": "NEW CASTLE (Del.)",
+      "start_date": "1680-06-21",
+      "end_date": "1682-08-23",
+      "filename": "427fee68eda7.json"
+    },
+    "db704fe75177": {
+      "county_id": "des_kent",
+      "name": "ST. JONES (Del.)",
+      "start_date": "1680-06-21",
+      "end_date": "1682-08-23",
+      "filename": "db704fe75177.json"
+    },
+    "46b80f5bc728": {
+      "county_id": "des_sussex",
+      "name": "HOARKILL (Del.)",
+      "start_date": "1680-06-21",
+      "end_date": "1681-06-14",
+      "filename": "46b80f5bc728.json"
+    },
+    "3190ff78debe": {
+      "county_id": "njs_ncawest",
+      "name": "West New Jersey",
+      "start_date": "1681-12-31",
+      "end_date": "1687-01-07",
+      "filename": "3190ff78debe.json"
+    },
+    "4e7c06ee7d4e": {
+      "county_id": "des_sussex",
+      "name": "DEALE (Del.)",
+      "start_date": "1681-06-15",
+      "end_date": "1682-08-23",
+      "filename": "4e7c06ee7d4e.json"
+    },
+    "c3bd22e0ed91": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1683-11-28",
+      "end_date": "1768-12-30",
+      "filename": "c3bd22e0ed91.json"
+    },
+    "1dc17f275767": {
+      "county_id": "nys_richmond",
+      "name": "RICHMOND",
+      "start_date": "1683-11-01",
+      "end_date": "2000-12-31",
+      "filename": "1dc17f275767.json"
+    },
+    "e0a3dd0d727e": {
+      "county_id": "nys_kings",
+      "name": "KINGS",
+      "start_date": "1683-11-01",
+      "end_date": "2000-12-31",
+      "filename": "e0a3dd0d727e.json"
+    },
+    "2001cc90602b": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1683-11-01",
+      "end_date": "1717-05-26",
+      "filename": "2001cc90602b.json"
+    },
+    "07ee76111e3e": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1683-11-01",
+      "end_date": "1701-10-17",
+      "filename": "07ee76111e3e.json"
+    },
+    "14e71940db17": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1683-11-01",
+      "end_date": "1701-10-17",
+      "filename": "14e71940db17.json"
+    },
+    "a2a73e4bf9ba": {
+      "county_id": "nys_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1683-11-01",
+      "end_date": "1886-06-14",
+      "filename": "a2a73e4bf9ba.json"
+    },
+    "d1020937f1fc": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1683-11-01",
+      "end_date": "1691-09-30",
+      "filename": "d1020937f1fc.json"
+    },
+    "18df016ba9a3": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1683-11-01",
+      "end_date": "1691-09-30",
+      "filename": "18df016ba9a3.json"
+    },
+    "2ab21d985887": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1683-11-01",
+      "end_date": "1691-09-30",
+      "filename": "2ab21d985887.json"
+    },
+    "62f7b8522972": {
+      "county_id": "njs_essex",
+      "name": "ESSEX (N.J.)",
+      "start_date": "1683-03-07",
+      "end_date": "1687-01-07",
+      "filename": "62f7b8522972.json"
+    },
+    "cea861f46bb4": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN (N.J.)",
+      "start_date": "1683-03-07",
+      "end_date": "1710-01-20",
+      "filename": "cea861f46bb4.json"
+    },
+    "4babf40f9dd8": {
+      "county_id": "nys_dukes",
+      "name": "DUKES (ext)",
+      "start_date": "1683-11-01",
+      "end_date": "1691-10-06",
+      "filename": "4babf40f9dd8.json"
+    },
+    "3fd87f85243e": {
+      "county_id": "nys_cornwall",
+      "name": "CORNWALL (ext)",
+      "start_date": "1683-11-01",
+      "end_date": "1687-03-31",
+      "filename": "3fd87f85243e.json"
+    },
+    "9eaa47e5f875": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1683-11-01",
+      "end_date": "1683-11-27",
+      "filename": "9eaa47e5f875.json"
+    },
+    "38d3c9dfdf3b": {
+      "county_id": "nys_nca2",
+      "name": "NCA 2",
+      "start_date": "1683-11-01",
+      "end_date": "1691-09-30",
+      "filename": "38d3c9dfdf3b.json"
+    },
+    "eaea113b31c7": {
+      "county_id": "nys_nca1",
+      "name": "NCA 1",
+      "start_date": "1683-11-01",
+      "end_date": "1691-09-30",
+      "filename": "eaea113b31c7.json"
+    },
+    "897ca6870ffa": {
+      "county_id": "nys_nca3",
+      "name": "NCA 3",
+      "start_date": "1683-11-01",
+      "end_date": "1683-11-27",
+      "filename": "897ca6870ffa.json"
+    },
+    "23c0d296d613": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1683-05-16",
+      "end_date": "1731-07-09",
+      "filename": "23c0d296d613.json"
+    },
+    "e52c13c29cd8": {
+      "county_id": "njs_essex",
+      "name": "ESSEX (N.J.)",
+      "start_date": "1687-01-08",
+      "end_date": "1688-09-04",
+      "filename": "e52c13c29cd8.json"
+    },
+    "fdc73e42c879": {
+      "county_id": "njs_essex",
+      "name": "ESSEX (N.J.)",
+      "start_date": "1688-09-05",
+      "end_date": "1710-01-20",
+      "filename": "fdc73e42c879.json"
+    },
+    "6bd9c5500362": {
+      "county_id": "njs_ncawest",
+      "name": "West New Jersey",
+      "start_date": "1688-09-05",
+      "end_date": "1710-01-20",
+      "filename": "6bd9c5500362.json"
+    },
+    "e7ef7d2a878f": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1691-10-01",
+      "end_date": "1873-12-31",
+      "filename": "e7ef7d2a878f.json"
+    },
+    "eafc86d6c5b9": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1691-10-01",
+      "end_date": "1717-05-26",
+      "filename": "eafc86d6c5b9.json"
+    },
+    "2d9c80dcb09b": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1691-10-01",
+      "end_date": "1881-06-07",
+      "filename": "2d9c80dcb09b.json"
+    },
+    "5a1b237553bf": {
+      "county_id": "nys_nca4",
+      "name": "NCA 4",
+      "start_date": "1691-10-01",
+      "end_date": "1717-05-26",
+      "filename": "5a1b237553bf.json"
+    },
+    "1863a54a0620": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1701-10-18",
+      "end_date": "1709-11-11",
+      "filename": "1863a54a0620.json"
+    },
+    "efff948e8505": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1701-10-18",
+      "end_date": "1709-11-11",
+      "filename": "efff948e8505.json"
+    },
+    "0ae419181133": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1709-11-12",
+      "end_date": "1773-08-31",
+      "filename": "0ae419181133.json"
+    },
+    "6f865e9e4537": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1709-11-12",
+      "end_date": "1773-08-31",
+      "filename": "6f865e9e4537.json"
+    },
+    "19e22c0cf712": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN (N.J.)",
+      "start_date": "1710-01-21",
+      "end_date": "1773-08-31",
+      "filename": "19e22c0cf712.json"
+    },
+    "1898e646fceb": {
+      "county_id": "njs_ncawest",
+      "name": "West New Jersey",
+      "start_date": "1710-01-21",
+      "end_date": "1714-03-10",
+      "filename": "1898e646fceb.json"
+    },
+    "5be2e449452b": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON (N.J.)",
+      "start_date": "1714-03-11",
+      "end_date": "1739-03-14",
+      "filename": "5be2e449452b.json"
+    },
+    "de0367be34bc": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1717-05-27",
+      "end_date": "1788-03-06",
+      "filename": "de0367be34bc.json"
+    },
+    "b5bf6ce18f14": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1717-05-27",
+      "end_date": "1764-07-19",
+      "filename": "b5bf6ce18f14.json"
+    },
+    "5f46cafedc18": {
+      "county_id": "nys_nca4",
+      "name": "NCA 4",
+      "start_date": "1717-05-27",
+      "end_date": "1788-03-06",
+      "filename": "5f46cafedc18.json"
+    },
+    "07f9b0237c64": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1731-07-10",
+      "end_date": "1742-01-15",
+      "filename": "07f9b0237c64.json"
+    },
+    "b9020ec99f29": {
+      "county_id": "njs_morris",
+      "name": "MORRIS (N.J.)",
+      "start_date": "1739-03-15",
+      "end_date": "1753-06-07",
+      "filename": "b9020ec99f29.json"
+    },
+    "1661d5921bcc": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1742-01-16",
+      "end_date": "1749-05-30",
+      "filename": "1661d5921bcc.json"
+    },
+    "642fc2806f72": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1749-05-31",
+      "end_date": "1761-06-29",
+      "filename": "642fc2806f72.json"
+    },
+    "58cea1ca1042": {
+      "county_id": "njs_sussex",
+      "name": "SUSSEX (N.J.)",
+      "start_date": "1753-06-08",
+      "end_date": "1773-08-31",
+      "filename": "58cea1ca1042.json"
+    },
+    "58813d176dc6": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1761-06-30",
+      "end_date": "1768-06-29",
+      "filename": "58813d176dc6.json"
+    },
+    "60d9d0b1a433": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1764-07-20",
+      "end_date": "1766-07-02",
+      "filename": "60d9d0b1a433.json"
+    },
+    "d2fdf88c69f3": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1766-07-03",
+      "end_date": "1767-06-25",
+      "filename": "d2fdf88c69f3.json"
+    },
+    "811291bf085f": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1766-07-03",
+      "end_date": "1767-06-25",
+      "filename": "811291bf085f.json"
+    },
+    "c81599478514": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1767-06-26",
+      "end_date": "1768-03-18",
+      "filename": "c81599478514.json"
+    },
+    "85018c929a11": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1768-12-31",
+      "end_date": "1873-12-31",
+      "filename": "85018c929a11.json"
+    },
+    "787e74265b35": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1768-06-30",
+      "end_date": "1779-06-22",
+      "filename": "787e74265b35.json"
+    },
+    "809bca75b123": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1768-03-19",
+      "end_date": "1772-03-23",
+      "filename": "809bca75b123.json"
+    },
+    "c321d125e41c": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1768-03-19",
+      "end_date": "1770-03-15",
+      "filename": "c321d125e41c.json"
+    },
+    "6a85cea15df2": {
+      "county_id": "nys_gloucester",
+      "name": "GLOUCESTER (ext)",
+      "start_date": "1770-03-16",
+      "end_date": "1772-03-23",
+      "filename": "6a85cea15df2.json"
+    },
+    "85612b2cab2a": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1770-03-16",
+      "end_date": "1772-03-11",
+      "filename": "85612b2cab2a.json"
+    },
+    "380b0c608e87": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1772-03-24",
+      "end_date": "1775-03-31",
+      "filename": "380b0c608e87.json"
+    },
+    "36e26b9f6efc": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE",
+      "start_date": "1772-03-24",
+      "end_date": "1775-03-31",
+      "filename": "36e26b9f6efc.json"
+    },
+    "d6746ed5cf44": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1772-03-24",
+      "end_date": "1774-03-08",
+      "filename": "d6746ed5cf44.json"
+    },
+    "b395f270d0b4": {
+      "county_id": "nys_gloucester",
+      "name": "GLOUCESTER (ext)",
+      "start_date": "1772-03-24",
+      "end_date": "1777-01-14",
+      "filename": "b395f270d0b4.json"
+    },
+    "df6521d99756": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE",
+      "start_date": "1772-03-12",
+      "end_date": "1772-03-23",
+      "filename": "df6521d99756.json"
+    },
+    "a7816bc84c2e": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1772-03-12",
+      "end_date": "1772-03-23",
+      "filename": "a7816bc84c2e.json"
+    },
+    "74801657a038": {
+      "county_id": "nys_montgomery",
+      "name": "TRYON",
+      "start_date": "1772-03-12",
+      "end_date": "1784-04-01",
+      "filename": "74801657a038.json"
+    },
+    "607af3780047": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1773-09-01",
+      "end_date": "1798-02-22",
+      "filename": "607af3780047.json"
+    },
+    "85e5cbd4c02d": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1773-09-01",
+      "end_date": "1774-03-08",
+      "filename": "85e5cbd4c02d.json"
+    },
+    "2f5c4cd2f621": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1774-03-09",
+      "end_date": "1797-03-09",
+      "filename": "2f5c4cd2f621.json"
+    },
+    "0289fc809a36": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD (Conn.)",
+      "start_date": "1774-01-12",
+      "end_date": "1775-05-10",
+      "filename": "0289fc809a36.json"
+    },
+    "2b03e91efe28": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1774-03-09",
+      "end_date": "1775-03-31",
+      "filename": "2b03e91efe28.json"
+    },
+    "82acaaf80690": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD (Conn.)",
+      "start_date": "1775-12-14",
+      "end_date": "1776-10-09",
+      "filename": "82acaaf80690.json"
+    },
+    "7d3518940db6": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "7d3518940db6.json"
+    },
+    "42683092f25f": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "42683092f25f.json"
+    },
+    "0c8b68d3669d": {
+      "county_id": "nys_cumberland",
+      "name": "CUMBERLAND (ext)",
+      "start_date": "1775-04-01",
+      "end_date": "1777-01-14",
+      "filename": "0c8b68d3669d.json"
+    },
+    "cf950742eb0d": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD (Conn.)",
+      "start_date": "1775-05-11",
+      "end_date": "1775-12-13",
+      "filename": "cf950742eb0d.json"
+    },
+    "b877fee7df41": {
+      "county_id": "cts_westmoreland",
+      "name": "WESTMORELAND (Conn.)",
+      "start_date": "1776-10-10",
+      "end_date": "1782-12-29",
+      "filename": "b877fee7df41.json"
+    },
+    "5bba94703fb6": {
+      "county_id": "nys_washington",
+      "name": "CHARLOTTE",
+      "start_date": "1777-01-15",
+      "end_date": "1784-04-01",
+      "filename": "5bba94703fb6.json"
+    },
+    "e449063b6d4d": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1777-01-15",
+      "end_date": "1786-04-03",
+      "filename": "e449063b6d4d.json"
+    },
+    "523227408230": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1779-06-23",
+      "end_date": "1783-03-11",
+      "filename": "523227408230.json"
+    },
+    "cbd9bf817084": {
+      "county_id": "vts_bennington",
+      "name": "BENNINGTON (Vt.)",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "cbd9bf817084.json"
+    },
+    "bdac64b4520d": {
+      "county_id": "vts_rutland",
+      "name": "RUTLAND (Vt.)",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "bdac64b4520d.json"
+    },
+    "131782f3cc68": {
+      "county_id": "vts_westunion",
+      "name": "West Union (Vt.)",
+      "start_date": "1781-06-26",
+      "end_date": "1782-02-22",
+      "filename": "131782f3cc68.json"
+    },
+    "b4593b52baca": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1783-03-12",
+      "end_date": "1785-02-08",
+      "filename": "b4593b52baca.json"
+    },
+    "f3c0c3c3164a": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1784-04-02",
+      "end_date": "1789-01-26",
+      "filename": "f3c0c3c3164a.json"
+    },
+    "22efb858fcfb": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1784-04-02",
+      "end_date": "1788-03-06",
+      "filename": "22efb858fcfb.json"
+    },
+    "71309cc80110": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1785-02-09",
+      "end_date": "1793-03-08",
+      "filename": "71309cc80110.json"
+    },
+    "f89ad0d76195": {
+      "county_id": "nys_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1786-04-04",
+      "end_date": "1799-03-22",
+      "filename": "f89ad0d76195.json"
+    },
+    "5bbf7ff36949": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1786-04-04",
+      "end_date": "1791-02-06",
+      "filename": "5bbf7ff36949.json"
+    },
+    "962f31fabdc7": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1788-03-07",
+      "end_date": "1799-02-28",
+      "filename": "962f31fabdc7.json"
+    },
+    "9ca0218f902c": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1788-03-07",
+      "end_date": "1799-03-22",
+      "filename": "9ca0218f902c.json"
+    },
+    "c2c2266c6524": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1788-03-07",
+      "end_date": "1791-02-06",
+      "filename": "c2c2266c6524.json"
+    },
+    "20b64c17c6d9": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1789-01-27",
+      "end_date": "1796-03-17",
+      "filename": "20b64c17c6d9.json"
+    },
+    "6955c5e44f30": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1789-01-27",
+      "end_date": "1791-02-15",
+      "filename": "6955c5e44f30.json"
+    },
+    "c22c2632938e": {
+      "county_id": "nys_rensselaer",
+      "name": "RENSSELAER",
+      "start_date": "1791-02-07",
+      "end_date": "1822-03-28",
+      "filename": "c22c2632938e.json"
+    },
+    "55f92bffec38": {
+      "county_id": "nys_saratoga",
+      "name": "SARATOGA",
+      "start_date": "1791-02-07",
+      "end_date": "1801-04-02",
+      "filename": "55f92bffec38.json"
+    },
+    "da5f096cc1ab": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1791-02-07",
+      "end_date": "1801-04-02",
+      "filename": "da5f096cc1ab.json"
+    },
+    "84dc307edc94": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1791-02-16",
+      "end_date": "1797-03-30",
+      "filename": "84dc307edc94.json"
+    },
+    "d0bd23174bcb": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1791-02-16",
+      "end_date": "1795-05-31",
+      "filename": "d0bd23174bcb.json"
+    },
+    "ebc153e9dd28": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1791-02-07",
+      "end_date": "1795-05-31",
+      "filename": "ebc153e9dd28.json"
+    },
+    "2a906bf2599e": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1791-02-16",
+      "end_date": "1794-03-04",
+      "filename": "2a906bf2599e.json"
+    },
+    "dc6d81dbdf53": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1791-02-16",
+      "end_date": "1794-03-04",
+      "filename": "dc6d81dbdf53.json"
+    },
+    "bd3e5ef61b52": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1793-03-09",
+      "end_date": "1822-02-20",
+      "filename": "bd3e5ef61b52.json"
+    },
+    "18cf7d90b235": {
+      "county_id": "nys_onondaga",
+      "name": "ONONDAGA",
+      "start_date": "1794-03-05",
+      "end_date": "1799-03-07",
+      "filename": "18cf7d90b235.json"
+    },
+    "e9ec297c3006": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1794-03-05",
+      "end_date": "1798-03-14",
+      "filename": "e9ec297c3006.json"
+    },
+    "ccc005b74b15": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1794-03-05",
+      "end_date": "1797-03-30",
+      "filename": "ccc005b74b15.json"
+    },
+    "6955374c3213": {
+      "county_id": "nys_schoharie",
+      "name": "SCHOHARIE",
+      "start_date": "1795-06-01",
+      "end_date": "1801-04-02",
+      "filename": "6955374c3213.json"
+    },
+    "795904042859": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1795-06-01",
+      "end_date": "1798-04-04",
+      "filename": "795904042859.json"
+    },
+    "a77ddc40ac4d": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1795-06-01",
+      "end_date": "1797-03-09",
+      "filename": "a77ddc40ac4d.json"
+    },
+    "4de5763dc299": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1796-03-18",
+      "end_date": "1801-04-02",
+      "filename": "4de5763dc299.json"
+    },
+    "77e95555c885": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1796-03-18",
+      "end_date": "1801-04-02",
+      "filename": "77e95555c885.json"
+    },
+    "42ecce4df647": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1797-03-10",
+      "end_date": "1816-05-09",
+      "filename": "42ecce4df647.json"
+    },
+    "0a1fc12fb2da": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1797-03-31",
+      "end_date": "1801-04-02",
+      "filename": "0a1fc12fb2da.json"
+    },
+    "a7fe5f0b3853": {
+      "county_id": "nys_delaware",
+      "name": "DELAWARE",
+      "start_date": "1797-03-10",
+      "end_date": "1801-04-02",
+      "filename": "a7fe5f0b3853.json"
+    },
+    "b28db884eb36": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1797-03-10",
+      "end_date": "1798-04-04",
+      "filename": "b28db884eb36.json"
+    },
+    "79a97156f598": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1797-03-31",
+      "end_date": "1798-03-14",
+      "filename": "79a97156f598.json"
+    },
+    "f072276d9371": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1798-04-05",
+      "end_date": "1800-03-20",
+      "filename": "f072276d9371.json"
+    },
+    "ab9a193a0807": {
+      "county_id": "nys_stlawrence",
+      "name": "ST. LAWRENCE",
+      "start_date": "1802-03-03",
+      "end_date": "1913-04-22",
+      "filename": "ab9a193a0807.json"
+    },
+    "4636a61bef71": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1802-03-03",
+      "end_date": "1808-03-10",
+      "filename": "4636a61bef71.json"
+    },
+    "724956d3b1f0": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1802-03-30",
+      "end_date": "1806-04-06",
+      "filename": "724956d3b1f0.json"
+    },
+    "f11601e6b407": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1802-03-30",
+      "end_date": "1804-03-23",
+      "filename": "f11601e6b407.json"
+    },
+    "7e91491a917b": {
+      "county_id": "nys_cayuga",
+      "name": "CAYUGA",
+      "start_date": "1804-03-24",
+      "end_date": "1817-04-06",
+      "filename": "7e91491a917b.json"
+    },
+    "72a566339c8d": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1804-03-24",
+      "end_date": "1817-04-06",
+      "filename": "72a566339c8d.json"
+    },
+    "78b76fa23e32": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1804-03-24",
+      "end_date": "1814-02-24",
+      "filename": "78b76fa23e32.json"
+    },
+    "0d0c33e41096": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1804-03-24",
+      "end_date": "1808-03-10",
+      "filename": "0d0c33e41096.json"
+    },
+    "0e08676924fe": {
+      "county_id": "nys_chenango",
+      "name": "CHENANGO",
+      "start_date": "1804-04-04",
+      "end_date": "1806-03-20",
+      "filename": "0e08676924fe.json"
+    },
+    "e96b0263a7fa": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1804-04-04",
+      "end_date": "1805-03-27",
+      "filename": "e96b0263a7fa.json"
+    },
+    "f26e3fdb3d9c": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1805-03-28",
+      "end_date": "1816-02-29",
+      "filename": "f26e3fdb3d9c.json"
+    },
+    "62f7287a2b30": {
+      "county_id": "nys_essex",
+      "name": "ESSEX",
+      "start_date": "1915-05-24",
+      "end_date": "2000-12-31",
+      "filename": "62f7287a2b30.json"
+    },
+    "20810472c087": {
+      "county_id": "nys_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1915-05-24",
+      "end_date": "2000-12-31",
+      "filename": "20810472c087.json"
+    },
+    "f58f8c22f320": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1917-05-26",
+      "end_date": "2000-12-31",
+      "filename": "f58f8c22f320.json"
+    },
+    "34a2efbe96b3": {
+      "county_id": "nys_bronx",
+      "name": "BRONX",
+      "start_date": "1917-05-26",
+      "end_date": "1964-04-15",
+      "filename": "34a2efbe96b3.json"
+    },
+    "0777d4c1015d": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1946-04-18",
+      "end_date": "2000-12-31",
+      "filename": "0777d4c1015d.json"
+    },
+    "0c7fc36f71a3": {
+      "county_id": "nys_yates",
+      "name": "YATES",
+      "start_date": "1946-04-18",
+      "end_date": "2000-12-31",
+      "filename": "0c7fc36f71a3.json"
+    },
+    "b19c393a063e": {
+      "county_id": "nys_schuyler",
+      "name": "SCHUYLER",
+      "start_date": "1946-04-18",
+      "end_date": "2000-12-31",
+      "filename": "b19c393a063e.json"
+    },
+    "f2d1742a9a2c": {
+      "county_id": "nys_bronx",
+      "name": "BRONX",
+      "start_date": "1964-04-16",
+      "end_date": "2000-12-31",
+      "filename": "f2d1742a9a2c.json"
+    },
+    "dfc5006d883e": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1964-04-16",
+      "end_date": "2000-12-31",
+      "filename": "dfc5006d883e.json"
+    },
+    "c682011418b9": {
+      "county_id": "nys_nca3",
+      "name": "NCA 3",
+      "start_date": "1683-11-28",
+      "end_date": "1768-12-30",
+      "filename": "c682011418b9.json"
+    },
+    "c68e056e805a": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1798-04-05",
+      "end_date": "1800-03-24",
+      "filename": "c68e056e805a.json"
+    },
+    "e1e248cad386": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1798-04-05",
+      "end_date": "1800-03-24",
+      "filename": "e1e248cad386.json"
+    },
+    "e176eb5062af": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1798-03-15",
+      "end_date": "1806-03-27",
+      "filename": "e176eb5062af.json"
+    },
+    "b81b72a09660": {
+      "county_id": "nys_chenango",
+      "name": "CHENANGO",
+      "start_date": "1798-03-15",
+      "end_date": "1804-04-03",
+      "filename": "b81b72a09660.json"
+    },
+    "a26e605c05a0": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1798-03-15",
+      "end_date": "1801-04-02",
+      "filename": "a26e605c05a0.json"
+    },
+    "a4a9f3f322d7": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1798-03-15",
+      "end_date": "1801-04-02",
+      "filename": "a4a9f3f322d7.json"
+    },
+    "85c8bab12dec": {
+      "county_id": "nys_rockland",
+      "name": "ROCKLAND",
+      "start_date": "1798-02-23",
+      "end_date": "1800-03-20",
+      "filename": "85c8bab12dec.json"
+    },
+    "9f5a349f3141": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1798-02-23",
+      "end_date": "1798-04-04",
+      "filename": "9f5a349f3141.json"
+    },
+    "ae2cfebb1304": {
+      "county_id": "nys_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1799-03-23",
+      "end_date": "1823-04-22",
+      "filename": "ae2cfebb1304.json"
+    },
+    "4c5e28850faa": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1799-03-23",
+      "end_date": "1812-06-11",
+      "filename": "4c5e28850faa.json"
+    },
+    "968c663f83ba": {
+      "county_id": "nys_onondaga",
+      "name": "ONONDAGA",
+      "start_date": "1799-03-08",
+      "end_date": "1808-04-07",
+      "filename": "968c663f83ba.json"
+    },
+    "118437005e8d": {
+      "county_id": "nys_essex",
+      "name": "ESSEX",
+      "start_date": "1799-03-01",
+      "end_date": "1801-04-02",
+      "filename": "118437005e8d.json"
+    },
+    "2ae8822cbe5a": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1799-03-01",
+      "end_date": "1801-04-02",
+      "filename": "2ae8822cbe5a.json"
+    },
+    "c4fec9d5473f": {
+      "county_id": "nys_cayuga",
+      "name": "CAYUGA",
+      "start_date": "1799-03-08",
+      "end_date": "1801-04-02",
+      "filename": "c4fec9d5473f.json"
+    },
+    "a6e8d22f4905": {
+      "county_id": "nys_orange",
+      "name": "ORANGE",
+      "start_date": "1800-03-21",
+      "end_date": "2000-12-31",
+      "filename": "a6e8d22f4905.json"
+    },
+    "5127bc2c0e64": {
+      "county_id": "nys_rockland",
+      "name": "ROCKLAND",
+      "start_date": "1800-03-21",
+      "end_date": "2000-12-31",
+      "filename": "5127bc2c0e64.json"
+    },
+    "6682fbde32dc": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1800-03-25",
+      "end_date": "1801-04-02",
+      "filename": "6682fbde32dc.json"
+    },
+    "93e65f1edf52": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1800-03-25",
+      "end_date": "1801-04-02",
+      "filename": "93e65f1edf52.json"
+    },
+    "24f7a5529b95": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1800-03-25",
+      "end_date": "1801-04-02",
+      "filename": "24f7a5529b95.json"
+    },
+    "0e9668fc6a59": {
+      "county_id": "nys_saratoga",
+      "name": "SARATOGA",
+      "start_date": "1801-04-03",
+      "end_date": "2000-12-31",
+      "filename": "0e9668fc6a59.json"
+    },
+    "b0994fc08f7e": {
+      "county_id": "nys_schoharie",
+      "name": "SCHOHARIE",
+      "start_date": "1801-04-03",
+      "end_date": "1836-03-02",
+      "filename": "b0994fc08f7e.json"
+    },
+    "2834853695ea": {
+      "county_id": "nys_essex",
+      "name": "ESSEX",
+      "start_date": "1801-04-03",
+      "end_date": "1822-03-21",
+      "filename": "2834853695ea.json"
+    },
+    "fe828557efc5": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1801-04-03",
+      "end_date": "1816-05-09",
+      "filename": "fe828557efc5.json"
+    },
+    "030ec547ec20": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1801-04-03",
+      "end_date": "1816-04-11",
+      "filename": "030ec547ec20.json"
+    },
+    "96c1f1715a2d": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1801-04-03",
+      "end_date": "1813-03-11",
+      "filename": "96c1f1715a2d.json"
+    },
+    "248b998ba3a3": {
+      "county_id": "nys_delaware",
+      "name": "DELAWARE",
+      "start_date": "1801-04-03",
+      "end_date": "1812-06-07",
+      "filename": "248b998ba3a3.json"
+    },
+    "3073394bac0a": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1801-04-03",
+      "end_date": "1812-05-25",
+      "filename": "3073394bac0a.json"
+    },
+    "8ff9b4b4b03e": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1801-04-03",
+      "end_date": "1809-03-06",
+      "filename": "8ff9b4b4b03e.json"
+    },
+    "cda9c0e8befb": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1801-04-03",
+      "end_date": "1809-03-26",
+      "filename": "cda9c0e8befb.json"
+    },
+    "228b9013b600": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1801-04-03",
+      "end_date": "1804-03-23",
+      "filename": "228b9013b600.json"
+    },
+    "ab56787b41f8": {
+      "county_id": "nys_cayuga",
+      "name": "CAYUGA",
+      "start_date": "1801-04-03",
+      "end_date": "1804-03-23",
+      "filename": "ab56787b41f8.json"
+    },
+    "1f2afd44c8c0": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1801-04-03",
+      "end_date": "1804-04-03",
+      "filename": "1f2afd44c8c0.json"
+    },
+    "5bff0f97620e": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1801-04-03",
+      "end_date": "1802-03-02",
+      "filename": "5bff0f97620e.json"
+    },
+    "b647b78071b9": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1801-04-03",
+      "end_date": "1802-03-29",
+      "filename": "b647b78071b9.json"
+    },
+    "6cc2367d6eb4": {
+      "county_id": "nys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1805-03-28",
+      "end_date": "1808-02-11",
+      "filename": "6cc2367d6eb4.json"
+    },
+    "8a5e56e8cabf": {
+      "county_id": "nys_lewis",
+      "name": "LEWIS",
+      "start_date": "1805-03-28",
+      "end_date": "1808-02-11",
+      "filename": "8a5e56e8cabf.json"
+    },
+    "958e98818eb4": {
+      "county_id": "nys_chenango",
+      "name": "CHENANGO",
+      "start_date": "1806-03-21",
+      "end_date": "2000-12-31",
+      "filename": "958e98818eb4.json"
+    },
+    "d74808ef4e9f": {
+      "county_id": "nys_madison",
+      "name": "MADISON",
+      "start_date": "1806-03-21",
+      "end_date": "1836-05-19",
+      "filename": "d74808ef4e9f.json"
+    },
+    "8d7cbfcf7521": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1806-03-28",
+      "end_date": "1822-03-21",
+      "filename": "8d7cbfcf7521.json"
+    },
+    "084f4fb1ba56": {
+      "county_id": "nys_broome",
+      "name": "BROOME",
+      "start_date": "1806-03-28",
+      "end_date": "1815-04-13",
+      "filename": "084f4fb1ba56.json"
+    },
+    "9aa4e897743f": {
+      "county_id": "nys_allegany",
+      "name": "ALLEGANY",
+      "start_date": "1806-04-07",
+      "end_date": "1808-03-10",
+      "filename": "9aa4e897743f.json"
+    },
+    "e9de3cf26bd3": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1806-04-07",
+      "end_date": "1808-03-10",
+      "filename": "e9de3cf26bd3.json"
+    },
+    "c59e25b2b053": {
+      "county_id": "nys_cattaraugus",
+      "name": "CATTARAUGUS",
+      "start_date": "1808-03-11",
+      "end_date": "2000-12-31",
+      "filename": "c59e25b2b053.json"
+    },
+    "8f5b45602d70": {
+      "county_id": "nys_chautauqua",
+      "name": "CHAUTAUQUA",
+      "start_date": "1808-03-11",
+      "end_date": "2000-12-31",
+      "filename": "8f5b45602d70.json"
+    },
+    "966094dcf6ce": {
+      "county_id": "nys_allegany",
+      "name": "ALLEGANY",
+      "start_date": "1808-03-11",
+      "end_date": "1846-03-31",
+      "filename": "966094dcf6ce.json"
+    },
+    "59b078aaf82c": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1808-03-11",
+      "end_date": "1822-03-21",
+      "filename": "59b078aaf82c.json"
+    },
+    "d3520ba2c8e1": {
+      "county_id": "nys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1808-03-11",
+      "end_date": "1822-03-21",
+      "filename": "d3520ba2c8e1.json"
+    },
+    "61c1def286f5": {
+      "county_id": "nys_niagara",
+      "name": "NIAGARA",
+      "start_date": "1808-03-11",
+      "end_date": "1821-04-01",
+      "filename": "61c1def286f5.json"
+    },
+    "2dc9e0391249": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1808-03-11",
+      "end_date": "1821-02-22",
+      "filename": "2dc9e0391249.json"
+    },
+    "8fb5b1c06564": {
+      "county_id": "nys_onondaga",
+      "name": "ONONDAGA",
+      "start_date": "1808-04-08",
+      "end_date": "1816-02-29",
+      "filename": "8fb5b1c06564.json"
+    },
+    "7ca64f36be8a": {
+      "county_id": "nys_cortland",
+      "name": "CORTLAND",
+      "start_date": "1808-04-08",
+      "end_date": "1815-04-13",
+      "filename": "7ca64f36be8a.json"
+    },
+    "e802643ec887": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1808-03-11",
+      "end_date": "1814-02-24",
+      "filename": "e802643ec887.json"
+    },
+    "cdd2b33b3c71": {
+      "county_id": "nys_lewis",
+      "name": "LEWIS",
+      "start_date": "1808-02-12",
+      "end_date": "1810-04-04",
+      "filename": "cdd2b33b3c71.json"
+    },
+    "47697dd1c792": {
+      "county_id": "nys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1808-02-12",
+      "end_date": "1810-04-04",
+      "filename": "47697dd1c792.json"
+    },
+    "0960d4b4712d": {
+      "county_id": "nys_albany",
+      "name": "ALBANY",
+      "start_date": "1809-03-07",
+      "end_date": "2000-12-31",
+      "filename": "0960d4b4712d.json"
+    },
+    "b667daf218be": {
+      "county_id": "nys_schenectady",
+      "name": "SCHENECTADY",
+      "start_date": "1809-03-07",
+      "end_date": "2000-12-31",
+      "filename": "b667daf218be.json"
+    },
+    "674af9367194": {
+      "county_id": "nys_sullivan",
+      "name": "SULLIVAN",
+      "start_date": "1809-03-27",
+      "end_date": "2000-12-31",
+      "filename": "674af9367194.json"
+    },
+    "c41f754a903b": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1809-03-27",
+      "end_date": "1812-05-25",
+      "filename": "c41f754a903b.json"
+    },
+    "bc0d673389d4": {
+      "county_id": "nys_lewis",
+      "name": "LEWIS",
+      "start_date": "1810-04-05",
+      "end_date": "1813-04-01",
+      "filename": "bc0d673389d4.json"
+    },
+    "b97f2133ca30": {
+      "county_id": "nys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1810-04-05",
+      "end_date": "1813-04-01",
+      "filename": "b97f2133ca30.json"
+    },
+    "757e37dfd8b3": {
+      "county_id": "nys_dutchess",
+      "name": "DUTCHESS",
+      "start_date": "1812-06-12",
+      "end_date": "2000-12-31",
+      "filename": "757e37dfd8b3.json"
+    },
+    "f8f1685053cd": {
+      "county_id": "nys_putnam",
+      "name": "PUTNAM",
+      "start_date": "1812-06-12",
+      "end_date": "2000-12-31",
+      "filename": "f8f1685053cd.json"
+    },
+    "48dfd991fb6c": {
+      "county_id": "nys_delaware",
+      "name": "DELAWARE",
+      "start_date": "1812-06-08",
+      "end_date": "1817-03-30",
+      "filename": "48dfd991fb6c.json"
+    },
+    "a53d4dd63e3f": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1812-06-08",
+      "end_date": "1814-04-14",
+      "filename": "a53d4dd63e3f.json"
+    },
+    "1640aad9b3d4": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1812-05-26",
+      "end_date": "1814-04-14",
+      "filename": "1640aad9b3d4.json"
+    },
+    "7e8682e8f25d": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1812-05-26",
+      "end_date": "1812-06-07",
+      "filename": "7e8682e8f25d.json"
+    },
+    "a476453da985": {
+      "county_id": "nys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1813-04-02",
+      "end_date": "2000-12-31",
+      "filename": "a476453da985.json"
+    },
+    "55602c738959": {
+      "county_id": "nys_lewis",
+      "name": "LEWIS",
+      "start_date": "1813-04-02",
+      "end_date": "2000-12-31",
+      "filename": "55602c738959.json"
+    },
+    "08bea20c3f6d": {
+      "county_id": "nys_warren",
+      "name": "WARREN",
+      "start_date": "1813-03-12",
+      "end_date": "2000-12-31",
+      "filename": "08bea20c3f6d.json"
+    },
+    "8885ade54280": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1813-03-12",
+      "end_date": "1822-03-28",
+      "filename": "8885ade54280.json"
+    },
+    "bbf0ffbadccb": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1814-02-25",
+      "end_date": "1822-03-03",
+      "filename": "bbf0ffbadccb.json"
+    },
+    "4e184ee87ff0": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1814-04-15",
+      "end_date": "1822-04-16",
+      "filename": "4e184ee87ff0.json"
+    },
+    "cdd617d77f4b": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1814-04-15",
+      "end_date": "1822-04-16",
+      "filename": "cdd617d77f4b.json"
+    },
+    "76f3673b50b6": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1814-02-25",
+      "end_date": "1821-02-22",
+      "filename": "76f3673b50b6.json"
+    },
+    "2b15af50aa01": {
+      "county_id": "nys_cortland",
+      "name": "CORTLAND",
+      "start_date": "1815-04-14",
+      "end_date": "2000-12-31",
+      "filename": "2b15af50aa01.json"
+    },
+    "d60396260664": {
+      "county_id": "nys_broome",
+      "name": "BROOME",
+      "start_date": "1815-04-14",
+      "end_date": "1817-04-06",
+      "filename": "d60396260664.json"
+    },
+    "738df1649cae": {
+      "county_id": "nys_oswego",
+      "name": "OSWEGO",
+      "start_date": "1816-03-01",
+      "end_date": "2000-12-31",
+      "filename": "738df1649cae.json"
+    },
+    "638a2fc66569": {
+      "county_id": "nys_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1816-04-12",
+      "end_date": "1860-04-05",
+      "filename": "638a2fc66569.json"
+    },
+    "9af30a77a29a": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1816-03-01",
+      "end_date": "1836-05-19",
+      "filename": "9af30a77a29a.json"
+    },
+    "a062d1559093": {
+      "county_id": "nys_onondaga",
+      "name": "ONONDAGA",
+      "start_date": "1816-03-01",
+      "end_date": "1828-04-14",
+      "filename": "a062d1559093.json"
+    },
+    "07bcc1602fc9": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1816-05-10",
+      "end_date": "1817-05-01",
+      "filename": "07bcc1602fc9.json"
+    },
+    "5e02cf7145d9": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1816-04-12",
+      "end_date": "1817-05-01",
+      "filename": "5e02cf7145d9.json"
+    },
+    "d8617bcfc853": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1816-05-10",
+      "end_date": "1817-03-30",
+      "filename": "d8617bcfc853.json"
+    },
+    "facd9327fb6a": {
+      "county_id": "nys_herkimer",
+      "name": "HERKIMER",
+      "start_date": "1817-05-02",
+      "end_date": "2000-12-31",
+      "filename": "facd9327fb6a.json"
+    },
+    "57d78e90463f": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1817-05-02",
+      "end_date": "1838-04-17",
+      "filename": "57d78e90463f.json"
+    },
+    "19a01601c71b": {
+      "county_id": "nys_cayuga",
+      "name": "CAYUGA",
+      "start_date": "1817-04-07",
+      "end_date": "1828-04-14",
+      "filename": "19a01601c71b.json"
+    },
+    "a1783dfc616c": {
+      "county_id": "nys_broome",
+      "name": "BROOME",
+      "start_date": "1817-04-07",
+      "end_date": "1822-03-21",
+      "filename": "a1783dfc616c.json"
+    },
+    "b8ca0cc8ba85": {
+      "county_id": "nys_delaware",
+      "name": "DELAWARE",
+      "start_date": "1817-03-31",
+      "end_date": "1822-04-11",
+      "filename": "b8ca0cc8ba85.json"
+    },
+    "73e6cfe3ce6f": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1817-03-31",
+      "end_date": "1822-04-11",
+      "filename": "73e6cfe3ce6f.json"
+    },
+    "62f07d60d330": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1817-04-07",
+      "end_date": "1819-04-12",
+      "filename": "62f07d60d330.json"
+    },
+    "5b48e8b93d86": {
+      "county_id": "nys_tompkins",
+      "name": "TOMPKINS",
+      "start_date": "1817-04-07",
+      "end_date": "1819-04-12",
+      "filename": "5b48e8b93d86.json"
+    },
+    "594e0a0fe8de": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1819-04-13",
+      "end_date": "1823-04-10",
+      "filename": "594e0a0fe8de.json"
+    },
+    "e693f38138ac": {
+      "county_id": "nys_tompkins",
+      "name": "TOMPKINS",
+      "start_date": "1819-04-13",
+      "end_date": "1823-03-21",
+      "filename": "e693f38138ac.json"
+    },
+    "34e0b4e8a39f": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1821-02-23",
+      "end_date": "1825-04-14",
+      "filename": "34e0b4e8a39f.json"
+    },
+    "eb62202dc3dc": {
+      "county_id": "nys_monroe",
+      "name": "MONROE",
+      "start_date": "1821-02-23",
+      "end_date": "1825-04-03",
+      "filename": "eb62202dc3dc.json"
+    },
+    "682a5f89bf10": {
+      "county_id": "nys_niagara",
+      "name": "NIAGARA",
+      "start_date": "1821-04-02",
+      "end_date": "1824-04-11",
+      "filename": "682a5f89bf10.json"
+    },
+    "a4f510146b53": {
+      "county_id": "nys_erie",
+      "name": "ERIE",
+      "start_date": "1821-04-02",
+      "end_date": "1824-04-11",
+      "filename": "a4f510146b53.json"
+    },
+    "d275550719d1": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1821-02-23",
+      "end_date": "1823-02-04",
+      "filename": "d275550719d1.json"
+    },
+    "e71f499f679b": {
+      "county_id": "nys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1821-02-23",
+      "end_date": "1822-03-03",
+      "filename": "e71f499f679b.json"
+    },
+    "1dc499e1acdf": {
+      "county_id": "nys_broome",
+      "name": "BROOME",
+      "start_date": "1822-03-22",
+      "end_date": "2000-12-31",
+      "filename": "1dc499e1acdf.json"
+    },
+    "5e13c9873fc6": {
+      "county_id": "nys_clinton",
+      "name": "CLINTON",
+      "start_date": "1822-03-22",
+      "end_date": "2000-12-31",
+      "filename": "5e13c9873fc6.json"
+    },
+    "57b14a9d03af": {
+      "county_id": "nys_delaware",
+      "name": "DELAWARE",
+      "start_date": "1822-04-12",
+      "end_date": "2000-12-31",
+      "filename": "57b14a9d03af.json"
+    },
+    "4d8f89fe9432": {
+      "county_id": "nys_otsego",
+      "name": "OTSEGO",
+      "start_date": "1822-04-12",
+      "end_date": "2000-12-31",
+      "filename": "4d8f89fe9432.json"
+    },
+    "985a6cec27b9": {
+      "county_id": "nys_ulster",
+      "name": "ULSTER",
+      "start_date": "1822-04-17",
+      "end_date": "2000-12-31",
+      "filename": "985a6cec27b9.json"
+    },
+    "1dda725e4961": {
+      "county_id": "nys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1822-03-29",
+      "end_date": "2000-12-31",
+      "filename": "1dda725e4961.json"
+    },
+    "71533b62066c": {
+      "county_id": "nys_essex",
+      "name": "ESSEX",
+      "start_date": "1822-03-22",
+      "end_date": "1915-05-23",
+      "filename": "71533b62066c.json"
+    },
+    "af167ee5e0ff": {
+      "county_id": "nys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1822-03-22",
+      "end_date": "1913-04-22",
+      "filename": "af167ee5e0ff.json"
+    },
+    "03a1cfe39491": {
+      "county_id": "nys_rensselaer",
+      "name": "RENSSELAER",
+      "start_date": "1822-03-29",
+      "end_date": "2000-12-31",
+      "filename": "03a1cfe39491.json"
+    },
+    "1a80e527cac5": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1822-03-04",
+      "end_date": "1825-12-31",
+      "filename": "1a80e527cac5.json"
+    },
+    "368bb19da137": {
+      "county_id": "nys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1822-03-04",
+      "end_date": "1825-04-03",
+      "filename": "368bb19da137.json"
+    },
+    "05c8335711d6": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1822-04-17",
+      "end_date": "1823-04-22",
+      "filename": "05c8335711d6.json"
+    },
+    "b01a769951c5": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1822-03-22",
+      "end_date": "1823-03-21",
+      "filename": "b01a769951c5.json"
+    },
+    "eeebd4140662": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1822-02-21",
+      "end_date": "1838-04-01",
+      "filename": "eeebd4140662.json"
+    },
+    "24ed775410f0": {
+      "county_id": "nys_wayne",
+      "name": "WAYNE",
+      "start_date": "1823-04-11",
+      "end_date": "2000-12-31",
+      "filename": "24ed775410f0.json"
+    },
+    "16a9995db942": {
+      "county_id": "nys_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1823-04-23",
+      "end_date": "1855-01-10",
+      "filename": "16a9995db942.json"
+    },
+    "1f3094d6d3de": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1823-04-23",
+      "end_date": "1836-03-02",
+      "filename": "1f3094d6d3de.json"
+    },
+    "26e332f80eaf": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1823-04-11",
+      "end_date": "1828-04-14",
+      "filename": "26e332f80eaf.json"
+    },
+    "563e398803e7": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1823-04-11",
+      "end_date": "1828-04-14",
+      "filename": "563e398803e7.json"
+    },
+    "2850e0533104": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1823-03-22",
+      "end_date": "1836-03-28",
+      "filename": "2850e0533104.json"
+    },
+    "eb4ca713f68e": {
+      "county_id": "nys_tompkins",
+      "name": "TOMPKINS",
+      "start_date": "1823-03-22",
+      "end_date": "1828-04-14",
+      "filename": "eb4ca713f68e.json"
+    },
+    "e59dbfec8249": {
+      "county_id": "nys_yates",
+      "name": "YATES",
+      "start_date": "1823-02-05",
+      "end_date": "1825-12-31",
+      "filename": "e59dbfec8249.json"
+    },
+    "fdea5c478769": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1823-02-05",
+      "end_date": "1823-04-10",
+      "filename": "fdea5c478769.json"
+    },
+    "5549f974fbc0": {
+      "county_id": "nys_erie",
+      "name": "ERIE",
+      "start_date": "1824-04-12",
+      "end_date": "2000-12-31",
+      "filename": "5549f974fbc0.json"
+    },
+    "d9997e27e6e5": {
+      "county_id": "nys_niagara",
+      "name": "NIAGARA",
+      "start_date": "1824-04-12",
+      "end_date": "2000-12-31",
+      "filename": "d9997e27e6e5.json"
+    },
+    "af4eb6a405b9": {
+      "county_id": "nys_monroe",
+      "name": "MONROE",
+      "start_date": "1825-04-04",
+      "end_date": "2000-12-31",
+      "filename": "af4eb6a405b9.json"
+    },
+    "72dd8836d743": {
+      "county_id": "nys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1825-04-04",
+      "end_date": "1846-05-10",
+      "filename": "72dd8836d743.json"
+    },
+    "b926598f44e9": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1825-04-15",
+      "end_date": "1826-04-30",
+      "filename": "b926598f44e9.json"
+    },
+    "29750016524f": {
+      "county_id": "nys_orleans",
+      "name": "ORLEANS",
+      "start_date": "1825-04-15",
+      "end_date": "1826-04-30",
+      "filename": "29750016524f.json"
+    },
+    "79af6e36dff2": {
+      "county_id": "nys_orleans",
+      "name": "ORLEANS",
+      "start_date": "1826-05-01",
+      "end_date": "2000-12-31",
+      "filename": "79af6e36dff2.json"
+    },
+    "4c25b868fe0e": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1826-05-01",
+      "end_date": "1841-05-18",
+      "filename": "4c25b868fe0e.json"
+    },
+    "7ff70125f240": {
+      "county_id": "nys_yates",
+      "name": "YATES",
+      "start_date": "1826-01-01",
+      "end_date": "1828-04-14",
+      "filename": "7ff70125f240.json"
+    },
+    "925ee9ecc22f": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1826-01-01",
+      "end_date": "1828-04-14",
+      "filename": "925ee9ecc22f.json"
+    },
+    "5010066f77f2": {
+      "county_id": "nys_cayuga",
+      "name": "CAYUGA",
+      "start_date": "1828-04-15",
+      "end_date": "2000-12-31",
+      "filename": "5010066f77f2.json"
+    },
+    "1ea3b751a6f4": {
+      "county_id": "nys_onondaga",
+      "name": "ONONDAGA",
+      "start_date": "1828-04-15",
+      "end_date": "2000-12-31",
+      "filename": "1ea3b751a6f4.json"
+    },
+    "1bac8fa10fab": {
+      "county_id": "nys_yates",
+      "name": "YATES",
+      "start_date": "1828-04-15",
+      "end_date": "1946-04-17",
+      "filename": "1bac8fa10fab.json"
+    },
+    "e432418a9ac5": {
+      "county_id": "nys_seneca",
+      "name": "SENECA",
+      "start_date": "1828-04-15",
+      "end_date": "1946-04-17",
+      "filename": "e432418a9ac5.json"
+    },
+    "f75cdd3ca47d": {
+      "county_id": "nys_ontario",
+      "name": "ONTARIO",
+      "start_date": "1828-04-15",
+      "end_date": "2000-12-31",
+      "filename": "f75cdd3ca47d.json"
+    },
+    "d562446c9068": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1828-04-15",
+      "end_date": "1854-04-16",
+      "filename": "d562446c9068.json"
+    },
+    "45059a1af3f5": {
+      "county_id": "nys_tompkins",
+      "name": "TOMPKINS",
+      "start_date": "1828-04-15",
+      "end_date": "1854-04-16",
+      "filename": "45059a1af3f5.json"
+    },
+    "0733bea75320": {
+      "county_id": "nys_greene",
+      "name": "GREENE",
+      "start_date": "1836-03-03",
+      "end_date": "2000-12-31",
+      "filename": "0733bea75320.json"
+    },
+    "7fb51879f9a8": {
+      "county_id": "nys_madison",
+      "name": "MADISON",
+      "start_date": "1836-05-20",
+      "end_date": "2000-12-31",
+      "filename": "7fb51879f9a8.json"
+    },
+    "cd205f421f0f": {
+      "county_id": "nys_oneida",
+      "name": "ONEIDA",
+      "start_date": "1836-05-20",
+      "end_date": "2000-12-31",
+      "filename": "cd205f421f0f.json"
+    },
+    "fd0b81984140": {
+      "county_id": "nys_schoharie",
+      "name": "SCHOHARIE",
+      "start_date": "1836-03-03",
+      "end_date": "2000-12-31",
+      "filename": "fd0b81984140.json"
+    },
+    "ea6f359282b3": {
+      "county_id": "nys_tioga",
+      "name": "TIOGA",
+      "start_date": "1836-03-29",
+      "end_date": "2000-12-31",
+      "filename": "ea6f359282b3.json"
+    },
+    "c5700c3f0e47": {
+      "county_id": "nys_chemung",
+      "name": "CHEMUNG",
+      "start_date": "1836-03-29",
+      "end_date": "1854-04-16",
+      "filename": "c5700c3f0e47.json"
+    },
+    "a86bdcdf14b6": {
+      "county_id": "nys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1838-04-18",
+      "end_date": "2000-12-31",
+      "filename": "a86bdcdf14b6.json"
+    },
+    "586b9cfb0994": {
+      "county_id": "nys_fulton",
+      "name": "FULTON",
+      "start_date": "1838-04-18",
+      "end_date": "1860-04-05",
+      "filename": "586b9cfb0994.json"
+    },
+    "5c4d2a9b9596": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE (Mass.)",
+      "start_date": "1838-04-02",
+      "end_date": "1855-01-10",
+      "filename": "5c4d2a9b9596.json"
+    },
+    "172dbe483d27": {
+      "county_id": "nys_genesee",
+      "name": "GENESEE",
+      "start_date": "1841-05-19",
+      "end_date": "2000-12-31",
+      "filename": "172dbe483d27.json"
+    },
+    "b5d13d1a60bb": {
+      "county_id": "nys_wyoming",
+      "name": "WYOMING",
+      "start_date": "1841-05-19",
+      "end_date": "1846-03-31",
+      "filename": "b5d13d1a60bb.json"
+    },
+    "a0a548d3fddc": {
+      "county_id": "nys_allegany",
+      "name": "ALLEGANY",
+      "start_date": "1846-05-11",
+      "end_date": "1857-03-22",
+      "filename": "a0a548d3fddc.json"
+    },
+    "0883d46d6bd4": {
+      "county_id": "nys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1846-05-11",
+      "end_date": "1857-03-22",
+      "filename": "0883d46d6bd4.json"
+    },
+    "e21420a94da6": {
+      "county_id": "nys_wyoming",
+      "name": "WYOMING",
+      "start_date": "1846-04-01",
+      "end_date": "2000-12-31",
+      "filename": "e21420a94da6.json"
+    },
+    "56c5b967c109": {
+      "county_id": "nys_allegany",
+      "name": "ALLEGANY",
+      "start_date": "1846-04-01",
+      "end_date": "1846-05-10",
+      "filename": "56c5b967c109.json"
+    },
+    "104250c890bf": {
+      "county_id": "nys_chemung",
+      "name": "CHEMUNG",
+      "start_date": "1854-04-17",
+      "end_date": "2000-12-31",
+      "filename": "104250c890bf.json"
+    },
+    "8afb04f13137": {
+      "county_id": "nys_steuben",
+      "name": "STEUBEN",
+      "start_date": "1854-04-17",
+      "end_date": "2000-12-31",
+      "filename": "8afb04f13137.json"
+    },
+    "4d6574f86888": {
+      "county_id": "nys_tompkins",
+      "name": "TOMPKINS",
+      "start_date": "1854-04-17",
+      "end_date": "2000-12-31",
+      "filename": "4d6574f86888.json"
+    },
+    "9c88ed112ebf": {
+      "county_id": "nys_schuyler",
+      "name": "SCHUYLER",
+      "start_date": "1854-04-17",
+      "end_date": "1946-04-17",
+      "filename": "9c88ed112ebf.json"
+    },
+    "c13e27cd4737": {
+      "county_id": "nys_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1855-01-11",
+      "end_date": "2000-12-31",
+      "filename": "c13e27cd4737.json"
+    },
+    "780f870b71a0": {
+      "county_id": "nys_allegany",
+      "name": "ALLEGANY",
+      "start_date": "1857-03-23",
+      "end_date": "2000-12-31",
+      "filename": "780f870b71a0.json"
+    },
+    "39baca33a54e": {
+      "county_id": "nys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1857-03-23",
+      "end_date": "2000-12-31",
+      "filename": "39baca33a54e.json"
+    },
+    "711d8cd8a2fa": {
+      "county_id": "nys_fulton",
+      "name": "FULTON",
+      "start_date": "1860-04-06",
+      "end_date": "2000-12-31",
+      "filename": "711d8cd8a2fa.json"
+    },
+    "ff45f2895814": {
+      "county_id": "nys_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1860-04-06",
+      "end_date": "1915-05-23",
+      "filename": "ff45f2895814.json"
+    },
+    "b1fb6a283954": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1874-01-01",
+      "end_date": "1895-06-05",
+      "filename": "b1fb6a283954.json"
+    },
+    "08f0b74ff27d": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1874-01-01",
+      "end_date": "1881-06-07",
+      "filename": "08f0b74ff27d.json"
+    },
+    "3e5cb2d3cca0": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1881-06-08",
+      "end_date": "1884-05-07",
+      "filename": "3e5cb2d3cca0.json"
+    },
+    "801c1bf6180b": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1881-06-08",
+      "end_date": "1884-05-07",
+      "filename": "801c1bf6180b.json"
+    },
+    "8005dc051680": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1884-05-08",
+      "end_date": "1895-06-05",
+      "filename": "8005dc051680.json"
+    },
+    "44bc1baa8020": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1884-05-08",
+      "end_date": "1886-06-14",
+      "filename": "44bc1baa8020.json"
+    },
+    "02d8a67be1fc": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1886-06-15",
+      "end_date": "1898-12-31",
+      "filename": "02d8a67be1fc.json"
+    },
+    "eca6b05e21f6": {
+      "county_id": "nys_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1886-06-15",
+      "end_date": "2000-12-31",
+      "filename": "eca6b05e21f6.json"
+    },
+    "8d049631c7c1": {
+      "county_id": "nys_westchester",
+      "name": "WESTCHESTER",
+      "start_date": "1895-06-06",
+      "end_date": "1917-05-25",
+      "filename": "8d049631c7c1.json"
+    },
+    "b930b9d252f9": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1895-06-06",
+      "end_date": "1912-04-18",
+      "filename": "b930b9d252f9.json"
+    },
+    "a09e5bac74fb": {
+      "county_id": "nys_nassau",
+      "name": "NASSAU",
+      "start_date": "1899-01-01",
+      "end_date": "2000-12-31",
+      "filename": "a09e5bac74fb.json"
+    },
+    "5ea61b6f9623": {
+      "county_id": "nys_queens",
+      "name": "QUEENS",
+      "start_date": "1899-01-01",
+      "end_date": "1964-04-15",
+      "filename": "5ea61b6f9623.json"
+    },
+    "c664fc0f4df9": {
+      "county_id": "nys_newyork",
+      "name": "NEW YORK",
+      "start_date": "1912-04-19",
+      "end_date": "2000-12-31",
+      "filename": "c664fc0f4df9.json"
+    },
+    "70a5340b90ce": {
+      "county_id": "nys_bronx",
+      "name": "BRONX",
+      "start_date": "1912-04-19",
+      "end_date": "1917-05-25",
+      "filename": "70a5340b90ce.json"
+    },
+    "2c5acf317afd": {
+      "county_id": "nys_stlawrence",
+      "name": "ST. LAWRENCE",
+      "start_date": "1913-04-23",
+      "end_date": "2000-12-31",
+      "filename": "2c5acf317afd.json"
+    },
+    "2df00066da90": {
+      "county_id": "nys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1913-04-23",
+      "end_date": "2000-12-31",
+      "filename": "2df00066da90.json"
+    }
+  }
+}

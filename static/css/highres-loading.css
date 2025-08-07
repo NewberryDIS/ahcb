@@ -1,0 +1,124 @@
+/* Loading Indicator Styles */
+.loading-indicator {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 20px 30px;
+  border-radius: 8px;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-size: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease;
+}
+
+.loading-indicator.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loading-spinner {
+  width: 24px;
+  height: 24px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 2px solid white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* High Resolution Mode Indicator */
+.highres-indicator {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--county-accent-color, #2ecc71);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  z-index: 1000;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.highres-indicator.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Resolution Badge in Info Panel */
+.resolution-badge {
+  display: inline-block;
+  background: var(--county-accent-color, #2ecc71);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* High-res info text styling */
+.county-info .highres-info {
+  font-size: 14px;
+  color: var(--text-muted, #666);
+  font-style: italic;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid var(--border-color, #eee);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .loading-indicator {
+    background: rgba(40, 40, 40, 0.9);
+    color: #fff;
+  }
+
+  .county-info .highres-info {
+    color: var(--text-muted-dark, #aaa);
+    border-top-color: var(--border-color-dark, #444);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .loading-indicator {
+    padding: 15px 20px;
+    font-size: 14px;
+  }
+
+  .highres-indicator {
+    top: 5px;
+    right: 5px;
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+
+  .loading-spinner {
+    width: 20px;
+    height: 20px;
+  }
+}

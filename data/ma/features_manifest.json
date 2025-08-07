@@ -1,0 +1,1441 @@
+{
+  "state": "MA",
+  "total_features": 205,
+  "features": {
+    "b988c93000fb": {
+      "county_id": "mac",
+      "name": "Massachusetts",
+      "start_date": "1629-03-04",
+      "end_date": "1643-05-09",
+      "filename": "b988c93000fb.json"
+    },
+    "444cde8d7e4d": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1630-01-13",
+      "end_date": "1663-07-07",
+      "filename": "444cde8d7e4d.json"
+    },
+    "978205362ea0": {
+      "county_id": "mac_pawtuxet",
+      "name": "Pawtuxet Settlement",
+      "start_date": "1642-12-31",
+      "end_date": "1658-05-25",
+      "filename": "978205362ea0.json"
+    },
+    "2bf1bcbc86ab": {
+      "county_id": "mas_norfolk01",
+      "name": "NORFOLK (orig)",
+      "start_date": "1643-05-10",
+      "end_date": "1679-09-17",
+      "filename": "2bf1bcbc86ab.json"
+    },
+    "047a03f24cd9": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1643-05-10",
+      "end_date": "1679-09-17",
+      "filename": "047a03f24cd9.json"
+    },
+    "3b3cff584ae0": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1643-05-10",
+      "end_date": "1731-07-09",
+      "filename": "3b3cff584ae0.json"
+    },
+    "0252fff8e5e6": {
+      "county_id": "mas_nca1",
+      "name": "NCA 1",
+      "start_date": "1643-05-10",
+      "end_date": "1662-05-06",
+      "filename": "0252fff8e5e6.json"
+    },
+    "8309f7049838": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1643-05-10",
+      "end_date": "1663-07-07",
+      "filename": "8309f7049838.json"
+    },
+    "d6d79cdd9718": {
+      "county_id": "mes_york",
+      "name": "YORKSHIRE (Me.)",
+      "start_date": "1652-11-20",
+      "end_date": "1664-11-29",
+      "filename": "d6d79cdd9718.json"
+    },
+    "3e965fe850d6": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1662-05-07",
+      "end_date": "1669-05-18",
+      "filename": "3e965fe850d6.json"
+    },
+    "e8b35a435a36": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1663-07-08",
+      "end_date": "1664-05-30",
+      "filename": "e8b35a435a36.json"
+    },
+    "6a284f9c9104": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1663-07-08",
+      "end_date": "1664-05-30",
+      "filename": "6a284f9c9104.json"
+    },
+    "0e902ac5d2e9": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1664-05-31",
+      "end_date": "1665-02-26",
+      "filename": "0e902ac5d2e9.json"
+    },
+    "e535ec59acdd": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1664-05-31",
+      "end_date": "1665-02-26",
+      "filename": "e535ec59acdd.json"
+    },
+    "1a731d2f176c": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1665-02-27",
+      "end_date": "1690-03-14",
+      "filename": "1a731d2f176c.json"
+    },
+    "e8805efce36c": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1665-02-27",
+      "end_date": "1685-06-01",
+      "filename": "e8805efce36c.json"
+    },
+    "c5ad881850cd": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1668-05-27",
+      "end_date": "1680-03-16",
+      "filename": "c5ad881850cd.json"
+    },
+    "446c0b118c48": {
+      "county_id": "mac_massclaim",
+      "name": "Massachusetts Claim",
+      "start_date": "1668-05-27",
+      "end_date": "1680-03-16",
+      "filename": "446c0b118c48.json"
+    },
+    "f7d496a5caeb": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1669-05-19",
+      "end_date": "1674-06-02",
+      "filename": "f7d496a5caeb.json"
+    },
+    "11aea644ff65": {
+      "county_id": "mas_devonshire",
+      "name": "DEVONSHIRE (ext)",
+      "start_date": "1673-10-07",
+      "end_date": "1675-09-29",
+      "filename": "11aea644ff65.json"
+    },
+    "bad0d2cd58aa": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1674-06-03",
+      "end_date": "1683-05-15",
+      "filename": "bad0d2cd58aa.json"
+    },
+    "d48160d8bf82": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1679-09-18",
+      "end_date": "1841-02-21",
+      "filename": "d48160d8bf82.json"
+    },
+    "6b871bb6b9e3": {
+      "county_id": "mac_massclaim",
+      "name": "Massachusetts Claim",
+      "start_date": "1680-03-17",
+      "end_date": "1691-10-06",
+      "filename": "6b871bb6b9e3.json"
+    },
+    "23c0d296d613": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1683-05-16",
+      "end_date": "1731-07-09",
+      "filename": "23c0d296d613.json"
+    },
+    "4babf40f9dd8": {
+      "county_id": "nys_dukes",
+      "name": "DUKES (N.Y.)",
+      "start_date": "1683-11-01",
+      "end_date": "1691-10-06",
+      "filename": "4babf40f9dd8.json"
+    },
+    "6c53bfe56b63": {
+      "county_id": "mas_barnstable",
+      "name": "BARNSTABLE",
+      "start_date": "1685-06-02",
+      "end_date": "1707-11-18",
+      "filename": "6c53bfe56b63.json"
+    },
+    "bd60d825402c": {
+      "county_id": "mas_plymouth",
+      "name": "PLYMOUTH",
+      "start_date": "1685-06-02",
+      "end_date": "1707-11-18",
+      "filename": "bd60d825402c.json"
+    },
+    "4cd9780e2226": {
+      "county_id": "mas_bristol",
+      "name": "BRISTOL",
+      "start_date": "1685-06-02",
+      "end_date": "1747-02-16",
+      "filename": "4cd9780e2226.json"
+    },
+    "be6f6897a99c": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1690-03-15",
+      "end_date": "1731-07-09",
+      "filename": "be6f6897a99c.json"
+    },
+    "a5258cd2373b": {
+      "county_id": "mac",
+      "name": "Massachusetts",
+      "start_date": "1691-10-07",
+      "end_date": "1695-06-21",
+      "filename": "a5258cd2373b.json"
+    },
+    "304adab6c3a0": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1691-10-07",
+      "end_date": "1716-06-25",
+      "filename": "304adab6c3a0.json"
+    },
+    "92e1631098b1": {
+      "county_id": "mas_dukes",
+      "name": "DUKES",
+      "start_date": "1695-06-22",
+      "end_date": "2000-12-31",
+      "filename": "92e1631098b1.json"
+    },
+    "7f0dd03dc389": {
+      "county_id": "mas_nantucket",
+      "name": "NANTUCKET",
+      "start_date": "1695-06-22",
+      "end_date": "2000-12-31",
+      "filename": "7f0dd03dc389.json"
+    },
+    "4791e5e11ecc": {
+      "county_id": "mac",
+      "name": "Massachusetts",
+      "start_date": "1695-06-22",
+      "end_date": "1716-06-25",
+      "filename": "4791e5e11ecc.json"
+    },
+    "8bb462c7d037": {
+      "county_id": "mas_barnstable",
+      "name": "BARNSTABLE",
+      "start_date": "1707-11-19",
+      "end_date": "2000-12-31",
+      "filename": "8bb462c7d037.json"
+    },
+    "e311e182cf62": {
+      "county_id": "mas_plymouth",
+      "name": "PLYMOUTH",
+      "start_date": "1707-11-19",
+      "end_date": "1803-06-17",
+      "filename": "e311e182cf62.json"
+    },
+    "427735e374a4": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1716-06-26",
+      "end_date": "1760-10-31",
+      "filename": "427735e374a4.json"
+    },
+    "e52927948f5d": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1731-07-10",
+      "end_date": "1747-02-16",
+      "filename": "e52927948f5d.json"
+    },
+    "07f9b0237c64": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1731-07-10",
+      "end_date": "1742-01-15",
+      "filename": "07f9b0237c64.json"
+    },
+    "960bb533e1e5": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1731-07-10",
+      "end_date": "1732-06-28",
+      "filename": "960bb533e1e5.json"
+    },
+    "8c7c97428ec8": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1731-07-10",
+      "end_date": "1732-06-28",
+      "filename": "8c7c97428ec8.json"
+    },
+    "762ed09acd0b": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1732-06-29",
+      "end_date": "1735-06-13",
+      "filename": "762ed09acd0b.json"
+    },
+    "9bdbb68f2007": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1732-06-29",
+      "end_date": "1735-06-13",
+      "filename": "9bdbb68f2007.json"
+    },
+    "ad3c469c270c": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1735-06-14",
+      "end_date": "1783-02-24",
+      "filename": "ad3c469c270c.json"
+    },
+    "f4ad69f83033": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1735-06-14",
+      "end_date": "1742-01-15",
+      "filename": "f4ad69f83033.json"
+    },
+    "f2d612843c40": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1742-01-16",
+      "end_date": "1749-05-30",
+      "filename": "f2d612843c40.json"
+    },
+    "1661d5921bcc": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1742-01-16",
+      "end_date": "1749-05-30",
+      "filename": "1661d5921bcc.json"
+    },
+    "9aa64c26d84e": {
+      "county_id": "mas_bristol",
+      "name": "BRISTOL",
+      "start_date": "1747-02-17",
+      "end_date": "1862-02-28",
+      "filename": "9aa64c26d84e.json"
+    },
+    "c3058ffbce2f": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1747-02-17",
+      "end_date": "1793-06-19",
+      "filename": "c3058ffbce2f.json"
+    },
+    "48af5daca8af": {
+      "county_id": "ris_newport",
+      "name": "NEWPORT (R.I.)",
+      "start_date": "1747-02-17",
+      "end_date": "1862-02-28",
+      "filename": "48af5daca8af.json"
+    },
+    "b7a054f1c002": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1749-05-31",
+      "end_date": "1764-01-04",
+      "filename": "b7a054f1c002.json"
+    },
+    "642fc2806f72": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1749-05-31",
+      "end_date": "1761-06-29",
+      "filename": "642fc2806f72.json"
+    },
+    "58813d176dc6": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1761-06-30",
+      "end_date": "1768-06-29",
+      "filename": "58813d176dc6.json"
+    },
+    "0dbe6cd0ab48": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1761-06-30",
+      "end_date": "1764-01-04",
+      "filename": "0dbe6cd0ab48.json"
+    },
+    "1044b4c11988": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1763-10-07",
+      "end_date": "1790-04-30",
+      "filename": "1044b4c11988.json"
+    },
+    "4f5e7179ff13": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND (Me.)",
+      "start_date": "1763-10-07",
+      "end_date": "1786-03-02",
+      "filename": "4f5e7179ff13.json"
+    },
+    "303a17d844a4": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1763-10-07",
+      "end_date": "1786-03-02",
+      "filename": "303a17d844a4.json"
+    },
+    "71711f0eb6a0": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1764-01-05",
+      "end_date": "1765-02-04",
+      "filename": "71711f0eb6a0.json"
+    },
+    "62c7bb94ee1a": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1764-01-05",
+      "end_date": "1765-02-04",
+      "filename": "62c7bb94ee1a.json"
+    },
+    "b19d29bd6391": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1765-02-05",
+      "end_date": "1783-02-24",
+      "filename": "b19d29bd6391.json"
+    },
+    "567e467d6386": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1765-02-05",
+      "end_date": "1768-06-29",
+      "filename": "567e467d6386.json"
+    },
+    "787e74265b35": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1768-06-30",
+      "end_date": "1779-06-22",
+      "filename": "787e74265b35.json"
+    },
+    "e5b710a9c079": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1768-06-30",
+      "end_date": "1774-12-30",
+      "filename": "e5b710a9c079.json"
+    },
+    "6e3cc8c66da9": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1774-12-31",
+      "end_date": "1779-06-22",
+      "filename": "6e3cc8c66da9.json"
+    },
+    "f4917ce84da6": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1774-12-31",
+      "end_date": "1783-10-08",
+      "filename": "f4917ce84da6.json"
+    },
+    "523227408230": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1779-06-23",
+      "end_date": "1783-03-11",
+      "filename": "523227408230.json"
+    },
+    "49140b473bbb": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1779-06-23",
+      "end_date": "1783-03-11",
+      "filename": "49140b473bbb.json"
+    },
+    "f5a8adbe5bc8": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1783-10-15",
+      "end_date": "1785-02-08",
+      "filename": "f5a8adbe5bc8.json"
+    },
+    "84673152961a": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1783-10-15",
+      "end_date": "1784-03-15",
+      "filename": "84673152961a.json"
+    },
+    "b4593b52baca": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1783-03-12",
+      "end_date": "1785-02-08",
+      "filename": "b4593b52baca.json"
+    },
+    "559b1a470899": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1783-02-25",
+      "end_date": "1784-03-15",
+      "filename": "559b1a470899.json"
+    },
+    "115024e4358d": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1783-02-25",
+      "end_date": "1783-10-14",
+      "filename": "115024e4358d.json"
+    },
+    "c2734299624f": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1783-03-12",
+      "end_date": "1783-10-14",
+      "filename": "c2734299624f.json"
+    },
+    "f8c5f0daea11": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1783-10-09",
+      "end_date": "1785-05-11",
+      "filename": "f8c5f0daea11.json"
+    },
+    "e276c45089db": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1784-03-16",
+      "end_date": "1792-11-15",
+      "filename": "e276c45089db.json"
+    },
+    "c7b0f9575c9d": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1784-03-16",
+      "end_date": "1792-11-15",
+      "filename": "c7b0f9575c9d.json"
+    },
+    "93b05ec6a621": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1785-10-13",
+      "end_date": "1789-05-13",
+      "filename": "93b05ec6a621.json"
+    },
+    "71309cc80110": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1785-02-09",
+      "end_date": "1793-03-08",
+      "filename": "71309cc80110.json"
+    },
+    "b1f96f275f5f": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1785-02-09",
+      "end_date": "1793-03-08",
+      "filename": "b1f96f275f5f.json"
+    },
+    "7346d3b2c023": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1785-05-12",
+      "end_date": "1785-10-12",
+      "filename": "7346d3b2c023.json"
+    },
+    "4f68ea3d7964": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1786-03-03",
+      "end_date": "1805-03-03",
+      "filename": "4f68ea3d7964.json"
+    },
+    "e03e766ae8b1": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND (Me.)",
+      "start_date": "1786-03-03",
+      "end_date": "1805-03-03",
+      "filename": "e03e766ae8b1.json"
+    },
+    "83d2ec9fe12c": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1789-05-14",
+      "end_date": "1796-05-01",
+      "filename": "83d2ec9fe12c.json"
+    },
+    "bfb66ab01848": {
+      "county_id": "mes_washington",
+      "name": "WASHINGTON (Me.)",
+      "start_date": "1790-05-01",
+      "end_date": "1820-03-14",
+      "filename": "bfb66ab01848.json"
+    },
+    "d264fa47f863": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1791-05-01",
+      "end_date": "1811-06-20",
+      "filename": "d264fa47f863.json"
+    },
+    "5c3e4915cd41": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1791-05-01",
+      "end_date": "1799-02-19",
+      "filename": "5c3e4915cd41.json"
+    },
+    "cf335b6bbeba": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1792-11-16",
+      "end_date": "1801-02-17",
+      "filename": "cf335b6bbeba.json"
+    },
+    "0b8d6c1928d2": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1792-11-16",
+      "end_date": "1797-06-21",
+      "filename": "0b8d6c1928d2.json"
+    },
+    "bd3e5ef61b52": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1793-03-09",
+      "end_date": "1822-02-20",
+      "filename": "bd3e5ef61b52.json"
+    },
+    "73c9f2668f96": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1793-06-20",
+      "end_date": "1803-06-17",
+      "filename": "73c9f2668f96.json"
+    },
+    "27a42a720db9": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1793-03-09",
+      "end_date": "1801-02-17",
+      "filename": "27a42a720db9.json"
+    },
+    "ed5a6513c69e": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1793-06-20",
+      "end_date": "1797-06-21",
+      "filename": "ed5a6513c69e.json"
+    },
+    "af7e9d6194d8": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1796-05-02",
+      "end_date": "1798-10-10",
+      "filename": "af7e9d6194d8.json"
+    },
+    "bdf9d01a7bf4": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1797-06-22",
+      "end_date": "1807-06-19",
+      "filename": "bdf9d01a7bf4.json"
+    },
+    "5f9a0663f44b": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1797-06-22",
+      "end_date": "1804-03-05",
+      "filename": "5f9a0663f44b.json"
+    },
+    "ce8d3785de08": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1798-10-11",
+      "end_date": "1803-10-12",
+      "filename": "ce8d3785de08.json"
+    },
+    "1e2d5c4d4384": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1799-02-20",
+      "end_date": "1811-02-24",
+      "filename": "1e2d5c4d4384.json"
+    },
+    "3119e949fda4": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1799-02-20",
+      "end_date": "1805-03-03",
+      "filename": "3119e949fda4.json"
+    },
+    "bf0e68cd8bea": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1801-02-18",
+      "end_date": "1807-06-19",
+      "filename": "bf0e68cd8bea.json"
+    },
+    "029b0f7e0d83": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1801-02-18",
+      "end_date": "1804-12-30",
+      "filename": "029b0f7e0d83.json"
+    },
+    "109d020259f1": {
+      "county_id": "mas_plymouth",
+      "name": "PLYMOUTH",
+      "start_date": "1803-06-18",
+      "end_date": "2000-12-31",
+      "filename": "109d020259f1.json"
+    },
+    "f62e01a5fcc1": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1803-06-18",
+      "end_date": "1804-03-05",
+      "filename": "f62e01a5fcc1.json"
+    },
+    "97d4d19b5843": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD (Conn.)",
+      "start_date": "1803-10-13",
+      "end_date": "1804-12-30",
+      "filename": "97d4d19b5843.json"
+    },
+    "271a57e8c5f9": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1804-03-06",
+      "end_date": "1834-03-24",
+      "filename": "271a57e8c5f9.json"
+    },
+    "6e7c366d8fb8": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1804-03-06",
+      "end_date": "1829-03-02",
+      "filename": "6e7c366d8fb8.json"
+    },
+    "beb80fc7b60a": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1804-12-31",
+      "end_date": "1811-12-01",
+      "filename": "beb80fc7b60a.json"
+    },
+    "fb9b7a1c45c4": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1805-03-04",
+      "end_date": "1820-03-14",
+      "filename": "fb9b7a1c45c4.json"
+    },
+    "a977d8962cc9": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND (Me.)",
+      "start_date": "1805-03-04",
+      "end_date": "1820-03-14",
+      "filename": "a977d8962cc9.json"
+    },
+    "9a5679356950": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1805-03-04",
+      "end_date": "1808-03-07",
+      "filename": "9a5679356950.json"
+    },
+    "314faa2bdf17": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD (Me.)",
+      "start_date": "1805-03-04",
+      "end_date": "1808-03-07",
+      "filename": "314faa2bdf17.json"
+    },
+    "f2ab9304a2a0": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1807-06-20",
+      "end_date": "1829-03-02",
+      "filename": "f2ab9304a2a0.json"
+    },
+    "a81a7a885dce": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1807-06-20",
+      "end_date": "1816-02-06",
+      "filename": "a81a7a885dce.json"
+    },
+    "64216f13af97": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD (Me.)",
+      "start_date": "1808-03-08",
+      "end_date": "1814-01-27",
+      "filename": "64216f13af97.json"
+    },
+    "5a612cd94607": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1808-03-08",
+      "end_date": "1809-05-31",
+      "filename": "5a612cd94607.json"
+    },
+    "f1e00733a5de": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1809-06-01",
+      "end_date": "1811-06-20",
+      "filename": "f1e00733a5de.json"
+    },
+    "b073e11c7c49": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1809-06-01",
+      "end_date": "1811-02-24",
+      "filename": "b073e11c7c49.json"
+    },
+    "5fd00fb75f87": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1811-12-02",
+      "end_date": "1816-02-06",
+      "filename": "5fd00fb75f87.json"
+    },
+    "6aea933d130a": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1841-02-22",
+      "end_date": "1868-01-05",
+      "filename": "6aea933d130a.json"
+    },
+    "d79b984e7897": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1841-02-22",
+      "end_date": "1854-04-09",
+      "filename": "d79b984e7897.json"
+    },
+    "4396ac32031c": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1853-05-25",
+      "end_date": "1909-06-08",
+      "filename": "4396ac32031c.json"
+    },
+    "f95ad783c646": {
+      "county_id": "mas_hampden",
+      "name": "HAMPDEN",
+      "start_date": "1853-05-25",
+      "end_date": "1909-06-08",
+      "filename": "f95ad783c646.json"
+    },
+    "826500cc51f7": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1854-04-10",
+      "end_date": "1858-01-06",
+      "filename": "826500cc51f7.json"
+    },
+    "28a7b419a3b9": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1854-04-10",
+      "end_date": "1858-01-06",
+      "filename": "28a7b419a3b9.json"
+    },
+    "1c9f9205b42b": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1855-01-11",
+      "end_date": "2000-12-31",
+      "filename": "1c9f9205b42b.json"
+    },
+    "99eb81de6871": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1858-01-07",
+      "end_date": "1947-04-09",
+      "filename": "99eb81de6871.json"
+    },
+    "14d231c3d5e7": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1858-01-07",
+      "end_date": "1859-03-31",
+      "filename": "14d231c3d5e7.json"
+    },
+    "d708cda3d51b": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1811-12-02",
+      "end_date": "1812-07-31",
+      "filename": "d708cda3d51b.json"
+    },
+    "b798bddc5991": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1811-06-21",
+      "end_date": "1812-06-11",
+      "filename": "b798bddc5991.json"
+    },
+    "c5d13ded4803": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1811-06-21",
+      "end_date": "1812-06-11",
+      "filename": "c5d13ded4803.json"
+    },
+    "5e20a0eb8ff6": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1811-02-25",
+      "end_date": "1812-02-28",
+      "filename": "5e20a0eb8ff6.json"
+    },
+    "0c0239993bd5": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1811-02-25",
+      "end_date": "1812-02-28",
+      "filename": "0c0239993bd5.json"
+    },
+    "9e120a25db7d": {
+      "county_id": "mas_hampden",
+      "name": "HAMPDEN",
+      "start_date": "1812-08-01",
+      "end_date": "1831-02-06",
+      "filename": "9e120a25db7d.json"
+    },
+    "70e75d511ee8": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1812-08-01",
+      "end_date": "1822-01-27",
+      "filename": "70e75d511ee8.json"
+    },
+    "191d008a1ec8": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1812-06-12",
+      "end_date": "1813-02-15",
+      "filename": "191d008a1ec8.json"
+    },
+    "86296869a7bc": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1812-06-12",
+      "end_date": "1813-02-15",
+      "filename": "86296869a7bc.json"
+    },
+    "b28fd783aab2": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1812-02-29",
+      "end_date": "1813-02-25",
+      "filename": "b28fd783aab2.json"
+    },
+    "c704280895f4": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1812-02-29",
+      "end_date": "1820-03-14",
+      "filename": "c704280895f4.json"
+    },
+    "e9bec48102d1": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1813-02-26",
+      "end_date": "1817-06-13",
+      "filename": "e9bec48102d1.json"
+    },
+    "660a4503689f": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1813-02-26",
+      "end_date": "1814-01-27",
+      "filename": "660a4503689f.json"
+    },
+    "af433bf78d42": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1813-02-16",
+      "end_date": "1816-02-14",
+      "filename": "af433bf78d42.json"
+    },
+    "b3f69a600229": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1790-05-01",
+      "end_date": "1791-04-30",
+      "filename": "b3f69a600229.json"
+    },
+    "947033dbcd2a": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD (Me.)",
+      "start_date": "1814-01-28",
+      "end_date": "1819-02-01",
+      "filename": "947033dbcd2a.json"
+    },
+    "76f41cfe8296": {
+      "county_id": "mes_kennebec",
+      "name": "KENNEBEC (Me.)",
+      "start_date": "1814-01-28",
+      "end_date": "1820-03-14",
+      "filename": "76f41cfe8296.json"
+    },
+    "06c1660b562d": {
+      "county_id": "mes_oxford",
+      "name": "OXFORD (Me.)",
+      "start_date": "1819-02-02",
+      "end_date": "1820-03-14",
+      "filename": "06c1660b562d.json"
+    },
+    "08292b644f5a": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1813-02-16",
+      "end_date": "1813-02-25",
+      "filename": "08292b644f5a.json"
+    },
+    "72b81c270cce": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1816-06-17",
+      "end_date": "1820-03-14",
+      "filename": "72b81c270cce.json"
+    },
+    "a63974d087ac": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT (Me.)",
+      "start_date": "1816-06-17",
+      "end_date": "1817-06-13",
+      "filename": "a63974d087ac.json"
+    },
+    "ae1721594bec": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1816-02-07",
+      "end_date": "1823-02-07",
+      "filename": "ae1721594bec.json"
+    },
+    "f9767d9bf15f": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1816-02-07",
+      "end_date": "1822-01-27",
+      "filename": "f9767d9bf15f.json"
+    },
+    "f1acdec127d4": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT (Me.)",
+      "start_date": "1816-02-15",
+      "end_date": "1816-06-16",
+      "filename": "f1acdec127d4.json"
+    },
+    "28915c37d4da": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1816-02-15",
+      "end_date": "1816-06-16",
+      "filename": "28915c37d4da.json"
+    },
+    "35f4b831f663": {
+      "county_id": "mes_penobscot",
+      "name": "PENOBSCOT (Me.)",
+      "start_date": "1817-06-14",
+      "end_date": "1820-03-14",
+      "filename": "35f4b831f663.json"
+    },
+    "23e55990f185": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1817-06-14",
+      "end_date": "1819-02-01",
+      "filename": "23e55990f185.json"
+    },
+    "c6d04efa8f5a": {
+      "county_id": "mes_somerset",
+      "name": "SOMERSET (Me.)",
+      "start_date": "1819-02-02",
+      "end_date": "1820-03-14",
+      "filename": "c6d04efa8f5a.json"
+    },
+    "eeebd4140662": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1822-02-21",
+      "end_date": "1838-04-01",
+      "filename": "eeebd4140662.json"
+    },
+    "09fc99a09a6f": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1822-02-21",
+      "end_date": "1830-02-04",
+      "filename": "09fc99a09a6f.json"
+    },
+    "bb787b7ba195": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1822-01-28",
+      "end_date": "1823-02-07",
+      "filename": "bb787b7ba195.json"
+    },
+    "339eb299bc05": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1822-01-28",
+      "end_date": "1822-02-20",
+      "filename": "339eb299bc05.json"
+    },
+    "86acdbaf1fd4": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1823-02-08",
+      "end_date": "1853-05-24",
+      "filename": "86acdbaf1fd4.json"
+    },
+    "0ba1ba330c04": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1823-02-08",
+      "end_date": "1830-02-04",
+      "filename": "0ba1ba330c04.json"
+    },
+    "fd2c732e436c": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1829-03-03",
+      "end_date": "1835-03-26",
+      "filename": "fd2c732e436c.json"
+    },
+    "eb217575fc62": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1829-03-03",
+      "end_date": "1834-03-24",
+      "filename": "eb217575fc62.json"
+    },
+    "a7c2c92cce7b": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1830-02-05",
+      "end_date": "1837-03-15",
+      "filename": "a7c2c92cce7b.json"
+    },
+    "61406b8ee78f": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1830-02-05",
+      "end_date": "1831-02-06",
+      "filename": "61406b8ee78f.json"
+    },
+    "edc9d5fcf9fb": {
+      "county_id": "mas_hampden",
+      "name": "HAMPDEN",
+      "start_date": "1831-02-07",
+      "end_date": "1853-05-24",
+      "filename": "edc9d5fcf9fb.json"
+    },
+    "a3c97ab9c9e9": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1831-02-07",
+      "end_date": "1835-03-26",
+      "filename": "a3c97ab9c9e9.json"
+    },
+    "eae89c010af3": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1834-03-25",
+      "end_date": "1841-02-21",
+      "filename": "eae89c010af3.json"
+    },
+    "de8e6a68150f": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1834-03-25",
+      "end_date": "1838-04-22",
+      "filename": "de8e6a68150f.json"
+    },
+    "d5ff1c7e0705": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1835-03-27",
+      "end_date": "1838-04-22",
+      "filename": "d5ff1c7e0705.json"
+    },
+    "b48522443a1f": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1835-03-27",
+      "end_date": "1837-03-15",
+      "filename": "b48522443a1f.json"
+    },
+    "f112c852b32f": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1837-03-16",
+      "end_date": "1859-03-31",
+      "filename": "f112c852b32f.json"
+    },
+    "73e844ac57fc": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1837-03-16",
+      "end_date": "1838-04-01",
+      "filename": "73e844ac57fc.json"
+    },
+    "ca299075a168": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1838-04-02",
+      "end_date": "1938-04-27",
+      "filename": "ca299075a168.json"
+    },
+    "5c4d2a9b9596": {
+      "county_id": "mas_berkshire",
+      "name": "BERKSHIRE",
+      "start_date": "1838-04-02",
+      "end_date": "1855-01-10",
+      "filename": "5c4d2a9b9596.json"
+    },
+    "356144dee127": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1838-04-23",
+      "end_date": "1868-01-05",
+      "filename": "356144dee127.json"
+    },
+    "e7bf8623b969": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1838-04-23",
+      "end_date": "1854-04-09",
+      "filename": "e7bf8623b969.json"
+    },
+    "cf1282a1c4c0": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1859-04-01",
+      "end_date": "1868-03-19",
+      "filename": "cf1282a1c4c0.json"
+    },
+    "d9e3a07ecf74": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1859-04-01",
+      "end_date": "1868-03-19",
+      "filename": "d9e3a07ecf74.json"
+    },
+    "49e18b07eba4": {
+      "county_id": "mas_bristol",
+      "name": "BRISTOL",
+      "start_date": "1862-03-01",
+      "end_date": "2000-12-31",
+      "filename": "49e18b07eba4.json"
+    },
+    "f1b5503af06f": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1868-03-20",
+      "end_date": "1874-01-04",
+      "filename": "f1b5503af06f.json"
+    },
+    "ce4eba918b0b": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1868-03-20",
+      "end_date": "1872-03-06",
+      "filename": "ce4eba918b0b.json"
+    },
+    "1f195a926ed5": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1868-01-06",
+      "end_date": "1870-01-02",
+      "filename": "1f195a926ed5.json"
+    },
+    "4dc21047907a": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1868-01-06",
+      "end_date": "1870-01-02",
+      "filename": "4dc21047907a.json"
+    },
+    "9bc03e33040e": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1870-01-03",
+      "end_date": "1874-01-04",
+      "filename": "9bc03e33040e.json"
+    },
+    "9282249a97a7": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1870-01-03",
+      "end_date": "1872-03-06",
+      "filename": "9282249a97a7.json"
+    },
+    "e371660c1580": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1872-03-07",
+      "end_date": "1938-04-27",
+      "filename": "e371660c1580.json"
+    },
+    "13d3f0cd4a31": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1872-03-07",
+      "end_date": "1874-01-04",
+      "filename": "13d3f0cd4a31.json"
+    },
+    "3fd52ab8aaf7": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1874-05-08",
+      "end_date": "1911-12-31",
+      "filename": "3fd52ab8aaf7.json"
+    },
+    "18b9f24ed37d": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1874-05-08",
+      "end_date": "1911-12-31",
+      "filename": "18b9f24ed37d.json"
+    },
+    "b8e156a6028d": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1874-01-05",
+      "end_date": "1947-04-09",
+      "filename": "b8e156a6028d.json"
+    },
+    "56d54cd9961d": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1874-01-05",
+      "end_date": "1874-05-07",
+      "filename": "56d54cd9961d.json"
+    },
+    "e835fd6fea2a": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1874-01-05",
+      "end_date": "1874-05-07",
+      "filename": "e835fd6fea2a.json"
+    },
+    "b77305b02165": {
+      "county_id": "mas_hampden",
+      "name": "HAMPDEN",
+      "start_date": "1909-06-09",
+      "end_date": "2000-12-31",
+      "filename": "b77305b02165.json"
+    },
+    "f09c12ec1308": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1909-06-09",
+      "end_date": "1938-04-27",
+      "filename": "f09c12ec1308.json"
+    },
+    "98441214b240": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK",
+      "start_date": "1912-01-01",
+      "end_date": "2000-12-31",
+      "filename": "98441214b240.json"
+    },
+    "a36c5ef1ae3d": {
+      "county_id": "mas_norfolk",
+      "name": "NORFOLK",
+      "start_date": "1912-01-01",
+      "end_date": "2000-12-31",
+      "filename": "a36c5ef1ae3d.json"
+    },
+    "d0370f3ff7e4": {
+      "county_id": "mas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1938-04-28",
+      "end_date": "2000-12-31",
+      "filename": "d0370f3ff7e4.json"
+    },
+    "4b84344276f7": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER",
+      "start_date": "1938-04-28",
+      "end_date": "2000-12-31",
+      "filename": "4b84344276f7.json"
+    },
+    "abeeb6435ced": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1938-04-28",
+      "end_date": "2000-12-31",
+      "filename": "abeeb6435ced.json"
+    },
+    "9d05263ccd41": {
+      "county_id": "mas_essex",
+      "name": "ESSEX",
+      "start_date": "1947-04-10",
+      "end_date": "2000-12-31",
+      "filename": "9d05263ccd41.json"
+    },
+    "fbbaaf54b3d2": {
+      "county_id": "mas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1947-04-10",
+      "end_date": "2000-12-31",
+      "filename": "fbbaaf54b3d2.json"
+    },
+    "dc30345c5fdc": {
+      "county_id": "mes_cumberland",
+      "name": "CUMBERLAND (Me.)",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "dc30345c5fdc.json"
+    },
+    "80b6c74212e0": {
+      "county_id": "mes_york",
+      "name": "YORK (Me.)",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "80b6c74212e0.json"
+    },
+    "504e2f31deba": {
+      "county_id": "mes_lincoln",
+      "name": "LINCOLN (Me.)",
+      "start_date": "1760-11-01",
+      "end_date": "1763-10-06",
+      "filename": "504e2f31deba.json"
+    },
+    "85260d7319e1": {
+      "county_id": "mes_hancock",
+      "name": "HANCOCK (Me.)",
+      "start_date": "1790-05-01",
+      "end_date": "1791-04-30",
+      "filename": "85260d7319e1.json"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "state": "DC",
+  "total_features": 7,
+  "features": {
+    "758dcd3fdfc4": {
+      "county_id": "dcs",
+      "name": "District of Columbia",
+      "start_date": "1791-03-30",
+      "end_date": "1846-09-06",
+      "filename": "758dcd3fdfc4.json"
+    },
+    "c765b680197e": {
+      "county_id": "mds_montgomery",
+      "name": "MONTGOMERY (Md.)",
+      "start_date": "1791-03-30",
+      "end_date": "1801-02-26",
+      "filename": "c765b680197e.json"
+    },
+    "caa524c942f0": {
+      "county_id": "mds_princegeorges",
+      "name": "PRINCE GEORGES (Md.)",
+      "start_date": "1791-03-30",
+      "end_date": "1801-02-26",
+      "filename": "caa524c942f0.json"
+    },
+    "298bc1868f4a": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX (Va.)",
+      "start_date": "1791-03-30",
+      "end_date": "1801-02-26",
+      "filename": "298bc1868f4a.json"
+    },
+    "6fa9010cf846": {
+      "county_id": "dcs_washington",
+      "name": "WASHINGTON (ext)",
+      "start_date": "1801-02-27",
+      "end_date": "1871-02-20",
+      "filename": "6fa9010cf846.json"
+    },
+    "05bba2050eb8": {
+      "county_id": "vas_arlington",
+      "name": "ALEXANDRIA",
+      "start_date": "1801-02-27",
+      "end_date": "1846-09-06",
+      "filename": "05bba2050eb8.json"
+    },
+    "77d3b26a47d3": {
+      "county_id": "dcs",
+      "name": "District of Columbia",
+      "start_date": "1846-09-07",
+      "end_date": "2000-12-31",
+      "filename": "77d3b26a47d3.json"
+    }
+  }
+}

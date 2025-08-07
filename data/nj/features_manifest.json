@@ -1,0 +1,874 @@
+{
+  "state": "NJ",
+  "total_features": 124,
+  "features": {
+    "b87e140adcbd": {
+      "county_id": "njs_ncaeast",
+      "name": "NCA (East)",
+      "start_date": "1676-07-01",
+      "end_date": "1683-03-06",
+      "filename": "b87e140adcbd.json"
+    },
+    "00f59c3175af": {
+      "county_id": "njs_ncawest",
+      "name": "NCA (West)",
+      "start_date": "1676-07-01",
+      "end_date": "1681-12-30",
+      "filename": "00f59c3175af.json"
+    },
+    "800fbfd1b8b9": {
+      "county_id": "njs_ica",
+      "name": "ICA",
+      "start_date": "1681-12-31",
+      "end_date": "1687-01-07",
+      "filename": "800fbfd1b8b9.json"
+    },
+    "3190ff78debe": {
+      "county_id": "njs_ncawest",
+      "name": "NCA (West)",
+      "start_date": "1681-12-31",
+      "end_date": "1687-01-07",
+      "filename": "3190ff78debe.json"
+    },
+    "62f7b8522972": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1683-03-07",
+      "end_date": "1687-01-07",
+      "filename": "62f7b8522972.json"
+    },
+    "6315a8ec3b77": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1683-03-07",
+      "end_date": "1687-01-07",
+      "filename": "6315a8ec3b77.json"
+    },
+    "cd186aad7127": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1683-03-07",
+      "end_date": "1687-01-07",
+      "filename": "cd186aad7127.json"
+    },
+    "cea861f46bb4": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1683-03-07",
+      "end_date": "1710-01-20",
+      "filename": "cea861f46bb4.json"
+    },
+    "51b6b706daac": {
+      "county_id": "njs_ncawest",
+      "name": "NCA (West)",
+      "start_date": "1687-01-08",
+      "end_date": "1688-09-04",
+      "filename": "51b6b706daac.json"
+    },
+    "26f6f479b062": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1687-01-08",
+      "end_date": "1710-01-20",
+      "filename": "26f6f479b062.json"
+    },
+    "e59483aec210": {
+      "county_id": "njs_ica",
+      "name": "ICA",
+      "start_date": "1687-01-08",
+      "end_date": "1692-11-11",
+      "filename": "e59483aec210.json"
+    },
+    "43e0ce7db0be": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1687-01-08",
+      "end_date": "1688-05-13",
+      "filename": "43e0ce7db0be.json"
+    },
+    "e52c13c29cd8": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1687-01-08",
+      "end_date": "1688-09-04",
+      "filename": "e52c13c29cd8.json"
+    },
+    "fdc73e42c879": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1688-09-05",
+      "end_date": "1710-01-20",
+      "filename": "fdc73e42c879.json"
+    },
+    "ff56607117df": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1688-09-05",
+      "end_date": "1710-01-20",
+      "filename": "ff56607117df.json"
+    },
+    "6bd9c5500362": {
+      "county_id": "njs_ncawest",
+      "name": "NCA (West)",
+      "start_date": "1688-09-05",
+      "end_date": "1710-01-20",
+      "filename": "6bd9c5500362.json"
+    },
+    "9631cabb6f5d": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1688-05-14",
+      "end_date": "1710-01-20",
+      "filename": "9631cabb6f5d.json"
+    },
+    "8a716c66c0ab": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1688-05-14",
+      "end_date": "1688-09-04",
+      "filename": "8a716c66c0ab.json"
+    },
+    "7d63a8d13f55": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1692-11-12",
+      "end_date": "1694-05-16",
+      "filename": "7d63a8d13f55.json"
+    },
+    "213b531fddab": {
+      "county_id": "njs_ica",
+      "name": "ICA",
+      "start_date": "1692-11-12",
+      "end_date": "1694-05-16",
+      "filename": "213b531fddab.json"
+    },
+    "9624493b3494": {
+      "county_id": "njs_ica",
+      "name": "ICA",
+      "start_date": "1694-05-17",
+      "end_date": "1710-01-20",
+      "filename": "9624493b3494.json"
+    },
+    "72e92d78fbef": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1694-05-17",
+      "end_date": "1710-01-20",
+      "filename": "72e92d78fbef.json"
+    },
+    "45d3d1ddbc04": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1710-01-21",
+      "end_date": "1714-03-14",
+      "filename": "45d3d1ddbc04.json"
+    },
+    "de0e0d16b7bb": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1710-01-21",
+      "end_date": "1714-03-14",
+      "filename": "de0e0d16b7bb.json"
+    },
+    "d8227fc2ff6a": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1710-01-21",
+      "end_date": "1844-03-12",
+      "filename": "d8227fc2ff6a.json"
+    },
+    "a5e7a3b9690c": {
+      "county_id": "njs_salem",
+      "name": "SALEM",
+      "start_date": "1710-01-21",
+      "end_date": "1748-01-18",
+      "filename": "a5e7a3b9690c.json"
+    },
+    "386f7dbd5dcd": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1710-01-21",
+      "end_date": "1837-02-06",
+      "filename": "386f7dbd5dcd.json"
+    },
+    "19e22c0cf712": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1710-01-21",
+      "end_date": "1773-08-31",
+      "filename": "19e22c0cf712.json"
+    },
+    "3de9e533b620": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1710-01-21",
+      "end_date": "1739-03-14",
+      "filename": "3de9e533b620.json"
+    },
+    "f567fc767fd7": {
+      "county_id": "njs_burlington",
+      "name": "BURLINGTON",
+      "start_date": "1710-01-21",
+      "end_date": "1714-03-10",
+      "filename": "f567fc767fd7.json"
+    },
+    "468a5a9a0926": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1710-01-21",
+      "end_date": "1844-02-27",
+      "filename": "468a5a9a0926.json"
+    },
+    "1898e646fceb": {
+      "county_id": "njs_ncawest",
+      "name": "NCA (West)",
+      "start_date": "1710-01-21",
+      "end_date": "1714-03-10",
+      "filename": "1898e646fceb.json"
+    },
+    "fc02723511ff": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1714-03-15",
+      "end_date": "1741-11-03",
+      "filename": "fc02723511ff.json"
+    },
+    "2136199e8f04": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1714-03-15",
+      "end_date": "1838-02-21",
+      "filename": "2136199e8f04.json"
+    },
+    "12a2011c0888": {
+      "county_id": "njs_burlington",
+      "name": "BURLINGTON",
+      "start_date": "1714-03-11",
+      "end_date": "1838-02-21",
+      "filename": "12a2011c0888.json"
+    },
+    "5be2e449452b": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1714-03-11",
+      "end_date": "1739-03-14",
+      "filename": "5be2e449452b.json"
+    },
+    "5bf62cc7c212": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1739-03-15",
+      "end_date": "1741-11-03",
+      "filename": "5bf62cc7c212.json"
+    },
+    "f13e7e159e40": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1739-03-15",
+      "end_date": "1838-02-21",
+      "filename": "f13e7e159e40.json"
+    },
+    "b9020ec99f29": {
+      "county_id": "njs_morris",
+      "name": "MORRIS",
+      "start_date": "1739-03-15",
+      "end_date": "1753-06-07",
+      "filename": "b9020ec99f29.json"
+    },
+    "2f51c9b5afaa": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1741-11-04",
+      "end_date": "1837-02-06",
+      "filename": "2f51c9b5afaa.json"
+    },
+    "c31c8429614e": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1741-11-04",
+      "end_date": "1838-02-26",
+      "filename": "c31c8429614e.json"
+    },
+    "073eb795e6bd": {
+      "county_id": "njs_salem",
+      "name": "SALEM",
+      "start_date": "1748-01-19",
+      "end_date": "1867-04-09",
+      "filename": "073eb795e6bd.json"
+    },
+    "fba8ad0e02b7": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1748-01-19",
+      "end_date": "1844-03-12",
+      "filename": "fba8ad0e02b7.json"
+    },
+    "04d2e3530f07": {
+      "county_id": "njs_morris",
+      "name": "MORRIS",
+      "start_date": "1753-06-08",
+      "end_date": "2000-12-31",
+      "filename": "04d2e3530f07.json"
+    },
+    "58cea1ca1042": {
+      "county_id": "njs_sussex",
+      "name": "SUSSEX",
+      "start_date": "1753-06-08",
+      "end_date": "1773-08-31",
+      "filename": "58cea1ca1042.json"
+    },
+    "aa0867ff7c03": {
+      "county_id": "njs_sussex",
+      "name": "SUSSEX",
+      "start_date": "1773-09-01",
+      "end_date": "1824-11-19",
+      "filename": "aa0867ff7c03.json"
+    },
+    "6bb87cec8c68": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1773-09-01",
+      "end_date": "1837-02-06",
+      "filename": "6bb87cec8c68.json"
+    },
+    "5f237e985c77": {
+      "county_id": "njs_sussex",
+      "name": "SUSSEX",
+      "start_date": "1824-11-20",
+      "end_date": "2000-12-31",
+      "filename": "5f237e985c77.json"
+    },
+    "87b972112118": {
+      "county_id": "njs_warren",
+      "name": "WARREN",
+      "start_date": "1824-11-20",
+      "end_date": "2000-12-31",
+      "filename": "87b972112118.json"
+    },
+    "fdd29acec620": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1837-02-07",
+      "end_date": "1844-03-12",
+      "filename": "fdd29acec620.json"
+    },
+    "3a77be1625c4": {
+      "county_id": "njs_atlantic",
+      "name": "ATLANTIC",
+      "start_date": "1837-02-07",
+      "end_date": "1902-04-02",
+      "filename": "3a77be1625c4.json"
+    },
+    "98f9fdb4566d": {
+      "county_id": "njs_passaic",
+      "name": "PASSAIC",
+      "start_date": "1837-02-07",
+      "end_date": "1907-10-27",
+      "filename": "98f9fdb4566d.json"
+    },
+    "751cffae3a38": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1837-02-07",
+      "end_date": "1857-03-18",
+      "filename": "751cffae3a38.json"
+    },
+    "739820ea7ea1": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1837-02-07",
+      "end_date": "1840-02-21",
+      "filename": "739820ea7ea1.json"
+    },
+    "f094ff2fd404": {
+      "county_id": "njs_mercer",
+      "name": "MERCER",
+      "start_date": "1838-02-27",
+      "end_date": "1839-02-13",
+      "filename": "f094ff2fd404.json"
+    },
+    "265f8cdca9ca": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1838-02-27",
+      "end_date": "1844-03-12",
+      "filename": "265f8cdca9ca.json"
+    },
+    "291c741083de": {
+      "county_id": "njs_mercer",
+      "name": "MERCER",
+      "start_date": "1838-02-22",
+      "end_date": "1838-02-26",
+      "filename": "291c741083de.json"
+    },
+    "d21949fd39ce": {
+      "county_id": "njs_burlington",
+      "name": "BURLINGTON",
+      "start_date": "1838-02-22",
+      "end_date": "1891-03-29",
+      "filename": "d21949fd39ce.json"
+    },
+    "7facf0afd315": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1838-02-22",
+      "end_date": "1839-02-13",
+      "filename": "7facf0afd315.json"
+    },
+    "2aec1888f8af": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1838-02-22",
+      "end_date": "1844-02-27",
+      "filename": "2aec1888f8af.json"
+    },
+    "a34789b0dcaf": {
+      "county_id": "njs_mercer",
+      "name": "MERCER",
+      "start_date": "1839-02-14",
+      "end_date": "1844-03-12",
+      "filename": "a34789b0dcaf.json"
+    },
+    "ac638898a45d": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1839-02-14",
+      "end_date": "1844-03-12",
+      "filename": "ac638898a45d.json"
+    },
+    "5f8129154ae8": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1840-02-22",
+      "end_date": "1852-02-18",
+      "filename": "5f8129154ae8.json"
+    },
+    "a842fd39b530": {
+      "county_id": "njs_hudson",
+      "name": "HUDSON",
+      "start_date": "1840-02-22",
+      "end_date": "1852-02-18",
+      "filename": "a842fd39b530.json"
+    },
+    "15b7f5afb3d2": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1844-02-28",
+      "end_date": "1845-03-20",
+      "filename": "15b7f5afb3d2.json"
+    },
+    "13a46ec01b25": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1844-02-28",
+      "end_date": "1845-03-20",
+      "filename": "13a46ec01b25.json"
+    },
+    "6d454b325ebc": {
+      "county_id": "njs_mercer",
+      "name": "MERCER",
+      "start_date": "1844-03-13",
+      "end_date": "1845-02-04",
+      "filename": "6d454b325ebc.json"
+    },
+    "68e2e91b9c2c": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1844-03-13",
+      "end_date": "1845-02-04",
+      "filename": "68e2e91b9c2c.json"
+    },
+    "79f0f6394c08": {
+      "county_id": "njs_camden",
+      "name": "CAMDEN",
+      "start_date": "1844-03-13",
+      "end_date": "1871-02-27",
+      "filename": "79f0f6394c08.json"
+    },
+    "95ddee9a151c": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1844-03-13",
+      "end_date": "1871-02-27",
+      "filename": "95ddee9a151c.json"
+    },
+    "96f91227913e": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1844-03-13",
+      "end_date": "1845-02-25",
+      "filename": "96f91227913e.json"
+    },
+    "a747ab1a12e6": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1844-03-13",
+      "end_date": "1845-02-13",
+      "filename": "a747ab1a12e6.json"
+    },
+    "5d637db786ac": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1844-03-13",
+      "end_date": "1845-02-25",
+      "filename": "5d637db786ac.json"
+    },
+    "7add229b976c": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1845-02-14",
+      "end_date": "2000-12-31",
+      "filename": "7add229b976c.json"
+    },
+    "ea2c0cd20582": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1845-02-14",
+      "end_date": "1850-01-31",
+      "filename": "ea2c0cd20582.json"
+    },
+    "7b90743f8fd1": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1845-02-26",
+      "end_date": "1867-04-09",
+      "filename": "7b90743f8fd1.json"
+    },
+    "3647e595f039": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1845-02-26",
+      "end_date": "1878-03-25",
+      "filename": "3647e595f039.json"
+    },
+    "61b859aa820c": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1845-03-21",
+      "end_date": "1847-02-23",
+      "filename": "61b859aa820c.json"
+    },
+    "a3f14362bfa3": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1845-03-21",
+      "end_date": "1847-02-23",
+      "filename": "a3f14362bfa3.json"
+    },
+    "09b4fbd0967d": {
+      "county_id": "njs_mercer",
+      "name": "MERCER",
+      "start_date": "1845-02-05",
+      "end_date": "2000-12-31",
+      "filename": "09b4fbd0967d.json"
+    },
+    "89ea322ced60": {
+      "county_id": "njs_hunterdon",
+      "name": "HUNTERDON",
+      "start_date": "1845-02-05",
+      "end_date": "1845-02-13",
+      "filename": "89ea322ced60.json"
+    },
+    "45f7b702c36b": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1847-02-24",
+      "end_date": "1850-01-31",
+      "filename": "45f7b702c36b.json"
+    },
+    "2a751407db65": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1847-02-24",
+      "end_date": "1850-02-14",
+      "filename": "2a751407db65.json"
+    },
+    "27f24fbac948": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1850-02-01",
+      "end_date": "1860-02-15",
+      "filename": "27f24fbac948.json"
+    },
+    "88d5c9911da0": {
+      "county_id": "njs_somerset",
+      "name": "SOMERSET",
+      "start_date": "1850-02-01",
+      "end_date": "2000-12-31",
+      "filename": "88d5c9911da0.json"
+    },
+    "bf5b4ea7c01f": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1850-02-15",
+      "end_date": "1869-03-01",
+      "filename": "bf5b4ea7c01f.json"
+    },
+    "aa7a4c31b288": {
+      "county_id": "njs_ocean",
+      "name": "OCEAN",
+      "start_date": "1850-02-15",
+      "end_date": "1869-03-01",
+      "filename": "aa7a4c31b288.json"
+    },
+    "ab05bad5b300": {
+      "county_id": "njs_bergen",
+      "name": "BERGEN",
+      "start_date": "1852-02-19",
+      "end_date": "2000-12-31",
+      "filename": "ab05bad5b300.json"
+    },
+    "51ce4cce05f8": {
+      "county_id": "njs_hudson",
+      "name": "HUDSON",
+      "start_date": "1852-02-19",
+      "end_date": "2000-12-31",
+      "filename": "51ce4cce05f8.json"
+    },
+    "6810ffd5584e": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1857-03-19",
+      "end_date": "1891-02-16",
+      "filename": "6810ffd5584e.json"
+    },
+    "734440281f21": {
+      "county_id": "njs_union",
+      "name": "UNION",
+      "start_date": "1857-03-19",
+      "end_date": "1860-02-15",
+      "filename": "734440281f21.json"
+    },
+    "efca49528000": {
+      "county_id": "njs_union",
+      "name": "UNION",
+      "start_date": "1860-02-16",
+      "end_date": "1871-04-04",
+      "filename": "efca49528000.json"
+    },
+    "eb39673fd71c": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1860-02-16",
+      "end_date": "1871-04-04",
+      "filename": "eb39673fd71c.json"
+    },
+    "13623d6b5095": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1867-04-10",
+      "end_date": "1868-02-24",
+      "filename": "13623d6b5095.json"
+    },
+    "790207930a42": {
+      "county_id": "njs_salem",
+      "name": "SALEM",
+      "start_date": "1867-04-10",
+      "end_date": "1868-02-24",
+      "filename": "790207930a42.json"
+    },
+    "e2fc0337a828": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1868-02-25",
+      "end_date": "1878-03-25",
+      "filename": "e2fc0337a828.json"
+    },
+    "793e3267f3b9": {
+      "county_id": "njs_salem",
+      "name": "SALEM",
+      "start_date": "1868-02-25",
+      "end_date": "2000-12-31",
+      "filename": "793e3267f3b9.json"
+    },
+    "0c47210e53cc": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1869-03-02",
+      "end_date": "1928-04-02",
+      "filename": "0c47210e53cc.json"
+    },
+    "7a2dd96c2ed4": {
+      "county_id": "njs_ocean",
+      "name": "OCEAN",
+      "start_date": "1869-03-02",
+      "end_date": "1891-03-29",
+      "filename": "7a2dd96c2ed4.json"
+    },
+    "cc0494b4d504": {
+      "county_id": "njs_camden",
+      "name": "CAMDEN",
+      "start_date": "1871-02-28",
+      "end_date": "1902-04-02",
+      "filename": "cc0494b4d504.json"
+    },
+    "160bcf3a4fb1": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1871-02-28",
+      "end_date": "1892-03-27",
+      "filename": "160bcf3a4fb1.json"
+    },
+    "115023f2685d": {
+      "county_id": "njs_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1871-04-05",
+      "end_date": "2000-12-31",
+      "filename": "115023f2685d.json"
+    },
+    "9dbb7d10d94c": {
+      "county_id": "njs_union",
+      "name": "UNION",
+      "start_date": "1871-04-05",
+      "end_date": "1891-02-16",
+      "filename": "9dbb7d10d94c.json"
+    },
+    "434f1e6460b5": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1878-03-26",
+      "end_date": "1891-04-01",
+      "filename": "434f1e6460b5.json"
+    },
+    "257951e864d9": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1878-03-26",
+      "end_date": "1891-04-01",
+      "filename": "257951e864d9.json"
+    },
+    "f9fb9264c866": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1891-02-17",
+      "end_date": "1907-10-27",
+      "filename": "f9fb9264c866.json"
+    },
+    "7275f0ac9623": {
+      "county_id": "njs_union",
+      "name": "UNION",
+      "start_date": "1891-02-17",
+      "end_date": "2000-12-31",
+      "filename": "7275f0ac9623.json"
+    },
+    "176e22ef66b8": {
+      "county_id": "njs_ocean",
+      "name": "OCEAN",
+      "start_date": "1891-03-30",
+      "end_date": "1928-04-02",
+      "filename": "176e22ef66b8.json"
+    },
+    "f6fce170b3b0": {
+      "county_id": "njs_burlington",
+      "name": "BURLINGTON",
+      "start_date": "1891-03-30",
+      "end_date": "1902-04-02",
+      "filename": "f6fce170b3b0.json"
+    },
+    "a7e578343bb6": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1891-04-02",
+      "end_date": "1892-03-27",
+      "filename": "a7e578343bb6.json"
+    },
+    "04abacb0b5e0": {
+      "county_id": "njs_capemay",
+      "name": "CAPE MAY",
+      "start_date": "1891-04-02",
+      "end_date": "2000-12-31",
+      "filename": "04abacb0b5e0.json"
+    },
+    "a49527c0f90d": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1892-03-28",
+      "end_date": "1897-04-08",
+      "filename": "a49527c0f90d.json"
+    },
+    "8f340d037bf9": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1892-03-28",
+      "end_date": "1897-04-08",
+      "filename": "8f340d037bf9.json"
+    },
+    "96c79aa27457": {
+      "county_id": "njs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1897-04-09",
+      "end_date": "2000-12-31",
+      "filename": "96c79aa27457.json"
+    },
+    "0d1b60b4e81b": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1897-04-09",
+      "end_date": "1926-03-14",
+      "filename": "0d1b60b4e81b.json"
+    },
+    "3d71e43e9217": {
+      "county_id": "njs_burlington",
+      "name": "BURLINGTON",
+      "start_date": "1902-04-03",
+      "end_date": "2000-12-31",
+      "filename": "3d71e43e9217.json"
+    },
+    "0881070edccb": {
+      "county_id": "njs_atlantic",
+      "name": "ATLANTIC",
+      "start_date": "1902-04-03",
+      "end_date": "2000-12-31",
+      "filename": "0881070edccb.json"
+    },
+    "25f1bcde6e25": {
+      "county_id": "njs_camden",
+      "name": "CAMDEN",
+      "start_date": "1902-04-03",
+      "end_date": "1926-03-14",
+      "filename": "25f1bcde6e25.json"
+    },
+    "702d394d49b7": {
+      "county_id": "njs_passaic",
+      "name": "PASSAIC",
+      "start_date": "1907-10-28",
+      "end_date": "2000-12-31",
+      "filename": "702d394d49b7.json"
+    },
+    "9cf62b8a2625": {
+      "county_id": "njs_essex",
+      "name": "ESSEX",
+      "start_date": "1907-10-28",
+      "end_date": "2000-12-31",
+      "filename": "9cf62b8a2625.json"
+    },
+    "ad3efc5efcde": {
+      "county_id": "njs_camden",
+      "name": "CAMDEN",
+      "start_date": "1926-03-15",
+      "end_date": "2000-12-31",
+      "filename": "ad3efc5efcde.json"
+    },
+    "bdcc09dbf6a9": {
+      "county_id": "njs_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1926-03-15",
+      "end_date": "2000-12-31",
+      "filename": "bdcc09dbf6a9.json"
+    },
+    "6f55e09b914b": {
+      "county_id": "njs_monmouth",
+      "name": "MONMOUTH",
+      "start_date": "1928-04-03",
+      "end_date": "2000-12-31",
+      "filename": "6f55e09b914b.json"
+    },
+    "4892f484845c": {
+      "county_id": "njs_ocean",
+      "name": "OCEAN",
+      "start_date": "1928-04-03",
+      "end_date": "2000-12-31",
+      "filename": "4892f484845c.json"
+    }
+  }
+}

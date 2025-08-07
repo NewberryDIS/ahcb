@@ -1,0 +1,1511 @@
+{
+  "state": "NM",
+  "total_features": 215,
+  "features": {
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "76c7463a526b": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "76c7463a526b.json"
+    },
+    "2a0cd9a030a7": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "2a0cd9a030a7.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "47e5784ac5e0": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1819-02-21",
+      "filename": "47e5784ac5e0.json"
+    },
+    "d961ff55a90e": {
+      "county_id": "mex_part",
+      "name": "Spanish Mexico",
+      "start_date": "1819-02-22",
+      "end_date": "1821-08-23",
+      "filename": "d961ff55a90e.json"
+    },
+    "1c68b54ef81c": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1821-08-24",
+      "end_date": "1846-09-21",
+      "filename": "1c68b54ef81c.json"
+    },
+    "88b80dcf0db6": {
+      "county_id": "txs_part",
+      "name": "Texas",
+      "start_date": "1836-12-19",
+      "end_date": "1845-12-28",
+      "filename": "88b80dcf0db6.json"
+    },
+    "af1f8bffc8bd": {
+      "county_id": "txs_part",
+      "name": "Texas",
+      "start_date": "1845-12-29",
+      "end_date": "1850-12-12",
+      "filename": "af1f8bffc8bd.json"
+    },
+    "c983f51186cc": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "c983f51186cc.json"
+    },
+    "47f91567767e": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "47f91567767e.json"
+    },
+    "d77949203ee9": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "d77949203ee9.json"
+    },
+    "c3c7a6d5576c": {
+      "county_id": "nmt_santaana",
+      "name": "SANTA ANA (ext)",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "c3c7a6d5576c.json"
+    },
+    "4c0d2580a20c": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "4c0d2580a20c.json"
+    },
+    "e41d795d08f1": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "e41d795d08f1.json"
+    },
+    "c27fbd714097": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1846-09-22",
+      "end_date": "1852-01-08",
+      "filename": "c27fbd714097.json"
+    },
+    "5d4e9a0497cd": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1846-09-22",
+      "end_date": "1848-07-03",
+      "filename": "5d4e9a0497cd.json"
+    },
+    "6910e8f6877d": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1848-07-04",
+      "end_date": "1850-12-12",
+      "filename": "6910e8f6877d.json"
+    },
+    "cfe96063c9ec": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1848-07-04",
+      "end_date": "1850-12-12",
+      "filename": "cfe96063c9ec.json"
+    },
+    "7b11f60ed9be": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1850-12-13",
+      "end_date": "1853-12-29",
+      "filename": "7b11f60ed9be.json"
+    },
+    "361e2f435eb5": {
+      "county_id": "nmt_disputed",
+      "name": "Disputed Area",
+      "start_date": "1850-12-13",
+      "end_date": "1853-12-29",
+      "filename": "361e2f435eb5.json"
+    },
+    "9d307a30c68b": {
+      "county_id": "nms_nca1",
+      "name": "NCA 1",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "9d307a30c68b.json"
+    },
+    "568e1b26f985": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1852-01-09",
+      "end_date": "1864-02-02",
+      "filename": "568e1b26f985.json"
+    },
+    "45839456548d": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1852-01-09",
+      "end_date": "1864-02-02",
+      "filename": "45839456548d.json"
+    },
+    "ae84511952ac": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "ae84511952ac.json"
+    },
+    "f70226dc5614": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "f70226dc5614.json"
+    },
+    "5f363ec5b242": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "5f363ec5b242.json"
+    },
+    "505d4906bbc1": {
+      "county_id": "nmt_santaana",
+      "name": "SANTA ANA (ext)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "505d4906bbc1.json"
+    },
+    "a4e927a607e6": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "a4e927a607e6.json"
+    },
+    "f6eba8846612": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1852-01-09",
+      "end_date": "1855-02-02",
+      "filename": "f6eba8846612.json"
+    },
+    "cfb6526178f3": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1852-01-09",
+      "end_date": "1860-01-31",
+      "filename": "cfb6526178f3.json"
+    },
+    "b98548e22b97": {
+      "county_id": "nms_gdp",
+      "name": "Gadsden Purchase",
+      "start_date": "1853-12-30",
+      "end_date": "1854-08-03",
+      "filename": "b98548e22b97.json"
+    },
+    "ff3d0ebd127d": {
+      "county_id": "nms_nca2",
+      "name": "NCA 2",
+      "start_date": "1854-08-04",
+      "end_date": "1855-02-02",
+      "filename": "ff3d0ebd127d.json"
+    },
+    "99607eefb2f9": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1855-02-03",
+      "end_date": "1860-01-31",
+      "filename": "99607eefb2f9.json"
+    },
+    "681cb112c7b2": {
+      "county_id": "nmt_arizona",
+      "name": "ARIZONA (ext)",
+      "start_date": "1860-02-01",
+      "end_date": "1862-01-17",
+      "filename": "681cb112c7b2.json"
+    },
+    "7f0e2ba68950": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1860-02-01",
+      "end_date": "1862-01-17",
+      "filename": "7f0e2ba68950.json"
+    },
+    "eb0c8134396f": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1860-02-01",
+      "end_date": "1861-02-27",
+      "filename": "eb0c8134396f.json"
+    },
+    "4459eaa9c4cc": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1860-02-01",
+      "end_date": "1861-01-11",
+      "filename": "4459eaa9c4cc.json"
+    },
+    "904600764a12": {
+      "county_id": "azt_donaana",
+      "name": "DO\u00d1A ANA (AZ prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "904600764a12.json"
+    },
+    "696671c98eda": {
+      "county_id": "azt_castledome",
+      "name": "CASTLE DOME (AZ pr)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "696671c98eda.json"
+    },
+    "de2b0944953f": {
+      "county_id": "azt_ewell",
+      "name": "EWELL (AZ prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "de2b0944953f.json"
+    },
+    "b00e792c436a": {
+      "county_id": "azt_mesilla",
+      "name": "MESILLA (AZ prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "b00e792c436a.json"
+    },
+    "3cce542c890e": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1861-02-28",
+      "end_date": "1869-01-24",
+      "filename": "3cce542c890e.json"
+    },
+    "e10608241e2d": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-17",
+      "filename": "e10608241e2d.json"
+    },
+    "97a961801c4a": {
+      "county_id": "nmt_sanjuan",
+      "name": "SAN JUAN (orig)",
+      "start_date": "1861-01-12",
+      "end_date": "1862-01-17",
+      "filename": "97a961801c4a.json"
+    },
+    "bc3daabe893c": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1861-01-12",
+      "end_date": "1861-02-27",
+      "filename": "bc3daabe893c.json"
+    },
+    "06ba0ac13a58": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1862-01-18",
+      "end_date": "1863-01-27",
+      "filename": "06ba0ac13a58.json"
+    },
+    "096121edcb18": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1862-01-18",
+      "end_date": "1863-02-23",
+      "filename": "096121edcb18.json"
+    },
+    "565fdd69675a": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1863-02-24",
+      "end_date": "1880-02-09",
+      "filename": "565fdd69675a.json"
+    },
+    "83823c7afe2a": {
+      "county_id": "nmt_santaana",
+      "name": "SANTA ANA (ext)",
+      "start_date": "1863-02-24",
+      "end_date": "1876-01-12",
+      "filename": "83823c7afe2a.json"
+    },
+    "1b42d3dd36ff": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1863-02-24",
+      "end_date": "1869-01-17",
+      "filename": "1b42d3dd36ff.json"
+    },
+    "2c3cc00d0fd3": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1863-02-24",
+      "end_date": "1869-01-14",
+      "filename": "2c3cc00d0fd3.json"
+    },
+    "b8ba8a1c7314": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1863-02-24",
+      "end_date": "1869-01-14",
+      "filename": "b8ba8a1c7314.json"
+    },
+    "b96481a93f14": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1863-02-24",
+      "end_date": "1867-01-30",
+      "filename": "b96481a93f14.json"
+    },
+    "cc77790a0902": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1863-02-24",
+      "end_date": "1867-01-30",
+      "filename": "cc77790a0902.json"
+    },
+    "6650f74c815d": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1863-01-28",
+      "end_date": "1863-02-23",
+      "filename": "6650f74c815d.json"
+    },
+    "610c89473303": {
+      "county_id": "nmt_arizona",
+      "name": "ARIZONA (ext)",
+      "start_date": "1863-01-28",
+      "end_date": "1863-02-23",
+      "filename": "610c89473303.json"
+    },
+    "51a71c682622": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1864-02-03",
+      "end_date": "1869-01-17",
+      "filename": "51a71c682622.json"
+    },
+    "90b4eccbdd2a": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1864-02-03",
+      "end_date": "1869-01-14",
+      "filename": "90b4eccbdd2a.json"
+    },
+    "40d708182c05": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-29",
+      "filename": "40d708182c05.json"
+    },
+    "7d677bac0dd8": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-29",
+      "filename": "7d677bac0dd8.json"
+    },
+    "9caf3651700c": {
+      "county_id": "nms_grant",
+      "name": "GRANT",
+      "start_date": "1868-01-30",
+      "end_date": "1880-02-12",
+      "filename": "9caf3651700c.json"
+    },
+    "e7006e7da0e3": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1868-01-30",
+      "end_date": "1870-01-09",
+      "filename": "e7006e7da0e3.json"
+    },
+    "a349f3d47c7f": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1868-01-30",
+      "end_date": "1869-01-14",
+      "filename": "a349f3d47c7f.json"
+    },
+    "378f9ffd67f3": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1869-01-16",
+      "end_date": "1878-02-14",
+      "filename": "378f9ffd67f3.json"
+    },
+    "5f602a4107c1": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1869-01-25",
+      "end_date": "1876-01-12",
+      "filename": "5f602a4107c1.json"
+    },
+    "939c98134f1d": {
+      "county_id": "nms_colfax",
+      "name": "COLFAX",
+      "start_date": "1869-01-25",
+      "end_date": "1876-01-12",
+      "filename": "939c98134f1d.json"
+    },
+    "2617d1803ce1": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1869-01-18",
+      "end_date": "1870-12-31",
+      "filename": "2617d1803ce1.json"
+    },
+    "edf9fe26fa0a": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1869-01-16",
+      "end_date": "1870-01-09",
+      "filename": "edf9fe26fa0a.json"
+    },
+    "1866e8edcdcc": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1869-01-18",
+      "end_date": "1870-12-31",
+      "filename": "1866e8edcdcc.json"
+    },
+    "a7f18d139557": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1869-01-15",
+      "end_date": "1882-01-16",
+      "filename": "a7f18d139557.json"
+    },
+    "73b1b7ae9727": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1869-01-15",
+      "end_date": "1870-01-12",
+      "filename": "73b1b7ae9727.json"
+    },
+    "50aecce4d234": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1869-01-15",
+      "end_date": "1870-01-12",
+      "filename": "50aecce4d234.json"
+    },
+    "c0f46ba66ebc": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1869-01-15",
+      "end_date": "1869-01-15",
+      "filename": "c0f46ba66ebc.json"
+    },
+    "ae0f20f77d79": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1870-01-13",
+      "end_date": "1893-02-12",
+      "filename": "ae0f20f77d79.json"
+    },
+    "11b9f8212075": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1870-01-13",
+      "end_date": "1876-01-12",
+      "filename": "11b9f8212075.json"
+    },
+    "2ebff8ea4b58": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1870-01-10",
+      "end_date": "1871-12-28",
+      "filename": "2ebff8ea4b58.json"
+    },
+    "e17cdf217b76": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1870-01-10",
+      "end_date": "1871-12-28",
+      "filename": "e17cdf217b76.json"
+    },
+    "9463311cd5fb": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1871-01-01",
+      "end_date": "1882-03-03",
+      "filename": "9463311cd5fb.json"
+    },
+    "b14510831bab": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1871-12-29",
+      "end_date": "1880-02-10",
+      "filename": "b14510831bab.json"
+    },
+    "bd3a5cd4fe7a": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1871-12-29",
+      "end_date": "1878-02-14",
+      "filename": "bd3a5cd4fe7a.json"
+    },
+    "9d836f77bdb4": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1871-01-01",
+      "end_date": "1880-02-09",
+      "filename": "9d836f77bdb4.json"
+    },
+    "ae5f05f79c3b": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1876-01-13",
+      "end_date": "1882-03-03",
+      "filename": "ae5f05f79c3b.json"
+    },
+    "db62224b8883": {
+      "county_id": "nms_colfax",
+      "name": "COLFAX",
+      "start_date": "1876-01-13",
+      "end_date": "1882-01-30",
+      "filename": "db62224b8883.json"
+    },
+    "95d58a413449": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1876-01-13",
+      "end_date": "1882-01-16",
+      "filename": "95d58a413449.json"
+    },
+    "0302144b3fac": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1878-02-15",
+      "end_date": "1887-02-23",
+      "filename": "0302144b3fac.json"
+    },
+    "5758394c2831": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1878-02-15",
+      "end_date": "1880-02-10",
+      "filename": "5758394c2831.json"
+    },
+    "13b837577210": {
+      "county_id": "nms_grant",
+      "name": "GRANT",
+      "start_date": "1880-02-13",
+      "end_date": "1884-04-02",
+      "filename": "13b837577210.json"
+    },
+    "5648c2bba6ab": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1880-02-13",
+      "end_date": "1884-04-02",
+      "filename": "5648c2bba6ab.json"
+    },
+    "5d5d84152195": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1880-02-10",
+      "end_date": "1905-02-19",
+      "filename": "5d5d84152195.json"
+    },
+    "0582b0b08c71": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1880-02-10",
+      "end_date": "1887-02-23",
+      "filename": "0582b0b08c71.json"
+    },
+    "1fe89c07ef69": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1880-02-11",
+      "end_date": "1884-04-02",
+      "filename": "1fe89c07ef69.json"
+    },
+    "9a994d90158a": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1880-02-11",
+      "end_date": "1880-02-12",
+      "filename": "9a994d90158a.json"
+    },
+    "e6f6e8e87ce0": {
+      "county_id": "nms_colfax",
+      "name": "COLFAX",
+      "start_date": "1882-01-31",
+      "end_date": "1893-12-31",
+      "filename": "e6f6e8e87ce0.json"
+    },
+    "b063cdf0db0b": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1882-01-31",
+      "end_date": "1882-03-03",
+      "filename": "b063cdf0db0b.json"
+    },
+    "afe7720aed05": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1882-03-04",
+      "end_date": "1889-02-27",
+      "filename": "afe7720aed05.json"
+    },
+    "61c40f36e74f": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1882-03-04",
+      "end_date": "1889-02-27",
+      "filename": "61c40f36e74f.json"
+    },
+    "5eaea14f7407": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1882-03-04",
+      "end_date": "1889-02-27",
+      "filename": "5eaea14f7407.json"
+    },
+    "d8e6799a748d": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1882-03-04",
+      "end_date": "1889-02-27",
+      "filename": "d8e6799a748d.json"
+    },
+    "d957ecb16807": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1882-01-17",
+      "end_date": "1882-03-03",
+      "filename": "d957ecb16807.json"
+    },
+    "0f111e6b0fc4": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1882-01-17",
+      "end_date": "1882-01-30",
+      "filename": "0f111e6b0fc4.json"
+    },
+    "7e77136a6442": {
+      "county_id": "nms_sierra",
+      "name": "SIERRA",
+      "start_date": "1884-04-03",
+      "end_date": "1950-03-06",
+      "filename": "7e77136a6442.json"
+    },
+    "a64c1a9e92ac": {
+      "county_id": "nms_grant",
+      "name": "GRANT",
+      "start_date": "1884-04-03",
+      "end_date": "1901-03-15",
+      "filename": "a64c1a9e92ac.json"
+    },
+    "2614fe739797": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1884-04-03",
+      "end_date": "1887-02-23",
+      "filename": "2614fe739797.json"
+    },
+    "ae83a15a43a7": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1884-04-03",
+      "end_date": "1887-02-23",
+      "filename": "ae83a15a43a7.json"
+    },
+    "5c5cf0781ff1": {
+      "county_id": "nms_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1887-02-24",
+      "end_date": "1901-03-17",
+      "filename": "5c5cf0781ff1.json"
+    },
+    "40974ec3915c": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1887-02-24",
+      "end_date": "1899-01-29",
+      "filename": "40974ec3915c.json"
+    },
+    "62cff1ecc111": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1887-02-24",
+      "end_date": "1889-02-11",
+      "filename": "62cff1ecc111.json"
+    },
+    "291f18a62e4d": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1887-02-24",
+      "end_date": "1889-02-11",
+      "filename": "291f18a62e4d.json"
+    },
+    "05ed012a49e8": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1887-02-24",
+      "end_date": "1889-02-27",
+      "filename": "05ed012a49e8.json"
+    },
+    "6339e0773680": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1889-02-12",
+      "end_date": "1899-01-29",
+      "filename": "6339e0773680.json"
+    },
+    "c12acaaf27ab": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1889-02-28",
+      "end_date": "1895-02-27",
+      "filename": "c12acaaf27ab.json"
+    },
+    "005f230cd3e0": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1889-02-28",
+      "end_date": "1893-12-31",
+      "filename": "005f230cd3e0.json"
+    },
+    "d934994eb72a": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1889-02-28",
+      "end_date": "1892-12-31",
+      "filename": "d934994eb72a.json"
+    },
+    "b42866d00a05": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1889-02-12",
+      "end_date": "1890-12-31",
+      "filename": "b42866d00a05.json"
+    },
+    "e3a65c874b2c": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1889-02-28",
+      "end_date": "1891-02-24",
+      "filename": "e3a65c874b2c.json"
+    },
+    "079ee9124317": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1889-02-28",
+      "end_date": "1891-02-24",
+      "filename": "079ee9124317.json"
+    },
+    "570ceb788429": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1891-02-25",
+      "end_date": "1903-03-09",
+      "filename": "570ceb788429.json"
+    },
+    "36417fb893c1": {
+      "county_id": "nms_chaves",
+      "name": "CHAVES",
+      "start_date": "1891-01-01",
+      "end_date": "1899-01-29",
+      "filename": "36417fb893c1.json"
+    },
+    "14cce7b22d95": {
+      "county_id": "nms_eddy",
+      "name": "EDDY",
+      "start_date": "1891-01-01",
+      "end_date": "1895-01-15",
+      "filename": "14cce7b22d95.json"
+    },
+    "ccb54041ab2e": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1891-01-01",
+      "end_date": "1893-02-12",
+      "filename": "ccb54041ab2e.json"
+    },
+    "f45149d9449d": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1891-02-25",
+      "end_date": "1895-02-27",
+      "filename": "f45149d9449d.json"
+    },
+    "7a1ce3ef6c12": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1893-02-13",
+      "end_date": "1900-12-31",
+      "filename": "7a1ce3ef6c12.json"
+    },
+    "21f7fd2d6709": {
+      "county_id": "nmt_guadalupe",
+      "name": "GUADALUPE (orig)",
+      "start_date": "1893-01-01",
+      "end_date": "1897-02-12",
+      "filename": "21f7fd2d6709.json"
+    },
+    "5494ec9c0bc9": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1893-02-13",
+      "end_date": "1895-01-15",
+      "filename": "5494ec9c0bc9.json"
+    },
+    "ec0a43efefea": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1893-01-01",
+      "end_date": "1893-12-31",
+      "filename": "ec0a43efefea.json"
+    },
+    "304f1045dcf8": {
+      "county_id": "nms_colfax",
+      "name": "COLFAX",
+      "start_date": "1894-01-01",
+      "end_date": "2000-12-31",
+      "filename": "304f1045dcf8.json"
+    },
+    "c157fd92813c": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1894-01-01",
+      "end_date": "1921-06-09",
+      "filename": "c157fd92813c.json"
+    },
+    "8c7889b4e9c6": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1894-01-01",
+      "end_date": "1904-12-31",
+      "filename": "8c7889b4e9c6.json"
+    },
+    "23fe563e31cc": {
+      "county_id": "nms_union",
+      "name": "UNION",
+      "start_date": "1894-01-01",
+      "end_date": "1903-02-27",
+      "filename": "23fe563e31cc.json"
+    },
+    "66e4fc75cf1f": {
+      "county_id": "nms_eddy",
+      "name": "EDDY",
+      "start_date": "1895-01-16",
+      "end_date": "1917-06-07",
+      "filename": "66e4fc75cf1f.json"
+    },
+    "950ce525d3d2": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1895-02-28",
+      "end_date": "1903-03-09",
+      "filename": "950ce525d3d2.json"
+    },
+    "30965e5a258c": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1895-01-16",
+      "end_date": "1899-01-29",
+      "filename": "30965e5a258c.json"
+    },
+    "d9e3fa9ab099": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1895-02-28",
+      "end_date": "1897-02-12",
+      "filename": "d9e3fa9ab099.json"
+    },
+    "9294859702e6": {
+      "county_id": "nmt_guadalupe",
+      "name": "GUADALUPE (orig)",
+      "start_date": "1897-02-13",
+      "end_date": "1903-02-27",
+      "filename": "9294859702e6.json"
+    },
+    "ee10d8953521": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1897-02-13",
+      "end_date": "1900-12-31",
+      "filename": "ee10d8953521.json"
+    },
+    "60749aee14f8": {
+      "county_id": "nms_otero",
+      "name": "OTERO",
+      "start_date": "1899-01-30",
+      "end_date": "2000-12-31",
+      "filename": "60749aee14f8.json"
+    },
+    "099a37fd42a5": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1899-01-30",
+      "end_date": "1904-12-31",
+      "filename": "099a37fd42a5.json"
+    },
+    "f3918e40c48b": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1899-01-30",
+      "end_date": "1904-12-31",
+      "filename": "f3918e40c48b.json"
+    },
+    "48c05b6aeb48": {
+      "county_id": "nms_chaves",
+      "name": "CHAVES",
+      "start_date": "1899-01-30",
+      "end_date": "1903-02-27",
+      "filename": "48c05b6aeb48.json"
+    },
+    "3c6aaeb59e74": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1899-01-30",
+      "end_date": "1901-03-15",
+      "filename": "3c6aaeb59e74.json"
+    },
+    "b58ae43dc7a1": {
+      "county_id": "nms_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1901-03-18",
+      "end_date": "2000-12-31",
+      "filename": "b58ae43dc7a1.json"
+    },
+    "44f8971d60dc": {
+      "county_id": "nms_mckinley",
+      "name": "McKINLEY",
+      "start_date": "1901-03-18",
+      "end_date": "2000-12-31",
+      "filename": "44f8971d60dc.json"
+    },
+    "0c248f2dcfca": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1901-03-18",
+      "end_date": "1903-04-13",
+      "filename": "0c248f2dcfca.json"
+    },
+    "e82f315725ca": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1901-03-18",
+      "end_date": "1903-03-15",
+      "filename": "e82f315725ca.json"
+    },
+    "c65fe472852a": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA",
+      "start_date": "1901-03-16",
+      "end_date": "2000-12-31",
+      "filename": "c65fe472852a.json"
+    },
+    "47a07d1ed87d": {
+      "county_id": "nms_luna",
+      "name": "LUNA",
+      "start_date": "1901-03-16",
+      "end_date": "2000-12-31",
+      "filename": "47a07d1ed87d.json"
+    },
+    "8484a3b70582": {
+      "county_id": "nms_grant",
+      "name": "GRANT",
+      "start_date": "1901-03-16",
+      "end_date": "1919-12-31",
+      "filename": "8484a3b70582.json"
+    },
+    "ba057f741fd0": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1901-01-01",
+      "end_date": "1901-03-17",
+      "filename": "ba057f741fd0.json"
+    },
+    "93c3cfce2f85": {
+      "county_id": "nms_mckinley",
+      "name": "McKINLEY",
+      "start_date": "1901-01-01",
+      "end_date": "1901-03-17",
+      "filename": "93c3cfce2f85.json"
+    },
+    "3017bdca2ebd": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1901-01-01",
+      "end_date": "1901-03-17",
+      "filename": "3017bdca2ebd.json"
+    },
+    "02d6ce1450aa": {
+      "county_id": "nms_guadalupe",
+      "name": "LEONARD WOOD",
+      "start_date": "1903-03-16",
+      "end_date": "1905-02-22",
+      "filename": "02d6ce1450aa.json"
+    },
+    "10bd6813cdec": {
+      "county_id": "nms_nca3",
+      "name": "NCA 3",
+      "start_date": "1903-03-16",
+      "end_date": "1923-03-12",
+      "filename": "10bd6813cdec.json"
+    },
+    "ad30324e3a3f": {
+      "county_id": "nms_sandoval",
+      "name": "SANDOVAL",
+      "start_date": "1903-04-14",
+      "end_date": "1905-05-07",
+      "filename": "ad30324e3a3f.json"
+    },
+    "d926fd5a7009": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1903-04-14",
+      "end_date": "1904-12-31",
+      "filename": "d926fd5a7009.json"
+    },
+    "b1cd00298812": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1903-03-16",
+      "end_date": "1904-12-31",
+      "filename": "b1cd00298812.json"
+    },
+    "7e0efdec9c14": {
+      "county_id": "nms_chaves",
+      "name": "CHAVES",
+      "start_date": "1903-02-28",
+      "end_date": "1917-06-07",
+      "filename": "7e0efdec9c14.json"
+    },
+    "68be4d7c9765": {
+      "county_id": "nms_roosevelt",
+      "name": "ROOSEVELT",
+      "start_date": "1903-02-28",
+      "end_date": "1909-02-24",
+      "filename": "68be4d7c9765.json"
+    },
+    "ba8dde0a63e8": {
+      "county_id": "nms_union",
+      "name": "UNION",
+      "start_date": "1903-02-28",
+      "end_date": "1907-03-19",
+      "filename": "ba8dde0a63e8.json"
+    },
+    "d45d5f614e84": {
+      "county_id": "nms_quay",
+      "name": "QUAY",
+      "start_date": "1903-02-28",
+      "end_date": "1907-03-19",
+      "filename": "d45d5f614e84.json"
+    },
+    "911fb4727c10": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1903-03-10",
+      "end_date": "1905-02-19",
+      "filename": "911fb4727c10.json"
+    },
+    "60c25365fd19": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1903-03-10",
+      "end_date": "1904-12-31",
+      "filename": "60c25365fd19.json"
+    },
+    "8dc5343c17a1": {
+      "county_id": "nmt_guadalupe",
+      "name": "GUADALUPE (orig)",
+      "start_date": "1903-02-28",
+      "end_date": "1903-03-15",
+      "filename": "8dc5343c17a1.json"
+    },
+    "051fcc5753d4": {
+      "county_id": "nms_taos",
+      "name": "TAOS",
+      "start_date": "1905-02-20",
+      "end_date": "2000-12-31",
+      "filename": "051fcc5753d4.json"
+    },
+    "6cebb4be87b2": {
+      "county_id": "nms_torrance",
+      "name": "TORRANCE",
+      "start_date": "1905-02-02",
+      "end_date": "2000-12-31",
+      "filename": "6cebb4be87b2.json"
+    },
+    "0b94934b59e6": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1905-02-02",
+      "end_date": "1981-03-16",
+      "filename": "0b94934b59e6.json"
+    },
+    "9e6d6e450384": {
+      "county_id": "nms_guadalupe",
+      "name": "GUADALUPE",
+      "start_date": "1905-02-23",
+      "end_date": "1917-06-07",
+      "filename": "9e6d6e450384.json"
+    },
+    "569fac142af0": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1905-02-02",
+      "end_date": "1909-03-17",
+      "filename": "569fac142af0.json"
+    },
+    "b5a99d634cd8": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1905-02-02",
+      "end_date": "1907-03-19",
+      "filename": "b5a99d634cd8.json"
+    },
+    "8eb32b1113b1": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1905-02-20",
+      "end_date": "1905-05-07",
+      "filename": "8eb32b1113b1.json"
+    },
+    "cd34efd3445b": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA",
+      "start_date": "1905-05-08",
+      "end_date": "2000-12-31",
+      "filename": "cd34efd3445b.json"
+    },
+    "46a5796236a6": {
+      "county_id": "nms_sandoval",
+      "name": "SANDOVAL",
+      "start_date": "1905-05-08",
+      "end_date": "1949-03-15",
+      "filename": "46a5796236a6.json"
+    },
+    "a0ab6caab772": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1905-05-08",
+      "end_date": "1949-03-15",
+      "filename": "a0ab6caab772.json"
+    },
+    "6e7725eca93e": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO",
+      "start_date": "1905-01-01",
+      "end_date": "2000-12-31",
+      "filename": "6e7725eca93e.json"
+    },
+    "8305a0eab437": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1905-01-01",
+      "end_date": "1909-03-17",
+      "filename": "8305a0eab437.json"
+    },
+    "59dc48e6af4c": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1905-01-01",
+      "end_date": "1905-05-07",
+      "filename": "59dc48e6af4c.json"
+    },
+    "3546253f522a": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1905-01-01",
+      "end_date": "1905-02-01",
+      "filename": "3546253f522a.json"
+    },
+    "04391737ab53": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1905-01-01",
+      "end_date": "1905-02-01",
+      "filename": "04391737ab53.json"
+    },
+    "31976b2ce322": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1905-01-01",
+      "end_date": "1905-02-01",
+      "filename": "31976b2ce322.json"
+    },
+    "f4272733bb0a": {
+      "county_id": "nms_torrance",
+      "name": "TORRANCE",
+      "start_date": "1905-01-01",
+      "end_date": "1905-02-01",
+      "filename": "f4272733bb0a.json"
+    },
+    "8eba9ae4c3c3": {
+      "county_id": "nms_union",
+      "name": "UNION",
+      "start_date": "1907-03-20",
+      "end_date": "1921-06-09",
+      "filename": "8eba9ae4c3c3.json"
+    },
+    "27f05937ed6b": {
+      "county_id": "nms_quay",
+      "name": "QUAY",
+      "start_date": "1907-03-20",
+      "end_date": "1909-02-24",
+      "filename": "27f05937ed6b.json"
+    },
+    "93abf622d6eb": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1907-03-20",
+      "end_date": "1923-03-12",
+      "filename": "93abf622d6eb.json"
+    },
+    "43c3fa821d1e": {
+      "county_id": "nms_curry",
+      "name": "CURRY",
+      "start_date": "1909-02-25",
+      "end_date": "2000-12-31",
+      "filename": "43c3fa821d1e.json"
+    },
+    "1ed2e36d034f": {
+      "county_id": "nms_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1909-03-18",
+      "end_date": "2000-12-31",
+      "filename": "1ed2e36d034f.json"
+    },
+    "2839f530be2d": {
+      "county_id": "nms_quay",
+      "name": "QUAY",
+      "start_date": "1909-02-25",
+      "end_date": "1923-03-12",
+      "filename": "2839f530be2d.json"
+    },
+    "54a8b25d8ef3": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1909-03-18",
+      "end_date": "1921-06-30",
+      "filename": "54a8b25d8ef3.json"
+    },
+    "8fb3c2a7afdc": {
+      "county_id": "nms_roosevelt",
+      "name": "ROOSEVELT",
+      "start_date": "1909-02-25",
+      "end_date": "1917-06-07",
+      "filename": "8fb3c2a7afdc.json"
+    },
+    "978713eb6baa": {
+      "county_id": "nms_chaves",
+      "name": "CHAVES",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "978713eb6baa.json"
+    },
+    "480c16119639": {
+      "county_id": "nms_debaca",
+      "name": "DE BACA",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "480c16119639.json"
+    },
+    "95e17e5141db": {
+      "county_id": "nms_roosevelt",
+      "name": "ROOSEVELT",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "95e17e5141db.json"
+    },
+    "2d085219c2d8": {
+      "county_id": "nms_lea",
+      "name": "LEA",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "2d085219c2d8.json"
+    },
+    "49d6f732919d": {
+      "county_id": "nms_guadalupe",
+      "name": "GUADALUPE",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "49d6f732919d.json"
+    },
+    "919588ad7568": {
+      "county_id": "nms_eddy",
+      "name": "EDDY",
+      "start_date": "1917-06-08",
+      "end_date": "2000-12-31",
+      "filename": "919588ad7568.json"
+    },
+    "6c5a14a40bf1": {
+      "county_id": "nms_grant",
+      "name": "GRANT",
+      "start_date": "1920-01-01",
+      "end_date": "2000-12-31",
+      "filename": "6c5a14a40bf1.json"
+    },
+    "a389d7dbfe2f": {
+      "county_id": "nms_hidalgo",
+      "name": "HIDALGO",
+      "start_date": "1920-01-01",
+      "end_date": "2000-12-31",
+      "filename": "a389d7dbfe2f.json"
+    },
+    "396bf44bc1e1": {
+      "county_id": "nms_catron",
+      "name": "CATRON",
+      "start_date": "1921-07-01",
+      "end_date": "2000-12-31",
+      "filename": "396bf44bc1e1.json"
+    },
+    "b694b5c527d8": {
+      "county_id": "nms_mora",
+      "name": "MORA",
+      "start_date": "1921-06-10",
+      "end_date": "2000-12-31",
+      "filename": "b694b5c527d8.json"
+    },
+    "adb56068bb32": {
+      "county_id": "nms_union",
+      "name": "UNION",
+      "start_date": "1921-06-10",
+      "end_date": "2000-12-31",
+      "filename": "adb56068bb32.json"
+    },
+    "1e0698e7c752": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1921-07-01",
+      "end_date": "1950-03-06",
+      "filename": "1e0698e7c752.json"
+    },
+    "29ae8a4c5bb6": {
+      "county_id": "nms_harding",
+      "name": "HARDING",
+      "start_date": "1921-06-10",
+      "end_date": "1923-03-12",
+      "filename": "29ae8a4c5bb6.json"
+    },
+    "c5a4f2a7776b": {
+      "county_id": "nms_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1923-03-14",
+      "end_date": "2000-12-31",
+      "filename": "c5a4f2a7776b.json"
+    },
+    "23af99efb4a6": {
+      "county_id": "nms_quay",
+      "name": "QUAY",
+      "start_date": "1923-03-14",
+      "end_date": "2000-12-31",
+      "filename": "23af99efb4a6.json"
+    },
+    "00985cff68de": {
+      "county_id": "nms_harding",
+      "name": "HARDING",
+      "start_date": "1923-03-13",
+      "end_date": "2000-12-31",
+      "filename": "00985cff68de.json"
+    },
+    "da1d690ac82e": {
+      "county_id": "nms_sanmiguel",
+      "name": "JEFFERSON",
+      "start_date": "1923-03-13",
+      "end_date": "1923-03-13",
+      "filename": "da1d690ac82e.json"
+    },
+    "a50532bed526": {
+      "county_id": "nms_quay",
+      "name": "WASHINGTON",
+      "start_date": "1923-03-13",
+      "end_date": "1923-03-13",
+      "filename": "a50532bed526.json"
+    },
+    "8ecd9c284f02": {
+      "county_id": "nms_riogrande",
+      "name": "RIO GRANDE (prop)",
+      "start_date": "1927-03-18",
+      "end_date": "1927-03-18",
+      "filename": "8ecd9c284f02.json"
+    },
+    "c3ccaad94bf6": {
+      "county_id": "nms_santafe",
+      "name": "SANTA FE",
+      "start_date": "1949-03-16",
+      "end_date": "2000-12-31",
+      "filename": "c3ccaad94bf6.json"
+    },
+    "8f8df7b6ca9c": {
+      "county_id": "nms_losalamos",
+      "name": "LOS ALAMOS",
+      "start_date": "1949-03-16",
+      "end_date": "2000-12-31",
+      "filename": "8f8df7b6ca9c.json"
+    },
+    "e66ec552166c": {
+      "county_id": "nms_sandoval",
+      "name": "SANDOVAL",
+      "start_date": "1949-03-16",
+      "end_date": "2000-12-31",
+      "filename": "e66ec552166c.json"
+    },
+    "2b8ae15296de": {
+      "county_id": "nms_sierra",
+      "name": "SIERRA",
+      "start_date": "1950-03-07",
+      "end_date": "2000-12-31",
+      "filename": "2b8ae15296de.json"
+    },
+    "1314cc29806b": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO",
+      "start_date": "1950-03-07",
+      "end_date": "2000-12-31",
+      "filename": "1314cc29806b.json"
+    },
+    "9be50a744096": {
+      "county_id": "nms_cibola",
+      "name": "CIBOLA",
+      "start_date": "1981-03-17",
+      "end_date": "2000-12-31",
+      "filename": "9be50a744096.json"
+    },
+    "5879d3d397d3": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA",
+      "start_date": "1981-03-17",
+      "end_date": "2000-12-31",
+      "filename": "5879d3d397d3.json"
+    },
+    "85dc9b2e0382": {
+      "county_id": "nms_southvalley",
+      "name": "SOUTH VALLEY (prop)",
+      "start_date": "1995-04-05",
+      "end_date": "1995-04-05",
+      "filename": "85dc9b2e0382.json"
+    }
+  }
+}

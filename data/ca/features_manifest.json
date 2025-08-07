@@ -1,0 +1,2365 @@
+{
+  "state": "CA",
+  "total_features": 337,
+  "features": {
+    "1c8407605d04": {
+      "county_id": "cas_santacruz",
+      "name": "SANTA CRUZ",
+      "start_date": "1850-04-05",
+      "end_date": "1857-04-17",
+      "filename": "1c8407605d04.json"
+    },
+    "dfec9bec9e35": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "dfec9bec9e35.json"
+    },
+    "adcbebbb481c": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "adcbebbb481c.json"
+    },
+    "a02e7404d1b9": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "a02e7404d1b9.json"
+    },
+    "ac2fe5747d0f": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1850-02-18",
+      "end_date": "1852-04-15",
+      "filename": "ac2fe5747d0f.json"
+    },
+    "e46075eb5f88": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1850-02-18",
+      "end_date": "1855-04-15",
+      "filename": "e46075eb5f88.json"
+    },
+    "ac0d5912b34c": {
+      "county_id": "cas_sacramento",
+      "name": "SACRAMENTO",
+      "start_date": "1850-02-18",
+      "end_date": "1861-04-22",
+      "filename": "ac0d5912b34c.json"
+    },
+    "66ce66b6e847": {
+      "county_id": "cas_calaveras",
+      "name": "CALAVERAS",
+      "start_date": "1850-02-18",
+      "end_date": "1854-06-13",
+      "filename": "66ce66b6e847.json"
+    },
+    "4fdc16fd0efa": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "4fdc16fd0efa.json"
+    },
+    "3f1e14a34997": {
+      "county_id": "cas_sandiego",
+      "name": "SAN DIEGO",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "3f1e14a34997.json"
+    },
+    "6625c7320fbf": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "6625c7320fbf.json"
+    },
+    "7f311050a1ed": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "7f311050a1ed.json"
+    },
+    "369bf2d63869": {
+      "county_id": "cas_tuolumne",
+      "name": "TUOLUMNE",
+      "start_date": "1850-02-18",
+      "end_date": "1854-04-04",
+      "filename": "369bf2d63869.json"
+    },
+    "caca656711c2": {
+      "county_id": "cas_santacruz",
+      "name": "BRANCIFORTE",
+      "start_date": "1850-02-18",
+      "end_date": "1850-04-04",
+      "filename": "caca656711c2.json"
+    },
+    "d1ed4dbf9813": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "d1ed4dbf9813.json"
+    },
+    "9605db80a685": {
+      "county_id": "cas_monterey",
+      "name": "MONTEREY",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "9605db80a685.json"
+    },
+    "fedb4124eb05": {
+      "county_id": "cas_santabarbara",
+      "name": "SANTA BARBARA",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "fedb4124eb05.json"
+    },
+    "1f7c7eb94d8e": {
+      "county_id": "cas_sanjoaquin",
+      "name": "SAN JOAQUIN",
+      "start_date": "1850-02-18",
+      "end_date": "1852-02-13",
+      "filename": "1f7c7eb94d8e.json"
+    },
+    "863f97d3ecd5": {
+      "county_id": "cas_contracosta",
+      "name": "CONTRA COSTA",
+      "start_date": "1850-02-18",
+      "end_date": "1852-02-13",
+      "filename": "863f97d3ecd5.json"
+    },
+    "8c2aa35c001a": {
+      "county_id": "cas_santaclara",
+      "name": "SANTA CLARA",
+      "start_date": "1850-02-18",
+      "end_date": "1853-03-24",
+      "filename": "8c2aa35c001a.json"
+    },
+    "4606682bf3d7": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1850-02-18",
+      "end_date": "1853-01-26",
+      "filename": "4606682bf3d7.json"
+    },
+    "260df05865c8": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1850-02-18",
+      "end_date": "1854-05-14",
+      "filename": "260df05865c8.json"
+    },
+    "0f32425126ac": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1850-02-18",
+      "end_date": "1854-05-14",
+      "filename": "0f32425126ac.json"
+    },
+    "73904a4b585e": {
+      "county_id": "cas_disputed",
+      "name": "Disputed Area",
+      "start_date": "1850-02-18",
+      "end_date": "1856-06-30",
+      "filename": "73904a4b585e.json"
+    },
+    "5819a092ae3b": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1850-02-18",
+      "end_date": "1852-04-15",
+      "filename": "5819a092ae3b.json"
+    },
+    "f2517d54d7ff": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "f2517d54d7ff.json"
+    },
+    "0aa0e8a89e3f": {
+      "county_id": "cas_colusa",
+      "name": "COLUSI",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "0aa0e8a89e3f.json"
+    },
+    "bf595a7e6e08": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1850-02-18",
+      "end_date": "1852-05-02",
+      "filename": "bf595a7e6e08.json"
+    },
+    "ebeabdafd666": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1850-02-18",
+      "end_date": "1851-04-24",
+      "filename": "ebeabdafd666.json"
+    },
+    "8e5abd020f12": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1851-04-25",
+      "end_date": "1853-05-11",
+      "filename": "8e5abd020f12.json"
+    },
+    "77b6456e9144": {
+      "county_id": "cas_klamath",
+      "name": "KLAMATH (ext)",
+      "start_date": "1851-04-25",
+      "end_date": "1852-03-21",
+      "filename": "77b6456e9144.json"
+    },
+    "d649e318f498": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1851-04-25",
+      "end_date": "1852-04-15",
+      "filename": "d649e318f498.json"
+    },
+    "31f04b183ad9": {
+      "county_id": "cas_nevada",
+      "name": "NEVADA",
+      "start_date": "1851-04-25",
+      "end_date": "1852-05-02",
+      "filename": "31f04b183ad9.json"
+    },
+    "13c0bb6a9d78": {
+      "county_id": "cas_placer",
+      "name": "PLACER",
+      "start_date": "1851-04-25",
+      "end_date": "1863-04-19",
+      "filename": "13c0bb6a9d78.json"
+    },
+    "2157d2c7abca": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1851-04-25",
+      "end_date": "1856-04-18",
+      "filename": "2157d2c7abca.json"
+    },
+    "9dbdecd8aa0d": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1851-04-25",
+      "end_date": "1852-05-02",
+      "filename": "9dbdecd8aa0d.json"
+    },
+    "17fc9c630e2f": {
+      "county_id": "cas_colusa",
+      "name": "COLUSI",
+      "start_date": "1851-04-25",
+      "end_date": "1856-04-08",
+      "filename": "17fc9c630e2f.json"
+    },
+    "5aff859cffb9": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1851-04-25",
+      "end_date": "1852-03-21",
+      "filename": "5aff859cffb9.json"
+    },
+    "dc9812a35089": {
+      "county_id": "cas_sandiego",
+      "name": "SAN DIEGO",
+      "start_date": "1851-04-25",
+      "end_date": "1872-12-31",
+      "filename": "dc9812a35089.json"
+    },
+    "8145ae68e84e": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1851-04-25",
+      "end_date": "1852-04-19",
+      "filename": "8145ae68e84e.json"
+    },
+    "6259f918c4c8": {
+      "county_id": "cas_santabarbara",
+      "name": "SANTA BARBARA",
+      "start_date": "1851-04-25",
+      "end_date": "1852-04-23",
+      "filename": "6259f918c4c8.json"
+    },
+    "289f9b8d54dc": {
+      "county_id": "cas_monterey",
+      "name": "MONTEREY",
+      "start_date": "1851-04-25",
+      "end_date": "1861-05-12",
+      "filename": "289f9b8d54dc.json"
+    },
+    "420eeabbd1ad": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1851-04-25",
+      "end_date": "1852-04-23",
+      "filename": "420eeabbd1ad.json"
+    },
+    "3bd2ea7e2950": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1851-04-25",
+      "end_date": "1853-04-25",
+      "filename": "3bd2ea7e2950.json"
+    },
+    "b28bb03a8cd7": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1851-04-25",
+      "end_date": "1852-05-02",
+      "filename": "b28bb03a8cd7.json"
+    },
+    "ffbe9d3ca12f": {
+      "county_id": "cas_nevada",
+      "name": "NEVADA",
+      "start_date": "1852-05-03",
+      "end_date": "1856-04-18",
+      "filename": "ffbe9d3ca12f.json"
+    },
+    "47e569155f3e": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1852-05-03",
+      "end_date": "1856-04-18",
+      "filename": "47e569155f3e.json"
+    },
+    "b97c4c8f7e50": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1852-05-03",
+      "end_date": "1854-03-30",
+      "filename": "b97c4c8f7e50.json"
+    },
+    "e6a13aedb91d": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1852-05-03",
+      "end_date": "1854-03-30",
+      "filename": "e6a13aedb91d.json"
+    },
+    "4f675bd203f1": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1852-05-03",
+      "end_date": "1855-04-03",
+      "filename": "4f675bd203f1.json"
+    },
+    "c0887eb9bef3": {
+      "county_id": "cas_mareisland",
+      "name": "Mare Island",
+      "start_date": "1852-05-03",
+      "end_date": "1853-01-26",
+      "filename": "c0887eb9bef3.json"
+    },
+    "ad2dc11f35d2": {
+      "county_id": "cas_pautah",
+      "name": "PAUTAH (prop)",
+      "start_date": "1852-05-03",
+      "end_date": "1852-05-03",
+      "filename": "ad2dc11f35d2.json"
+    },
+    "0f86a65465f4": {
+      "county_id": "cas_santabarbara",
+      "name": "SANTA BARBARA",
+      "start_date": "1852-04-24",
+      "end_date": "1854-05-12",
+      "filename": "0f86a65465f4.json"
+    },
+    "876b60c5ec34": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1852-04-24",
+      "end_date": "1854-05-12",
+      "filename": "876b60c5ec34.json"
+    },
+    "f1ea54f2f3a2": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1852-04-20",
+      "end_date": "1855-04-18",
+      "filename": "f1ea54f2f3a2.json"
+    },
+    "2609a229dbc5": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1852-04-20",
+      "end_date": "1856-04-18",
+      "filename": "2609a229dbc5.json"
+    },
+    "56a638fcfabb": {
+      "county_id": "cas_sanjoaquin",
+      "name": "SAN JOAQUIN",
+      "start_date": "1852-02-14",
+      "end_date": "1860-02-16",
+      "filename": "56a638fcfabb.json"
+    },
+    "7de159cba11e": {
+      "county_id": "cas_contracosta",
+      "name": "CONTRA COSTA",
+      "start_date": "1852-02-14",
+      "end_date": "1853-03-24",
+      "filename": "7de159cba11e.json"
+    },
+    "7d92d39abade": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1852-04-16",
+      "end_date": "1866-03-12",
+      "filename": "7d92d39abade.json"
+    },
+    "9a0ffc1ea038": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1852-04-16",
+      "end_date": "1852-05-02",
+      "filename": "9a0ffc1ea038.json"
+    },
+    "437d413f01f1": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1852-03-22",
+      "end_date": "1857-03-01",
+      "filename": "437d413f01f1.json"
+    },
+    "daa282157bc3": {
+      "county_id": "cas_klamath",
+      "name": "KLAMATH (ext)",
+      "start_date": "1852-03-22",
+      "end_date": "1855-04-29",
+      "filename": "daa282157bc3.json"
+    },
+    "281e5c317d22": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1852-03-22",
+      "end_date": "1856-04-08",
+      "filename": "281e5c317d22.json"
+    },
+    "b5793b105456": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1852-04-16",
+      "end_date": "1855-04-03",
+      "filename": "b5793b105456.json"
+    },
+    "3891cd6cbbc5": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1852-04-16",
+      "end_date": "1855-04-03",
+      "filename": "3891cd6cbbc5.json"
+    },
+    "dd0128183189": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1853-04-26",
+      "end_date": "1866-04-01",
+      "filename": "dd0128183189.json"
+    },
+    "a364b7ccf98f": {
+      "county_id": "cas_contracosta",
+      "name": "CONTRA COSTA",
+      "start_date": "1853-03-25",
+      "end_date": "1868-03-25",
+      "filename": "a364b7ccf98f.json"
+    },
+    "1f6832f02dbe": {
+      "county_id": "cas_santaclara",
+      "name": "SANTA CLARA",
+      "start_date": "1853-03-25",
+      "end_date": "2000-12-31",
+      "filename": "1f6832f02dbe.json"
+    },
+    "9cc92cc366d5": {
+      "county_id": "cas_alameda",
+      "name": "ALAMEDA",
+      "start_date": "1853-03-25",
+      "end_date": "2000-12-31",
+      "filename": "9cc92cc366d5.json"
+    },
+    "c4ba62ab44f0": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1853-05-12",
+      "end_date": "1855-04-29",
+      "filename": "c4ba62ab44f0.json"
+    },
+    "25d0b93579c4": {
+      "county_id": "cas_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1853-05-12",
+      "end_date": "1859-03-10",
+      "filename": "25d0b93579c4.json"
+    },
+    "8e930159d0f9": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1853-01-27",
+      "end_date": "1855-04-03",
+      "filename": "8e930159d0f9.json"
+    },
+    "1af98ebe804f": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1853-04-26",
+      "end_date": "1872-12-31",
+      "filename": "1af98ebe804f.json"
+    },
+    "c15e219aee3c": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1854-04-01",
+      "end_date": "1856-04-08",
+      "filename": "c15e219aee3c.json"
+    },
+    "caeb8d7e802b": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1854-04-01",
+      "end_date": "1863-03-26",
+      "filename": "caeb8d7e802b.json"
+    },
+    "21b6e19bf3e5": {
+      "county_id": "cas_stanislaus",
+      "name": "STANISLAUS",
+      "start_date": "1854-04-05",
+      "end_date": "1860-02-16",
+      "filename": "21b6e19bf3e5.json"
+    },
+    "c961a022a589": {
+      "county_id": "cas_tuolumne",
+      "name": "TUOLUMNE",
+      "start_date": "1854-04-05",
+      "end_date": "1856-04-18",
+      "filename": "c961a022a589.json"
+    },
+    "1af737db5c90": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1854-05-15",
+      "end_date": "1855-04-26",
+      "filename": "1af737db5c90.json"
+    },
+    "93384a566015": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1854-05-15",
+      "end_date": "1856-06-30",
+      "filename": "93384a566015.json"
+    },
+    "11ab1141eb85": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1854-06-14",
+      "end_date": "1855-04-15",
+      "filename": "11ab1141eb85.json"
+    },
+    "492c4cfb6f7d": {
+      "county_id": "cas_calaveras",
+      "name": "CALAVERAS",
+      "start_date": "1854-06-14",
+      "end_date": "1856-04-18",
+      "filename": "492c4cfb6f7d.json"
+    },
+    "4cc221fdba9b": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1854-05-13",
+      "end_date": "1861-05-12",
+      "filename": "4cc221fdba9b.json"
+    },
+    "8aa34887c8e7": {
+      "county_id": "cas_santabarbara",
+      "name": "SANTA BARBARA",
+      "start_date": "1854-05-13",
+      "end_date": "1872-12-31",
+      "filename": "8aa34887c8e7.json"
+    },
+    "ad96071e3aed": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1854-03-31",
+      "end_date": "1854-03-31",
+      "filename": "ad96071e3aed.json"
+    },
+    "4085a3b4b97b": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1854-03-31",
+      "end_date": "1856-04-18",
+      "filename": "4085a3b4b97b.json"
+    },
+    "31717d081721": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1855-04-27",
+      "end_date": "1857-03-25",
+      "filename": "31717d081721.json"
+    },
+    "9626e75b3227": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1855-04-27",
+      "end_date": "1859-03-10",
+      "filename": "9626e75b3227.json"
+    },
+    "e8ea2d67f66c": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1855-04-30",
+      "end_date": "1859-03-10",
+      "filename": "e8ea2d67f66c.json"
+    },
+    "a4e6ea097bd0": {
+      "county_id": "cas_klamath",
+      "name": "KLAMATH (ext)",
+      "start_date": "1855-04-30",
+      "end_date": "1857-03-01",
+      "filename": "a4e6ea097bd0.json"
+    },
+    "e5382cdb42f1": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1855-04-27",
+      "end_date": "1857-04-17",
+      "filename": "e5382cdb42f1.json"
+    },
+    "ac321d810063": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1855-04-27",
+      "end_date": "1859-03-10",
+      "filename": "ac321d810063.json"
+    },
+    "1a023b9cedba": {
+      "county_id": "cas_buenavista",
+      "name": "BUENA VISTA (prop)",
+      "start_date": "1855-04-30",
+      "end_date": "1855-04-30",
+      "filename": "1a023b9cedba.json"
+    },
+    "5d09212ce5a8": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1855-04-04",
+      "end_date": "1861-05-19",
+      "filename": "5d09212ce5a8.json"
+    },
+    "039fab0cd9e1": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1855-04-04",
+      "end_date": "1855-04-26",
+      "filename": "039fab0cd9e1.json"
+    },
+    "c27e1e57522f": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1855-04-04",
+      "end_date": "1855-04-26",
+      "filename": "c27e1e57522f.json"
+    },
+    "b0460527098c": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1855-04-04",
+      "end_date": "1855-04-26",
+      "filename": "b0460527098c.json"
+    },
+    "25cee841254a": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1855-04-16",
+      "end_date": "1857-04-24",
+      "filename": "25cee841254a.json"
+    },
+    "01abd8a8fc9a": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1855-04-16",
+      "end_date": "1857-04-24",
+      "filename": "01abd8a8fc9a.json"
+    },
+    "2b7ed1cfe07e": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1855-04-19",
+      "end_date": "1856-04-18",
+      "filename": "2b7ed1cfe07e.json"
+    },
+    "875f33b25e72": {
+      "county_id": "cas_merced",
+      "name": "MERCED",
+      "start_date": "1855-04-19",
+      "end_date": "1856-04-18",
+      "filename": "875f33b25e72.json"
+    },
+    "c7854c794c2d": {
+      "county_id": "cas_nevada",
+      "name": "NEVADA",
+      "start_date": "1856-04-19",
+      "end_date": "2000-12-31",
+      "filename": "c7854c794c2d.json"
+    },
+    "7a9beeb1a501": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1856-04-19",
+      "end_date": "1856-04-20",
+      "filename": "7a9beeb1a501.json"
+    },
+    "57f3e41021d4": {
+      "county_id": "cas_colusa",
+      "name": "COLUSI",
+      "start_date": "1856-04-19",
+      "end_date": "1857-02-18",
+      "filename": "57f3e41021d4.json"
+    },
+    "e5db89a47e55": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1856-04-19",
+      "end_date": "1857-03-25",
+      "filename": "e5db89a47e55.json"
+    },
+    "526c9e35d05b": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1856-04-19",
+      "end_date": "1863-03-26",
+      "filename": "526c9e35d05b.json"
+    },
+    "bb459411fe40": {
+      "county_id": "cas_fresno",
+      "name": "FREZNO",
+      "start_date": "1856-04-19",
+      "end_date": "1859-04-10",
+      "filename": "bb459411fe40.json"
+    },
+    "6148554ef4b2": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1856-04-19",
+      "end_date": "1866-03-21",
+      "filename": "6148554ef4b2.json"
+    },
+    "ad5ca6311db0": {
+      "county_id": "cas_merced",
+      "name": "MERCED",
+      "start_date": "1856-04-19",
+      "end_date": "1887-03-10",
+      "filename": "ad5ca6311db0.json"
+    },
+    "75bfe43146cb": {
+      "county_id": "cas_tuolumne",
+      "name": "TUOLUMNE",
+      "start_date": "1856-04-19",
+      "end_date": "1859-04-10",
+      "filename": "75bfe43146cb.json"
+    },
+    "f909fb4af8a3": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1856-04-19",
+      "end_date": "1861-04-23",
+      "filename": "f909fb4af8a3.json"
+    },
+    "a96b6977a923": {
+      "county_id": "cas_calaveras",
+      "name": "CALAVERAS",
+      "start_date": "1856-04-19",
+      "end_date": "1861-04-23",
+      "filename": "a96b6977a923.json"
+    },
+    "0c77201a65f1": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1856-04-19",
+      "end_date": "1856-04-20",
+      "filename": "0c77201a65f1.json"
+    },
+    "da25f3118978": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1856-04-21",
+      "end_date": "1859-04-18",
+      "filename": "da25f3118978.json"
+    },
+    "ad13d97742a2": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1856-04-21",
+      "end_date": "1857-02-18",
+      "filename": "ad13d97742a2.json"
+    },
+    "79f4a8eff083": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1856-04-21",
+      "end_date": "1857-02-18",
+      "filename": "79f4a8eff083.json"
+    },
+    "5eaab49eb16f": {
+      "county_id": "cas_sanmateo",
+      "name": "SAN MATEO",
+      "start_date": "1856-07-01",
+      "end_date": "1857-04-17",
+      "filename": "5eaab49eb16f.json"
+    },
+    "b7e9ae5c902e": {
+      "county_id": "cas_disputed",
+      "name": "Disputed Area",
+      "start_date": "1856-07-01",
+      "end_date": "1857-04-17",
+      "filename": "b7e9ae5c902e.json"
+    },
+    "7ef9352a0f25": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1856-07-01",
+      "end_date": "1857-04-17",
+      "filename": "7ef9352a0f25.json"
+    },
+    "a01f338f8de3": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1856-04-21",
+      "end_date": "1864-03-31",
+      "filename": "a01f338f8de3.json"
+    },
+    "d6c4d73f0825": {
+      "county_id": "cas_buenavista",
+      "name": "BUENA VISTA (prop)",
+      "start_date": "1856-04-16",
+      "end_date": "1856-04-16",
+      "filename": "d6c4d73f0825.json"
+    },
+    "144e0deb2ab5": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1856-04-09",
+      "end_date": "1856-04-18",
+      "filename": "144e0deb2ab5.json"
+    },
+    "53ecbeee05b9": {
+      "county_id": "cas_colusa",
+      "name": "COLUSI",
+      "start_date": "1856-04-09",
+      "end_date": "1856-04-18",
+      "filename": "53ecbeee05b9.json"
+    },
+    "612af7c303fd": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1856-04-09",
+      "end_date": "1856-04-20",
+      "filename": "612af7c303fd.json"
+    },
+    "c6b8cb968d9a": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1856-04-09",
+      "end_date": "1856-04-20",
+      "filename": "c6b8cb968d9a.json"
+    },
+    "ab40c3511b70": {
+      "county_id": "cas_klamath",
+      "name": "KLAMATH (ext)",
+      "start_date": "1857-03-02",
+      "end_date": "1874-05-29",
+      "filename": "ab40c3511b70.json"
+    },
+    "c7be4653d1e8": {
+      "county_id": "cas_delnorte",
+      "name": "DEL NORTE",
+      "start_date": "1857-03-02",
+      "end_date": "1872-12-31",
+      "filename": "c7be4653d1e8.json"
+    },
+    "0aec2bebeb60": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1857-03-02",
+      "end_date": "1872-12-31",
+      "filename": "0aec2bebeb60.json"
+    },
+    "95491c10c1da": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1857-02-19",
+      "end_date": "1859-04-18",
+      "filename": "95491c10c1da.json"
+    },
+    "877baa445b26": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1857-02-19",
+      "end_date": "1864-03-31",
+      "filename": "877baa445b26.json"
+    },
+    "8cb189b2aeb5": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1857-03-26",
+      "end_date": "1870-03-11",
+      "filename": "8cb189b2aeb5.json"
+    },
+    "4570b0d63aa6": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1857-03-26",
+      "end_date": "1868-03-23",
+      "filename": "4570b0d63aa6.json"
+    },
+    "fbc07a19a282": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1857-04-18",
+      "end_date": "1860-04-24",
+      "filename": "fbc07a19a282.json"
+    },
+    "407cf88fb9e3": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1857-04-18",
+      "end_date": "1860-04-24",
+      "filename": "407cf88fb9e3.json"
+    },
+    "23f39c5f15f9": {
+      "county_id": "cas_santacruz",
+      "name": "SANTA CRUZ",
+      "start_date": "1857-04-18",
+      "end_date": "1868-03-15",
+      "filename": "23f39c5f15f9.json"
+    },
+    "c7fe9530e031": {
+      "county_id": "cas_sanmateo",
+      "name": "SAN MATEO",
+      "start_date": "1857-04-18",
+      "end_date": "1868-03-15",
+      "filename": "c7fe9530e031.json"
+    },
+    "87a53ca0c8fc": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1857-04-25",
+      "end_date": "1863-04-07",
+      "filename": "87a53ca0c8fc.json"
+    },
+    "5a4d9fd7ab50": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1857-04-25",
+      "end_date": "1863-04-07",
+      "filename": "5a4d9fd7ab50.json"
+    },
+    "5349d2da8c55": {
+      "county_id": "cas_colusa",
+      "name": "COLUSI",
+      "start_date": "1857-02-19",
+      "end_date": "1858-12-31",
+      "filename": "5349d2da8c55.json"
+    },
+    "1241801c706a": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1859-04-19",
+      "end_date": "1864-03-31",
+      "filename": "1241801c706a.json"
+    },
+    "12bcdb4e6142": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1859-04-19",
+      "end_date": "1868-03-23",
+      "filename": "12bcdb4e6142.json"
+    },
+    "fbdfaaeb8c70": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1859-04-19",
+      "end_date": "1872-12-31",
+      "filename": "fbdfaaeb8c70.json"
+    },
+    "22bfe9c304d8": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1859-03-11",
+      "end_date": "1860-04-27",
+      "filename": "22bfe9c304d8.json"
+    },
+    "c84eb6a07e71": {
+      "county_id": "cas_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1859-03-11",
+      "end_date": "1860-04-27",
+      "filename": "c84eb6a07e71.json"
+    },
+    "04af5bc4c14c": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1859-03-11",
+      "end_date": "1860-04-24",
+      "filename": "04af5bc4c14c.json"
+    },
+    "1198fb235440": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1859-03-11",
+      "end_date": "1860-04-27",
+      "filename": "1198fb235440.json"
+    },
+    "1bc103bdc81f": {
+      "county_id": "cas_fresno",
+      "name": "FREZNO",
+      "start_date": "1859-04-11",
+      "end_date": "1861-04-23",
+      "filename": "1bc103bdc81f.json"
+    },
+    "2046f30158c6": {
+      "county_id": "cas_tuolumne",
+      "name": "TUOLUMNE",
+      "start_date": "1859-04-11",
+      "end_date": "1864-03-15",
+      "filename": "2046f30158c6.json"
+    },
+    "0e887bd20ed6": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1859-01-01",
+      "end_date": "1859-04-18",
+      "filename": "0e887bd20ed6.json"
+    },
+    "5a0c0bfdcf15": {
+      "county_id": "cas_stanislaus",
+      "name": "STANISLAUS",
+      "start_date": "1860-02-17",
+      "end_date": "2000-12-31",
+      "filename": "5a0c0bfdcf15.json"
+    },
+    "2493a7f9b149": {
+      "county_id": "cas_sanjoaquin",
+      "name": "SAN JOAQUIN",
+      "start_date": "1860-02-17",
+      "end_date": "1861-04-22",
+      "filename": "2493a7f9b149.json"
+    },
+    "0e2b030d8968": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1860-04-25",
+      "end_date": "1861-05-12",
+      "filename": "0e2b030d8968.json"
+    },
+    "51a95ee52ddf": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1860-04-25",
+      "end_date": "1959-12-30",
+      "filename": "51a95ee52ddf.json"
+    },
+    "a5d529c5e07b": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1860-04-25",
+      "end_date": "1861-05-12",
+      "filename": "a5d529c5e07b.json"
+    },
+    "92cbda3484ed": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1860-04-28",
+      "end_date": "1872-10-29",
+      "filename": "92cbda3484ed.json"
+    },
+    "721b7f122266": {
+      "county_id": "cas_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1860-04-28",
+      "end_date": "1874-05-29",
+      "filename": "721b7f122266.json"
+    },
+    "24564e1b340f": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1860-04-28",
+      "end_date": "1864-02-28",
+      "filename": "24564e1b340f.json"
+    },
+    "9ebe987f89ca": {
+      "county_id": "cas_sacramento",
+      "name": "SACRAMENTO",
+      "start_date": "1861-04-23",
+      "end_date": "1870-03-11",
+      "filename": "9ebe987f89ca.json"
+    },
+    "f62861c04823": {
+      "county_id": "cas_sanjoaquin",
+      "name": "SAN JOAQUIN",
+      "start_date": "1861-04-23",
+      "end_date": "1878-03-31",
+      "filename": "f62861c04823.json"
+    },
+    "064ce053e058": {
+      "county_id": "cas_fresno",
+      "name": "FREZNO",
+      "start_date": "1861-04-24",
+      "end_date": "1862-03-31",
+      "filename": "064ce053e058.json"
+    },
+    "1d7bc20e5870": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1861-04-24",
+      "end_date": "1870-03-28",
+      "filename": "1d7bc20e5870.json"
+    },
+    "a5d17aab0664": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1861-04-24",
+      "end_date": "1864-03-15",
+      "filename": "a5d17aab0664.json"
+    },
+    "e7287c345887": {
+      "county_id": "cas_calaveras",
+      "name": "CALAVERAS",
+      "start_date": "1861-04-24",
+      "end_date": "1864-03-15",
+      "filename": "e7287c345887.json"
+    },
+    "3a03bcbf8012": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1861-05-13",
+      "end_date": "1868-03-25",
+      "filename": "3a03bcbf8012.json"
+    },
+    "04e36a45ba4a": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1861-05-13",
+      "end_date": "1917-07-29",
+      "filename": "04e36a45ba4a.json"
+    },
+    "c0a2bf91b8d7": {
+      "county_id": "cas_monterey",
+      "name": "MONTEREY",
+      "start_date": "1861-05-13",
+      "end_date": "1863-04-19",
+      "filename": "c0a2bf91b8d7.json"
+    },
+    "1b9c7867e2fa": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1861-05-13",
+      "end_date": "1863-04-19",
+      "filename": "1b9c7867e2fa.json"
+    },
+    "3a253e55a150": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1861-05-20",
+      "end_date": "1864-02-28",
+      "filename": "3a253e55a150.json"
+    },
+    "519e42090ce8": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1861-05-20",
+      "end_date": "1864-02-28",
+      "filename": "519e42090ce8.json"
+    },
+    "b324ba09ce7d": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1862-04-01",
+      "end_date": "1870-03-28",
+      "filename": "b324ba09ce7d.json"
+    },
+    "9f28cd02159e": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1863-04-20",
+      "end_date": "1864-03-15",
+      "filename": "9f28cd02159e.json"
+    },
+    "7a528924af4d": {
+      "county_id": "cas_placer",
+      "name": "PLACER",
+      "start_date": "1863-04-20",
+      "end_date": "1866-03-12",
+      "filename": "7a528924af4d.json"
+    },
+    "6199787ccd64": {
+      "county_id": "cas_monterey",
+      "name": "MONTEREY",
+      "start_date": "1863-04-20",
+      "end_date": "1874-02-11",
+      "filename": "6199787ccd64.json"
+    },
+    "849218480f17": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1863-04-20",
+      "end_date": "1872-12-31",
+      "filename": "849218480f17.json"
+    },
+    "ad1ad3753d05": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1863-04-08",
+      "end_date": "1864-03-15",
+      "filename": "ad1ad3753d05.json"
+    },
+    "d32cfee63057": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1863-04-08",
+      "end_date": "1863-04-19",
+      "filename": "d32cfee63057.json"
+    },
+    "e1ff43e8b957": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1863-03-27",
+      "end_date": "1866-03-12",
+      "filename": "e1ff43e8b957.json"
+    },
+    "f05286b90364": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1863-03-27",
+      "end_date": "1864-03-31",
+      "filename": "f05286b90364.json"
+    },
+    "686720b4557c": {
+      "county_id": "cas_coso",
+      "name": "COSO (prop)",
+      "start_date": "1864-04-04",
+      "end_date": "1864-04-04",
+      "filename": "686720b4557c.json"
+    },
+    "ac4906e9feb3": {
+      "county_id": "cas_calaveras",
+      "name": "CALAVERAS",
+      "start_date": "1864-03-16",
+      "end_date": "2000-12-31",
+      "filename": "ac4906e9feb3.json"
+    },
+    "e859eadde8bb": {
+      "county_id": "cas_tuolumne",
+      "name": "TUOLUMNE",
+      "start_date": "1864-03-16",
+      "end_date": "2000-12-31",
+      "filename": "e859eadde8bb.json"
+    },
+    "e17fbfdefd86": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1864-02-29",
+      "end_date": "1868-03-23",
+      "filename": "e17fbfdefd86.json"
+    },
+    "8ae948bbe2a4": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1864-02-29",
+      "end_date": "1868-03-23",
+      "filename": "8ae948bbe2a4.json"
+    },
+    "e86da8f8ff17": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1864-02-29",
+      "end_date": "1872-10-29",
+      "filename": "e86da8f8ff17.json"
+    },
+    "ec904f9c1ff7": {
+      "county_id": "cas_alpine",
+      "name": "ALPINE",
+      "start_date": "1864-03-16",
+      "end_date": "2000-12-31",
+      "filename": "ec904f9c1ff7.json"
+    },
+    "79acdd888534": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1864-03-16",
+      "end_date": "1866-03-01",
+      "filename": "79acdd888534.json"
+    },
+    "3a72bad7816b": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1864-03-16",
+      "end_date": "1866-03-01",
+      "filename": "3a72bad7816b.json"
+    },
+    "c66867c750e0": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1864-03-16",
+      "end_date": "1913-08-09",
+      "filename": "c66867c750e0.json"
+    },
+    "b2cf28925bc0": {
+      "county_id": "cas_lassen",
+      "name": "LASSEN",
+      "start_date": "1864-04-01",
+      "end_date": "1872-12-31",
+      "filename": "b2cf28925bc0.json"
+    },
+    "5843b979f446": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1864-04-01",
+      "end_date": "1866-03-30",
+      "filename": "5843b979f446.json"
+    },
+    "2c7b64180144": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1864-04-01",
+      "end_date": "1872-12-31",
+      "filename": "2c7b64180144.json"
+    },
+    "ff893c8c063d": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1864-04-01",
+      "end_date": "1872-12-31",
+      "filename": "ff893c8c063d.json"
+    },
+    "8ea6caec0c3d": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1864-04-01",
+      "end_date": "1866-03-12",
+      "filename": "8ea6caec0c3d.json"
+    },
+    "8ce3cc3eb52e": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1866-04-02",
+      "end_date": "1872-12-31",
+      "filename": "8ce3cc3eb52e.json"
+    },
+    "97dd9ff27095": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1866-04-02",
+      "end_date": "1868-02-09",
+      "filename": "97dd9ff27095.json"
+    },
+    "56d3eb782547": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1866-04-02",
+      "end_date": "1868-02-09",
+      "filename": "56d3eb782547.json"
+    },
+    "39170e18fe0a": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1866-03-22",
+      "end_date": "1870-01-21",
+      "filename": "39170e18fe0a.json"
+    },
+    "82c2511129fc": {
+      "county_id": "cas_inyo",
+      "name": "INYO",
+      "start_date": "1866-03-22",
+      "end_date": "1870-03-27",
+      "filename": "82c2511129fc.json"
+    },
+    "38fab1646bf3": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1866-03-22",
+      "end_date": "1866-04-01",
+      "filename": "38fab1646bf3.json"
+    },
+    "4b75057dc82c": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1866-03-31",
+      "end_date": "1868-03-27",
+      "filename": "4b75057dc82c.json"
+    },
+    "7e2cc922eef6": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1866-03-31",
+      "end_date": "1897-02-24",
+      "filename": "7e2cc922eef6.json"
+    },
+    "67febdf606d7": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1866-03-31",
+      "end_date": "1868-03-27",
+      "filename": "67febdf606d7.json"
+    },
+    "3aef5ee42a44": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1866-03-02",
+      "end_date": "1866-03-21",
+      "filename": "3aef5ee42a44.json"
+    },
+    "e5954909bea1": {
+      "county_id": "cas_amador",
+      "name": "AMADOR",
+      "start_date": "1866-03-02",
+      "end_date": "2000-12-31",
+      "filename": "e5954909bea1.json"
+    },
+    "4b699be2e2b1": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1866-03-13",
+      "end_date": "1872-12-31",
+      "filename": "4b699be2e2b1.json"
+    },
+    "61458ddd8984": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1866-03-13",
+      "end_date": "1866-03-30",
+      "filename": "61458ddd8984.json"
+    },
+    "5a08ef823b76": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1866-03-13",
+      "end_date": "1866-03-30",
+      "filename": "5a08ef823b76.json"
+    },
+    "980a6a8b9e0d": {
+      "county_id": "cas_placer",
+      "name": "PLACER",
+      "start_date": "1866-03-13",
+      "end_date": "1872-12-31",
+      "filename": "980a6a8b9e0d.json"
+    },
+    "fd34e28234fa": {
+      "county_id": "cas_marin",
+      "name": "MARIN",
+      "start_date": "1868-03-26",
+      "end_date": "2000-12-31",
+      "filename": "fd34e28234fa.json"
+    },
+    "d921caa8dcfb": {
+      "county_id": "cas_santacruz",
+      "name": "SANTA CRUZ",
+      "start_date": "1868-03-16",
+      "end_date": "2000-12-31",
+      "filename": "d921caa8dcfb.json"
+    },
+    "d509ad4db482": {
+      "county_id": "cas_sanmateo",
+      "name": "SAN MATEO",
+      "start_date": "1868-03-16",
+      "end_date": "2000-12-31",
+      "filename": "d509ad4db482.json"
+    },
+    "f64774698352": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1868-03-24",
+      "end_date": "1870-03-11",
+      "filename": "f64774698352.json"
+    },
+    "3049ff61b4dd": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-07",
+      "filename": "3049ff61b4dd.json"
+    },
+    "3c7704adfc39": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1868-03-24",
+      "end_date": "1872-03-07",
+      "filename": "3c7704adfc39.json"
+    },
+    "52d9a40e117c": {
+      "county_id": "cas_contracosta",
+      "name": "CONTRA COSTA",
+      "start_date": "1868-03-26",
+      "end_date": "2000-12-31",
+      "filename": "52d9a40e117c.json"
+    },
+    "dfef3df85c5d": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1868-03-28",
+      "end_date": "1872-12-31",
+      "filename": "dfef3df85c5d.json"
+    },
+    "2211ddf7a2bf": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1868-03-28",
+      "end_date": "1874-03-15",
+      "filename": "2211ddf7a2bf.json"
+    },
+    "73d3a9b03272": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1868-02-10",
+      "end_date": "1872-12-31",
+      "filename": "73d3a9b03272.json"
+    },
+    "c6d6e93b6f15": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1868-02-10",
+      "end_date": "1870-01-21",
+      "filename": "c6d6e93b6f15.json"
+    },
+    "926ac464c4ed": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1868-03-24",
+      "end_date": "1872-12-31",
+      "filename": "926ac464c4ed.json"
+    },
+    "beeecbd0614c": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1870-03-28",
+      "end_date": "2000-12-31",
+      "filename": "beeecbd0614c.json"
+    },
+    "7a4172f2b8e2": {
+      "county_id": "cas_inyo",
+      "name": "INYO",
+      "start_date": "1870-03-28",
+      "end_date": "1872-12-31",
+      "filename": "7a4172f2b8e2.json"
+    },
+    "4b4050b5b09c": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1870-03-29",
+      "end_date": "1872-03-31",
+      "filename": "4b4050b5b09c.json"
+    },
+    "373179598700": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1870-03-29",
+      "end_date": "1872-03-31",
+      "filename": "373179598700.json"
+    },
+    "76585bfc6c6e": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1870-01-22",
+      "end_date": "1872-12-31",
+      "filename": "76585bfc6c6e.json"
+    },
+    "e5a59e23d1c3": {
+      "county_id": "cas_mono",
+      "name": "MONO",
+      "start_date": "1870-01-22",
+      "end_date": "1870-03-27",
+      "filename": "e5a59e23d1c3.json"
+    },
+    "decdff57f61a": {
+      "county_id": "cas_solano",
+      "name": "SOLANO",
+      "start_date": "1870-03-12",
+      "end_date": "2000-12-31",
+      "filename": "decdff57f61a.json"
+    },
+    "af7ec42ff5a2": {
+      "county_id": "cas_yolo",
+      "name": "YOLO",
+      "start_date": "1870-03-12",
+      "end_date": "2000-12-31",
+      "filename": "af7ec42ff5a2.json"
+    },
+    "59a03f2fbd8f": {
+      "county_id": "cas_sacramento",
+      "name": "SACRAMENTO",
+      "start_date": "1870-03-12",
+      "end_date": "1878-03-31",
+      "filename": "59a03f2fbd8f.json"
+    },
+    "666e69068401": {
+      "county_id": "cas_trinity",
+      "name": "TRINITY",
+      "start_date": "1872-10-30",
+      "end_date": "2000-12-31",
+      "filename": "666e69068401.json"
+    },
+    "c79f7fca6a9e": {
+      "county_id": "cas_napa",
+      "name": "NAPA",
+      "start_date": "1872-03-08",
+      "end_date": "2000-12-31",
+      "filename": "c79f7fca6a9e.json"
+    },
+    "33bf87a93d17": {
+      "county_id": "cas_mariposa",
+      "name": "MARIPOSA",
+      "start_date": "1872-04-01",
+      "end_date": "2000-12-31",
+      "filename": "33bf87a93d17.json"
+    },
+    "eb995ccf5e24": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1872-03-08",
+      "end_date": "1907-03-07",
+      "filename": "eb995ccf5e24.json"
+    },
+    "33830d47d294": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1872-04-01",
+      "end_date": "1874-03-26",
+      "filename": "33830d47d294.json"
+    },
+    "88557e545290": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1872-10-30",
+      "end_date": "1907-03-07",
+      "filename": "88557e545290.json"
+    },
+    "e6b733c9b5ba": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1873-01-01",
+      "end_date": "1899-03-13",
+      "filename": "e6b733c9b5ba.json"
+    },
+    "33b090475155": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1873-01-01",
+      "end_date": "1874-03-15",
+      "filename": "33b090475155.json"
+    },
+    "15912eb00367": {
+      "county_id": "cas_lassen",
+      "name": "LASSEN",
+      "start_date": "1873-01-01",
+      "end_date": "1874-03-15",
+      "filename": "15912eb00367.json"
+    },
+    "8fca8dab1b0e": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1873-01-01",
+      "end_date": "1877-02-04",
+      "filename": "8fca8dab1b0e.json"
+    },
+    "3f22d207a13f": {
+      "county_id": "cas_inyo",
+      "name": "INYO",
+      "start_date": "1873-01-01",
+      "end_date": "1957-09-10",
+      "filename": "3f22d207a13f.json"
+    },
+    "34dbfc06f776": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1873-01-01",
+      "end_date": "1885-03-13",
+      "filename": "34dbfc06f776.json"
+    },
+    "19a122820662": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1873-01-01",
+      "end_date": "1874-03-26",
+      "filename": "19a122820662.json"
+    },
+    "8ff44d2c8970": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1873-01-01",
+      "end_date": "1877-02-04",
+      "filename": "8ff44d2c8970.json"
+    },
+    "99277224f615": {
+      "county_id": "cas_ventura",
+      "name": "VENTURA",
+      "start_date": "1873-01-01",
+      "end_date": "1881-07-30",
+      "filename": "99277224f615.json"
+    },
+    "e7f2ae2e29d0": {
+      "county_id": "cas_santabarbara",
+      "name": "SANTA BARBARA",
+      "start_date": "1873-01-01",
+      "end_date": "2000-12-31",
+      "filename": "e7f2ae2e29d0.json"
+    },
+    "555959608a6a": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1873-01-01",
+      "end_date": "1874-02-16",
+      "filename": "555959608a6a.json"
+    },
+    "07e421b7cb4b": {
+      "county_id": "cas_delnorte",
+      "name": "DEL NORTE",
+      "start_date": "1873-01-01",
+      "end_date": "1887-03-10",
+      "filename": "07e421b7cb4b.json"
+    },
+    "d143acfc2438": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1873-01-01",
+      "end_date": "1944-11-19",
+      "filename": "d143acfc2438.json"
+    },
+    "2f8bd3409892": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1873-01-01",
+      "end_date": "1897-02-24",
+      "filename": "2f8bd3409892.json"
+    },
+    "407fcce29877": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1873-01-01",
+      "end_date": "1953-09-08",
+      "filename": "407fcce29877.json"
+    },
+    "15c740b28a2b": {
+      "county_id": "cas_placer",
+      "name": "PLACER",
+      "start_date": "1873-01-01",
+      "end_date": "1913-08-09",
+      "filename": "15c740b28a2b.json"
+    },
+    "b1e9f7badba2": {
+      "county_id": "cas_sandiego",
+      "name": "SAN DIEGO",
+      "start_date": "1873-01-01",
+      "end_date": "1893-05-01",
+      "filename": "b1e9f7badba2.json"
+    },
+    "a1baa79f3ce0": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1873-01-01",
+      "end_date": "1885-03-13",
+      "filename": "a1baa79f3ce0.json"
+    },
+    "479e69e1be0b": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1873-01-01",
+      "end_date": "1891-05-04",
+      "filename": "479e69e1be0b.json"
+    },
+    "1b5e941ced17": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1874-05-30",
+      "end_date": "1887-03-10",
+      "filename": "1b5e941ced17.json"
+    },
+    "e4f0eaf2b9c7": {
+      "county_id": "cas_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1874-05-30",
+      "end_date": "1901-03-22",
+      "filename": "e4f0eaf2b9c7.json"
+    },
+    "0c9df8315301": {
+      "county_id": "cas_modoc",
+      "name": "MODOC",
+      "start_date": "1874-02-17",
+      "end_date": "2000-12-31",
+      "filename": "0c9df8315301.json"
+    },
+    "b63c3ce892a2": {
+      "county_id": "cas_sierra",
+      "name": "SIERRA",
+      "start_date": "1874-03-16",
+      "end_date": "2000-12-31",
+      "filename": "b63c3ce892a2.json"
+    },
+    "907abf5a2372": {
+      "county_id": "cas_monterey",
+      "name": "MONTEREY",
+      "start_date": "1874-02-12",
+      "end_date": "2000-12-31",
+      "filename": "907abf5a2372.json"
+    },
+    "50d5176e213c": {
+      "county_id": "cas_sanbenito",
+      "name": "SAN BENITO",
+      "start_date": "1874-02-12",
+      "end_date": "1887-03-10",
+      "filename": "50d5176e213c.json"
+    },
+    "b772825271d7": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1874-03-27",
+      "end_date": "1876-03-22",
+      "filename": "b772825271d7.json"
+    },
+    "f133c97220cf": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1874-03-27",
+      "end_date": "1876-03-22",
+      "filename": "f133c97220cf.json"
+    },
+    "e2f6893e8d6f": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1874-02-17",
+      "end_date": "1874-05-29",
+      "filename": "e2f6893e8d6f.json"
+    },
+    "976bf4105a0d": {
+      "county_id": "cas_lassen",
+      "name": "LASSEN",
+      "start_date": "1874-03-16",
+      "end_date": "1899-03-13",
+      "filename": "976bf4105a0d.json"
+    },
+    "ac8ee2d9688c": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1874-03-16",
+      "end_date": "1901-02-27",
+      "filename": "ac8ee2d9688c.json"
+    },
+    "b74bf1ceaafb": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1876-03-23",
+      "end_date": "1893-05-22",
+      "filename": "b74bf1ceaafb.json"
+    },
+    "6063f11cdd8c": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1876-03-23",
+      "end_date": "1887-03-10",
+      "filename": "6063f11cdd8c.json"
+    },
+    "bc79dd0c9cd4": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1877-02-05",
+      "end_date": "1893-05-01",
+      "filename": "bc79dd0c9cd4.json"
+    },
+    "d12d31c0cc42": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1877-02-05",
+      "end_date": "1881-07-30",
+      "filename": "d12d31c0cc42.json"
+    },
+    "85ac87a5845f": {
+      "county_id": "cas_sacramento",
+      "name": "SACRAMENTO",
+      "start_date": "1878-04-01",
+      "end_date": "2000-12-31",
+      "filename": "85ac87a5845f.json"
+    },
+    "08f53fef03e4": {
+      "county_id": "cas_sanjoaquin",
+      "name": "SAN JOAQUIN",
+      "start_date": "1878-04-01",
+      "end_date": "2000-12-31",
+      "filename": "08f53fef03e4.json"
+    },
+    "154b80cca6e3": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1881-07-31",
+      "end_date": "1889-06-03",
+      "filename": "154b80cca6e3.json"
+    },
+    "237c8bfede99": {
+      "county_id": "cas_ventura",
+      "name": "VENTURA",
+      "start_date": "1881-07-31",
+      "end_date": "1919-07-22",
+      "filename": "237c8bfede99.json"
+    },
+    "75449eeaa5a9": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1885-03-14",
+      "end_date": "1917-07-26",
+      "filename": "75449eeaa5a9.json"
+    },
+    "7361239c23fc": {
+      "county_id": "cas_sanluisobispo",
+      "name": "SAN LUIS OBISPO",
+      "start_date": "1885-03-14",
+      "end_date": "2000-12-31",
+      "filename": "7361239c23fc.json"
+    },
+    "42ecc5b85fa9": {
+      "county_id": "cas_sanbenito",
+      "name": "SAN BENITO",
+      "start_date": "1887-03-11",
+      "end_date": "2000-12-31",
+      "filename": "42ecc5b85fa9.json"
+    },
+    "28731be9b5cc": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1887-03-11",
+      "end_date": "1893-05-15",
+      "filename": "28731be9b5cc.json"
+    },
+    "f25933af9a9a": {
+      "county_id": "cas_merced",
+      "name": "MERCED",
+      "start_date": "1887-03-11",
+      "end_date": "2000-12-31",
+      "filename": "f25933af9a9a.json"
+    },
+    "17eb660f9b20": {
+      "county_id": "cas_delnorte",
+      "name": "DEL NORTE",
+      "start_date": "1887-03-11",
+      "end_date": "1901-03-22",
+      "filename": "17eb660f9b20.json"
+    },
+    "62920bb7babc": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1887-03-11",
+      "end_date": "1901-03-22",
+      "filename": "62920bb7babc.json"
+    },
+    "26c15d58b05c": {
+      "county_id": "cas_orange",
+      "name": "ORANGE",
+      "start_date": "1889-06-04",
+      "end_date": "1988-11-07",
+      "filename": "26c15d58b05c.json"
+    },
+    "df0e2ddf5753": {
+      "county_id": "cas_losangeles",
+      "name": "LOS ANGELES",
+      "start_date": "1889-06-04",
+      "end_date": "2000-12-31",
+      "filename": "df0e2ddf5753.json"
+    },
+    "e2b14f20c82f": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1891-05-05",
+      "end_date": "1893-03-10",
+      "filename": "e2b14f20c82f.json"
+    },
+    "4f847ff6b25e": {
+      "county_id": "cas_glenn",
+      "name": "GLENN",
+      "start_date": "1891-05-05",
+      "end_date": "1893-03-10",
+      "filename": "4f847ff6b25e.json"
+    },
+    "ef73e049048c": {
+      "county_id": "cas_colusa",
+      "name": "COLUSA",
+      "start_date": "1893-03-11",
+      "end_date": "2000-12-31",
+      "filename": "ef73e049048c.json"
+    },
+    "e6e7c6389e80": {
+      "county_id": "cas_madera",
+      "name": "MADERA",
+      "start_date": "1893-05-16",
+      "end_date": "2000-12-31",
+      "filename": "e6e7c6389e80.json"
+    },
+    "45f19e6638b0": {
+      "county_id": "cas_glenn",
+      "name": "GLENN",
+      "start_date": "1893-03-11",
+      "end_date": "1907-03-07",
+      "filename": "45f19e6638b0.json"
+    },
+    "d2c5f11a3f14": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1893-05-16",
+      "end_date": "1909-04-11",
+      "filename": "d2c5f11a3f14.json"
+    },
+    "15cc8d647296": {
+      "county_id": "cas_kings",
+      "name": "KINGS",
+      "start_date": "1893-05-23",
+      "end_date": "1909-04-11",
+      "filename": "15cc8d647296.json"
+    },
+    "6107814149f0": {
+      "county_id": "cas_tulare",
+      "name": "TULARE",
+      "start_date": "1893-05-23",
+      "end_date": "2000-12-31",
+      "filename": "6107814149f0.json"
+    },
+    "01596bb3857e": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1893-05-02",
+      "end_date": "1917-07-26",
+      "filename": "01596bb3857e.json"
+    },
+    "5ccc524154bd": {
+      "county_id": "cas_sandiego",
+      "name": "SAN DIEGO",
+      "start_date": "1893-05-02",
+      "end_date": "1907-08-11",
+      "filename": "5ccc524154bd.json"
+    },
+    "c363b38fa561": {
+      "county_id": "cas_riverside",
+      "name": "RIVERSIDE",
+      "start_date": "1893-05-02",
+      "end_date": "1919-07-21",
+      "filename": "c363b38fa561.json"
+    },
+    "2ad2ae171332": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1897-02-25",
+      "end_date": "1901-03-22",
+      "filename": "2ad2ae171332.json"
+    },
+    "84d64bb9b515": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1897-02-25",
+      "end_date": "1953-09-08",
+      "filename": "84d64bb9b515.json"
+    },
+    "3d9251e4146f": {
+      "county_id": "cas_shasta",
+      "name": "SHASTA",
+      "start_date": "1899-03-14",
+      "end_date": "2000-12-31",
+      "filename": "3d9251e4146f.json"
+    },
+    "1dde6504b253": {
+      "county_id": "cas_lassen",
+      "name": "LASSEN",
+      "start_date": "1899-03-14",
+      "end_date": "1901-02-27",
+      "filename": "1dde6504b253.json"
+    },
+    "08b3575ea293": {
+      "county_id": "cas_delnorte",
+      "name": "DEL NORTE",
+      "start_date": "1901-03-23",
+      "end_date": "2000-12-31",
+      "filename": "08b3575ea293.json"
+    },
+    "71cd285469d6": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1901-03-23",
+      "end_date": "2000-12-31",
+      "filename": "71cd285469d6.json"
+    },
+    "13704fcd4cd8": {
+      "county_id": "cas_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1901-03-23",
+      "end_date": "2000-12-31",
+      "filename": "13704fcd4cd8.json"
+    },
+    "0b7020aec12f": {
+      "county_id": "cas_siskiyou",
+      "name": "SISKIYOU",
+      "start_date": "1901-03-23",
+      "end_date": "2000-12-31",
+      "filename": "0b7020aec12f.json"
+    },
+    "1106f8690d34": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1901-03-23",
+      "end_date": "1944-11-19",
+      "filename": "1106f8690d34.json"
+    },
+    "3bcbdf1921c2": {
+      "county_id": "cas_lassen",
+      "name": "LASSEN",
+      "start_date": "1901-02-28",
+      "end_date": "2000-12-31",
+      "filename": "3bcbdf1921c2.json"
+    },
+    "b6b40ebb05f4": {
+      "county_id": "cas_plumas",
+      "name": "PLUMAS",
+      "start_date": "1901-02-28",
+      "end_date": "1901-03-22",
+      "filename": "b6b40ebb05f4.json"
+    },
+    "1cc36958a7d2": {
+      "county_id": "cas_imperial",
+      "name": "IMPERIAL",
+      "start_date": "1907-08-12",
+      "end_date": "2000-12-31",
+      "filename": "1cc36958a7d2.json"
+    },
+    "752078b8482e": {
+      "county_id": "cas_sandiego",
+      "name": "SAN DIEGO",
+      "start_date": "1907-08-12",
+      "end_date": "2000-12-31",
+      "filename": "752078b8482e.json"
+    },
+    "4fc48e6b5af1": {
+      "county_id": "cas_glenn",
+      "name": "GLENN",
+      "start_date": "1907-03-08",
+      "end_date": "1909-03-12",
+      "filename": "4fc48e6b5af1.json"
+    },
+    "fe4ef5ef6566": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1907-03-08",
+      "end_date": "1909-03-12",
+      "filename": "fe4ef5ef6566.json"
+    },
+    "42b724a40be1": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1907-03-08",
+      "end_date": "1917-07-29",
+      "filename": "42b724a40be1.json"
+    },
+    "711ee5c878ab": {
+      "county_id": "cas_kings",
+      "name": "KINGS",
+      "start_date": "1909-04-12",
+      "end_date": "2000-12-31",
+      "filename": "711ee5c878ab.json"
+    },
+    "96191886589d": {
+      "county_id": "cas_fresno",
+      "name": "FRESNO",
+      "start_date": "1909-04-12",
+      "end_date": "2000-12-31",
+      "filename": "96191886589d.json"
+    },
+    "9fb038af999f": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1909-03-13",
+      "end_date": "1917-07-30",
+      "filename": "9fb038af999f.json"
+    },
+    "a217dda98ddf": {
+      "county_id": "cas_glenn",
+      "name": "GLENN",
+      "start_date": "1909-03-13",
+      "end_date": "2000-12-31",
+      "filename": "a217dda98ddf.json"
+    },
+    "42b2ac00420d": {
+      "county_id": "cas_placer",
+      "name": "PLACER",
+      "start_date": "1913-08-10",
+      "end_date": "2000-12-31",
+      "filename": "42b2ac00420d.json"
+    },
+    "3906c02066b8": {
+      "county_id": "cas_eldorado",
+      "name": "EL DORADO",
+      "start_date": "1913-08-10",
+      "end_date": "2000-12-31",
+      "filename": "3906c02066b8.json"
+    },
+    "1fbcad74db6f": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1917-07-31",
+      "end_date": "2000-12-31",
+      "filename": "1fbcad74db6f.json"
+    },
+    "ef3f6ff9a35b": {
+      "county_id": "cas_lake",
+      "name": "LAKE",
+      "start_date": "1917-07-31",
+      "end_date": "2000-12-31",
+      "filename": "ef3f6ff9a35b.json"
+    },
+    "a17a1a0d39a3": {
+      "county_id": "cas_sonoma",
+      "name": "SONOMA",
+      "start_date": "1917-07-30",
+      "end_date": "2000-12-31",
+      "filename": "a17a1a0d39a3.json"
+    },
+    "4ce90d4540cd": {
+      "county_id": "cas_mendocino",
+      "name": "MENDOCINO",
+      "start_date": "1917-07-30",
+      "end_date": "1917-07-30",
+      "filename": "4ce90d4540cd.json"
+    },
+    "afa8a308212e": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1917-07-27",
+      "end_date": "1919-07-21",
+      "filename": "afa8a308212e.json"
+    },
+    "988d6c6b59d6": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1917-07-27",
+      "end_date": "1919-07-22",
+      "filename": "988d6c6b59d6.json"
+    },
+    "696b78474c8e": {
+      "county_id": "cas_ventura",
+      "name": "VENTURA",
+      "start_date": "1919-07-23",
+      "end_date": "1991-06-09",
+      "filename": "696b78474c8e.json"
+    },
+    "aa511c37f772": {
+      "county_id": "cas_riverside",
+      "name": "RIVERSIDE",
+      "start_date": "1919-07-22",
+      "end_date": "1988-11-07",
+      "filename": "aa511c37f772.json"
+    },
+    "673890590726": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1919-07-22",
+      "end_date": "1957-09-10",
+      "filename": "673890590726.json"
+    },
+    "9476e69d4887": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1919-07-23",
+      "end_date": "1963-05-12",
+      "filename": "9476e69d4887.json"
+    },
+    "ff58abe720bf": {
+      "county_id": "cas_tehama",
+      "name": "TEHAMA",
+      "start_date": "1944-11-20",
+      "end_date": "2000-12-31",
+      "filename": "ff58abe720bf.json"
+    },
+    "5a047118b5a1": {
+      "county_id": "cas_butte",
+      "name": "BUTTE",
+      "start_date": "1944-11-20",
+      "end_date": "2000-12-31",
+      "filename": "5a047118b5a1.json"
+    },
+    "4efbee8cb1f6": {
+      "county_id": "cas_yuba",
+      "name": "YUBA",
+      "start_date": "1953-09-09",
+      "end_date": "2000-12-31",
+      "filename": "4efbee8cb1f6.json"
+    },
+    "68b496d66aa7": {
+      "county_id": "cas_sutter",
+      "name": "SUTTER",
+      "start_date": "1953-09-09",
+      "end_date": "2000-12-31",
+      "filename": "68b496d66aa7.json"
+    },
+    "bfc22eb2c1b5": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1957-09-11",
+      "end_date": "1963-05-12",
+      "filename": "bfc22eb2c1b5.json"
+    },
+    "2661b5799868": {
+      "county_id": "cas_inyo",
+      "name": "INYO",
+      "start_date": "1957-09-11",
+      "end_date": "2000-12-31",
+      "filename": "2661b5799868.json"
+    },
+    "b603b099ef2a": {
+      "county_id": "cas_sanfrancisco",
+      "name": "SAN FRANCISCO",
+      "start_date": "1959-12-31",
+      "end_date": "2000-12-31",
+      "filename": "b603b099ef2a.json"
+    },
+    "431a40ac021b": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1963-05-13",
+      "end_date": "1991-06-09",
+      "filename": "431a40ac021b.json"
+    },
+    "102502f38122": {
+      "county_id": "cas_sanbernardino",
+      "name": "SAN BERNARDINO",
+      "start_date": "1963-05-13",
+      "end_date": "2000-12-31",
+      "filename": "102502f38122.json"
+    },
+    "cfbc74d2b641": {
+      "county_id": "cas_riverside",
+      "name": "RIVERSIDE",
+      "start_date": "1988-11-08",
+      "end_date": "2000-12-31",
+      "filename": "cfbc74d2b641.json"
+    },
+    "1b045d5b2bbb": {
+      "county_id": "cas_orange",
+      "name": "ORANGE",
+      "start_date": "1988-11-08",
+      "end_date": "2000-12-31",
+      "filename": "1b045d5b2bbb.json"
+    },
+    "9b86e7b3e776": {
+      "county_id": "cas_kern",
+      "name": "KERN",
+      "start_date": "1991-06-10",
+      "end_date": "2000-12-31",
+      "filename": "9b86e7b3e776.json"
+    },
+    "e4090d765c6b": {
+      "county_id": "cas_ventura",
+      "name": "VENTURA",
+      "start_date": "1991-06-10",
+      "end_date": "2000-12-31",
+      "filename": "e4090d765c6b.json"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+/* newberry colors */
+
+body {
+  --flame: 241, 97, 81;
+  --park-green: 32, 84, 62;
+  --tile: 146, 88, 64;
+  --sapphire: 64, 81, 163;
+  --lake: 126, 196, 226;
+  --mulberry: 173, 43, 90;
+  --lavender: 205, 184, 209;
+  --midnight: 17, 26, 42;
+  --granite: 234, 235, 231;
+  --sand: 234, 220, 201;
+  --global-transition: 250ms;
+
+  --shadow-color: rgba(0, 0, 0, 0.15);
+
+  --shadow: 0 0 7px 7px var(--shadow-color);
+  --inset-shadow: inset 0 0 7px 7px var(--shadow-color);
+}
+
+@font-face {
+  font-family: "hepta-slab";
+  src: url("/static/fonts/HeptaSlab-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* fonts */
+@font-face {
+  /* heading 1 - 2 */
+  font-family: "flecha-m";
+  src:
+    url("/static/fonts/FlechaM-Regular.woff") format("woff"),
+    url("/static/fonts/FlechaM-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  /* heading 3+, use as much as possible, we love it */
+  font-family: "styrene";
+  src:
+    url("/static/fonts/StyreneB-Regular-Web.woff") format("woff"),
+    url("/static/fonts/StyreneB-Regular-Web.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  /* base text but Jen hates serif */
+  font-family: "signifier";
+  src: url("/static/fonts/signifier-regular.woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  /* transcription  */
+  /* not officially sanctioned!!! */
+  font-family: "0xproto";
+  src: url("/static/fonts/0xProto-Regular.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,
+h1 a,
+h1 *,
+h2,
+h2 * {
+  font-family: "flecha-m";
+}
+
+h3,
+h4,
+h5,
+h6,
+dt,
+p {
+  font-family: "styrene";
+}
+
+body,
+html {
+  font-family: "styrene";
+}
+
+b {
+  font-family: "styrene bold";
+}
+
+.link-lines {
+  text-decoration: none;
+  background:
+    linear-gradient(
+      to right,
+      color-mix(in oklab, currentcolor 30%, transparent),
+      color-mix(in oklab, currentcolor 30%, transparent)
+    ),
+    linear-gradient(to right, currentcolor, currentcolor);
+  background-size:
+    100% 0.1rem,
+    0 0.1rem;
+  background-position:
+    100% 100%,
+    0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 300ms;
+}
+
+.link-lines:hover,
+.link-lines:focus {
+  background-size:
+    0 0.1rem,
+    100% 0.1rem;
+}

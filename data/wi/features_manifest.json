@@ -1,0 +1,2729 @@
+{
+  "state": "WI",
+  "total_features": 389,
+  "features": {
+    "129e2beea13e": {
+      "county_id": "vas_illinois",
+      "name": "ILLINOIS (Va., ext)",
+      "start_date": "1778-12-09",
+      "end_date": "1784-02-29",
+      "filename": "129e2beea13e.json"
+    },
+    "ae7361cde4b3": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1784-03-01",
+      "end_date": "1787-07-12",
+      "filename": "ae7361cde4b3.json"
+    },
+    "d4a3c1ddc1d8": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1787-07-13",
+      "end_date": "1790-06-19",
+      "filename": "d4a3c1ddc1d8.json"
+    },
+    "3f19c49c928b": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1790-06-20",
+      "end_date": "1796-08-14",
+      "filename": "3f19c49c928b.json"
+    },
+    "08f7b6e661a5": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1790-06-20",
+      "end_date": "1796-08-14",
+      "filename": "08f7b6e661a5.json"
+    },
+    "c9e9e70a8b91": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "c9e9e70a8b91.json"
+    },
+    "8cfceb4089c4": {
+      "county_id": "nwt_wayne",
+      "name": "WAYNE (N.W. Terr.)",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "8cfceb4089c4.json"
+    },
+    "311481cd12d2": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1800-07-04",
+      "end_date": "1801-02-02",
+      "filename": "311481cd12d2.json"
+    },
+    "934c6b40b624": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1801-02-03",
+      "end_date": "1803-02-28",
+      "filename": "934c6b40b624.json"
+    },
+    "bdeeb45e0603": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1803-05-01",
+      "end_date": "1809-04-27",
+      "filename": "bdeeb45e0603.json"
+    },
+    "720c7179be44": {
+      "county_id": "int_wayne",
+      "name": "WAYNE (Ind. Terr.)",
+      "start_date": "1803-03-01",
+      "end_date": "1805-06-29",
+      "filename": "720c7179be44.json"
+    },
+    "6af03fb8790a": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1803-03-01",
+      "end_date": "1803-04-30",
+      "filename": "6af03fb8790a.json"
+    },
+    "9f5ea1ba7c5b": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1805-06-30",
+      "end_date": "1809-02-28",
+      "filename": "9f5ea1ba7c5b.json"
+    },
+    "f6490ea3ad11": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1809-04-28",
+      "end_date": "1812-09-13",
+      "filename": "f6490ea3ad11.json"
+    },
+    "a39a63ac9333": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1809-03-01",
+      "end_date": "1816-12-10",
+      "filename": "a39a63ac9333.json"
+    },
+    "35fd20e19fef": {
+      "county_id": "ilt_part",
+      "name": "Illinois Terr.",
+      "start_date": "1809-03-01",
+      "end_date": "1809-04-27",
+      "filename": "35fd20e19fef.json"
+    },
+    "755b0b00163d": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1812-09-14",
+      "end_date": "1814-11-27",
+      "filename": "755b0b00163d.json"
+    },
+    "c1fbf0c41b36": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS (Ill.)",
+      "start_date": "1814-11-28",
+      "end_date": "1816-12-10",
+      "filename": "c1fbf0c41b36.json"
+    },
+    "b529d52188bf": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1814-11-28",
+      "end_date": "1817-01-03",
+      "filename": "b529d52188bf.json"
+    },
+    "f2201dad65e4": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD (Ill.)",
+      "start_date": "1816-12-31",
+      "end_date": "1818-12-02",
+      "filename": "f2201dad65e4.json"
+    },
+    "6a5d11d0683b": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1816-12-11",
+      "end_date": "1818-12-02",
+      "filename": "6a5d11d0683b.json"
+    },
+    "5ba35b58c157": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS (Ill.)",
+      "start_date": "1816-12-11",
+      "end_date": "1816-12-30",
+      "filename": "5ba35b58c157.json"
+    },
+    "c0299f45ebbc": {
+      "county_id": "ils_bond",
+      "name": "BOND (Ill.)",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "c0299f45ebbc.json"
+    },
+    "d907d6a8f14d": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "d907d6a8f14d.json"
+    },
+    "c554982f097c": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1818-12-03",
+      "end_date": "1834-09-05",
+      "filename": "c554982f097c.json"
+    },
+    "ec616990120b": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1818-12-03",
+      "end_date": "1829-12-31",
+      "filename": "ec616990120b.json"
+    },
+    "d10502b145d2": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC (MI)",
+      "start_date": "1818-12-03",
+      "end_date": "1821-04-12",
+      "filename": "d10502b145d2.json"
+    },
+    "e61ada97e015": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC (MI)",
+      "start_date": "1821-04-13",
+      "end_date": "1822-09-09",
+      "filename": "e61ada97e015.json"
+    },
+    "8a3c25e4b654": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC (MI)",
+      "start_date": "1822-09-10",
+      "end_date": "1827-01-31",
+      "filename": "8a3c25e4b654.json"
+    },
+    "577d5c8a41d3": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC (MI)",
+      "start_date": "1827-02-01",
+      "end_date": "1831-03-01",
+      "filename": "577d5c8a41d3.json"
+    },
+    "29e3761250fe": {
+      "county_id": "mis_chippewa",
+      "name": "CHIPPEWA (Mich.)",
+      "start_date": "1827-02-01",
+      "end_date": "1836-07-02",
+      "filename": "29e3761250fe.json"
+    },
+    "224afa75608c": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1830-01-01",
+      "end_date": "1834-09-05",
+      "filename": "224afa75608c.json"
+    },
+    "86856c0c9ca0": {
+      "county_id": "wis_iowa",
+      "name": "IOWA",
+      "start_date": "1830-01-01",
+      "end_date": "1834-09-05",
+      "filename": "86856c0c9ca0.json"
+    },
+    "26fb34ab7e4d": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC (MI)",
+      "start_date": "1831-03-02",
+      "end_date": "1836-07-02",
+      "filename": "26fb34ab7e4d.json"
+    },
+    "c47ba0e9025a": {
+      "county_id": "wis_iowa",
+      "name": "IOWA",
+      "start_date": "1834-09-06",
+      "end_date": "1836-12-06",
+      "filename": "c47ba0e9025a.json"
+    },
+    "5498752127b3": {
+      "county_id": "wis_milwaukee",
+      "name": "MILWAUKEE",
+      "start_date": "1834-09-06",
+      "end_date": "1836-12-06",
+      "filename": "5498752127b3.json"
+    },
+    "256f80a847cc": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "256f80a847cc.json"
+    },
+    "6ff2c829906f": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "6ff2c829906f.json"
+    },
+    "29652b6d62dd": {
+      "county_id": "wis_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1836-12-07",
+      "end_date": "2000-12-31",
+      "filename": "29652b6d62dd.json"
+    },
+    "06015615d147": {
+      "county_id": "wis_sheboygan",
+      "name": "SHEBOYGAN",
+      "start_date": "1836-12-07",
+      "end_date": "2000-12-31",
+      "filename": "06015615d147.json"
+    },
+    "02cc1073981e": {
+      "county_id": "wis_walworth",
+      "name": "WALWORTH",
+      "start_date": "1836-12-07",
+      "end_date": "2000-12-31",
+      "filename": "02cc1073981e.json"
+    },
+    "625f74ecd0c0": {
+      "county_id": "wis_washington",
+      "name": "WASHINGTON",
+      "start_date": "1836-12-07",
+      "end_date": "1853-03-06",
+      "filename": "625f74ecd0c0.json"
+    },
+    "ee8d2699c7fc": {
+      "county_id": "wis_racine",
+      "name": "RACINE",
+      "start_date": "1836-12-07",
+      "end_date": "1850-01-29",
+      "filename": "ee8d2699c7fc.json"
+    },
+    "64c16eb8a2ce": {
+      "county_id": "wis_manitowoc",
+      "name": "MANITOWOC",
+      "start_date": "1836-12-07",
+      "end_date": "1850-02-08",
+      "filename": "64c16eb8a2ce.json"
+    },
+    "5b9f3419bd5e": {
+      "county_id": "wis_milwaukee",
+      "name": "MILWAUKEE",
+      "start_date": "1836-12-07",
+      "end_date": "1846-04-08",
+      "filename": "5b9f3419bd5e.json"
+    },
+    "0d0a31e69a19": {
+      "county_id": "ias_vanburen",
+      "name": "VAN BUREN (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-17",
+      "filename": "0d0a31e69a19.json"
+    },
+    "8fbfb836ea13": {
+      "county_id": "ias_lee",
+      "name": "LEE (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-17",
+      "filename": "8fbfb836ea13.json"
+    },
+    "dc859c1dd256": {
+      "county_id": "ias_desmoines",
+      "name": "DES MOINES (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-17",
+      "filename": "dc859c1dd256.json"
+    },
+    "cac88e1d9c86": {
+      "county_id": "ias_henry",
+      "name": "HENRY (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-17",
+      "filename": "cac88e1d9c86.json"
+    },
+    "1b895ed30a90": {
+      "county_id": "ias_louisa",
+      "name": "LOUISA (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-17",
+      "filename": "1b895ed30a90.json"
+    },
+    "67d723ee3200": {
+      "county_id": "ias_muscatine",
+      "name": "MUSCATINE (Iowa)",
+      "start_date": "1836-12-07",
+      "end_date": "1837-12-20",
+      "filename": "67d723ee3200.json"
+    },
+    "ff85dda2234a": {
+      "county_id": "ias_cook",
+      "name": "COOK (Iowa, ext)",
+      "start_date": "1836-12-07",
+      "end_date": "1837-12-20",
+      "filename": "ff85dda2234a.json"
+    },
+    "8e6449a9e195": {
+      "county_id": "wis_nca5",
+      "name": "NCA 5",
+      "start_date": "1836-12-07",
+      "end_date": "1837-12-20",
+      "filename": "8e6449a9e195.json"
+    },
+    "1548284633d2": {
+      "county_id": "wis_dane",
+      "name": "DANE",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-10",
+      "filename": "1548284633d2.json"
+    },
+    "7c71465453f2": {
+      "county_id": "wis_calumet",
+      "name": "CALUMET",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-05",
+      "filename": "7c71465453f2.json"
+    },
+    "61f12be789b6": {
+      "county_id": "wis_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-05",
+      "filename": "61f12be789b6.json"
+    },
+    "f8f78a4fb405": {
+      "county_id": "wis_fonddulac",
+      "name": "FOND DU LAC",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-05",
+      "filename": "f8f78a4fb405.json"
+    },
+    "b9f3980d9ea6": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-05",
+      "filename": "b9f3980d9ea6.json"
+    },
+    "fa53c2128d6f": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1836-12-07",
+      "end_date": "1840-01-05",
+      "filename": "fa53c2128d6f.json"
+    },
+    "072abe170d97": {
+      "county_id": "wis_rock",
+      "name": "ROCK",
+      "start_date": "1836-12-07",
+      "end_date": "1838-06-20",
+      "filename": "072abe170d97.json"
+    },
+    "999d4b6a5a77": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-11",
+      "filename": "999d4b6a5a77.json"
+    },
+    "7b0a7fe12068": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-11",
+      "filename": "7b0a7fe12068.json"
+    },
+    "e1cd21a06290": {
+      "county_id": "wis_dodge",
+      "name": "DODGE",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-11",
+      "filename": "e1cd21a06290.json"
+    },
+    "88e2912ff0a8": {
+      "county_id": "wis_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1836-12-07",
+      "end_date": "1838-01-11",
+      "filename": "88e2912ff0a8.json"
+    },
+    "d999e8817865": {
+      "county_id": "wis_iowa",
+      "name": "IOWA",
+      "start_date": "1836-12-07",
+      "end_date": "1837-03-03",
+      "filename": "d999e8817865.json"
+    },
+    "df35caf876f7": {
+      "county_id": "wis_nca2",
+      "name": "NCA 2",
+      "start_date": "1836-12-07",
+      "end_date": "1837-03-03",
+      "filename": "df35caf876f7.json"
+    },
+    "46628442c363": {
+      "county_id": "wis_nca3",
+      "name": "NCA 3",
+      "start_date": "1836-12-07",
+      "end_date": "1844-03-03",
+      "filename": "46628442c363.json"
+    },
+    "a05d992effc4": {
+      "county_id": "wis_nca4",
+      "name": "NCA 4",
+      "start_date": "1836-12-07",
+      "end_date": "1848-03-05",
+      "filename": "a05d992effc4.json"
+    },
+    "9f98972b1f31": {
+      "county_id": "ias_desmoines",
+      "name": "DES MOINES (Iowa)",
+      "start_date": "1836-07-03",
+      "end_date": "1836-12-06",
+      "filename": "9f98972b1f31.json"
+    },
+    "eabc53a87471": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1836-07-03",
+      "end_date": "1836-12-06",
+      "filename": "eabc53a87471.json"
+    },
+    "b422b68753de": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1836-07-03",
+      "end_date": "1836-12-06",
+      "filename": "b422b68753de.json"
+    },
+    "7240433d52e4": {
+      "county_id": "wis_nca1",
+      "name": "NCA 1",
+      "start_date": "1836-07-03",
+      "end_date": "1838-01-18",
+      "filename": "7240433d52e4.json"
+    },
+    "ca36832716ea": {
+      "county_id": "ias_dubuque",
+      "name": "DUBUQUE (Iowa)",
+      "start_date": "1836-07-03",
+      "end_date": "1837-12-20",
+      "filename": "ca36832716ea.json"
+    },
+    "08cdc5f86e54": {
+      "county_id": "wis_grant",
+      "name": "GRANT",
+      "start_date": "1837-03-04",
+      "end_date": "2000-12-31",
+      "filename": "08cdc5f86e54.json"
+    },
+    "724f4925e91a": {
+      "county_id": "wis_green",
+      "name": "GREEN",
+      "start_date": "1837-03-04",
+      "end_date": "2000-12-31",
+      "filename": "724f4925e91a.json"
+    },
+    "2612ba22c9ff": {
+      "county_id": "wis_iowa",
+      "name": "IOWA",
+      "start_date": "1837-03-04",
+      "end_date": "1847-04-30",
+      "filename": "2612ba22c9ff.json"
+    },
+    "a69bba20b291": {
+      "county_id": "ias_scott",
+      "name": "SCOTT (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "a69bba20b291.json"
+    },
+    "450d5668f6ae": {
+      "county_id": "wis_nca5",
+      "name": "NCA 5",
+      "start_date": "1837-12-21",
+      "end_date": "1838-01-17",
+      "filename": "450d5668f6ae.json"
+    },
+    "038429a07603": {
+      "county_id": "wis_nca6",
+      "name": "NCA 6",
+      "start_date": "1837-12-21",
+      "end_date": "1838-01-17",
+      "filename": "038429a07603.json"
+    },
+    "7114d96583ca": {
+      "county_id": "ias_muscatine",
+      "name": "MUSCATINE (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-01-17",
+      "filename": "7114d96583ca.json"
+    },
+    "29ee5173fbe2": {
+      "county_id": "ias_linn",
+      "name": "LINN (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "29ee5173fbe2.json"
+    },
+    "eb1f409cb1ec": {
+      "county_id": "ias_keokuk",
+      "name": "KEOKUK (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "eb1f409cb1ec.json"
+    },
+    "003a9f29cf78": {
+      "county_id": "ias_jones",
+      "name": "JONES (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "003a9f29cf78.json"
+    },
+    "ac7a7d85e95f": {
+      "county_id": "ias_johnson",
+      "name": "JOHNSON (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "ac7a7d85e95f.json"
+    },
+    "fd8a8ddac979": {
+      "county_id": "ias_jackson",
+      "name": "JACKSON (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "fd8a8ddac979.json"
+    },
+    "d654e8de4d53": {
+      "county_id": "ias_dubuque",
+      "name": "DUBUQUE (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "d654e8de4d53.json"
+    },
+    "e813af4318b7": {
+      "county_id": "ias_delaware",
+      "name": "DELAWARE (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "e813af4318b7.json"
+    },
+    "cbd54da58e20": {
+      "county_id": "ias_cook",
+      "name": "COOK (Iowa, ext)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-01-17",
+      "filename": "cbd54da58e20.json"
+    },
+    "3062aecb348e": {
+      "county_id": "ias_clinton",
+      "name": "CLINTON (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "3062aecb348e.json"
+    },
+    "9988288f2e62": {
+      "county_id": "ias_clayton",
+      "name": "CLAYTON (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "9988288f2e62.json"
+    },
+    "2e58cbf60631": {
+      "county_id": "ias_cedar",
+      "name": "CEDAR (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "2e58cbf60631.json"
+    },
+    "351c673e942d": {
+      "county_id": "ias_buchanan",
+      "name": "BUCHANAN (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "351c673e942d.json"
+    },
+    "2b5e84606ca5": {
+      "county_id": "ias_benton",
+      "name": "BENTON (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "2b5e84606ca5.json"
+    },
+    "7dbb676e8594": {
+      "county_id": "wis_nca2",
+      "name": "NCA 2",
+      "start_date": "1837-03-04",
+      "end_date": "1838-06-20",
+      "filename": "7dbb676e8594.json"
+    },
+    "c939b12935d1": {
+      "county_id": "ias_fayette",
+      "name": "FAYETTE (Iowa)",
+      "start_date": "1837-12-21",
+      "end_date": "1838-07-02",
+      "filename": "c939b12935d1.json"
+    },
+    "36337cc6d2ed": {
+      "county_id": "wis_dodge",
+      "name": "DODGE",
+      "start_date": "1838-01-12",
+      "end_date": "2000-12-31",
+      "filename": "36337cc6d2ed.json"
+    },
+    "1551ea111ebc": {
+      "county_id": "wis_rock",
+      "name": "ROCK",
+      "start_date": "1838-06-21",
+      "end_date": "2000-12-31",
+      "filename": "1551ea111ebc.json"
+    },
+    "fb6e0c85f7e9": {
+      "county_id": "ias_desmoines",
+      "name": "DES MOINES (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "fb6e0c85f7e9.json"
+    },
+    "18c46545cf7f": {
+      "county_id": "ias_henry",
+      "name": "HENRY (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "18c46545cf7f.json"
+    },
+    "132063ff74f9": {
+      "county_id": "wis_nca7",
+      "name": "NCA 7",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "132063ff74f9.json"
+    },
+    "6a726eb8ccfe": {
+      "county_id": "wis_nca8",
+      "name": "NCA 8",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "6a726eb8ccfe.json"
+    },
+    "c0a36d0ab8fc": {
+      "county_id": "wis_nca9",
+      "name": "NCA 9",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "c0a36d0ab8fc.json"
+    },
+    "122c685b0dc5": {
+      "county_id": "ias_lee",
+      "name": "LEE (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "122c685b0dc5.json"
+    },
+    "3867d447a79f": {
+      "county_id": "ias_louisa",
+      "name": "LOUISA (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "3867d447a79f.json"
+    },
+    "78e64c154675": {
+      "county_id": "ias_muscatine",
+      "name": "MUSCATINE (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "78e64c154675.json"
+    },
+    "550aa43a619a": {
+      "county_id": "ias_washington",
+      "name": "SLAUGHTER (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "550aa43a619a.json"
+    },
+    "d129338f360f": {
+      "county_id": "ias_vanburen",
+      "name": "VAN BUREN (Iowa)",
+      "start_date": "1838-01-18",
+      "end_date": "1838-07-02",
+      "filename": "d129338f360f.json"
+    },
+    "a2ce8f32eb08": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1838-01-12",
+      "end_date": "1840-01-10",
+      "filename": "a2ce8f32eb08.json"
+    },
+    "93417aa2caf5": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1838-01-12",
+      "end_date": "1840-01-10",
+      "filename": "93417aa2caf5.json"
+    },
+    "21d3aaaf3425": {
+      "county_id": "wis_nca1",
+      "name": "NCA 1",
+      "start_date": "1838-01-19",
+      "end_date": "1840-08-02",
+      "filename": "21d3aaaf3425.json"
+    },
+    "a77ab49d646d": {
+      "county_id": "wis_nca1",
+      "name": "NCA 1",
+      "start_date": "1840-08-03",
+      "end_date": "1841-02-17",
+      "filename": "a77ab49d646d.json"
+    },
+    "70e3901de2b7": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1840-08-03",
+      "end_date": "1841-02-17",
+      "filename": "70e3901de2b7.json"
+    },
+    "02eadf29ac6e": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1840-08-03",
+      "end_date": "1841-02-17",
+      "filename": "02eadf29ac6e.json"
+    },
+    "6e40ffab71bf": {
+      "county_id": "wis_dane",
+      "name": "DANE",
+      "start_date": "1840-01-11",
+      "end_date": "2000-12-31",
+      "filename": "6e40ffab71bf.json"
+    },
+    "4e496708e8c8": {
+      "county_id": "wis_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1840-01-06",
+      "end_date": "1848-03-05",
+      "filename": "4e496708e8c8.json"
+    },
+    "49400f53400e": {
+      "county_id": "wis_calumet",
+      "name": "CALUMET",
+      "start_date": "1840-01-06",
+      "end_date": "1844-03-03",
+      "filename": "49400f53400e.json"
+    },
+    "60a91d380b7a": {
+      "county_id": "wis_fonddulac",
+      "name": "FOND DU LAC",
+      "start_date": "1840-01-06",
+      "end_date": "1844-03-03",
+      "filename": "60a91d380b7a.json"
+    },
+    "17106c8b7276": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1840-01-06",
+      "end_date": "1844-03-03",
+      "filename": "17106c8b7276.json"
+    },
+    "c6b563f01d26": {
+      "county_id": "wis_sauk",
+      "name": "SAUK",
+      "start_date": "1840-01-11",
+      "end_date": "1842-02-17",
+      "filename": "c6b563f01d26.json"
+    },
+    "be5255380a4a": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1840-01-06",
+      "end_date": "1841-02-17",
+      "filename": "be5255380a4a.json"
+    },
+    "dd908fad91d0": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1840-01-06",
+      "end_date": "1841-02-17",
+      "filename": "dd908fad91d0.json"
+    },
+    "635e005232a8": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1840-01-11",
+      "end_date": "1841-02-17",
+      "filename": "635e005232a8.json"
+    },
+    "8bb9345a3b5e": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1840-01-11",
+      "end_date": "1840-08-02",
+      "filename": "8bb9345a3b5e.json"
+    },
+    "0f323f929f29": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1841-02-18",
+      "end_date": "1849-03-05",
+      "filename": "0f323f929f29.json"
+    },
+    "719546aa8bef": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1841-02-18",
+      "end_date": "1848-03-05",
+      "filename": "719546aa8bef.json"
+    },
+    "760a78655f92": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1841-02-18",
+      "end_date": "1846-04-30",
+      "filename": "760a78655f92.json"
+    },
+    "10939c9ce8ec": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1841-02-18",
+      "end_date": "1845-02-18",
+      "filename": "10939c9ce8ec.json"
+    },
+    "dbae6b238277": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1841-02-18",
+      "end_date": "1842-02-17",
+      "filename": "dbae6b238277.json"
+    },
+    "f4b033a6dadd": {
+      "county_id": "wis_richland",
+      "name": "RICHLAND",
+      "start_date": "1842-02-18",
+      "end_date": "2000-12-31",
+      "filename": "f4b033a6dadd.json"
+    },
+    "88b75d5c27ef": {
+      "county_id": "wis_sauk",
+      "name": "SAUK",
+      "start_date": "1842-02-18",
+      "end_date": "1849-03-07",
+      "filename": "88b75d5c27ef.json"
+    },
+    "541245d56ec8": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1842-02-18",
+      "end_date": "1845-02-02",
+      "filename": "541245d56ec8.json"
+    },
+    "c6f7e6153e7d": {
+      "county_id": "wis_calumet",
+      "name": "CALUMET",
+      "start_date": "1844-03-04",
+      "end_date": "1848-03-05",
+      "filename": "c6f7e6153e7d.json"
+    },
+    "7a3426b36802": {
+      "county_id": "wis_fonddulac",
+      "name": "FOND DU LAC",
+      "start_date": "1844-03-04",
+      "end_date": "1848-03-05",
+      "filename": "7a3426b36802.json"
+    },
+    "2eac3d9441b0": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1844-03-04",
+      "end_date": "1848-03-05",
+      "filename": "2eac3d9441b0.json"
+    },
+    "72bfa30e489d": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1845-02-03",
+      "end_date": "1846-01-13",
+      "filename": "72bfa30e489d.json"
+    },
+    "53d05a95bdba": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1845-02-03",
+      "end_date": "1846-01-13",
+      "filename": "53d05a95bdba.json"
+    },
+    "14bf4ff6521c": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1845-02-19",
+      "end_date": "1848-05-28",
+      "filename": "14bf4ff6521c.json"
+    },
+    "474609988c05": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1845-02-19",
+      "end_date": "1848-05-28",
+      "filename": "474609988c05.json"
+    },
+    "e9ca3e991bc4": {
+      "county_id": "wis_milwaukee",
+      "name": "MILWAUKEE",
+      "start_date": "1846-04-09",
+      "end_date": "2000-12-31",
+      "filename": "e9ca3e991bc4.json"
+    },
+    "6e9799e18bc9": {
+      "county_id": "wis_waukesha",
+      "name": "WAUKESHA",
+      "start_date": "1846-04-09",
+      "end_date": "2000-12-31",
+      "filename": "6e9799e18bc9.json"
+    },
+    "67a7ed9f131e": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1846-01-14",
+      "end_date": "1851-05-18",
+      "filename": "67a7ed9f131e.json"
+    },
+    "8044b634a3a6": {
+      "county_id": "wis_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1846-05-01",
+      "end_date": "1849-03-07",
+      "filename": "8044b634a3a6.json"
+    },
+    "56971bad11dd": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1846-05-01",
+      "end_date": "1848-03-10",
+      "filename": "56971bad11dd.json"
+    },
+    "dc3995983152": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1846-01-14",
+      "end_date": "1849-03-07",
+      "filename": "dc3995983152.json"
+    },
+    "d99ffadee2fc": {
+      "county_id": "wis_unnamed",
+      "name": "Unnamed Co. (prop)",
+      "start_date": "1846-02-02",
+      "end_date": "1846-02-02",
+      "filename": "d99ffadee2fc.json"
+    },
+    "8e03379ab76a": {
+      "county_id": "wis_montgomery",
+      "name": "MONTGOMERY (prop)",
+      "start_date": "1846-01-31",
+      "end_date": "1846-01-31",
+      "filename": "8e03379ab76a.json"
+    },
+    "cfecb4e8f38b": {
+      "county_id": "wis_iowa",
+      "name": "IOWA",
+      "start_date": "1847-05-01",
+      "end_date": "2000-12-31",
+      "filename": "cfecb4e8f38b.json"
+    },
+    "1908f5d315b3": {
+      "county_id": "wis_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1847-05-01",
+      "end_date": "2000-12-31",
+      "filename": "1908f5d315b3.json"
+    },
+    "83ebef24ca9f": {
+      "county_id": "wis_calumet",
+      "name": "CALUMET",
+      "start_date": "1848-03-06",
+      "end_date": "2000-12-31",
+      "filename": "83ebef24ca9f.json"
+    },
+    "68936a8a79a8": {
+      "county_id": "wis_fonddulac",
+      "name": "FOND DU LAC",
+      "start_date": "1848-03-06",
+      "end_date": "2000-12-31",
+      "filename": "68936a8a79a8.json"
+    },
+    "144ca1be2d40": {
+      "county_id": "wis_adams",
+      "name": "ADAMS",
+      "start_date": "1848-03-11",
+      "end_date": "1849-03-07",
+      "filename": "144ca1be2d40.json"
+    },
+    "2ea766d0d93d": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1848-03-06",
+      "end_date": "1849-03-07",
+      "filename": "2ea766d0d93d.json"
+    },
+    "f6a4e68dbabf": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1848-03-06",
+      "end_date": "1849-03-05",
+      "filename": "f6a4e68dbabf.json"
+    },
+    "6e8559faad64": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1848-03-11",
+      "end_date": "1849-03-05",
+      "filename": "6e8559faad64.json"
+    },
+    "6a826c0058eb": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1848-05-29",
+      "end_date": "1849-03-07",
+      "filename": "6a826c0058eb.json"
+    },
+    "1bc25e6e39be": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1848-05-29",
+      "end_date": "1849-03-07",
+      "filename": "1bc25e6e39be.json"
+    },
+    "fb9d02f53e54": {
+      "county_id": "wit_part",
+      "name": "de facto Wis. Terr.",
+      "start_date": "1848-05-29",
+      "end_date": "1849-03-02",
+      "filename": "fb9d02f53e54.json"
+    },
+    "b958bd02a5fc": {
+      "county_id": "wis_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1849-03-08",
+      "end_date": "2000-12-31",
+      "filename": "b958bd02a5fc.json"
+    },
+    "1a0aeb517cde": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1849-03-08",
+      "end_date": "1854-01-23",
+      "filename": "1a0aeb517cde.json"
+    },
+    "2ad1e2b9ebad": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1849-03-08",
+      "end_date": "1851-02-16",
+      "filename": "2ad1e2b9ebad.json"
+    },
+    "d1413e46a2e2": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1849-03-08",
+      "end_date": "1850-02-15",
+      "filename": "d1413e46a2e2.json"
+    },
+    "c59741bd4c5c": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1849-03-08",
+      "end_date": "1850-02-08",
+      "filename": "c59741bd4c5c.json"
+    },
+    "f83c45e15510": {
+      "county_id": "wis_sauk",
+      "name": "SAUK",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "f83c45e15510.json"
+    },
+    "7d4bff9dd3d7": {
+      "county_id": "wis_adams",
+      "name": "ADAMS",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "7d4bff9dd3d7.json"
+    },
+    "a4cdd1e4b87b": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "a4cdd1e4b87b.json"
+    },
+    "f3091875375e": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "f3091875375e.json"
+    },
+    "cb6a0664c14a": {
+      "county_id": "wis_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "cb6a0664c14a.json"
+    },
+    "f175058268de": {
+      "county_id": "wis_nca10",
+      "name": "NCA 10",
+      "start_date": "1849-03-08",
+      "end_date": "1849-12-31",
+      "filename": "f175058268de.json"
+    },
+    "130ae1e1ad9e": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1849-03-06",
+      "end_date": "1851-02-14",
+      "filename": "130ae1e1ad9e.json"
+    },
+    "34f96d1ab8d8": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1849-03-06",
+      "end_date": "1849-03-07",
+      "filename": "34f96d1ab8d8.json"
+    },
+    "9a59757514b9": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1849-03-06",
+      "end_date": "1849-03-07",
+      "filename": "9a59757514b9.json"
+    },
+    "d19b5a096cd2": {
+      "county_id": "wis_kenosha",
+      "name": "KENOSHA",
+      "start_date": "1850-01-30",
+      "end_date": "2000-12-31",
+      "filename": "d19b5a096cd2.json"
+    },
+    "04b205607fcd": {
+      "county_id": "wis_manitowoc",
+      "name": "MANITOWOC",
+      "start_date": "1850-02-09",
+      "end_date": "2000-12-31",
+      "filename": "04b205607fcd.json"
+    },
+    "695e7b5e461a": {
+      "county_id": "wis_racine",
+      "name": "RACINE",
+      "start_date": "1850-01-30",
+      "end_date": "2000-12-31",
+      "filename": "695e7b5e461a.json"
+    },
+    "360d2c57d365": {
+      "county_id": "wis_marathon",
+      "name": "MARATHON",
+      "start_date": "1850-02-16",
+      "end_date": "1860-03-14",
+      "filename": "360d2c57d365.json"
+    },
+    "e66c9d62bc18": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1850-01-01",
+      "end_date": "1854-02-08",
+      "filename": "e66c9d62bc18.json"
+    },
+    "0cdb6e07c26d": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1850-01-01",
+      "end_date": "1853-03-13",
+      "filename": "0cdb6e07c26d.json"
+    },
+    "aa87a143d6aa": {
+      "county_id": "wis_sauk",
+      "name": "SAUK",
+      "start_date": "1850-01-01",
+      "end_date": "1853-03-13",
+      "filename": "aa87a143d6aa.json"
+    },
+    "441135749135": {
+      "county_id": "wis_adams",
+      "name": "ADAMS",
+      "start_date": "1850-01-01",
+      "end_date": "1853-03-13",
+      "filename": "441135749135.json"
+    },
+    "34303b2c58e1": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1850-02-16",
+      "end_date": "1851-02-26",
+      "filename": "34303b2c58e1.json"
+    },
+    "76d1b884c953": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1850-02-09",
+      "end_date": "1851-02-05",
+      "filename": "76d1b884c953.json"
+    },
+    "c7fbca94d25a": {
+      "county_id": "wis_tuskola",
+      "name": "TUSKOLA (prop)",
+      "start_date": "1850-02-08",
+      "end_date": "1850-02-08",
+      "filename": "c7fbca94d25a.json"
+    },
+    "b9fed2e007c6": {
+      "county_id": "wis_waushara",
+      "name": "WAUSHARA",
+      "start_date": "1851-02-15",
+      "end_date": "2000-12-31",
+      "filename": "b9fed2e007c6.json"
+    },
+    "38c20e086b82": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1851-02-15",
+      "end_date": "1858-06-07",
+      "filename": "38c20e086b82.json"
+    },
+    "324dc3274fe8": {
+      "county_id": "wis_door",
+      "name": "DOOR",
+      "start_date": "1851-02-11",
+      "end_date": "1852-04-15",
+      "filename": "324dc3274fe8.json"
+    },
+    "e16e58613a64": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1851-02-11",
+      "end_date": "1851-02-16",
+      "filename": "e16e58613a64.json"
+    },
+    "27613e11ce04": {
+      "county_id": "wis_outagamie",
+      "name": "OUTAGAMIE",
+      "start_date": "1851-02-17",
+      "end_date": "2000-12-31",
+      "filename": "27613e11ce04.json"
+    },
+    "76c4ba1bb815": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1851-02-17",
+      "end_date": "1919-04-30",
+      "filename": "76c4ba1bb815.json"
+    },
+    "ad136153c84f": {
+      "county_id": "wis_waupaca",
+      "name": "WAUPACA",
+      "start_date": "1851-02-17",
+      "end_date": "1853-02-15",
+      "filename": "ad136153c84f.json"
+    },
+    "71447f6111e8": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1851-02-17",
+      "end_date": "1851-02-26",
+      "filename": "71447f6111e8.json"
+    },
+    "2dd0e2027930": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1851-05-19",
+      "end_date": "2000-12-31",
+      "filename": "2dd0e2027930.json"
+    },
+    "dffdbf43a6c8": {
+      "county_id": "wis_vernon",
+      "name": "BAD AX",
+      "start_date": "1851-05-19",
+      "end_date": "1862-04-30",
+      "filename": "dffdbf43a6c8.json"
+    },
+    "dba6c644f6e1": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1851-02-27",
+      "end_date": "1856-03-28",
+      "filename": "dba6c644f6e1.json"
+    },
+    "a91aac7c5b97": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1851-05-19",
+      "end_date": "1853-02-28",
+      "filename": "a91aac7c5b97.json"
+    },
+    "c5ea9aaa59f3": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1851-02-27",
+      "end_date": "1853-02-15",
+      "filename": "c5ea9aaa59f3.json"
+    },
+    "e921490be17a": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1851-02-06",
+      "end_date": "1853-02-15",
+      "filename": "e921490be17a.json"
+    },
+    "0d872c5ffc70": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1851-02-06",
+      "end_date": "1851-02-10",
+      "filename": "0d872c5ffc70.json"
+    },
+    "6166af9c5503": {
+      "county_id": "wis_kewaunee",
+      "name": "KEWAUNEE",
+      "start_date": "1852-04-16",
+      "end_date": "2000-12-31",
+      "filename": "6166af9c5503.json"
+    },
+    "0cf17438b8f3": {
+      "county_id": "wis_door",
+      "name": "DOOR",
+      "start_date": "1852-04-16",
+      "end_date": "1926-11-21",
+      "filename": "0cf17438b8f3.json"
+    },
+    "dc3f415dca5c": {
+      "county_id": "wis_clark",
+      "name": "CLARK",
+      "start_date": "1853-07-06",
+      "end_date": "1854-05-31",
+      "filename": "dc3f415dca5c.json"
+    },
+    "e9704ffe0b35": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1853-07-06",
+      "end_date": "1854-01-26",
+      "filename": "e9704ffe0b35.json"
+    },
+    "9f4606a62a7c": {
+      "county_id": "wis_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1853-07-06",
+      "end_date": "1854-01-23",
+      "filename": "9f4606a62a7c.json"
+    },
+    "56842363661e": {
+      "county_id": "wis_ozaukee",
+      "name": "OZAUKEE",
+      "start_date": "1853-03-07",
+      "end_date": "2000-12-31",
+      "filename": "56842363661e.json"
+    },
+    "a705fdaa6b62": {
+      "county_id": "wis_sauk",
+      "name": "SAUK",
+      "start_date": "1853-03-14",
+      "end_date": "2000-12-31",
+      "filename": "a705fdaa6b62.json"
+    },
+    "469cef707bec": {
+      "county_id": "wis_washington",
+      "name": "WASHINGTON",
+      "start_date": "1853-03-07",
+      "end_date": "2000-12-31",
+      "filename": "469cef707bec.json"
+    },
+    "18dbf50d0abf": {
+      "county_id": "wis_stcroix",
+      "name": "ST. CROIX",
+      "start_date": "1853-03-14",
+      "end_date": "2000-12-31",
+      "filename": "18dbf50d0abf.json"
+    },
+    "15304819b17f": {
+      "county_id": "wis_pierce",
+      "name": "PIERCE",
+      "start_date": "1853-03-14",
+      "end_date": "2000-12-31",
+      "filename": "15304819b17f.json"
+    },
+    "f1f2c88b827b": {
+      "county_id": "wis_waupaca",
+      "name": "WAUPACA",
+      "start_date": "1853-02-16",
+      "end_date": "1859-02-02",
+      "filename": "f1f2c88b827b.json"
+    },
+    "3c1f0a3058b4": {
+      "county_id": "wis_adams",
+      "name": "ADAMS",
+      "start_date": "1853-03-14",
+      "end_date": "1856-12-31",
+      "filename": "3c1f0a3058b4.json"
+    },
+    "4a7d1375ddac": {
+      "county_id": "wis_polk",
+      "name": "POLK",
+      "start_date": "1853-03-14",
+      "end_date": "1856-03-30",
+      "filename": "4a7d1375ddac.json"
+    },
+    "6e70f4cfe086": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1853-02-16",
+      "end_date": "1854-02-26",
+      "filename": "6e70f4cfe086.json"
+    },
+    "abc1e51bdfd8": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1853-02-16",
+      "end_date": "1854-02-26",
+      "filename": "abc1e51bdfd8.json"
+    },
+    "38c39b6cf44e": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1853-02-16",
+      "end_date": "1854-02-26",
+      "filename": "38c39b6cf44e.json"
+    },
+    "34a43f96e470": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1853-03-01",
+      "end_date": "1854-01-26",
+      "filename": "34a43f96e470.json"
+    },
+    "c3fd6dabb1d0": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1853-03-01",
+      "end_date": "1853-07-05",
+      "filename": "c3fd6dabb1d0.json"
+    },
+    "714fa823b3b1": {
+      "county_id": "wis_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1854-03-21",
+      "end_date": "2000-12-31",
+      "filename": "714fa823b3b1.json"
+    },
+    "b168b96ca810": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1854-02-09",
+      "end_date": "1860-06-04",
+      "filename": "b168b96ca810.json"
+    },
+    "b958c66788df": {
+      "county_id": "wis_dunn",
+      "name": "DUNN",
+      "start_date": "1854-02-03",
+      "end_date": "1858-03-03",
+      "filename": "b958c66788df.json"
+    },
+    "e9299944e900": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1854-03-21",
+      "end_date": "1856-10-13",
+      "filename": "e9299944e900.json"
+    },
+    "88c311e4f26a": {
+      "county_id": "wis_monroe",
+      "name": "MONROE",
+      "start_date": "1854-03-21",
+      "end_date": "1856-10-13",
+      "filename": "88c311e4f26a.json"
+    },
+    "92bcbd10bae0": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1854-02-27",
+      "end_date": "1856-03-27",
+      "filename": "92bcbd10bae0.json"
+    },
+    "4494a9308d78": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1854-02-27",
+      "end_date": "1856-03-27",
+      "filename": "4494a9308d78.json"
+    },
+    "6ae98072a80a": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1854-02-27",
+      "end_date": "1856-03-27",
+      "filename": "6ae98072a80a.json"
+    },
+    "995a5379af84": {
+      "county_id": "wis_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1854-02-09",
+      "end_date": "1856-03-30",
+      "filename": "995a5379af84.json"
+    },
+    "547988700128": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1854-02-03",
+      "end_date": "1854-05-31",
+      "filename": "547988700128.json"
+    },
+    "33c04e00e404": {
+      "county_id": "wis_trempealeau",
+      "name": "TREMPEALEAU",
+      "start_date": "1854-01-27",
+      "end_date": "1857-03-02",
+      "filename": "33c04e00e404.json"
+    },
+    "584314a3329f": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1854-01-27",
+      "end_date": "1854-05-31",
+      "filename": "584314a3329f.json"
+    },
+    "8cab0f5893ac": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1854-01-27",
+      "end_date": "1854-02-02",
+      "filename": "8cab0f5893ac.json"
+    },
+    "c06633935d16": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1854-01-27",
+      "end_date": "1854-03-20",
+      "filename": "c06633935d16.json"
+    },
+    "11ff7d4126cf": {
+      "county_id": "wis_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1854-01-27",
+      "end_date": "1854-03-20",
+      "filename": "11ff7d4126cf.json"
+    },
+    "98a9f68a4184": {
+      "county_id": "wis_clark",
+      "name": "CLARK",
+      "start_date": "1854-06-01",
+      "end_date": "1875-03-08",
+      "filename": "98a9f68a4184.json"
+    },
+    "ad49b743f864": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1854-06-01",
+      "end_date": "1857-01-01",
+      "filename": "ad49b743f864.json"
+    },
+    "c8f2f2ddda4b": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1854-06-01",
+      "end_date": "1856-10-13",
+      "filename": "c8f2f2ddda4b.json"
+    },
+    "fa9dfd884807": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1854-01-24",
+      "end_date": "1854-01-26",
+      "filename": "fa9dfd884807.json"
+    },
+    "a43442e12460": {
+      "county_id": "wis_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1854-01-24",
+      "end_date": "1854-01-26",
+      "filename": "a43442e12460.json"
+    },
+    "31da92150f61": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1856-09-25",
+      "end_date": "2000-12-31",
+      "filename": "31da92150f61.json"
+    },
+    "6a1bb7f71d6b": {
+      "county_id": "wis_monroe",
+      "name": "MONROE",
+      "start_date": "1856-10-14",
+      "end_date": "1883-04-15",
+      "filename": "6a1bb7f71d6b.json"
+    },
+    "45c60d82949f": {
+      "county_id": "wis_wood",
+      "name": "WOOD",
+      "start_date": "1856-09-25",
+      "end_date": "1870-04-24",
+      "filename": "45c60d82949f.json"
+    },
+    "4eba7700bb37": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1856-10-14",
+      "end_date": "1857-02-23",
+      "filename": "4eba7700bb37.json"
+    },
+    "f0a8e524a060": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1856-10-14",
+      "end_date": "1857-02-23",
+      "filename": "f0a8e524a060.json"
+    },
+    "fa497d032d30": {
+      "county_id": "wis_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1856-03-28",
+      "end_date": "2000-12-31",
+      "filename": "fa497d032d30.json"
+    },
+    "4be22fad4a92": {
+      "county_id": "wis_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1856-03-31",
+      "end_date": "1864-05-06",
+      "filename": "4be22fad4a92.json"
+    },
+    "e21dda38fcd8": {
+      "county_id": "wis_polk",
+      "name": "POLK",
+      "start_date": "1856-03-31",
+      "end_date": "1859-03-18",
+      "filename": "e21dda38fcd8.json"
+    },
+    "604fb9fdbaa7": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1856-03-28",
+      "end_date": "1858-05-16",
+      "filename": "604fb9fdbaa7.json"
+    },
+    "cbf679b69948": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1856-03-28",
+      "end_date": "1858-05-16",
+      "filename": "cbf679b69948.json"
+    },
+    "1b8f92e96484": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1856-03-31",
+      "end_date": "1858-05-16",
+      "filename": "1b8f92e96484.json"
+    },
+    "fd0f23e3ace4": {
+      "county_id": "wis_portage",
+      "name": "PORTAGE",
+      "start_date": "1856-03-29",
+      "end_date": "1856-09-24",
+      "filename": "fd0f23e3ace4.json"
+    },
+    "7c52b68818bc": {
+      "county_id": "wis_wood",
+      "name": "WOOD",
+      "start_date": "1856-03-29",
+      "end_date": "1856-09-24",
+      "filename": "7c52b68818bc.json"
+    },
+    "f46946bc529a": {
+      "county_id": "wis_nca11",
+      "name": "NCA 11",
+      "start_date": "1856-03-29",
+      "end_date": "1856-09-24",
+      "filename": "f46946bc529a.json"
+    },
+    "98da51dab45a": {
+      "county_id": "wis_nca12",
+      "name": "NCA 12",
+      "start_date": "1856-03-31",
+      "end_date": "1858-05-16",
+      "filename": "98da51dab45a.json"
+    },
+    "1ace637b3a2c": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1857-03-03",
+      "end_date": "2000-12-31",
+      "filename": "1ace637b3a2c.json"
+    },
+    "e7eb36d5c0bf": {
+      "county_id": "wis_trempealeau",
+      "name": "TREMPEALEAU",
+      "start_date": "1857-03-03",
+      "end_date": "2000-12-31",
+      "filename": "e7eb36d5c0bf.json"
+    },
+    "dc0f303106ee": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1857-03-03",
+      "end_date": "1870-04-24",
+      "filename": "dc0f303106ee.json"
+    },
+    "b13e70fabe21": {
+      "county_id": "wis_adams",
+      "name": "ADAMS",
+      "start_date": "1857-01-01",
+      "end_date": "2000-12-31",
+      "filename": "b13e70fabe21.json"
+    },
+    "7dcca3bb0ac8": {
+      "county_id": "wis_eauclaire",
+      "name": "EAU CLAIRE",
+      "start_date": "1857-01-02",
+      "end_date": "2000-12-31",
+      "filename": "7dcca3bb0ac8.json"
+    },
+    "bff6926b865a": {
+      "county_id": "wis_juneau",
+      "name": "JUNEAU",
+      "start_date": "1857-01-01",
+      "end_date": "2000-12-31",
+      "filename": "bff6926b865a.json"
+    },
+    "598701795b6f": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1857-01-02",
+      "end_date": "1860-03-28",
+      "filename": "598701795b6f.json"
+    },
+    "4b484c81755f": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1857-02-24",
+      "end_date": "1857-03-02",
+      "filename": "4b484c81755f.json"
+    },
+    "609f6d515f84": {
+      "county_id": "wis_lacrosse",
+      "name": "LA CROSSE",
+      "start_date": "1857-02-24",
+      "end_date": "1857-03-02",
+      "filename": "609f6d515f84.json"
+    },
+    "ecec890b0432": {
+      "county_id": "wis_dunn",
+      "name": "DUNN",
+      "start_date": "1858-03-04",
+      "end_date": "2000-12-31",
+      "filename": "ecec890b0432.json"
+    },
+    "9c3f620600e9": {
+      "county_id": "wis_pepin",
+      "name": "PEPIN",
+      "start_date": "1858-03-04",
+      "end_date": "2000-12-31",
+      "filename": "9c3f620600e9.json"
+    },
+    "f16b13f1f385": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1858-05-17",
+      "end_date": "1864-05-06",
+      "filename": "f16b13f1f385.json"
+    },
+    "0e76468d1dbd": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1858-05-17",
+      "end_date": "1860-03-14",
+      "filename": "0e76468d1dbd.json"
+    },
+    "b14cff2d1255": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1858-06-08",
+      "end_date": "1860-03-18",
+      "filename": "b14cff2d1255.json"
+    },
+    "7054f25d3505": {
+      "county_id": "wis_greenlake",
+      "name": "GREEN LAKE",
+      "start_date": "1858-06-08",
+      "end_date": "1860-03-18",
+      "filename": "7054f25d3505.json"
+    },
+    "70bc9fc76221": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1858-05-17",
+      "end_date": "1859-02-02",
+      "filename": "70bc9fc76221.json"
+    },
+    "246b0ce52e01": {
+      "county_id": "wis_polk",
+      "name": "POLK",
+      "start_date": "1859-03-19",
+      "end_date": "1863-03-25",
+      "filename": "246b0ce52e01.json"
+    },
+    "587bd62431ab": {
+      "county_id": "wis_barron",
+      "name": "DALLAS",
+      "start_date": "1859-03-19",
+      "end_date": "1860-03-28",
+      "filename": "587bd62431ab.json"
+    },
+    "6df2f4aad638": {
+      "county_id": "wis_waupaca",
+      "name": "WAUPACA",
+      "start_date": "1859-03-11",
+      "end_date": "1860-03-26",
+      "filename": "6df2f4aad638.json"
+    },
+    "784b182b8e78": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1859-03-11",
+      "end_date": "1860-03-14",
+      "filename": "784b182b8e78.json"
+    },
+    "e73eb0ebdf69": {
+      "county_id": "wis_waupaca",
+      "name": "WAUPACA",
+      "start_date": "1859-02-03",
+      "end_date": "1859-03-10",
+      "filename": "e73eb0ebdf69.json"
+    },
+    "0125b02e8fe7": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1859-02-03",
+      "end_date": "1859-03-10",
+      "filename": "0125b02e8fe7.json"
+    },
+    "9160aff02394": {
+      "county_id": "wis_waupaca",
+      "name": "WAUPACA",
+      "start_date": "1860-03-27",
+      "end_date": "2000-12-31",
+      "filename": "9160aff02394.json"
+    },
+    "1efa86eadc60": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1860-03-27",
+      "end_date": "1879-03-02",
+      "filename": "1efa86eadc60.json"
+    },
+    "e6a905b4652a": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1860-06-05",
+      "end_date": "1866-04-30",
+      "filename": "e6a905b4652a.json"
+    },
+    "8665071b339d": {
+      "county_id": "wis_bayfield",
+      "name": "LA POINTE",
+      "start_date": "1860-06-05",
+      "end_date": "1866-04-30",
+      "filename": "8665071b339d.json"
+    },
+    "1c05c2ac74cc": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1860-03-29",
+      "end_date": "1864-05-06",
+      "filename": "1c05c2ac74cc.json"
+    },
+    "a052705878df": {
+      "county_id": "wis_barron",
+      "name": "DALLAS",
+      "start_date": "1860-03-29",
+      "end_date": "1863-03-25",
+      "filename": "a052705878df.json"
+    },
+    "3764023e5088": {
+      "county_id": "wis_greenlake",
+      "name": "GREEN LAKE",
+      "start_date": "1860-03-19",
+      "end_date": "2000-12-31",
+      "filename": "3764023e5088.json"
+    },
+    "a2a0f59306c5": {
+      "county_id": "wis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1860-03-19",
+      "end_date": "2000-12-31",
+      "filename": "a2a0f59306c5.json"
+    },
+    "c84e7d074fcc": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1860-03-15",
+      "end_date": "1879-03-02",
+      "filename": "c84e7d074fcc.json"
+    },
+    "763934e83dea": {
+      "county_id": "wis_marathon",
+      "name": "MARATHON",
+      "start_date": "1860-03-15",
+      "end_date": "1874-12-31",
+      "filename": "763934e83dea.json"
+    },
+    "f1267797e2b6": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1860-03-15",
+      "end_date": "1860-03-26",
+      "filename": "f1267797e2b6.json"
+    },
+    "af9098c6797e": {
+      "county_id": "wis_vernon",
+      "name": "VERNON",
+      "start_date": "1862-05-01",
+      "end_date": "1939-06-26",
+      "filename": "af9098c6797e.json"
+    },
+    "a02c32c1fb47": {
+      "county_id": "wis_barron",
+      "name": "DALLAS",
+      "start_date": "1863-03-26",
+      "end_date": "1869-03-03",
+      "filename": "a02c32c1fb47.json"
+    },
+    "970d62167df4": {
+      "county_id": "wis_polk",
+      "name": "POLK",
+      "start_date": "1863-03-26",
+      "end_date": "1866-04-10",
+      "filename": "970d62167df4.json"
+    },
+    "0fd3830442f2": {
+      "county_id": "wis_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1864-05-07",
+      "end_date": "2000-12-31",
+      "filename": "0fd3830442f2.json"
+    },
+    "f179e5bef465": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1864-05-07",
+      "end_date": "1875-03-08",
+      "filename": "f179e5bef465.json"
+    },
+    "5b85be2f3091": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1864-05-07",
+      "end_date": "1866-04-10",
+      "filename": "5b85be2f3091.json"
+    },
+    "860f5052e7f7": {
+      "county_id": "wis_polk",
+      "name": "POLK",
+      "start_date": "1866-04-11",
+      "end_date": "2000-12-31",
+      "filename": "860f5052e7f7.json"
+    },
+    "a4c583be5d6e": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1866-04-11",
+      "end_date": "1869-03-22",
+      "filename": "a4c583be5d6e.json"
+    },
+    "b1742237ff47": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1866-05-01",
+      "end_date": "1869-03-10",
+      "filename": "b1742237ff47.json"
+    },
+    "273a6ec1271d": {
+      "county_id": "wis_bayfield",
+      "name": "BAYFIELD",
+      "start_date": "1866-05-01",
+      "end_date": "1869-03-10",
+      "filename": "273a6ec1271d.json"
+    },
+    "9ba8cbcf584e": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1869-03-23",
+      "end_date": "1872-03-07",
+      "filename": "9ba8cbcf584e.json"
+    },
+    "f44138a48850": {
+      "county_id": "wis_barron",
+      "name": "BARRON",
+      "start_date": "1869-03-23",
+      "end_date": "1872-03-07",
+      "filename": "f44138a48850.json"
+    },
+    "526df30e2cbe": {
+      "county_id": "wis_bayfield",
+      "name": "BAYFIELD",
+      "start_date": "1869-03-11",
+      "end_date": "2000-12-31",
+      "filename": "526df30e2cbe.json"
+    },
+    "c8050b6ba1cd": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1869-03-11",
+      "end_date": "1883-03-12",
+      "filename": "c8050b6ba1cd.json"
+    },
+    "3d89eb1d6dbd": {
+      "county_id": "wis_barron",
+      "name": "BARRON",
+      "start_date": "1869-03-04",
+      "end_date": "1869-03-22",
+      "filename": "3d89eb1d6dbd.json"
+    },
+    "4658b02b8f13": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1870-05-01",
+      "end_date": "1872-03-11",
+      "filename": "4658b02b8f13.json"
+    },
+    "0c13fb0480b2": {
+      "county_id": "wis_wood",
+      "name": "WOOD",
+      "start_date": "1870-05-01",
+      "end_date": "1872-03-11",
+      "filename": "0c13fb0480b2.json"
+    },
+    "a685cf648dda": {
+      "county_id": "wis_wood",
+      "name": "WOOD",
+      "start_date": "1870-04-25",
+      "end_date": "1870-04-30",
+      "filename": "a685cf648dda.json"
+    },
+    "f6da4b96bee6": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1870-04-25",
+      "end_date": "1870-04-30",
+      "filename": "f6da4b96bee6.json"
+    },
+    "590e9dc4314c": {
+      "county_id": "wis_wood",
+      "name": "WOOD",
+      "start_date": "1872-03-12",
+      "end_date": "2000-12-31",
+      "filename": "590e9dc4314c.json"
+    },
+    "e3ed31788fa8": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1872-03-12",
+      "end_date": "1883-04-15",
+      "filename": "e3ed31788fa8.json"
+    },
+    "9c7946580d87": {
+      "county_id": "wis_barron",
+      "name": "BARRON",
+      "start_date": "1872-03-08",
+      "end_date": "1874-03-10",
+      "filename": "9c7946580d87.json"
+    },
+    "8d7dd537047a": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1872-03-08",
+      "end_date": "1874-03-10",
+      "filename": "8d7dd537047a.json"
+    },
+    "7f00a8847dd0": {
+      "county_id": "wis_barron",
+      "name": "BARRON",
+      "start_date": "1874-03-11",
+      "end_date": "2000-12-31",
+      "filename": "7f00a8847dd0.json"
+    },
+    "c68f82f27137": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1874-03-11",
+      "end_date": "1883-04-06",
+      "filename": "c68f82f27137.json"
+    },
+    "816ff1420b76": {
+      "county_id": "wis_clark",
+      "name": "CLARK",
+      "start_date": "1875-03-09",
+      "end_date": "2000-12-31",
+      "filename": "816ff1420b76.json"
+    },
+    "74d62f7bfc35": {
+      "county_id": "wis_marathon",
+      "name": "MARATHON",
+      "start_date": "1875-03-09",
+      "end_date": "2000-12-31",
+      "filename": "74d62f7bfc35.json"
+    },
+    "f8bae0dc5be2": {
+      "county_id": "wis_taylor",
+      "name": "TAYLOR",
+      "start_date": "1875-03-09",
+      "end_date": "2000-12-31",
+      "filename": "f8bae0dc5be2.json"
+    },
+    "ea51de45fa08": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1875-03-09",
+      "end_date": "1879-03-02",
+      "filename": "ea51de45fa08.json"
+    },
+    "9ccea91582f7": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1875-03-09",
+      "end_date": "1879-03-02",
+      "filename": "9ccea91582f7.json"
+    },
+    "df7cda591517": {
+      "county_id": "wis_marathon",
+      "name": "MARATHON",
+      "start_date": "1875-01-01",
+      "end_date": "1875-03-08",
+      "filename": "df7cda591517.json"
+    },
+    "44fe8206a677": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1875-01-01",
+      "end_date": "1875-03-08",
+      "filename": "44fe8206a677.json"
+    },
+    "08076e02dca7": {
+      "county_id": "wis_price",
+      "name": "PRICE",
+      "start_date": "1879-03-03",
+      "end_date": "2000-12-31",
+      "filename": "08076e02dca7.json"
+    },
+    "2a3cc3add558": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1879-03-03",
+      "end_date": "1883-03-14",
+      "filename": "2a3cc3add558.json"
+    },
+    "a3d74ab334ff": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1879-03-03",
+      "end_date": "1883-03-12",
+      "filename": "a3d74ab334ff.json"
+    },
+    "c32b9165d002": {
+      "county_id": "wis_marinette",
+      "name": "MARINETTE",
+      "start_date": "1879-03-03",
+      "end_date": "1882-03-31",
+      "filename": "c32b9165d002.json"
+    },
+    "7b6cf8711acc": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1879-03-03",
+      "end_date": "1881-02-18",
+      "filename": "7b6cf8711acc.json"
+    },
+    "b3ddd55fdfc6": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1879-03-03",
+      "end_date": "1881-02-18",
+      "filename": "b3ddd55fdfc6.json"
+    },
+    "0336953ef1bb": {
+      "county_id": "wis_langlade",
+      "name": "NEW",
+      "start_date": "1879-03-03",
+      "end_date": "1880-02-19",
+      "filename": "0336953ef1bb.json"
+    },
+    "2dee08849f7d": {
+      "county_id": "wis_langlade",
+      "name": "LANGLADE",
+      "start_date": "1880-02-20",
+      "end_date": "1881-02-18",
+      "filename": "2dee08849f7d.json"
+    },
+    "6f043eeded03": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1881-02-19",
+      "end_date": "1885-03-26",
+      "filename": "6f043eeded03.json"
+    },
+    "1dcdfde6d747": {
+      "county_id": "wis_langlade",
+      "name": "LANGLADE",
+      "start_date": "1881-02-19",
+      "end_date": "1885-03-26",
+      "filename": "1dcdfde6d747.json"
+    },
+    "7726371c3092": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1881-02-19",
+      "end_date": "1882-03-31",
+      "filename": "7726371c3092.json"
+    },
+    "1030c190d2fb": {
+      "county_id": "wis_florence",
+      "name": "FLORENCE",
+      "start_date": "1882-04-01",
+      "end_date": "2000-12-31",
+      "filename": "1030c190d2fb.json"
+    },
+    "a920202c7d65": {
+      "county_id": "wis_marinette",
+      "name": "MARINETTE",
+      "start_date": "1882-04-01",
+      "end_date": "2000-12-31",
+      "filename": "a920202c7d65.json"
+    },
+    "1d190567da0c": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1882-04-01",
+      "end_date": "1886-03-31",
+      "filename": "1d190567da0c.json"
+    },
+    "a32816e31a55": {
+      "county_id": "wis_burnett",
+      "name": "BURNETT",
+      "start_date": "1883-04-07",
+      "end_date": "2000-12-31",
+      "filename": "a32816e31a55.json"
+    },
+    "c4bf48c5198f": {
+      "county_id": "wis_washburn",
+      "name": "WASHBURN",
+      "start_date": "1883-04-07",
+      "end_date": "2000-12-31",
+      "filename": "c4bf48c5198f.json"
+    },
+    "627231355aa9": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1883-03-15",
+      "end_date": "1893-03-02",
+      "filename": "627231355aa9.json"
+    },
+    "f6a5722ef8ef": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1883-03-15",
+      "end_date": "1885-04-13",
+      "filename": "f6a5722ef8ef.json"
+    },
+    "8827e1c3fb48": {
+      "county_id": "wis_monroe",
+      "name": "MONROE",
+      "start_date": "1883-04-16",
+      "end_date": "1939-06-26",
+      "filename": "8827e1c3fb48.json"
+    },
+    "530f17f0905e": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "1883-04-16",
+      "end_date": "1999-12-31",
+      "filename": "530f17f0905e.json"
+    },
+    "f231a39fa23f": {
+      "county_id": "wis_sawyer",
+      "name": "SAWYER",
+      "start_date": "1883-03-13",
+      "end_date": "2000-12-31",
+      "filename": "f231a39fa23f.json"
+    },
+    "b5fb887d6884": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1883-03-13",
+      "end_date": "1901-05-23",
+      "filename": "b5fb887d6884.json"
+    },
+    "5ce6f2239270": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1883-03-13",
+      "end_date": "1883-03-14",
+      "filename": "5ce6f2239270.json"
+    },
+    "366f009d7fc5": {
+      "county_id": "wis_langlade",
+      "name": "LANGLADE",
+      "start_date": "1885-04-14",
+      "end_date": "2000-12-31",
+      "filename": "366f009d7fc5.json"
+    },
+    "9ea6e712bf12": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1885-04-14",
+      "end_date": "1886-12-31",
+      "filename": "9ea6e712bf12.json"
+    },
+    "15945b755738": {
+      "county_id": "wis_forest",
+      "name": "FOREST",
+      "start_date": "1885-04-14",
+      "end_date": "1886-03-31",
+      "filename": "15945b755738.json"
+    },
+    "6bd53fb66360": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1885-03-27",
+      "end_date": "1919-04-30",
+      "filename": "6bd53fb66360.json"
+    },
+    "5b8fd8bc853e": {
+      "county_id": "wis_langlade",
+      "name": "LANGLADE",
+      "start_date": "1885-03-27",
+      "end_date": "1885-04-13",
+      "filename": "5b8fd8bc853e.json"
+    },
+    "43f96fb7a6b8": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1886-04-01",
+      "end_date": "1919-04-30",
+      "filename": "43f96fb7a6b8.json"
+    },
+    "df7f20b011fa": {
+      "county_id": "wis_forest",
+      "name": "FOREST",
+      "start_date": "1886-04-01",
+      "end_date": "1893-05-01",
+      "filename": "df7f20b011fa.json"
+    },
+    "3fb0a31903ad": {
+      "county_id": "wis_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1887-01-01",
+      "end_date": "2000-12-31",
+      "filename": "3fb0a31903ad.json"
+    },
+    "13f2058ea506": {
+      "county_id": "wis_oneida",
+      "name": "ONEIDA",
+      "start_date": "1887-01-01",
+      "end_date": "1893-04-14",
+      "filename": "13f2058ea506.json"
+    },
+    "3444a24117d6": {
+      "county_id": "wis_iron",
+      "name": "IRON",
+      "start_date": "1893-04-15",
+      "end_date": "2000-12-31",
+      "filename": "3444a24117d6.json"
+    },
+    "a6f2cd24e81d": {
+      "county_id": "wis_vilas",
+      "name": "VILAS",
+      "start_date": "1893-04-15",
+      "end_date": "1897-04-28",
+      "filename": "a6f2cd24e81d.json"
+    },
+    "dfc31297b540": {
+      "county_id": "wis_oneida",
+      "name": "ONEIDA",
+      "start_date": "1893-04-15",
+      "end_date": "1893-05-01",
+      "filename": "dfc31297b540.json"
+    },
+    "1e9e5a1753ba": {
+      "county_id": "wis_forest",
+      "name": "FOREST",
+      "start_date": "1893-05-02",
+      "end_date": "1897-04-28",
+      "filename": "1e9e5a1753ba.json"
+    },
+    "6b2b11770ac7": {
+      "county_id": "wis_oneida",
+      "name": "ONEIDA",
+      "start_date": "1893-05-02",
+      "end_date": "1897-04-28",
+      "filename": "6b2b11770ac7.json"
+    },
+    "d9de44a51411": {
+      "county_id": "wis_ashland",
+      "name": "ASHLAND",
+      "start_date": "1893-03-03",
+      "end_date": "2000-12-31",
+      "filename": "d9de44a51411.json"
+    },
+    "b1d8b7fda2ea": {
+      "county_id": "wis_iron",
+      "name": "IRON",
+      "start_date": "1893-03-03",
+      "end_date": "1893-04-14",
+      "filename": "b1d8b7fda2ea.json"
+    },
+    "9c729d400e8e": {
+      "county_id": "wis_forest",
+      "name": "FOREST",
+      "start_date": "1897-04-29",
+      "end_date": "1905-05-15",
+      "filename": "9c729d400e8e.json"
+    },
+    "494b890d2aab": {
+      "county_id": "wis_vilas",
+      "name": "VILAS",
+      "start_date": "1897-04-29",
+      "end_date": "1905-03-30",
+      "filename": "494b890d2aab.json"
+    },
+    "62b870b77d16": {
+      "county_id": "wis_oneida",
+      "name": "ONEIDA",
+      "start_date": "1897-04-29",
+      "end_date": "1905-03-30",
+      "filename": "62b870b77d16.json"
+    },
+    "f82e4c7432b3": {
+      "county_id": "wis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1901-05-24",
+      "end_date": "2000-12-31",
+      "filename": "f82e4c7432b3.json"
+    },
+    "1458c26480c7": {
+      "county_id": "wis_rusk",
+      "name": "GATES",
+      "start_date": "1901-05-24",
+      "end_date": "1905-06-25",
+      "filename": "1458c26480c7.json"
+    },
+    "73b462e9b9de": {
+      "county_id": "wis_forest",
+      "name": "FOREST",
+      "start_date": "1905-05-16",
+      "end_date": "2000-12-31",
+      "filename": "73b462e9b9de.json"
+    },
+    "c8785a50ef34": {
+      "county_id": "wis_rusk",
+      "name": "RUSK",
+      "start_date": "1905-06-26",
+      "end_date": "2000-12-31",
+      "filename": "c8785a50ef34.json"
+    },
+    "6c5358b44050": {
+      "county_id": "wis_vilas",
+      "name": "VILAS",
+      "start_date": "1905-05-16",
+      "end_date": "2000-12-31",
+      "filename": "6c5358b44050.json"
+    },
+    "1a2cdf9b4608": {
+      "county_id": "wis_oneida",
+      "name": "ONEIDA",
+      "start_date": "1905-03-31",
+      "end_date": "2000-12-31",
+      "filename": "1a2cdf9b4608.json"
+    },
+    "cad955eb355b": {
+      "county_id": "wis_vilas",
+      "name": "VILAS",
+      "start_date": "1905-03-31",
+      "end_date": "1905-05-15",
+      "filename": "cad955eb355b.json"
+    },
+    "c68bde10ec7e": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC (Mich.)",
+      "start_date": "1909-01-01",
+      "end_date": "1923-10-07",
+      "filename": "c68bde10ec7e.json"
+    },
+    "d376777d7c79": {
+      "county_id": "wis_overlap4",
+      "name": "Overlap Area 4",
+      "start_date": "1909-01-01",
+      "end_date": "1923-10-07",
+      "filename": "d376777d7c79.json"
+    },
+    "cebeeda4e08b": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1919-05-01",
+      "end_date": "1961-04-30",
+      "filename": "cebeeda4e08b.json"
+    },
+    "449bd17c5760": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1919-05-01",
+      "end_date": "1961-04-30",
+      "filename": "449bd17c5760.json"
+    },
+    "11eec2076431": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1919-05-01",
+      "end_date": "1965-09-22",
+      "filename": "11eec2076431.json"
+    },
+    "751b364ba0d6": {
+      "county_id": "mis_iron",
+      "name": "IRON (Mich.)",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "751b364ba0d6.json"
+    },
+    "e042c11de75a": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC (Mich.)",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "e042c11de75a.json"
+    },
+    "68899f9bf712": {
+      "county_id": "wis_overlap4",
+      "name": "Overlap Area 4",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "68899f9bf712.json"
+    },
+    "89d39d4b459a": {
+      "county_id": "mis_delta",
+      "name": "DELTA (Mich.)",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "89d39d4b459a.json"
+    },
+    "8fbc6eeb680e": {
+      "county_id": "wis_overlap5",
+      "name": "Overlap Area 5",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "8fbc6eeb680e.json"
+    },
+    "1c91ee33fc2a": {
+      "county_id": "wis_door",
+      "name": "DOOR",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "1c91ee33fc2a.json"
+    },
+    "10f572cc817d": {
+      "county_id": "mis_delta",
+      "name": "DELTA (Mich.)",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "10f572cc817d.json"
+    },
+    "d2b5168c97bf": {
+      "county_id": "wis_overlap6",
+      "name": "Overlap Area 6",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "d2b5168c97bf.json"
+    },
+    "c3741abc044b": {
+      "county_id": "wis_door",
+      "name": "DOOR",
+      "start_date": "1936-03-16",
+      "end_date": "2000-12-31",
+      "filename": "c3741abc044b.json"
+    },
+    "732bb64cdee5": {
+      "county_id": "wis_monroe",
+      "name": "MONROE",
+      "start_date": "1939-06-27",
+      "end_date": "1999-12-31",
+      "filename": "732bb64cdee5.json"
+    },
+    "5f15695dd14a": {
+      "county_id": "wis_vernon",
+      "name": "VERNON",
+      "start_date": "1939-06-27",
+      "end_date": "2000-12-31",
+      "filename": "5f15695dd14a.json"
+    },
+    "3761738ece65": {
+      "county_id": "wis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1961-05-01",
+      "end_date": "2000-12-31",
+      "filename": "3761738ece65.json"
+    },
+    "75b92872bfbc": {
+      "county_id": "wis_oconto",
+      "name": "OCONTO",
+      "start_date": "1961-05-01",
+      "end_date": "2000-12-31",
+      "filename": "75b92872bfbc.json"
+    },
+    "a282f2722c7a": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1961-05-01",
+      "end_date": "1965-09-22",
+      "filename": "a282f2722c7a.json"
+    },
+    "b4d2bc1cdd30": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1965-09-23",
+      "end_date": "1967-12-21",
+      "filename": "b4d2bc1cdd30.json"
+    },
+    "ffddd503bcd7": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1965-09-23",
+      "end_date": "1967-12-21",
+      "filename": "ffddd503bcd7.json"
+    },
+    "2d6b33668e86": {
+      "county_id": "wis_brown",
+      "name": "BROWN",
+      "start_date": "1967-12-22",
+      "end_date": "2000-12-31",
+      "filename": "2d6b33668e86.json"
+    },
+    "225979bb78e6": {
+      "county_id": "wis_shawano",
+      "name": "SHAWANO",
+      "start_date": "1967-12-22",
+      "end_date": "2000-12-31",
+      "filename": "225979bb78e6.json"
+    },
+    "802509f7b100": {
+      "county_id": "wis_monroe",
+      "name": "MONROE",
+      "start_date": "2000-01-01",
+      "end_date": "2000-12-31",
+      "filename": "802509f7b100.json"
+    },
+    "1c4c760d71d8": {
+      "county_id": "wis_jackson",
+      "name": "JACKSON",
+      "start_date": "2000-01-01",
+      "end_date": "2000-12-31",
+      "filename": "1c4c760d71d8.json"
+    }
+  }
+}

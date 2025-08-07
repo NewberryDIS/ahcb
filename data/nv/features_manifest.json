@@ -1,0 +1,1189 @@
+{
+  "state": "NV",
+  "total_features": 169,
+  "features": {
+    "a55e85d7045d": {
+      "county_id": "nmt_part",
+      "name": "New Mexico Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "a55e85d7045d.json"
+    },
+    "2e8f4ded83b7": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1850-12-12",
+      "filename": "2e8f4ded83b7.json"
+    },
+    "9933bb6113c9": {
+      "county_id": "utt_part",
+      "name": "Utah Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1852-03-02",
+      "filename": "9933bb6113c9.json"
+    },
+    "b41d42803d9b": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1856-01-04",
+      "filename": "b41d42803d9b.json"
+    },
+    "7fb627bf07d5": {
+      "county_id": "uts_weber",
+      "name": "WEBER (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1855-01-09",
+      "filename": "7fb627bf07d5.json"
+    },
+    "59d8e07facfc": {
+      "county_id": "uts_juab",
+      "name": "JUAB (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "59d8e07facfc.json"
+    },
+    "78e4e0f3c43b": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "78e4e0f3c43b.json"
+    },
+    "87360f18e1c4": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "87360f18e1c4.json"
+    },
+    "f70226dc5614": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "f70226dc5614.json"
+    },
+    "505d4906bbc1": {
+      "county_id": "nmt_santaana",
+      "name": "SANTA ANA (N.M Terr)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "505d4906bbc1.json"
+    },
+    "5f363ec5b242": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "5f363ec5b242.json"
+    },
+    "cfb6526178f3": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1860-01-31",
+      "filename": "cfb6526178f3.json"
+    },
+    "a4e927a607e6": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "a4e927a607e6.json"
+    },
+    "ad2dc11f35d2": {
+      "county_id": "cas_pautah",
+      "name": "PAUTAH (Ca., prop)",
+      "start_date": "1852-05-03",
+      "end_date": "1852-05-03",
+      "filename": "ad2dc11f35d2.json"
+    },
+    "044f606af01c": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "044f606af01c.json"
+    },
+    "d6159e52600d": {
+      "county_id": "utt_desert",
+      "name": "DESERT (Ut Ter, ext)",
+      "start_date": "1852-03-03",
+      "end_date": "1856-01-04",
+      "filename": "d6159e52600d.json"
+    },
+    "755e68c7e00d": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1854-01-17",
+      "end_date": "1861-01-17",
+      "filename": "755e68c7e00d.json"
+    },
+    "8bf8acf3d0ee": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "8bf8acf3d0ee.json"
+    },
+    "e16ce6c53dc9": {
+      "county_id": "uts_juab",
+      "name": "JUAB (Utah)",
+      "start_date": "1854-01-17",
+      "end_date": "1855-01-17",
+      "filename": "e16ce6c53dc9.json"
+    },
+    "e0992b3b4ddd": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE (Utah)",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "e0992b3b4ddd.json"
+    },
+    "3ed29834a32f": {
+      "county_id": "utt_carson",
+      "name": "CARSON (Ut Ter, ext)",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "3ed29834a32f.json"
+    },
+    "7e37323b7353": {
+      "county_id": "uts_juab",
+      "name": "JUAB (Utah)",
+      "start_date": "1855-01-18",
+      "end_date": "1856-01-04",
+      "filename": "7e37323b7353.json"
+    },
+    "b658b9f6d760": {
+      "county_id": "uts_weber",
+      "name": "WEBER (Utah)",
+      "start_date": "1855-01-10",
+      "end_date": "1856-01-04",
+      "filename": "b658b9f6d760.json"
+    },
+    "1e4aa29740e6": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "1e4aa29740e6.json"
+    },
+    "6846d5d06123": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "6846d5d06123.json"
+    },
+    "d58a3f99f69d": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "d58a3f99f69d.json"
+    },
+    "f5cccc3a1ae6": {
+      "county_id": "utt_humboldt",
+      "name": "HUMBOLDT (Ut Ter)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "f5cccc3a1ae6.json"
+    },
+    "eb4a58868ec4": {
+      "county_id": "utt_carson",
+      "name": "CARSON (Ut Ter, ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-03-01",
+      "filename": "eb4a58868ec4.json"
+    },
+    "f2e084150977": {
+      "county_id": "utt_stmarys",
+      "name": "ST. MARY'S (Ut Ter)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "f2e084150977.json"
+    },
+    "4459eaa9c4cc": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1860-02-01",
+      "end_date": "1861-01-11",
+      "filename": "4459eaa9c4cc.json"
+    },
+    "f23181827f03": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "f23181827f03.json"
+    },
+    "510cc413bc17": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "510cc413bc17.json"
+    },
+    "79d0c7380021": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "79d0c7380021.json"
+    },
+    "e10608241e2d": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-17",
+      "filename": "e10608241e2d.json"
+    },
+    "3b9726f5fbc4": {
+      "county_id": "nvt_part",
+      "name": "Nevada Terr.",
+      "start_date": "1861-03-02",
+      "end_date": "1861-11-24",
+      "filename": "3b9726f5fbc4.json"
+    },
+    "40fd2665e304": {
+      "county_id": "nvs_storey",
+      "name": "STOREY",
+      "start_date": "1861-11-25",
+      "end_date": "1973-04-20",
+      "filename": "40fd2665e304.json"
+    },
+    "48d996f49b1c": {
+      "county_id": "nvs_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1861-11-25",
+      "end_date": "1899-03-05",
+      "filename": "48d996f49b1c.json"
+    },
+    "7b15216a2e65": {
+      "county_id": "nvs_ormsby",
+      "name": "ORMSBY (ext)",
+      "start_date": "1861-11-25",
+      "end_date": "1965-03-01",
+      "filename": "7b15216a2e65.json"
+    },
+    "fcac66d4aedc": {
+      "county_id": "nvs_roop",
+      "name": "LAKE (ext)",
+      "start_date": "1861-11-25",
+      "end_date": "1862-12-04",
+      "filename": "fcac66d4aedc.json"
+    },
+    "2e16bb9d281a": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1861-11-25",
+      "end_date": "1883-01-17",
+      "filename": "2e16bb9d281a.json"
+    },
+    "409b6f4afbd7": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1861-11-25",
+      "end_date": "1864-02-19",
+      "filename": "409b6f4afbd7.json"
+    },
+    "790175170093": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1861-11-25",
+      "end_date": "1862-12-18",
+      "filename": "790175170093.json"
+    },
+    "c16221c38a56": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1861-11-25",
+      "end_date": "1862-12-18",
+      "filename": "c16221c38a56.json"
+    },
+    "2d5fcf1e3aa6": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1861-11-25",
+      "end_date": "1862-12-18",
+      "filename": "2d5fcf1e3aa6.json"
+    },
+    "34664c384eb2": {
+      "county_id": "utt_stmarys",
+      "name": "ST. MARY'S (Ut Ter)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "34664c384eb2.json"
+    },
+    "f4c9658f7f8b": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "f4c9658f7f8b.json"
+    },
+    "f94db830692a": {
+      "county_id": "utt_shambip",
+      "name": "SHAMBIP (Ut Ter)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "f94db830692a.json"
+    },
+    "09b795b13fec": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "09b795b13fec.json"
+    },
+    "f70cf778525a": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "f70cf778525a.json"
+    },
+    "fa4d8d9ab122": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "fa4d8d9ab122.json"
+    },
+    "213444882ac9": {
+      "county_id": "utt_humboldt",
+      "name": "HUMBOLDT (Ut Ter)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-03-01",
+      "filename": "213444882ac9.json"
+    },
+    "925952fc8c49": {
+      "county_id": "utt_greasewood",
+      "name": "GREASEWOOD (Ut Ter)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "925952fc8c49.json"
+    },
+    "bc3daabe893c": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1861-01-12",
+      "end_date": "1861-02-27",
+      "filename": "bc3daabe893c.json"
+    },
+    "97a961801c4a": {
+      "county_id": "nmt_sanjuan",
+      "name": "SAN JUAN (N.M. Terr)",
+      "start_date": "1861-01-12",
+      "end_date": "1862-01-17",
+      "filename": "97a961801c4a.json"
+    },
+    "942ad19e014d": {
+      "county_id": "uts_juab",
+      "name": "JUAB (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "942ad19e014d.json"
+    },
+    "4946077f8deb": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "4946077f8deb.json"
+    },
+    "d9e8f6800e29": {
+      "county_id": "utt_desert",
+      "name": "DESERT (Ut Ter, ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "d9e8f6800e29.json"
+    },
+    "ad7e4ab89a0c": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1862-12-19",
+      "end_date": "1869-02-26",
+      "filename": "ad7e4ab89a0c.json"
+    },
+    "42675926f372": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1862-12-19",
+      "end_date": "1864-02-19",
+      "filename": "42675926f372.json"
+    },
+    "d464136688b7": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1862-12-19",
+      "end_date": "1864-02-19",
+      "filename": "d464136688b7.json"
+    },
+    "86c0a90d01c3": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1862-12-19",
+      "end_date": "1864-02-15",
+      "filename": "86c0a90d01c3.json"
+    },
+    "eac59e1d4d9f": {
+      "county_id": "nvs_nca",
+      "name": "NCA",
+      "start_date": "1862-12-19",
+      "end_date": "1864-02-15",
+      "filename": "eac59e1d4d9f.json"
+    },
+    "57685011a3ab": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1866-01-09",
+      "filename": "57685011a3ab.json"
+    },
+    "22a6cdf50820": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1866-01-09",
+      "filename": "22a6cdf50820.json"
+    },
+    "c33c3d7193eb": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1865-01-15",
+      "filename": "c33c3d7193eb.json"
+    },
+    "a76e4c16dae8": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1864-01-15",
+      "filename": "a76e4c16dae8.json"
+    },
+    "bfad472ec0f0": {
+      "county_id": "nvs_roop",
+      "name": "ROOP (ext)",
+      "start_date": "1862-12-05",
+      "end_date": "1883-01-17",
+      "filename": "bfad472ec0f0.json"
+    },
+    "0bcdcba53e8d": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1866-05-04",
+      "filename": "0bcdcba53e8d.json"
+    },
+    "7d66198c07ba": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE (Utah)",
+      "start_date": "1862-07-14",
+      "end_date": "1866-05-04",
+      "filename": "7d66198c07ba.json"
+    },
+    "8a27db5504e2": {
+      "county_id": "nvs_nca",
+      "name": "NCA",
+      "start_date": "1862-07-14",
+      "end_date": "1862-12-18",
+      "filename": "8a27db5504e2.json"
+    },
+    "9c93a96b8828": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "9c93a96b8828.json"
+    },
+    "80b60b7a3ca6": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "80b60b7a3ca6.json"
+    },
+    "78959c37f4e5": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "78959c37f4e5.json"
+    },
+    "d376987d8ba7": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "d376987d8ba7.json"
+    },
+    "096121edcb18": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1862-01-18",
+      "end_date": "1863-02-23",
+      "filename": "096121edcb18.json"
+    },
+    "27d881222e88": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "27d881222e88.json"
+    },
+    "5711bbc4f245": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE (Utah)",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "5711bbc4f245.json"
+    },
+    "fa19c8f1266b": {
+      "county_id": "azt_part",
+      "name": "Arizona Terr.",
+      "start_date": "1863-02-24",
+      "end_date": "1864-11-09",
+      "filename": "fa19c8f1266b.json"
+    },
+    "55f752eccd57": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1864-02-20",
+      "end_date": "1869-02-26",
+      "filename": "55f752eccd57.json"
+    },
+    "87402a77de61": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE (Ariz.)",
+      "start_date": "1864-11-10",
+      "end_date": "1865-12-21",
+      "filename": "87402a77de61.json"
+    },
+    "78106e633dd0": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1864-02-20",
+      "end_date": "1865-03-08",
+      "filename": "78106e633dd0.json"
+    },
+    "f0ca309ff560": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1864-02-20",
+      "end_date": "1865-03-08",
+      "filename": "f0ca309ff560.json"
+    },
+    "d7a6affc836e": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1864-02-20",
+      "end_date": "1865-03-08",
+      "filename": "d7a6affc836e.json"
+    },
+    "d570a74718ae": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1864-01-16",
+      "end_date": "1866-01-09",
+      "filename": "d570a74718ae.json"
+    },
+    "c132ffec66a8": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1864-02-16",
+      "end_date": "1865-03-08",
+      "filename": "c132ffec66a8.json"
+    },
+    "fb78be3a2948": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1864-02-16",
+      "end_date": "1864-02-19",
+      "filename": "fb78be3a2948.json"
+    },
+    "159b292d54a1": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1865-01-16",
+      "end_date": "1866-05-04",
+      "filename": "159b292d54a1.json"
+    },
+    "bfece4f79cd0": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1865-03-09",
+      "end_date": "1869-02-26",
+      "filename": "bfece4f79cd0.json"
+    },
+    "a2f77a54f2e9": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1865-03-09",
+      "end_date": "1869-02-26",
+      "filename": "a2f77a54f2e9.json"
+    },
+    "865a61a03e2c": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1865-03-09",
+      "end_date": "1866-05-04",
+      "filename": "865a61a03e2c.json"
+    },
+    "d03cdcb333ec": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE (Ariz.)",
+      "start_date": "1865-12-22",
+      "end_date": "1866-05-04",
+      "filename": "d03cdcb333ec.json"
+    },
+    "5ea13b163b34": {
+      "county_id": "azt_pahute",
+      "name": "PAH-UTE (Ariz., ext)",
+      "start_date": "1865-12-22",
+      "end_date": "1866-05-04",
+      "filename": "5ea13b163b34.json"
+    },
+    "b7d28434b2eb": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1865-03-09",
+      "end_date": "1866-02-25",
+      "filename": "b7d28434b2eb.json"
+    },
+    "7e73c3253c05": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1866-05-05",
+      "end_date": "1869-03-04",
+      "filename": "7e73c3253c05.json"
+    },
+    "511c44a1da02": {
+      "county_id": "nvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1866-05-05",
+      "end_date": "1867-03-17",
+      "filename": "511c44a1da02.json"
+    },
+    "2c9f91c67e38": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1866-05-05",
+      "end_date": "1867-03-17",
+      "filename": "2c9f91c67e38.json"
+    },
+    "5c5ef5e65bd6": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "5c5ef5e65bd6.json"
+    },
+    "d382fcdcc409": {
+      "county_id": "uts_millard",
+      "name": "MILLARD (Utah)",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "d382fcdcc409.json"
+    },
+    "d3abb8d3f81a": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "d3abb8d3f81a.json"
+    },
+    "60cd84bb6b08": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1866-02-26",
+      "end_date": "1866-05-04",
+      "filename": "60cd84bb6b08.json"
+    },
+    "75b7bfb50e02": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1919-03-18",
+      "end_date": "1924-05-18",
+      "filename": "75b7bfb50e02.json"
+    },
+    "6db6a354258a": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1924-05-19",
+      "end_date": "2000-12-31",
+      "filename": "6db6a354258a.json"
+    },
+    "2700cecefcf2": {
+      "county_id": "nvs_pershing",
+      "name": "PERSHING",
+      "start_date": "1924-05-19",
+      "end_date": "2000-12-31",
+      "filename": "2700cecefcf2.json"
+    },
+    "837b448d6627": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1924-05-19",
+      "end_date": "1965-03-24",
+      "filename": "837b448d6627.json"
+    },
+    "90602f942aa0": {
+      "county_id": "nvs_mineral",
+      "name": "MINERAL",
+      "start_date": "1933-03-28",
+      "end_date": "2000-12-31",
+      "filename": "90602f942aa0.json"
+    },
+    "e5f3e200b14f": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1933-03-28",
+      "end_date": "1965-03-24",
+      "filename": "e5f3e200b14f.json"
+    },
+    "ad5e0fef1aac": {
+      "county_id": "nvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1866-02-26",
+      "end_date": "1866-05-04",
+      "filename": "ad5e0fef1aac.json"
+    },
+    "a9febfb61dd0": {
+      "county_id": "nvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1867-03-18",
+      "end_date": "1875-02-19",
+      "filename": "a9febfb61dd0.json"
+    },
+    "8b74225a0757": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1867-03-18",
+      "end_date": "1869-03-04",
+      "filename": "8b74225a0757.json"
+    },
+    "50a19159a99c": {
+      "county_id": "nvs_whitepine",
+      "name": "WHITE PINE",
+      "start_date": "1869-04-01",
+      "end_date": "1875-02-25",
+      "filename": "50a19159a99c.json"
+    },
+    "adece058b66b": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1869-04-01",
+      "end_date": "1871-02-28",
+      "filename": "adece058b66b.json"
+    },
+    "cec24fb1b595": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1869-03-05",
+      "end_date": "1969-04-23",
+      "filename": "cec24fb1b595.json"
+    },
+    "60928f77612e": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1869-03-05",
+      "end_date": "1875-02-25",
+      "filename": "60928f77612e.json"
+    },
+    "d54671a71c85": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1869-03-05",
+      "end_date": "1875-02-19",
+      "filename": "d54671a71c85.json"
+    },
+    "8449825226f6": {
+      "county_id": "nvs_elko",
+      "name": "ELKO",
+      "start_date": "1869-03-05",
+      "end_date": "1871-02-28",
+      "filename": "8449825226f6.json"
+    },
+    "7b78f5759b87": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1869-03-05",
+      "end_date": "1869-03-31",
+      "filename": "7b78f5759b87.json"
+    },
+    "0127fb55e41e": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1869-02-27",
+      "end_date": "1883-02-28",
+      "filename": "0127fb55e41e.json"
+    },
+    "32aa0654206b": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1869-02-27",
+      "end_date": "1869-03-04",
+      "filename": "32aa0654206b.json"
+    },
+    "91398a997a4f": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1869-02-27",
+      "end_date": "1873-03-06",
+      "filename": "91398a997a4f.json"
+    },
+    "748a64b71200": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1869-02-27",
+      "end_date": "1869-03-04",
+      "filename": "748a64b71200.json"
+    },
+    "3d1f980e3c37": {
+      "county_id": "nvs_elko",
+      "name": "ELKO",
+      "start_date": "1871-03-01",
+      "end_date": "1877-02-06",
+      "filename": "3d1f980e3c37.json"
+    },
+    "f29bb5fe6811": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1871-03-01",
+      "end_date": "1873-03-06",
+      "filename": "f29bb5fe6811.json"
+    },
+    "c13e1e7ffae0": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1873-03-07",
+      "end_date": "1873-03-19",
+      "filename": "c13e1e7ffae0.json"
+    },
+    "35a609bf207c": {
+      "county_id": "nvs_humboldt",
+      "name": "HUMBOLDT",
+      "start_date": "1873-03-07",
+      "end_date": "1919-03-17",
+      "filename": "35a609bf207c.json"
+    },
+    "b014e13769b9": {
+      "county_id": "nvs_eureka",
+      "name": "EUREKA",
+      "start_date": "1873-03-20",
+      "end_date": "1877-02-06",
+      "filename": "b014e13769b9.json"
+    },
+    "78ef2791c40f": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1873-03-20",
+      "end_date": "1969-04-15",
+      "filename": "78ef2791c40f.json"
+    },
+    "be47775a2047": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1875-02-26",
+      "end_date": "1913-03-23",
+      "filename": "be47775a2047.json"
+    },
+    "7e2032432cb3": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1875-02-26",
+      "end_date": "1883-02-28",
+      "filename": "7e2032432cb3.json"
+    },
+    "9de143524c59": {
+      "county_id": "nvs_whitepine",
+      "name": "WHITE PINE",
+      "start_date": "1875-02-26",
+      "end_date": "1881-03-01",
+      "filename": "9de143524c59.json"
+    },
+    "24b3217e8cb2": {
+      "county_id": "nvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1875-02-20",
+      "end_date": "1909-06-30",
+      "filename": "24b3217e8cb2.json"
+    },
+    "adedd348ad0e": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1875-02-20",
+      "end_date": "1875-02-25",
+      "filename": "adedd348ad0e.json"
+    },
+    "a6ac6109ceca": {
+      "county_id": "nvs_elko",
+      "name": "ELKO",
+      "start_date": "1877-02-07",
+      "end_date": "2000-12-31",
+      "filename": "a6ac6109ceca.json"
+    },
+    "6bd8b9ae0eb0": {
+      "county_id": "nvs_eureka",
+      "name": "EUREKA",
+      "start_date": "1877-02-07",
+      "end_date": "1881-03-01",
+      "filename": "6bd8b9ae0eb0.json"
+    },
+    "9ed6ebbb88b8": {
+      "county_id": "nvs_whitepine",
+      "name": "WHITE PINE",
+      "start_date": "1881-03-02",
+      "end_date": "2000-12-31",
+      "filename": "9ed6ebbb88b8.json"
+    },
+    "116656a10b6b": {
+      "county_id": "nvs_eureka",
+      "name": "EUREKA",
+      "start_date": "1881-03-02",
+      "end_date": "1969-04-15",
+      "filename": "116656a10b6b.json"
+    },
+    "d190eced666b": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1883-03-01",
+      "end_date": "1899-03-05",
+      "filename": "d190eced666b.json"
+    },
+    "9d191a37a239": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1883-01-18",
+      "end_date": "1924-05-18",
+      "filename": "9d191a37a239.json"
+    },
+    "1a69fbc3a4b1": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1883-03-01",
+      "end_date": "1911-02-09",
+      "filename": "1a69fbc3a4b1.json"
+    },
+    "ad739d4c0a9d": {
+      "county_id": "nvs_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1899-03-06",
+      "end_date": "1965-03-01",
+      "filename": "ad739d4c0a9d.json"
+    },
+    "bcf4903f895c": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1899-03-06",
+      "end_date": "1933-03-27",
+      "filename": "bcf4903f895c.json"
+    },
+    "d3188d919394": {
+      "county_id": "nvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1909-07-01",
+      "end_date": "2000-12-31",
+      "filename": "d3188d919394.json"
+    },
+    "ce7542646bf5": {
+      "county_id": "nvs_clark",
+      "name": "CLARK",
+      "start_date": "1909-07-01",
+      "end_date": "2000-12-31",
+      "filename": "ce7542646bf5.json"
+    },
+    "76ee4fb24a19": {
+      "county_id": "nvs_mineral",
+      "name": "MINERAL",
+      "start_date": "1911-02-10",
+      "end_date": "1933-03-27",
+      "filename": "76ee4fb24a19.json"
+    },
+    "9398aa0fcdfb": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1911-02-10",
+      "end_date": "1913-03-23",
+      "filename": "9398aa0fcdfb.json"
+    },
+    "199f9e0306ac": {
+      "county_id": "nvs_esmeralda",
+      "name": "ESMERALDA",
+      "start_date": "1913-03-24",
+      "end_date": "2000-12-31",
+      "filename": "199f9e0306ac.json"
+    },
+    "2eb9cf94f179": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1913-03-24",
+      "end_date": "1987-06-28",
+      "filename": "2eb9cf94f179.json"
+    },
+    "37090be3b437": {
+      "county_id": "nvs_pershing",
+      "name": "PERSHING",
+      "start_date": "1919-03-18",
+      "end_date": "1924-05-18",
+      "filename": "37090be3b437.json"
+    },
+    "dc3aabc18b50": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1965-03-25",
+      "end_date": "1967-04-03",
+      "filename": "dc3aabc18b50.json"
+    },
+    "95fb9114d1a0": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1965-03-25",
+      "end_date": "1967-04-11",
+      "filename": "95fb9114d1a0.json"
+    },
+    "f1894e363cfe": {
+      "county_id": "nvs_ormsby",
+      "name": "ORMSBY (ext)",
+      "start_date": "1965-03-02",
+      "end_date": "1967-04-03",
+      "filename": "f1894e363cfe.json"
+    },
+    "2b666c5c8cf4": {
+      "county_id": "nvs_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1965-03-02",
+      "end_date": "1967-04-11",
+      "filename": "2b666c5c8cf4.json"
+    },
+    "642a8c4e64d4": {
+      "county_id": "nvs_ormsby",
+      "name": "ORMSBY (ext)",
+      "start_date": "1967-04-04",
+      "end_date": "1969-06-30",
+      "filename": "642a8c4e64d4.json"
+    },
+    "1db190176a23": {
+      "county_id": "nvs_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1967-04-12",
+      "end_date": "2000-12-31",
+      "filename": "1db190176a23.json"
+    },
+    "11b33b10dc9c": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1967-04-04",
+      "end_date": "1973-04-20",
+      "filename": "11b33b10dc9c.json"
+    },
+    "e7c0b2f78601": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1967-04-12",
+      "end_date": "1969-04-23",
+      "filename": "e7c0b2f78601.json"
+    },
+    "854d8a25f431": {
+      "county_id": "nvs_carsoncityic",
+      "name": "Carson City (IC)",
+      "start_date": "1969-07-01",
+      "end_date": "1977-04-22",
+      "filename": "854d8a25f431.json"
+    },
+    "1b4caed1a11a": {
+      "county_id": "nvs_eureka",
+      "name": "EUREKA",
+      "start_date": "1969-04-16",
+      "end_date": "2000-12-31",
+      "filename": "1b4caed1a11a.json"
+    },
+    "8746c0bec145": {
+      "county_id": "nvs_lander",
+      "name": "LANDER",
+      "start_date": "1969-04-16",
+      "end_date": "2000-12-31",
+      "filename": "8746c0bec145.json"
+    },
+    "8f0251972066": {
+      "county_id": "nvs_lyon",
+      "name": "LYON",
+      "start_date": "1969-04-24",
+      "end_date": "2000-12-31",
+      "filename": "8f0251972066.json"
+    },
+    "24950c0dda83": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1969-04-24",
+      "end_date": "1983-05-11",
+      "filename": "24950c0dda83.json"
+    },
+    "4c3082d98258": {
+      "county_id": "nvs_storey",
+      "name": "STOREY",
+      "start_date": "1973-04-21",
+      "end_date": "2000-12-31",
+      "filename": "4c3082d98258.json"
+    },
+    "84ae552dce3c": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1973-04-21",
+      "end_date": "1977-04-22",
+      "filename": "84ae552dce3c.json"
+    },
+    "896dbd02c6c4": {
+      "county_id": "nvs_carsoncityic",
+      "name": "Carson City (IC)",
+      "start_date": "1977-04-23",
+      "end_date": "2000-12-31",
+      "filename": "896dbd02c6c4.json"
+    },
+    "41cd6f5f8f09": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1977-04-23",
+      "end_date": "1983-05-11",
+      "filename": "41cd6f5f8f09.json"
+    },
+    "1b709dff2cd7": {
+      "county_id": "nvs_washoe",
+      "name": "WASHOE",
+      "start_date": "1983-05-12",
+      "end_date": "2000-12-31",
+      "filename": "1b709dff2cd7.json"
+    },
+    "08ae26f9f373": {
+      "county_id": "nvs_churchill",
+      "name": "CHURCHILL",
+      "start_date": "1983-05-12",
+      "end_date": "2000-12-31",
+      "filename": "08ae26f9f373.json"
+    },
+    "71ae01c80d4d": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1987-06-29",
+      "end_date": "1989-05-02",
+      "filename": "71ae01c80d4d.json"
+    },
+    "1141450652b3": {
+      "county_id": "nvs_bullfrog",
+      "name": "BULLFROG (ext)",
+      "start_date": "1987-06-29",
+      "end_date": "1989-05-02",
+      "filename": "1141450652b3.json"
+    },
+    "309b7fcdceb1": {
+      "county_id": "nvs_nye",
+      "name": "NYE",
+      "start_date": "1989-05-03",
+      "end_date": "2000-12-31",
+      "filename": "309b7fcdceb1.json"
+    }
+  }
+}

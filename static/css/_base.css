@@ -1,0 +1,55 @@
+/* Prevent font size inflation */
+html {
+  --main-title-font-size: clamp(2.0625rem, 0.567rem + 4.7857vw, 6.25rem);
+  --sub-title-font-size: clamp(1.5rem, 0.6964rem + 2.5714vw, 3.75rem);
+  --main-text-font-size: clamp(1rem, 0.8214rem + 0.5714vw, 1.5rem);
+}
+
+/* be nice */
+@media (prefers-reduced-motion: no-preference) {
+  body {
+    /* we're sticking this value onto things using js, so preserve empathy with a variable */
+    --scroll-behavior: smooth;
+  }
+}
+
+@media (prefers-reduced-motion) {
+  body {
+    --scroll-behavior: auto;
+  }
+}
+
+html,
+body {
+  scroll-behavior: var(--scroll-behavior);
+}
+
+/* Set core body defaults */
+body {
+  min-height: calc(100vh - 1px);
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Balance text wrapping on headings */
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+p,
+span,
+li,
+figcaption {
+  text-wrap: pretty;
+}
+
+@keyframes barberpole {
+  100% {
+    background-position: 100% 100%;
+  }
+}

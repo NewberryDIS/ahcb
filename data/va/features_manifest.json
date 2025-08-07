@@ -1,0 +1,6460 @@
+{
+  "state": "VA",
+  "total_features": 922,
+  "features": {
+    "3cf976f54ac4": {
+      "county_id": "vas_northampton",
+      "name": "ACCOMACK (orig)",
+      "start_date": "1634-12-31",
+      "end_date": "1643-12-30",
+      "filename": "3cf976f54ac4.json"
+    },
+    "ce1784e106be": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK RIVER",
+      "start_date": "1634-12-31",
+      "end_date": "1643-12-30",
+      "filename": "ce1784e106be.json"
+    },
+    "6c7be253b27c": {
+      "county_id": "vas_elizabethcity",
+      "name": "ELIZABETH CITY (ext)",
+      "start_date": "1634-12-31",
+      "end_date": "1636-12-30",
+      "filename": "6c7be253b27c.json"
+    },
+    "07529afd984b": {
+      "county_id": "vas_isleofwight",
+      "name": "WARROSQUYOAKE",
+      "start_date": "1634-12-31",
+      "end_date": "1637-12-30",
+      "filename": "07529afd984b.json"
+    },
+    "84eeec1c3221": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1634-12-31",
+      "end_date": "1652-12-30",
+      "filename": "84eeec1c3221.json"
+    },
+    "34d0ef09a0d4": {
+      "county_id": "vas_charlescity",
+      "name": "CHARLES CITY",
+      "start_date": "1634-12-31",
+      "end_date": "1703-04-22",
+      "filename": "34d0ef09a0d4.json"
+    },
+    "f746afa8c451": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1634-12-31",
+      "end_date": "1728-04-30",
+      "filename": "f746afa8c451.json"
+    },
+    "d86449988fda": {
+      "county_id": "vas_york",
+      "name": "CHARLES RIVER",
+      "start_date": "1634-12-31",
+      "end_date": "1643-12-30",
+      "filename": "d86449988fda.json"
+    },
+    "131cd5d493c9": {
+      "county_id": "vas_elizabethcity",
+      "name": "ELIZABETH CITY (ext)",
+      "start_date": "1636-12-31",
+      "end_date": "1908-03-29",
+      "filename": "131cd5d493c9.json"
+    },
+    "9fdea2396461": {
+      "county_id": "vas_newnorfolk",
+      "name": "NEW NORFOLK (ext)",
+      "start_date": "1636-12-31",
+      "end_date": "1637-12-30",
+      "filename": "9fdea2396461.json"
+    },
+    "5f591069d673": {
+      "county_id": "vas_nansemond",
+      "name": "UPPER NORFOLK",
+      "start_date": "1637-12-31",
+      "end_date": "1642-12-30",
+      "filename": "5f591069d673.json"
+    },
+    "8b9416ab56a3": {
+      "county_id": "vas_lowernorfolk",
+      "name": "LOWER NORFOLK (ext)",
+      "start_date": "1637-12-31",
+      "end_date": "1691-05-15",
+      "filename": "8b9416ab56a3.json"
+    },
+    "fb2d797376f8": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1637-12-31",
+      "end_date": "1656-12-30",
+      "filename": "fb2d797376f8.json"
+    },
+    "abbca47468ca": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1642-12-31",
+      "end_date": "1656-12-30",
+      "filename": "abbca47468ca.json"
+    },
+    "a2e5057ed0a1": {
+      "county_id": "vas_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1643-12-31",
+      "end_date": "1663-12-30",
+      "filename": "a2e5057ed0a1.json"
+    },
+    "5b3aa1f3e827": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1643-12-31",
+      "end_date": "1648-12-30",
+      "filename": "5b3aa1f3e827.json"
+    },
+    "ad6f4c6c31f9": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1643-12-31",
+      "end_date": "1902-07-09",
+      "filename": "ad6f4c6c31f9.json"
+    },
+    "5ca885cf5014": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1648-12-31",
+      "end_date": "1651-12-30",
+      "filename": "5ca885cf5014.json"
+    },
+    "2ef1f359cdea": {
+      "county_id": "vas_northumberland",
+      "name": "NORTHUMBERLAND",
+      "start_date": "1648-12-31",
+      "end_date": "1651-12-30",
+      "filename": "2ef1f359cdea.json"
+    },
+    "e21cec468b31": {
+      "county_id": "vas_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1651-12-31",
+      "end_date": "1791-04-30",
+      "filename": "e21cec468b31.json"
+    },
+    "0a2d2b60a10d": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1651-12-31",
+      "end_date": "1654-12-30",
+      "filename": "0a2d2b60a10d.json"
+    },
+    "7970219d5dba": {
+      "county_id": "vas_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1651-12-31",
+      "end_date": "1656-12-10",
+      "filename": "7970219d5dba.json"
+    },
+    "5d0fb409d3f6": {
+      "county_id": "vas_northumberland",
+      "name": "NORTHUMBERLAND",
+      "start_date": "1651-12-31",
+      "end_date": "1653-12-30",
+      "filename": "5d0fb409d3f6.json"
+    },
+    "6e4010023b5b": {
+      "county_id": "vas_surry",
+      "name": "SURRY",
+      "start_date": "1652-12-31",
+      "end_date": "1723-10-30",
+      "filename": "6e4010023b5b.json"
+    },
+    "9139035b3bc9": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1652-12-31",
+      "end_date": "1720-12-31",
+      "filename": "9139035b3bc9.json"
+    },
+    "429652f01ddc": {
+      "county_id": "vas_northumberland",
+      "name": "NORTHUMBERLAND",
+      "start_date": "1653-12-31",
+      "end_date": "2000-12-31",
+      "filename": "429652f01ddc.json"
+    },
+    "d8601b2f61e9": {
+      "county_id": "vas_westmoreland",
+      "name": "WESTMORELAND",
+      "start_date": "1653-12-31",
+      "end_date": "1664-12-30",
+      "filename": "d8601b2f61e9.json"
+    },
+    "a5eacd2a8bdd": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1654-12-31",
+      "end_date": "1915-03-31",
+      "filename": "a5eacd2a8bdd.json"
+    },
+    "f2e83b39f655": {
+      "county_id": "vas_newkent",
+      "name": "NEW KENT",
+      "start_date": "1654-12-31",
+      "end_date": "1691-05-11",
+      "filename": "f2e83b39f655.json"
+    },
+    "00873a23789d": {
+      "county_id": "vas_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1656-12-11",
+      "end_date": "1674-12-30",
+      "filename": "00873a23789d.json"
+    },
+    "ab3f79bcbb88": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1656-12-31",
+      "end_date": "1769-12-14",
+      "filename": "ab3f79bcbb88.json"
+    },
+    "485f6f94da14": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1656-12-31",
+      "end_date": "1723-10-30",
+      "filename": "485f6f94da14.json"
+    },
+    "3136988c3ad6": {
+      "county_id": "vas_rappahannock01",
+      "name": "RAPPAHANNOCK (orig)",
+      "start_date": "1656-12-11",
+      "end_date": "1692-04-25",
+      "filename": "3136988c3ad6.json"
+    },
+    "41918ab0a6a3": {
+      "county_id": "vas_accomack",
+      "name": "ACCOMACK",
+      "start_date": "1663-12-31",
+      "end_date": "2000-12-31",
+      "filename": "41918ab0a6a3.json"
+    },
+    "3e1e16382eaa": {
+      "county_id": "vas_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1663-12-31",
+      "end_date": "2000-12-31",
+      "filename": "3e1e16382eaa.json"
+    },
+    "f71da18b7c10": {
+      "county_id": "vas_westmoreland",
+      "name": "WESTMORELAND",
+      "start_date": "1664-12-31",
+      "end_date": "1778-03-19",
+      "filename": "f71da18b7c10.json"
+    },
+    "25a15a3c25df": {
+      "county_id": "vas_stafford",
+      "name": "STAFFORD",
+      "start_date": "1664-12-31",
+      "end_date": "1731-03-24",
+      "filename": "25a15a3c25df.json"
+    },
+    "683733e0162c": {
+      "county_id": "vas_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1674-12-31",
+      "end_date": "2000-12-31",
+      "filename": "683733e0162c.json"
+    },
+    "4d193afe80d8": {
+      "county_id": "vas_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1674-12-31",
+      "end_date": "2000-12-31",
+      "filename": "4d193afe80d8.json"
+    },
+    "fd4e333aa4e1": {
+      "county_id": "vas_princessanne",
+      "name": "PRINCESS ANNE (ext)",
+      "start_date": "1691-05-16",
+      "end_date": "1952-02-13",
+      "filename": "fd4e333aa4e1.json"
+    },
+    "a231cb37a6f1": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1691-05-16",
+      "end_date": "1902-07-09",
+      "filename": "a231cb37a6f1.json"
+    },
+    "6804bb83a379": {
+      "county_id": "vas_newkent",
+      "name": "NEW KENT",
+      "start_date": "1691-05-12",
+      "end_date": "1721-04-30",
+      "filename": "6804bb83a379.json"
+    },
+    "78a3dbce3c7c": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1691-05-12",
+      "end_date": "1702-04-10",
+      "filename": "78a3dbce3c7c.json"
+    },
+    "9b5d6996feb5": {
+      "county_id": "vas_essex",
+      "name": "ESSEX",
+      "start_date": "1692-04-26",
+      "end_date": "1721-04-30",
+      "filename": "9b5d6996feb5.json"
+    },
+    "9787fce7ec9f": {
+      "county_id": "vas_richmond",
+      "name": "RICHMOND",
+      "start_date": "1692-04-26",
+      "end_date": "1721-04-22",
+      "filename": "9787fce7ec9f.json"
+    },
+    "ad3752927c9c": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1702-04-11",
+      "end_date": "1721-04-30",
+      "filename": "ad3752927c9c.json"
+    },
+    "d0609ab69fe6": {
+      "county_id": "vas_kingwilliam",
+      "name": "KING WILLIAM",
+      "start_date": "1702-04-11",
+      "end_date": "1721-04-30",
+      "filename": "d0609ab69fe6.json"
+    },
+    "0d9d174c4146": {
+      "county_id": "vas_charlescity",
+      "name": "CHARLES CITY",
+      "start_date": "1703-04-23",
+      "end_date": "1720-12-31",
+      "filename": "0d9d174c4146.json"
+    },
+    "0e4a9417fd5f": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1703-04-23",
+      "end_date": "1720-12-16",
+      "filename": "0e4a9417fd5f.json"
+    },
+    "fd9a1dc7571b": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1720-12-17",
+      "end_date": "1723-10-30",
+      "filename": "fd9a1dc7571b.json"
+    },
+    "450c88a69892": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1720-12-17",
+      "end_date": "1735-03-24",
+      "filename": "450c88a69892.json"
+    },
+    "19dc5d178032": {
+      "county_id": "vas_richmond",
+      "name": "RICHMOND",
+      "start_date": "1721-04-23",
+      "end_date": "2000-12-31",
+      "filename": "19dc5d178032.json"
+    },
+    "1a318490adb0": {
+      "county_id": "vas_essex",
+      "name": "ESSEX",
+      "start_date": "1721-05-01",
+      "end_date": "1728-04-30",
+      "filename": "1a318490adb0.json"
+    },
+    "e9595346a49f": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1721-05-01",
+      "end_date": "1728-04-30",
+      "filename": "e9595346a49f.json"
+    },
+    "afe8d302232f": {
+      "county_id": "vas_kingwilliam",
+      "name": "KING WILLIAM",
+      "start_date": "1721-05-01",
+      "end_date": "1728-04-30",
+      "filename": "afe8d302232f.json"
+    },
+    "a5ec82bd28ee": {
+      "county_id": "vas_hanover",
+      "name": "HANOVER",
+      "start_date": "1721-05-01",
+      "end_date": "1742-11-30",
+      "filename": "a5ec82bd28ee.json"
+    },
+    "e26a4cd69e03": {
+      "county_id": "vas_newkent",
+      "name": "NEW KENT",
+      "start_date": "1721-05-01",
+      "end_date": "1767-04-30",
+      "filename": "e26a4cd69e03.json"
+    },
+    "da818029cb0e": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1721-05-01",
+      "end_date": "1734-12-31",
+      "filename": "da818029cb0e.json"
+    },
+    "9f48d711a721": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1721-01-01",
+      "end_date": "1767-04-30",
+      "filename": "9f48d711a721.json"
+    },
+    "faf7dcc41575": {
+      "county_id": "vas_charlescity",
+      "name": "CHARLES CITY",
+      "start_date": "1721-01-01",
+      "end_date": "2000-12-31",
+      "filename": "faf7dcc41575.json"
+    },
+    "8d96cefd086a": {
+      "county_id": "vas_kinggeorge",
+      "name": "KING GEORGE",
+      "start_date": "1721-04-23",
+      "end_date": "1731-03-24",
+      "filename": "8d96cefd086a.json"
+    },
+    "61fd9579c036": {
+      "county_id": "vas_surry",
+      "name": "SURRY",
+      "start_date": "1723-10-31",
+      "end_date": "1732-12-31",
+      "filename": "61fd9579c036.json"
+    },
+    "b8c7c66d034a": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1723-10-31",
+      "end_date": "1732-12-31",
+      "filename": "b8c7c66d034a.json"
+    },
+    "9952117a7e2a": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1723-10-31",
+      "end_date": "1732-12-31",
+      "filename": "9952117a7e2a.json"
+    },
+    "b3e5ac66671f": {
+      "county_id": "vas_essex",
+      "name": "ESSEX",
+      "start_date": "1728-05-01",
+      "end_date": "2000-12-31",
+      "filename": "b3e5ac66671f.json"
+    },
+    "92095b8ffebe": {
+      "county_id": "vas_kingwilliam",
+      "name": "KING WILLIAM",
+      "start_date": "1728-05-01",
+      "end_date": "2000-12-31",
+      "filename": "92095b8ffebe.json"
+    },
+    "7ed425c72efa": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1728-05-01",
+      "end_date": "1749-05-24",
+      "filename": "7ed425c72efa.json"
+    },
+    "ae000133287e": {
+      "county_id": "vas_caroline",
+      "name": "CAROLINE",
+      "start_date": "1728-05-01",
+      "end_date": "1742-11-30",
+      "filename": "ae000133287e.json"
+    },
+    "5c1b33c1d9e0": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1728-05-01",
+      "end_date": "1742-11-30",
+      "filename": "5c1b33c1d9e0.json"
+    },
+    "329b5fd20b3d": {
+      "county_id": "vas_goochland",
+      "name": "GOOCHLAND",
+      "start_date": "1728-05-01",
+      "end_date": "1744-12-30",
+      "filename": "329b5fd20b3d.json"
+    },
+    "6cbdbae606a2": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1731-03-25",
+      "end_date": "1742-11-30",
+      "filename": "6cbdbae606a2.json"
+    },
+    "c3cdac1db764": {
+      "county_id": "vas_kinggeorge",
+      "name": "KING GEORGE",
+      "start_date": "1731-03-25",
+      "end_date": "1776-12-31",
+      "filename": "c3cdac1db764.json"
+    },
+    "7dcaeeb84cac": {
+      "county_id": "vas_stafford",
+      "name": "STAFFORD",
+      "start_date": "1731-03-25",
+      "end_date": "1776-12-31",
+      "filename": "7dcaeeb84cac.json"
+    },
+    "040ff599891b": {
+      "county_id": "vas_surry",
+      "name": "SURRY",
+      "start_date": "1733-01-01",
+      "end_date": "1754-01-31",
+      "filename": "040ff599891b.json"
+    },
+    "edee71d85866": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1733-01-01",
+      "end_date": "1749-05-19",
+      "filename": "edee71d85866.json"
+    },
+    "b5568fd82df6": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1733-01-01",
+      "end_date": "1735-03-24",
+      "filename": "b5568fd82df6.json"
+    },
+    "b1bfe562852f": {
+      "county_id": "vas_hanover",
+      "name": "HANOVER",
+      "start_date": "1742-12-01",
+      "end_date": "2000-12-31",
+      "filename": "b1bfe562852f.json"
+    },
+    "182b7d5247fb": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1742-12-01",
+      "end_date": "1759-04-30",
+      "filename": "182b7d5247fb.json"
+    },
+    "34241513478c": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1742-12-01",
+      "end_date": "1757-06-30",
+      "filename": "34241513478c.json"
+    },
+    "3e9949045772": {
+      "county_id": "vas_caroline",
+      "name": "CAROLINE",
+      "start_date": "1742-12-01",
+      "end_date": "1763-02-09",
+      "filename": "3e9949045772.json"
+    },
+    "76faa53d7cb5": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1742-12-01",
+      "end_date": "1763-02-09",
+      "filename": "76faa53d7cb5.json"
+    },
+    "b30a891434fb": {
+      "county_id": "vas_louisa",
+      "name": "LOUISA",
+      "start_date": "1742-12-01",
+      "end_date": "1761-04-30",
+      "filename": "b30a891434fb.json"
+    },
+    "80db2f0d2ac4": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1744-12-31",
+      "end_date": "1754-12-31",
+      "filename": "80db2f0d2ac4.json"
+    },
+    "a861343b801b": {
+      "county_id": "vas_goochland",
+      "name": "GOOCHLAND",
+      "start_date": "1744-12-31",
+      "end_date": "1749-05-19",
+      "filename": "a861343b801b.json"
+    },
+    "41528bdf1b95": {
+      "county_id": "vas_nottoway",
+      "name": "NOTTOWAY",
+      "start_date": "1789-05-01",
+      "end_date": "2000-12-31",
+      "filename": "41528bdf1b95.json"
+    },
+    "2e055cfdc9bf": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1789-10-01",
+      "end_date": "1791-04-30",
+      "filename": "2e055cfdc9bf.json"
+    },
+    "0e6f8d3baef4": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1789-10-01",
+      "end_date": "1790-04-30",
+      "filename": "0e6f8d3baef4.json"
+    },
+    "68f0afd5043d": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1789-10-01",
+      "end_date": "1795-12-04",
+      "filename": "68f0afd5043d.json"
+    },
+    "12dc5acf99b4": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON (Ky.)",
+      "start_date": "1789-05-01",
+      "end_date": "1792-05-31",
+      "filename": "12dc5acf99b4.json"
+    },
+    "90239f08ca41": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1799-05-01",
+      "end_date": "1818-01-29",
+      "filename": "90239f08ca41.json"
+    },
+    "5cd917b2c2ab": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1799-05-01",
+      "end_date": "1800-12-29",
+      "filename": "5cd917b2c2ab.json"
+    },
+    "39db14e527e8": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1800-12-30",
+      "end_date": "1831-02-28",
+      "filename": "39db14e527e8.json"
+    },
+    "73a6e4390b87": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1800-01-01",
+      "end_date": "1818-01-18",
+      "filename": "73a6e4390b87.json"
+    },
+    "e2904d59bb72": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1800-12-30",
+      "end_date": "1804-04-30",
+      "filename": "e2904d59bb72.json"
+    },
+    "0510ef18c38e": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1800-01-01",
+      "end_date": "1802-01-01",
+      "filename": "0510ef18c38e.json"
+    },
+    "f31cb116a529": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1800-05-01",
+      "end_date": "1808-02-29",
+      "filename": "f31cb116a529.json"
+    },
+    "1c96da1dd0b6": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1746-05-01",
+      "end_date": "1781-01-31",
+      "filename": "1c96da1dd0b6.json"
+    },
+    "e75d901e1037": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1746-05-01",
+      "end_date": "1752-05-09",
+      "filename": "e75d901e1037.json"
+    },
+    "a4a17f086862": {
+      "county_id": "vas_goochland",
+      "name": "GOOCHLAND",
+      "start_date": "1749-05-20",
+      "end_date": "2000-12-31",
+      "filename": "a4a17f086862.json"
+    },
+    "ec51d69fc6bb": {
+      "county_id": "vas_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1749-05-20",
+      "end_date": "1777-06-30",
+      "filename": "ec51d69fc6bb.json"
+    },
+    "1968e42b6d6b": {
+      "county_id": "vas_culpeper",
+      "name": "CULPEPER",
+      "start_date": "1749-05-17",
+      "end_date": "1793-04-30",
+      "filename": "1968e42b6d6b.json"
+    },
+    "7a1e3507d3d8": {
+      "county_id": "vas_orange",
+      "name": "ORANGE",
+      "start_date": "1749-05-17",
+      "end_date": "1838-01-23",
+      "filename": "7a1e3507d3d8.json"
+    },
+    "f91bbb9e7485": {
+      "county_id": "vas_southampton",
+      "name": "SOUTHAMPTON",
+      "start_date": "1749-05-20",
+      "end_date": "1786-02-28",
+      "filename": "f91bbb9e7485.json"
+    },
+    "7e08bb2d21b2": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1749-05-20",
+      "end_date": "1769-12-14",
+      "filename": "7e08bb2d21b2.json"
+    },
+    "82e8adbbfc29": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1749-05-25",
+      "end_date": "1850-03-15",
+      "filename": "82e8adbbfc29.json"
+    },
+    "0bfd886b8d35": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1749-05-25",
+      "end_date": "1902-07-09",
+      "filename": "0bfd886b8d35.json"
+    },
+    "b218fe7ec160": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1752-05-01",
+      "end_date": "1902-07-09",
+      "filename": "b218fe7ec160.json"
+    },
+    "6a0148601d6f": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1752-05-01",
+      "end_date": "1902-07-09",
+      "filename": "6a0148601d6f.json"
+    },
+    "ff73f86474d3": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1752-05-10",
+      "end_date": "1754-05-09",
+      "filename": "ff73f86474d3.json"
+    },
+    "e24b409f3668": {
+      "county_id": "vas_halifax",
+      "name": "HALIFAX",
+      "start_date": "1752-05-10",
+      "end_date": "1767-05-31",
+      "filename": "e24b409f3668.json"
+    },
+    "1b18735c56af": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1755-01-01",
+      "end_date": "1765-02-28",
+      "filename": "1b18735c56af.json"
+    },
+    "107863049980": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1755-01-01",
+      "end_date": "1761-04-30",
+      "filename": "107863049980.json"
+    },
+    "88da34ee3d86": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1755-01-01",
+      "end_date": "1782-01-31",
+      "filename": "88da34ee3d86.json"
+    },
+    "99b96a6ed2e3": {
+      "county_id": "vas_loudoun",
+      "name": "LOUDOUN",
+      "start_date": "1757-07-01",
+      "end_date": "1798-01-02",
+      "filename": "99b96a6ed2e3.json"
+    },
+    "da031ec82178": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1757-07-01",
+      "end_date": "1791-03-29",
+      "filename": "da031ec82178.json"
+    },
+    "6c644b29c4f3": {
+      "county_id": "vas_fauquier",
+      "name": "FAUQUIER",
+      "start_date": "1759-05-01",
+      "end_date": "2000-12-31",
+      "filename": "6c644b29c4f3.json"
+    },
+    "237bdb8703fb": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1759-05-01",
+      "end_date": "1975-04-30",
+      "filename": "237bdb8703fb.json"
+    },
+    "3584c5316a5c": {
+      "county_id": "vas_louisa",
+      "name": "LOUISA",
+      "start_date": "1761-05-01",
+      "end_date": "2000-12-31",
+      "filename": "3584c5316a5c.json"
+    },
+    "e7c7ae03e39a": {
+      "county_id": "vas_amherst",
+      "name": "AMHERST",
+      "start_date": "1761-05-01",
+      "end_date": "1808-05-31",
+      "filename": "e7c7ae03e39a.json"
+    },
+    "a5158bf5113c": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1761-05-01",
+      "end_date": "1777-06-30",
+      "filename": "a5158bf5113c.json"
+    },
+    "ed0b1a771653": {
+      "county_id": "vas_buckingham",
+      "name": "BUCKINGHAM",
+      "start_date": "1761-05-01",
+      "end_date": "1778-10-30",
+      "filename": "ed0b1a771653.json"
+    },
+    "f825e771cd7f": {
+      "county_id": "vas_caroline",
+      "name": "CAROLINE",
+      "start_date": "1763-02-10",
+      "end_date": "2000-12-31",
+      "filename": "f825e771cd7f.json"
+    },
+    "3185ba494e2a": {
+      "county_id": "vas_kingandqueen",
+      "name": "KING AND QUEEN",
+      "start_date": "1763-02-10",
+      "end_date": "2000-12-31",
+      "filename": "3185ba494e2a.json"
+    },
+    "e83ad0d07000": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1765-03-01",
+      "end_date": "1777-09-30",
+      "filename": "e83ad0d07000.json"
+    },
+    "3eb63c9ab4d4": {
+      "county_id": "vas_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1765-03-01",
+      "end_date": "2000-12-31",
+      "filename": "3eb63c9ab4d4.json"
+    },
+    "39baa41766ee": {
+      "county_id": "vas_charlotte",
+      "name": "CHARLOTTE",
+      "start_date": "1765-03-01",
+      "end_date": "1777-09-30",
+      "filename": "39baa41766ee.json"
+    },
+    "e181b75729e3": {
+      "county_id": "vas_newkent",
+      "name": "NEW KENT",
+      "start_date": "1767-05-01",
+      "end_date": "2000-12-31",
+      "filename": "e181b75729e3.json"
+    },
+    "e33b69771641": {
+      "county_id": "vas_halifax",
+      "name": "HALIFAX",
+      "start_date": "1767-06-01",
+      "end_date": "1959-12-31",
+      "filename": "e33b69771641.json"
+    },
+    "0a3fd10bc2fe": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1767-05-01",
+      "end_date": "1902-07-09",
+      "filename": "0a3fd10bc2fe.json"
+    },
+    "39c8c06c6356": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1767-06-01",
+      "end_date": "1776-12-30",
+      "filename": "39c8c06c6356.json"
+    },
+    "c7423283c94f": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1769-12-15",
+      "end_date": "1772-03-12",
+      "filename": "c7423283c94f.json"
+    },
+    "e813d2d46b6d": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1769-12-15",
+      "end_date": "1772-03-12",
+      "filename": "e813d2d46b6d.json"
+    },
+    "97a83aebf0df": {
+      "county_id": "vas_fluvanna",
+      "name": "FLUVANNA",
+      "start_date": "1777-07-01",
+      "end_date": "2000-12-31",
+      "filename": "97a83aebf0df.json"
+    },
+    "923a4542bafe": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1777-10-01",
+      "end_date": "2000-12-31",
+      "filename": "923a4542bafe.json"
+    },
+    "60ce62389a23": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1777-07-01",
+      "end_date": "1902-07-09",
+      "filename": "60ce62389a23.json"
+    },
+    "e1ea874ab45a": {
+      "county_id": "vas_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1777-07-01",
+      "end_date": "1778-10-30",
+      "filename": "e1ea874ab45a.json"
+    },
+    "b41b5549fe41": {
+      "county_id": "vas_powhatan",
+      "name": "POWHATAN",
+      "start_date": "1777-07-01",
+      "end_date": "1850-03-15",
+      "filename": "b41b5549fe41.json"
+    },
+    "8f5b358b56fb": {
+      "county_id": "vas_kinggeorge",
+      "name": "KING GEORGE",
+      "start_date": "1777-01-01",
+      "end_date": "1778-03-19",
+      "filename": "8f5b358b56fb.json"
+    },
+    "2f98ebfb9679": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1777-09-01",
+      "end_date": "1778-02-28",
+      "filename": "2f98ebfb9679.json"
+    },
+    "a4d07e5ec359": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1777-09-01",
+      "end_date": "1786-04-30",
+      "filename": "a4d07e5ec359.json"
+    },
+    "9f3fe3c8fe42": {
+      "county_id": "vas_charlotte",
+      "name": "CHARLOTTE",
+      "start_date": "1777-10-01",
+      "end_date": "1845-04-30",
+      "filename": "9f3fe3c8fe42.json"
+    },
+    "66e379e97b26": {
+      "county_id": "vas_stafford",
+      "name": "STAFFORD",
+      "start_date": "1777-01-01",
+      "end_date": "2000-12-31",
+      "filename": "66e379e97b26.json"
+    },
+    "17918938fa0c": {
+      "county_id": "vas_westmoreland",
+      "name": "WESTMORELAND",
+      "start_date": "1778-03-20",
+      "end_date": "2000-12-31",
+      "filename": "17918938fa0c.json"
+    },
+    "0cb0e2a1688e": {
+      "county_id": "vas_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1778-10-31",
+      "end_date": "2000-12-31",
+      "filename": "0cb0e2a1688e.json"
+    },
+    "bcc45a90ede4": {
+      "county_id": "vas_buckingham",
+      "name": "BUCKINGHAM",
+      "start_date": "1778-10-31",
+      "end_date": "1845-04-30",
+      "filename": "bcc45a90ede4.json"
+    },
+    "b88cd5e16b79": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1778-03-01",
+      "end_date": "1785-10-30",
+      "filename": "b88cd5e16b79.json"
+    },
+    "fa2d5b28833c": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1778-03-01",
+      "end_date": "1786-01-31",
+      "filename": "fa2d5b28833c.json"
+    },
+    "affdfd77f16a": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1778-03-01",
+      "end_date": "1788-04-30",
+      "filename": "affdfd77f16a.json"
+    },
+    "f085ce7a7ef9": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1778-03-01",
+      "end_date": "1789-09-30",
+      "filename": "f085ce7a7ef9.json"
+    },
+    "129e2beea13e": {
+      "county_id": "vas_illinois",
+      "name": "ILLINOIS (ext)",
+      "start_date": "1778-12-09",
+      "end_date": "1784-02-29",
+      "filename": "129e2beea13e.json"
+    },
+    "e3ee3055d535": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1778-03-01",
+      "end_date": "1779-05-30",
+      "filename": "e3ee3055d535.json"
+    },
+    "a896f8f1f596": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1778-03-01",
+      "end_date": "1789-09-30",
+      "filename": "a896f8f1f596.json"
+    },
+    "a60e3ca0c119": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1778-03-01",
+      "end_date": "1785-10-30",
+      "filename": "a60e3ca0c119.json"
+    },
+    "97ee47872d0e": {
+      "county_id": "vas_kinggeorge",
+      "name": "KING GEORGE",
+      "start_date": "1778-03-20",
+      "end_date": "2000-12-31",
+      "filename": "97ee47872d0e.json"
+    },
+    "a9d3be74b5d2": {
+      "county_id": "vas_shenandoah",
+      "name": "SHENANDOAH",
+      "start_date": "1778-02-01",
+      "end_date": "1831-03-29",
+      "filename": "a9d3be74b5d2.json"
+    },
+    "7e2a04a07fe2": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1779-05-31",
+      "end_date": "1780-10-30",
+      "filename": "7e2a04a07fe2.json"
+    },
+    "637afbb4351f": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1779-05-31",
+      "end_date": "1780-10-30",
+      "filename": "637afbb4351f.json"
+    },
+    "c9a4969b93ae": {
+      "county_id": "vas_yohogania",
+      "name": "YOHOGANIA (ext)",
+      "start_date": "1780-10-31",
+      "end_date": "1785-10-30",
+      "filename": "c9a4969b93ae.json"
+    },
+    "586aeb7a931d": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1780-10-31",
+      "end_date": "1785-10-30",
+      "filename": "586aeb7a931d.json"
+    },
+    "47d7b95dcfdd": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1780-10-31",
+      "end_date": "1788-04-30",
+      "filename": "47d7b95dcfdd.json"
+    },
+    "767591b5b035": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1780-10-31",
+      "end_date": "1784-07-19",
+      "filename": "767591b5b035.json"
+    },
+    "a2303aa7222e": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE (Ky.)",
+      "start_date": "1780-11-01",
+      "end_date": "1786-04-30",
+      "filename": "a2303aa7222e.json"
+    },
+    "6a511ce36848": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON (Ky.)",
+      "start_date": "1780-11-01",
+      "end_date": "1784-12-31",
+      "filename": "6a511ce36848.json"
+    },
+    "4cfad3a5f1c5": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN (Ky.)",
+      "start_date": "1780-11-01",
+      "end_date": "1786-07-31",
+      "filename": "4cfad3a5f1c5.json"
+    },
+    "73f64d04470a": {
+      "county_id": "vas_greensville",
+      "name": "GREENSVILLE",
+      "start_date": "1781-02-01",
+      "end_date": "1787-11-05",
+      "filename": "73f64d04470a.json"
+    },
+    "718de96b74e9": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1781-02-01",
+      "end_date": "1787-11-05",
+      "filename": "718de96b74e9.json"
+    },
+    "91b4320baea8": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1782-02-01",
+      "end_date": "1785-12-31",
+      "filename": "91b4320baea8.json"
+    },
+    "0ae623660a32": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1782-02-01",
+      "end_date": "1845-04-30",
+      "filename": "0ae623660a32.json"
+    },
+    "4f08b3e5b6ba": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1784-07-20",
+      "end_date": "1799-12-31",
+      "filename": "4f08b3e5b6ba.json"
+    },
+    "f81ad729865e": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1784-07-20",
+      "end_date": "1787-04-30",
+      "filename": "f81ad729865e.json"
+    },
+    "bad006361380": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1785-10-31",
+      "end_date": "1888-03-31",
+      "filename": "bad006361380.json"
+    },
+    "b6913f9e2b52": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1785-10-31",
+      "end_date": "1790-04-30",
+      "filename": "b6913f9e2b52.json"
+    },
+    "16e18a6afe35": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1785-10-31",
+      "end_date": "1797-04-30",
+      "filename": "16e18a6afe35.json"
+    },
+    "001fac7a8730": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON (Ky.)",
+      "start_date": "1785-01-01",
+      "end_date": "1792-05-31",
+      "filename": "001fac7a8730.json"
+    },
+    "0778a494e9dd": {
+      "county_id": "kys_nelson",
+      "name": "NELSON (Ky.)",
+      "start_date": "1785-01-01",
+      "end_date": "1792-05-31",
+      "filename": "0778a494e9dd.json"
+    },
+    "5b938783fd35": {
+      "county_id": "vas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1786-01-01",
+      "end_date": "1848-09-30",
+      "filename": "5b938783fd35.json"
+    },
+    "0422a4cd104d": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1786-03-01",
+      "end_date": "1910-09-30",
+      "filename": "0422a4cd104d.json"
+    },
+    "4dbe218eafe1": {
+      "county_id": "vas_southampton",
+      "name": "SOUTHAMPTON",
+      "start_date": "1786-03-01",
+      "end_date": "1961-12-21",
+      "filename": "4dbe218eafe1.json"
+    },
+    "fa8eede3347e": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1786-01-01",
+      "end_date": "1957-12-31",
+      "filename": "fa8eede3347e.json"
+    },
+    "e258d65377f6": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1786-02-01",
+      "end_date": "1787-12-03",
+      "filename": "e258d65377f6.json"
+    },
+    "eab25532d7f9": {
+      "county_id": "wvs_hardy",
+      "name": "HARDY (W.Va.)",
+      "start_date": "1786-02-01",
+      "end_date": "1787-12-03",
+      "filename": "eab25532d7f9.json"
+    },
+    "738f39b6e695": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1786-01-01",
+      "end_date": "1791-05-31",
+      "filename": "738f39b6e695.json"
+    },
+    "2a5d46a8a816": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1786-05-01",
+      "end_date": "1814-11-23",
+      "filename": "2a5d46a8a816.json"
+    },
+    "bde8077acc69": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1786-05-01",
+      "end_date": "1793-05-12",
+      "filename": "bde8077acc69.json"
+    },
+    "93f23f1815c5": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON (Ky.)",
+      "start_date": "1786-05-01",
+      "end_date": "1789-04-30",
+      "filename": "93f23f1815c5.json"
+    },
+    "afdffebb1a65": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE (Ky.)",
+      "start_date": "1786-05-01",
+      "end_date": "1789-04-30",
+      "filename": "afdffebb1a65.json"
+    },
+    "1bcf22c6a72f": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN (Ky.)",
+      "start_date": "1786-08-01",
+      "end_date": "1792-05-31",
+      "filename": "1bcf22c6a72f.json"
+    },
+    "f991ef7ad891": {
+      "county_id": "kys_madison",
+      "name": "MADISON (Ky.)",
+      "start_date": "1786-08-01",
+      "end_date": "1792-05-31",
+      "filename": "f991ef7ad891.json"
+    },
+    "05fa25a3fcc4": {
+      "county_id": "kys_mercer",
+      "name": "MERCER (Ky.)",
+      "start_date": "1786-08-01",
+      "end_date": "1792-05-31",
+      "filename": "05fa25a3fcc4.json"
+    },
+    "2c539685d3a6": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1787-11-06",
+      "end_date": "2000-12-31",
+      "filename": "2c539685d3a6.json"
+    },
+    "89805fa43759": {
+      "county_id": "vas_greensville",
+      "name": "GREENSVILLE",
+      "start_date": "1787-11-06",
+      "end_date": "1802-01-03",
+      "filename": "89805fa43759.json"
+    },
+    "3bf0a69e7a5d": {
+      "county_id": "wvs_hardy",
+      "name": "HARDY (W.Va.)",
+      "start_date": "1787-12-04",
+      "end_date": "1788-04-30",
+      "filename": "3bf0a69e7a5d.json"
+    },
+    "74ab86841d79": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1787-12-04",
+      "end_date": "1820-02-08",
+      "filename": "74ab86841d79.json"
+    },
+    "b99759f6025d": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1787-05-01",
+      "end_date": "1799-04-30",
+      "filename": "b99759f6025d.json"
+    },
+    "dc32501fbf6f": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1787-05-01",
+      "end_date": "1802-01-01",
+      "filename": "dc32501fbf6f.json"
+    },
+    "6745bfffd8cc": {
+      "county_id": "wvs_hardy",
+      "name": "HARDY (W.Va.)",
+      "start_date": "1788-05-01",
+      "end_date": "1863-06-19",
+      "filename": "6745bfffd8cc.json"
+    },
+    "ce7ef9944743": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1788-05-01",
+      "end_date": "1831-03-29",
+      "filename": "ce7ef9944743.json"
+    },
+    "1a987855fcda": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON (W.Va.)",
+      "start_date": "1788-05-01",
+      "end_date": "1791-04-30",
+      "filename": "1a987855fcda.json"
+    },
+    "09fb305a84ea": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1788-05-01",
+      "end_date": "1791-04-30",
+      "filename": "09fb305a84ea.json"
+    },
+    "eec7e68e6d1b": {
+      "county_id": "vas_amelia",
+      "name": "AMELIA",
+      "start_date": "1789-05-01",
+      "end_date": "2000-12-31",
+      "filename": "eec7e68e6d1b.json"
+    },
+    "b3ed45295ab3": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1800-05-01",
+      "end_date": "1807-04-30",
+      "filename": "b3ed45295ab3.json"
+    },
+    "484ad33812a3": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1800-05-01",
+      "end_date": "1806-04-30",
+      "filename": "484ad33812a3.json"
+    },
+    "a8be0080fa92": {
+      "county_id": "wvs_jefferson",
+      "name": "JEFFERSON (W.Va.)",
+      "start_date": "1801-10-26",
+      "end_date": "1863-11-01",
+      "filename": "a8be0080fa92.json"
+    },
+    "1487e63628fe": {
+      "county_id": "wvs_berkeley",
+      "name": "BERKELEY (W.Va.)",
+      "start_date": "1801-10-26",
+      "end_date": "1820-02-08",
+      "filename": "1487e63628fe.json"
+    },
+    "075fd3c64c2e": {
+      "county_id": "vas_sussex",
+      "name": "SUSSEX",
+      "start_date": "1802-01-04",
+      "end_date": "2000-12-31",
+      "filename": "075fd3c64c2e.json"
+    },
+    "cebaf4408ccc": {
+      "county_id": "vas_greensville",
+      "name": "GREENSVILLE",
+      "start_date": "1802-01-04",
+      "end_date": "1968-02-27",
+      "filename": "cebaf4408ccc.json"
+    },
+    "8550bdfd504d": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1850-03-12",
+      "end_date": "1863-06-19",
+      "filename": "8550bdfd504d.json"
+    },
+    "ff8db8621f93": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1850-03-12",
+      "end_date": "1850-03-20",
+      "filename": "ff8db8621f93.json"
+    },
+    "e267f6141382": {
+      "county_id": "wvs_raleigh",
+      "name": "RALEIGH (W.Va.)",
+      "start_date": "1850-01-23",
+      "end_date": "1863-06-19",
+      "filename": "e267f6141382.json"
+    },
+    "8d5b9fa915b5": {
+      "county_id": "wvs_wyoming",
+      "name": "WYOMING (W.Va.)",
+      "start_date": "1850-01-26",
+      "end_date": "1858-02-19",
+      "filename": "8d5b9fa915b5.json"
+    },
+    "d0c942b2dba6": {
+      "county_id": "wvs_pleasants",
+      "name": "PLEASANTS (W.Va.)",
+      "start_date": "1851-03-29",
+      "end_date": "1863-06-19",
+      "filename": "d0c942b2dba6.json"
+    },
+    "44b1311c9429": {
+      "county_id": "wvs_tyler",
+      "name": "TYLER (W.Va.)",
+      "start_date": "1851-03-29",
+      "end_date": "1863-06-19",
+      "filename": "44b1311c9429.json"
+    },
+    "dbc6a6e4330b": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1851-03-26",
+      "end_date": "1863-06-19",
+      "filename": "dbc6a6e4330b.json"
+    },
+    "31be0b6c7a63": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1851-03-21",
+      "end_date": "1902-07-09",
+      "filename": "31be0b6c7a63.json"
+    },
+    "a5fcb779be61": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1851-03-29",
+      "end_date": "1863-06-19",
+      "filename": "a5fcb779be61.json"
+    },
+    "b3626c001ea1": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1851-03-21",
+      "end_date": "1888-03-31",
+      "filename": "b3626c001ea1.json"
+    },
+    "15bf6afe632a": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE (Ky.)",
+      "start_date": "1789-05-01",
+      "end_date": "1792-05-31",
+      "filename": "15bf6afe632a.json"
+    },
+    "e6dd2f536d54": {
+      "county_id": "kys_mason",
+      "name": "MASON (Ky.)",
+      "start_date": "1789-05-01",
+      "end_date": "1792-05-31",
+      "filename": "e6dd2f536d54.json"
+    },
+    "1b5cecbe15ca": {
+      "county_id": "kys_woodford",
+      "name": "WOODFORD (Ky.)",
+      "start_date": "1789-05-01",
+      "end_date": "1792-05-31",
+      "filename": "1b5cecbe15ca.json"
+    },
+    "c579808d3385": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1790-05-01",
+      "end_date": "1791-04-30",
+      "filename": "c579808d3385.json"
+    },
+    "d83f307d92f4": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1790-05-01",
+      "end_date": "1793-04-30",
+      "filename": "d83f307d92f4.json"
+    },
+    "472ed1fa7cae": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1790-05-01",
+      "end_date": "1795-12-13",
+      "filename": "472ed1fa7cae.json"
+    },
+    "26e83402770e": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1791-11-30",
+      "end_date": "1858-02-18",
+      "filename": "26e83402770e.json"
+    },
+    "02e9ef2bca33": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1791-11-30",
+      "end_date": "1809-12-31",
+      "filename": "02e9ef2bca33.json"
+    },
+    "8b0486eab3df": {
+      "county_id": "vas_gloucester",
+      "name": "GLOUCESTER",
+      "start_date": "1791-05-01",
+      "end_date": "2000-12-31",
+      "filename": "8b0486eab3df.json"
+    },
+    "264fa0ba61b0": {
+      "county_id": "vas_mathews",
+      "name": "MATHEWS",
+      "start_date": "1791-05-01",
+      "end_date": "2000-12-31",
+      "filename": "264fa0ba61b0.json"
+    },
+    "b742aa545db0": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON (W.Va.)",
+      "start_date": "1791-05-01",
+      "end_date": "1796-12-02",
+      "filename": "b742aa545db0.json"
+    },
+    "c3578daa1cc9": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1791-05-01",
+      "end_date": "1902-07-09",
+      "filename": "c3578daa1cc9.json"
+    },
+    "42ad9633f9c0": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1791-06-01",
+      "end_date": "1791-11-29",
+      "filename": "42ad9633f9c0.json"
+    },
+    "d0c338a01af5": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1791-06-01",
+      "end_date": "1791-11-29",
+      "filename": "d0c338a01af5.json"
+    },
+    "06687458dd0d": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1791-03-30",
+      "end_date": "1798-01-02",
+      "filename": "06687458dd0d.json"
+    },
+    "c83a9f0e0382": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1791-05-01",
+      "end_date": "1795-12-04",
+      "filename": "c83a9f0e0382.json"
+    },
+    "104ccf99390a": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1791-05-01",
+      "end_date": "1795-12-13",
+      "filename": "104ccf99390a.json"
+    },
+    "1355384417dc": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1791-05-01",
+      "end_date": "1796-12-02",
+      "filename": "1355384417dc.json"
+    },
+    "3c8ffe4d171b": {
+      "county_id": "vas_madison",
+      "name": "MADISON",
+      "start_date": "1793-05-01",
+      "end_date": "2000-12-31",
+      "filename": "3c8ffe4d171b.json"
+    },
+    "383309d59745": {
+      "county_id": "vas_culpeper",
+      "name": "CULPEPER",
+      "start_date": "1793-05-01",
+      "end_date": "1833-02-17",
+      "filename": "383309d59745.json"
+    },
+    "d5b06fcc6101": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1793-05-01",
+      "end_date": "1794-12-11",
+      "filename": "d5b06fcc6101.json"
+    },
+    "7533c1f17c22": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1793-05-01",
+      "end_date": "1794-12-11",
+      "filename": "7533c1f17c22.json"
+    },
+    "8f9b0a507131": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1793-05-13",
+      "end_date": "1800-04-30",
+      "filename": "8f9b0a507131.json"
+    },
+    "d80e0db376fe": {
+      "county_id": "vas_lee",
+      "name": "LEE",
+      "start_date": "1793-05-13",
+      "end_date": "1814-11-23",
+      "filename": "d80e0db376fe.json"
+    },
+    "a259359aedc4": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1794-12-12",
+      "end_date": "1809-12-31",
+      "filename": "a259359aedc4.json"
+    },
+    "26ff44a47753": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1794-12-12",
+      "end_date": "1800-04-30",
+      "filename": "26ff44a47753.json"
+    },
+    "c43184a68a94": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1795-12-05",
+      "end_date": "1799-04-30",
+      "filename": "c43184a68a94.json"
+    },
+    "98a732ce612b": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1795-12-14",
+      "end_date": "1796-12-06",
+      "filename": "98a732ce612b.json"
+    },
+    "8c517b02993d": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1795-12-14",
+      "end_date": "1796-12-06",
+      "filename": "8c517b02993d.json"
+    },
+    "12e0b46f4c48": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1795-12-05",
+      "end_date": "1800-12-29",
+      "filename": "12e0b46f4c48.json"
+    },
+    "a555f392a651": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1796-12-03",
+      "end_date": "1821-12-20",
+      "filename": "a555f392a651.json"
+    },
+    "8ad4839da512": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON (W.Va.)",
+      "start_date": "1796-12-03",
+      "end_date": "1821-12-20",
+      "filename": "8ad4839da512.json"
+    },
+    "20f15b791cb5": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1796-12-07",
+      "end_date": "1802-01-01",
+      "filename": "20f15b791cb5.json"
+    },
+    "07b5b3df9821": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1796-12-07",
+      "end_date": "1802-01-01",
+      "filename": "07b5b3df9821.json"
+    },
+    "4e5e71c973ec": {
+      "county_id": "wvs_brooke",
+      "name": "BROOKE (W.Va.)",
+      "start_date": "1797-05-01",
+      "end_date": "1848-01-14",
+      "filename": "4e5e71c973ec.json"
+    },
+    "a63a9205583c": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1797-05-01",
+      "end_date": "1805-04-30",
+      "filename": "a63a9205583c.json"
+    },
+    "4e87d5d0606e": {
+      "county_id": "vas_loudoun",
+      "name": "LOUDOUN",
+      "start_date": "1798-01-03",
+      "end_date": "2000-12-31",
+      "filename": "4e87d5d0606e.json"
+    },
+    "5201afb24c52": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1798-01-03",
+      "end_date": "1915-03-31",
+      "filename": "5201afb24c52.json"
+    },
+    "9d53d02d0b61": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1799-05-01",
+      "end_date": "1802-01-01",
+      "filename": "9d53d02d0b61.json"
+    },
+    "99eaf7cf213b": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1799-05-01",
+      "end_date": "1799-12-31",
+      "filename": "99eaf7cf213b.json"
+    },
+    "99db3df0f299": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1916-05-06",
+      "end_date": "1937-06-30",
+      "filename": "99db3df0f299.json"
+    },
+    "a4c8180e3ef2": {
+      "county_id": "vas_hopewellic",
+      "name": "Hopewell (IC)",
+      "start_date": "1916-07-01",
+      "end_date": "1923-06-30",
+      "filename": "a4c8180e3ef2.json"
+    },
+    "279046b693ec": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1916-07-01",
+      "end_date": "1921-11-30",
+      "filename": "279046b693ec.json"
+    },
+    "e8be01f4cbfe": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1917-01-17",
+      "end_date": "1920-12-31",
+      "filename": "e8be01f4cbfe.json"
+    },
+    "004762470769": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1917-01-17",
+      "end_date": "1920-12-31",
+      "filename": "004762470769.json"
+    },
+    "f708d11e1a70": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1918-06-26",
+      "end_date": "1947-12-31",
+      "filename": "f708d11e1a70.json"
+    },
+    "aca3e2455a9f": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1918-06-26",
+      "end_date": "1921-01-04",
+      "filename": "aca3e2455a9f.json"
+    },
+    "201b61a6a49f": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1802-01-02",
+      "end_date": "1806-04-30",
+      "filename": "201b61a6a49f.json"
+    },
+    "6d9420f61a81": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1802-01-02",
+      "end_date": "1805-04-30",
+      "filename": "6d9420f61a81.json"
+    },
+    "3c4bbc99f5f8": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1802-01-02",
+      "end_date": "1806-04-30",
+      "filename": "3c4bbc99f5f8.json"
+    },
+    "f4f51e313d22": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1802-01-02",
+      "end_date": "1822-01-04",
+      "filename": "f4f51e313d22.json"
+    },
+    "880886d8e3ef": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1802-01-02",
+      "end_date": "1818-01-29",
+      "filename": "880886d8e3ef.json"
+    },
+    "0762ef181c28": {
+      "county_id": "wvs_mason",
+      "name": "MASON (W.Va.)",
+      "start_date": "1804-05-01",
+      "end_date": "1817-01-26",
+      "filename": "0762ef181c28.json"
+    },
+    "38afd5fea3c0": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1804-05-01",
+      "end_date": "1809-01-01",
+      "filename": "38afd5fea3c0.json"
+    },
+    "f49f15bb4e94": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1805-05-01",
+      "end_date": "1814-12-05",
+      "filename": "f49f15bb4e94.json"
+    },
+    "74748b6ef68d": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1805-05-01",
+      "end_date": "1816-12-17",
+      "filename": "74748b6ef68d.json"
+    },
+    "29fb8f1c45be": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1806-05-01",
+      "end_date": "1822-01-04",
+      "filename": "29fb8f1c45be.json"
+    },
+    "abe72f1cd48f": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1806-05-01",
+      "end_date": "1808-02-29",
+      "filename": "abe72f1cd48f.json"
+    },
+    "3a278f824771": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1806-05-01",
+      "end_date": "1807-04-30",
+      "filename": "3a278f824771.json"
+    },
+    "2ab9eb797c81": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1806-05-01",
+      "end_date": "1831-01-31",
+      "filename": "2ab9eb797c81.json"
+    },
+    "c0960895a86c": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1807-05-01",
+      "end_date": "1814-11-23",
+      "filename": "c0960895a86c.json"
+    },
+    "6dfce2fe4c57": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1807-05-01",
+      "end_date": "1824-01-11",
+      "filename": "6dfce2fe4c57.json"
+    },
+    "fcfc6d1a1060": {
+      "county_id": "vas_nelson",
+      "name": "NELSON",
+      "start_date": "1808-06-01",
+      "end_date": "2000-12-31",
+      "filename": "fcfc6d1a1060.json"
+    },
+    "57c26a4870d2": {
+      "county_id": "vas_amherst",
+      "name": "AMHERST",
+      "start_date": "1808-06-01",
+      "end_date": "2000-12-31",
+      "filename": "57c26a4870d2.json"
+    },
+    "e3029c53e469": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1808-03-01",
+      "end_date": "1824-01-11",
+      "filename": "e3029c53e469.json"
+    },
+    "ef8d951964bd": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1808-03-01",
+      "end_date": "1825-01-09",
+      "filename": "ef8d951964bd.json"
+    },
+    "4370121862f8": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1809-01-02",
+      "end_date": "1824-01-11",
+      "filename": "4370121862f8.json"
+    },
+    "3a4b773ad00c": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1809-01-02",
+      "end_date": "1817-01-26",
+      "filename": "3a4b773ad00c.json"
+    },
+    "51b53394d049": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1810-01-01",
+      "end_date": "1848-09-30",
+      "filename": "51b53394d049.json"
+    },
+    "97865af62f85": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1810-01-01",
+      "end_date": "1825-01-09",
+      "filename": "97865af62f85.json"
+    },
+    "ebfc71a4e2c1": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1814-12-06",
+      "end_date": "1835-04-30",
+      "filename": "ebfc71a4e2c1.json"
+    },
+    "f7ca444dcd2f": {
+      "county_id": "vas_lee",
+      "name": "LEE",
+      "start_date": "1814-11-24",
+      "end_date": "1822-12-25",
+      "filename": "f7ca444dcd2f.json"
+    },
+    "370ff599c4d1": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1814-11-24",
+      "end_date": "1835-02-02",
+      "filename": "370ff599c4d1.json"
+    },
+    "de0341887549": {
+      "county_id": "vas_scott",
+      "name": "SCOTT",
+      "start_date": "1814-11-24",
+      "end_date": "1822-12-25",
+      "filename": "de0341887549.json"
+    },
+    "7a990e352103": {
+      "county_id": "wvs_tyler",
+      "name": "TYLER (W.Va.)",
+      "start_date": "1814-12-06",
+      "end_date": "1846-01-09",
+      "filename": "7a990e352103.json"
+    },
+    "b671007b7e6a": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1814-11-24",
+      "end_date": "1826-01-03",
+      "filename": "b671007b7e6a.json"
+    },
+    "765dc1e18bb5": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1816-12-18",
+      "end_date": "1818-02-03",
+      "filename": "765dc1e18bb5.json"
+    },
+    "d845cb655fff": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1816-12-18",
+      "end_date": "1842-01-13",
+      "filename": "d845cb655fff.json"
+    },
+    "867c9cec5c0f": {
+      "county_id": "wvs_mason",
+      "name": "MASON (W.Va.)",
+      "start_date": "1817-01-27",
+      "end_date": "1831-02-28",
+      "filename": "867c9cec5c0f.json"
+    },
+    "5ce166f05ea1": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1817-01-27",
+      "end_date": "1818-01-29",
+      "filename": "5ce166f05ea1.json"
+    },
+    "ef23d8ecc4a5": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1818-02-04",
+      "end_date": "1820-01-28",
+      "filename": "ef23d8ecc4a5.json"
+    },
+    "ca43501c7511": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1818-02-04",
+      "end_date": "1836-01-14",
+      "filename": "ca43501c7511.json"
+    },
+    "001f9523be39": {
+      "county_id": "wvs_preston",
+      "name": "PRESTON (W.Va.)",
+      "start_date": "1818-01-19",
+      "end_date": "1828-02-28",
+      "filename": "001f9523be39.json"
+    },
+    "bd384e3b9972": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1818-01-30",
+      "end_date": "1824-01-11",
+      "filename": "bd384e3b9972.json"
+    },
+    "e58ae75f2f2e": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1818-01-19",
+      "end_date": "1841-03-14",
+      "filename": "e58ae75f2f2e.json"
+    },
+    "4d66d5040989": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1818-01-30",
+      "end_date": "1818-02-03",
+      "filename": "4d66d5040989.json"
+    },
+    "843ac6785070": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1818-01-30",
+      "end_date": "1820-01-28",
+      "filename": "843ac6785070.json"
+    },
+    "d03e82ee94f7": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1818-01-30",
+      "end_date": "1824-12-27",
+      "filename": "d03e82ee94f7.json"
+    },
+    "5f258cd44d19": {
+      "county_id": "wvs_morgan",
+      "name": "MORGAN (W.Va.)",
+      "start_date": "1820-02-09",
+      "end_date": "1863-06-19",
+      "filename": "5f258cd44d19.json"
+    },
+    "6696a940effd": {
+      "county_id": "wvs_berkeley",
+      "name": "BERKELEY (W.Va.)",
+      "start_date": "1820-02-09",
+      "end_date": "1863-08-04",
+      "filename": "6696a940effd.json"
+    },
+    "d805f289aef6": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1820-02-09",
+      "end_date": "1863-06-19",
+      "filename": "d805f289aef6.json"
+    },
+    "a067389e7eef": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1820-01-29",
+      "end_date": "1824-01-22",
+      "filename": "a067389e7eef.json"
+    },
+    "763c2d903f7f": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1820-01-29",
+      "end_date": "1821-12-20",
+      "filename": "763c2d903f7f.json"
+    },
+    "c5fcdc09211b": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON (W.Va.)",
+      "start_date": "1821-12-21",
+      "end_date": "1847-04-30",
+      "filename": "c5fcdc09211b.json"
+    },
+    "b766b8d0143f": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1923-01-01",
+      "end_date": "1954-12-31",
+      "filename": "b766b8d0143f.json"
+    },
+    "7a27e8c0dc17": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1923-01-01",
+      "end_date": "1947-12-31",
+      "filename": "7a27e8c0dc17.json"
+    },
+    "dd19af9517a5": {
+      "county_id": "vas_hopewellic",
+      "name": "Hopewell (IC)",
+      "start_date": "1923-07-01",
+      "end_date": "1951-12-31",
+      "filename": "dd19af9517a5.json"
+    },
+    "024869a19387": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1923-07-01",
+      "end_date": "1944-12-31",
+      "filename": "024869a19387.json"
+    },
+    "b85feed15860": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1924-12-31",
+      "end_date": "1941-12-31",
+      "filename": "b85feed15860.json"
+    },
+    "25f50e53752b": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1924-12-31",
+      "end_date": "1941-12-31",
+      "filename": "25f50e53752b.json"
+    },
+    "bd976f7bdcf2": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1924-12-31",
+      "end_date": "1941-12-31",
+      "filename": "bd976f7bdcf2.json"
+    },
+    "76c01f3e267c": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1926-01-01",
+      "end_date": "1940-03-20",
+      "filename": "76c01f3e267c.json"
+    },
+    "3cd4caf9f56a": {
+      "county_id": "vas_fredericksburgic",
+      "name": "Fredericksburg (IC)",
+      "start_date": "1955-01-01",
+      "end_date": "1983-12-30",
+      "filename": "3cd4caf9f56a.json"
+    },
+    "4cad2385010a": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1955-01-01",
+      "end_date": "1958-12-31",
+      "filename": "4cad2385010a.json"
+    },
+    "0b6370fd0be3": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1955-01-01",
+      "end_date": "1959-12-31",
+      "filename": "0b6370fd0be3.json"
+    },
+    "a0d3c7df1a6f": {
+      "county_id": "vas_waynesboroic",
+      "name": "Waynesboro (IC)",
+      "start_date": "1955-01-01",
+      "end_date": "1956-12-31",
+      "filename": "a0d3c7df1a6f.json"
+    },
+    "278f2412931e": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1955-01-01",
+      "end_date": "1955-12-31",
+      "filename": "278f2412931e.json"
+    },
+    "cd0306892b73": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1956-01-01",
+      "end_date": "1971-12-30",
+      "filename": "cd0306892b73.json"
+    },
+    "069726da2c08": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1956-01-01",
+      "end_date": "1971-12-30",
+      "filename": "069726da2c08.json"
+    },
+    "b80ce30e39c1": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1956-01-01",
+      "end_date": "1969-12-30",
+      "filename": "b80ce30e39c1.json"
+    },
+    "c9d8f17eba60": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1956-01-01",
+      "end_date": "1962-12-31",
+      "filename": "c9d8f17eba60.json"
+    },
+    "c8703ac14616": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1956-01-01",
+      "end_date": "1962-12-31",
+      "filename": "c8703ac14616.json"
+    },
+    "3f2a6389b252": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1956-01-01",
+      "end_date": "1986-12-30",
+      "filename": "3f2a6389b252.json"
+    },
+    "0e4d1fcff068": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1956-01-01",
+      "end_date": "1956-12-31",
+      "filename": "0e4d1fcff068.json"
+    },
+    "87e52d6560e6": {
+      "county_id": "vas_waynesboroic",
+      "name": "Waynesboro (IC)",
+      "start_date": "1957-01-01",
+      "end_date": "1985-12-30",
+      "filename": "87e52d6560e6.json"
+    },
+    "a0d740792579": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1957-01-01",
+      "end_date": "1985-12-30",
+      "filename": "a0d740792579.json"
+    },
+    "cec444a631ad": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1958-07-01",
+      "end_date": "2000-12-31",
+      "filename": "cec444a631ad.json"
+    },
+    "6f88bbec0dad": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1958-01-01",
+      "end_date": "1963-12-31",
+      "filename": "6f88bbec0dad.json"
+    },
+    "63021489638d": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1965-01-01",
+      "end_date": "1966-12-31",
+      "filename": "63021489638d.json"
+    },
+    "6b53ffe7c4e5": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1965-01-01",
+      "end_date": "1966-12-31",
+      "filename": "6b53ffe7c4e5.json"
+    },
+    "c546fa4ed87f": {
+      "county_id": "vas_lexingtonic",
+      "name": "Lexington (IC)",
+      "start_date": "1966-01-01",
+      "end_date": "2000-12-31",
+      "filename": "c546fa4ed87f.json"
+    },
+    "59e06d4367be": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1966-01-01",
+      "end_date": "1983-12-30",
+      "filename": "59e06d4367be.json"
+    },
+    "e39fa5528118": {
+      "county_id": "vas_radfordic",
+      "name": "Radford (IC)",
+      "start_date": "1966-12-31",
+      "end_date": "1977-12-30",
+      "filename": "e39fa5528118.json"
+    },
+    "61feb03c94a4": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1966-12-31",
+      "end_date": "1977-12-30",
+      "filename": "61feb03c94a4.json"
+    },
+    "9bd61adf6b95": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1967-01-01",
+      "end_date": "1967-12-31",
+      "filename": "9bd61adf6b95.json"
+    },
+    "eddbb54a5bbd": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1967-01-01",
+      "end_date": "1967-12-31",
+      "filename": "eddbb54a5bbd.json"
+    },
+    "4245487517b8": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1968-01-01",
+      "end_date": "1988-02-08",
+      "filename": "4245487517b8.json"
+    },
+    "4d14c1516d59": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1968-01-01",
+      "end_date": "1988-02-08",
+      "filename": "4d14c1516d59.json"
+    },
+    "d2177ee98b9d": {
+      "county_id": "vas_radfordic",
+      "name": "Radford (IC)",
+      "start_date": "1986-12-31",
+      "end_date": "2000-12-31",
+      "filename": "d2177ee98b9d.json"
+    },
+    "945ff2a10f58": {
+      "county_id": "vas_salemic",
+      "name": "Salem (IC)",
+      "start_date": "1986-01-01",
+      "end_date": "1987-12-30",
+      "filename": "945ff2a10f58.json"
+    },
+    "38bcd563e5db": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1986-01-01",
+      "end_date": "1987-12-30",
+      "filename": "38bcd563e5db.json"
+    },
+    "4e56cfd074d4": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1986-12-31",
+      "end_date": "1994-06-30",
+      "filename": "4e56cfd074d4.json"
+    },
+    "29e27743caa4": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1986-12-31",
+      "end_date": "2000-12-31",
+      "filename": "29e27743caa4.json"
+    },
+    "613941a60e59": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1987-12-31",
+      "end_date": "1989-06-30",
+      "filename": "613941a60e59.json"
+    },
+    "09cec6838ac2": {
+      "county_id": "vas_salemic",
+      "name": "Salem (IC)",
+      "start_date": "1987-12-31",
+      "end_date": "1989-06-30",
+      "filename": "09cec6838ac2.json"
+    },
+    "d8a460e86890": {
+      "county_id": "vas_greensville",
+      "name": "GREENSVILLE",
+      "start_date": "1988-01-01",
+      "end_date": "2000-12-31",
+      "filename": "d8a460e86890.json"
+    },
+    "b8cc50b9c0b7": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1821-12-21",
+      "end_date": "1822-01-04",
+      "filename": "b8cc50b9c0b7.json"
+    },
+    "aca648f83a4f": {
+      "county_id": "wvs_pocahontas",
+      "name": "POCAHONTAS (W.Va.)",
+      "start_date": "1821-12-21",
+      "end_date": "1824-12-27",
+      "filename": "aca648f83a4f.json"
+    },
+    "04eb5a09e96b": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1821-12-21",
+      "end_date": "1828-02-28",
+      "filename": "04eb5a09e96b.json"
+    },
+    "a62d18e2a227": {
+      "county_id": "vas_scott",
+      "name": "SCOTT",
+      "start_date": "1822-12-26",
+      "end_date": "1856-02-15",
+      "filename": "a62d18e2a227.json"
+    },
+    "8271fbd00efd": {
+      "county_id": "vas_lee",
+      "name": "LEE",
+      "start_date": "1822-12-26",
+      "end_date": "1856-02-15",
+      "filename": "8271fbd00efd.json"
+    },
+    "75580073b4de": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1822-01-05",
+      "end_date": "1823-02-16",
+      "filename": "75580073b4de.json"
+    },
+    "2944a3e5b82e": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1822-01-05",
+      "end_date": "1823-02-16",
+      "filename": "2944a3e5b82e.json"
+    },
+    "000547b4c6fa": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1822-01-05",
+      "end_date": "1827-01-28",
+      "filename": "000547b4c6fa.json"
+    },
+    "636e26f191c0": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1822-01-05",
+      "end_date": "1838-04-30",
+      "filename": "636e26f191c0.json"
+    },
+    "00325204cebd": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1823-02-17",
+      "end_date": "1847-03-12",
+      "filename": "00325204cebd.json"
+    },
+    "006361f4e9db": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1823-02-17",
+      "end_date": "1847-03-12",
+      "filename": "006361f4e9db.json"
+    },
+    "33bfe1cf2ff6": {
+      "county_id": "vas_appomattox",
+      "name": "APPOMATTOX",
+      "start_date": "1845-05-01",
+      "end_date": "1848-03-27",
+      "filename": "33bfe1cf2ff6.json"
+    },
+    "5c8448ee11c5": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1845-05-01",
+      "end_date": "1848-03-27",
+      "filename": "5c8448ee11c5.json"
+    },
+    "ecb62cc5b67a": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1845-02-04",
+      "end_date": "1851-03-25",
+      "filename": "ecb62cc5b67a.json"
+    },
+    "290df6ba3dd3": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1845-02-03",
+      "end_date": "1845-02-03",
+      "filename": "290df6ba3dd3.json"
+    },
+    "203ddc5c116d": {
+      "county_id": "wvs_gilmer",
+      "name": "GILMER (W.Va.)",
+      "start_date": "1845-02-03",
+      "end_date": "1856-03-04",
+      "filename": "203ddc5c116d.json"
+    },
+    "c42abb2fb78a": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1845-02-03",
+      "end_date": "1847-03-10",
+      "filename": "c42abb2fb78a.json"
+    },
+    "ca8d9e12eecf": {
+      "county_id": "wvs_wetzel",
+      "name": "WETZEL (W.Va.)",
+      "start_date": "1846-01-10",
+      "end_date": "1863-06-19",
+      "filename": "ca8d9e12eecf.json"
+    },
+    "1bfb4cb6b92f": {
+      "county_id": "wvs_tyler",
+      "name": "TYLER (W.Va.)",
+      "start_date": "1846-01-10",
+      "end_date": "1851-03-28",
+      "filename": "1bfb4cb6b92f.json"
+    },
+    "454798668c2e": {
+      "county_id": "vas_arlington",
+      "name": "ALEXANDRIA",
+      "start_date": "1846-09-07",
+      "end_date": "1902-07-09",
+      "filename": "454798668c2e.json"
+    },
+    "0265c09a4327": {
+      "county_id": "vas_highland",
+      "name": "HIGHLAND",
+      "start_date": "1847-05-01",
+      "end_date": "2000-12-31",
+      "filename": "0265c09a4327.json"
+    },
+    "0aa712ada1f1": {
+      "county_id": "vas_greensville",
+      "name": "GREENSVILLE",
+      "start_date": "1968-02-28",
+      "end_date": "1987-12-31",
+      "filename": "0aa712ada1f1.json"
+    },
+    "cf5b5be0e4fd": {
+      "county_id": "vas_emporiaic",
+      "name": "Emporia (IC)",
+      "start_date": "1968-02-28",
+      "end_date": "1987-12-31",
+      "filename": "cf5b5be0e4fd.json"
+    },
+    "7c9d33713d78": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1968-12-31",
+      "end_date": "2000-12-31",
+      "filename": "7c9d33713d78.json"
+    },
+    "1c5ccde0bdc9": {
+      "county_id": "vas_chesapeakeic",
+      "name": "Chesapeake (IC)",
+      "start_date": "1968-12-31",
+      "end_date": "1980-12-30",
+      "filename": "1c5ccde0bdc9.json"
+    },
+    "8dd09f1e1532": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1968-09-01",
+      "end_date": "1975-12-30",
+      "filename": "8dd09f1e1532.json"
+    },
+    "0631a86ff9bc": {
+      "county_id": "vas_bedfordic",
+      "name": "Bedford (IC)",
+      "start_date": "1968-09-01",
+      "end_date": "1993-06-30",
+      "filename": "0631a86ff9bc.json"
+    },
+    "41b7fae13d95": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1968-01-01",
+      "end_date": "1975-12-31",
+      "filename": "41b7fae13d95.json"
+    },
+    "e851fa15609d": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1968-01-01",
+      "end_date": "1975-12-31",
+      "filename": "e851fa15609d.json"
+    },
+    "1484e058bb6a": {
+      "county_id": "vas_salemic",
+      "name": "Salem (IC)",
+      "start_date": "1968-01-01",
+      "end_date": "1985-12-31",
+      "filename": "1484e058bb6a.json"
+    },
+    "d331ef41edb5": {
+      "county_id": "wvs_pocahontas",
+      "name": "POCAHONTAS (W.Va.)",
+      "start_date": "1824-12-28",
+      "end_date": "1863-06-19",
+      "filename": "d331ef41edb5.json"
+    },
+    "990ffe4b4efd": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1824-12-28",
+      "end_date": "1827-01-28",
+      "filename": "990ffe4b4efd.json"
+    },
+    "e2e625c18286": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1824-01-23",
+      "end_date": "1831-02-27",
+      "filename": "e2e625c18286.json"
+    },
+    "d007320a0577": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1824-01-23",
+      "end_date": "1830-01-25",
+      "filename": "d007320a0577.json"
+    },
+    "501510fb9428": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1824-01-12",
+      "end_date": "1830-01-25",
+      "filename": "501510fb9428.json"
+    },
+    "0647ed0f4a65": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1824-01-12",
+      "end_date": "1826-01-08",
+      "filename": "0647ed0f4a65.json"
+    },
+    "3efdff2e391e": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1824-01-12",
+      "end_date": "1830-01-25",
+      "filename": "3efdff2e391e.json"
+    },
+    "cd01341404f8": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1824-01-12",
+      "end_date": "1826-01-03",
+      "filename": "cd01341404f8.json"
+    },
+    "dc86fd56cac0": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1824-01-12",
+      "end_date": "1824-01-22",
+      "filename": "dc86fd56cac0.json"
+    },
+    "eb47ed2b3987": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1825-01-10",
+      "end_date": "1842-01-16",
+      "filename": "eb47ed2b3987.json"
+    },
+    "0d4eb95a088f": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1825-01-10",
+      "end_date": "1826-01-03",
+      "filename": "0d4eb95a088f.json"
+    },
+    "9b3f69eb598d": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1826-01-09",
+      "end_date": "1827-01-28",
+      "filename": "9b3f69eb598d.json"
+    },
+    "5f039a9b705c": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1826-01-09",
+      "end_date": "1834-03-11",
+      "filename": "5f039a9b705c.json"
+    },
+    "966e25a1251b": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1826-01-04",
+      "end_date": "1832-02-22",
+      "filename": "966e25a1251b.json"
+    },
+    "8b324f5e2472": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1826-01-04",
+      "end_date": "1832-02-22",
+      "filename": "8b324f5e2472.json"
+    },
+    "d627f1070075": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1826-01-04",
+      "end_date": "1826-01-08",
+      "filename": "d627f1070075.json"
+    },
+    "8ecd975b1495": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1827-01-29",
+      "end_date": "1829-02-01",
+      "filename": "8ecd975b1495.json"
+    },
+    "798aad72e4ec": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1827-01-29",
+      "end_date": "1829-02-01",
+      "filename": "798aad72e4ec.json"
+    },
+    "03fa12a902fd": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1827-01-29",
+      "end_date": "1831-02-27",
+      "filename": "03fa12a902fd.json"
+    },
+    "612a4f375ece": {
+      "county_id": "wvs_preston",
+      "name": "PRESTON (W.Va.)",
+      "start_date": "1828-02-29",
+      "end_date": "1838-04-03",
+      "filename": "612a4f375ece.json"
+    },
+    "0688816d882e": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1828-02-29",
+      "end_date": "1836-01-14",
+      "filename": "0688816d882e.json"
+    },
+    "4bc813bc1130": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1829-02-02",
+      "end_date": "1851-03-20",
+      "filename": "4bc813bc1130.json"
+    },
+    "4f993c202d8b": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1829-02-02",
+      "end_date": "1837-03-16",
+      "filename": "4f993c202d8b.json"
+    },
+    "8f7c5e2a30ed": {
+      "county_id": "vas_arlington",
+      "name": "ARLINGTON",
+      "start_date": "1930-01-01",
+      "end_date": "2000-12-31",
+      "filename": "8f7c5e2a30ed.json"
+    },
+    "68334ff7409a": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1932-01-01",
+      "end_date": "1955-12-31",
+      "filename": "68334ff7409a.json"
+    },
+    "ded6c49aa8bc": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1932-01-01",
+      "end_date": "1944-12-31",
+      "filename": "ded6c49aa8bc.json"
+    },
+    "771ac70f3b03": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1933-01-01",
+      "end_date": "1947-07-31",
+      "filename": "771ac70f3b03.json"
+    },
+    "c5f3f232ed2f": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1933-01-01",
+      "end_date": "1947-07-31",
+      "filename": "c5f3f232ed2f.json"
+    },
+    "a315fa5ea659": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1937-07-01",
+      "end_date": "1950-12-18",
+      "filename": "a315fa5ea659.json"
+    },
+    "1581d3a4ea65": {
+      "county_id": "vas_harrisonburgic",
+      "name": "Harrisonburg (IC)",
+      "start_date": "1937-07-01",
+      "end_date": "1950-12-18",
+      "filename": "1581d3a4ea65.json"
+    },
+    "7767ab852b45": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1937-01-15",
+      "end_date": "1947-12-31",
+      "filename": "7767ab852b45.json"
+    },
+    "659d4ba666f0": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1990-12-31",
+      "end_date": "2000-12-31",
+      "filename": "659d4ba666f0.json"
+    },
+    "09928cc129a4": {
+      "county_id": "vas_covingtonic",
+      "name": "Covington (IC)",
+      "start_date": "1990-12-31",
+      "end_date": "2000-12-31",
+      "filename": "09928cc129a4.json"
+    },
+    "d3f0e35384b7": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1991-01-01",
+      "end_date": "1992-06-30",
+      "filename": "d3f0e35384b7.json"
+    },
+    "5325f39019da": {
+      "county_id": "vas_galaxic",
+      "name": "Galax (IC)",
+      "start_date": "1991-01-01",
+      "end_date": "1992-06-30",
+      "filename": "5325f39019da.json"
+    },
+    "92c244d42861": {
+      "county_id": "vas_galaxic",
+      "name": "Galax (IC)",
+      "start_date": "1992-07-01",
+      "end_date": "2000-12-31",
+      "filename": "92c244d42861.json"
+    },
+    "6ae9991cb6d3": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1992-07-01",
+      "end_date": "2000-12-31",
+      "filename": "6ae9991cb6d3.json"
+    },
+    "127fec25a35d": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1993-07-01",
+      "end_date": "2000-12-31",
+      "filename": "127fec25a35d.json"
+    },
+    "060d78d92871": {
+      "county_id": "vas_bedfordic",
+      "name": "Bedford (IC)",
+      "start_date": "1993-07-01",
+      "end_date": "2000-12-31",
+      "filename": "060d78d92871.json"
+    },
+    "0992fd23b736": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1830-01-26",
+      "end_date": "1842-01-17",
+      "filename": "0992fd23b736.json"
+    },
+    "e95cc1fb923d": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1830-01-26",
+      "end_date": "1831-02-27",
+      "filename": "e95cc1fb923d.json"
+    },
+    "c5e0d7a6672a": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1830-01-26",
+      "end_date": "1831-02-27",
+      "filename": "c5e0d7a6672a.json"
+    },
+    "9e898a601a8a": {
+      "county_id": "vas_page",
+      "name": "PAGE",
+      "start_date": "1831-03-30",
+      "end_date": "2000-12-31",
+      "filename": "9e898a601a8a.json"
+    },
+    "b622836345c6": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1831-03-30",
+      "end_date": "1916-05-05",
+      "filename": "b622836345c6.json"
+    },
+    "d9a0f229cb22": {
+      "county_id": "wvs_mason",
+      "name": "MASON (W.Va.)",
+      "start_date": "1831-03-01",
+      "end_date": "1848-03-10",
+      "filename": "d9a0f229cb22.json"
+    },
+    "69901a90ce5a": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON (W.Va.)",
+      "start_date": "1831-03-01",
+      "end_date": "1848-01-18",
+      "filename": "69901a90ce5a.json"
+    },
+    "0ad66af37d70": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1831-03-01",
+      "end_date": "1843-02-17",
+      "filename": "0ad66af37d70.json"
+    },
+    "d7da6cde3afb": {
+      "county_id": "vas_shenandoah",
+      "name": "SHENANDOAH",
+      "start_date": "1831-03-30",
+      "end_date": "1836-03-08",
+      "filename": "d7da6cde3afb.json"
+    },
+    "6ae0e2d82b74": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1831-04-04",
+      "end_date": "1833-02-22",
+      "filename": "6ae0e2d82b74.json"
+    },
+    "ab1ba4e71ee8": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1831-04-04",
+      "end_date": "1833-02-22",
+      "filename": "ab1ba4e71ee8.json"
+    },
+    "ae93fe3d97e7": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1831-03-01",
+      "end_date": "1836-01-14",
+      "filename": "ae93fe3d97e7.json"
+    },
+    "25795aacedcf": {
+      "county_id": "vas_floyd",
+      "name": "FLOYD",
+      "start_date": "1831-02-01",
+      "end_date": "2000-12-31",
+      "filename": "25795aacedcf.json"
+    },
+    "77edf29bd98c": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1831-02-28",
+      "end_date": "1831-04-03",
+      "filename": "77edf29bd98c.json"
+    },
+    "2585066934fa": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1831-02-28",
+      "end_date": "1831-02-28",
+      "filename": "2585066934fa.json"
+    },
+    "7da2ccd1460e": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1831-02-28",
+      "end_date": "1836-01-14",
+      "filename": "7da2ccd1460e.json"
+    },
+    "02b73ce8d2dc": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1831-02-28",
+      "end_date": "1831-04-03",
+      "filename": "02b73ce8d2dc.json"
+    },
+    "a3e5cf47a837": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1831-02-01",
+      "end_date": "1839-03-29",
+      "filename": "a3e5cf47a837.json"
+    },
+    "7c36ac74669f": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1831-02-28",
+      "end_date": "1834-03-11",
+      "filename": "7c36ac74669f.json"
+    },
+    "14f2721b87b3": {
+      "county_id": "vas_smyth",
+      "name": "SMYTH",
+      "start_date": "1832-02-23",
+      "end_date": "2000-12-31",
+      "filename": "14f2721b87b3.json"
+    },
+    "71b1e038878e": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1832-02-23",
+      "end_date": "1902-07-09",
+      "filename": "71b1e038878e.json"
+    },
+    "f59107bc71cd": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1832-02-23",
+      "end_date": "1839-03-29",
+      "filename": "f59107bc71cd.json"
+    },
+    "2ad7a6cd2055": {
+      "county_id": "vas_rappahannock",
+      "name": "RAPPAHANNOCK",
+      "start_date": "1833-02-18",
+      "end_date": "2000-12-31",
+      "filename": "2ad7a6cd2055.json"
+    },
+    "673583a6e7fc": {
+      "county_id": "vas_culpeper",
+      "name": "CULPEPER",
+      "start_date": "1833-02-18",
+      "end_date": "2000-12-31",
+      "filename": "673583a6e7fc.json"
+    },
+    "e441ecd2a488": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1833-02-23",
+      "end_date": "1839-03-28",
+      "filename": "e441ecd2a488.json"
+    },
+    "b87f21115c18": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER (W.Va.)",
+      "start_date": "1833-02-23",
+      "end_date": "1863-06-19",
+      "filename": "b87f21115c18.json"
+    },
+    "412bf8885068": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1834-03-12",
+      "end_date": "1847-03-10",
+      "filename": "412bf8885068.json"
+    },
+    "adf7f876bec5": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1834-03-12",
+      "end_date": "1835-02-02",
+      "filename": "adf7f876bec5.json"
+    },
+    "88032f9722f3": {
+      "county_id": "wvs_marshall",
+      "name": "MARSHALL (W.Va.)",
+      "start_date": "1835-05-01",
+      "end_date": "1863-06-19",
+      "filename": "88032f9722f3.json"
+    },
+    "1e7144f7539d": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1835-05-01",
+      "end_date": "1863-06-19",
+      "filename": "1e7144f7539d.json"
+    },
+    "0b2bf557014e": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1835-02-03",
+      "end_date": "1856-02-15",
+      "filename": "0b2bf557014e.json"
+    },
+    "d1315134fd16": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1835-02-03",
+      "end_date": "1837-03-16",
+      "filename": "d1315134fd16.json"
+    },
+    "1bf4d7019cfe": {
+      "county_id": "vas_shenandoah",
+      "name": "SHENANDOAH",
+      "start_date": "1836-03-09",
+      "end_date": "2000-12-31",
+      "filename": "1bf4d7019cfe.json"
+    },
+    "1b243c86d6eb": {
+      "county_id": "vas_warren",
+      "name": "WARREN",
+      "start_date": "1836-03-09",
+      "end_date": "2000-12-31",
+      "filename": "1b243c86d6eb.json"
+    },
+    "f1ca82177e9a": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1836-03-09",
+      "end_date": "1902-07-09",
+      "filename": "f1ca82177e9a.json"
+    },
+    "9bddc8e71158": {
+      "county_id": "vas_clarke",
+      "name": "CLARKE",
+      "start_date": "1836-03-08",
+      "end_date": "2000-12-31",
+      "filename": "9bddc8e71158.json"
+    },
+    "bdbb61acec7d": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1836-01-15",
+      "end_date": "1858-03-28",
+      "filename": "bdbb61acec7d.json"
+    },
+    "aafd9e3b6527": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1836-03-08",
+      "end_date": "1836-03-08",
+      "filename": "aafd9e3b6527.json"
+    },
+    "64b0aa62c0f5": {
+      "county_id": "wvs_braxton",
+      "name": "BRAXTON (W.Va.)",
+      "start_date": "1836-01-15",
+      "end_date": "1849-03-15",
+      "filename": "64b0aa62c0f5.json"
+    },
+    "442dc5abd882": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1836-01-15",
+      "end_date": "1838-04-03",
+      "filename": "442dc5abd882.json"
+    },
+    "5cc1515149a3": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1836-01-15",
+      "end_date": "1839-03-28",
+      "filename": "5cc1515149a3.json"
+    },
+    "a0dd8b78b243": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1836-01-15",
+      "end_date": "1843-02-17",
+      "filename": "a0dd8b78b243.json"
+    },
+    "8bfcac2e6358": {
+      "county_id": "wvs_mercer",
+      "name": "MERCER (W.Va.)",
+      "start_date": "1837-03-17",
+      "end_date": "1841-03-04",
+      "filename": "8bfcac2e6358.json"
+    },
+    "db65d94c226b": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1837-03-17",
+      "end_date": "1841-03-04",
+      "filename": "db65d94c226b.json"
+    },
+    "d964b295b925": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1837-03-17",
+      "end_date": "1858-02-12",
+      "filename": "d964b295b925.json"
+    },
+    "efa0db4ede9a": {
+      "county_id": "vas_greene",
+      "name": "GREENE",
+      "start_date": "1838-01-24",
+      "end_date": "2000-12-31",
+      "filename": "efa0db4ede9a.json"
+    },
+    "3facc2d08d45": {
+      "county_id": "vas_orange",
+      "name": "ORANGE",
+      "start_date": "1838-01-24",
+      "end_date": "2000-12-31",
+      "filename": "3facc2d08d45.json"
+    },
+    "a08aaa0a8bb8": {
+      "county_id": "wvs_preston",
+      "name": "PRESTON (W.Va.)",
+      "start_date": "1838-04-04",
+      "end_date": "1841-03-14",
+      "filename": "a08aaa0a8bb8.json"
+    },
+    "7ae155c74c3f": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1838-05-01",
+      "end_date": "1849-02-01",
+      "filename": "7ae155c74c3f.json"
+    },
+    "51f679b9a514": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1838-04-04",
+      "end_date": "1843-03-02",
+      "filename": "51f679b9a514.json"
+    },
+    "e1812e3a1053": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1838-05-01",
+      "end_date": "1851-03-20",
+      "filename": "e1812e3a1053.json"
+    },
+    "d953f748ca14": {
+      "county_id": "vas_pulaski",
+      "name": "PULASKI",
+      "start_date": "1839-03-30",
+      "end_date": "1842-02-13",
+      "filename": "d953f748ca14.json"
+    },
+    "835a487580ad": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1839-03-29",
+      "end_date": "1850-01-22",
+      "filename": "835a487580ad.json"
+    },
+    "b420dea84348": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1839-03-30",
+      "end_date": "1842-02-13",
+      "filename": "b420dea84348.json"
+    },
+    "31025e5a50ae": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1839-03-29",
+      "end_date": "1845-02-02",
+      "filename": "31025e5a50ae.json"
+    },
+    "e67914542c5a": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1839-03-30",
+      "end_date": "1861-03-29",
+      "filename": "e67914542c5a.json"
+    },
+    "a9d350880af5": {
+      "county_id": "wvs_preston",
+      "name": "PRESTON (W.Va.)",
+      "start_date": "1841-03-15",
+      "end_date": "1863-06-19",
+      "filename": "a9d350880af5.json"
+    },
+    "f4172f83d4de": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1841-03-15",
+      "end_date": "1842-01-13",
+      "filename": "f4172f83d4de.json"
+    },
+    "f75d86a1ef65": {
+      "county_id": "vas_southampton",
+      "name": "SOUTHAMPTON",
+      "start_date": "1986-01-01",
+      "end_date": "1995-12-31",
+      "filename": "f75d86a1ef65.json"
+    },
+    "9f7ec189022d": {
+      "county_id": "vas_franklinic",
+      "name": "Franklin (IC)",
+      "start_date": "1986-01-01",
+      "end_date": "1995-12-31",
+      "filename": "9f7ec189022d.json"
+    },
+    "919f2cf0ed3d": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1986-12-31",
+      "end_date": "2000-12-31",
+      "filename": "919f2cf0ed3d.json"
+    },
+    "0b5f0f7523e3": {
+      "county_id": "vas_emporiaic",
+      "name": "Emporia (IC)",
+      "start_date": "1988-01-01",
+      "end_date": "2000-12-31",
+      "filename": "0b5f0f7523e3.json"
+    },
+    "0fa236e38cb5": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1988-12-31",
+      "end_date": "2000-12-31",
+      "filename": "0fa236e38cb5.json"
+    },
+    "44701473b562": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1988-02-09",
+      "end_date": "2000-12-31",
+      "filename": "44701473b562.json"
+    },
+    "b22011dc9501": {
+      "county_id": "vas_halifax",
+      "name": "HALIFAX",
+      "start_date": "1995-06-30",
+      "end_date": "2000-12-31",
+      "filename": "b22011dc9501.json"
+    },
+    "2f59b21f739c": {
+      "county_id": "vas_southampton",
+      "name": "SOUTHAMPTON",
+      "start_date": "1996-01-01",
+      "end_date": "2000-12-31",
+      "filename": "2f59b21f739c.json"
+    },
+    "32fb32ab1550": {
+      "county_id": "vas_franklinic",
+      "name": "Franklin (IC)",
+      "start_date": "1996-01-01",
+      "end_date": "2000-12-31",
+      "filename": "32fb32ab1550.json"
+    },
+    "72ebf2193d66": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1735-03-25",
+      "end_date": "1752-04-30",
+      "filename": "72ebf2193d66.json"
+    },
+    "d427a69bb405": {
+      "county_id": "vas_amelia",
+      "name": "AMELIA",
+      "start_date": "1735-03-25",
+      "end_date": "1753-12-31",
+      "filename": "d427a69bb405.json"
+    },
+    "a3d7b60b3c6b": {
+      "county_id": "vas_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1735-03-25",
+      "end_date": "1746-04-30",
+      "filename": "a3d7b60b3c6b.json"
+    },
+    "490b1dec14a5": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1735-01-01",
+      "end_date": "1902-07-09",
+      "filename": "490b1dec14a5.json"
+    },
+    "2f8036a4893d": {
+      "county_id": "vas_orange",
+      "name": "ORANGE",
+      "start_date": "1735-01-01",
+      "end_date": "1738-12-14",
+      "filename": "2f8036a4893d.json"
+    },
+    "b9d0c565c960": {
+      "county_id": "wvs_mercer",
+      "name": "MERCER (W.Va.)",
+      "start_date": "1841-03-05",
+      "end_date": "1863-06-19",
+      "filename": "b9d0c565c960.json"
+    },
+    "c84b4915db7f": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1841-03-05",
+      "end_date": "1851-03-20",
+      "filename": "c84b4915db7f.json"
+    },
+    "1c26760f6db8": {
+      "county_id": "wvs_wayne",
+      "name": "WAYNE (W.Va.)",
+      "start_date": "1842-01-18",
+      "end_date": "1863-06-19",
+      "filename": "1c26760f6db8.json"
+    },
+    "a3b2ca9e1d35": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1842-01-14",
+      "end_date": "1863-06-19",
+      "filename": "a3b2ca9e1d35.json"
+    },
+    "42769e9038b0": {
+      "county_id": "vas_pulaski",
+      "name": "PULASKI",
+      "start_date": "1842-02-14",
+      "end_date": "2000-12-31",
+      "filename": "42769e9038b0.json"
+    },
+    "7ee87313c49b": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1842-01-17",
+      "end_date": "1953-11-29",
+      "filename": "7ee87313c49b.json"
+    },
+    "39ea58c13bf0": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1842-01-18",
+      "end_date": "1847-03-10",
+      "filename": "39ea58c13bf0.json"
+    },
+    "ae3924755b61": {
+      "county_id": "wvs_marion",
+      "name": "MARION (W.Va.)",
+      "start_date": "1842-01-14",
+      "end_date": "1844-01-18",
+      "filename": "ae3924755b61.json"
+    },
+    "77d61da3efb2": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1842-01-14",
+      "end_date": "1843-02-17",
+      "filename": "77d61da3efb2.json"
+    },
+    "d912d1873a1b": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1842-02-14",
+      "end_date": "1849-02-01",
+      "filename": "d912d1873a1b.json"
+    },
+    "d016216e9bf1": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1842-01-17",
+      "end_date": "1856-02-25",
+      "filename": "d016216e9bf1.json"
+    },
+    "56b4b2d55b34": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1843-03-03",
+      "end_date": "1849-03-15",
+      "filename": "56b4b2d55b34.json"
+    },
+    "37332b07e7ff": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1843-03-03",
+      "end_date": "1844-01-18",
+      "filename": "37332b07e7ff.json"
+    },
+    "4107010acccd": {
+      "county_id": "wvs_barbour",
+      "name": "BARBOUR (W.Va.)",
+      "start_date": "1843-03-03",
+      "end_date": "1844-01-18",
+      "filename": "4107010acccd.json"
+    },
+    "303ff772e2e1": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1843-03-03",
+      "end_date": "1845-02-02",
+      "filename": "303ff772e2e1.json"
+    },
+    "47764b09d5a5": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1843-02-18",
+      "end_date": "1848-01-18",
+      "filename": "47764b09d5a5.json"
+    },
+    "d5e153c18fb6": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1843-02-18",
+      "end_date": "1843-03-02",
+      "filename": "d5e153c18fb6.json"
+    },
+    "308339381bf4": {
+      "county_id": "wvs_ritchie",
+      "name": "RITCHIE (W.Va.)",
+      "start_date": "1843-02-18",
+      "end_date": "1845-02-03",
+      "filename": "308339381bf4.json"
+    },
+    "02bc80bbd12a": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS (W.Va.)",
+      "start_date": "1843-02-18",
+      "end_date": "1843-03-02",
+      "filename": "02bc80bbd12a.json"
+    },
+    "196d46515bf0": {
+      "county_id": "wvs_taylor",
+      "name": "TAYLOR (W.Va.)",
+      "start_date": "1844-01-19",
+      "end_date": "1856-02-19",
+      "filename": "196d46515bf0.json"
+    },
+    "820345c15618": {
+      "county_id": "wvs_marion",
+      "name": "MARION (W.Va.)",
+      "start_date": "1844-01-19",
+      "end_date": "1856-02-19",
+      "filename": "820345c15618.json"
+    },
+    "21b8bb776abd": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1844-01-19",
+      "end_date": "1845-02-03",
+      "filename": "21b8bb776abd.json"
+    },
+    "ea3c75b6558c": {
+      "county_id": "wvs_barbour",
+      "name": "BARBOUR (W.Va.)",
+      "start_date": "1844-01-19",
+      "end_date": "1851-03-25",
+      "filename": "ea3c75b6558c.json"
+    },
+    "2eca353adcfd": {
+      "county_id": "wvs_doddridge",
+      "name": "DODDRIDGE (W.Va.)",
+      "start_date": "1845-02-04",
+      "end_date": "1863-06-19",
+      "filename": "2eca353adcfd.json"
+    },
+    "2a655d506075": {
+      "county_id": "vas_buckingham",
+      "name": "BUCKINGHAM",
+      "start_date": "1845-05-01",
+      "end_date": "2000-12-31",
+      "filename": "2a655d506075.json"
+    },
+    "a1abcfb6ac1a": {
+      "county_id": "vas_princeedward",
+      "name": "PRINCE EDWARD",
+      "start_date": "1845-05-01",
+      "end_date": "2000-12-31",
+      "filename": "a1abcfb6ac1a.json"
+    },
+    "a6b34aa07e61": {
+      "county_id": "vas_charlotte",
+      "name": "CHARLOTTE",
+      "start_date": "1845-05-01",
+      "end_date": "2000-12-31",
+      "filename": "a6b34aa07e61.json"
+    },
+    "81b4f8b85c75": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON (W.Va.)",
+      "start_date": "1845-02-04",
+      "end_date": "1863-06-19",
+      "filename": "81b4f8b85c75.json"
+    },
+    "59886b7624b2": {
+      "county_id": "wvs_ritchie",
+      "name": "RITCHIE (W.Va.)",
+      "start_date": "1845-02-04",
+      "end_date": "1863-06-19",
+      "filename": "59886b7624b2.json"
+    },
+    "e25ff31e8ed8": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1847-05-01",
+      "end_date": "2000-12-31",
+      "filename": "e25ff31e8ed8.json"
+    },
+    "2d8495ccd898": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON (W.Va.)",
+      "start_date": "1847-05-01",
+      "end_date": "1863-06-19",
+      "filename": "2d8495ccd898.json"
+    },
+    "18caa5ea610f": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1847-03-13",
+      "end_date": "1906-06-14",
+      "filename": "18caa5ea610f.json"
+    },
+    "2a692a1f5684": {
+      "county_id": "vas_bath",
+      "name": "BATH",
+      "start_date": "1847-03-13",
+      "end_date": "1847-04-30",
+      "filename": "2a692a1f5684.json"
+    },
+    "ecfe35a66b74": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1847-03-11",
+      "end_date": "1848-03-10",
+      "filename": "ecfe35a66b74.json"
+    },
+    "bd97bd40ab52": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1847-03-11",
+      "end_date": "1848-03-10",
+      "filename": "bd97bd40ab52.json"
+    },
+    "27d58a91e44e": {
+      "county_id": "wvs_boone",
+      "name": "BOONE (W.Va.)",
+      "start_date": "1847-03-11",
+      "end_date": "1863-06-19",
+      "filename": "27d58a91e44e.json"
+    },
+    "69946c03774a": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1847-03-11",
+      "end_date": "1850-01-25",
+      "filename": "69946c03774a.json"
+    },
+    "28ed6362b7d8": {
+      "county_id": "wvs_brooke",
+      "name": "BROOKE (W.Va.)",
+      "start_date": "1848-01-15",
+      "end_date": "1863-06-19",
+      "filename": "28ed6362b7d8.json"
+    },
+    "a907c4d2e662": {
+      "county_id": "wvs_hancock",
+      "name": "HANCOCK (W.Va.)",
+      "start_date": "1848-01-15",
+      "end_date": "1863-06-19",
+      "filename": "a907c4d2e662.json"
+    },
+    "519c3757622c": {
+      "county_id": "vas_appomattox",
+      "name": "APPOMATTOX",
+      "start_date": "1848-03-28",
+      "end_date": "2000-12-31",
+      "filename": "519c3757622c.json"
+    },
+    "493b1feb3b79": {
+      "county_id": "vas_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1848-10-01",
+      "end_date": "2000-12-31",
+      "filename": "493b1feb3b79.json"
+    },
+    "1af796e59a32": {
+      "county_id": "wvs_mason",
+      "name": "MASON (W.Va.)",
+      "start_date": "1848-03-11",
+      "end_date": "1863-06-19",
+      "filename": "1af796e59a32.json"
+    },
+    "033f60eba5e1": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1848-03-28",
+      "end_date": "1902-07-09",
+      "filename": "033f60eba5e1.json"
+    },
+    "e7bec3d7a33d": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1848-10-01",
+      "end_date": "1856-02-25",
+      "filename": "e7bec3d7a33d.json"
+    },
+    "4f5b9d4d96c2": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON (W.Va.)",
+      "start_date": "1848-01-19",
+      "end_date": "1853-02-15",
+      "filename": "4f5b9d4d96c2.json"
+    },
+    "de19ace680c7": {
+      "county_id": "wvs_wirt",
+      "name": "WIRT (W.Va.)",
+      "start_date": "1848-01-19",
+      "end_date": "1853-02-15",
+      "filename": "de19ace680c7.json"
+    },
+    "417a6886f1ed": {
+      "county_id": "wvs_wood",
+      "name": "WOOD (W.Va.)",
+      "start_date": "1848-01-19",
+      "end_date": "1851-03-28",
+      "filename": "417a6886f1ed.json"
+    },
+    "6cc5381a59ac": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL (W.Va.)",
+      "start_date": "1848-03-11",
+      "end_date": "1850-03-11",
+      "filename": "6cc5381a59ac.json"
+    },
+    "5d7d04c273a8": {
+      "county_id": "wvs_putnam",
+      "name": "PUTNAM (W.Va.)",
+      "start_date": "1848-03-11",
+      "end_date": "1850-03-11",
+      "filename": "5d7d04c273a8.json"
+    },
+    "81a7a28b6502": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1848-03-11",
+      "end_date": "1850-03-11",
+      "filename": "81a7a28b6502.json"
+    },
+    "46d30a33aaff": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1849-02-02",
+      "end_date": "1853-02-28",
+      "filename": "46d30a33aaff.json"
+    },
+    "74339f023a10": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1849-02-02",
+      "end_date": "1851-03-20",
+      "filename": "74339f023a10.json"
+    },
+    "f240c264cee1": {
+      "county_id": "wvs_braxton",
+      "name": "BRAXTON (W.Va.)",
+      "start_date": "1849-03-16",
+      "end_date": "1858-03-28",
+      "filename": "f240c264cee1.json"
+    },
+    "4f69148d0247": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1849-03-16",
+      "end_date": "1851-03-25",
+      "filename": "4f69148d0247.json"
+    },
+    "43d674055588": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1850-03-21",
+      "end_date": "1863-06-19",
+      "filename": "43d674055588.json"
+    },
+    "02cd15b89492": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1850-03-21",
+      "end_date": "1856-03-10",
+      "filename": "02cd15b89492.json"
+    },
+    "48cab44a8918": {
+      "county_id": "wvs_putnam",
+      "name": "PUTNAM (W.Va.)",
+      "start_date": "1850-03-12",
+      "end_date": "1863-06-19",
+      "filename": "48cab44a8918.json"
+    },
+    "c7f10a2e975f": {
+      "county_id": "vas_powhatan",
+      "name": "POWHATAN",
+      "start_date": "1850-03-16",
+      "end_date": "2000-12-31",
+      "filename": "c7f10a2e975f.json"
+    },
+    "e13b54361854": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1850-03-16",
+      "end_date": "1902-07-09",
+      "filename": "e13b54361854.json"
+    },
+    "a30e619979ca": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE (W.Va.)",
+      "start_date": "1850-01-23",
+      "end_date": "1850-03-20",
+      "filename": "a30e619979ca.json"
+    },
+    "bc88befcf6e3": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN (W.Va.)",
+      "start_date": "1850-01-26",
+      "end_date": "1863-06-19",
+      "filename": "bc88befcf6e3.json"
+    },
+    "7099cd6939cf": {
+      "county_id": "vas_craig",
+      "name": "CRAIG",
+      "start_date": "1851-03-21",
+      "end_date": "1853-02-15",
+      "filename": "7099cd6939cf.json"
+    },
+    "7b5809aaf696": {
+      "county_id": "wvs_upshur",
+      "name": "UPSHUR (W.Va.)",
+      "start_date": "1851-03-26",
+      "end_date": "1863-06-19",
+      "filename": "7b5809aaf696.json"
+    },
+    "927e202d5555": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1851-03-26",
+      "end_date": "1856-03-06",
+      "filename": "927e202d5555.json"
+    },
+    "dadc43310a72": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1851-03-21",
+      "end_date": "1853-02-15",
+      "filename": "dadc43310a72.json"
+    },
+    "aa59ba4fde41": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1851-03-21",
+      "end_date": "1861-03-29",
+      "filename": "aa59ba4fde41.json"
+    },
+    "05c3bbab7e69": {
+      "county_id": "wvs_barbour",
+      "name": "BARBOUR (W.Va.)",
+      "start_date": "1851-03-26",
+      "end_date": "1863-06-19",
+      "filename": "05c3bbab7e69.json"
+    },
+    "d2f17f798da5": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1853-03-01",
+      "end_date": "1902-07-09",
+      "filename": "d2f17f798da5.json"
+    },
+    "a5e170f4a2fb": {
+      "county_id": "vas_craig",
+      "name": "CRAIG",
+      "start_date": "1853-03-01",
+      "end_date": "1856-01-09",
+      "filename": "a5e170f4a2fb.json"
+    },
+    "44e85e85fae6": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON (W.Va.)",
+      "start_date": "1853-02-16",
+      "end_date": "1856-03-10",
+      "filename": "44e85e85fae6.json"
+    },
+    "7897b5c3ac4f": {
+      "county_id": "vas_craig",
+      "name": "CRAIG",
+      "start_date": "1853-02-16",
+      "end_date": "1853-02-28",
+      "filename": "7897b5c3ac4f.json"
+    },
+    "141c0dbd5c1c": {
+      "county_id": "wvs_wirt",
+      "name": "WIRT (W.Va.)",
+      "start_date": "1853-02-16",
+      "end_date": "1863-06-19",
+      "filename": "141c0dbd5c1c.json"
+    },
+    "bdec6a200080": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1853-02-16",
+      "end_date": "1856-01-09",
+      "filename": "bdec6a200080.json"
+    },
+    "88d97fa3c1f4": {
+      "county_id": "wvs_marion",
+      "name": "MARION (W.Va.)",
+      "start_date": "1856-02-20",
+      "end_date": "1863-06-19",
+      "filename": "88d97fa3c1f4.json"
+    },
+    "555aeb2c6d38": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1856-02-26",
+      "end_date": "1953-11-29",
+      "filename": "555aeb2c6d38.json"
+    },
+    "c44d695ed146": {
+      "county_id": "wvs_calhoun",
+      "name": "CALHOUN (W.Va.)",
+      "start_date": "1856-03-05",
+      "end_date": "1863-06-19",
+      "filename": "c44d695ed146.json"
+    },
+    "11187a83d0f9": {
+      "county_id": "wvs_taylor",
+      "name": "TAYLOR (W.Va.)",
+      "start_date": "1856-02-20",
+      "end_date": "1863-06-19",
+      "filename": "11187a83d0f9.json"
+    },
+    "cc53d45cd3c6": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1856-02-26",
+      "end_date": "1858-02-18",
+      "filename": "cc53d45cd3c6.json"
+    },
+    "aa3c03d4a0db": {
+      "county_id": "wvs_tucker",
+      "name": "TUCKER (W.Va.)",
+      "start_date": "1856-03-07",
+      "end_date": "1863-06-19",
+      "filename": "aa3c03d4a0db.json"
+    },
+    "e4265034892f": {
+      "county_id": "wvs_gilmer",
+      "name": "GILMER (W.Va.)",
+      "start_date": "1856-03-05",
+      "end_date": "1856-03-10",
+      "filename": "e4265034892f.json"
+    },
+    "c6211e8a2b85": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1856-03-07",
+      "end_date": "1860-01-09",
+      "filename": "c6211e8a2b85.json"
+    },
+    "7d7ed43fe9f3": {
+      "county_id": "wvs_gilmer",
+      "name": "GILMER (W.Va.)",
+      "start_date": "1856-03-11",
+      "end_date": "1863-06-19",
+      "filename": "7d7ed43fe9f3.json"
+    },
+    "c01a146045c8": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON (W.Va.)",
+      "start_date": "1856-03-11",
+      "end_date": "1863-06-19",
+      "filename": "c01a146045c8.json"
+    },
+    "d65dcd512ccb": {
+      "county_id": "wvs_roane",
+      "name": "ROANE (W.Va.)",
+      "start_date": "1856-03-11",
+      "end_date": "1863-06-19",
+      "filename": "d65dcd512ccb.json"
+    },
+    "6cf5a8cb6f36": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA (W.Va.)",
+      "start_date": "1856-03-11",
+      "end_date": "1863-06-19",
+      "filename": "6cf5a8cb6f36.json"
+    },
+    "814a1c0cb624": {
+      "county_id": "vas_craig",
+      "name": "CRAIG",
+      "start_date": "1856-01-10",
+      "end_date": "2000-12-31",
+      "filename": "814a1c0cb624.json"
+    },
+    "a15ef85bcf40": {
+      "county_id": "vas_lee",
+      "name": "LEE",
+      "start_date": "1856-02-16",
+      "end_date": "2000-12-31",
+      "filename": "a15ef85bcf40.json"
+    },
+    "3aa368ae55b6": {
+      "county_id": "vas_scott",
+      "name": "SCOTT",
+      "start_date": "1856-02-16",
+      "end_date": "2000-12-31",
+      "filename": "3aa368ae55b6.json"
+    },
+    "30df1f0c1c0e": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1856-02-16",
+      "end_date": "1858-02-12",
+      "filename": "30df1f0c1c0e.json"
+    },
+    "c071b60c3943": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1856-02-16",
+      "end_date": "1880-03-02",
+      "filename": "c071b60c3943.json"
+    },
+    "9e75a294f914": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE (W.Va.)",
+      "start_date": "1856-01-10",
+      "end_date": "1863-06-19",
+      "filename": "9e75a294f914.json"
+    },
+    "7e677af655d2": {
+      "county_id": "wvs_clay",
+      "name": "CLAY (W.Va.)",
+      "start_date": "1858-03-29",
+      "end_date": "1863-06-19",
+      "filename": "7e677af655d2.json"
+    },
+    "593d0136269b": {
+      "county_id": "wvs_mcdowell",
+      "name": "McDOWELL (W.Va.)",
+      "start_date": "1858-02-20",
+      "end_date": "1863-06-19",
+      "filename": "593d0136269b.json"
+    },
+    "33e3cbc3a5c5": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1858-02-20",
+      "end_date": "1861-03-29",
+      "filename": "33e3cbc3a5c5.json"
+    },
+    "2b6637d2de75": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1858-03-29",
+      "end_date": "1860-01-09",
+      "filename": "2b6637d2de75.json"
+    },
+    "ff00ca183e47": {
+      "county_id": "wvs_braxton",
+      "name": "BRAXTON (W.Va.)",
+      "start_date": "1858-03-29",
+      "end_date": "1860-01-09",
+      "filename": "ff00ca183e47.json"
+    },
+    "a4051e81abe0": {
+      "county_id": "wvs_wyoming",
+      "name": "WYOMING (W.Va.)",
+      "start_date": "1858-02-20",
+      "end_date": "1863-06-19",
+      "filename": "a4051e81abe0.json"
+    },
+    "9a851e8720f8": {
+      "county_id": "vas_russell",
+      "name": "RUSSELL",
+      "start_date": "1858-02-13",
+      "end_date": "2000-12-31",
+      "filename": "9a851e8720f8.json"
+    },
+    "0d3f3b3c6e1e": {
+      "county_id": "vas_patrick",
+      "name": "PATRICK",
+      "start_date": "1858-02-19",
+      "end_date": "2000-12-31",
+      "filename": "0d3f3b3c6e1e.json"
+    },
+    "dcae0b95b481": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1858-02-19",
+      "end_date": "1928-12-04",
+      "filename": "dcae0b95b481.json"
+    },
+    "0c10f05ef703": {
+      "county_id": "vas_buchanan",
+      "name": "BUCHANAN",
+      "start_date": "1858-02-13",
+      "end_date": "1880-03-02",
+      "filename": "0c10f05ef703.json"
+    },
+    "f47710d142d7": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1858-02-13",
+      "end_date": "1858-02-19",
+      "filename": "f47710d142d7.json"
+    },
+    "8dff69763846": {
+      "county_id": "wvs_webster",
+      "name": "WEBSTER (W.Va.)",
+      "start_date": "1860-01-10",
+      "end_date": "1861-02-13",
+      "filename": "8dff69763846.json"
+    },
+    "2a91744780e4": {
+      "county_id": "wvs_braxton",
+      "name": "BRAXTON (W.Va.)",
+      "start_date": "1860-01-10",
+      "end_date": "1863-06-19",
+      "filename": "2a91744780e4.json"
+    },
+    "c52d2b5683a4": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1860-01-10",
+      "end_date": "1861-02-13",
+      "filename": "c52d2b5683a4.json"
+    },
+    "cb763d6bb29e": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH (W.Va.)",
+      "start_date": "1860-01-10",
+      "end_date": "1863-06-19",
+      "filename": "cb763d6bb29e.json"
+    },
+    "f7050b7032b2": {
+      "county_id": "wvs_webster",
+      "name": "WEBSTER (W.Va.)",
+      "start_date": "1861-02-14",
+      "end_date": "1863-06-19",
+      "filename": "f7050b7032b2.json"
+    },
+    "3facb07373f7": {
+      "county_id": "vas_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1861-03-30",
+      "end_date": "2000-12-31",
+      "filename": "3facb07373f7.json"
+    },
+    "58c011196693": {
+      "county_id": "vas_wythe",
+      "name": "WYTHE",
+      "start_date": "1861-03-30",
+      "end_date": "2000-12-31",
+      "filename": "58c011196693.json"
+    },
+    "57eb2930d9de": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS (W.Va.)",
+      "start_date": "1861-02-14",
+      "end_date": "1863-06-19",
+      "filename": "57eb2930d9de.json"
+    },
+    "8d790a56bd22": {
+      "county_id": "vas_bland",
+      "name": "BLAND",
+      "start_date": "1861-03-30",
+      "end_date": "1900-03-04",
+      "filename": "8d790a56bd22.json"
+    },
+    "58bdcf79a017": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1861-03-30",
+      "end_date": "1900-03-04",
+      "filename": "58bdcf79a017.json"
+    },
+    "ef9e7ecc7338": {
+      "county_id": "vas_buchanan",
+      "name": "BUCHANAN",
+      "start_date": "1880-03-03",
+      "end_date": "2000-12-31",
+      "filename": "ef9e7ecc7338.json"
+    },
+    "e56697ecfa23": {
+      "county_id": "vas_dickenson",
+      "name": "DICKENSON",
+      "start_date": "1880-03-03",
+      "end_date": "2000-12-31",
+      "filename": "e56697ecfa23.json"
+    },
+    "fa11527a4461": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1880-03-03",
+      "end_date": "1953-12-31",
+      "filename": "fa11527a4461.json"
+    },
+    "a56664083bfe": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1888-04-01",
+      "end_date": "2000-12-31",
+      "filename": "a56664083bfe.json"
+    },
+    "839594287287": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1888-04-01",
+      "end_date": "1902-07-09",
+      "filename": "839594287287.json"
+    },
+    "d79b73f3e42e": {
+      "county_id": "vas_giles",
+      "name": "GILES",
+      "start_date": "1900-03-05",
+      "end_date": "2000-12-31",
+      "filename": "d79b73f3e42e.json"
+    },
+    "fc3b04608489": {
+      "county_id": "vas_bland",
+      "name": "BLAND",
+      "start_date": "1900-03-05",
+      "end_date": "2000-12-31",
+      "filename": "fc3b04608489.json"
+    },
+    "baab4f893c01": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1902-07-10",
+      "end_date": "1916-07-31",
+      "filename": "baab4f893c01.json"
+    },
+    "7343f1738a77": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1916-07-31",
+      "filename": "7343f1738a77.json"
+    },
+    "c174508cb612": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1902-07-10",
+      "end_date": "1965-12-31",
+      "filename": "c174508cb612.json"
+    },
+    "885cb1f8dc16": {
+      "county_id": "vas_buenavistaic",
+      "name": "Buena Vista (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1983-12-30",
+      "filename": "885cb1f8dc16.json"
+    },
+    "01ec4a956b3c": {
+      "county_id": "vas_winchesteric",
+      "name": "Winchester (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1905-06-04",
+      "filename": "01ec4a956b3c.json"
+    },
+    "6e8300f9e9d3": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1902-07-10",
+      "end_date": "1905-06-04",
+      "filename": "6e8300f9e9d3.json"
+    },
+    "d87ad2b4c313": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1902-07-10",
+      "end_date": "1939-12-30",
+      "filename": "d87ad2b4c313.json"
+    },
+    "675e2b9d372c": {
+      "county_id": "vas_fredericksburgic",
+      "name": "Fredericksburg (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1939-12-30",
+      "filename": "675e2b9d372c.json"
+    },
+    "743bdbc7a94c": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1902-07-10",
+      "end_date": "1966-12-30",
+      "filename": "743bdbc7a94c.json"
+    },
+    "52b046aea7b8": {
+      "county_id": "vas_radfordic",
+      "name": "Radford (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1966-12-30",
+      "filename": "52b046aea7b8.json"
+    },
+    "5150fb4799a0": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1908-11-20",
+      "filename": "5150fb4799a0.json"
+    },
+    "0486b7e8c437": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1906-01-08",
+      "filename": "0486b7e8c437.json"
+    },
+    "8e963fa2d2bf": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1902-07-10",
+      "end_date": "1906-01-08",
+      "filename": "8e963fa2d2bf.json"
+    },
+    "e2fccc4b6537": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1902-07-10",
+      "end_date": "1906-12-05",
+      "filename": "e2fccc4b6537.json"
+    },
+    "c70fdf7c4dbe": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1906-12-05",
+      "filename": "c70fdf7c4dbe.json"
+    },
+    "9b16ea1d35ed": {
+      "county_id": "vas_manchesteric",
+      "name": "Manchester (IC, ext)",
+      "start_date": "1902-07-10",
+      "end_date": "1910-04-14",
+      "filename": "9b16ea1d35ed.json"
+    },
+    "395807206dc1": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1902-07-10",
+      "end_date": "1914-11-04",
+      "filename": "395807206dc1.json"
+    },
+    "b58691989a34": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1902-07-10",
+      "end_date": "1907-12-31",
+      "filename": "b58691989a34.json"
+    },
+    "1fd104975fdf": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1907-12-31",
+      "filename": "1fd104975fdf.json"
+    },
+    "ca72defd2107": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1915-12-15",
+      "filename": "ca72defd2107.json"
+    },
+    "ac18605fc87d": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1902-07-10",
+      "end_date": "1915-12-15",
+      "filename": "ac18605fc87d.json"
+    },
+    "3d044fdf59be": {
+      "county_id": "vas_alexandriaic",
+      "name": "Alexandria (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1915-03-31",
+      "filename": "3d044fdf59be.json"
+    },
+    "6749fb80d9cf": {
+      "county_id": "vas_arlington",
+      "name": "ALEXANDRIA",
+      "start_date": "1902-07-10",
+      "end_date": "1915-03-31",
+      "filename": "6749fb80d9cf.json"
+    },
+    "efebc1d88385": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1921-11-30",
+      "filename": "efebc1d88385.json"
+    },
+    "c868420dc2d0": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1902-07-10",
+      "end_date": "1921-11-30",
+      "filename": "c868420dc2d0.json"
+    },
+    "24494b9f9f1b": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1902-07-10",
+      "end_date": "1916-06-30",
+      "filename": "24494b9f9f1b.json"
+    },
+    "4585cf57c227": {
+      "county_id": "vas_bristolic",
+      "name": "Bristol (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1942-10-14",
+      "filename": "4585cf57c227.json"
+    },
+    "f907c4a23ca2": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1902-07-10",
+      "end_date": "1942-10-14",
+      "filename": "f907c4a23ca2.json"
+    },
+    "ff3535761177": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1915-03-31",
+      "filename": "ff3535761177.json"
+    },
+    "48b9c32bc8dc": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1902-07-10",
+      "end_date": "1915-03-31",
+      "filename": "48b9c32bc8dc.json"
+    },
+    "a5a86a789f90": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1907-05-31",
+      "filename": "a5a86a789f90.json"
+    },
+    "9adb77520c4d": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1902-07-10",
+      "end_date": "1907-05-31",
+      "filename": "9adb77520c4d.json"
+    },
+    "343f0b8b340c": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1902-07-10",
+      "end_date": "1917-01-16",
+      "filename": "343f0b8b340c.json"
+    },
+    "cb7290ca9258": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1917-01-16",
+      "filename": "cb7290ca9258.json"
+    },
+    "a98a384ab489": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1902-07-10",
+      "end_date": "1905-05-18",
+      "filename": "a98a384ab489.json"
+    },
+    "060c62e9432f": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1902-07-10",
+      "end_date": "1905-05-18",
+      "filename": "060c62e9432f.json"
+    },
+    "0f0e6e4b2ff0": {
+      "county_id": "vas_winchesteric",
+      "name": "Winchester (IC)",
+      "start_date": "1905-06-05",
+      "end_date": "1921-12-11",
+      "filename": "0f0e6e4b2ff0.json"
+    },
+    "a8273fb3bd4e": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1905-06-05",
+      "end_date": "1921-12-11",
+      "filename": "a8273fb3bd4e.json"
+    },
+    "1c445295cbe4": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1905-05-19",
+      "end_date": "1937-01-14",
+      "filename": "1c445295cbe4.json"
+    },
+    "272f9d272c73": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1905-05-19",
+      "end_date": "1937-01-14",
+      "filename": "272f9d272c73.json"
+    },
+    "dfda19e02ced": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1906-06-15",
+      "end_date": "1952-12-19",
+      "filename": "dfda19e02ced.json"
+    },
+    "87bc451474b8": {
+      "county_id": "vas_cliftonforgeic",
+      "name": "Clifton Forge (IC)",
+      "start_date": "1906-06-15",
+      "end_date": "1962-12-31",
+      "filename": "87bc451474b8.json"
+    },
+    "42d75478fa93": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1906-01-09",
+      "end_date": "1911-01-01",
+      "filename": "42d75478fa93.json"
+    },
+    "9761fbb2e5c0": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1906-01-09",
+      "end_date": "1908-11-20",
+      "filename": "9761fbb2e5c0.json"
+    },
+    "a2e87d7af40b": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1906-12-06",
+      "end_date": "1914-11-04",
+      "filename": "a2e87d7af40b.json"
+    },
+    "b63d9347b137": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1906-12-06",
+      "end_date": "1910-04-14",
+      "filename": "b63d9347b137.json"
+    },
+    "f909dbefe5dc": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1907-06-01",
+      "end_date": "1932-12-31",
+      "filename": "f909dbefe5dc.json"
+    },
+    "cc8cb626d7f6": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1907-06-01",
+      "end_date": "1932-12-31",
+      "filename": "cc8cb626d7f6.json"
+    },
+    "afd1494cab60": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1908-01-01",
+      "end_date": "1925-12-31",
+      "filename": "afd1494cab60.json"
+    },
+    "4fd7fe4e4c1e": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1908-01-01",
+      "end_date": "1925-12-31",
+      "filename": "4fd7fe4e4c1e.json"
+    },
+    "55e6a43111bb": {
+      "county_id": "vas_hamptonic",
+      "name": "Hampton (IC)",
+      "start_date": "1908-03-30",
+      "end_date": "1952-06-30",
+      "filename": "55e6a43111bb.json"
+    },
+    "19bff799f0d9": {
+      "county_id": "vas_elizabethcity",
+      "name": "ELIZABETH CITY (ext)",
+      "start_date": "1908-03-30",
+      "end_date": "1920-12-31",
+      "filename": "19bff799f0d9.json"
+    },
+    "a91c743b5070": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1908-11-21",
+      "end_date": "1918-06-25",
+      "filename": "a91c743b5070.json"
+    },
+    "ba446e082228": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1908-11-21",
+      "end_date": "1911-01-01",
+      "filename": "ba446e082228.json"
+    },
+    "e2e1ac85e2c9": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1910-10-01",
+      "end_date": "1972-06-30",
+      "filename": "e2e1ac85e2c9.json"
+    },
+    "d6a2c2956c33": {
+      "county_id": "vas_suffolkic",
+      "name": "Suffolk (IC)",
+      "start_date": "1910-10-01",
+      "end_date": "1973-12-31",
+      "filename": "d6a2c2956c33.json"
+    },
+    "dbe5ff252e9a": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1910-04-15",
+      "end_date": "1914-11-04",
+      "filename": "dbe5ff252e9a.json"
+    },
+    "33902e3eb133": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1911-01-02",
+      "end_date": "1922-12-31",
+      "filename": "33902e3eb133.json"
+    },
+    "4a955d135691": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1911-01-02",
+      "end_date": "1918-06-25",
+      "filename": "4a955d135691.json"
+    },
+    "6522ac47b3cd": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1914-11-05",
+      "end_date": "1922-02-16",
+      "filename": "6522ac47b3cd.json"
+    },
+    "b196c190eda7": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1914-11-05",
+      "end_date": "1941-12-31",
+      "filename": "b196c190eda7.json"
+    },
+    "d815e3d38e26": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1914-11-05",
+      "end_date": "1922-02-16",
+      "filename": "d815e3d38e26.json"
+    },
+    "a14cf631a1d1": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1915-12-16",
+      "end_date": "1919-11-27",
+      "filename": "a14cf631a1d1.json"
+    },
+    "f225077bba62": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1915-12-16",
+      "end_date": "1919-11-27",
+      "filename": "f225077bba62.json"
+    },
+    "1b014d42ae5f": {
+      "county_id": "vas_alexandriaic",
+      "name": "Alexandria (IC)",
+      "start_date": "1915-04-01",
+      "end_date": "1929-12-31",
+      "filename": "1b014d42ae5f.json"
+    },
+    "ccbc6eb7219a": {
+      "county_id": "vas_arlington",
+      "name": "ALEXANDRIA",
+      "start_date": "1915-04-01",
+      "end_date": "1920-03-15",
+      "filename": "ccbc6eb7219a.json"
+    },
+    "98f5b5d86b07": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1915-04-01",
+      "end_date": "1929-12-31",
+      "filename": "98f5b5d86b07.json"
+    },
+    "b75a768dda19": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1915-04-01",
+      "end_date": "1924-12-30",
+      "filename": "b75a768dda19.json"
+    },
+    "d52f187b2bfc": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1915-04-01",
+      "end_date": "1924-12-30",
+      "filename": "d52f187b2bfc.json"
+    },
+    "e475831074f2": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1915-04-01",
+      "end_date": "1924-12-30",
+      "filename": "e475831074f2.json"
+    },
+    "54b2521f5d8b": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1916-08-01",
+      "end_date": "1938-12-31",
+      "filename": "54b2521f5d8b.json"
+    },
+    "544470ce1b15": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1916-08-01",
+      "end_date": "1938-12-31",
+      "filename": "544470ce1b15.json"
+    },
+    "69d39fc64268": {
+      "county_id": "vas_harrisonburgic",
+      "name": "Harrisonburg (IC)",
+      "start_date": "1916-05-06",
+      "end_date": "1937-06-30",
+      "filename": "69d39fc64268.json"
+    },
+    "6cdc74a2c74a": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1919-11-28",
+      "end_date": "1925-12-31",
+      "filename": "6cdc74a2c74a.json"
+    },
+    "b22be9c0375d": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1919-11-28",
+      "end_date": "1925-12-31",
+      "filename": "b22be9c0375d.json"
+    },
+    "2e3ba52239f9": {
+      "county_id": "vas_arlington",
+      "name": "ARLINGTON",
+      "start_date": "1920-03-16",
+      "end_date": "1929-12-31",
+      "filename": "2e3ba52239f9.json"
+    },
+    "2b53e24bb216": {
+      "county_id": "vas_winchesteric",
+      "name": "Winchester (IC)",
+      "start_date": "1921-12-12",
+      "end_date": "1971-12-30",
+      "filename": "2b53e24bb216.json"
+    },
+    "6312967eafa7": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1921-12-12",
+      "end_date": "1971-12-30",
+      "filename": "6312967eafa7.json"
+    },
+    "04234cb0bd17": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1921-12-01",
+      "end_date": "1923-06-30",
+      "filename": "04234cb0bd17.json"
+    },
+    "08a3e7d6de89": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1921-12-01",
+      "end_date": "1931-12-31",
+      "filename": "08a3e7d6de89.json"
+    },
+    "8053f290a95c": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1921-12-01",
+      "end_date": "1931-12-31",
+      "filename": "8053f290a95c.json"
+    },
+    "4fceb3fb3281": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1921-06-01",
+      "end_date": "1926-12-31",
+      "filename": "4fceb3fb3281.json"
+    },
+    "0799bc95efd8": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1921-06-01",
+      "end_date": "1940-12-04",
+      "filename": "0799bc95efd8.json"
+    },
+    "01fc44034c57": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1921-01-05",
+      "end_date": "1922-12-31",
+      "filename": "01fc44034c57.json"
+    },
+    "2a3b683735f9": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1921-01-01",
+      "end_date": "1921-05-31",
+      "filename": "2a3b683735f9.json"
+    },
+    "8afba801628b": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1921-01-01",
+      "end_date": "1921-05-31",
+      "filename": "8afba801628b.json"
+    },
+    "7090fb21d0d3": {
+      "county_id": "vas_elizabethcity",
+      "name": "ELIZABETH CITY (ext)",
+      "start_date": "1921-01-01",
+      "end_date": "1926-12-31",
+      "filename": "7090fb21d0d3.json"
+    },
+    "86237b6d6ccd": {
+      "county_id": "vas_southnorfolkic",
+      "name": "South Norfolk (IC)",
+      "start_date": "1921-01-05",
+      "end_date": "1950-12-31",
+      "filename": "86237b6d6ccd.json"
+    },
+    "42012f1d9229": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1922-02-17",
+      "end_date": "1941-12-31",
+      "filename": "42012f1d9229.json"
+    },
+    "1e5a2c6e1def": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1922-02-17",
+      "end_date": "1941-12-31",
+      "filename": "1e5a2c6e1def.json"
+    },
+    "5929efcaf321": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1926-01-01",
+      "end_date": "1940-03-20",
+      "filename": "5929efcaf321.json"
+    },
+    "e79469507094": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1926-01-01",
+      "end_date": "1942-12-31",
+      "filename": "e79469507094.json"
+    },
+    "689dae0d9b63": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1926-01-01",
+      "end_date": "1942-12-31",
+      "filename": "689dae0d9b63.json"
+    },
+    "d88cadd6d3d5": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1927-01-01",
+      "end_date": "1940-12-04",
+      "filename": "d88cadd6d3d5.json"
+    },
+    "91efc595fc0d": {
+      "county_id": "vas_elizabethcity",
+      "name": "ELIZABETH CITY (ext)",
+      "start_date": "1927-01-01",
+      "end_date": "1952-06-30",
+      "filename": "91efc595fc0d.json"
+    },
+    "29a8c76be7c8": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1928-12-05",
+      "end_date": "1939-12-30",
+      "filename": "29a8c76be7c8.json"
+    },
+    "6b084002c3fd": {
+      "county_id": "vas_martinsvilleic",
+      "name": "Martinsville (IC)",
+      "start_date": "1928-12-05",
+      "end_date": "1939-12-30",
+      "filename": "6b084002c3fd.json"
+    },
+    "9e26fbb3a8fa": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1930-01-01",
+      "end_date": "1948-08-15",
+      "filename": "9e26fbb3a8fa.json"
+    },
+    "0553962bf5a2": {
+      "county_id": "vas_alexandriaic",
+      "name": "Alexandria (IC)",
+      "start_date": "1930-01-01",
+      "end_date": "1951-12-31",
+      "filename": "0553962bf5a2.json"
+    },
+    "5add536823b4": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1937-01-15",
+      "end_date": "1947-12-31",
+      "filename": "5add536823b4.json"
+    },
+    "8a37dad88ac1": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1939-12-31",
+      "end_date": "1946-08-31",
+      "filename": "8a37dad88ac1.json"
+    },
+    "6361fd92eb8a": {
+      "county_id": "vas_martinsvilleic",
+      "name": "Martinsville (IC)",
+      "start_date": "1939-12-31",
+      "end_date": "1946-08-31",
+      "filename": "6361fd92eb8a.json"
+    },
+    "62721f5a0cfa": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1939-01-01",
+      "end_date": "1962-12-31",
+      "filename": "62721f5a0cfa.json"
+    },
+    "5f414d12f8d1": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1939-01-01",
+      "end_date": "1962-12-31",
+      "filename": "5f414d12f8d1.json"
+    },
+    "81cac98aba71": {
+      "county_id": "vas_fredericksburgic",
+      "name": "Fredericksburg (IC)",
+      "start_date": "1939-12-31",
+      "end_date": "1950-12-31",
+      "filename": "81cac98aba71.json"
+    },
+    "4c3173638b83": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1939-12-31",
+      "end_date": "1950-12-31",
+      "filename": "4c3173638b83.json"
+    },
+    "9ea88ba9ad17": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1940-03-21",
+      "end_date": "1957-12-31",
+      "filename": "9ea88ba9ad17.json"
+    },
+    "d0404a05aa4a": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1940-03-21",
+      "end_date": "1957-12-31",
+      "filename": "d0404a05aa4a.json"
+    },
+    "f0537ca42899": {
+      "county_id": "vas_newportnewsic",
+      "name": "Newport News (IC)",
+      "start_date": "1940-12-05",
+      "end_date": "1958-06-30",
+      "filename": "f0537ca42899.json"
+    },
+    "300a778d1c62": {
+      "county_id": "vas_warwick",
+      "name": "WARWICK (ext)",
+      "start_date": "1940-12-05",
+      "end_date": "1952-07-15",
+      "filename": "300a778d1c62.json"
+    },
+    "d2f0df5a05b8": {
+      "county_id": "vas_bristolic",
+      "name": "Bristol (IC)",
+      "start_date": "1942-10-15",
+      "end_date": "1973-12-30",
+      "filename": "d2f0df5a05b8.json"
+    },
+    "e043418d2a31": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1942-10-15",
+      "end_date": "1973-12-30",
+      "filename": "e043418d2a31.json"
+    },
+    "c8673aa8f1b5": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1942-01-01",
+      "end_date": "1963-12-31",
+      "filename": "c8673aa8f1b5.json"
+    },
+    "860116271be7": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1942-01-01",
+      "end_date": "1963-12-31",
+      "filename": "860116271be7.json"
+    },
+    "dab78f9fbc08": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1942-01-01",
+      "end_date": "1963-12-31",
+      "filename": "dab78f9fbc08.json"
+    },
+    "f70a9cd5d204": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1942-01-01",
+      "end_date": "1948-03-18",
+      "filename": "f70a9cd5d204.json"
+    },
+    "1d5c4dd9b2a9": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1942-01-01",
+      "end_date": "1970-12-30",
+      "filename": "1d5c4dd9b2a9.json"
+    },
+    "67d62ea298c7": {
+      "county_id": "vas_henrico",
+      "name": "HENRICO",
+      "start_date": "1942-01-01",
+      "end_date": "2000-12-31",
+      "filename": "67d62ea298c7.json"
+    },
+    "a2b83cc4498f": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1943-01-01",
+      "end_date": "1948-12-31",
+      "filename": "a2b83cc4498f.json"
+    },
+    "ea92e882a1d7": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1943-01-01",
+      "end_date": "1948-12-31",
+      "filename": "ea92e882a1d7.json"
+    },
+    "35bce8c69e9c": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1945-01-01",
+      "end_date": "1955-12-31",
+      "filename": "35bce8c69e9c.json"
+    },
+    "2eef1092bc87": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1945-01-01",
+      "end_date": "1951-12-31",
+      "filename": "2eef1092bc87.json"
+    },
+    "5e68b64d574c": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1946-09-01",
+      "end_date": "1959-12-31",
+      "filename": "5e68b64d574c.json"
+    },
+    "99171f9d75d4": {
+      "county_id": "vas_martinsvilleic",
+      "name": "Martinsville (IC)",
+      "start_date": "1946-09-01",
+      "end_date": "1959-12-31",
+      "filename": "99171f9d75d4.json"
+    },
+    "fc3cb641351e": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1947-08-01",
+      "end_date": "1951-06-30",
+      "filename": "fc3cb641351e.json"
+    },
+    "a2e2bdfd8e53": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1947-08-01",
+      "end_date": "1951-06-30",
+      "filename": "a2e2bdfd8e53.json"
+    },
+    "039894b4b5f7": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1948-01-01",
+      "end_date": "1959-12-31",
+      "filename": "039894b4b5f7.json"
+    },
+    "c496971237dc": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1948-01-01",
+      "end_date": "1950-12-31",
+      "filename": "c496971237dc.json"
+    },
+    "00ecf4564b07": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1948-03-19",
+      "end_date": "1953-12-31",
+      "filename": "00ecf4564b07.json"
+    },
+    "9be6c7c97030": {
+      "county_id": "vas_colonialheightsic",
+      "name": "Colonial Hts. (IC)",
+      "start_date": "1948-03-19",
+      "end_date": "1953-12-31",
+      "filename": "9be6c7c97030.json"
+    },
+    "be4daa7f5904": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1948-08-16",
+      "end_date": "1951-12-31",
+      "filename": "be4daa7f5904.json"
+    },
+    "270e389869f8": {
+      "county_id": "vas_fallschurchic",
+      "name": "Falls Church (IC)",
+      "start_date": "1948-08-16",
+      "end_date": "2000-12-31",
+      "filename": "270e389869f8.json"
+    },
+    "12b0e33f27c4": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1948-01-01",
+      "end_date": "1954-12-31",
+      "filename": "12b0e33f27c4.json"
+    },
+    "44db1f8e076d": {
+      "county_id": "vas_stauntonic",
+      "name": "Staunton (IC)",
+      "start_date": "1948-01-01",
+      "end_date": "1955-12-31",
+      "filename": "44db1f8e076d.json"
+    },
+    "96badce2d616": {
+      "county_id": "vas_waynesboroic",
+      "name": "Waynesboro (IC)",
+      "start_date": "1948-01-01",
+      "end_date": "1954-12-31",
+      "filename": "96badce2d616.json"
+    },
+    "54bda523c320": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1949-01-01",
+      "end_date": "1964-12-31",
+      "filename": "54bda523c320.json"
+    },
+    "63a7b576be8b": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1949-01-01",
+      "end_date": "1964-12-31",
+      "filename": "63a7b576be8b.json"
+    },
+    "06d51352bbab": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1950-12-19",
+      "end_date": "1961-12-31",
+      "filename": "06d51352bbab.json"
+    },
+    "4c7b372a07a1": {
+      "county_id": "vas_harrisonburgic",
+      "name": "Harrisonburg (IC)",
+      "start_date": "1950-12-19",
+      "end_date": "1961-12-31",
+      "filename": "4c7b372a07a1.json"
+    },
+    "2e9e15a4080d": {
+      "county_id": "vas_fredericksburgic",
+      "name": "Fredericksburg (IC)",
+      "start_date": "1951-01-01",
+      "end_date": "1954-12-31",
+      "filename": "2e9e15a4080d.json"
+    },
+    "495d49d1faab": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1951-01-01",
+      "end_date": "1954-12-31",
+      "filename": "495d49d1faab.json"
+    },
+    "ff754f0fe266": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1951-07-01",
+      "end_date": "1955-12-31",
+      "filename": "ff754f0fe266.json"
+    },
+    "422937cc65e7": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1951-07-01",
+      "end_date": "1955-12-31",
+      "filename": "422937cc65e7.json"
+    },
+    "de79c801ac81": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1951-01-01",
+      "end_date": "1954-12-31",
+      "filename": "de79c801ac81.json"
+    },
+    "0caf64e7abd2": {
+      "county_id": "vas_southnorfolkic",
+      "name": "South Norfolk (IC)",
+      "start_date": "1951-01-01",
+      "end_date": "1962-12-31",
+      "filename": "0caf64e7abd2.json"
+    },
+    "a3b1ec77b9a2": {
+      "county_id": "vas_hamptonic",
+      "name": "Hampton (IC)",
+      "start_date": "1952-07-01",
+      "end_date": "2000-12-31",
+      "filename": "a3b1ec77b9a2.json"
+    },
+    "387ed9e432ff": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1952-12-20",
+      "end_date": "1962-12-31",
+      "filename": "387ed9e432ff.json"
+    },
+    "0b75b080b96f": {
+      "county_id": "vas_covingtonic",
+      "name": "Covington (IC)",
+      "start_date": "1952-12-20",
+      "end_date": "1990-12-30",
+      "filename": "0b75b080b96f.json"
+    },
+    "f13b8484d435": {
+      "county_id": "vas_virginiabeachic",
+      "name": "Virginia Beach (IC)",
+      "start_date": "1952-02-14",
+      "end_date": "1962-12-31",
+      "filename": "f13b8484d435.json"
+    },
+    "f99f84c06a8e": {
+      "county_id": "vas_princessanne",
+      "name": "PRINCESS ANNE (ext)",
+      "start_date": "1952-02-14",
+      "end_date": "1958-12-31",
+      "filename": "f99f84c06a8e.json"
+    },
+    "1f32c5d80e1a": {
+      "county_id": "vas_alexandriaic",
+      "name": "Alexandria (IC)",
+      "start_date": "1952-01-01",
+      "end_date": "1973-12-30",
+      "filename": "1f32c5d80e1a.json"
+    },
+    "12e02d73a0f4": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1952-01-01",
+      "end_date": "1961-06-30",
+      "filename": "12e02d73a0f4.json"
+    },
+    "88522deecada": {
+      "county_id": "vas_hopewellic",
+      "name": "Hopewell (IC)",
+      "start_date": "1952-01-01",
+      "end_date": "1969-12-30",
+      "filename": "88522deecada.json"
+    },
+    "463ee1ccd175": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1952-01-01",
+      "end_date": "1955-12-31",
+      "filename": "463ee1ccd175.json"
+    },
+    "e0f40c3ef375": {
+      "county_id": "vas_warwickic",
+      "name": "Warwick (IC, ext)",
+      "start_date": "1952-07-16",
+      "end_date": "1958-06-30",
+      "filename": "e0f40c3ef375.json"
+    },
+    "01c4861ef130": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1953-11-30",
+      "end_date": "1972-12-30",
+      "filename": "01c4861ef130.json"
+    },
+    "d0416d29633c": {
+      "county_id": "vas_grayson",
+      "name": "GRAYSON",
+      "start_date": "1953-11-30",
+      "end_date": "2000-12-31",
+      "filename": "d0416d29633c.json"
+    },
+    "eeed271e3fad": {
+      "county_id": "vas_galaxic",
+      "name": "Galax (IC)",
+      "start_date": "1953-11-30",
+      "end_date": "1972-12-30",
+      "filename": "eeed271e3fad.json"
+    },
+    "c41845124c60": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1954-01-01",
+      "end_date": "1962-12-31",
+      "filename": "c41845124c60.json"
+    },
+    "5235912f8d71": {
+      "county_id": "vas_nortonic",
+      "name": "Norton (IC)",
+      "start_date": "1954-01-01",
+      "end_date": "1962-12-31",
+      "filename": "5235912f8d71.json"
+    },
+    "fc8d469b110d": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1954-01-01",
+      "end_date": "1957-12-31",
+      "filename": "fc8d469b110d.json"
+    },
+    "653e5f481357": {
+      "county_id": "vas_colonialheightsic",
+      "name": "Colonial Hts. (IC)",
+      "start_date": "1954-01-01",
+      "end_date": "1957-12-31",
+      "filename": "653e5f481357.json"
+    },
+    "5d02f3d5fdcd": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1955-01-01",
+      "end_date": "1983-12-30",
+      "filename": "5d02f3d5fdcd.json"
+    },
+    "f61d80093023": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1958-01-01",
+      "end_date": "1963-12-31",
+      "filename": "f61d80093023.json"
+    },
+    "d9f22e17559b": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1958-01-01",
+      "end_date": "1975-12-30",
+      "filename": "d9f22e17559b.json"
+    },
+    "5e5a2e1b4d42": {
+      "county_id": "vas_colonialheightsic",
+      "name": "Colonial Hts. (IC)",
+      "start_date": "1958-01-01",
+      "end_date": "2000-12-31",
+      "filename": "5e5a2e1b4d42.json"
+    },
+    "7591cdf2533a": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1958-01-01",
+      "end_date": "1970-12-30",
+      "filename": "7591cdf2533a.json"
+    },
+    "aab62d44a0ab": {
+      "county_id": "vas_norfolkic",
+      "name": "Norfolk (IC)",
+      "start_date": "1959-01-01",
+      "end_date": "1988-12-30",
+      "filename": "aab62d44a0ab.json"
+    },
+    "3dfc2b1c2545": {
+      "county_id": "vas_princessanne",
+      "name": "PRINCESS ANNE (ext)",
+      "start_date": "1959-01-01",
+      "end_date": "1962-12-31",
+      "filename": "3dfc2b1c2545.json"
+    },
+    "1c232a11ba8a": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1960-01-01",
+      "end_date": "1964-12-31",
+      "filename": "1c232a11ba8a.json"
+    },
+    "f94c2fff5869": {
+      "county_id": "vas_martinsvilleic",
+      "name": "Martinsville (IC)",
+      "start_date": "1960-01-01",
+      "end_date": "1964-12-31",
+      "filename": "f94c2fff5869.json"
+    },
+    "111be853f70e": {
+      "county_id": "vas_halifax",
+      "name": "HALIFAX",
+      "start_date": "1960-01-01",
+      "end_date": "1964-12-31",
+      "filename": "111be853f70e.json"
+    },
+    "4bd9909df59e": {
+      "county_id": "vas_southbostonic",
+      "name": "South Boston (IC)",
+      "start_date": "1960-01-01",
+      "end_date": "1964-12-31",
+      "filename": "4bd9909df59e.json"
+    },
+    "ddcce8875414": {
+      "county_id": "vas_portsmouthic",
+      "name": "Portsmouth (IC)",
+      "start_date": "1960-01-01",
+      "end_date": "1968-12-30",
+      "filename": "ddcce8875414.json"
+    },
+    "6a8c1fa049b3": {
+      "county_id": "vas_norfolk",
+      "name": "NORFOLK (ext)",
+      "start_date": "1960-01-01",
+      "end_date": "1962-12-31",
+      "filename": "6a8c1fa049b3.json"
+    },
+    "e617a7a4a0b5": {
+      "county_id": "vas_southampton",
+      "name": "SOUTHAMPTON",
+      "start_date": "1961-12-22",
+      "end_date": "1985-12-31",
+      "filename": "e617a7a4a0b5.json"
+    },
+    "9041d17d5640": {
+      "county_id": "vas_franklinic",
+      "name": "Franklin (IC)",
+      "start_date": "1961-12-22",
+      "end_date": "1985-12-31",
+      "filename": "9041d17d5640.json"
+    },
+    "3d09c2f41a52": {
+      "county_id": "vas_fairfaxic",
+      "name": "Fairfax (IC)",
+      "start_date": "1961-07-01",
+      "end_date": "1980-12-30",
+      "filename": "3d09c2f41a52.json"
+    },
+    "65740a8cfdce": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1961-07-01",
+      "end_date": "1973-12-30",
+      "filename": "65740a8cfdce.json"
+    },
+    "fcbe52d4d5f1": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1962-01-01",
+      "end_date": "1982-12-31",
+      "filename": "fcbe52d4d5f1.json"
+    },
+    "af080d986443": {
+      "county_id": "vas_harrisonburgic",
+      "name": "Harrisonburg (IC)",
+      "start_date": "1962-01-01",
+      "end_date": "1982-12-31",
+      "filename": "af080d986443.json"
+    },
+    "f08858c8d002": {
+      "county_id": "vas_charlottesvilleic",
+      "name": "Charlottesville (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "1967-12-31",
+      "filename": "f08858c8d002.json"
+    },
+    "110f69eff84a": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1963-01-01",
+      "end_date": "1967-12-31",
+      "filename": "110f69eff84a.json"
+    },
+    "dbf1ce5a8755": {
+      "county_id": "vas_chesapeakeic",
+      "name": "Chesapeake (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "1968-12-30",
+      "filename": "dbf1ce5a8755.json"
+    },
+    "f338f916671b": {
+      "county_id": "vas_virginiabeachic",
+      "name": "Virginia Beach (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "1980-12-30",
+      "filename": "f338f916671b.json"
+    },
+    "9f88f3f1991a": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "1964-12-30",
+      "filename": "9f88f3f1991a.json"
+    },
+    "28d25bee003c": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1963-01-01",
+      "end_date": "1964-12-30",
+      "filename": "28d25bee003c.json"
+    },
+    "cdc333da370c": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1963-01-01",
+      "end_date": "1974-12-27",
+      "filename": "cdc333da370c.json"
+    },
+    "f03a508e98ed": {
+      "county_id": "vas_nortonic",
+      "name": "Norton (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "1974-12-27",
+      "filename": "f03a508e98ed.json"
+    },
+    "675a855a2b1c": {
+      "county_id": "vas_cliftonforgeic",
+      "name": "Clifton Forge (IC)",
+      "start_date": "1963-01-01",
+      "end_date": "2000-12-31",
+      "filename": "675a855a2b1c.json"
+    },
+    "1a8a1c4dce67": {
+      "county_id": "vas_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1963-01-01",
+      "end_date": "1990-12-30",
+      "filename": "1a8a1c4dce67.json"
+    },
+    "11dc9d05e9bb": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1964-01-01",
+      "end_date": "1968-08-31",
+      "filename": "11dc9d05e9bb.json"
+    },
+    "0453381af965": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1964-01-01",
+      "end_date": "1975-12-30",
+      "filename": "0453381af965.json"
+    },
+    "7c7078a6a55b": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1964-01-01",
+      "end_date": "1975-04-30",
+      "filename": "7c7078a6a55b.json"
+    },
+    "c8610b4ca111": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1964-01-01",
+      "end_date": "1983-12-30",
+      "filename": "c8610b4ca111.json"
+    },
+    "880a3db1dbbb": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1964-01-01",
+      "end_date": "1983-12-30",
+      "filename": "880a3db1dbbb.json"
+    },
+    "ef66fedb6566": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1964-12-31",
+      "end_date": "1971-12-30",
+      "filename": "ef66fedb6566.json"
+    },
+    "56df33da007e": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1964-12-31",
+      "end_date": "1971-12-30",
+      "filename": "56df33da007e.json"
+    },
+    "abd1ceab4c4e": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1965-01-01",
+      "end_date": "2000-12-31",
+      "filename": "abd1ceab4c4e.json"
+    },
+    "5495f197a58d": {
+      "county_id": "vas_martinsvilleic",
+      "name": "Martinsville (IC)",
+      "start_date": "1965-01-01",
+      "end_date": "2000-12-31",
+      "filename": "5495f197a58d.json"
+    },
+    "8b726349e790": {
+      "county_id": "vas_southbostonic",
+      "name": "South Boston (IC)",
+      "start_date": "1965-01-01",
+      "end_date": "1995-06-29",
+      "filename": "8b726349e790.json"
+    },
+    "93d995f58189": {
+      "county_id": "vas_halifax",
+      "name": "HALIFAX",
+      "start_date": "1965-01-01",
+      "end_date": "1995-06-29",
+      "filename": "93d995f58189.json"
+    },
+    "9fa77f57e339": {
+      "county_id": "vas_hopewellic",
+      "name": "Hopewell (IC)",
+      "start_date": "1969-12-31",
+      "end_date": "2000-12-31",
+      "filename": "9fa77f57e339.json"
+    },
+    "f6a25fb5f51a": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1969-12-31",
+      "end_date": "1971-12-30",
+      "filename": "f6a25fb5f51a.json"
+    },
+    "0ee4a8796cb2": {
+      "county_id": "vas_richmondic",
+      "name": "Richmond (IC)",
+      "start_date": "1970-12-31",
+      "end_date": "2000-12-31",
+      "filename": "0ee4a8796cb2.json"
+    },
+    "109b1aa6581c": {
+      "county_id": "vas_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1970-12-31",
+      "end_date": "2000-12-31",
+      "filename": "109b1aa6581c.json"
+    },
+    "3c13011543b0": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1971-12-31",
+      "end_date": "2000-12-31",
+      "filename": "3c13011543b0.json"
+    },
+    "20b1fabd0ff8": {
+      "county_id": "vas_winchesteric",
+      "name": "Winchester (IC)",
+      "start_date": "1971-12-31",
+      "end_date": "2000-12-31",
+      "filename": "20b1fabd0ff8.json"
+    },
+    "7d64a0b7b249": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1971-12-31",
+      "end_date": "1973-12-30",
+      "filename": "7d64a0b7b249.json"
+    },
+    "107b6596b541": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1971-12-31",
+      "end_date": "1973-12-30",
+      "filename": "107b6596b541.json"
+    },
+    "caf86a956960": {
+      "county_id": "vas_princegeorge",
+      "name": "PRINCE GEORGE",
+      "start_date": "1971-12-31",
+      "end_date": "2000-12-31",
+      "filename": "caf86a956960.json"
+    },
+    "6bed78124cb4": {
+      "county_id": "vas_dinwiddie",
+      "name": "DINWIDDIE",
+      "start_date": "1971-12-31",
+      "end_date": "2000-12-31",
+      "filename": "6bed78124cb4.json"
+    },
+    "c461b6a9f676": {
+      "county_id": "vas_petersburgic",
+      "name": "Petersburg (IC)",
+      "start_date": "1971-12-31",
+      "end_date": "2000-12-31",
+      "filename": "c461b6a9f676.json"
+    },
+    "880176aadebe": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1972-12-31",
+      "end_date": "1976-12-30",
+      "filename": "880176aadebe.json"
+    },
+    "508d3eaf2cef": {
+      "county_id": "vas_galaxic",
+      "name": "Galax (IC)",
+      "start_date": "1972-12-31",
+      "end_date": "1976-12-30",
+      "filename": "508d3eaf2cef.json"
+    },
+    "18d4a68eacba": {
+      "county_id": "vas_nansemondic",
+      "name": "Nansemond (IC, ext)",
+      "start_date": "1972-07-01",
+      "end_date": "1973-12-31",
+      "filename": "18d4a68eacba.json"
+    },
+    "a66be5f9f758": {
+      "county_id": "vas_alexandriaic",
+      "name": "Alexandria (IC)",
+      "start_date": "1973-12-31",
+      "end_date": "2000-12-31",
+      "filename": "a66be5f9f758.json"
+    },
+    "1c6db80ce583": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1973-12-31",
+      "end_date": "1980-12-30",
+      "filename": "1c6db80ce583.json"
+    },
+    "ccaa2f667b65": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1973-12-31",
+      "end_date": "2000-12-31",
+      "filename": "ccaa2f667b65.json"
+    },
+    "0e6d63004c1b": {
+      "county_id": "vas_bristolic",
+      "name": "Bristol (IC)",
+      "start_date": "1973-12-31",
+      "end_date": "2000-12-31",
+      "filename": "0e6d63004c1b.json"
+    },
+    "9d0d2ae90d74": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1973-12-31",
+      "end_date": "1974-12-30",
+      "filename": "9d0d2ae90d74.json"
+    },
+    "0ea6b5e66487": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1973-12-31",
+      "end_date": "1974-12-30",
+      "filename": "0ea6b5e66487.json"
+    },
+    "e8da3d2d67bf": {
+      "county_id": "vas_suffolkic",
+      "name": "Suffolk (IC)",
+      "start_date": "1974-01-01",
+      "end_date": "2000-12-31",
+      "filename": "e8da3d2d67bf.json"
+    },
+    "6649be31ed38": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1974-12-28",
+      "end_date": "1984-04-18",
+      "filename": "6649be31ed38.json"
+    },
+    "5eb327cd79da": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1974-12-31",
+      "end_date": "1978-12-30",
+      "filename": "5eb327cd79da.json"
+    },
+    "186e8f28c7f1": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1974-12-31",
+      "end_date": "1978-12-30",
+      "filename": "186e8f28c7f1.json"
+    },
+    "600597ef80d9": {
+      "county_id": "vas_nortonic",
+      "name": "Norton (IC)",
+      "start_date": "1974-12-28",
+      "end_date": "1984-04-18",
+      "filename": "600597ef80d9.json"
+    },
+    "311c8fc4fd1e": {
+      "county_id": "vas_manassasparkic",
+      "name": "Manassas Park (IC)",
+      "start_date": "1975-06-01",
+      "end_date": "1990-12-30",
+      "filename": "311c8fc4fd1e.json"
+    },
+    "b0168f8a0e59": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1975-06-01",
+      "end_date": "1983-12-30",
+      "filename": "b0168f8a0e59.json"
+    },
+    "c9585b426ba3": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1975-12-31",
+      "end_date": "1993-06-30",
+      "filename": "c9585b426ba3.json"
+    },
+    "18df36ade09d": {
+      "county_id": "vas_lynchburgic",
+      "name": "Lynchburg (IC)",
+      "start_date": "1975-12-31",
+      "end_date": "2000-12-31",
+      "filename": "18df36ade09d.json"
+    },
+    "0aeb9b943622": {
+      "county_id": "vas_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1975-12-31",
+      "end_date": "2000-12-31",
+      "filename": "0aeb9b943622.json"
+    },
+    "5406e0eae7a2": {
+      "county_id": "vas_york",
+      "name": "YORK",
+      "start_date": "1975-05-01",
+      "end_date": "2000-12-31",
+      "filename": "5406e0eae7a2.json"
+    },
+    "994a43b174ec": {
+      "county_id": "vas_poquosonic",
+      "name": "Poquoson (IC)",
+      "start_date": "1975-05-01",
+      "end_date": "2000-12-31",
+      "filename": "994a43b174ec.json"
+    },
+    "f3c9025a9c59": {
+      "county_id": "vas_manassasic",
+      "name": "Manassas (IC)",
+      "start_date": "1975-05-01",
+      "end_date": "1983-12-30",
+      "filename": "f3c9025a9c59.json"
+    },
+    "32a2d7d28a05": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1975-05-01",
+      "end_date": "1975-05-31",
+      "filename": "32a2d7d28a05.json"
+    },
+    "e2db8d901825": {
+      "county_id": "vas_carroll",
+      "name": "CARROLL",
+      "start_date": "1976-12-31",
+      "end_date": "1990-12-31",
+      "filename": "e2db8d901825.json"
+    },
+    "f341bc43e0f2": {
+      "county_id": "vas_galaxic",
+      "name": "Galax (IC)",
+      "start_date": "1976-12-31",
+      "end_date": "1990-12-31",
+      "filename": "f341bc43e0f2.json"
+    },
+    "50ce08f94809": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1976-01-01",
+      "end_date": "1985-12-31",
+      "filename": "50ce08f94809.json"
+    },
+    "e413f2106ec5": {
+      "county_id": "vas_roanokeic",
+      "name": "Roanoke (IC)",
+      "start_date": "1976-01-01",
+      "end_date": "2000-12-31",
+      "filename": "e413f2106ec5.json"
+    },
+    "da0d776e29a2": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1977-12-31",
+      "end_date": "1980-12-30",
+      "filename": "da0d776e29a2.json"
+    },
+    "11ab9f9bbe3f": {
+      "county_id": "vas_radfordic",
+      "name": "Radford (IC)",
+      "start_date": "1977-12-31",
+      "end_date": "1980-12-30",
+      "filename": "11ab9f9bbe3f.json"
+    },
+    "e1ced3d16b87": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1978-12-31",
+      "end_date": "1987-12-31",
+      "filename": "e1ced3d16b87.json"
+    },
+    "d511e515f478": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1978-12-31",
+      "end_date": "1987-12-31",
+      "filename": "d511e515f478.json"
+    },
+    "ea57bcfbf205": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1980-12-31",
+      "end_date": "1986-12-30",
+      "filename": "ea57bcfbf205.json"
+    },
+    "787bd65a42c8": {
+      "county_id": "vas_radfordic",
+      "name": "Radford (IC)",
+      "start_date": "1980-12-31",
+      "end_date": "1986-12-30",
+      "filename": "787bd65a42c8.json"
+    },
+    "aa591bedfc0d": {
+      "county_id": "vas_chesapeakeic",
+      "name": "Chesapeake (IC)",
+      "start_date": "1980-12-31",
+      "end_date": "2000-12-31",
+      "filename": "aa591bedfc0d.json"
+    },
+    "7ea9ce157ebc": {
+      "county_id": "vas_virginiabeachic",
+      "name": "Virginia Beach (IC)",
+      "start_date": "1980-12-31",
+      "end_date": "1988-12-30",
+      "filename": "7ea9ce157ebc.json"
+    },
+    "3a77c4b7c7e4": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1980-12-31",
+      "end_date": "1993-12-31",
+      "filename": "3a77c4b7c7e4.json"
+    },
+    "8b4d38b20464": {
+      "county_id": "vas_fairfaxic",
+      "name": "Fairfax (IC)",
+      "start_date": "1980-12-31",
+      "end_date": "1993-12-31",
+      "filename": "8b4d38b20464.json"
+    },
+    "0cc1ed961385": {
+      "county_id": "vas_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1983-01-01",
+      "end_date": "2000-12-31",
+      "filename": "0cc1ed961385.json"
+    },
+    "09edecaaa56b": {
+      "county_id": "vas_harrisonburgic",
+      "name": "Harrisonburg (IC)",
+      "start_date": "1983-01-01",
+      "end_date": "2000-12-31",
+      "filename": "09edecaaa56b.json"
+    },
+    "f3256548e61a": {
+      "county_id": "vas_manassasic",
+      "name": "Manassas (IC)",
+      "start_date": "1983-12-31",
+      "end_date": "1985-05-08",
+      "filename": "f3256548e61a.json"
+    },
+    "3288924824f2": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1983-12-31",
+      "end_date": "1985-05-08",
+      "filename": "3288924824f2.json"
+    },
+    "8654d604ccfd": {
+      "county_id": "vas_williamsburgic",
+      "name": "Williamsburg (IC)",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "8654d604ccfd.json"
+    },
+    "44200aab1580": {
+      "county_id": "vas_jamescity",
+      "name": "JAMES CITY",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "44200aab1580.json"
+    },
+    "0c1838067b22": {
+      "county_id": "vas_rockbridge",
+      "name": "ROCKBRIDGE",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "0c1838067b22.json"
+    },
+    "2ce483d5f2b9": {
+      "county_id": "vas_buenavistaic",
+      "name": "Buena Vista (IC)",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "2ce483d5f2b9.json"
+    },
+    "2cd36c77525c": {
+      "county_id": "vas_spotsylvania",
+      "name": "SPOTSYLVANIA",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "2cd36c77525c.json"
+    },
+    "da5796bd176f": {
+      "county_id": "vas_fredericksburgic",
+      "name": "Fredericksburg (IC)",
+      "start_date": "1983-12-31",
+      "end_date": "2000-12-31",
+      "filename": "da5796bd176f.json"
+    },
+    "1d5d4ee5b311": {
+      "county_id": "vas_wise",
+      "name": "WISE",
+      "start_date": "1984-04-19",
+      "end_date": "2000-12-31",
+      "filename": "1d5d4ee5b311.json"
+    },
+    "9933c701add7": {
+      "county_id": "vas_nortonic",
+      "name": "Norton (IC)",
+      "start_date": "1984-04-19",
+      "end_date": "2000-12-31",
+      "filename": "9933c701add7.json"
+    },
+    "96f9e1f42e3e": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1985-05-09",
+      "end_date": "1990-12-30",
+      "filename": "96f9e1f42e3e.json"
+    },
+    "04fc73a731d5": {
+      "county_id": "vas_manassasic",
+      "name": "Manassas (IC)",
+      "start_date": "1985-05-09",
+      "end_date": "2000-12-31",
+      "filename": "04fc73a731d5.json"
+    },
+    "47d3e27eebf1": {
+      "county_id": "vas_waynesboroic",
+      "name": "Waynesboro (IC)",
+      "start_date": "1985-12-31",
+      "end_date": "1994-06-30",
+      "filename": "47d3e27eebf1.json"
+    },
+    "86d4d6726c4b": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1985-12-31",
+      "end_date": "1986-12-30",
+      "filename": "86d4d6726c4b.json"
+    },
+    "04fe6d898090": {
+      "county_id": "vas_albemarle",
+      "name": "ALBEMARLE",
+      "start_date": "1988-02-09",
+      "end_date": "2000-12-31",
+      "filename": "04fe6d898090.json"
+    },
+    "23632613823b": {
+      "county_id": "vas_virginiabeachic",
+      "name": "Virginia Beach (IC)",
+      "start_date": "1988-12-31",
+      "end_date": "2000-12-31",
+      "filename": "23632613823b.json"
+    },
+    "2c3d89ee5087": {
+      "county_id": "vas_danvilleic",
+      "name": "Danville (IC)",
+      "start_date": "1988-01-01",
+      "end_date": "2000-12-31",
+      "filename": "2c3d89ee5087.json"
+    },
+    "8fbe3215266e": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1988-01-01",
+      "end_date": "2000-12-31",
+      "filename": "8fbe3215266e.json"
+    },
+    "75f821b7842a": {
+      "county_id": "vas_roanoke",
+      "name": "ROANOKE",
+      "start_date": "1989-07-01",
+      "end_date": "2000-12-31",
+      "filename": "75f821b7842a.json"
+    },
+    "e4c2fc853ed5": {
+      "county_id": "vas_salemic",
+      "name": "Salem (IC)",
+      "start_date": "1989-07-01",
+      "end_date": "2000-12-31",
+      "filename": "e4c2fc853ed5.json"
+    },
+    "ac347a9ff70d": {
+      "county_id": "vas_princewilliam",
+      "name": "PRINCE WILLIAM",
+      "start_date": "1990-12-31",
+      "end_date": "2000-12-31",
+      "filename": "ac347a9ff70d.json"
+    },
+    "9c3af4d5a7bf": {
+      "county_id": "vas_manassasparkic",
+      "name": "Manassas Park (IC)",
+      "start_date": "1990-12-31",
+      "end_date": "2000-12-31",
+      "filename": "9c3af4d5a7bf.json"
+    },
+    "abcc16cbac08": {
+      "county_id": "vas_fairfax",
+      "name": "FAIRFAX",
+      "start_date": "1994-01-01",
+      "end_date": "2000-12-31",
+      "filename": "abcc16cbac08.json"
+    },
+    "34f0ac155fa6": {
+      "county_id": "vas_fairfaxic",
+      "name": "Fairfax (IC)",
+      "start_date": "1994-01-01",
+      "end_date": "2000-12-31",
+      "filename": "34f0ac155fa6.json"
+    },
+    "088981035710": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1994-07-01",
+      "end_date": "2000-12-31",
+      "filename": "088981035710.json"
+    },
+    "9b81072a6c5d": {
+      "county_id": "vas_waynesboroic",
+      "name": "Waynesboro (IC)",
+      "start_date": "1994-07-01",
+      "end_date": "2000-12-31",
+      "filename": "9b81072a6c5d.json"
+    },
+    "179f6e4aa48a": {
+      "county_id": "vas_orange",
+      "name": "ORANGE",
+      "start_date": "1738-12-15",
+      "end_date": "1749-05-16",
+      "filename": "179f6e4aa48a.json"
+    },
+    "28e96e438386": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1738-12-15",
+      "end_date": "1754-04-30",
+      "filename": "28e96e438386.json"
+    },
+    "bcf91e8304cb": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1738-12-15",
+      "end_date": "1754-04-30",
+      "filename": "bcf91e8304cb.json"
+    },
+    "4b3fab7a25ad": {
+      "county_id": "vas_surry",
+      "name": "SURRY",
+      "start_date": "1754-02-01",
+      "end_date": "2000-12-31",
+      "filename": "4b3fab7a25ad.json"
+    },
+    "6d206c59c824": {
+      "county_id": "vas_amelia",
+      "name": "AMELIA",
+      "start_date": "1754-01-01",
+      "end_date": "1789-04-30",
+      "filename": "6d206c59c824.json"
+    },
+    "613e51273337": {
+      "county_id": "vas_sussex",
+      "name": "SUSSEX",
+      "start_date": "1754-02-01",
+      "end_date": "1802-01-03",
+      "filename": "613e51273337.json"
+    },
+    "19277a2a1dfe": {
+      "county_id": "vas_princeedward",
+      "name": "PRINCE EDWARD",
+      "start_date": "1754-01-01",
+      "end_date": "1845-04-30",
+      "filename": "19277a2a1dfe.json"
+    },
+    "e6de86b33a36": {
+      "county_id": "vas_lunenburg",
+      "name": "LUNENBURG",
+      "start_date": "1754-05-10",
+      "end_date": "1754-12-31",
+      "filename": "e6de86b33a36.json"
+    },
+    "62572fd5902e": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1754-05-01",
+      "end_date": "1772-05-14",
+      "filename": "62572fd5902e.json"
+    },
+    "c805a655ed29": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1754-05-01",
+      "end_date": "1776-11-07",
+      "filename": "c805a655ed29.json"
+    },
+    "290d2b5fdcb6": {
+      "county_id": "vas_bedford",
+      "name": "BEDFORD",
+      "start_date": "1754-05-10",
+      "end_date": "1754-12-31",
+      "filename": "290d2b5fdcb6.json"
+    },
+    "159e9d1c92e5": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1754-05-01",
+      "end_date": "1770-01-30",
+      "filename": "159e9d1c92e5.json"
+    },
+    "256e363fbefa": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1770-01-31",
+      "end_date": "1773-10-10",
+      "filename": "256e363fbefa.json"
+    },
+    "15cc7fa384c4": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1770-01-31",
+      "end_date": "1772-11-30",
+      "filename": "15cc7fa384c4.json"
+    },
+    "77135725cf2e": {
+      "county_id": "vas_isleofwight",
+      "name": "ISLE OF WIGHT",
+      "start_date": "1772-03-13",
+      "end_date": "2000-12-31",
+      "filename": "77135725cf2e.json"
+    },
+    "6ffc9d49c43b": {
+      "county_id": "vas_nansemond",
+      "name": "NANSEMOND (ext)",
+      "start_date": "1772-03-13",
+      "end_date": "1786-02-28",
+      "filename": "6ffc9d49c43b.json"
+    },
+    "ab6a25ed8264": {
+      "county_id": "wvs_berkeley",
+      "name": "BERKELEY (W.Va.)",
+      "start_date": "1772-05-15",
+      "end_date": "1801-10-25",
+      "filename": "ab6a25ed8264.json"
+    },
+    "48b9e1107705": {
+      "county_id": "vas_shenandoah",
+      "name": "DUNMORE",
+      "start_date": "1772-05-15",
+      "end_date": "1778-01-31",
+      "filename": "48b9e1107705.json"
+    },
+    "02703b9323e3": {
+      "county_id": "vas_frederick",
+      "name": "FREDERICK",
+      "start_date": "1772-05-15",
+      "end_date": "1836-03-07",
+      "filename": "02703b9323e3.json"
+    },
+    "78aea2fa4ce3": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT",
+      "start_date": "1772-12-01",
+      "end_date": "1778-02-28",
+      "filename": "78aea2fa4ce3.json"
+    },
+    "52216b410b7b": {
+      "county_id": "vas_fincastle",
+      "name": "FINCASTLE (ext)",
+      "start_date": "1772-12-01",
+      "end_date": "1776-12-30",
+      "filename": "52216b410b7b.json"
+    },
+    "955e1bb8028b": {
+      "county_id": "vas_westaugustadistrict",
+      "name": "W. Augusta Dist.",
+      "start_date": "1773-10-11",
+      "end_date": "1776-11-07",
+      "filename": "955e1bb8028b.json"
+    },
+    "d939085ff89a": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA",
+      "start_date": "1773-10-11",
+      "end_date": "1778-02-28",
+      "filename": "d939085ff89a.json"
+    },
+    "c43387981d3e": {
+      "county_id": "vas_pittsylvania",
+      "name": "PITTSYLVANIA",
+      "start_date": "1776-12-31",
+      "end_date": "1902-07-09",
+      "filename": "c43387981d3e.json"
+    },
+    "f9fd97216683": {
+      "county_id": "vas_henry",
+      "name": "HENRY",
+      "start_date": "1776-12-31",
+      "end_date": "1785-12-31",
+      "filename": "f9fd97216683.json"
+    },
+    "80d2f400bfcb": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE (W.Va.)",
+      "start_date": "1776-11-08",
+      "end_date": "1778-02-28",
+      "filename": "80d2f400bfcb.json"
+    },
+    "eef65575efd0": {
+      "county_id": "vas_washington",
+      "name": "WASHINGTON",
+      "start_date": "1776-12-31",
+      "end_date": "1777-08-31",
+      "filename": "eef65575efd0.json"
+    },
+    "82855d5d8213": {
+      "county_id": "vas_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1776-12-31",
+      "end_date": "1777-08-31",
+      "filename": "82855d5d8213.json"
+    },
+    "579a402f8622": {
+      "county_id": "vas_kentucky",
+      "name": "KENTUCKY (ext)",
+      "start_date": "1776-12-31",
+      "end_date": "1780-10-31",
+      "filename": "579a402f8622.json"
+    },
+    "bc4b0648a3c7": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA (W.Va.)",
+      "start_date": "1776-11-08",
+      "end_date": "1779-05-30",
+      "filename": "bc4b0648a3c7.json"
+    },
+    "c9c0555e1cfb": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO (W.Va.)",
+      "start_date": "1776-11-08",
+      "end_date": "1780-10-30",
+      "filename": "c9c0555e1cfb.json"
+    },
+    "720877eb1e24": {
+      "county_id": "vas_yohogania",
+      "name": "YOHOGANIA (ext)",
+      "start_date": "1776-11-08",
+      "end_date": "1780-10-30",
+      "filename": "720877eb1e24.json"
+    }
+  }
+}

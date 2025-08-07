@@ -1,0 +1,3702 @@
+{
+  "state": "NC",
+  "total_features": 528,
+  "features": {
+    "5cdbe2b082ee": {
+      "county_id": "ncs_albemarle",
+      "name": "ALBEMARLE (ext)",
+      "start_date": "1665-01-07",
+      "end_date": "1689-12-30",
+      "filename": "5cdbe2b082ee.json"
+    },
+    "b52916c9bfc0": {
+      "county_id": "ncs_perquimans",
+      "name": "Berkeley Prec.",
+      "start_date": "1671-12-31",
+      "end_date": "1684-12-30",
+      "filename": "b52916c9bfc0.json"
+    },
+    "fd9c45fc9f08": {
+      "county_id": "ncs_chowan",
+      "name": "Shaftesbury Prec.",
+      "start_date": "1671-12-31",
+      "end_date": "1684-12-30",
+      "filename": "fd9c45fc9f08.json"
+    },
+    "133f2152a7a7": {
+      "county_id": "ncs_carteret01",
+      "name": "Carteret Prec (orig)",
+      "start_date": "1671-12-31",
+      "end_date": "1684-12-30",
+      "filename": "133f2152a7a7.json"
+    },
+    "b06c834f3e8b": {
+      "county_id": "ncs_currituck",
+      "name": "Currituck Prec.",
+      "start_date": "1684-12-31",
+      "end_date": "1739-03-05",
+      "filename": "b06c834f3e8b.json"
+    },
+    "57f8f0ee8516": {
+      "county_id": "ncs_pasquotank",
+      "name": "Pasquotank Prec.",
+      "start_date": "1684-12-31",
+      "end_date": "1729-11-26",
+      "filename": "57f8f0ee8516.json"
+    },
+    "569537f23f9d": {
+      "county_id": "ncs_perquimans",
+      "name": "Perquimans Prec.",
+      "start_date": "1684-12-31",
+      "end_date": "1729-11-26",
+      "filename": "569537f23f9d.json"
+    },
+    "1329ec9d90f1": {
+      "county_id": "ncs_chowan",
+      "name": "Chowan Prec.",
+      "start_date": "1684-12-31",
+      "end_date": "1722-10-01",
+      "filename": "1329ec9d90f1.json"
+    },
+    "cec087051efa": {
+      "county_id": "ncs_bath",
+      "name": "BATH (ext)",
+      "start_date": "1696-12-09",
+      "end_date": "1705-12-02",
+      "filename": "cec087051efa.json"
+    },
+    "e1f9a88e45fa": {
+      "county_id": "ncs_hyde",
+      "name": "Wickham Prec.",
+      "start_date": "1705-12-03",
+      "end_date": "1712-12-30",
+      "filename": "e1f9a88e45fa.json"
+    },
+    "172f41280b11": {
+      "county_id": "ncs_beaufort",
+      "name": "Pamptecough Prec.",
+      "start_date": "1705-12-03",
+      "end_date": "1712-12-30",
+      "filename": "172f41280b11.json"
+    },
+    "366b463c9e77": {
+      "county_id": "ncs_craven",
+      "name": "Archdale Prec.",
+      "start_date": "1705-12-03",
+      "end_date": "1712-12-30",
+      "filename": "366b463c9e77.json"
+    },
+    "eb3a171b6637": {
+      "county_id": "ncs_hyde",
+      "name": "Hyde Prec.",
+      "start_date": "1712-12-31",
+      "end_date": "1729-11-26",
+      "filename": "eb3a171b6637.json"
+    },
+    "fec3d24e863b": {
+      "county_id": "ncs_beaufort",
+      "name": "Beaufort Prec.",
+      "start_date": "1712-12-31",
+      "end_date": "1739-03-05",
+      "filename": "fec3d24e863b.json"
+    },
+    "174c3582d558": {
+      "county_id": "ncs_craven",
+      "name": "Craven Prec.",
+      "start_date": "1712-12-31",
+      "end_date": "1722-08-07",
+      "filename": "174c3582d558.json"
+    },
+    "6ed5adfc4b9f": {
+      "county_id": "ncs_craven",
+      "name": "Craven Prec.",
+      "start_date": "1722-08-08",
+      "end_date": "1739-03-05",
+      "filename": "6ed5adfc4b9f.json"
+    },
+    "5998b4480999": {
+      "county_id": "ncs_carteret",
+      "name": "Carteret Prec. (2nd)",
+      "start_date": "1722-08-08",
+      "end_date": "1734-12-30",
+      "filename": "5998b4480999.json"
+    },
+    "d006a8cc29ed": {
+      "county_id": "ncs_chowan",
+      "name": "Chowan Prec.",
+      "start_date": "1722-10-02",
+      "end_date": "1729-11-26",
+      "filename": "d006a8cc29ed.json"
+    },
+    "3c38b397f77d": {
+      "county_id": "ncs_bertie",
+      "name": "Bertie Prec.",
+      "start_date": "1722-10-02",
+      "end_date": "1729-11-26",
+      "filename": "3c38b397f77d.json"
+    },
+    "5f9967383842": {
+      "county_id": "ncs_perquimans",
+      "name": "Perquimans Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "5f9967383842.json"
+    },
+    "fed98b5ce029": {
+      "county_id": "ncs_pasquotank",
+      "name": "Pasquotank Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "fed98b5ce029.json"
+    },
+    "25466fa6576a": {
+      "county_id": "ncs_chowan",
+      "name": "Chowan Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "25466fa6576a.json"
+    },
+    "37b13681b26a": {
+      "county_id": "ncs_tyrrell",
+      "name": "Tyrrell Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "37b13681b26a.json"
+    },
+    "4d1a10f2b102": {
+      "county_id": "ncs_hyde",
+      "name": "Hyde Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "4d1a10f2b102.json"
+    },
+    "7651158024e3": {
+      "county_id": "ncs_bertie",
+      "name": "Bertie Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1739-03-05",
+      "filename": "7651158024e3.json"
+    },
+    "b240871e901b": {
+      "county_id": "ncs_newhanover",
+      "name": "New Hanover Prec.",
+      "start_date": "1729-11-27",
+      "end_date": "1734-12-30",
+      "filename": "b240871e901b.json"
+    },
+    "0626084ebd94": {
+      "county_id": "ncs_carteret",
+      "name": "Carteret Prec. (2nd)",
+      "start_date": "1734-12-31",
+      "end_date": "1739-03-05",
+      "filename": "0626084ebd94.json"
+    },
+    "d834923a8752": {
+      "county_id": "ncs_onslow",
+      "name": "Onslow Prec.",
+      "start_date": "1734-12-31",
+      "end_date": "1739-03-05",
+      "filename": "d834923a8752.json"
+    },
+    "593aa48b9621": {
+      "county_id": "ncs_newhanover",
+      "name": "New Hanover Prec.",
+      "start_date": "1734-12-31",
+      "end_date": "1739-03-05",
+      "filename": "593aa48b9621.json"
+    },
+    "acae64745a08": {
+      "county_id": "ncs_bladen",
+      "name": "Bladen Prec.",
+      "start_date": "1734-12-31",
+      "end_date": "1739-03-05",
+      "filename": "acae64745a08.json"
+    },
+    "5a2332e1521e": {
+      "county_id": "ncs_perquimans",
+      "name": "PERQUIMANS",
+      "start_date": "1739-03-06",
+      "end_date": "1779-02-11",
+      "filename": "5a2332e1521e.json"
+    },
+    "5256bf912b89": {
+      "county_id": "ncs_pasquotank",
+      "name": "PASQUOTANK",
+      "start_date": "1739-03-06",
+      "end_date": "1777-05-08",
+      "filename": "5256bf912b89.json"
+    },
+    "bf94589bd306": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1739-03-06",
+      "end_date": "1771-01-25",
+      "filename": "bf94589bd306.json"
+    },
+    "4f85366db59a": {
+      "county_id": "ncs_chowan",
+      "name": "CHOWAN",
+      "start_date": "1739-03-06",
+      "end_date": "1760-04-30",
+      "filename": "4f85366db59a.json"
+    },
+    "3792841cc977": {
+      "county_id": "ncs_onslow",
+      "name": "ONSLOW",
+      "start_date": "1739-03-06",
+      "end_date": "1754-04-07",
+      "filename": "3792841cc977.json"
+    },
+    "15acdbe82e02": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1739-03-06",
+      "end_date": "1754-04-07",
+      "filename": "15acdbe82e02.json"
+    },
+    "65f9fe3c178c": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1739-03-06",
+      "end_date": "1750-03-16",
+      "filename": "65f9fe3c178c.json"
+    },
+    "28b43167d971": {
+      "county_id": "ncs_currituck",
+      "name": "CURRITUCK",
+      "start_date": "1739-03-06",
+      "end_date": "1745-04-19",
+      "filename": "28b43167d971.json"
+    },
+    "bc494e898fe8": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1739-03-06",
+      "end_date": "1745-04-19",
+      "filename": "bc494e898fe8.json"
+    },
+    "4a2a6519e893": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1739-03-06",
+      "end_date": "1741-04-03",
+      "filename": "4a2a6519e893.json"
+    },
+    "675c0118d5fb": {
+      "county_id": "ncs_bertie",
+      "name": "BERTIE",
+      "start_date": "1739-03-06",
+      "end_date": "1741-04-03",
+      "filename": "675c0118d5fb.json"
+    },
+    "6488b34e5919": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1739-03-06",
+      "end_date": "1741-04-03",
+      "filename": "6488b34e5919.json"
+    },
+    "6be570b9961a": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1739-03-06",
+      "end_date": "1750-03-16",
+      "filename": "6be570b9961a.json"
+    },
+    "71f9fc977cf5": {
+      "county_id": "ncs_bertie",
+      "name": "BERTIE",
+      "start_date": "1741-12-31",
+      "end_date": "1754-04-07",
+      "filename": "71f9fc977cf5.json"
+    },
+    "6a3b02c5705a": {
+      "county_id": "ncs_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1741-12-31",
+      "end_date": "1754-04-07",
+      "filename": "6a3b02c5705a.json"
+    },
+    "f13cc69281db": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1741-04-04",
+      "end_date": "1757-10-31",
+      "filename": "f13cc69281db.json"
+    },
+    "e319d98f7967": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1741-04-04",
+      "end_date": "1746-06-27",
+      "filename": "e319d98f7967.json"
+    },
+    "6f9fdfe9619d": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1741-04-04",
+      "end_date": "1746-06-27",
+      "filename": "6f9fdfe9619d.json"
+    },
+    "b0fb256c361f": {
+      "county_id": "ncs_bertie",
+      "name": "BERTIE",
+      "start_date": "1741-04-04",
+      "end_date": "1741-12-30",
+      "filename": "b0fb256c361f.json"
+    },
+    "e5d1a5f54c14": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1745-04-20",
+      "end_date": "1771-01-25",
+      "filename": "e5d1a5f54c14.json"
+    },
+    "6a2d693c1a6e": {
+      "county_id": "ncs_currituck",
+      "name": "CURRITUCK",
+      "start_date": "1745-04-20",
+      "end_date": "1823-12-07",
+      "filename": "6a2d693c1a6e.json"
+    },
+    "b9b98b7e3f67": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1746-06-28",
+      "end_date": "1757-10-31",
+      "filename": "b9b98b7e3f67.json"
+    },
+    "ca864ed1fb62": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1746-06-28",
+      "end_date": "1754-04-07",
+      "filename": "ca864ed1fb62.json"
+    },
+    "5e52e341c0c4": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1746-06-28",
+      "end_date": "1752-03-30",
+      "filename": "5e52e341c0c4.json"
+    },
+    "a8e5fcf09086": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1746-06-28",
+      "end_date": "1752-03-30",
+      "filename": "a8e5fcf09086.json"
+    },
+    "e50e64feeda2": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1750-03-17",
+      "end_date": "1753-03-26",
+      "filename": "e50e64feeda2.json"
+    },
+    "4d4398a6749c": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1750-03-17",
+      "end_date": "1752-03-30",
+      "filename": "4d4398a6749c.json"
+    },
+    "307910f89962": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1750-03-17",
+      "end_date": "1751-06-11",
+      "filename": "307910f89962.json"
+    },
+    "4e6dbea2b429": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1750-03-17",
+      "end_date": "1751-06-11",
+      "filename": "4e6dbea2b429.json"
+    },
+    "73896dfab49f": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1751-06-12",
+      "end_date": "1764-03-08",
+      "filename": "73896dfab49f.json"
+    },
+    "1275f42a4e8e": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1751-06-12",
+      "end_date": "1754-04-07",
+      "filename": "1275f42a4e8e.json"
+    },
+    "2330a7e10272": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1752-03-31",
+      "end_date": "1754-04-07",
+      "filename": "2330a7e10272.json"
+    },
+    "657411be8f12": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1752-03-31",
+      "end_date": "1754-02-18",
+      "filename": "657411be8f12.json"
+    },
+    "01101ea84765": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1752-03-31",
+      "end_date": "1753-03-26",
+      "filename": "01101ea84765.json"
+    },
+    "e518af2d5211": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1752-03-31",
+      "end_date": "1753-03-26",
+      "filename": "e518af2d5211.json"
+    },
+    "be5956f604c9": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1753-03-27",
+      "end_date": "1756-08-31",
+      "filename": "be5956f604c9.json"
+    },
+    "0eccacb7bf54": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1753-03-27",
+      "end_date": "1754-04-07",
+      "filename": "0eccacb7bf54.json"
+    },
+    "95476db38cbc": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1753-03-27",
+      "end_date": "1754-04-07",
+      "filename": "95476db38cbc.json"
+    },
+    "1b5ebf2e4bcf": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1753-03-27",
+      "end_date": "1756-08-31",
+      "filename": "1b5ebf2e4bcf.json"
+    },
+    "288523776fe6": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1754-02-19",
+      "end_date": "1756-08-31",
+      "filename": "288523776fe6.json"
+    },
+    "d00097f8580c": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1754-02-19",
+      "end_date": "1754-04-07",
+      "filename": "d00097f8580c.json"
+    },
+    "3f9bc8e1696f": {
+      "county_id": "ncs_nca1",
+      "name": "NCA 1",
+      "start_date": "1754-04-08",
+      "end_date": "1756-08-31",
+      "filename": "3f9bc8e1696f.json"
+    },
+    "c21e1e6189c4": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1756-09-25",
+      "end_date": "1771-01-25",
+      "filename": "c21e1e6189c4.json"
+    },
+    "204ccb704c4b": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1756-09-25",
+      "end_date": "1764-03-08",
+      "filename": "204ccb704c4b.json"
+    },
+    "d9b7737bf3fc": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1756-09-25",
+      "end_date": "1761-04-22",
+      "filename": "d9b7737bf3fc.json"
+    },
+    "864956c9facc": {
+      "county_id": "ncs_onslow",
+      "name": "ONSLOW",
+      "start_date": "1756-09-01",
+      "end_date": "2000-12-31",
+      "filename": "864956c9facc.json"
+    },
+    "71a7545b76a8": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1756-09-01",
+      "end_date": "1774-03-18",
+      "filename": "71a7545b76a8.json"
+    },
+    "ec37302b5f28": {
+      "county_id": "ncs_nca2",
+      "name": "NCA 2",
+      "start_date": "1756-09-01",
+      "end_date": "1756-09-24",
+      "filename": "ec37302b5f28.json"
+    },
+    "04c888ea699d": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1756-09-01",
+      "end_date": "1766-11-30",
+      "filename": "04c888ea699d.json"
+    },
+    "c9c13f1fdd1f": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1756-09-01",
+      "end_date": "1764-06-09",
+      "filename": "c9c13f1fdd1f.json"
+    },
+    "047d82158987": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1756-09-01",
+      "end_date": "1764-03-08",
+      "filename": "047d82158987.json"
+    },
+    "9564b080edf5": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1756-09-01",
+      "end_date": "1763-01-31",
+      "filename": "9564b080edf5.json"
+    },
+    "eb98a2b14ca2": {
+      "county_id": "ncs_bertie",
+      "name": "BERTIE",
+      "start_date": "1756-09-01",
+      "end_date": "1760-04-30",
+      "filename": "eb98a2b14ca2.json"
+    },
+    "c515f65cb931": {
+      "county_id": "ncs_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1756-09-01",
+      "end_date": "1760-04-30",
+      "filename": "c515f65cb931.json"
+    },
+    "83edc5d596fe": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1756-09-01",
+      "end_date": "1758-12-31",
+      "filename": "83edc5d596fe.json"
+    },
+    "33ef13d0a5bf": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1756-09-01",
+      "end_date": "1759-04-09",
+      "filename": "33ef13d0a5bf.json"
+    },
+    "9b4892739c97": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1757-11-01",
+      "end_date": "1764-03-08",
+      "filename": "9b4892739c97.json"
+    },
+    "7300d7173895": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1757-11-01",
+      "end_date": "1760-12-31",
+      "filename": "7300d7173895.json"
+    },
+    "9580a507a87d": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1759-01-01",
+      "end_date": "1777-12-23",
+      "filename": "9580a507a87d.json"
+    },
+    "bd18453c88c9": {
+      "county_id": "ncs_halifax",
+      "name": "HALIFAX",
+      "start_date": "1759-01-01",
+      "end_date": "1774-03-18",
+      "filename": "bd18453c88c9.json"
+    },
+    "a00af3102de1": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1792-01-19",
+      "end_date": "1794-12-29",
+      "filename": "a00af3102de1.json"
+    },
+    "e2349d43df19": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1792-01-19",
+      "end_date": "1794-01-10",
+      "filename": "e2349d43df19.json"
+    },
+    "d011e26cc973": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1792-12-31",
+      "end_date": "1794-01-10",
+      "filename": "d011e26cc973.json"
+    },
+    "fd60b29e0fa0": {
+      "county_id": "ncs_greene",
+      "name": "GLASGOW",
+      "start_date": "1792-01-19",
+      "end_date": "1794-01-10",
+      "filename": "fd60b29e0fa0.json"
+    },
+    "3e3540c51f3f": {
+      "county_id": "ncs_cabarrus",
+      "name": "CABARRUS",
+      "start_date": "1794-12-30",
+      "end_date": "2000-12-31",
+      "filename": "3e3540c51f3f.json"
+    },
+    "9195ff553f72": {
+      "county_id": "ncs_wayne",
+      "name": "WAYNE",
+      "start_date": "1794-01-11",
+      "end_date": "1855-02-12",
+      "filename": "9195ff553f72.json"
+    },
+    "adf5e8092aea": {
+      "county_id": "ncs_iredell",
+      "name": "IREDELL",
+      "start_date": "1794-01-11",
+      "end_date": "1815-12-20",
+      "filename": "adf5e8092aea.json"
+    },
+    "3a7b96a45721": {
+      "county_id": "ncs_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1794-12-30",
+      "end_date": "1842-12-18",
+      "filename": "3a7b96a45721.json"
+    },
+    "074d5b73da77": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1794-12-30",
+      "end_date": "1808-12-14",
+      "filename": "074d5b73da77.json"
+    },
+    "18506e94a8d9": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1794-12-30",
+      "end_date": "1807-12-13",
+      "filename": "18506e94a8d9.json"
+    },
+    "697c758bc8de": {
+      "county_id": "ncs_dobbs",
+      "name": "DOBBS (ext)",
+      "start_date": "1759-04-10",
+      "end_date": "1764-03-08",
+      "filename": "697c758bc8de.json"
+    },
+    "8fce2e8a1652": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1759-04-10",
+      "end_date": "1761-04-22",
+      "filename": "8fce2e8a1652.json"
+    },
+    "4da04db6ec85": {
+      "county_id": "ncs_bertie",
+      "name": "BERTIE",
+      "start_date": "1760-05-01",
+      "end_date": "2000-12-31",
+      "filename": "4da04db6ec85.json"
+    },
+    "eb980836b886": {
+      "county_id": "ncs_chowan",
+      "name": "CHOWAN",
+      "start_date": "1760-05-01",
+      "end_date": "1779-02-11",
+      "filename": "eb980836b886.json"
+    },
+    "687306317945": {
+      "county_id": "ncs_hertford",
+      "name": "HERTFORD",
+      "start_date": "1760-05-01",
+      "end_date": "1765-02-28",
+      "filename": "687306317945.json"
+    },
+    "8bee50e7f031": {
+      "county_id": "ncs_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1760-05-01",
+      "end_date": "1765-02-28",
+      "filename": "8bee50e7f031.json"
+    },
+    "0cc0090992fc": {
+      "county_id": "ncs_pitt",
+      "name": "PITT",
+      "start_date": "1761-01-01",
+      "end_date": "1785-12-28",
+      "filename": "0cc0090992fc.json"
+    },
+    "dbc5177c8ac1": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1761-01-01",
+      "end_date": "1785-12-28",
+      "filename": "dbc5177c8ac1.json"
+    },
+    "a6bb6bd0a0b5": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1761-04-23",
+      "end_date": "1771-03-11",
+      "filename": "a6bb6bd0a0b5.json"
+    },
+    "1eb27f1caeb3": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1761-04-23",
+      "end_date": "1771-01-25",
+      "filename": "1eb27f1caeb3.json"
+    },
+    "22fcfcc12ad3": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1763-02-01",
+      "end_date": "1777-12-23",
+      "filename": "22fcfcc12ad3.json"
+    },
+    "ae31622fc263": {
+      "county_id": "ncs_currituck",
+      "name": "CURRITUCK",
+      "start_date": "1870-02-03",
+      "end_date": "1919-03-06",
+      "filename": "ae31622fc263.json"
+    },
+    "f5e930414cac": {
+      "county_id": "ncs_dare",
+      "name": "DARE",
+      "start_date": "1870-02-03",
+      "end_date": "1919-03-06",
+      "filename": "f5e930414cac.json"
+    },
+    "9839290b90aa": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1870-02-03",
+      "end_date": "1890-05-04",
+      "filename": "9839290b90aa.json"
+    },
+    "5e1260f80b32": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1870-02-03",
+      "end_date": "1890-05-04",
+      "filename": "5e1260f80b32.json"
+    },
+    "7bdb7a6465dd": {
+      "county_id": "ncs_nash",
+      "name": "NASH",
+      "start_date": "1871-03-31",
+      "end_date": "2000-12-31",
+      "filename": "7bdb7a6465dd.json"
+    },
+    "87ca12108d45": {
+      "county_id": "ncs_jackson",
+      "name": "JACKSON",
+      "start_date": "1871-02-24",
+      "end_date": "2000-12-31",
+      "filename": "87ca12108d45.json"
+    },
+    "d8a8a23badc0": {
+      "county_id": "ncs_swain",
+      "name": "SWAIN",
+      "start_date": "1871-02-24",
+      "end_date": "2000-12-31",
+      "filename": "d8a8a23badc0.json"
+    },
+    "e24c59f8d8ce": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1871-03-31",
+      "end_date": "1883-03-11",
+      "filename": "e24c59f8d8ce.json"
+    },
+    "a64bf762dc7a": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1871-02-24",
+      "end_date": "1872-02-01",
+      "filename": "a64bf762dc7a.json"
+    },
+    "8df2fa8ad0a6": {
+      "county_id": "ncs_sampson",
+      "name": "SAMPSON",
+      "start_date": "1872-02-08",
+      "end_date": "2000-12-31",
+      "filename": "8df2fa8ad0a6.json"
+    },
+    "c8311cd1c7ad": {
+      "county_id": "ncs_alamance",
+      "name": "ALAMANCE",
+      "start_date": "1895-05-29",
+      "end_date": "2000-12-31",
+      "filename": "c8311cd1c7ad.json"
+    },
+    "148143aa347e": {
+      "county_id": "ncs_chatham",
+      "name": "CHATHAM",
+      "start_date": "1895-05-29",
+      "end_date": "1907-07-01",
+      "filename": "148143aa347e.json"
+    },
+    "14528606d34f": {
+      "county_id": "ncs_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1899-02-15",
+      "end_date": "2000-12-31",
+      "filename": "14528606d34f.json"
+    },
+    "e931713c004c": {
+      "county_id": "ncs_richmond",
+      "name": "RICHMOND",
+      "start_date": "1899-02-20",
+      "end_date": "2000-12-31",
+      "filename": "e931713c004c.json"
+    },
+    "74d3c3b4c837": {
+      "county_id": "ncs_scotland",
+      "name": "SCOTLAND",
+      "start_date": "1899-02-20",
+      "end_date": "2000-12-31",
+      "filename": "74d3c3b4c837.json"
+    },
+    "7d84cb1a4c3d": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1899-02-15",
+      "end_date": "2000-12-31",
+      "filename": "7d84cb1a4c3d.json"
+    },
+    "fb433beb4058": {
+      "county_id": "ncs_chatham",
+      "name": "CHATHAM",
+      "start_date": "1907-07-02",
+      "end_date": "2000-12-31",
+      "filename": "fb433beb4058.json"
+    },
+    "c656d0b70940": {
+      "county_id": "ncs_lee",
+      "name": "LEE",
+      "start_date": "1907-07-02",
+      "end_date": "2000-12-31",
+      "filename": "c656d0b70940.json"
+    },
+    "e2ebb3ae6868": {
+      "county_id": "ncs_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1763-02-01",
+      "end_date": "1769-04-09",
+      "filename": "e2ebb3ae6868.json"
+    },
+    "3cb2bbc11040": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1764-06-10",
+      "end_date": "1786-12-31",
+      "filename": "3cb2bbc11040.json"
+    },
+    "b01470555690": {
+      "county_id": "ncs_dobbs",
+      "name": "DOBBS (ext)",
+      "start_date": "1764-03-09",
+      "end_date": "1779-11-09",
+      "filename": "b01470555690.json"
+    },
+    "6c04fa4de6e3": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1764-03-09",
+      "end_date": "1779-02-11",
+      "filename": "6c04fa4de6e3.json"
+    },
+    "f3041944cc58": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1764-03-09",
+      "end_date": "1777-12-23",
+      "filename": "f3041944cc58.json"
+    },
+    "d4604d06dee9": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1764-03-09",
+      "end_date": "1777-12-23",
+      "filename": "d4604d06dee9.json"
+    },
+    "0fbd5f6833f9": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1764-03-09",
+      "end_date": "1771-03-11",
+      "filename": "0fbd5f6833f9.json"
+    },
+    "942d7ae0b78b": {
+      "county_id": "ncs_bute",
+      "name": "BUTE (ext)",
+      "start_date": "1764-06-10",
+      "end_date": "1767-11-30",
+      "filename": "942d7ae0b78b.json"
+    },
+    "0d341e7c40d9": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1764-03-09",
+      "end_date": "1766-11-30",
+      "filename": "0d341e7c40d9.json"
+    },
+    "0c6400a3a6c7": {
+      "county_id": "ncs_hertford",
+      "name": "HERTFORD",
+      "start_date": "1765-03-01",
+      "end_date": "1779-02-11",
+      "filename": "0c6400a3a6c7.json"
+    },
+    "e1e683ee34e3": {
+      "county_id": "ncs_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1765-03-01",
+      "end_date": "1767-11-30",
+      "filename": "e1e683ee34e3.json"
+    },
+    "20f700112eee": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1766-12-01",
+      "end_date": "1788-12-05",
+      "filename": "20f700112eee.json"
+    },
+    "c36c1fe91c85": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1766-12-01",
+      "end_date": "1777-12-23",
+      "filename": "c36c1fe91c85.json"
+    },
+    "887dbdb3ea54": {
+      "county_id": "ncs_northampton",
+      "name": "NORTHAMPTON",
+      "start_date": "1767-12-01",
+      "end_date": "2000-12-31",
+      "filename": "887dbdb3ea54.json"
+    },
+    "a5aad8bdc41d": {
+      "county_id": "ncs_bute",
+      "name": "BUTE (ext)",
+      "start_date": "1767-12-01",
+      "end_date": "1779-02-11",
+      "filename": "a5aad8bdc41d.json"
+    },
+    "1f0a44a40a55": {
+      "county_id": "ncs_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1769-04-10",
+      "end_date": "1792-12-30",
+      "filename": "1f0a44a40a55.json"
+    },
+    "f5bdd90b30cb": {
+      "county_id": "ncs_tryon",
+      "name": "TRYON (ext)",
+      "start_date": "1769-04-10",
+      "end_date": "1779-02-11",
+      "filename": "f5bdd90b30cb.json"
+    },
+    "2aaed33463bf": {
+      "county_id": "ncs_chatham",
+      "name": "CHATHAM",
+      "start_date": "1771-04-01",
+      "end_date": "1895-05-28",
+      "filename": "2aaed33463bf.json"
+    },
+    "30ff8573038c": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1771-04-01",
+      "end_date": "1777-05-31",
+      "filename": "30ff8573038c.json"
+    },
+    "90c42e0b940b": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1771-04-01",
+      "end_date": "1773-03-05",
+      "filename": "90c42e0b940b.json"
+    },
+    "48cd99007fd6": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1771-04-01",
+      "end_date": "1773-03-05",
+      "filename": "48cd99007fd6.json"
+    },
+    "7821776a796f": {
+      "county_id": "ncs_wake",
+      "name": "WAKE",
+      "start_date": "1771-03-12",
+      "end_date": "1787-01-05",
+      "filename": "7821776a796f.json"
+    },
+    "a9d107b8733a": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1771-03-12",
+      "end_date": "1784-07-03",
+      "filename": "a9d107b8733a.json"
+    },
+    "a3191406c1d3": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1771-03-12",
+      "end_date": "1777-12-23",
+      "filename": "a3191406c1d3.json"
+    },
+    "97a81e386109": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1771-03-12",
+      "end_date": "1771-03-31",
+      "filename": "97a81e386109.json"
+    },
+    "9054009a2c6b": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1771-01-26",
+      "end_date": "1779-11-09",
+      "filename": "9054009a2c6b.json"
+    },
+    "df214380d724": {
+      "county_id": "ncs_guilford",
+      "name": "GUILFORD",
+      "start_date": "1771-01-26",
+      "end_date": "1779-02-11",
+      "filename": "df214380d724.json"
+    },
+    "6998c1ba80fd": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1771-01-26",
+      "end_date": "1771-03-31",
+      "filename": "6998c1ba80fd.json"
+    },
+    "fdac8e37fd6d": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1771-01-26",
+      "end_date": "1771-03-11",
+      "filename": "fdac8e37fd6d.json"
+    },
+    "59eb71758b3f": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1771-01-26",
+      "end_date": "1819-12-23",
+      "filename": "59eb71758b3f.json"
+    },
+    "3467b24d647e": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1773-03-06",
+      "end_date": "1778-02-14",
+      "filename": "3467b24d647e.json"
+    },
+    "2b532d3eaafd": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1773-03-06",
+      "end_date": "1777-05-31",
+      "filename": "2b532d3eaafd.json"
+    },
+    "2e2c2e733b97": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1774-03-19",
+      "end_date": "1799-12-22",
+      "filename": "2e2c2e733b97.json"
+    },
+    "744d0ba9f3a9": {
+      "county_id": "ncs_martin",
+      "name": "MARTIN",
+      "start_date": "1774-03-19",
+      "end_date": "1794-01-10",
+      "filename": "744d0ba9f3a9.json"
+    },
+    "f3d561495efc": {
+      "county_id": "ncs_halifax",
+      "name": "HALIFAX",
+      "start_date": "1774-03-19",
+      "end_date": "1779-02-11",
+      "filename": "f3d561495efc.json"
+    },
+    "82a2b34b14d2": {
+      "county_id": "ncs_nash",
+      "name": "NASH",
+      "start_date": "1777-12-24",
+      "end_date": "1855-02-12",
+      "filename": "82a2b34b14d2.json"
+    },
+    "11a36ee0095b": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1777-12-24",
+      "end_date": "1855-02-12",
+      "filename": "11a36ee0095b.json"
+    },
+    "50767cdfe5ad": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1777-12-24",
+      "end_date": "1788-12-05",
+      "filename": "50767cdfe5ad.json"
+    },
+    "84abc4fb0587": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1777-12-24",
+      "end_date": "1787-01-05",
+      "filename": "84abc4fb0587.json"
+    },
+    "d0ec0e63c7a3": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1777-12-24",
+      "end_date": "1784-06-01",
+      "filename": "d0ec0e63c7a3.json"
+    },
+    "cb978e51b1a3": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1777-12-24",
+      "end_date": "1782-05-11",
+      "filename": "cb978e51b1a3.json"
+    },
+    "4e38f1ac42af": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1777-12-24",
+      "end_date": "1779-02-11",
+      "filename": "4e38f1ac42af.json"
+    },
+    "94d1969dc99f": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1777-12-24",
+      "end_date": "1779-02-11",
+      "filename": "94d1969dc99f.json"
+    },
+    "fab7918739ff": {
+      "county_id": "tns_washington",
+      "name": "WASHINGTON (Tenn.)",
+      "start_date": "1777-12-24",
+      "end_date": "1779-11-09",
+      "filename": "fab7918739ff.json"
+    },
+    "f07c29c912c2": {
+      "county_id": "ncs_camden",
+      "name": "CAMDEN",
+      "start_date": "1777-05-09",
+      "end_date": "2000-12-31",
+      "filename": "f07c29c912c2.json"
+    },
+    "ab6da46e1b2c": {
+      "county_id": "ncs_pasquotank",
+      "name": "PASQUOTANK",
+      "start_date": "1777-05-09",
+      "end_date": "2000-12-31",
+      "filename": "ab6da46e1b2c.json"
+    },
+    "be984447a2ab": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1777-06-01",
+      "end_date": "1849-04-18",
+      "filename": "be984447a2ab.json"
+    },
+    "1d9dc6062ff5": {
+      "county_id": "ncs_caswell",
+      "name": "CASWELL",
+      "start_date": "1777-06-01",
+      "end_date": "1792-01-31",
+      "filename": "1d9dc6062ff5.json"
+    },
+    "89e7bf191872": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1777-06-01",
+      "end_date": "1788-12-05",
+      "filename": "89e7bf191872.json"
+    },
+    "9bc620565b65": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1777-06-01",
+      "end_date": "1777-12-23",
+      "filename": "9bc620565b65.json"
+    },
+    "61353de03ea3": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1778-02-15",
+      "end_date": "1789-12-21",
+      "filename": "61353de03ea3.json"
+    },
+    "ce3e9cb060be": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1778-02-15",
+      "end_date": "1789-12-21",
+      "filename": "ce3e9cb060be.json"
+    },
+    "c53746680764": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1779-11-10",
+      "end_date": "1842-12-18",
+      "filename": "c53746680764.json"
+    },
+    "3a57ab8890ef": {
+      "county_id": "ncs_richmond",
+      "name": "RICHMOND",
+      "start_date": "1779-11-10",
+      "end_date": "1796-12-24",
+      "filename": "3a57ab8890ef.json"
+    },
+    "c92d042b0381": {
+      "county_id": "ncs_wayne",
+      "name": "WAYNE",
+      "start_date": "1779-11-10",
+      "end_date": "1794-01-10",
+      "filename": "c92d042b0381.json"
+    },
+    "37b41717e382": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1779-11-10",
+      "end_date": "1788-12-05",
+      "filename": "37b41717e382.json"
+    },
+    "31e26f6cfd8c": {
+      "county_id": "ncs_dobbs",
+      "name": "DOBBS (ext)",
+      "start_date": "1779-11-10",
+      "end_date": "1788-12-05",
+      "filename": "31e26f6cfd8c.json"
+    },
+    "52452d879507": {
+      "county_id": "ncs_jones",
+      "name": "JONES",
+      "start_date": "1779-11-10",
+      "end_date": "1788-12-05",
+      "filename": "52452d879507.json"
+    },
+    "e80b0f6e20e3": {
+      "county_id": "tns_sullivan",
+      "name": "SULLIVAN (Tenn.)",
+      "start_date": "1779-11-10",
+      "end_date": "1787-01-05",
+      "filename": "e80b0f6e20e3.json"
+    },
+    "2df1c71e2b2e": {
+      "county_id": "tns_washington",
+      "name": "WASHINGTON (Tenn.)",
+      "start_date": "1779-11-10",
+      "end_date": "1783-05-16",
+      "filename": "2df1c71e2b2e.json"
+    },
+    "de4e60e4ba89": {
+      "county_id": "ncs_chowan",
+      "name": "CHOWAN",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "de4e60e4ba89.json"
+    },
+    "a6e2e0c87ecb": {
+      "county_id": "ncs_gates",
+      "name": "GATES",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "a6e2e0c87ecb.json"
+    },
+    "bdeb92971914": {
+      "county_id": "ncs_halifax",
+      "name": "HALIFAX",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "bdeb92971914.json"
+    },
+    "d1e2a850cc3d": {
+      "county_id": "ncs_hertford",
+      "name": "HERTFORD",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "d1e2a850cc3d.json"
+    },
+    "da33e347aa4d": {
+      "county_id": "ncs_perquimans",
+      "name": "PERQUIMANS",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "da33e347aa4d.json"
+    },
+    "2bbabea948d5": {
+      "county_id": "ncs_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1779-02-12",
+      "end_date": "2000-12-31",
+      "filename": "2bbabea948d5.json"
+    },
+    "0d521ba29b57": {
+      "county_id": "ncs_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1779-02-12",
+      "end_date": "1841-01-10",
+      "filename": "0d521ba29b57.json"
+    },
+    "e62f1517b595": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1779-02-12",
+      "end_date": "1794-01-10",
+      "filename": "e62f1517b595.json"
+    },
+    "d7e57f2c4a5a": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1779-02-12",
+      "end_date": "1787-01-05",
+      "filename": "d7e57f2c4a5a.json"
+    },
+    "6d23753e16cd": {
+      "county_id": "ncs_warren",
+      "name": "WARREN",
+      "start_date": "1779-02-12",
+      "end_date": "1786-12-31",
+      "filename": "6d23753e16cd.json"
+    },
+    "1c19e83ba35e": {
+      "county_id": "ncs_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1779-02-12",
+      "end_date": "1787-01-05",
+      "filename": "1c19e83ba35e.json"
+    },
+    "eb79d854a2fd": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1779-02-12",
+      "end_date": "1787-01-05",
+      "filename": "eb79d854a2fd.json"
+    },
+    "06de3ff9ad67": {
+      "county_id": "ncs_guilford",
+      "name": "GUILFORD",
+      "start_date": "1779-02-12",
+      "end_date": "1785-12-28",
+      "filename": "06de3ff9ad67.json"
+    },
+    "202cd790508c": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1779-02-12",
+      "end_date": "1782-05-11",
+      "filename": "202cd790508c.json"
+    },
+    "812fb1008ce0": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1779-02-12",
+      "end_date": "1779-11-09",
+      "filename": "812fb1008ce0.json"
+    },
+    "3c0ed6807195": {
+      "county_id": "ncs_jones",
+      "name": "JONES",
+      "start_date": "1779-02-12",
+      "end_date": "1779-11-09",
+      "filename": "3c0ed6807195.json"
+    },
+    "4aca9d152b00": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1782-05-12",
+      "end_date": "1784-06-01",
+      "filename": "4aca9d152b00.json"
+    },
+    "e27340a12472": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1782-05-12",
+      "end_date": "1784-06-01",
+      "filename": "e27340a12472.json"
+    },
+    "d2ba93673889": {
+      "county_id": "tns_washington",
+      "name": "WASHINGTON (Tenn.)",
+      "start_date": "1783-05-17",
+      "end_date": "1788-12-05",
+      "filename": "d2ba93673889.json"
+    },
+    "099d09f4015b": {
+      "county_id": "tns_greene",
+      "name": "GREENE (Tenn.)",
+      "start_date": "1783-05-17",
+      "end_date": "1787-01-05",
+      "filename": "099d09f4015b.json"
+    },
+    "9f37c95d769d": {
+      "county_id": "tns_davidson",
+      "name": "DAVIDSON (Tenn.)",
+      "start_date": "1783-05-17",
+      "end_date": "1787-01-05",
+      "filename": "9f37c95d769d.json"
+    },
+    "abca5f413967": {
+      "county_id": "ncs_moore",
+      "name": "MOORE",
+      "start_date": "1784-11-25",
+      "end_date": "1907-07-01",
+      "filename": "abca5f413967.json"
+    },
+    "994fae2dfb01": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1784-11-25",
+      "end_date": "1789-12-21",
+      "filename": "994fae2dfb01.json"
+    },
+    "83c18d7ca80d": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1784-06-02",
+      "end_date": "1931-02-08",
+      "filename": "83c18d7ca80d.json"
+    },
+    "841380f97f66": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1784-06-02",
+      "end_date": "1841-01-10",
+      "filename": "841380f97f66.json"
+    },
+    "61e262a37675": {
+      "county_id": "ncs_sampson",
+      "name": "SAMPSON",
+      "start_date": "1784-06-02",
+      "end_date": "1795-12-08",
+      "filename": "61e262a37675.json"
+    },
+    "dd2b64d0533a": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1784-06-02",
+      "end_date": "1787-01-05",
+      "filename": "dd2b64d0533a.json"
+    },
+    "0557e28c6265": {
+      "county_id": "ncs_fayette",
+      "name": "FAYETTE (ext)",
+      "start_date": "1784-07-04",
+      "end_date": "1784-11-24",
+      "filename": "0557e28c6265.json"
+    },
+    "e313e0e2fffa": {
+      "county_id": "ncs_moore",
+      "name": "MOORE",
+      "start_date": "1784-07-04",
+      "end_date": "1784-11-24",
+      "filename": "e313e0e2fffa.json"
+    },
+    "10432c7d719c": {
+      "county_id": "ncs_guilford",
+      "name": "GUILFORD",
+      "start_date": "1785-12-29",
+      "end_date": "2000-12-31",
+      "filename": "10432c7d719c.json"
+    },
+    "0660ee1d700a": {
+      "county_id": "ncs_rockingham",
+      "name": "ROCKINGHAM",
+      "start_date": "1785-12-29",
+      "end_date": "2000-12-31",
+      "filename": "0660ee1d700a.json"
+    },
+    "447c6df9b2de": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1785-12-29",
+      "end_date": "1801-12-18",
+      "filename": "447c6df9b2de.json"
+    },
+    "61fbb09aca9c": {
+      "county_id": "ncs_pitt",
+      "name": "PITT",
+      "start_date": "1785-12-29",
+      "end_date": "1787-01-05",
+      "filename": "61fbb09aca9c.json"
+    },
+    "02cf3104011d": {
+      "county_id": "ncs_wake",
+      "name": "WAKE",
+      "start_date": "1787-01-06",
+      "end_date": "1881-04-13",
+      "filename": "02cf3104011d.json"
+    },
+    "15cf1ca0cff8": {
+      "county_id": "ncs_warren",
+      "name": "WARREN",
+      "start_date": "1787-01-01",
+      "end_date": "1881-05-04",
+      "filename": "15cf1ca0cff8.json"
+    },
+    "5d6805bc572c": {
+      "county_id": "ncs_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1787-01-06",
+      "end_date": "1875-02-02",
+      "filename": "5d6805bc572c.json"
+    },
+    "e99fb853c0a7": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1787-01-01",
+      "end_date": "1875-02-02",
+      "filename": "e99fb853c0a7.json"
+    },
+    "3249af0cc0d1": {
+      "county_id": "ncs_pitt",
+      "name": "PITT",
+      "start_date": "1787-01-06",
+      "end_date": "1801-12-18",
+      "filename": "3249af0cc0d1.json"
+    },
+    "d23dc0af4db3": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1787-01-06",
+      "end_date": "1798-12-23",
+      "filename": "d23dc0af4db3.json"
+    },
+    "fd9cc268da7b": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1787-01-06",
+      "end_date": "1792-01-18",
+      "filename": "fd9cc268da7b.json"
+    },
+    "65894f402b76": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1787-01-06",
+      "end_date": "1789-12-21",
+      "filename": "65894f402b76.json"
+    },
+    "eeec9cd1df8c": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1787-01-06",
+      "end_date": "1788-12-05",
+      "filename": "eeec9cd1df8c.json"
+    },
+    "6ef789a13285": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1787-01-06",
+      "end_date": "1788-12-05",
+      "filename": "6ef789a13285.json"
+    },
+    "3d31c0f8a3fd": {
+      "county_id": "tns_sumner",
+      "name": "SUMNER (Tenn.)",
+      "start_date": "1787-01-06",
+      "end_date": "1790-04-01",
+      "filename": "3d31c0f8a3fd.json"
+    },
+    "ecfbc94a17f1": {
+      "county_id": "tns_hawkins",
+      "name": "HAWKINS (Tenn.)",
+      "start_date": "1787-01-06",
+      "end_date": "1790-04-01",
+      "filename": "ecfbc94a17f1.json"
+    },
+    "45bbc9888eca": {
+      "county_id": "tns_greene",
+      "name": "GREENE (Tenn.)",
+      "start_date": "1787-01-06",
+      "end_date": "1790-04-01",
+      "filename": "45bbc9888eca.json"
+    },
+    "4587cd017248": {
+      "county_id": "tns_sullivan",
+      "name": "SULLIVAN (Tenn.)",
+      "start_date": "1787-01-06",
+      "end_date": "1788-12-05",
+      "filename": "4587cd017248.json"
+    },
+    "7cda02fbb805": {
+      "county_id": "tns_davidson",
+      "name": "DAVIDSON (Tenn.)",
+      "start_date": "1787-01-06",
+      "end_date": "1788-12-05",
+      "filename": "7cda02fbb805.json"
+    },
+    "a253217bfcee": {
+      "county_id": "ncs_nca4",
+      "name": "NCA 4",
+      "start_date": "1787-01-06",
+      "end_date": "1790-04-01",
+      "filename": "a253217bfcee.json"
+    },
+    "b0bffc095a4f": {
+      "county_id": "ncs_nca3",
+      "name": "NCA 3",
+      "start_date": "1787-01-06",
+      "end_date": "1790-04-01",
+      "filename": "b0bffc095a4f.json"
+    },
+    "4d63affbfe41": {
+      "county_id": "ncs_jones",
+      "name": "JONES",
+      "start_date": "1788-12-06",
+      "end_date": "2000-12-31",
+      "filename": "4d63affbfe41.json"
+    },
+    "9ba02451259e": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1788-12-06",
+      "end_date": "1845-01-05",
+      "filename": "9ba02451259e.json"
+    },
+    "d758f23ba984": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1788-12-06",
+      "end_date": "1822-12-08",
+      "filename": "d758f23ba984.json"
+    },
+    "39e88fec3508": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1788-12-06",
+      "end_date": "1808-12-14",
+      "filename": "39e88fec3508.json"
+    },
+    "8701daaf8e80": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1788-12-06",
+      "end_date": "1795-12-08",
+      "filename": "8701daaf8e80.json"
+    },
+    "710eb2c2dd51": {
+      "county_id": "ncs_iredell",
+      "name": "IREDELL",
+      "start_date": "1788-12-06",
+      "end_date": "1794-01-10",
+      "filename": "710eb2c2dd51.json"
+    },
+    "2b5cb6b11c33": {
+      "county_id": "ncs_dobbs",
+      "name": "DOBBS (ext)",
+      "start_date": "1788-12-06",
+      "end_date": "1792-01-18",
+      "filename": "2b5cb6b11c33.json"
+    },
+    "69e616e2e765": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1788-12-06",
+      "end_date": "1792-01-18",
+      "filename": "69e616e2e765.json"
+    },
+    "f7ae6eb6a2eb": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1788-12-06",
+      "end_date": "1789-12-21",
+      "filename": "f7ae6eb6a2eb.json"
+    },
+    "7f8be8b2f024": {
+      "county_id": "tns_sullivan",
+      "name": "SULLIVAN (Tenn.)",
+      "start_date": "1788-12-06",
+      "end_date": "1790-04-01",
+      "filename": "7f8be8b2f024.json"
+    },
+    "8f786b546340": {
+      "county_id": "tns_davidson",
+      "name": "DAVIDSON (Tenn.)",
+      "start_date": "1788-12-06",
+      "end_date": "1790-04-01",
+      "filename": "8f786b546340.json"
+    },
+    "cbaf20fc6672": {
+      "county_id": "tns_tennessee",
+      "name": "TENNESSEE (Tenn.)",
+      "start_date": "1788-12-06",
+      "end_date": "1790-04-01",
+      "filename": "cbaf20fc6672.json"
+    },
+    "fc2ce27a8a4d": {
+      "county_id": "tns_washington",
+      "name": "WASHINGTON (Tenn.)",
+      "start_date": "1788-12-06",
+      "end_date": "1790-04-01",
+      "filename": "fc2ce27a8a4d.json"
+    },
+    "aa5617464b4d": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1789-12-22",
+      "end_date": "1808-12-14",
+      "filename": "aa5617464b4d.json"
+    },
+    "70d77ad1b8c3": {
+      "county_id": "ncs_stokes",
+      "name": "STOKES",
+      "start_date": "1789-12-22",
+      "end_date": "1796-12-24",
+      "filename": "70d77ad1b8c3.json"
+    },
+    "546a0872aa48": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1789-12-22",
+      "end_date": "1792-01-18",
+      "filename": "546a0872aa48.json"
+    },
+    "dc3aaceaad7a": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1789-12-22",
+      "end_date": "1792-12-30",
+      "filename": "dc3aaceaad7a.json"
+    },
+    "517e80d08583": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1789-12-22",
+      "end_date": "1792-12-30",
+      "filename": "517e80d08583.json"
+    },
+    "095c9bac513a": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1789-12-22",
+      "end_date": "1792-01-18",
+      "filename": "095c9bac513a.json"
+    },
+    "3a09f94c6fa8": {
+      "county_id": "ncs_nca5",
+      "name": "NCA 5",
+      "start_date": "1790-04-02",
+      "end_date": "1792-12-30",
+      "filename": "3a09f94c6fa8.json"
+    },
+    "aee5e7cdbb4a": {
+      "county_id": "ncs_caswell",
+      "name": "CASWELL",
+      "start_date": "1792-02-01",
+      "end_date": "2000-12-31",
+      "filename": "aee5e7cdbb4a.json"
+    },
+    "fb94555a6354": {
+      "county_id": "ncs_person",
+      "name": "PERSON",
+      "start_date": "1792-02-01",
+      "end_date": "2000-12-31",
+      "filename": "fb94555a6354.json"
+    },
+    "f9ea3deef3ec": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1792-01-19",
+      "end_date": "1855-02-06",
+      "filename": "f9ea3deef3ec.json"
+    },
+    "ba005f2697e9": {
+      "county_id": "ncs_lenoir",
+      "name": "LENOIR",
+      "start_date": "1792-01-19",
+      "end_date": "1798-12-23",
+      "filename": "ba005f2697e9.json"
+    },
+    "28000c925300": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1792-01-19",
+      "end_date": "1796-12-24",
+      "filename": "28000c925300.json"
+    },
+    "a8912ac1a140": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1792-12-31",
+      "end_date": "1796-12-24",
+      "filename": "a8912ac1a140.json"
+    },
+    "ac39fc2b6df8": {
+      "county_id": "ncs_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1792-12-31",
+      "end_date": "1794-12-29",
+      "filename": "ac39fc2b6df8.json"
+    },
+    "9e2e689e6673": {
+      "county_id": "ncs_cabarrus",
+      "name": "CABARRUS",
+      "start_date": "1792-12-31",
+      "end_date": "1794-12-29",
+      "filename": "9e2e689e6673.json"
+    },
+    "dedbca6ddf59": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1792-01-19",
+      "end_date": "1794-12-29",
+      "filename": "dedbca6ddf59.json"
+    },
+    "6988735a847e": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1794-01-11",
+      "end_date": "1807-12-13",
+      "filename": "6988735a847e.json"
+    },
+    "487e5d5ead5b": {
+      "county_id": "ncs_martin",
+      "name": "MARTIN",
+      "start_date": "1794-01-11",
+      "end_date": "1805-12-20",
+      "filename": "487e5d5ead5b.json"
+    },
+    "f066132f9037": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1794-01-11",
+      "end_date": "1801-12-18",
+      "filename": "f066132f9037.json"
+    },
+    "fe2e8c178cfd": {
+      "county_id": "ncs_greene",
+      "name": "GLASGOW",
+      "start_date": "1794-01-11",
+      "end_date": "1799-12-22",
+      "filename": "fe2e8c178cfd.json"
+    },
+    "94b37d548bbb": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1794-01-11",
+      "end_date": "1799-12-22",
+      "filename": "94b37d548bbb.json"
+    },
+    "8d170d506622": {
+      "county_id": "ncs_sampson",
+      "name": "SAMPSON",
+      "start_date": "1795-12-09",
+      "end_date": "1847-01-15",
+      "filename": "8d170d506622.json"
+    },
+    "1a170b1517e5": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1795-12-09",
+      "end_date": "1809-12-20",
+      "filename": "1a170b1517e5.json"
+    },
+    "88265188353e": {
+      "county_id": "ncs_stokes",
+      "name": "STOKES",
+      "start_date": "1796-12-25",
+      "end_date": "1849-01-15",
+      "filename": "88265188353e.json"
+    },
+    "31824ca5fec2": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1796-12-25",
+      "end_date": "1835-12-21",
+      "filename": "31824ca5fec2.json"
+    },
+    "cc4ef99ae40d": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1796-12-25",
+      "end_date": "1797-12-22",
+      "filename": "cc4ef99ae40d.json"
+    },
+    "ca4a578f36ff": {
+      "county_id": "ncs_richmond",
+      "name": "RICHMOND",
+      "start_date": "1796-12-25",
+      "end_date": "1797-12-22",
+      "filename": "ca4a578f36ff.json"
+    },
+    "996497069420": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1797-12-23",
+      "end_date": "1911-02-16",
+      "filename": "996497069420.json"
+    },
+    "1df07579b8dd": {
+      "county_id": "ncs_richmond",
+      "name": "RICHMOND",
+      "start_date": "1797-12-23",
+      "end_date": "1899-02-19",
+      "filename": "1df07579b8dd.json"
+    },
+    "1c7c3d98a99e": {
+      "county_id": "ncs_lenoir",
+      "name": "LENOIR",
+      "start_date": "1798-12-24",
+      "end_date": "1804-12-18",
+      "filename": "1c7c3d98a99e.json"
+    },
+    "4daca801bee2": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1798-12-24",
+      "end_date": "1801-12-18",
+      "filename": "4daca801bee2.json"
+    },
+    "07a41a97475c": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1799-12-23",
+      "end_date": "1815-12-20",
+      "filename": "07a41a97475c.json"
+    },
+    "8c123e8276bb": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1799-12-23",
+      "end_date": "1814-11-20",
+      "filename": "8c123e8276bb.json"
+    },
+    "8a526c810212": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1799-12-23",
+      "end_date": "1801-12-18",
+      "filename": "8a526c810212.json"
+    },
+    "20b71792bd3b": {
+      "county_id": "ncs_washington",
+      "name": "WASHINGTON",
+      "start_date": "1799-12-23",
+      "end_date": "1801-12-18",
+      "filename": "20b71792bd3b.json"
+    },
+    "59fabc82bbe9": {
+      "county_id": "ncs_greene",
+      "name": "GREENE",
+      "start_date": "1799-12-23",
+      "end_date": "1801-12-18",
+      "filename": "59fabc82bbe9.json"
+    },
+    "60c4a28218aa": {
+      "county_id": "ncs_washington",
+      "name": "WASHINGTON",
+      "start_date": "1801-12-19",
+      "end_date": "2000-12-31",
+      "filename": "60c4a28218aa.json"
+    },
+    "b64a8e456de6": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1801-12-19",
+      "end_date": "1870-02-02",
+      "filename": "b64a8e456de6.json"
+    },
+    "d367543433c2": {
+      "county_id": "ncs_greene",
+      "name": "GREENE",
+      "start_date": "1801-12-19",
+      "end_date": "1855-02-12",
+      "filename": "d367543433c2.json"
+    },
+    "88fc255766ba": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1801-12-19",
+      "end_date": "1855-02-12",
+      "filename": "88fc255766ba.json"
+    },
+    "f7d67483ab7b": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1801-12-19",
+      "end_date": "1816-12-27",
+      "filename": "f7d67483ab7b.json"
+    },
+    "3a070c622243": {
+      "county_id": "ncs_pitt",
+      "name": "PITT",
+      "start_date": "1801-12-19",
+      "end_date": "1805-12-20",
+      "filename": "3a070c622243.json"
+    },
+    "f40633343bf8": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1801-12-19",
+      "end_date": "1804-12-18",
+      "filename": "f40633343bf8.json"
+    },
+    "b02968ba6a1a": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1804-12-19",
+      "end_date": "1819-12-23",
+      "filename": "b02968ba6a1a.json"
+    },
+    "f2bc6e2f4c86": {
+      "county_id": "ncs_lenoir",
+      "name": "LENOIR",
+      "start_date": "1804-12-19",
+      "end_date": "1819-12-23",
+      "filename": "f2bc6e2f4c86.json"
+    },
+    "259df5ca21bb": {
+      "county_id": "ncs_pitt",
+      "name": "PITT",
+      "start_date": "1805-12-21",
+      "end_date": "2000-12-31",
+      "filename": "259df5ca21bb.json"
+    },
+    "8d9fce75dd37": {
+      "county_id": "ncs_martin",
+      "name": "MARTIN",
+      "start_date": "1805-12-21",
+      "end_date": "1816-12-27",
+      "filename": "8d9fce75dd37.json"
+    },
+    "43b3b279aa8d": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1807-12-14",
+      "end_date": "1809-12-20",
+      "filename": "43b3b279aa8d.json"
+    },
+    "6912e079e7e1": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1807-12-14",
+      "end_date": "1809-12-20",
+      "filename": "6912e079e7e1.json"
+    },
+    "f72e28e159f0": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1808-12-15",
+      "end_date": "1834-01-12",
+      "filename": "f72e28e159f0.json"
+    },
+    "067ed8255265": {
+      "county_id": "ncs_haywood",
+      "name": "HAYWOOD",
+      "start_date": "1808-12-15",
+      "end_date": "1829-01-09",
+      "filename": "067ed8255265.json"
+    },
+    "2f06e0df8e4d": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1808-12-15",
+      "end_date": "1809-12-20",
+      "filename": "2f06e0df8e4d.json"
+    },
+    "92929e5733e8": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1808-12-15",
+      "end_date": "1809-12-20",
+      "filename": "92929e5733e8.json"
+    },
+    "2b28fb68553b": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1808-12-15",
+      "end_date": "1809-12-20",
+      "filename": "2b28fb68553b.json"
+    },
+    "b32c2c47e52c": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1809-12-21",
+      "end_date": "1847-01-15",
+      "filename": "b32c2c47e52c.json"
+    },
+    "a19fe1f87e52": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1809-12-21",
+      "end_date": "1841-01-10",
+      "filename": "a19fe1f87e52.json"
+    },
+    "061c88fd0116": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1809-12-21",
+      "end_date": "1821-11-18",
+      "filename": "061c88fd0116.json"
+    },
+    "db98d187f520": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1809-12-21",
+      "end_date": "1814-11-20",
+      "filename": "db98d187f520.json"
+    },
+    "3b22f57b3921": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1809-12-21",
+      "end_date": "1811-12-19",
+      "filename": "3b22f57b3921.json"
+    },
+    "ff2ebd97dd82": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1809-12-21",
+      "end_date": "1811-12-19",
+      "filename": "ff2ebd97dd82.json"
+    },
+    "b486e8bc0aa1": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1811-12-20",
+      "end_date": "1877-02-02",
+      "filename": "b486e8bc0aa1.json"
+    },
+    "2bce845ab9ca": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1811-12-20",
+      "end_date": "1821-11-18",
+      "filename": "2bce845ab9ca.json"
+    },
+    "92ea0709c2ce": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1814-11-21",
+      "end_date": "1849-01-26",
+      "filename": "92ea0709c2ce.json"
+    },
+    "631af31b5035": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1814-11-21",
+      "end_date": "1834-01-12",
+      "filename": "631af31b5035.json"
+    },
+    "938d50ee12de": {
+      "county_id": "ncs_iredell",
+      "name": "IREDELL",
+      "start_date": "1815-12-21",
+      "end_date": "1847-01-14",
+      "filename": "938d50ee12de.json"
+    },
+    "b68d63aa87f6": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1815-12-21",
+      "end_date": "1841-01-10",
+      "filename": "b68d63aa87f6.json"
+    },
+    "45a7f21b2e7c": {
+      "county_id": "ncs_martin",
+      "name": "MARTIN",
+      "start_date": "1816-12-28",
+      "end_date": "2000-12-31",
+      "filename": "45a7f21b2e7c.json"
+    },
+    "553e22be16f1": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1816-12-28",
+      "end_date": "1819-12-23",
+      "filename": "553e22be16f1.json"
+    },
+    "8459879abf27": {
+      "county_id": "ncs_lenoir",
+      "name": "LENOIR",
+      "start_date": "1819-12-24",
+      "end_date": "1931-02-08",
+      "filename": "8459879abf27.json"
+    },
+    "424df995d684": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1819-12-24",
+      "end_date": "1872-05-01",
+      "filename": "424df995d684.json"
+    },
+    "1d4e2bd8df52": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1819-12-24",
+      "end_date": "1872-05-01",
+      "filename": "1d4e2bd8df52.json"
+    },
+    "8c33f5ae31a8": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1819-12-24",
+      "end_date": "1823-12-07",
+      "filename": "8c33f5ae31a8.json"
+    },
+    "06c6cb6e3417": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1821-11-19",
+      "end_date": "1829-01-09",
+      "filename": "06c6cb6e3417.json"
+    },
+    "36d03b933697": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1821-11-19",
+      "end_date": "1829-01-09",
+      "filename": "36d03b933697.json"
+    },
+    "9a3058cc7233": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1822-12-09",
+      "end_date": "1835-12-21",
+      "filename": "9a3058cc7233.json"
+    },
+    "54267abf3e71": {
+      "county_id": "ncs_davidson",
+      "name": "DAVIDSON",
+      "start_date": "1822-12-09",
+      "end_date": "1835-12-21",
+      "filename": "54267abf3e71.json"
+    },
+    "32c750dd28fe": {
+      "county_id": "ncs_currituck",
+      "name": "CURRITUCK",
+      "start_date": "1823-12-08",
+      "end_date": "1870-02-02",
+      "filename": "32c750dd28fe.json"
+    },
+    "5fe8fdf54973": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1823-12-08",
+      "end_date": "1845-01-05",
+      "filename": "5fe8fdf54973.json"
+    },
+    "f7f6076e2e75": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1829-01-10",
+      "end_date": "1873-04-11",
+      "filename": "f7f6076e2e75.json"
+    },
+    "fe53ee2596b0": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1829-01-10",
+      "end_date": "1873-04-11",
+      "filename": "fe53ee2596b0.json"
+    },
+    "f50d0f636719": {
+      "county_id": "ncs_haywood",
+      "name": "HAYWOOD",
+      "start_date": "1829-01-10",
+      "end_date": "1851-01-28",
+      "filename": "f50d0f636719.json"
+    },
+    "ccbc65fa917c": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1829-01-10",
+      "end_date": "1839-01-03",
+      "filename": "ccbc65fa917c.json"
+    },
+    "1f9b1ea9d115": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1834-01-13",
+      "end_date": "1849-01-26",
+      "filename": "1f9b1ea9d115.json"
+    },
+    "c3494a689018": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1834-01-13",
+      "end_date": "1841-01-10",
+      "filename": "c3494a689018.json"
+    },
+    "86506c899ed5": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1834-01-13",
+      "end_date": "1838-12-14",
+      "filename": "86506c899ed5.json"
+    },
+    "37746bc2e574": {
+      "county_id": "ncs_davidson",
+      "name": "DAVIDSON",
+      "start_date": "1835-12-22",
+      "end_date": "1889-03-10",
+      "filename": "37746bc2e574.json"
+    },
+    "56e590ff297e": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1835-12-22",
+      "end_date": "1851-04-30",
+      "filename": "56e590ff297e.json"
+    },
+    "ca945ad2643b": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1835-12-22",
+      "end_date": "1836-12-19",
+      "filename": "ca945ad2643b.json"
+    },
+    "31093e4db084": {
+      "county_id": "ncs_davie",
+      "name": "DAVIE",
+      "start_date": "1836-12-20",
+      "end_date": "2000-12-31",
+      "filename": "31093e4db084.json"
+    },
+    "9ff4a5add02e": {
+      "county_id": "ncs_rowan",
+      "name": "ROWAN",
+      "start_date": "1836-12-20",
+      "end_date": "2000-12-31",
+      "filename": "9ff4a5add02e.json"
+    },
+    "6412d4db3943": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1838-12-15",
+      "end_date": "1849-01-28",
+      "filename": "6412d4db3943.json"
+    },
+    "e5588addbf15": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1838-12-15",
+      "end_date": "1844-12-08",
+      "filename": "e5588addbf15.json"
+    },
+    "32eb4dbf1b61": {
+      "county_id": "ncs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1839-01-04",
+      "end_date": "1861-02-19",
+      "filename": "32eb4dbf1b61.json"
+    },
+    "e6c6059e17df": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1839-01-04",
+      "end_date": "1851-01-28",
+      "filename": "e6c6059e17df.json"
+    },
+    "5818bc4a01df": {
+      "county_id": "ncs_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1841-01-11",
+      "end_date": "2000-12-31",
+      "filename": "5818bc4a01df.json"
+    },
+    "266267a1711c": {
+      "county_id": "ncs_stanly",
+      "name": "STANLY",
+      "start_date": "1841-01-11",
+      "end_date": "2000-12-31",
+      "filename": "266267a1711c.json"
+    },
+    "ba5903c0d8eb": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1841-01-11",
+      "end_date": "1847-01-14",
+      "filename": "ba5903c0d8eb.json"
+    },
+    "a58f5d579d9a": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1841-01-11",
+      "end_date": "1847-01-14",
+      "filename": "a58f5d579d9a.json"
+    },
+    "172fe45cb2db": {
+      "county_id": "ncs_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1841-01-11",
+      "end_date": "1845-01-06",
+      "filename": "172fe45cb2db.json"
+    },
+    "2d540e2bad53": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1841-01-11",
+      "end_date": "1843-01-13",
+      "filename": "2d540e2bad53.json"
+    },
+    "6544418b1037": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1841-01-11",
+      "end_date": "1842-12-18",
+      "filename": "6544418b1037.json"
+    },
+    "e1309a30e39f": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1841-01-11",
+      "end_date": "1842-12-18",
+      "filename": "e1309a30e39f.json"
+    },
+    "2c7088b7208f": {
+      "county_id": "ncs_anson",
+      "name": "ANSON",
+      "start_date": "1842-12-19",
+      "end_date": "2000-12-31",
+      "filename": "2c7088b7208f.json"
+    },
+    "a1c5c5dd09ff": {
+      "county_id": "ncs_mecklenburg",
+      "name": "MECKLENBURG",
+      "start_date": "1842-12-19",
+      "end_date": "2000-12-31",
+      "filename": "a1c5c5dd09ff.json"
+    },
+    "c6d79ebe6729": {
+      "county_id": "ncs_union",
+      "name": "UNION",
+      "start_date": "1842-12-19",
+      "end_date": "2000-12-31",
+      "filename": "c6d79ebe6729.json"
+    },
+    "7e30a1def460": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1842-12-19",
+      "end_date": "1859-02-15",
+      "filename": "7e30a1def460.json"
+    },
+    "36a03fc70557": {
+      "county_id": "ncs_mcdowell",
+      "name": "MCDOWELL",
+      "start_date": "1842-12-19",
+      "end_date": "1844-12-23",
+      "filename": "36a03fc70557.json"
+    },
+    "b667b07ac6ca": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1842-12-19",
+      "end_date": "1844-12-08",
+      "filename": "b667b07ac6ca.json"
+    },
+    "a0d1f94c7165": {
+      "county_id": "ncs_catawba",
+      "name": "CATAWBA",
+      "start_date": "1843-01-14",
+      "end_date": "1846-12-20",
+      "filename": "a0d1f94c7165.json"
+    },
+    "a3495b3d09d9": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1843-01-14",
+      "end_date": "1846-12-20",
+      "filename": "a3495b3d09d9.json"
+    },
+    "6d55cdbbeced": {
+      "county_id": "ncs_mcdowell",
+      "name": "MCDOWELL",
+      "start_date": "1844-12-24",
+      "end_date": "1925-03-05",
+      "filename": "6d55cdbbeced.json"
+    },
+    "f8a1943e40cc": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1844-12-24",
+      "end_date": "1845-01-06",
+      "filename": "f8a1943e40cc.json"
+    },
+    "12fe70c4f0f3": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1844-12-09",
+      "end_date": "1847-01-17",
+      "filename": "12fe70c4f0f3.json"
+    },
+    "ecb5142f5c81": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1844-12-09",
+      "end_date": "1844-12-23",
+      "filename": "ecb5142f5c81.json"
+    },
+    "e4714ec7ee23": {
+      "county_id": "ncs_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1845-01-07",
+      "end_date": "1916-12-03",
+      "filename": "e4714ec7ee23.json"
+    },
+    "656bc67f6c45": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1845-01-06",
+      "end_date": "1883-03-11",
+      "filename": "656bc67f6c45.json"
+    },
+    "161fcf4b6555": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1845-01-06",
+      "end_date": "1870-02-02",
+      "filename": "161fcf4b6555.json"
+    },
+    "eb80897cde36": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1845-01-07",
+      "end_date": "1847-01-17",
+      "filename": "eb80897cde36.json"
+    },
+    "70e7cf426ad7": {
+      "county_id": "ncs_catawba",
+      "name": "CATAWBA",
+      "start_date": "1846-12-21",
+      "end_date": "2000-12-31",
+      "filename": "70e7cf426ad7.json"
+    },
+    "9f54e1b70672": {
+      "county_id": "ncs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1846-12-21",
+      "end_date": "2000-12-31",
+      "filename": "9f54e1b70672.json"
+    },
+    "ceb2150bc975": {
+      "county_id": "ncs_gaston",
+      "name": "GASTON",
+      "start_date": "1846-12-21",
+      "end_date": "1916-12-03",
+      "filename": "ceb2150bc975.json"
+    },
+    "2428abfb6026": {
+      "county_id": "ncs_iredell",
+      "name": "IREDELL",
+      "start_date": "1847-01-15",
+      "end_date": "2000-12-31",
+      "filename": "2428abfb6026.json"
+    },
+    "6775e8f800cb": {
+      "county_id": "ncs_polk",
+      "name": "POLK",
+      "start_date": "1847-01-18",
+      "end_date": "1849-01-25",
+      "filename": "6775e8f800cb.json"
+    },
+    "5379c9a8b2a1": {
+      "county_id": "ncs_alexander",
+      "name": "ALEXANDER",
+      "start_date": "1847-01-15",
+      "end_date": "1849-01-28",
+      "filename": "5379c9a8b2a1.json"
+    },
+    "3d97c160d618": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1847-01-18",
+      "end_date": "1849-01-25",
+      "filename": "3d97c160d618.json"
+    },
+    "86f2e94f6845": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1847-01-18",
+      "end_date": "1849-01-25",
+      "filename": "86f2e94f6845.json"
+    },
+    "0c0cf0b616c7": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1847-01-15",
+      "end_date": "1849-01-26",
+      "filename": "0c0cf0b616c7.json"
+    },
+    "219d075164ae": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1847-01-15",
+      "end_date": "1849-01-26",
+      "filename": "219d075164ae.json"
+    },
+    "ff3c26497f37": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1847-01-16",
+      "end_date": "1872-02-07",
+      "filename": "ff3c26497f37.json"
+    },
+    "dcd181c32c8f": {
+      "county_id": "ncs_sampson",
+      "name": "SAMPSON",
+      "start_date": "1847-01-16",
+      "end_date": "1872-02-07",
+      "filename": "dcd181c32c8f.json"
+    },
+    "2df13c58e0a1": {
+      "county_id": "ncs_alamance",
+      "name": "ALAMANCE",
+      "start_date": "1849-04-19",
+      "end_date": "1895-05-28",
+      "filename": "2df13c58e0a1.json"
+    },
+    "dbb9f353bcca": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1849-04-19",
+      "end_date": "1881-04-13",
+      "filename": "dbb9f353bcca.json"
+    },
+    "a5b5d89a4a9c": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1849-01-29",
+      "end_date": "1859-02-15",
+      "filename": "a5b5d89a4a9c.json"
+    },
+    "bc4360c58e1f": {
+      "county_id": "ncs_alexander",
+      "name": "ALEXANDER",
+      "start_date": "1849-01-29",
+      "end_date": "2000-12-31",
+      "filename": "bc4360c58e1f.json"
+    },
+    "e1f045a87e1b": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1849-01-29",
+      "end_date": "1851-01-26",
+      "filename": "e1f045a87e1b.json"
+    },
+    "babac5c60869": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1849-01-29",
+      "end_date": "1851-01-26",
+      "filename": "babac5c60869.json"
+    },
+    "8777256bc7eb": {
+      "county_id": "ncs_stokes",
+      "name": "STOKES",
+      "start_date": "1849-01-16",
+      "end_date": "2000-12-31",
+      "filename": "8777256bc7eb.json"
+    },
+    "9f9871e88563": {
+      "county_id": "ncs_forsyth",
+      "name": "FORSYTH",
+      "start_date": "1849-01-16",
+      "end_date": "1889-03-10",
+      "filename": "9f9871e88563.json"
+    },
+    "c8c10a1aaac5": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1849-01-27",
+      "end_date": "1877-02-28",
+      "filename": "c8c10a1aaac5.json"
+    },
+    "3f5b056633c1": {
+      "county_id": "ncs_watauga",
+      "name": "WATAUGA",
+      "start_date": "1849-01-27",
+      "end_date": "1861-02-15",
+      "filename": "3f5b056633c1.json"
+    },
+    "ac30fa67653c": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1849-01-27",
+      "end_date": "1859-01-31",
+      "filename": "ac30fa67653c.json"
+    },
+    "315191c75d00": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1849-01-26",
+      "end_date": "1855-01-19",
+      "filename": "315191c75d00.json"
+    },
+    "671e4148ce74": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1849-01-26",
+      "end_date": "1851-01-27",
+      "filename": "671e4148ce74.json"
+    },
+    "449d384869b3": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1849-01-27",
+      "end_date": "1849-01-28",
+      "filename": "449d384869b3.json"
+    },
+    "a2d036bf8764": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1849-01-27",
+      "end_date": "1849-01-28",
+      "filename": "a2d036bf8764.json"
+    },
+    "9d62d184af2b": {
+      "county_id": "ncs_haywood",
+      "name": "HAYWOOD",
+      "start_date": "1851-01-29",
+      "end_date": "2000-12-31",
+      "filename": "9d62d184af2b.json"
+    },
+    "8bbb3a7bdd4f": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1851-01-28",
+      "end_date": "1925-03-05",
+      "filename": "8bbb3a7bdd4f.json"
+    },
+    "8135e848799d": {
+      "county_id": "ncs_yadkin",
+      "name": "YADKIN",
+      "start_date": "1851-05-01",
+      "end_date": "1911-03-03",
+      "filename": "8135e848799d.json"
+    },
+    "f0ee3ee97b73": {
+      "county_id": "ncs_surry",
+      "name": "SURRY",
+      "start_date": "1851-05-01",
+      "end_date": "2000-12-31",
+      "filename": "f0ee3ee97b73.json"
+    },
+    "22394d7d5c63": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1851-01-29",
+      "end_date": "1861-09-20",
+      "filename": "22394d7d5c63.json"
+    },
+    "b80353b8f269": {
+      "county_id": "ncs_jackson",
+      "name": "JACKSON",
+      "start_date": "1851-01-29",
+      "end_date": "1861-02-14",
+      "filename": "b80353b8f269.json"
+    },
+    "799700968ec7": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1851-01-28",
+      "end_date": "1855-01-19",
+      "filename": "799700968ec7.json"
+    },
+    "b46481ecb4c0": {
+      "county_id": "ncs_madison",
+      "name": "MADISON",
+      "start_date": "1851-01-27",
+      "end_date": "2000-12-31",
+      "filename": "b46481ecb4c0.json"
+    },
+    "d97225a55c59": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1851-01-27",
+      "end_date": "1861-02-15",
+      "filename": "d97225a55c59.json"
+    },
+    "6597d51de1ff": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1851-01-27",
+      "end_date": "1851-01-27",
+      "filename": "6597d51de1ff.json"
+    },
+    "f0bf4f1cb081": {
+      "county_id": "ncs_hooper",
+      "name": "HOOPER (prop)",
+      "start_date": "1851-01-27",
+      "end_date": "1851-01-27",
+      "filename": "f0bf4f1cb081.json"
+    },
+    "a1a3b7aa07bc": {
+      "county_id": "ncs_greene",
+      "name": "GREENE",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "a1a3b7aa07bc.json"
+    },
+    "c13cc105ff3e": {
+      "county_id": "ncs_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "c13cc105ff3e.json"
+    },
+    "4f0af53c3b2f": {
+      "county_id": "ncs_rutherford",
+      "name": "RUTHERFORD",
+      "start_date": "1855-01-20",
+      "end_date": "2000-12-31",
+      "filename": "4f0af53c3b2f.json"
+    },
+    "c487afcbd2dc": {
+      "county_id": "ncs_harnett",
+      "name": "HARNETT",
+      "start_date": "1855-02-07",
+      "end_date": "1911-03-05",
+      "filename": "c487afcbd2dc.json"
+    },
+    "e739c16ab903": {
+      "county_id": "ncs_polk",
+      "name": "POLK",
+      "start_date": "1855-01-20",
+      "end_date": "1911-02-20",
+      "filename": "e739c16ab903.json"
+    },
+    "cdfa64c6b130": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1855-02-07",
+      "end_date": "1874-04-01",
+      "filename": "cdfa64c6b130.json"
+    },
+    "c340e3015771": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1855-02-13",
+      "end_date": "1871-03-30",
+      "filename": "c340e3015771.json"
+    },
+    "550867d541f1": {
+      "county_id": "ncs_nash",
+      "name": "NASH",
+      "start_date": "1855-02-13",
+      "end_date": "1871-03-30",
+      "filename": "550867d541f1.json"
+    },
+    "ae052f5e58fd": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1855-01-20",
+      "end_date": "1861-02-14",
+      "filename": "ae052f5e58fd.json"
+    },
+    "21b1266791c4": {
+      "county_id": "ncs_wilson",
+      "name": "WILSON",
+      "start_date": "1855-02-13",
+      "end_date": "1883-03-11",
+      "filename": "21b1266791c4.json"
+    },
+    "4b2a13621484": {
+      "county_id": "ncs_wayne",
+      "name": "WAYNE",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "4b2a13621484.json"
+    },
+    "617256638746": {
+      "county_id": "ncs_burke",
+      "name": "BURKE",
+      "start_date": "1859-02-16",
+      "end_date": "2000-12-31",
+      "filename": "617256638746.json"
+    },
+    "264f59d408e8": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1859-02-01",
+      "end_date": "1877-02-28",
+      "filename": "264f59d408e8.json"
+    },
+    "d5f519324435": {
+      "county_id": "ncs_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1859-02-01",
+      "end_date": "1889-03-04",
+      "filename": "d5f519324435.json"
+    },
+    "94a315497b6f": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1859-02-16",
+      "end_date": "1861-02-15",
+      "filename": "94a315497b6f.json"
+    },
+    "2f87031d1a7a": {
+      "county_id": "ncs_lillington",
+      "name": "LILLINGTON (prop)",
+      "start_date": "1859-02-17",
+      "end_date": "1859-02-17",
+      "filename": "2f87031d1a7a.json"
+    },
+    "cdab44de97cb": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1861-05-01",
+      "end_date": "1911-02-22",
+      "filename": "cdab44de97cb.json"
+    },
+    "38fcbe23e8da": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1861-05-01",
+      "end_date": "1861-09-03",
+      "filename": "38fcbe23e8da.json"
+    },
+    "d9ad142396af": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1861-09-21",
+      "end_date": "1871-02-23",
+      "filename": "d9ad142396af.json"
+    },
+    "1d701ed2a348": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1861-09-04",
+      "end_date": "1866-02-23",
+      "filename": "1d701ed2a348.json"
+    },
+    "2d4c305b8695": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1861-09-04",
+      "end_date": "1866-02-23",
+      "filename": "2d4c305b8695.json"
+    },
+    "6868d9beb780": {
+      "county_id": "ncs_jackson",
+      "name": "JACKSON",
+      "start_date": "1861-09-21",
+      "end_date": "1863-01-18",
+      "filename": "6868d9beb780.json"
+    },
+    "755829ff859c": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1861-02-15",
+      "end_date": "1911-02-20",
+      "filename": "755829ff859c.json"
+    },
+    "eb68e2dcef69": {
+      "county_id": "ncs_watauga",
+      "name": "WATAUGA",
+      "start_date": "1861-02-16",
+      "end_date": "1911-02-22",
+      "filename": "eb68e2dcef69.json"
+    },
+    "08e60172dfdd": {
+      "county_id": "ncs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1861-02-20",
+      "end_date": "1872-01-29",
+      "filename": "08e60172dfdd.json"
+    },
+    "fd76c713c404": {
+      "county_id": "ncs_clay",
+      "name": "CLAY",
+      "start_date": "1861-02-20",
+      "end_date": "1872-02-01",
+      "filename": "fd76c713c404.json"
+    },
+    "a0e504a8ba9e": {
+      "county_id": "ncs_transylvania",
+      "name": "TRANSYLVANIA",
+      "start_date": "1861-02-15",
+      "end_date": "1863-01-18",
+      "filename": "a0e504a8ba9e.json"
+    },
+    "c908cac7542c": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1861-02-16",
+      "end_date": "1861-09-03",
+      "filename": "c908cac7542c.json"
+    },
+    "8e2ac0e438d1": {
+      "county_id": "ncs_jackson",
+      "name": "JACKSON",
+      "start_date": "1861-02-15",
+      "end_date": "1861-09-20",
+      "filename": "8e2ac0e438d1.json"
+    },
+    "42124f1134df": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1861-02-16",
+      "end_date": "1861-04-30",
+      "filename": "42124f1134df.json"
+    },
+    "3d9f3b7181f2": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1861-02-16",
+      "end_date": "1861-04-30",
+      "filename": "3d9f3b7181f2.json"
+    },
+    "90f8ae73dd17": {
+      "county_id": "ncs_transylvania",
+      "name": "TRANSYLVANIA",
+      "start_date": "1863-01-19",
+      "end_date": "2000-12-31",
+      "filename": "90f8ae73dd17.json"
+    },
+    "90db6238e090": {
+      "county_id": "ncs_jackson",
+      "name": "JACKSON",
+      "start_date": "1863-01-19",
+      "end_date": "1871-02-23",
+      "filename": "90db6238e090.json"
+    },
+    "a07a7f087c38": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1866-02-24",
+      "end_date": "1872-01-08",
+      "filename": "a07a7f087c38.json"
+    },
+    "4e1d51fbfc5a": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1866-02-24",
+      "end_date": "1872-01-08",
+      "filename": "4e1d51fbfc5a.json"
+    },
+    "aae65ec8be6c": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1872-05-02",
+      "end_date": "1883-03-11",
+      "filename": "aae65ec8be6c.json"
+    },
+    "c3157973bfc6": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1872-02-08",
+      "end_date": "1875-02-15",
+      "filename": "c3157973bfc6.json"
+    },
+    "44a4224dd5b3": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1872-05-02",
+      "end_date": "1874-03-04",
+      "filename": "44a4224dd5b3.json"
+    },
+    "dff0159c692c": {
+      "county_id": "ncs_pamlico",
+      "name": "PAMLICO",
+      "start_date": "1872-05-02",
+      "end_date": "1874-03-04",
+      "filename": "dff0159c692c.json"
+    },
+    "350e18c7b75e": {
+      "county_id": "ncs_yancey",
+      "name": "YANCEY",
+      "start_date": "1872-01-09",
+      "end_date": "2000-12-31",
+      "filename": "350e18c7b75e.json"
+    },
+    "3b8a7a57e36b": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1872-01-09",
+      "end_date": "1911-02-22",
+      "filename": "3b8a7a57e36b.json"
+    },
+    "7969e13aaf94": {
+      "county_id": "ncs_graham",
+      "name": "GRAHAM",
+      "start_date": "1872-01-30",
+      "end_date": "2000-12-31",
+      "filename": "7969e13aaf94.json"
+    },
+    "264eb22061b1": {
+      "county_id": "ncs_macon",
+      "name": "MACON",
+      "start_date": "1872-02-02",
+      "end_date": "2000-12-31",
+      "filename": "264eb22061b1.json"
+    },
+    "2dcfe373b91c": {
+      "county_id": "ncs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1872-01-30",
+      "end_date": "1891-03-06",
+      "filename": "2dcfe373b91c.json"
+    },
+    "dcda544ce977": {
+      "county_id": "ncs_clay",
+      "name": "CLAY",
+      "start_date": "1872-02-02",
+      "end_date": "1891-03-06",
+      "filename": "dcda544ce977.json"
+    },
+    "1810bad850ef": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1873-04-12",
+      "end_date": "1877-02-02",
+      "filename": "1810bad850ef.json"
+    },
+    "6024a69e9f23": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1873-04-12",
+      "end_date": "1874-04-01",
+      "filename": "6024a69e9f23.json"
+    },
+    "a26e1ca7fdbf": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1874-04-02",
+      "end_date": "1911-02-16",
+      "filename": "a26e1ca7fdbf.json"
+    },
+    "01a30cef32b5": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1874-04-02",
+      "end_date": "1883-03-06",
+      "filename": "01a30cef32b5.json"
+    },
+    "dff92ff98a11": {
+      "county_id": "ncs_pamlico",
+      "name": "PAMLICO",
+      "start_date": "1874-03-05",
+      "end_date": "1875-03-04",
+      "filename": "dff92ff98a11.json"
+    },
+    "58abbb7fc92a": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1874-03-05",
+      "end_date": "1875-03-04",
+      "filename": "58abbb7fc92a.json"
+    },
+    "6b0748e8146e": {
+      "county_id": "ncs_newhanover",
+      "name": "NEW HANOVER",
+      "start_date": "1875-02-16",
+      "end_date": "2000-12-31",
+      "filename": "6b0748e8146e.json"
+    },
+    "538a7db78266": {
+      "county_id": "ncs_pender",
+      "name": "PENDER",
+      "start_date": "1875-02-16",
+      "end_date": "2000-12-31",
+      "filename": "538a7db78266.json"
+    },
+    "84a0162a04f0": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1875-03-05",
+      "end_date": "1891-05-31",
+      "filename": "84a0162a04f0.json"
+    },
+    "cb094013920b": {
+      "county_id": "ncs_pamlico",
+      "name": "PAMLICO",
+      "start_date": "1875-03-05",
+      "end_date": "1891-05-31",
+      "filename": "cb094013920b.json"
+    },
+    "742dabd37f70": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1875-02-03",
+      "end_date": "1881-05-04",
+      "filename": "742dabd37f70.json"
+    },
+    "bf6a6f63c2bb": {
+      "county_id": "ncs_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1875-02-03",
+      "end_date": "1881-05-04",
+      "filename": "bf6a6f63c2bb.json"
+    },
+    "23a6f11a80d5": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1877-03-01",
+      "end_date": "1889-03-04",
+      "filename": "23a6f11a80d5.json"
+    },
+    "a84dc3b1f9e8": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1877-02-03",
+      "end_date": "1879-03-07",
+      "filename": "a84dc3b1f9e8.json"
+    },
+    "8b650c11df6c": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1877-02-03",
+      "end_date": "1879-03-07",
+      "filename": "8b650c11df6c.json"
+    },
+    "194f5e20296c": {
+      "county_id": "ncs_wilkes",
+      "name": "WILKES",
+      "start_date": "1877-03-01",
+      "end_date": "2000-12-31",
+      "filename": "194f5e20296c.json"
+    },
+    "e94e412e33fc": {
+      "county_id": "ncs_brunswick",
+      "name": "BRUNSWICK",
+      "start_date": "1879-03-08",
+      "end_date": "2000-12-31",
+      "filename": "e94e412e33fc.json"
+    },
+    "34baa677d4a3": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1879-03-08",
+      "end_date": "1883-03-06",
+      "filename": "34baa677d4a3.json"
+    },
+    "f6fcc80d765f": {
+      "county_id": "ncs_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1881-05-05",
+      "end_date": "2000-12-31",
+      "filename": "f6fcc80d765f.json"
+    },
+    "a7a641d16f9a": {
+      "county_id": "ncs_granville",
+      "name": "GRANVILLE",
+      "start_date": "1881-05-05",
+      "end_date": "2000-12-31",
+      "filename": "a7a641d16f9a.json"
+    },
+    "db3bcba3dcd7": {
+      "county_id": "ncs_orange",
+      "name": "ORANGE",
+      "start_date": "1881-04-14",
+      "end_date": "2000-12-31",
+      "filename": "db3bcba3dcd7.json"
+    },
+    "215c58badf3d": {
+      "county_id": "ncs_vance",
+      "name": "VANCE",
+      "start_date": "1881-05-05",
+      "end_date": "2000-12-31",
+      "filename": "215c58badf3d.json"
+    },
+    "9d8e26cab34b": {
+      "county_id": "ncs_warren",
+      "name": "WARREN",
+      "start_date": "1881-05-05",
+      "end_date": "2000-12-31",
+      "filename": "9d8e26cab34b.json"
+    },
+    "35ba5e59bf9b": {
+      "county_id": "ncs_durham",
+      "name": "DURHAM",
+      "start_date": "1881-04-14",
+      "end_date": "1911-02-26",
+      "filename": "35ba5e59bf9b.json"
+    },
+    "4be511ad45cc": {
+      "county_id": "ncs_wake",
+      "name": "WAKE",
+      "start_date": "1881-04-14",
+      "end_date": "1911-02-26",
+      "filename": "4be511ad45cc.json"
+    },
+    "01013b4a5c6e": {
+      "county_id": "ncs_bladen",
+      "name": "BLADEN",
+      "start_date": "1883-03-07",
+      "end_date": "2000-12-31",
+      "filename": "01013b4a5c6e.json"
+    },
+    "1ffb057102e3": {
+      "county_id": "ncs_columbus",
+      "name": "COLUMBUS",
+      "start_date": "1883-03-07",
+      "end_date": "2000-12-31",
+      "filename": "1ffb057102e3.json"
+    },
+    "954db3a550e9": {
+      "county_id": "ncs_edgecombe",
+      "name": "EDGECOMBE",
+      "start_date": "1883-03-12",
+      "end_date": "2000-12-31",
+      "filename": "954db3a550e9.json"
+    },
+    "c4e6deab7338": {
+      "county_id": "ncs_wilson",
+      "name": "WILSON",
+      "start_date": "1883-03-12",
+      "end_date": "2000-12-31",
+      "filename": "c4e6deab7338.json"
+    },
+    "03786dfd0fe7": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1883-03-12",
+      "end_date": "1885-02-17",
+      "filename": "03786dfd0fe7.json"
+    },
+    "6f9a2f1b1ecb": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1883-03-12",
+      "end_date": "1885-02-17",
+      "filename": "6f9a2f1b1ecb.json"
+    },
+    "3f07b4fe206a": {
+      "county_id": "ncs_carteret",
+      "name": "CARTERET",
+      "start_date": "1885-02-18",
+      "end_date": "2000-12-31",
+      "filename": "3f07b4fe206a.json"
+    },
+    "f82e72e24751": {
+      "county_id": "ncs_craven",
+      "name": "CRAVEN",
+      "start_date": "1885-02-18",
+      "end_date": "2000-12-31",
+      "filename": "f82e72e24751.json"
+    },
+    "cca7b7cdb623": {
+      "county_id": "ncs_davidson",
+      "name": "DAVIDSON",
+      "start_date": "1889-03-11",
+      "end_date": "1921-02-28",
+      "filename": "cca7b7cdb623.json"
+    },
+    "0319c35659a1": {
+      "county_id": "ncs_forsyth",
+      "name": "FORSYTH",
+      "start_date": "1889-03-11",
+      "end_date": "1911-03-03",
+      "filename": "0319c35659a1.json"
+    },
+    "4e329e316f55": {
+      "county_id": "ncs_ashe",
+      "name": "ASHE",
+      "start_date": "1889-03-05",
+      "end_date": "1899-02-14",
+      "filename": "4e329e316f55.json"
+    },
+    "b6f3cb8eaf1d": {
+      "county_id": "ncs_alleghany",
+      "name": "ALLEGHANY",
+      "start_date": "1889-03-05",
+      "end_date": "1899-02-14",
+      "filename": "b6f3cb8eaf1d.json"
+    },
+    "77fc8038ffbd": {
+      "county_id": "ncs_tyrrell",
+      "name": "TYRRELL",
+      "start_date": "1890-05-05",
+      "end_date": "2000-12-31",
+      "filename": "77fc8038ffbd.json"
+    },
+    "3834aa086ca4": {
+      "county_id": "ncs_hyde",
+      "name": "HYDE",
+      "start_date": "1890-05-05",
+      "end_date": "2000-12-31",
+      "filename": "3834aa086ca4.json"
+    },
+    "766bc694b6bb": {
+      "county_id": "ncs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1891-06-01",
+      "end_date": "2000-12-31",
+      "filename": "766bc694b6bb.json"
+    },
+    "2f624f5e56c9": {
+      "county_id": "ncs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1891-03-07",
+      "end_date": "2000-12-31",
+      "filename": "2f624f5e56c9.json"
+    },
+    "9bcfd5ec0d0d": {
+      "county_id": "ncs_clay",
+      "name": "CLAY",
+      "start_date": "1891-03-07",
+      "end_date": "2000-12-31",
+      "filename": "9bcfd5ec0d0d.json"
+    },
+    "4950ac010aea": {
+      "county_id": "ncs_pamlico",
+      "name": "PAMLICO",
+      "start_date": "1891-06-01",
+      "end_date": "2000-12-31",
+      "filename": "4950ac010aea.json"
+    },
+    "6eb849c0118c": {
+      "county_id": "ncs_moore",
+      "name": "MOORE",
+      "start_date": "1907-07-02",
+      "end_date": "1957-12-31",
+      "filename": "6eb849c0118c.json"
+    },
+    "3a2dc59ed8b4": {
+      "county_id": "ncs_harnett",
+      "name": "HARNETT",
+      "start_date": "1911-03-06",
+      "end_date": "2000-12-31",
+      "filename": "3a2dc59ed8b4.json"
+    },
+    "4189dc8bd36b": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1911-03-06",
+      "end_date": "2000-12-31",
+      "filename": "4189dc8bd36b.json"
+    },
+    "111bee7b133a": {
+      "county_id": "ncs_avery",
+      "name": "AVERY",
+      "start_date": "1911-02-23",
+      "end_date": "2000-12-31",
+      "filename": "111bee7b133a.json"
+    },
+    "420929fe3124": {
+      "county_id": "ncs_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1911-02-23",
+      "end_date": "2000-12-31",
+      "filename": "420929fe3124.json"
+    },
+    "d31638f425b0": {
+      "county_id": "ncs_durham",
+      "name": "DURHAM",
+      "start_date": "1911-02-27",
+      "end_date": "2000-12-31",
+      "filename": "d31638f425b0.json"
+    },
+    "613f69229e8b": {
+      "county_id": "ncs_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1911-02-23",
+      "end_date": "2000-12-31",
+      "filename": "613f69229e8b.json"
+    },
+    "d5f0ad045dae": {
+      "county_id": "ncs_polk",
+      "name": "POLK",
+      "start_date": "1911-02-21",
+      "end_date": "2000-12-31",
+      "filename": "d5f0ad045dae.json"
+    },
+    "cdba6d69d627": {
+      "county_id": "ncs_robeson",
+      "name": "ROBESON",
+      "start_date": "1911-02-17",
+      "end_date": "2000-12-31",
+      "filename": "cdba6d69d627.json"
+    },
+    "cc5872a4cf11": {
+      "county_id": "ncs_wake",
+      "name": "WAKE",
+      "start_date": "1911-02-27",
+      "end_date": "2000-12-31",
+      "filename": "cc5872a4cf11.json"
+    },
+    "469ede725185": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1911-02-21",
+      "end_date": "1959-06-17",
+      "filename": "469ede725185.json"
+    },
+    "fc97ee2bc99f": {
+      "county_id": "ncs_hoke",
+      "name": "HOKE",
+      "start_date": "1911-02-17",
+      "end_date": "1957-12-31",
+      "filename": "fc97ee2bc99f.json"
+    },
+    "16077565d2c3": {
+      "county_id": "ncs_yadkin",
+      "name": "YADKIN",
+      "start_date": "1911-03-04",
+      "end_date": "1927-03-06",
+      "filename": "16077565d2c3.json"
+    },
+    "321e0051040b": {
+      "county_id": "ncs_forsyth",
+      "name": "FORSYTH",
+      "start_date": "1911-03-04",
+      "end_date": "1921-02-28",
+      "filename": "321e0051040b.json"
+    },
+    "9f40637862a9": {
+      "county_id": "ncs_watauga",
+      "name": "WATAUGA",
+      "start_date": "1911-02-23",
+      "end_date": "2000-12-31",
+      "filename": "9f40637862a9.json"
+    },
+    "f824a77c3843": {
+      "county_id": "ncs_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1911-02-17",
+      "end_date": "1911-03-05",
+      "filename": "f824a77c3843.json"
+    },
+    "b4c5ebd9077e": {
+      "county_id": "ncs_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1916-12-04",
+      "end_date": "2000-12-31",
+      "filename": "b4c5ebd9077e.json"
+    },
+    "c227b80777b1": {
+      "county_id": "ncs_gaston",
+      "name": "GASTON",
+      "start_date": "1916-12-04",
+      "end_date": "2000-12-31",
+      "filename": "c227b80777b1.json"
+    },
+    "13b990843719": {
+      "county_id": "ncs_currituck",
+      "name": "CURRITUCK",
+      "start_date": "1919-03-07",
+      "end_date": "2000-12-31",
+      "filename": "13b990843719.json"
+    },
+    "1756c48ab97d": {
+      "county_id": "ncs_dare",
+      "name": "DARE",
+      "start_date": "1919-03-07",
+      "end_date": "2000-12-31",
+      "filename": "1756c48ab97d.json"
+    },
+    "898428d0f6fa": {
+      "county_id": "ncs_davidson",
+      "name": "DAVIDSON",
+      "start_date": "1921-03-01",
+      "end_date": "2000-12-31",
+      "filename": "898428d0f6fa.json"
+    },
+    "1dd44afec7b8": {
+      "county_id": "ncs_forsyth",
+      "name": "FORSYTH",
+      "start_date": "1921-03-01",
+      "end_date": "1927-03-06",
+      "filename": "1dd44afec7b8.json"
+    },
+    "1acb8d9bdfea": {
+      "county_id": "ncs_mcdowell",
+      "name": "MCDOWELL",
+      "start_date": "1925-03-06",
+      "end_date": "2000-12-31",
+      "filename": "1acb8d9bdfea.json"
+    },
+    "3dc976c4b60f": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1925-03-06",
+      "end_date": "1959-06-17",
+      "filename": "3dc976c4b60f.json"
+    },
+    "c087baa7b764": {
+      "county_id": "ncs_yadkin",
+      "name": "YADKIN",
+      "start_date": "1927-03-07",
+      "end_date": "2000-12-31",
+      "filename": "c087baa7b764.json"
+    },
+    "891526e149b7": {
+      "county_id": "ncs_forsyth",
+      "name": "FORSYTH",
+      "start_date": "1927-03-07",
+      "end_date": "2000-12-31",
+      "filename": "891526e149b7.json"
+    },
+    "f50aadad1ff0": {
+      "county_id": "ncs_lenoir",
+      "name": "LENOIR",
+      "start_date": "1931-02-09",
+      "end_date": "2000-12-31",
+      "filename": "f50aadad1ff0.json"
+    },
+    "93080ae929af": {
+      "county_id": "ncs_duplin",
+      "name": "DUPLIN",
+      "start_date": "1931-02-09",
+      "end_date": "2000-12-31",
+      "filename": "93080ae929af.json"
+    },
+    "698150b59ca9": {
+      "county_id": "ncs_moore",
+      "name": "MOORE",
+      "start_date": "1958-01-01",
+      "end_date": "2000-12-31",
+      "filename": "698150b59ca9.json"
+    },
+    "b0ad00ed1b27": {
+      "county_id": "ncs_hoke",
+      "name": "HOKE",
+      "start_date": "1958-01-01",
+      "end_date": "2000-12-31",
+      "filename": "b0ad00ed1b27.json"
+    },
+    "143b1c5f80bf": {
+      "county_id": "ncs_buncombe",
+      "name": "BUNCOMBE",
+      "start_date": "1959-06-18",
+      "end_date": "2000-12-31",
+      "filename": "143b1c5f80bf.json"
+    },
+    "526211743719": {
+      "county_id": "ncs_henderson",
+      "name": "HENDERSON",
+      "start_date": "1959-06-18",
+      "end_date": "2000-12-31",
+      "filename": "526211743719.json"
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "state": "RI",
+  "total_features": 36,
+  "features": {
+    "444cde8d7e4d": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1630-01-13",
+      "end_date": "1663-07-07",
+      "filename": "444cde8d7e4d.json"
+    },
+    "978205362ea0": {
+      "county_id": "mac_pawtuxet",
+      "name": "Pawtuxet Settlement",
+      "start_date": "1642-12-31",
+      "end_date": "1658-05-25",
+      "filename": "978205362ea0.json"
+    },
+    "8309f7049838": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK (Mass.)",
+      "start_date": "1643-05-10",
+      "end_date": "1663-07-07",
+      "filename": "8309f7049838.json"
+    },
+    "f82017031857": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1644-03-14",
+      "end_date": "1658-05-25",
+      "filename": "f82017031857.json"
+    },
+    "b21e53ebb5af": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1658-05-26",
+      "end_date": "1663-07-07",
+      "filename": "b21e53ebb5af.json"
+    },
+    "ecd627cde81a": {
+      "county_id": "ctc_colony",
+      "name": "Connecticut Colony",
+      "start_date": "1662-04-23",
+      "end_date": "1665-04-07",
+      "filename": "ecd627cde81a.json"
+    },
+    "1cbb1ac20739": {
+      "county_id": "ric_narragansett",
+      "name": "Narragansett Country",
+      "start_date": "1662-04-23",
+      "end_date": "1665-04-07",
+      "filename": "1cbb1ac20739.json"
+    },
+    "9c9fb56a1e92": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1663-07-08",
+      "end_date": "1664-05-30",
+      "filename": "9c9fb56a1e92.json"
+    },
+    "6a284f9c9104": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1663-07-08",
+      "end_date": "1664-05-30",
+      "filename": "6a284f9c9104.json"
+    },
+    "85647abb2ecf": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1664-05-31",
+      "end_date": "1665-02-26",
+      "filename": "85647abb2ecf.json"
+    },
+    "e535ec59acdd": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1664-05-31",
+      "end_date": "1665-02-26",
+      "filename": "e535ec59acdd.json"
+    },
+    "8ea7ba60e226": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1665-04-08",
+      "end_date": "1703-05-11",
+      "filename": "8ea7ba60e226.json"
+    },
+    "bbae9a34f7aa": {
+      "county_id": "ric_kingsprovince",
+      "name": "King's Province",
+      "start_date": "1665-04-08",
+      "end_date": "1703-05-11",
+      "filename": "bbae9a34f7aa.json"
+    },
+    "1a731d2f176c": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK (Mass.)",
+      "start_date": "1665-02-27",
+      "end_date": "1690-03-14",
+      "filename": "1a731d2f176c.json"
+    },
+    "604ce4f8929c": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1665-02-27",
+      "end_date": "1665-04-07",
+      "filename": "604ce4f8929c.json"
+    },
+    "e8805efce36c": {
+      "county_id": "mac_newplymouth",
+      "name": "New Plymouth Colony",
+      "start_date": "1665-02-27",
+      "end_date": "1685-06-01",
+      "filename": "e8805efce36c.json"
+    },
+    "4cd9780e2226": {
+      "county_id": "mas_bristol",
+      "name": "BRISTOL (Mass.)",
+      "start_date": "1685-06-02",
+      "end_date": "1747-02-16",
+      "filename": "4cd9780e2226.json"
+    },
+    "be6f6897a99c": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK (Mass.)",
+      "start_date": "1690-03-15",
+      "end_date": "1731-07-09",
+      "filename": "be6f6897a99c.json"
+    },
+    "1de4f10cc25e": {
+      "county_id": "ris_newport",
+      "name": "RHODE ISLAND",
+      "start_date": "1703-06-22",
+      "end_date": "1729-06-15",
+      "filename": "1de4f10cc25e.json"
+    },
+    "4624516ceacc": {
+      "county_id": "ris_providence",
+      "name": "PROVIDENCE PL.",
+      "start_date": "1703-06-22",
+      "end_date": "1729-06-15",
+      "filename": "4624516ceacc.json"
+    },
+    "5e1262bf1b78": {
+      "county_id": "ric_rhodeisland",
+      "name": "Rhode Island Colony",
+      "start_date": "1703-05-12",
+      "end_date": "1703-06-21",
+      "filename": "5e1262bf1b78.json"
+    },
+    "3b59cdbb6065": {
+      "county_id": "ris_washington",
+      "name": "KINGS",
+      "start_date": "1729-06-16",
+      "end_date": "1781-10-28",
+      "filename": "3b59cdbb6065.json"
+    },
+    "00450855930d": {
+      "county_id": "ris_providence",
+      "name": "PROVIDENCE",
+      "start_date": "1729-06-16",
+      "end_date": "1747-02-16",
+      "filename": "00450855930d.json"
+    },
+    "cc4c491e2599": {
+      "county_id": "ris_newport",
+      "name": "NEWPORT",
+      "start_date": "1729-06-16",
+      "end_date": "1747-02-16",
+      "filename": "cc4c491e2599.json"
+    },
+    "e52927948f5d": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK (Mass.)",
+      "start_date": "1731-07-10",
+      "end_date": "1747-02-16",
+      "filename": "e52927948f5d.json"
+    },
+    "0e6fae204be0": {
+      "county_id": "ris_bristol",
+      "name": "BRISTOL",
+      "start_date": "1747-02-17",
+      "end_date": "2000-12-31",
+      "filename": "0e6fae204be0.json"
+    },
+    "48af5daca8af": {
+      "county_id": "ris_newport",
+      "name": "NEWPORT",
+      "start_date": "1747-02-17",
+      "end_date": "1862-02-28",
+      "filename": "48af5daca8af.json"
+    },
+    "a77f5ebd6f7d": {
+      "county_id": "ris_providence",
+      "name": "PROVIDENCE",
+      "start_date": "1747-02-17",
+      "end_date": "1750-06-10",
+      "filename": "a77f5ebd6f7d.json"
+    },
+    "9aa64c26d84e": {
+      "county_id": "mas_bristol",
+      "name": "BRISTOL (Mass.)",
+      "start_date": "1747-02-17",
+      "end_date": "1862-02-28",
+      "filename": "9aa64c26d84e.json"
+    },
+    "30d88d4b7077": {
+      "county_id": "ris_kent",
+      "name": "KENT",
+      "start_date": "1750-06-11",
+      "end_date": "2000-12-31",
+      "filename": "30d88d4b7077.json"
+    },
+    "ab27d998f685": {
+      "county_id": "ris_providence",
+      "name": "PROVIDENCE",
+      "start_date": "1750-06-11",
+      "end_date": "1862-02-28",
+      "filename": "ab27d998f685.json"
+    },
+    "6e3119f99307": {
+      "county_id": "ris_washington",
+      "name": "WASHINGTON",
+      "start_date": "1781-10-29",
+      "end_date": "1963-05-05",
+      "filename": "6e3119f99307.json"
+    },
+    "2ae013a8943d": {
+      "county_id": "ris_providence",
+      "name": "PROVIDENCE",
+      "start_date": "1862-03-01",
+      "end_date": "2000-12-31",
+      "filename": "2ae013a8943d.json"
+    },
+    "14d536d71149": {
+      "county_id": "ris_newport",
+      "name": "NEWPORT",
+      "start_date": "1862-03-01",
+      "end_date": "1963-05-05",
+      "filename": "14d536d71149.json"
+    },
+    "7cf60e368207": {
+      "county_id": "ris_washington",
+      "name": "WASHINGTON",
+      "start_date": "1963-05-06",
+      "end_date": "2000-12-31",
+      "filename": "7cf60e368207.json"
+    },
+    "44359d8ab864": {
+      "county_id": "ris_newport",
+      "name": "NEWPORT",
+      "start_date": "1963-05-06",
+      "end_date": "2000-12-31",
+      "filename": "44359d8ab864.json"
+    }
+  }
+}

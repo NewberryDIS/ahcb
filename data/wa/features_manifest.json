@@ -1,0 +1,1812 @@
+{
+  "state": "WA",
+  "total_features": 258,
+  "features": {
+    "ccca3dbce0fa": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-26",
+      "filename": "ccca3dbce0fa.json"
+    },
+    "7c815b04184e": {
+      "county_id": "ors_washington",
+      "name": "TUALITY (Ore.)",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-25",
+      "filename": "7c815b04184e.json"
+    },
+    "5864dbd12ff0": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1844-06-27",
+      "end_date": "1845-12-18",
+      "filename": "5864dbd12ff0.json"
+    },
+    "b3e4b3d35033": {
+      "county_id": "ort_part",
+      "name": "Oregon Country",
+      "start_date": "1844-06-27",
+      "end_date": "1845-08-19",
+      "filename": "b3e4b3d35033.json"
+    },
+    "da4281c3fd48": {
+      "county_id": "ors_washington",
+      "name": "TUALITY (Ore.)",
+      "start_date": "1844-06-26",
+      "end_date": "1844-06-26",
+      "filename": "da4281c3fd48.json"
+    },
+    "a425164733ec": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1845-12-21",
+      "end_date": "1846-06-14",
+      "filename": "a425164733ec.json"
+    },
+    "d994af35af81": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1845-12-21",
+      "end_date": "1846-06-14",
+      "filename": "d994af35af81.json"
+    },
+    "4a850c1df190": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1845-08-20",
+      "end_date": "1845-12-20",
+      "filename": "4a850c1df190.json"
+    },
+    "dfe36ab6f192": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1845-12-19",
+      "end_date": "1846-06-14",
+      "filename": "dfe36ab6f192.json"
+    },
+    "68cd38bef28a": {
+      "county_id": "wat_disputed",
+      "name": "Disputed Area",
+      "start_date": "1846-06-15",
+      "end_date": "1872-10-20",
+      "filename": "68cd38bef28a.json"
+    },
+    "8c158ac5ec24": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1846-06-15",
+      "end_date": "1853-03-01",
+      "filename": "8c158ac5ec24.json"
+    },
+    "fe3a3d0cc98a": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1846-06-15",
+      "end_date": "1851-02-02",
+      "filename": "fe3a3d0cc98a.json"
+    },
+    "517d3e546f42": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1846-06-15",
+      "end_date": "1849-09-02",
+      "filename": "517d3e546f42.json"
+    },
+    "0f24d9b92356": {
+      "county_id": "was_clark",
+      "name": "CLARK",
+      "start_date": "1849-09-03",
+      "end_date": "1852-01-11",
+      "filename": "0f24d9b92356.json"
+    },
+    "2afc61f4ace2": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1851-02-03",
+      "end_date": "1854-04-13",
+      "filename": "2afc61f4ace2.json"
+    },
+    "fc1c2c7ad4ce": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1851-02-03",
+      "end_date": "1852-01-11",
+      "filename": "fc1c2c7ad4ce.json"
+    },
+    "3771271a29eb": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1852-01-17",
+      "end_date": "1853-01-31",
+      "filename": "3771271a29eb.json"
+    },
+    "e84543759f9c": {
+      "county_id": "was_clark",
+      "name": "CLARK",
+      "start_date": "1852-01-17",
+      "end_date": "1853-01-31",
+      "filename": "e84543759f9c.json"
+    },
+    "0f68df65df4a": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1852-12-22",
+      "end_date": "1854-03-12",
+      "filename": "0f68df65df4a.json"
+    },
+    "a42de598ed42": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1852-01-12",
+      "end_date": "1852-01-16",
+      "filename": "a42de598ed42.json"
+    },
+    "0b6f01fc7f17": {
+      "county_id": "was_clark",
+      "name": "CLARK",
+      "start_date": "1852-01-12",
+      "end_date": "1852-01-16",
+      "filename": "0b6f01fc7f17.json"
+    },
+    "b57c111a3ac4": {
+      "county_id": "was_nca1",
+      "name": "NCA 1",
+      "start_date": "1853-03-02",
+      "end_date": "1854-03-08",
+      "filename": "b57c111a3ac4.json"
+    },
+    "7a09c9941b9c": {
+      "county_id": "was_clark",
+      "name": "CLARK",
+      "start_date": "1853-02-01",
+      "end_date": "1854-03-08",
+      "filename": "7a09c9941b9c.json"
+    },
+    "74411de4e2e4": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1854-04-14",
+      "end_date": "1860-01-12",
+      "filename": "74411de4e2e4.json"
+    },
+    "8bde7a44f18d": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1854-04-14",
+      "end_date": "1860-01-12",
+      "filename": "8bde7a44f18d.json"
+    },
+    "d78ad3eddc4f": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1854-04-21",
+      "end_date": "1854-04-24",
+      "filename": "d78ad3eddc4f.json"
+    },
+    "e69ab4ed82be": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1854-04-25",
+      "end_date": "1859-12-19",
+      "filename": "e69ab4ed82be.json"
+    },
+    "2c5c139027d0": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1854-04-26",
+      "end_date": "1858-01-31",
+      "filename": "2c5c139027d0.json"
+    },
+    "111edc418208": {
+      "county_id": "was_clallam",
+      "name": "CLALLAM",
+      "start_date": "1854-04-26",
+      "end_date": "1858-01-31",
+      "filename": "111edc418208.json"
+    },
+    "f15e90d31e52": {
+      "county_id": "was_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1854-04-25",
+      "end_date": "1858-01-13",
+      "filename": "f15e90d31e52.json"
+    },
+    "dd79457ca33e": {
+      "county_id": "was_nca1",
+      "name": "NCA 1",
+      "start_date": "1854-04-25",
+      "end_date": "1861-01-30",
+      "filename": "dd79457ca33e.json"
+    },
+    "da23fd1b5e2d": {
+      "county_id": "was_wahkiakum",
+      "name": "WAHKIAKUM",
+      "start_date": "1854-04-25",
+      "end_date": "1855-01-25",
+      "filename": "da23fd1b5e2d.json"
+    },
+    "eb9265d2ba02": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1854-04-25",
+      "end_date": "1855-01-25",
+      "filename": "eb9265d2ba02.json"
+    },
+    "c958787a78a0": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1854-04-25",
+      "end_date": "1858-01-13",
+      "filename": "c958787a78a0.json"
+    },
+    "1ea3ec25dc54": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1854-03-09",
+      "end_date": "1855-01-22",
+      "filename": "1ea3ec25dc54.json"
+    },
+    "dbf74b61b5ce": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1854-03-09",
+      "end_date": "1854-04-24",
+      "filename": "dbf74b61b5ce.json"
+    },
+    "10eb0b5adcfd": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1854-03-13",
+      "end_date": "1854-04-25",
+      "filename": "10eb0b5adcfd.json"
+    },
+    "c04c755cfb8f": {
+      "county_id": "was_nca1",
+      "name": "NCA 1",
+      "start_date": "1854-03-09",
+      "end_date": "1854-04-24",
+      "filename": "c04c755cfb8f.json"
+    },
+    "0af48cb77388": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1855-01-26",
+      "end_date": "1867-01-30",
+      "filename": "0af48cb77388.json"
+    },
+    "5840ef63c1d4": {
+      "county_id": "was_wahkiakum",
+      "name": "WAHKIAKUM",
+      "start_date": "1855-01-26",
+      "end_date": "1867-01-30",
+      "filename": "5840ef63c1d4.json"
+    },
+    "fc6cf3cfa18a": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1855-01-23",
+      "end_date": "1865-01-13",
+      "filename": "fc6cf3cfa18a.json"
+    },
+    "312143418d2b": {
+      "county_id": "was_clallam",
+      "name": "CLALLAM",
+      "start_date": "1858-02-01",
+      "end_date": "1868-01-28",
+      "filename": "312143418d2b.json"
+    },
+    "66c7583ae53e": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1858-01-29",
+      "end_date": "1859-12-19",
+      "filename": "66c7583ae53e.json"
+    },
+    "dc07afe122fc": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1858-02-01",
+      "end_date": "1867-01-30",
+      "filename": "dc07afe122fc.json"
+    },
+    "2b0d68ee6cf9": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1858-01-29",
+      "end_date": "1860-12-13",
+      "filename": "2b0d68ee6cf9.json"
+    },
+    "42f03574362d": {
+      "county_id": "was_whatcom",
+      "name": "WHATCOM",
+      "start_date": "1858-01-14",
+      "end_date": "1867-01-30",
+      "filename": "42f03574362d.json"
+    },
+    "8a720e29ea60": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1858-01-14",
+      "end_date": "1858-01-28",
+      "filename": "8a720e29ea60.json"
+    },
+    "64e53161c2da": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1859-12-20",
+      "end_date": "1861-01-30",
+      "filename": "64e53161c2da.json"
+    },
+    "049b4f4fb1aa": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1859-12-20",
+      "end_date": "1861-01-30",
+      "filename": "049b4f4fb1aa.json"
+    },
+    "d9592a2c41be": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1859-12-20",
+      "end_date": "1861-01-30",
+      "filename": "d9592a2c41be.json"
+    },
+    "a9c74c5f702e": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1859-01-29",
+      "end_date": "1861-01-25",
+      "filename": "a9c74c5f702e.json"
+    },
+    "d197571a7a4c": {
+      "county_id": "was_nca2",
+      "name": "NCA 2",
+      "start_date": "1859-02-14",
+      "end_date": "1861-01-08",
+      "filename": "d197571a7a4c.json"
+    },
+    "9b5be9b599cd": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1860-01-25",
+      "end_date": "1864-01-29",
+      "filename": "9b5be9b599cd.json"
+    },
+    "c66844250ecd": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1860-12-14",
+      "end_date": "1861-01-08",
+      "filename": "c66844250ecd.json"
+    },
+    "bc27f066fcf8": {
+      "county_id": "mts_missoula",
+      "name": "MISSOULA (Mont.)",
+      "start_date": "1860-12-14",
+      "end_date": "1861-12-19",
+      "filename": "bc27f066fcf8.json"
+    },
+    "6cbef1a05ed7": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1860-01-13",
+      "end_date": "1867-01-30",
+      "filename": "6cbef1a05ed7.json"
+    },
+    "d02a00e19ec7": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1860-01-13",
+      "end_date": "1860-01-24",
+      "filename": "d02a00e19ec7.json"
+    },
+    "42699d3a0c8c": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-20",
+      "filename": "42699d3a0c8c.json"
+    },
+    "b166cda925e5": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE (Idaho)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-03-02",
+      "filename": "b166cda925e5.json"
+    },
+    "2a21bd836c8e": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE (Idaho)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-20",
+      "filename": "2a21bd836c8e.json"
+    },
+    "e3ca7923763b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO (Idaho)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-11",
+      "filename": "e3ca7923763b.json"
+    },
+    "43bbb732c6c2": {
+      "county_id": "mts_missoula",
+      "name": "MISSOULA (Mont.)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-03-02",
+      "filename": "43bbb732c6c2.json"
+    },
+    "eaa4d10a1289": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1861-01-26",
+      "end_date": "1865-01-04",
+      "filename": "eaa4d10a1289.json"
+    },
+    "23a9bfe4709d": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1861-01-26",
+      "end_date": "1865-01-04",
+      "filename": "23a9bfe4709d.json"
+    },
+    "e9fda1c2972d": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1861-01-31",
+      "end_date": "1863-01-22",
+      "filename": "e9fda1c2972d.json"
+    },
+    "0112e7e3a28d": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1861-01-31",
+      "end_date": "1863-01-22",
+      "filename": "0112e7e3a28d.json"
+    },
+    "0449e9caff39": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1861-01-31",
+      "end_date": "1863-01-19",
+      "filename": "0449e9caff39.json"
+    },
+    "09f3a91195fb": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE (Idaho)",
+      "start_date": "1861-03-02",
+      "end_date": "1861-12-19",
+      "filename": "09f3a91195fb.json"
+    },
+    "78b4c4dce863": {
+      "county_id": "was_snohomish",
+      "name": "SNOHOMISH",
+      "start_date": "1861-01-14",
+      "end_date": "2000-12-31",
+      "filename": "78b4c4dce863.json"
+    },
+    "c77700c6ebe3": {
+      "county_id": "was_island",
+      "name": "ISLAND",
+      "start_date": "1861-01-14",
+      "end_date": "1867-01-30",
+      "filename": "c77700c6ebe3.json"
+    },
+    "e94e312062c1": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1861-01-14",
+      "end_date": "1866-01-08",
+      "filename": "e94e312062c1.json"
+    },
+    "03e67c6a4419": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1861-01-09",
+      "end_date": "1861-12-19",
+      "filename": "03e67c6a4419.json"
+    },
+    "72edf74983b5": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE (Idaho)",
+      "start_date": "1861-01-09",
+      "end_date": "1861-03-01",
+      "filename": "72edf74983b5.json"
+    },
+    "02b8bfa63676": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1863-01-28",
+      "end_date": "1867-01-30",
+      "filename": "02b8bfa63676.json"
+    },
+    "46da27ab346d": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1863-01-23",
+      "end_date": "1865-01-13",
+      "filename": "46da27ab346d.json"
+    },
+    "82789b8c9ddb": {
+      "county_id": "was_ferguson",
+      "name": "FERGUSON (ext)",
+      "start_date": "1863-01-23",
+      "end_date": "1865-01-17",
+      "filename": "82789b8c9ddb.json"
+    },
+    "a93ff1b33eb0": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1863-01-23",
+      "end_date": "1865-01-13",
+      "filename": "a93ff1b33eb0.json"
+    },
+    "8c25146cc201": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1863-01-23",
+      "end_date": "1865-01-17",
+      "filename": "8c25146cc201.json"
+    },
+    "4821044c8f17": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1863-01-28",
+      "end_date": "1864-01-07",
+      "filename": "4821044c8f17.json"
+    },
+    "dafb3f1572fd": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1863-03-03",
+      "end_date": "1864-01-18",
+      "filename": "dafb3f1572fd.json"
+    },
+    "e27f85a11307": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1863-01-20",
+      "end_date": "1863-01-22",
+      "filename": "e27f85a11307.json"
+    },
+    "87b0c2467b66": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1863-01-20",
+      "end_date": "1864-01-18",
+      "filename": "87b0c2467b66.json"
+    },
+    "04c8d8204bab": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (orig)",
+      "start_date": "1863-01-21",
+      "end_date": "1863-03-02",
+      "filename": "04c8d8204bab.json"
+    },
+    "abe944fdfd3b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO (Idaho)",
+      "start_date": "1863-01-12",
+      "end_date": "1863-03-02",
+      "filename": "abe944fdfd3b.json"
+    },
+    "fec82c608bb9": {
+      "county_id": "ids_boise",
+      "name": "BOISE (Idaho)",
+      "start_date": "1863-01-12",
+      "end_date": "1863-03-02",
+      "filename": "fec82c608bb9.json"
+    },
+    "07f21698c9ca": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE (Idaho)",
+      "start_date": "1863-01-21",
+      "end_date": "1863-03-02",
+      "filename": "07f21698c9ca.json"
+    },
+    "601d97084e88": {
+      "county_id": "was_mason",
+      "name": "MASON",
+      "start_date": "1864-01-30",
+      "end_date": "1867-01-30",
+      "filename": "601d97084e88.json"
+    },
+    "6daf03448fb7": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1864-01-30",
+      "end_date": "1867-01-30",
+      "filename": "6daf03448fb7.json"
+    },
+    "8dc194948bc0": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1864-01-19",
+      "end_date": "1865-01-20",
+      "filename": "8dc194948bc0.json"
+    },
+    "3d75c76e609c": {
+      "county_id": "was_mason",
+      "name": "MASON",
+      "start_date": "1864-01-08",
+      "end_date": "1864-01-29",
+      "filename": "3d75c76e609c.json"
+    },
+    "9f260ff7d425": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1865-01-18",
+      "end_date": "1865-01-20",
+      "filename": "9f260ff7d425.json"
+    },
+    "c9d1f5703715": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1865-01-18",
+      "end_date": "1865-01-20",
+      "filename": "c9d1f5703715.json"
+    },
+    "3bd990d789b3": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1865-01-21",
+      "end_date": "1867-01-30",
+      "filename": "3bd990d789b3.json"
+    },
+    "ad7492711629": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1865-01-21",
+      "end_date": "1867-01-30",
+      "filename": "ad7492711629.json"
+    },
+    "000e5d49c428": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1865-01-21",
+      "end_date": "1867-01-30",
+      "filename": "000e5d49c428.json"
+    },
+    "911de34dad65": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1865-01-21",
+      "end_date": "1867-01-27",
+      "filename": "911de34dad65.json"
+    },
+    "e6fe7a37541a": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1865-01-05",
+      "end_date": "1867-01-30",
+      "filename": "e6fe7a37541a.json"
+    },
+    "a42524c0b16e": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1865-01-14",
+      "end_date": "1867-01-27",
+      "filename": "a42524c0b16e.json"
+    },
+    "7d25743ab095": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1865-01-05",
+      "end_date": "1866-01-08",
+      "filename": "7d25743ab095.json"
+    },
+    "1c052433b4bc": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1865-01-14",
+      "end_date": "1865-01-17",
+      "filename": "1c052433b4bc.json"
+    },
+    "347bb16c3fa1": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1866-01-09",
+      "end_date": "1901-03-11",
+      "filename": "347bb16c3fa1.json"
+    },
+    "f6b48caeb1bc": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1866-01-09",
+      "end_date": "1867-01-30",
+      "filename": "f6b48caeb1bc.json"
+    },
+    "8e157bb50793": {
+      "county_id": "was_island",
+      "name": "ISLAND",
+      "start_date": "1867-01-31",
+      "end_date": "2000-12-31",
+      "filename": "8e157bb50793.json"
+    },
+    "41e13a487200": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1867-01-31",
+      "end_date": "1901-03-11",
+      "filename": "41e13a487200.json"
+    },
+    "659bfc1bd8d3": {
+      "county_id": "was_whatcom",
+      "name": "WHATCOM",
+      "start_date": "1867-01-31",
+      "end_date": "1873-10-30",
+      "filename": "659bfc1bd8d3.json"
+    },
+    "51fb3d2e234a": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1867-01-31",
+      "end_date": "1873-11-13",
+      "filename": "51fb3d2e234a.json"
+    },
+    "4e2d9b447542": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1867-01-31",
+      "end_date": "1873-11-09",
+      "filename": "4e2d9b447542.json"
+    },
+    "1ac63655bbbc": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1867-01-31",
+      "end_date": "1872-01-01",
+      "filename": "1ac63655bbbc.json"
+    },
+    "78155c7d8bbe": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1867-01-31",
+      "end_date": "1871-11-28",
+      "filename": "78155c7d8bbe.json"
+    },
+    "0f27224453c0": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1867-01-31",
+      "end_date": "1871-11-28",
+      "filename": "0f27224453c0.json"
+    },
+    "5794bf9664e8": {
+      "county_id": "was_wahkiakum",
+      "name": "WAHKIAKUM",
+      "start_date": "1867-01-31",
+      "end_date": "1869-12-01",
+      "filename": "5794bf9664e8.json"
+    },
+    "b5cbc5d750b8": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1867-01-31",
+      "end_date": "1869-12-01",
+      "filename": "b5cbc5d750b8.json"
+    },
+    "6a289e8b1baa": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1867-01-31",
+      "end_date": "1869-12-01",
+      "filename": "6a289e8b1baa.json"
+    },
+    "7d671debafdd": {
+      "county_id": "was_mason",
+      "name": "MASON",
+      "start_date": "1867-01-31",
+      "end_date": "1869-12-01",
+      "filename": "7d671debafdd.json"
+    },
+    "2bbde63b86d6": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-28",
+      "filename": "2bbde63b86d6.json"
+    },
+    "c7fdff2c5f45": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "c7fdff2c5f45.json"
+    },
+    "2e0d0f0a2933": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "2e0d0f0a2933.json"
+    },
+    "2eb1c75c5f8d": {
+      "county_id": "was_nca3",
+      "name": "NCA 3",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "2eb1c75c5f8d.json"
+    },
+    "4fc02bd73fd5": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "4fc02bd73fd5.json"
+    },
+    "05d1bdac66f9": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "05d1bdac66f9.json"
+    },
+    "9d9613f55a42": {
+      "county_id": "was_nca4",
+      "name": "NCA 4",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "9d9613f55a42.json"
+    },
+    "5b6f49de1e08": {
+      "county_id": "was_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1867-01-31",
+      "end_date": "1868-01-17",
+      "filename": "5b6f49de1e08.json"
+    },
+    "028b17113418": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1867-01-28",
+      "end_date": "1867-01-30",
+      "filename": "028b17113418.json"
+    },
+    "01a9e6041904": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1867-01-28",
+      "end_date": "1867-01-30",
+      "filename": "01a9e6041904.json"
+    },
+    "9f5f0099ffe4": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1867-01-28",
+      "end_date": "1867-01-30",
+      "filename": "9f5f0099ffe4.json"
+    },
+    "ab8027db1651": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1868-01-18",
+      "end_date": "1875-11-10",
+      "filename": "ab8027db1651.json"
+    },
+    "b039b808fe06": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1868-01-18",
+      "end_date": "1869-12-01",
+      "filename": "b039b808fe06.json"
+    },
+    "32e0a4c093b6": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1868-01-18",
+      "end_date": "1869-12-01",
+      "filename": "32e0a4c093b6.json"
+    },
+    "52fe4c8360f4": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1868-01-18",
+      "end_date": "1869-12-01",
+      "filename": "52fe4c8360f4.json"
+    },
+    "06b86f68161b": {
+      "county_id": "was_clallam",
+      "name": "CLALLAM",
+      "start_date": "1868-01-29",
+      "end_date": "1869-12-01",
+      "filename": "06b86f68161b.json"
+    },
+    "3258f897bdf4": {
+      "county_id": "wat_quillehuyte",
+      "name": "QUILLEHUYTE (ext)",
+      "start_date": "1868-01-29",
+      "end_date": "1869-12-01",
+      "filename": "3258f897bdf4.json"
+    },
+    "dffd3e807f09": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1868-01-29",
+      "end_date": "1869-12-01",
+      "filename": "dffd3e807f09.json"
+    },
+    "bfa39c5962c7": {
+      "county_id": "was_clallam",
+      "name": "CLALLAM",
+      "start_date": "1869-12-02",
+      "end_date": "2000-12-31",
+      "filename": "bfa39c5962c7.json"
+    },
+    "be7538560c45": {
+      "county_id": "was_wahkiakum",
+      "name": "WAHKIAKUM",
+      "start_date": "1869-12-02",
+      "end_date": "1879-11-12",
+      "filename": "be7538560c45.json"
+    },
+    "cd2bdec565f3": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1869-12-02",
+      "end_date": "1879-11-12",
+      "filename": "cd2bdec565f3.json"
+    },
+    "611f74b14f91": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1869-12-02",
+      "end_date": "1879-11-12",
+      "filename": "611f74b14f91.json"
+    },
+    "407292ee87ec": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1869-12-02",
+      "end_date": "1877-11-08",
+      "filename": "407292ee87ec.json"
+    },
+    "2b657cdd3e6c": {
+      "county_id": "was_mason",
+      "name": "MASON",
+      "start_date": "1869-12-02",
+      "end_date": "1877-11-08",
+      "filename": "2b657cdd3e6c.json"
+    },
+    "fefa2868c33f": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1869-12-02",
+      "end_date": "1873-11-13",
+      "filename": "fefa2868c33f.json"
+    },
+    "eee15d2c7b7e": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1869-12-02",
+      "end_date": "1873-11-13",
+      "filename": "eee15d2c7b7e.json"
+    },
+    "c797ca0a38ec": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1869-12-02",
+      "end_date": "1877-11-08",
+      "filename": "c797ca0a38ec.json"
+    },
+    "4bd403244101": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1871-11-29",
+      "end_date": "1873-11-13",
+      "filename": "4bd403244101.json"
+    },
+    "4d014ab3d9af": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1871-11-29",
+      "end_date": "1873-11-13",
+      "filename": "4d014ab3d9af.json"
+    },
+    "f8cc3222ebc9": {
+      "county_id": "was_whitman",
+      "name": "WHITMAN",
+      "start_date": "1872-01-02",
+      "end_date": "1875-11-11",
+      "filename": "f8cc3222ebc9.json"
+    },
+    "c01dd7a62927": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1872-01-02",
+      "end_date": "1875-11-11",
+      "filename": "c01dd7a62927.json"
+    },
+    "8e4dc276bafd": {
+      "county_id": "was_clark",
+      "name": "CLARKE",
+      "start_date": "1873-11-14",
+      "end_date": "1925-12-22",
+      "filename": "8e4dc276bafd.json"
+    },
+    "b81d025e0254": {
+      "county_id": "was_cowlitz",
+      "name": "COWLITZ",
+      "start_date": "1873-11-14",
+      "end_date": "2000-12-31",
+      "filename": "b81d025e0254.json"
+    },
+    "ebc0fd6c5055": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1873-11-14",
+      "end_date": "1881-11-28",
+      "filename": "ebc0fd6c5055.json"
+    },
+    "01f95345d07c": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1873-11-14",
+      "end_date": "1879-11-12",
+      "filename": "01f95345d07c.json"
+    },
+    "c81aecaba3b1": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1873-11-14",
+      "end_date": "1879-11-12",
+      "filename": "c81aecaba3b1.json"
+    },
+    "141672b8a6a6": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1873-11-14",
+      "end_date": "1877-11-08",
+      "filename": "141672b8a6a6.json"
+    },
+    "e270c46963bf": {
+      "county_id": "was_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1873-10-31",
+      "end_date": "2000-12-31",
+      "filename": "e270c46963bf.json"
+    },
+    "9fda2de1c036": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1873-11-10",
+      "end_date": "2000-12-31",
+      "filename": "9fda2de1c036.json"
+    },
+    "2f2f97774c85": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1873-11-10",
+      "end_date": "1873-11-13",
+      "filename": "2f2f97774c85.json"
+    },
+    "c56cec9ae8f0": {
+      "county_id": "was_whatcom",
+      "name": "WHATCOM",
+      "start_date": "1873-10-31",
+      "end_date": "1883-11-27",
+      "filename": "c56cec9ae8f0.json"
+    },
+    "a21368e43ad7": {
+      "county_id": "was_whitman",
+      "name": "WHITMAN",
+      "start_date": "1875-11-12",
+      "end_date": "1883-11-27",
+      "filename": "a21368e43ad7.json"
+    },
+    "1cd0724c3e1d": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1875-11-12",
+      "end_date": "1879-10-29",
+      "filename": "1cd0724c3e1d.json"
+    },
+    "ce792908cfbb": {
+      "county_id": "was_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1875-11-11",
+      "end_date": "1879-11-12",
+      "filename": "ce792908cfbb.json"
+    },
+    "ac412abfb08c": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1875-11-11",
+      "end_date": "1879-11-12",
+      "filename": "ac412abfb08c.json"
+    },
+    "62015c827c72": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1877-11-09",
+      "end_date": "2000-12-31",
+      "filename": "62015c827c72.json"
+    },
+    "b20bdb1abea3": {
+      "county_id": "was_mason",
+      "name": "MASON",
+      "start_date": "1877-11-09",
+      "end_date": "2000-12-31",
+      "filename": "b20bdb1abea3.json"
+    },
+    "2e362362f992": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1877-11-09",
+      "end_date": "1905-09-18",
+      "filename": "2e362362f992.json"
+    },
+    "f6d9e056da13": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1877-11-09",
+      "end_date": "1879-11-12",
+      "filename": "f6d9e056da13.json"
+    },
+    "ac29fdf5f0b1": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC",
+      "start_date": "1879-11-13",
+      "end_date": "2000-12-31",
+      "filename": "ac29fdf5f0b1.json"
+    },
+    "8050d280f8a9": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA",
+      "start_date": "1879-11-13",
+      "end_date": "2000-12-31",
+      "filename": "8050d280f8a9.json"
+    },
+    "c6d334ad7d5a": {
+      "county_id": "was_wahkiakum",
+      "name": "WAHKIAKUM",
+      "start_date": "1879-11-13",
+      "end_date": "2000-12-31",
+      "filename": "c6d334ad7d5a.json"
+    },
+    "c79dbe8f6140": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1879-11-13",
+      "end_date": "1888-01-30",
+      "filename": "c79dbe8f6140.json"
+    },
+    "d36083a85400": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1879-10-30",
+      "end_date": "1888-02-01",
+      "filename": "d36083a85400.json"
+    },
+    "76df9b421799": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1879-11-13",
+      "end_date": "1888-01-30",
+      "filename": "76df9b421799.json"
+    },
+    "0fc1b5196098": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1879-11-13",
+      "end_date": "1883-11-23",
+      "filename": "0fc1b5196098.json"
+    },
+    "0ac797d99810": {
+      "county_id": "was_spokane",
+      "name": "SPOKANE",
+      "start_date": "1879-10-30",
+      "end_date": "1883-11-23",
+      "filename": "0ac797d99810.json"
+    },
+    "d71782d5006d": {
+      "county_id": "was_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1879-11-13",
+      "end_date": "1881-11-28",
+      "filename": "d71782d5006d.json"
+    },
+    "ac1ba5406441": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1879-11-13",
+      "end_date": "1881-11-28",
+      "filename": "ac1ba5406441.json"
+    },
+    "232cc280e12a": {
+      "county_id": "was_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1881-11-29",
+      "end_date": "2000-12-31",
+      "filename": "232cc280e12a.json"
+    },
+    "7142e7cd8169": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA",
+      "start_date": "1881-11-29",
+      "end_date": "2000-12-31",
+      "filename": "7142e7cd8169.json"
+    },
+    "4c2ac148b74c": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1881-11-29",
+      "end_date": "1905-03-07",
+      "filename": "4c2ac148b74c.json"
+    },
+    "183744fa405d": {
+      "county_id": "was_garfield",
+      "name": "GARFIELD",
+      "start_date": "1881-11-29",
+      "end_date": "1883-10-26",
+      "filename": "183744fa405d.json"
+    },
+    "afead2e77223": {
+      "county_id": "was_adams",
+      "name": "ADAMS",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "afead2e77223.json"
+    },
+    "6d5a7d062dee": {
+      "county_id": "was_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "6d5a7d062dee.json"
+    },
+    "1f0a7f674049": {
+      "county_id": "was_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "1f0a7f674049.json"
+    },
+    "4b219144592e": {
+      "county_id": "was_skagit",
+      "name": "SKAGIT",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "4b219144592e.json"
+    },
+    "6c08aa4bc643": {
+      "county_id": "was_whatcom",
+      "name": "WHATCOM",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "6c08aa4bc643.json"
+    },
+    "93ff78fef04e": {
+      "county_id": "was_whitman",
+      "name": "WHITMAN",
+      "start_date": "1883-11-28",
+      "end_date": "2000-12-31",
+      "filename": "93ff78fef04e.json"
+    },
+    "cb394b4b9813": {
+      "county_id": "was_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1883-11-28",
+      "end_date": "1909-02-23",
+      "filename": "cb394b4b9813.json"
+    },
+    "63e72c2c05d7": {
+      "county_id": "was_asotin",
+      "name": "ASOTIN",
+      "start_date": "1883-10-27",
+      "end_date": "2000-12-31",
+      "filename": "63e72c2c05d7.json"
+    },
+    "4f66b49b51ef": {
+      "county_id": "was_spokane",
+      "name": "SPOKANE",
+      "start_date": "1883-11-24",
+      "end_date": "2000-12-31",
+      "filename": "4f66b49b51ef.json"
+    },
+    "19e7a2cb687c": {
+      "county_id": "was_garfield",
+      "name": "GARFIELD",
+      "start_date": "1883-10-27",
+      "end_date": "2000-12-31",
+      "filename": "19e7a2cb687c.json"
+    },
+    "caf68aa1cd7b": {
+      "county_id": "was_kittitas",
+      "name": "KITTITAS",
+      "start_date": "1883-11-24",
+      "end_date": "1886-02-03",
+      "filename": "caf68aa1cd7b.json"
+    },
+    "fb88ea482c33": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1883-11-24",
+      "end_date": "1886-02-03",
+      "filename": "fb88ea482c33.json"
+    },
+    "d36aa9e3969b": {
+      "county_id": "was_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1883-11-24",
+      "end_date": "1883-11-27",
+      "filename": "d36aa9e3969b.json"
+    },
+    "dea0d7a938c2": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1886-02-04",
+      "end_date": "1905-03-07",
+      "filename": "dea0d7a938c2.json"
+    },
+    "29d45adf28bb": {
+      "county_id": "was_kittitas",
+      "name": "KITTITAS",
+      "start_date": "1886-02-04",
+      "end_date": "1899-03-12",
+      "filename": "29d45adf28bb.json"
+    },
+    "06ec5180c999": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1888-01-31",
+      "end_date": "2000-12-31",
+      "filename": "06ec5180c999.json"
+    },
+    "7509b217dcfa": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1888-01-31",
+      "end_date": "1905-09-18",
+      "filename": "7509b217dcfa.json"
+    },
+    "ad1a3eb06fde": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1888-02-02",
+      "end_date": "1899-02-20",
+      "filename": "ad1a3eb06fde.json"
+    },
+    "76a37ddecf2f": {
+      "county_id": "was_okanogan",
+      "name": "OKANOGAN",
+      "start_date": "1888-02-02",
+      "end_date": "1899-03-12",
+      "filename": "76a37ddecf2f.json"
+    },
+    "ac608ae02c6b": {
+      "county_id": "was_chelan",
+      "name": "CHELAN",
+      "start_date": "1899-03-13",
+      "end_date": "2000-12-31",
+      "filename": "ac608ae02c6b.json"
+    },
+    "44ddab0214dc": {
+      "county_id": "was_okanogan",
+      "name": "OKANOGAN",
+      "start_date": "1899-03-13",
+      "end_date": "2000-12-31",
+      "filename": "44ddab0214dc.json"
+    },
+    "badc23bd06b4": {
+      "county_id": "was_ferry",
+      "name": "FERRY",
+      "start_date": "1899-02-21",
+      "end_date": "2000-12-31",
+      "filename": "badc23bd06b4.json"
+    },
+    "be33343e2876": {
+      "county_id": "was_kittitas",
+      "name": "KITTITAS",
+      "start_date": "1899-03-13",
+      "end_date": "1970-12-30",
+      "filename": "be33343e2876.json"
+    },
+    "f7f3ee483c29": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1899-02-21",
+      "end_date": "1911-02-28",
+      "filename": "f7f3ee483c29.json"
+    },
+    "0d45bb9e3df6": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1901-03-12",
+      "end_date": "2000-12-31",
+      "filename": "0d45bb9e3df6.json"
+    },
+    "aa8b9e3b10be": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1901-03-12",
+      "end_date": "2000-12-31",
+      "filename": "aa8b9e3b10be.json"
+    },
+    "10e32e379290": {
+      "county_id": "was_benton",
+      "name": "BENTON",
+      "start_date": "1905-03-08",
+      "end_date": "2000-12-31",
+      "filename": "10e32e379290.json"
+    },
+    "b9a6a315b612": {
+      "county_id": "was_klickitat",
+      "name": "KLICKITAT",
+      "start_date": "1905-03-08",
+      "end_date": "2000-12-31",
+      "filename": "b9a6a315b612.json"
+    },
+    "5e8ca7adacfe": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1905-09-19",
+      "end_date": "2000-12-31",
+      "filename": "5e8ca7adacfe.json"
+    },
+    "b555a6f65a47": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1905-03-08",
+      "end_date": "1970-12-30",
+      "filename": "b555a6f65a47.json"
+    },
+    "9831a397e657": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1905-09-19",
+      "end_date": "1915-03-14",
+      "filename": "9831a397e657.json"
+    },
+    "92fd8452842a": {
+      "county_id": "was_graysharbor01",
+      "name": "GRAYS HARBOR (prop)",
+      "start_date": "1907-02-27",
+      "end_date": "1907-02-27",
+      "filename": "92fd8452842a.json"
+    },
+    "c826bc3667d2": {
+      "county_id": "was_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1909-02-24",
+      "end_date": "2000-12-31",
+      "filename": "c826bc3667d2.json"
+    },
+    "d8a3f38cbb61": {
+      "county_id": "was_grant",
+      "name": "GRANT",
+      "start_date": "1909-02-24",
+      "end_date": "2000-12-31",
+      "filename": "d8a3f38cbb61.json"
+    },
+    "07327c98deba": {
+      "county_id": "was_stevens",
+      "name": "STEVENS",
+      "start_date": "1911-03-01",
+      "end_date": "2000-12-31",
+      "filename": "07327c98deba.json"
+    },
+    "29b95c3c1d30": {
+      "county_id": "was_pendoreille",
+      "name": "PEND OREILLE",
+      "start_date": "1911-03-01",
+      "end_date": "2000-12-31",
+      "filename": "29b95c3c1d30.json"
+    },
+    "139c08980e8c": {
+      "county_id": "was_graysharbor",
+      "name": "GRAYS HARBOR",
+      "start_date": "1915-03-15",
+      "end_date": "2000-12-31",
+      "filename": "139c08980e8c.json"
+    },
+    "b18a0091134c": {
+      "county_id": "was_clark",
+      "name": "CLARK",
+      "start_date": "1925-12-23",
+      "end_date": "2000-12-31",
+      "filename": "b18a0091134c.json"
+    },
+    "f5f126ed028b": {
+      "county_id": "was_kittitas",
+      "name": "KITTITAS",
+      "start_date": "1970-12-31",
+      "end_date": "2000-12-31",
+      "filename": "f5f126ed028b.json"
+    },
+    "44ef3790199f": {
+      "county_id": "was_yakima",
+      "name": "YAKIMA",
+      "start_date": "1970-12-31",
+      "end_date": "2000-12-31",
+      "filename": "44ef3790199f.json"
+    },
+    "e2b6612bf0cd": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1867-01-31",
+      "end_date": "1869-12-01",
+      "filename": "e2b6612bf0cd.json"
+    },
+    "9034159eef9d": {
+      "county_id": "was_graysharbor",
+      "name": "CHEHALIS",
+      "start_date": "1869-12-02",
+      "end_date": "1873-11-09",
+      "filename": "9034159eef9d.json"
+    },
+    "1d28e032acbc": {
+      "county_id": "was_island",
+      "name": "ISLAND",
+      "start_date": "1852-12-22",
+      "end_date": "1854-03-08",
+      "filename": "1d28e032acbc.json"
+    },
+    "e55817ced879": {
+      "county_id": "was_island",
+      "name": "ISLAND",
+      "start_date": "1854-03-09",
+      "end_date": "1858-01-13",
+      "filename": "e55817ced879.json"
+    },
+    "8fb65815ed5f": {
+      "county_id": "was_island",
+      "name": "ISLAND",
+      "start_date": "1858-01-14",
+      "end_date": "1861-01-13",
+      "filename": "8fb65815ed5f.json"
+    },
+    "137f3267a55d": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1852-12-22",
+      "end_date": "1854-03-12",
+      "filename": "137f3267a55d.json"
+    },
+    "1facae108d8f": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1854-03-13",
+      "end_date": "1855-01-24",
+      "filename": "1facae108d8f.json"
+    },
+    "1f2a338d0415": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1855-01-25",
+      "end_date": "1857-01-15",
+      "filename": "1f2a338d0415.json"
+    },
+    "47486ac423f7": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1857-01-16",
+      "end_date": "1859-01-28",
+      "filename": "47486ac423f7.json"
+    },
+    "5b9bea4b60f5": {
+      "county_id": "was_king",
+      "name": "KING",
+      "start_date": "1859-01-29",
+      "end_date": "1861-01-13",
+      "filename": "5b9bea4b60f5.json"
+    },
+    "87357677b4b5": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1857-07-17",
+      "end_date": "1858-01-12",
+      "filename": "87357677b4b5.json"
+    },
+    "de147a50544a": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1858-01-13",
+      "end_date": "1859-01-28",
+      "filename": "de147a50544a.json"
+    },
+    "3d94df616609": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1859-01-29",
+      "end_date": "1861-01-29",
+      "filename": "3d94df616609.json"
+    },
+    "f00d618ac9bc": {
+      "county_id": "was_kitsap",
+      "name": "KITSAP",
+      "start_date": "1861-01-30",
+      "end_date": "1867-01-30",
+      "filename": "f00d618ac9bc.json"
+    },
+    "7c29dac52de0": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1855-01-23",
+      "end_date": "1855-01-25",
+      "filename": "7c29dac52de0.json"
+    },
+    "6f887f8068eb": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1855-01-26",
+      "end_date": "1860-01-24",
+      "filename": "6f887f8068eb.json"
+    },
+    "76365ed5ab5b": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1860-01-25",
+      "end_date": "1861-01-25",
+      "filename": "76365ed5ab5b.json"
+    },
+    "bfd577861b21": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1853-02-01",
+      "end_date": "1854-03-08",
+      "filename": "bfd577861b21.json"
+    },
+    "b4fd4a045435": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1854-03-09",
+      "end_date": "1854-04-13",
+      "filename": "b4fd4a045435.json"
+    },
+    "d04d66c3a031": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1854-04-14",
+      "end_date": "1854-04-20",
+      "filename": "d04d66c3a031.json"
+    },
+    "5586f7f3efce": {
+      "county_id": "was_lewis",
+      "name": "LEWIS",
+      "start_date": "1854-04-21",
+      "end_date": "1855-01-22",
+      "filename": "5586f7f3efce.json"
+    },
+    "dff2d9a0daa6": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1852-12-22",
+      "end_date": "1855-01-24",
+      "filename": "dff2d9a0daa6.json"
+    },
+    "0d3a692be66d": {
+      "county_id": "was_pierce",
+      "name": "PIERCE",
+      "start_date": "1855-01-25",
+      "end_date": "1859-01-28",
+      "filename": "0d3a692be66d.json"
+    },
+    "ed15955d26ce": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1854-03-13",
+      "end_date": "1858-01-12",
+      "filename": "ed15955d26ce.json"
+    },
+    "267c7ed5549e": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1858-01-13",
+      "end_date": "1860-01-24",
+      "filename": "267c7ed5549e.json"
+    },
+    "87d84a5d8af5": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1860-01-25",
+      "end_date": "1860-01-29",
+      "filename": "87d84a5d8af5.json"
+    },
+    "d3ba21ea0b1a": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1860-01-30",
+      "end_date": "1861-01-23",
+      "filename": "d3ba21ea0b1a.json"
+    },
+    "d5fb59dcd443": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1861-01-24",
+      "end_date": "1861-01-29",
+      "filename": "d5fb59dcd443.json"
+    },
+    "d9049ad0f341": {
+      "county_id": "was_mason",
+      "name": "SAWAMISH",
+      "start_date": "1861-01-30",
+      "end_date": "1863-01-27",
+      "filename": "d9049ad0f341.json"
+    },
+    "82df0a488844": {
+      "county_id": "was_kitsap",
+      "name": "SLAUGHTER",
+      "start_date": "1857-01-16",
+      "end_date": "1857-07-16",
+      "filename": "82df0a488844.json"
+    },
+    "7704785c0805": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1861-01-26",
+      "end_date": "1863-01-27",
+      "filename": "7704785c0805.json"
+    },
+    "aae13eb41641": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1852-01-12",
+      "end_date": "1852-12-21",
+      "filename": "aae13eb41641.json"
+    },
+    "564eb6df64b3": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1852-12-22",
+      "end_date": "1853-01-31",
+      "filename": "564eb6df64b3.json"
+    },
+    "1c6875a8b3f7": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1853-02-01",
+      "end_date": "1854-03-12",
+      "filename": "1c6875a8b3f7.json"
+    },
+    "baf26a751a11": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1854-03-13",
+      "end_date": "1854-04-13",
+      "filename": "baf26a751a11.json"
+    },
+    "32d45c519741": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1854-04-14",
+      "end_date": "1859-01-28",
+      "filename": "32d45c519741.json"
+    },
+    "28860355b56c": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1859-01-29",
+      "end_date": "1860-01-24",
+      "filename": "28860355b56c.json"
+    },
+    "05ce33c381a1": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1860-01-25",
+      "end_date": "1860-01-29",
+      "filename": "05ce33c381a1.json"
+    },
+    "97bbadeebb3e": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1860-01-30",
+      "end_date": "1861-01-23",
+      "filename": "97bbadeebb3e.json"
+    },
+    "4dd999ba8a5a": {
+      "county_id": "was_thurston",
+      "name": "THURSTON",
+      "start_date": "1861-01-24",
+      "end_date": "1861-01-25",
+      "filename": "4dd999ba8a5a.json"
+    },
+    "ddc50fcda533": {
+      "county_id": "was_whatcom",
+      "name": "WHATCOM",
+      "start_date": "1854-03-09",
+      "end_date": "1858-01-13",
+      "filename": "ddc50fcda533.json"
+    }
+  }
+}

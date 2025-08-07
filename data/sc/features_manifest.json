@@ -1,0 +1,2456 @@
+{
+  "state": "SC",
+  "total_features": 350,
+  "features": {
+    "a22e520294fe": {
+      "county_id": "scs_colleton01",
+      "name": "COLLETON (orig)",
+      "start_date": "1682-05-10",
+      "end_date": "1685-03-11",
+      "filename": "a22e520294fe.json"
+    },
+    "d3995c184ca6": {
+      "county_id": "scs_berkeley01",
+      "name": "BERKELEY (orig)",
+      "start_date": "1682-05-10",
+      "end_date": "1685-03-11",
+      "filename": "d3995c184ca6.json"
+    },
+    "4abd8cd77e77": {
+      "county_id": "scs_craven",
+      "name": "CRAVEN (ext)",
+      "start_date": "1682-05-10",
+      "end_date": "1685-03-11",
+      "filename": "4abd8cd77e77.json"
+    },
+    "ba27cdf057dc": {
+      "county_id": "scs_granville01",
+      "name": "GRANVILLE (orig)",
+      "start_date": "1685-03-12",
+      "end_date": "1769-07-28",
+      "filename": "ba27cdf057dc.json"
+    },
+    "bc941824c888": {
+      "county_id": "scs_berkeley01",
+      "name": "BERKELEY (orig)",
+      "start_date": "1685-03-12",
+      "end_date": "1733-09-21",
+      "filename": "bc941824c888.json"
+    },
+    "1e0473fcf1eb": {
+      "county_id": "scs_craven",
+      "name": "CRAVEN (ext)",
+      "start_date": "1685-03-12",
+      "end_date": "1691-11-07",
+      "filename": "1e0473fcf1eb.json"
+    },
+    "3c0666b26761": {
+      "county_id": "scs_colleton01",
+      "name": "COLLETON (orig)",
+      "start_date": "1685-03-12",
+      "end_date": "1769-07-28",
+      "filename": "3c0666b26761.json"
+    },
+    "eb129e1917c7": {
+      "county_id": "scs_craven",
+      "name": "CRAVEN (ext)",
+      "start_date": "1691-11-08",
+      "end_date": "1733-09-21",
+      "filename": "eb129e1917c7.json"
+    },
+    "ff0faf20a58f": {
+      "county_id": "scs_berkeley01",
+      "name": "BERKELEY (orig)",
+      "start_date": "1733-09-22",
+      "end_date": "1769-07-28",
+      "filename": "ff0faf20a58f.json"
+    },
+    "f11ec4e94802": {
+      "county_id": "scs_craven",
+      "name": "CRAVEN (ext)",
+      "start_date": "1733-09-22",
+      "end_date": "1769-07-28",
+      "filename": "f11ec4e94802.json"
+    },
+    "cdb487bd4c03": {
+      "county_id": "scs_abbeville",
+      "name": "ABBEVILLE",
+      "start_date": "1785-03-12",
+      "end_date": "1897-03-01",
+      "filename": "cdb487bd4c03.json"
+    },
+    "8fdd5f4170a9": {
+      "county_id": "scs_kingston",
+      "name": "KINGSTON (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "8fdd5f4170a9.json"
+    },
+    "ecf7ba5cd2c2": {
+      "county_id": "scs_liberty",
+      "name": "LIBERTY (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "ecf7ba5cd2c2.json"
+    },
+    "bbb558a35c67": {
+      "county_id": "scs_marlboro",
+      "name": "MARLBORO",
+      "start_date": "1785-03-12",
+      "end_date": "2000-12-31",
+      "filename": "bbb558a35c67.json"
+    },
+    "160db59809c6": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1785-03-12",
+      "end_date": "1792-12-20",
+      "filename": "160db59809c6.json"
+    },
+    "bc50ff78bfa9": {
+      "county_id": "scs_williamsburg01",
+      "name": "WILLIAMSBURG (orig)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "bc50ff78bfa9.json"
+    },
+    "623b600bd0f4": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1785-03-12",
+      "end_date": "1788-02-28",
+      "filename": "623b600bd0f4.json"
+    },
+    "fffcb38059e2": {
+      "county_id": "scs_spartanburg",
+      "name": "SPARTANBURG",
+      "start_date": "1785-03-12",
+      "end_date": "1897-02-24",
+      "filename": "fffcb38059e2.json"
+    },
+    "1d2f0dc27849": {
+      "county_id": "scs_union",
+      "name": "UNION",
+      "start_date": "1785-03-12",
+      "end_date": "1897-02-24",
+      "filename": "1d2f0dc27849.json"
+    },
+    "0f69989170fc": {
+      "county_id": "scs_chester",
+      "name": "CHESTER",
+      "start_date": "1785-03-12",
+      "end_date": "2000-12-31",
+      "filename": "0f69989170fc.json"
+    },
+    "cbcee531d26f": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1785-03-12",
+      "end_date": "1871-03-09",
+      "filename": "cbcee531d26f.json"
+    },
+    "19c90bbd3460": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1785-03-12",
+      "end_date": "1888-12-21",
+      "filename": "19c90bbd3460.json"
+    },
+    "ee85e6e82f4c": {
+      "county_id": "scs_chesterfield",
+      "name": "CHESTERFIELD",
+      "start_date": "1785-03-12",
+      "end_date": "2000-12-31",
+      "filename": "ee85e6e82f4c.json"
+    },
+    "2eb781083dc9": {
+      "county_id": "scs_laurens",
+      "name": "LAURENS",
+      "start_date": "1785-03-12",
+      "end_date": "1792-12-20",
+      "filename": "2eb781083dc9.json"
+    },
+    "c11b00a25a23": {
+      "county_id": "scs_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "c11b00a25a23.json"
+    },
+    "e54603b06749": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "e54603b06749.json"
+    },
+    "822b5b54b1ae": {
+      "county_id": "scs_claremont",
+      "name": "CLAREMONT (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "822b5b54b1ae.json"
+    },
+    "a416f52dc2b6": {
+      "county_id": "scs_york",
+      "name": "YORK",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "a416f52dc2b6.json"
+    },
+    "c78737f895a6": {
+      "county_id": "scs_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "c78737f895a6.json"
+    },
+    "a27063dba07e": {
+      "county_id": "scs_charleston01",
+      "name": "CHARLESTON (orig)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "a27063dba07e.json"
+    },
+    "ec75d6ef93f4": {
+      "county_id": "scs_newberry",
+      "name": "NEWBERRY",
+      "start_date": "1785-03-12",
+      "end_date": "1788-02-28",
+      "filename": "ec75d6ef93f4.json"
+    },
+    "95087c702af5": {
+      "county_id": "scs_winton",
+      "name": "WINTON (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1786-03-10",
+      "filename": "95087c702af5.json"
+    },
+    "3da9338cf08b": {
+      "county_id": "scs_granville02",
+      "name": "GRANVILLE (2nd, ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "3da9338cf08b.json"
+    },
+    "a68d9bc6785f": {
+      "county_id": "scs_hilton",
+      "name": "HILTON (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "a68d9bc6785f.json"
+    },
+    "f8125eec3b03": {
+      "county_id": "scs_colleton02",
+      "name": "COLLETON (2nd, ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "f8125eec3b03.json"
+    },
+    "0efa5eb5e37f": {
+      "county_id": "scs_bartholomew",
+      "name": "BARTHOLOMEW (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "0efa5eb5e37f.json"
+    },
+    "7b111fe02356": {
+      "county_id": "scs_washington",
+      "name": "WASHINGTON (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "7b111fe02356.json"
+    },
+    "b64283610d5b": {
+      "county_id": "scs_winyaw",
+      "name": "WINYAW (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "b64283610d5b.json"
+    },
+    "23545ff778ce": {
+      "county_id": "scs_berkeley02",
+      "name": "BERKELEY (2nd, ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "23545ff778ce.json"
+    },
+    "a97724015c13": {
+      "county_id": "scs_lincoln",
+      "name": "LINCOLN (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "a97724015c13.json"
+    },
+    "f05cb7bc7afa": {
+      "county_id": "scs_marion01",
+      "name": "MARION (orig)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "f05cb7bc7afa.json"
+    },
+    "71f8ae13f19e": {
+      "county_id": "scs_orange",
+      "name": "ORANGE (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "71f8ae13f19e.json"
+    },
+    "50476ee45c33": {
+      "county_id": "scs_lewisburgh",
+      "name": "LEWISBURGH (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "50476ee45c33.json"
+    },
+    "32ce55ec913f": {
+      "county_id": "scs_shrewsbury",
+      "name": "SHREWSBURY (ext)",
+      "start_date": "1785-03-12",
+      "end_date": "1791-02-18",
+      "filename": "32ce55ec913f.json"
+    },
+    "18519c1ec000": {
+      "county_id": "scs_nca1",
+      "name": "NCA 1",
+      "start_date": "1785-03-12",
+      "end_date": "1786-03-10",
+      "filename": "18519c1ec000.json"
+    },
+    "b5bca6a38e74": {
+      "county_id": "scs_nca3",
+      "name": "NCA 3",
+      "start_date": "1785-03-12",
+      "end_date": "1786-03-21",
+      "filename": "b5bca6a38e74.json"
+    },
+    "e1f9afb94b9f": {
+      "county_id": "scs_nca4",
+      "name": "NCA 4",
+      "start_date": "1785-03-12",
+      "end_date": "1786-03-21",
+      "filename": "e1f9afb94b9f.json"
+    },
+    "0cef82779564": {
+      "county_id": "scs_nca2",
+      "name": "NCA 2",
+      "start_date": "1785-03-12",
+      "end_date": "1789-03-06",
+      "filename": "0cef82779564.json"
+    },
+    "fb4251c3f29e": {
+      "county_id": "scs_nca5",
+      "name": "NCA 5",
+      "start_date": "1785-03-12",
+      "end_date": "1816-12-18",
+      "filename": "fb4251c3f29e.json"
+    },
+    "812e1b5c24c2": {
+      "county_id": "scs_overlap",
+      "name": "Overlap Area",
+      "start_date": "1785-03-12",
+      "end_date": "1788-02-28",
+      "filename": "812e1b5c24c2.json"
+    },
+    "5a3b5fbc8da5": {
+      "county_id": "scs_greenville",
+      "name": "GREENVILLE",
+      "start_date": "1786-03-22",
+      "end_date": "1792-12-20",
+      "filename": "5a3b5fbc8da5.json"
+    },
+    "bccc08ad09ff": {
+      "county_id": "scs_winton",
+      "name": "WINTON (ext)",
+      "start_date": "1786-03-11",
+      "end_date": "1791-02-18",
+      "filename": "bccc08ad09ff.json"
+    },
+    "01f777f89187": {
+      "county_id": "scs_newberry",
+      "name": "NEWBERRY",
+      "start_date": "1788-02-29",
+      "end_date": "1901-02-18",
+      "filename": "01f777f89187.json"
+    },
+    "aba19aa1f0e7": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1788-02-29",
+      "end_date": "1803-12-16",
+      "filename": "aba19aa1f0e7.json"
+    },
+    "610d54825ae9": {
+      "county_id": "scs_pendleton",
+      "name": "PENDLETON (ext)",
+      "start_date": "1789-03-07",
+      "end_date": "1816-12-18",
+      "filename": "610d54825ae9.json"
+    },
+    "b62d10fa5882": {
+      "county_id": "scs_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1791-02-19",
+      "end_date": "1797-12-15",
+      "filename": "b62d10fa5882.json"
+    },
+    "3d65051c6a4f": {
+      "county_id": "scs_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1791-02-19",
+      "end_date": "1792-12-20",
+      "filename": "3d65051c6a4f.json"
+    },
+    "82cc9abcf638": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1791-02-19",
+      "end_date": "1792-12-20",
+      "filename": "82cc9abcf638.json"
+    },
+    "55a95aa8e847": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1791-02-19",
+      "end_date": "1792-12-20",
+      "filename": "55a95aa8e847.json"
+    },
+    "2f405b4ea210": {
+      "county_id": "scs_claremont",
+      "name": "CLAREMONT (ext)",
+      "start_date": "1791-02-19",
+      "end_date": "1792-12-20",
+      "filename": "2f405b4ea210.json"
+    },
+    "5ce94a51f2fa": {
+      "county_id": "scs_york",
+      "name": "YORK",
+      "start_date": "1791-02-19",
+      "end_date": "1897-02-24",
+      "filename": "5ce94a51f2fa.json"
+    },
+    "53daf0df082a": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1792-12-21",
+      "end_date": "1868-04-15",
+      "filename": "53daf0df082a.json"
+    },
+    "8a5822d1c5e1": {
+      "county_id": "scs_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1792-12-21",
+      "end_date": "1977-12-30",
+      "filename": "8a5822d1c5e1.json"
+    },
+    "4b363a7fe90d": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1792-12-21",
+      "end_date": "1898-02-18",
+      "filename": "4b363a7fe90d.json"
+    },
+    "a866d1615ea6": {
+      "county_id": "scs_greenville",
+      "name": "GREENVILLE",
+      "start_date": "1792-12-21",
+      "end_date": "2000-12-31",
+      "filename": "a866d1615ea6.json"
+    },
+    "ba28b0e4c7fc": {
+      "county_id": "scs_laurens",
+      "name": "LAURENS",
+      "start_date": "1792-12-21",
+      "end_date": "2000-12-31",
+      "filename": "ba28b0e4c7fc.json"
+    },
+    "97a6b1c3bdc4": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1792-12-21",
+      "end_date": "1797-12-15",
+      "filename": "97a6b1c3bdc4.json"
+    },
+    "a3d3f822d505": {
+      "county_id": "scs_claremont",
+      "name": "CLAREMONT (ext)",
+      "start_date": "1792-12-21",
+      "end_date": "1799-12-31",
+      "filename": "a3d3f822d505.json"
+    },
+    "07eb468abeb4": {
+      "county_id": "scs_salem",
+      "name": "SALEM (ext)",
+      "start_date": "1792-12-21",
+      "end_date": "1799-12-31",
+      "filename": "07eb468abeb4.json"
+    },
+    "e74900e80e7f": {
+      "county_id": "scs_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1797-12-16",
+      "end_date": "1913-02-18",
+      "filename": "e74900e80e7f.json"
+    },
+    "7381cf9c5812": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1797-12-16",
+      "end_date": "1912-02-08",
+      "filename": "7381cf9c5812.json"
+    },
+    "b0770957beb0": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1803-12-17",
+      "end_date": "1868-04-15",
+      "filename": "b0770957beb0.json"
+    },
+    "b423726af07b": {
+      "county_id": "scs_pendleton",
+      "name": "PENDLETON (ext)",
+      "start_date": "1816-12-19",
+      "end_date": "1826-12-19",
+      "filename": "b423726af07b.json"
+    },
+    "196b0d07aa2a": {
+      "county_id": "scs_anderson",
+      "name": "ANDERSON",
+      "start_date": "1826-12-20",
+      "end_date": "2000-12-31",
+      "filename": "196b0d07aa2a.json"
+    },
+    "b113f1b655ad": {
+      "county_id": "scs_pickens",
+      "name": "PICKENS",
+      "start_date": "1826-12-20",
+      "end_date": "1868-01-28",
+      "filename": "b113f1b655ad.json"
+    },
+    "bfe8eeef0aa2": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1868-04-16",
+      "end_date": "1898-02-18",
+      "filename": "bfe8eeef0aa2.json"
+    },
+    "07acc342a9bf": {
+      "county_id": "scs_marion",
+      "name": "MARION",
+      "start_date": "1868-04-16",
+      "end_date": "1888-12-21",
+      "filename": "07acc342a9bf.json"
+    },
+    "e7fe3d969146": {
+      "county_id": "scs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1868-04-16",
+      "end_date": "1878-02-17",
+      "filename": "e7fe3d969146.json"
+    },
+    "be28a3326af2": {
+      "county_id": "scs_barnwell",
+      "name": "BARNWELL",
+      "start_date": "1868-04-16",
+      "end_date": "1871-03-09",
+      "filename": "be28a3326af2.json"
+    },
+    "a4571a1d6d4d": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1871-03-10",
+      "end_date": "1901-02-18",
+      "filename": "a4571a1d6d4d.json"
+    },
+    "de958de140a8": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1871-03-10",
+      "end_date": "1896-02-24",
+      "filename": "de958de140a8.json"
+    },
+    "ba9b88dc466d": {
+      "county_id": "scs_aiken",
+      "name": "AIKEN",
+      "start_date": "1871-03-10",
+      "end_date": "1874-03-13",
+      "filename": "ba9b88dc466d.json"
+    },
+    "781a0ea0231a": {
+      "county_id": "scs_barnwell",
+      "name": "BARNWELL",
+      "start_date": "1871-03-10",
+      "end_date": "1874-03-13",
+      "filename": "781a0ea0231a.json"
+    },
+    "1b80b3f82786": {
+      "county_id": "scs_aiken",
+      "name": "AIKEN",
+      "start_date": "1874-03-14",
+      "end_date": "2000-12-31",
+      "filename": "1b80b3f82786.json"
+    },
+    "948b7557feae": {
+      "county_id": "scs_barnwell",
+      "name": "BARNWELL",
+      "start_date": "1874-03-14",
+      "end_date": "1897-12-30",
+      "filename": "948b7557feae.json"
+    },
+    "680bc3edf76e": {
+      "county_id": "scs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1878-02-18",
+      "end_date": "1912-01-29",
+      "filename": "680bc3edf76e.json"
+    },
+    "8003b96ef438": {
+      "county_id": "scs_hampton",
+      "name": "HAMPTON",
+      "start_date": "1878-02-18",
+      "end_date": "1912-01-29",
+      "filename": "8003b96ef438.json"
+    },
+    "b98bf4d45648": {
+      "county_id": "scs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1882-11-01",
+      "end_date": "1893-12-19",
+      "filename": "b98bf4d45648.json"
+    },
+    "c6b218c7bf3b": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1882-11-01",
+      "end_date": "1893-12-19",
+      "filename": "c6b218c7bf3b.json"
+    },
+    "c4f560793a69": {
+      "county_id": "scs_georgetown",
+      "name": "GEORGETOWN",
+      "start_date": "1868-04-16",
+      "end_date": "2000-12-31",
+      "filename": "c4f560793a69.json"
+    },
+    "94dd0337e23d": {
+      "county_id": "scs_horry",
+      "name": "HORRY",
+      "start_date": "1868-04-16",
+      "end_date": "2000-12-31",
+      "filename": "94dd0337e23d.json"
+    },
+    "c65412cfae4f": {
+      "county_id": "scs_orangeburg",
+      "name": "ORANGEBURG",
+      "start_date": "1868-04-16",
+      "end_date": "1871-03-09",
+      "filename": "c65412cfae4f.json"
+    },
+    "ba1ddc70a4db": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1868-04-16",
+      "end_date": "1897-02-24",
+      "filename": "ba1ddc70a4db.json"
+    },
+    "5e12c6158ad1": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1868-04-16",
+      "end_date": "1882-10-31",
+      "filename": "5e12c6158ad1.json"
+    },
+    "d9f5a75889e5": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1868-04-16",
+      "end_date": "1871-03-09",
+      "filename": "d9f5a75889e5.json"
+    },
+    "913c21a3622e": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1868-04-16",
+      "end_date": "1888-12-21",
+      "filename": "913c21a3622e.json"
+    },
+    "e66d1af1e256": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1868-04-16",
+      "end_date": "1888-12-21",
+      "filename": "e66d1af1e256.json"
+    },
+    "5f52efb7ff3e": {
+      "county_id": "scs_oconee",
+      "name": "OCONEE",
+      "start_date": "1868-01-29",
+      "end_date": "1967-02-19",
+      "filename": "5f52efb7ff3e.json"
+    },
+    "cbd84e955bcf": {
+      "county_id": "scs_pickens",
+      "name": "PICKENS",
+      "start_date": "1868-01-29",
+      "end_date": "1967-02-19",
+      "filename": "cbd84e955bcf.json"
+    },
+    "a27b08beb81e": {
+      "county_id": "scs_orangeburg",
+      "name": "ORANGEBURG",
+      "start_date": "1871-03-10",
+      "end_date": "1908-02-13",
+      "filename": "a27b08beb81e.json"
+    },
+    "e5624882ee44": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1888-12-22",
+      "end_date": "1914-02-13",
+      "filename": "e5624882ee44.json"
+    },
+    "4dd7ffa8f68a": {
+      "county_id": "scs_marion",
+      "name": "MARION",
+      "start_date": "1888-12-22",
+      "end_date": "1910-02-04",
+      "filename": "4dd7ffa8f68a.json"
+    },
+    "c68f58d66ce8": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1888-12-22",
+      "end_date": "1904-02-18",
+      "filename": "c68f58d66ce8.json"
+    },
+    "ec4aa0d381d3": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1888-12-22",
+      "end_date": "1889-12-22",
+      "filename": "ec4aa0d381d3.json"
+    },
+    "77150d9705da": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1888-12-22",
+      "end_date": "1889-12-22",
+      "filename": "77150d9705da.json"
+    },
+    "e77de28aba92": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1889-12-23",
+      "end_date": "1904-02-18",
+      "filename": "e77de28aba92.json"
+    },
+    "4fb953a5fd67": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1889-12-23",
+      "end_date": "1898-02-18",
+      "filename": "4fb953a5fd67.json"
+    },
+    "9aa3ef3e7a4d": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1893-12-20",
+      "end_date": "1911-02-15",
+      "filename": "9aa3ef3e7a4d.json"
+    },
+    "00d7f3c3d614": {
+      "county_id": "scs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1893-12-20",
+      "end_date": "1897-02-24",
+      "filename": "00d7f3c3d614.json"
+    },
+    "eba12e90b9b6": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1896-02-25",
+      "end_date": "1897-03-01",
+      "filename": "eba12e90b9b6.json"
+    },
+    "7e77ee517d8a": {
+      "county_id": "scs_saluda",
+      "name": "SALUDA",
+      "start_date": "1896-02-25",
+      "end_date": "2000-12-31",
+      "filename": "7e77ee517d8a.json"
+    },
+    "dca0db453906": {
+      "county_id": "scs_dorchester",
+      "name": "DORCHESTER",
+      "start_date": "1897-02-25",
+      "end_date": "1967-04-30",
+      "filename": "dca0db453906.json"
+    },
+    "08b6c6551056": {
+      "county_id": "scs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1897-02-25",
+      "end_date": "1921-02-10",
+      "filename": "08b6c6551056.json"
+    },
+    "f84e35de6272": {
+      "county_id": "scs_york",
+      "name": "YORK",
+      "start_date": "1897-02-25",
+      "end_date": "1921-02-10",
+      "filename": "f84e35de6272.json"
+    },
+    "9a58e3c5e411": {
+      "county_id": "scs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1897-02-25",
+      "end_date": "1921-02-27",
+      "filename": "9a58e3c5e411.json"
+    },
+    "6ada28b4e637": {
+      "county_id": "scs_bamberg",
+      "name": "BAMBERG",
+      "start_date": "1897-12-31",
+      "end_date": "1919-03-09",
+      "filename": "6ada28b4e637.json"
+    },
+    "bb86a1aaf7f4": {
+      "county_id": "scs_barnwell",
+      "name": "BARNWELL",
+      "start_date": "1897-12-31",
+      "end_date": "1919-02-05",
+      "filename": "bb86a1aaf7f4.json"
+    },
+    "d2f0f6088de2": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1897-02-25",
+      "end_date": "1911-02-15",
+      "filename": "d2f0f6088de2.json"
+    },
+    "9c2b27454dc3": {
+      "county_id": "scs_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1897-03-02",
+      "end_date": "1898-02-17",
+      "filename": "9c2b27454dc3.json"
+    },
+    "abaccfb96817": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1897-03-02",
+      "end_date": "1898-02-17",
+      "filename": "abaccfb96817.json"
+    },
+    "e6040f227921": {
+      "county_id": "scs_abbeville",
+      "name": "ABBEVILLE",
+      "start_date": "1897-03-02",
+      "end_date": "1898-02-17",
+      "filename": "e6040f227921.json"
+    },
+    "aea7d42a528f": {
+      "county_id": "scs_spartanburg",
+      "name": "SPARTANBURG",
+      "start_date": "1897-02-25",
+      "end_date": "2000-12-31",
+      "filename": "aea7d42a528f.json"
+    },
+    "ed65e8e57bc1": {
+      "county_id": "scs_union",
+      "name": "UNION",
+      "start_date": "1897-02-25",
+      "end_date": "2000-12-31",
+      "filename": "ed65e8e57bc1.json"
+    },
+    "395a719e377f": {
+      "county_id": "scs_abbeville",
+      "name": "ABBEVILLE",
+      "start_date": "1898-02-18",
+      "end_date": "1916-04-11",
+      "filename": "395a719e377f.json"
+    },
+    "44ba1fa4a99e": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1898-02-18",
+      "end_date": "1916-04-11",
+      "filename": "44ba1fa4a99e.json"
+    },
+    "17c2b5305048": {
+      "county_id": "scs_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1898-02-18",
+      "end_date": "1916-04-11",
+      "filename": "17c2b5305048.json"
+    },
+    "920c045a856b": {
+      "county_id": "scs_lee",
+      "name": "LEE",
+      "start_date": "1898-02-19",
+      "end_date": "1899-02-28",
+      "filename": "920c045a856b.json"
+    },
+    "b2a1997c686a": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1898-02-19",
+      "end_date": "1899-02-28",
+      "filename": "b2a1997c686a.json"
+    },
+    "b15f8d8cdc7b": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1898-02-19",
+      "end_date": "1899-02-28",
+      "filename": "b15f8d8cdc7b.json"
+    },
+    "f5bec4d88391": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1898-02-19",
+      "end_date": "1899-02-28",
+      "filename": "f5bec4d88391.json"
+    },
+    "b01a07be2f2c": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1899-03-01",
+      "end_date": "1902-02-24",
+      "filename": "b01a07be2f2c.json"
+    },
+    "5298dce3488d": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1899-03-01",
+      "end_date": "1902-02-24",
+      "filename": "5298dce3488d.json"
+    },
+    "bb087a72ad21": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1899-03-01",
+      "end_date": "1902-02-24",
+      "filename": "bb087a72ad21.json"
+    },
+    "2f79f72273c9": {
+      "county_id": "scs_newberry",
+      "name": "NEWBERRY",
+      "start_date": "1901-02-19",
+      "end_date": "1920-03-28",
+      "filename": "2f79f72273c9.json"
+    },
+    "7e7620d03eda": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1901-02-19",
+      "end_date": "1908-02-13",
+      "filename": "7e7620d03eda.json"
+    },
+    "0a66d2a1e5f2": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1902-02-25",
+      "end_date": "1921-03-06",
+      "filename": "0a66d2a1e5f2.json"
+    },
+    "22cf391efb46": {
+      "county_id": "scs_lee",
+      "name": "LEE",
+      "start_date": "1902-02-25",
+      "end_date": "1914-02-18",
+      "filename": "22cf391efb46.json"
+    },
+    "b6b0bff61f65": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1902-02-25",
+      "end_date": "1914-02-18",
+      "filename": "b6b0bff61f65.json"
+    },
+    "21f3275b388e": {
+      "county_id": "scs_darlington",
+      "name": "DARLINGTON",
+      "start_date": "1902-02-25",
+      "end_date": "2000-12-31",
+      "filename": "21f3275b388e.json"
+    },
+    "c51a508b9f10": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1904-02-19",
+      "end_date": "1911-02-16",
+      "filename": "c51a508b9f10.json"
+    },
+    "9736ea01d621": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1904-02-19",
+      "end_date": "1911-02-16",
+      "filename": "9736ea01d621.json"
+    },
+    "b8cc2e3cfa9a": {
+      "county_id": "scs_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1908-02-14",
+      "end_date": "2000-12-31",
+      "filename": "b8cc2e3cfa9a.json"
+    },
+    "e57acc49bf06": {
+      "county_id": "scs_orangeburg",
+      "name": "ORANGEBURG",
+      "start_date": "1908-02-14",
+      "end_date": "1962-01-08",
+      "filename": "e57acc49bf06.json"
+    },
+    "a76c07a6fbb5": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1908-02-14",
+      "end_date": "1912-02-08",
+      "filename": "a76c07a6fbb5.json"
+    },
+    "f8c3fdb5cadb": {
+      "county_id": "scs_dillon",
+      "name": "DILLON",
+      "start_date": "1910-02-05",
+      "end_date": "2000-12-31",
+      "filename": "f8c3fdb5cadb.json"
+    },
+    "70d0950307c2": {
+      "county_id": "scs_marion",
+      "name": "MARION",
+      "start_date": "1910-02-05",
+      "end_date": "2000-12-31",
+      "filename": "70d0950307c2.json"
+    },
+    "99e2533e1434": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1911-02-16",
+      "end_date": "1921-02-27",
+      "filename": "99e2533e1434.json"
+    },
+    "34c58671c5d7": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1911-02-16",
+      "end_date": "1919-03-09",
+      "filename": "34c58671c5d7.json"
+    },
+    "55eda95fba50": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1911-02-17",
+      "end_date": "1912-02-15",
+      "filename": "55eda95fba50.json"
+    },
+    "3c0b10044d48": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1911-02-17",
+      "end_date": "1912-02-15",
+      "filename": "3c0b10044d48.json"
+    },
+    "06cc864bda49": {
+      "county_id": "scs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1912-01-30",
+      "end_date": "1951-12-03",
+      "filename": "06cc864bda49.json"
+    },
+    "13abdaf27e97": {
+      "county_id": "scs_jasper",
+      "name": "JASPER",
+      "start_date": "1912-01-30",
+      "end_date": "1951-12-03",
+      "filename": "13abdaf27e97.json"
+    },
+    "ce85efcbfa03": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1912-02-16",
+      "end_date": "1921-03-03",
+      "filename": "ce85efcbfa03.json"
+    },
+    "b9d496fc01fd": {
+      "county_id": "scs_hampton",
+      "name": "HAMPTON",
+      "start_date": "1912-01-30",
+      "end_date": "1919-02-05",
+      "filename": "b9d496fc01fd.json"
+    },
+    "5a4aa8616521": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1912-02-16",
+      "end_date": "1914-02-13",
+      "filename": "5a4aa8616521.json"
+    },
+    "4688b5f3d8ef": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1912-02-09",
+      "end_date": "1913-02-12",
+      "filename": "4688b5f3d8ef.json"
+    },
+    "9af7ab875edb": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1912-02-09",
+      "end_date": "1913-02-12",
+      "filename": "9af7ab875edb.json"
+    },
+    "49ecafb3b6b9": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1913-02-19",
+      "end_date": "1922-03-10",
+      "filename": "49ecafb3b6b9.json"
+    },
+    "bf14077c6eab": {
+      "county_id": "scs_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1913-02-19",
+      "end_date": "2000-12-31",
+      "filename": "bf14077c6eab.json"
+    },
+    "ba2d16ec26e7": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1913-02-13",
+      "end_date": "1920-03-28",
+      "filename": "ba2d16ec26e7.json"
+    },
+    "b3f81fafb483": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1913-02-13",
+      "end_date": "1913-02-18",
+      "filename": "b3f81fafb483.json"
+    },
+    "c9b1620f0248": {
+      "county_id": "scs_lee",
+      "name": "LEE",
+      "start_date": "1914-02-19",
+      "end_date": "1921-03-06",
+      "filename": "c9b1620f0248.json"
+    },
+    "c54558b01330": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1914-02-19",
+      "end_date": "1921-04-19",
+      "filename": "c54558b01330.json"
+    },
+    "7285a91f1a0b": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1914-02-14",
+      "end_date": "1921-04-19",
+      "filename": "7285a91f1a0b.json"
+    },
+    "fe61aa6a18a6": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1914-02-14",
+      "end_date": "1921-03-03",
+      "filename": "fe61aa6a18a6.json"
+    },
+    "0776d592f569": {
+      "county_id": "scs_abbeville",
+      "name": "ABBEVILLE",
+      "start_date": "1916-04-12",
+      "end_date": "2000-12-31",
+      "filename": "0776d592f569.json"
+    },
+    "03957f7b5d61": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1916-04-12",
+      "end_date": "1921-02-08",
+      "filename": "03957f7b5d61.json"
+    },
+    "da19a5c5ed10": {
+      "county_id": "scs_mccormick",
+      "name": "MCCORMICK",
+      "start_date": "1916-04-12",
+      "end_date": "1921-02-08",
+      "filename": "da19a5c5ed10.json"
+    },
+    "709c6668a3a6": {
+      "county_id": "scs_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1916-04-12",
+      "end_date": "2000-12-31",
+      "filename": "709c6668a3a6.json"
+    },
+    "783558fcc743": {
+      "county_id": "scs_barnwell",
+      "name": "BARNWELL",
+      "start_date": "1919-02-06",
+      "end_date": "2000-12-31",
+      "filename": "783558fcc743.json"
+    },
+    "f995edbba335": {
+      "county_id": "scs_allendale",
+      "name": "ALLENDALE",
+      "start_date": "1919-02-06",
+      "end_date": "2000-12-31",
+      "filename": "f995edbba335.json"
+    },
+    "edcf222bf6b8": {
+      "county_id": "scs_hampton",
+      "name": "HAMPTON",
+      "start_date": "1919-02-06",
+      "end_date": "2000-12-31",
+      "filename": "edcf222bf6b8.json"
+    },
+    "17ca4cd58d1f": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1919-03-10",
+      "end_date": "1920-02-25",
+      "filename": "17ca4cd58d1f.json"
+    },
+    "cdc6466933cd": {
+      "county_id": "scs_bamberg",
+      "name": "BAMBERG",
+      "start_date": "1919-03-10",
+      "end_date": "1920-02-25",
+      "filename": "cdc6466933cd.json"
+    },
+    "197f080f3d36": {
+      "county_id": "scs_bamberg",
+      "name": "BAMBERG",
+      "start_date": "1920-02-26",
+      "end_date": "2000-12-31",
+      "filename": "197f080f3d36.json"
+    },
+    "8c51607a9d70": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1920-02-26",
+      "end_date": "1975-03-25",
+      "filename": "8c51607a9d70.json"
+    },
+    "c928ee987550": {
+      "county_id": "scs_newberry",
+      "name": "NEWBERRY",
+      "start_date": "1920-03-29",
+      "end_date": "1953-05-11",
+      "filename": "c928ee987550.json"
+    },
+    "3fc8cd2736a1": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1920-03-29",
+      "end_date": "1922-03-10",
+      "filename": "3fc8cd2736a1.json"
+    },
+    "2e443e360d83": {
+      "county_id": "scs_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1921-02-11",
+      "end_date": "2000-12-31",
+      "filename": "2e443e360d83.json"
+    },
+    "3ff985162b51": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1921-02-28",
+      "end_date": "1967-04-30",
+      "filename": "3ff985162b51.json"
+    },
+    "dbd79b9efb9e": {
+      "county_id": "scs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1921-02-28",
+      "end_date": "1962-01-08",
+      "filename": "dbd79b9efb9e.json"
+    },
+    "44c4d4748122": {
+      "county_id": "scs_lee",
+      "name": "LEE",
+      "start_date": "1921-03-07",
+      "end_date": "1925-03-04",
+      "filename": "44c4d4748122.json"
+    },
+    "65651279a2a8": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1921-03-07",
+      "end_date": "1925-03-04",
+      "filename": "65651279a2a8.json"
+    },
+    "130143ea2d7b": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1921-04-20",
+      "end_date": "1922-03-10",
+      "filename": "130143ea2d7b.json"
+    },
+    "176cd249b08c": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1921-04-20",
+      "end_date": "1922-03-10",
+      "filename": "176cd249b08c.json"
+    },
+    "e382bbba67bd": {
+      "county_id": "scs_york",
+      "name": "YORK",
+      "start_date": "1921-02-11",
+      "end_date": "2000-12-31",
+      "filename": "e382bbba67bd.json"
+    },
+    "2088ce64baff": {
+      "county_id": "scs_williamsburg",
+      "name": "WILLIAMSBURG",
+      "start_date": "1921-03-04",
+      "end_date": "2000-12-31",
+      "filename": "2088ce64baff.json"
+    },
+    "6fa820d07f7a": {
+      "county_id": "scs_mccormick",
+      "name": "MCCORMICK",
+      "start_date": "1921-02-11",
+      "end_date": "2000-12-31",
+      "filename": "6fa820d07f7a.json"
+    },
+    "7a0792a3def2": {
+      "county_id": "scs_florence",
+      "name": "FLORENCE",
+      "start_date": "1921-03-04",
+      "end_date": "2000-12-31",
+      "filename": "7a0792a3def2.json"
+    },
+    "82685f26e8ca": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1921-02-11",
+      "end_date": "2000-12-31",
+      "filename": "82685f26e8ca.json"
+    },
+    "36abb314c1fc": {
+      "county_id": "scs_edgefield",
+      "name": "EDGEFIELD",
+      "start_date": "1921-02-09",
+      "end_date": "1921-02-10",
+      "filename": "36abb314c1fc.json"
+    },
+    "19b7a6a709c6": {
+      "county_id": "scs_mccormick",
+      "name": "MCCORMICK",
+      "start_date": "1921-02-09",
+      "end_date": "1921-02-10",
+      "filename": "19b7a6a709c6.json"
+    },
+    "39dfa84d6ecf": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1922-03-11",
+      "end_date": "1953-05-11",
+      "filename": "39dfa84d6ecf.json"
+    },
+    "a61a6ad57f36": {
+      "county_id": "scs_clarendon",
+      "name": "CLARENDON",
+      "start_date": "1922-03-11",
+      "end_date": "2000-12-31",
+      "filename": "a61a6ad57f36.json"
+    },
+    "06e30755899b": {
+      "county_id": "scs_richland",
+      "name": "RICHLAND",
+      "start_date": "1922-03-11",
+      "end_date": "2000-12-31",
+      "filename": "06e30755899b.json"
+    },
+    "84b33bd8e9c3": {
+      "county_id": "scs_sumter",
+      "name": "SUMTER",
+      "start_date": "1922-03-11",
+      "end_date": "2000-12-31",
+      "filename": "84b33bd8e9c3.json"
+    },
+    "add58f35ed29": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1925-03-05",
+      "end_date": "1977-12-30",
+      "filename": "add58f35ed29.json"
+    },
+    "d1399579f2de": {
+      "county_id": "scs_lee",
+      "name": "LEE",
+      "start_date": "1925-03-05",
+      "end_date": "2000-12-31",
+      "filename": "d1399579f2de.json"
+    },
+    "1729fb6dd99f": {
+      "county_id": "scs_jasper",
+      "name": "JASPER",
+      "start_date": "1951-12-04",
+      "end_date": "2000-12-31",
+      "filename": "1729fb6dd99f.json"
+    },
+    "c8e4a305331f": {
+      "county_id": "scs_beaufort",
+      "name": "BEAUFORT",
+      "start_date": "1951-12-04",
+      "end_date": "2000-12-31",
+      "filename": "c8e4a305331f.json"
+    },
+    "b58fbf952b76": {
+      "county_id": "scs_newberry",
+      "name": "NEWBERRY",
+      "start_date": "1953-05-12",
+      "end_date": "2000-12-31",
+      "filename": "b58fbf952b76.json"
+    },
+    "f2290913e2e6": {
+      "county_id": "scs_lexington",
+      "name": "LEXINGTON",
+      "start_date": "1953-05-12",
+      "end_date": "2000-12-31",
+      "filename": "f2290913e2e6.json"
+    },
+    "8a7f92e1e330": {
+      "county_id": "scs_orangeburg",
+      "name": "ORANGEBURG",
+      "start_date": "1962-01-09",
+      "end_date": "2000-12-31",
+      "filename": "8a7f92e1e330.json"
+    },
+    "39df0993ac33": {
+      "county_id": "scs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1962-01-09",
+      "end_date": "2000-12-31",
+      "filename": "39df0993ac33.json"
+    },
+    "43f8aad01913": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1967-05-01",
+      "end_date": "1969-02-19",
+      "filename": "43f8aad01913.json"
+    },
+    "1626646c0d99": {
+      "county_id": "scs_dorchester",
+      "name": "DORCHESTER",
+      "start_date": "1967-05-01",
+      "end_date": "1969-02-19",
+      "filename": "1626646c0d99.json"
+    },
+    "ddfd5b693df2": {
+      "county_id": "scs_oconee",
+      "name": "OCONEE",
+      "start_date": "1967-02-20",
+      "end_date": "2000-12-31",
+      "filename": "ddfd5b693df2.json"
+    },
+    "345c0bed8a59": {
+      "county_id": "scs_pickens",
+      "name": "PICKENS",
+      "start_date": "1967-02-20",
+      "end_date": "2000-12-31",
+      "filename": "345c0bed8a59.json"
+    },
+    "13f25e20372a": {
+      "county_id": "scs_dorchester",
+      "name": "DORCHESTER",
+      "start_date": "1969-02-20",
+      "end_date": "1977-05-12",
+      "filename": "13f25e20372a.json"
+    },
+    "1c5b7c9aa7d1": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1969-02-20",
+      "end_date": "1975-03-25",
+      "filename": "1c5b7c9aa7d1.json"
+    },
+    "65c5ee08d7da": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1975-03-26",
+      "end_date": "1977-05-12",
+      "filename": "65c5ee08d7da.json"
+    },
+    "c8cece2cade7": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1975-03-26",
+      "end_date": "1987-03-16",
+      "filename": "c8cece2cade7.json"
+    },
+    "592933d702e5": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1977-05-13",
+      "end_date": "1987-03-16",
+      "filename": "592933d702e5.json"
+    },
+    "cb3ba8cdbefb": {
+      "county_id": "scs_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1977-12-31",
+      "end_date": "1979-12-30",
+      "filename": "cb3ba8cdbefb.json"
+    },
+    "508b240a22d8": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1977-12-31",
+      "end_date": "1979-12-30",
+      "filename": "508b240a22d8.json"
+    },
+    "46a3f7c5c138": {
+      "county_id": "scs_dorchester",
+      "name": "DORCHESTER",
+      "start_date": "1977-05-13",
+      "end_date": "2000-12-31",
+      "filename": "46a3f7c5c138.json"
+    },
+    "30912f28a1d0": {
+      "county_id": "scs_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1979-12-31",
+      "end_date": "2000-12-31",
+      "filename": "30912f28a1d0.json"
+    },
+    "8010ab842a45": {
+      "county_id": "scs_kershaw",
+      "name": "KERSHAW",
+      "start_date": "1979-12-31",
+      "end_date": "2000-12-31",
+      "filename": "8010ab842a45.json"
+    },
+    "90068b2f7660": {
+      "county_id": "scs_colleton",
+      "name": "COLLETON",
+      "start_date": "1987-03-17",
+      "end_date": "2000-12-31",
+      "filename": "90068b2f7660.json"
+    },
+    "9028f0d6db71": {
+      "county_id": "scs_charleston",
+      "name": "CHARLESTON",
+      "start_date": "1987-03-17",
+      "end_date": "2000-12-31",
+      "filename": "9028f0d6db71.json"
+    },
+    "2c656908e904": {
+      "county_id": "scs_beaufortdist",
+      "name": "Beaufort Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1868-04-15",
+      "filename": "2c656908e904.json"
+    },
+    "10cc1bc9caf3": {
+      "county_id": "scs_orangeburgdist",
+      "name": "Orangeburg Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1799-12-31",
+      "filename": "10cc1bc9caf3.json"
+    },
+    "c80e8dc1a5ee": {
+      "county_id": "scs_marlborodist",
+      "name": "Marlboro Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "c80e8dc1a5ee.json"
+    },
+    "ad09a19a0856": {
+      "county_id": "scs_uniondist",
+      "name": "Union Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "ad09a19a0856.json"
+    },
+    "07a9507d8eca": {
+      "county_id": "scs_fairfielddist",
+      "name": "Fairfield Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "07a9507d8eca.json"
+    },
+    "700a815ae94b": {
+      "county_id": "scs_yorkdist",
+      "name": "York Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "700a815ae94b.json"
+    },
+    "f6558bb09d82": {
+      "county_id": "scs_spartanburgdist",
+      "name": "Spartanburg Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "f6558bb09d82.json"
+    },
+    "eb272b225135": {
+      "county_id": "scs_sumterdist",
+      "name": "Sumter Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1857-01-04",
+      "filename": "eb272b225135.json"
+    },
+    "f45841318a55": {
+      "county_id": "scs_charlestondist",
+      "name": "Charleston Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1816-12-16",
+      "filename": "f45841318a55.json"
+    },
+    "30923b4281b1": {
+      "county_id": "scs_colletondist",
+      "name": "Colleton Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1816-12-16",
+      "filename": "30923b4281b1.json"
+    },
+    "aad91b4e1568": {
+      "county_id": "scs_pendletondist",
+      "name": "Pendleton Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1816-12-18",
+      "filename": "aad91b4e1568.json"
+    },
+    "4c8fa26511ec": {
+      "county_id": "scs_orangeburgdist",
+      "name": "Orangeburg Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1804-12-20",
+      "filename": "4c8fa26511ec.json"
+    },
+    "b38912e01dc6": {
+      "county_id": "scs_cherawsdist",
+      "name": "Cheraws Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1791-02-18",
+      "filename": "b38912e01dc6.json"
+    },
+    "42444b6d5712": {
+      "county_id": "scs_ninetysixdist",
+      "name": "Ninety-Six Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1791-02-18",
+      "filename": "42444b6d5712.json"
+    },
+    "2c5741ebea8d": {
+      "county_id": "scs_camdendist",
+      "name": "Camden Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1791-02-18",
+      "filename": "2c5741ebea8d.json"
+    },
+    "e2b538ccb068": {
+      "county_id": "scs_georgetowndist",
+      "name": "Georgetown Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1791-02-18",
+      "filename": "e2b538ccb068.json"
+    },
+    "b9ea6de8b016": {
+      "county_id": "scs_charlestondist",
+      "name": "Charleston Dist.",
+      "start_date": "1769-07-29",
+      "end_date": "1791-02-18",
+      "filename": "b9ea6de8b016.json"
+    },
+    "338bdbe39f72": {
+      "county_id": "scs_pinckneydist",
+      "name": "Pinckney Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "338bdbe39f72.json"
+    },
+    "4afb5abdf70c": {
+      "county_id": "scs_ninetysixdist",
+      "name": "Ninety-Six Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "4afb5abdf70c.json"
+    },
+    "0bdbee72e66c": {
+      "county_id": "scs_washingtondist",
+      "name": "Washington Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "0bdbee72e66c.json"
+    },
+    "89be183e78f3": {
+      "county_id": "scs_cherawsdist",
+      "name": "Cheraws Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "89be183e78f3.json"
+    },
+    "00160bae409e": {
+      "county_id": "scs_charlestondist",
+      "name": "Charleston Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "00160bae409e.json"
+    },
+    "8eef4cfe1404": {
+      "county_id": "scs_georgetowndist",
+      "name": "Georgetown Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-31",
+      "filename": "8eef4cfe1404.json"
+    },
+    "446706ff1b42": {
+      "county_id": "scs_camdendist",
+      "name": "Camden Dist.",
+      "start_date": "1791-02-19",
+      "end_date": "1799-12-17",
+      "filename": "446706ff1b42.json"
+    },
+    "3d0bc2e8efc4": {
+      "county_id": "scs_richlanddist",
+      "name": "Richland Dist.",
+      "start_date": "1799-12-18",
+      "end_date": "1868-04-15",
+      "filename": "3d0bc2e8efc4.json"
+    },
+    "efb7fa064e00": {
+      "county_id": "scs_camdendist",
+      "name": "Camden Dist.",
+      "start_date": "1799-12-18",
+      "end_date": "1799-12-31",
+      "filename": "efb7fa064e00.json"
+    },
+    "cea0ba0e37a5": {
+      "county_id": "scs_chesterfielddist",
+      "name": "Chesterfield Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "cea0ba0e37a5.json"
+    },
+    "b14ebb47d790": {
+      "county_id": "scs_darlingtondist",
+      "name": "Darlington Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "b14ebb47d790.json"
+    },
+    "2ecf3c885f6c": {
+      "county_id": "scs_greenvilledist",
+      "name": "Greenville Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "2ecf3c885f6c.json"
+    },
+    "582942e170a4": {
+      "county_id": "scs_edgefielddist",
+      "name": "Edgefield Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "582942e170a4.json"
+    },
+    "4e51ce89e38c": {
+      "county_id": "scs_barnwelldist",
+      "name": "Barnwell Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "4e51ce89e38c.json"
+    },
+    "52d4357ef48d": {
+      "county_id": "scs_kershawdist",
+      "name": "Kershaw Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "52d4357ef48d.json"
+    },
+    "a11d2e724a40": {
+      "county_id": "scs_lancasterdist",
+      "name": "Lancaster Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "a11d2e724a40.json"
+    },
+    "eb3a5e39d5c3": {
+      "county_id": "scs_laurensdist",
+      "name": "Laurens Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "eb3a5e39d5c3.json"
+    },
+    "71a3ea48ac50": {
+      "county_id": "scs_mariondist",
+      "name": "Marion Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "71a3ea48ac50.json"
+    },
+    "86c1e3b4bcce": {
+      "county_id": "scs_newberrydist",
+      "name": "Newberry Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "86c1e3b4bcce.json"
+    },
+    "79c7443e0f76": {
+      "county_id": "scs_georgetowndist",
+      "name": "Georgetown Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1801-12-18",
+      "filename": "79c7443e0f76.json"
+    },
+    "9243c578ae8b": {
+      "county_id": "scs_chesterdist",
+      "name": "Chester Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "9243c578ae8b.json"
+    },
+    "bc2a78852419": {
+      "county_id": "scs_abbevilledist",
+      "name": "Abbeville Dist.",
+      "start_date": "1800-01-01",
+      "end_date": "1868-04-15",
+      "filename": "bc2a78852419.json"
+    },
+    "6fc1da350eed": {
+      "county_id": "scs_horrydist",
+      "name": "Horry Dist.",
+      "start_date": "1801-12-19",
+      "end_date": "1868-04-15",
+      "filename": "6fc1da350eed.json"
+    },
+    "1d57c78d1d7b": {
+      "county_id": "scs_georgetowndist",
+      "name": "Georgetown Dist.",
+      "start_date": "1801-12-19",
+      "end_date": "1804-12-20",
+      "filename": "1d57c78d1d7b.json"
+    },
+    "f2632743f662": {
+      "county_id": "scs_georgetowndist",
+      "name": "Georgetown Dist.",
+      "start_date": "1804-12-21",
+      "end_date": "1868-04-15",
+      "filename": "f2632743f662.json"
+    },
+    "c2253d475356": {
+      "county_id": "scs_williamsburgdist",
+      "name": "Williamsburg Dist.",
+      "start_date": "1804-12-21",
+      "end_date": "1868-04-15",
+      "filename": "c2253d475356.json"
+    },
+    "8a2a03daa882": {
+      "county_id": "scs_orangeburgdist",
+      "name": "Orangeburg Dist.",
+      "start_date": "1804-12-21",
+      "end_date": "1807-12-18",
+      "filename": "8a2a03daa882.json"
+    },
+    "f8fd6b0073a6": {
+      "county_id": "scs_lexingtondist",
+      "name": "Lexington Dist.",
+      "start_date": "1804-12-21",
+      "end_date": "1805-12-18",
+      "filename": "f8fd6b0073a6.json"
+    },
+    "c7661e2ffacd": {
+      "county_id": "scs_lexingtondist",
+      "name": "Lexington Dist.",
+      "start_date": "1805-12-19",
+      "end_date": "1807-12-18",
+      "filename": "c7661e2ffacd.json"
+    },
+    "22c7c016ff3c": {
+      "county_id": "scs_nda",
+      "name": "NDA",
+      "start_date": "1805-12-19",
+      "end_date": "1807-12-18",
+      "filename": "22c7c016ff3c.json"
+    },
+    "3513a898dbc2": {
+      "county_id": "scs_orangeburgdist",
+      "name": "Orangeburg Dist.",
+      "start_date": "1807-12-19",
+      "end_date": "1832-12-19",
+      "filename": "3513a898dbc2.json"
+    },
+    "fa7218ed0943": {
+      "county_id": "scs_lexingtondist",
+      "name": "Lexington Dist.",
+      "start_date": "1807-12-19",
+      "end_date": "1832-12-19",
+      "filename": "fa7218ed0943.json"
+    },
+    "61b8e9a399a6": {
+      "county_id": "scs_colletondist",
+      "name": "Colleton Dist.",
+      "start_date": "1816-12-17",
+      "end_date": "1868-04-15",
+      "filename": "61b8e9a399a6.json"
+    },
+    "15a3f8ee458d": {
+      "county_id": "scs_charlestondist",
+      "name": "Charleston Dist.",
+      "start_date": "1816-12-17",
+      "end_date": "1868-04-15",
+      "filename": "15a3f8ee458d.json"
+    },
+    "7c51c9f5fc8c": {
+      "county_id": "scs_pendletondist",
+      "name": "Pendleton Dist.",
+      "start_date": "1816-12-19",
+      "end_date": "1826-12-19",
+      "filename": "7c51c9f5fc8c.json"
+    },
+    "d75194be04ff": {
+      "county_id": "scs_pickensdist",
+      "name": "Pickens Dist.",
+      "start_date": "1826-12-20",
+      "end_date": "1868-01-28",
+      "filename": "d75194be04ff.json"
+    },
+    "6208b3845d5b": {
+      "county_id": "scs_andersondist",
+      "name": "Anderson Dist.",
+      "start_date": "1826-12-20",
+      "end_date": "1868-04-15",
+      "filename": "6208b3845d5b.json"
+    },
+    "9401d0bfa557": {
+      "county_id": "scs_orangeburgdist",
+      "name": "Orangeburg Dist.",
+      "start_date": "1832-12-20",
+      "end_date": "1868-04-15",
+      "filename": "9401d0bfa557.json"
+    },
+    "42ac396452c9": {
+      "county_id": "scs_lexingtondist",
+      "name": "Lexington Dist.",
+      "start_date": "1832-12-20",
+      "end_date": "1868-04-15",
+      "filename": "42ac396452c9.json"
+    },
+    "e805200c3843": {
+      "county_id": "scs_clarendondist",
+      "name": "Clarendon Dist.",
+      "start_date": "1857-12-21",
+      "end_date": "1868-04-15",
+      "filename": "e805200c3843.json"
+    },
+    "baecf0b4f915": {
+      "county_id": "scs_sumterdist",
+      "name": "Sumter Dist.",
+      "start_date": "1857-12-21",
+      "end_date": "1868-04-15",
+      "filename": "baecf0b4f915.json"
+    },
+    "215fafbc565c": {
+      "county_id": "scs_sumterdist",
+      "name": "Sumter Dist.",
+      "start_date": "1857-01-05",
+      "end_date": "1857-12-20",
+      "filename": "215fafbc565c.json"
+    },
+    "1e67633346f4": {
+      "county_id": "scs_clarendondist",
+      "name": "Clarendon Dist.",
+      "start_date": "1857-01-05",
+      "end_date": "1857-12-20",
+      "filename": "1e67633346f4.json"
+    },
+    "0169c86a555e": {
+      "county_id": "scs_oconeedist",
+      "name": "Oconee Dist.",
+      "start_date": "1868-01-29",
+      "end_date": "1868-04-15",
+      "filename": "0169c86a555e.json"
+    },
+    "074aa781dc94": {
+      "county_id": "scs_pickensdist",
+      "name": "Pickens Dist.",
+      "start_date": "1868-01-29",
+      "end_date": "1868-04-15",
+      "filename": "074aa781dc94.json"
+    },
+    "6450a9842732": {
+      "county_id": "scs_stphilipparish",
+      "name": "St. Philip P.",
+      "start_date": "1706-11-30",
+      "end_date": "1751-06-13",
+      "filename": "6450a9842732.json"
+    },
+    "19a4899030c7": {
+      "county_id": "scs_stpaulparish",
+      "name": "St. Paul P.",
+      "start_date": "1706-11-30",
+      "end_date": "1734-04-08",
+      "filename": "19a4899030c7.json"
+    },
+    "55f2a81fbc71": {
+      "county_id": "scs_stthomasstdennisparish",
+      "name": "St. Thomas-Dennis P.",
+      "start_date": "1706-11-30",
+      "end_date": "1737-03-04",
+      "filename": "55f2a81fbc71.json"
+    },
+    "4bea6ae47ec0": {
+      "county_id": "scs_stjamesgoosecreekparish",
+      "name": "St. James-Goose P.",
+      "start_date": "1706-11-30",
+      "end_date": "1733-09-21",
+      "filename": "4bea6ae47ec0.json"
+    },
+    "97359262af50": {
+      "county_id": "scs_stjamessanteeparish",
+      "name": "St. James-Santee P.",
+      "start_date": "1706-11-30",
+      "end_date": "1733-09-21",
+      "filename": "97359262af50.json"
+    },
+    "810347cd8e38": {
+      "county_id": "scs_stjohnberkeleyparish",
+      "name": "St. John-Berkeley P.",
+      "start_date": "1706-11-30",
+      "end_date": "1733-09-21",
+      "filename": "810347cd8e38.json"
+    },
+    "38dd171c990a": {
+      "county_id": "scs_stbartholomewparish",
+      "name": "St. Bartholomew P.",
+      "start_date": "1706-11-30",
+      "end_date": "1778-03-15",
+      "filename": "38dd171c990a.json"
+    },
+    "aea60a213e3f": {
+      "county_id": "scs_christchurchparish",
+      "name": "Christ Church P.",
+      "start_date": "1706-11-30",
+      "end_date": "1865-09-26",
+      "filename": "aea60a213e3f.json"
+    },
+    "dbec825c7db9": {
+      "county_id": "scs_standrewparish",
+      "name": "St. Andrew P.",
+      "start_date": "1706-11-30",
+      "end_date": "1717-12-10",
+      "filename": "dbec825c7db9.json"
+    },
+    "f2526dee6edf": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1712-06-07",
+      "end_date": "1745-05-24",
+      "filename": "f2526dee6edf.json"
+    },
+    "57a80076c440": {
+      "county_id": "scs_standrewparish",
+      "name": "St. Andrew P.",
+      "start_date": "1717-12-11",
+      "end_date": "1721-09-14",
+      "filename": "57a80076c440.json"
+    },
+    "7c059ae7fef4": {
+      "county_id": "scs_stgeorgedorchesterparish",
+      "name": "St. George-Dor P.",
+      "start_date": "1717-12-11",
+      "end_date": "1721-09-14",
+      "filename": "7c059ae7fef4.json"
+    },
+    "8b908efd36d3": {
+      "county_id": "scs_stgeorgedorchesterparish",
+      "name": "St. George-Dor P.",
+      "start_date": "1721-09-15",
+      "end_date": "1733-09-21",
+      "filename": "8b908efd36d3.json"
+    },
+    "1f689c675ec8": {
+      "county_id": "scs_standrewparish",
+      "name": "St. Andrew P.",
+      "start_date": "1721-09-15",
+      "end_date": "1865-09-26",
+      "filename": "1f689c675ec8.json"
+    },
+    "13ad060f429b": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1722-03-10",
+      "end_date": "1734-04-08",
+      "filename": "13ad060f429b.json"
+    },
+    "074e6ae55e66": {
+      "county_id": "scs_stjamessanteeparish",
+      "name": "St. James-Santee P.",
+      "start_date": "1733-09-22",
+      "end_date": "1754-05-10",
+      "filename": "074e6ae55e66.json"
+    },
+    "51f7acdc00a4": {
+      "county_id": "scs_stjohnberkeleyparish",
+      "name": "St. John-Berkeley P.",
+      "start_date": "1733-09-22",
+      "end_date": "1737-03-04",
+      "filename": "51f7acdc00a4.json"
+    },
+    "5f2402826ad1": {
+      "county_id": "scs_stgeorgedorchesterparish",
+      "name": "St. George-Dor P.",
+      "start_date": "1733-09-22",
+      "end_date": "1778-03-15",
+      "filename": "5f2402826ad1.json"
+    },
+    "eb7a1cac502d": {
+      "county_id": "scs_stjamesgoosecreekparish",
+      "name": "St. James-Goose P.",
+      "start_date": "1733-09-22",
+      "end_date": "1778-03-15",
+      "filename": "eb7a1cac502d.json"
+    },
+    "c46e72bfee63": {
+      "county_id": "scs_princefrederickparish",
+      "name": "Prince Frederick P.",
+      "start_date": "1734-04-09",
+      "end_date": "1735-03-28",
+      "filename": "c46e72bfee63.json"
+    },
+    "57d42b8ae755": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1734-04-09",
+      "end_date": "1735-03-28",
+      "filename": "57d42b8ae755.json"
+    },
+    "d5196f2bf544": {
+      "county_id": "scs_stjohncolletonparish",
+      "name": "St. John-Colleton P.",
+      "start_date": "1734-04-09",
+      "end_date": "1865-09-26",
+      "filename": "d5196f2bf544.json"
+    },
+    "9fd7e573fa72": {
+      "county_id": "scs_stpaulparish",
+      "name": "St. Paul P.",
+      "start_date": "1734-04-09",
+      "end_date": "1865-09-26",
+      "filename": "9fd7e573fa72.json"
+    },
+    "9a7692b27a3c": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1735-03-29",
+      "end_date": "1767-05-22",
+      "filename": "9a7692b27a3c.json"
+    },
+    "f5e1997b24a7": {
+      "county_id": "scs_princefrederickparish",
+      "name": "Prince Frederick P.",
+      "start_date": "1735-03-29",
+      "end_date": "1757-05-20",
+      "filename": "f5e1997b24a7.json"
+    },
+    "70255f158789": {
+      "county_id": "scs_stthomasstdennisparish",
+      "name": "St. Thomas-Dennis P.",
+      "start_date": "1737-03-05",
+      "end_date": "1865-09-26",
+      "filename": "70255f158789.json"
+    },
+    "ffebb79e76e6": {
+      "county_id": "scs_stjohnberkeleyparish",
+      "name": "St. John-Berkeley P.",
+      "start_date": "1737-03-05",
+      "end_date": "1778-03-15",
+      "filename": "ffebb79e76e6.json"
+    },
+    "972818e5402f": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1745-05-25",
+      "end_date": "1747-02-16",
+      "filename": "972818e5402f.json"
+    },
+    "71b6a4a61b4e": {
+      "county_id": "scs_princewilliamparish",
+      "name": "Prince William P.",
+      "start_date": "1745-05-25",
+      "end_date": "1775-05-31",
+      "filename": "71b6a4a61b4e.json"
+    },
+    "0689416566d2": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1747-02-17",
+      "end_date": "1767-05-22",
+      "filename": "0689416566d2.json"
+    },
+    "e1bec84e51b0": {
+      "county_id": "scs_stpeterparish",
+      "name": "St. Peter P.",
+      "start_date": "1747-02-17",
+      "end_date": "1775-05-31",
+      "filename": "e1bec84e51b0.json"
+    },
+    "c20e4b5b3fa6": {
+      "county_id": "scs_stphilipparish",
+      "name": "St. Philip P.",
+      "start_date": "1751-06-14",
+      "end_date": "1865-09-26",
+      "filename": "c20e4b5b3fa6.json"
+    },
+    "3c505731883d": {
+      "county_id": "scs_stmichaelparish",
+      "name": "St. Michael P.",
+      "start_date": "1751-06-14",
+      "end_date": "1865-09-26",
+      "filename": "3c505731883d.json"
+    },
+    "db2acec58e7c": {
+      "county_id": "scs_stjamessanteeparish",
+      "name": "St. James-Santee P.",
+      "start_date": "1754-05-11",
+      "end_date": "1865-09-26",
+      "filename": "db2acec58e7c.json"
+    },
+    "8ee43d233ae3": {
+      "county_id": "scs_ststephenparish",
+      "name": "St. Stephen P.",
+      "start_date": "1754-05-11",
+      "end_date": "1865-09-26",
+      "filename": "8ee43d233ae3.json"
+    },
+    "2b6b5c6818be": {
+      "county_id": "scs_stmarkparish",
+      "name": "St. Mark P.",
+      "start_date": "1757-05-21",
+      "end_date": "1768-04-11",
+      "filename": "2b6b5c6818be.json"
+    },
+    "b5024279acf3": {
+      "county_id": "scs_princefrederickparish",
+      "name": "Prince Frederick P.",
+      "start_date": "1757-05-21",
+      "end_date": "1768-04-11",
+      "filename": "b5024279acf3.json"
+    },
+    "9f6289347ba8": {
+      "county_id": "scs_stmatthewparish",
+      "name": "St. Matthew P.",
+      "start_date": "1765-08-09",
+      "end_date": "1767-06-19",
+      "filename": "9f6289347ba8.json"
+    },
+    "169e64d8b20b": {
+      "county_id": "scs_npa",
+      "name": "NPA",
+      "start_date": "1765-08-09",
+      "end_date": "1778-03-15",
+      "filename": "169e64d8b20b.json"
+    },
+    "73b5114376a3": {
+      "county_id": "scs_stlukeparish",
+      "name": "St. Luke P.",
+      "start_date": "1767-05-23",
+      "end_date": "1770-12-18",
+      "filename": "73b5114376a3.json"
+    },
+    "d5c5c9b4a4a8": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1767-05-23",
+      "end_date": "1770-12-18",
+      "filename": "d5c5c9b4a4a8.json"
+    },
+    "334cecdf459c": {
+      "county_id": "scs_allsaintsparish",
+      "name": "All Saints P.",
+      "start_date": "1767-05-23",
+      "end_date": "1770-12-18",
+      "filename": "334cecdf459c.json"
+    },
+    "8efbe1ac8041": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1767-05-23",
+      "end_date": "1770-12-18",
+      "filename": "8efbe1ac8041.json"
+    },
+    "d43ec7f4f6cc": {
+      "county_id": "scs_stmatthewparish",
+      "name": "St. Matthew P.",
+      "start_date": "1768-04-12",
+      "end_date": "1778-03-15",
+      "filename": "d43ec7f4f6cc.json"
+    },
+    "f6d5c5e6874d": {
+      "county_id": "scs_stmarkparish",
+      "name": "St. Mark P.",
+      "start_date": "1768-04-12",
+      "end_date": "1865-09-26",
+      "filename": "f6d5c5e6874d.json"
+    },
+    "3efb5b2700f3": {
+      "county_id": "scs_princefrederickparish",
+      "name": "Prince Frederick P.",
+      "start_date": "1768-04-12",
+      "end_date": "1791-02-18",
+      "filename": "3efb5b2700f3.json"
+    },
+    "ffbb2ae382a7": {
+      "county_id": "scs_stdavidparish",
+      "name": "St. David P.",
+      "start_date": "1768-04-12",
+      "end_date": "1865-09-26",
+      "filename": "ffbb2ae382a7.json"
+    },
+    "297b29410911": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1770-12-19",
+      "end_date": "1790-06-02",
+      "filename": "297b29410911.json"
+    },
+    "d22f0c2de2fc": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1770-12-19",
+      "end_date": "1778-03-15",
+      "filename": "d22f0c2de2fc.json"
+    },
+    "cb19973d4681": {
+      "county_id": "scs_stpeterparish",
+      "name": "St. Peter P.",
+      "start_date": "1775-06-01",
+      "end_date": "1865-09-26",
+      "filename": "cb19973d4681.json"
+    },
+    "a8a0b2032781": {
+      "county_id": "scs_princewilliamparish",
+      "name": "Prince William P.",
+      "start_date": "1775-06-01",
+      "end_date": "1865-09-26",
+      "filename": "a8a0b2032781.json"
+    },
+    "af7fc4dcdee1": {
+      "county_id": "scs_stjamesgoosecreekparish",
+      "name": "St. James-Goose P.",
+      "start_date": "1778-03-16",
+      "end_date": "1816-12-16",
+      "filename": "af7fc4dcdee1.json"
+    },
+    "f502e23c70f1": {
+      "county_id": "scs_stgeorgedorchesterparish",
+      "name": "St. George-Dor P.",
+      "start_date": "1778-03-16",
+      "end_date": "1816-12-16",
+      "filename": "f502e23c70f1.json"
+    },
+    "8be11aba7183": {
+      "county_id": "scs_stmatthewparish",
+      "name": "St. Matthew P.",
+      "start_date": "1778-03-16",
+      "end_date": "1803-12-16",
+      "filename": "8be11aba7183.json"
+    },
+    "fc60fb2141b2": {
+      "county_id": "scs_orangeparish",
+      "name": "Orange P.",
+      "start_date": "1778-03-16",
+      "end_date": "1803-12-16",
+      "filename": "fc60fb2141b2.json"
+    },
+    "bf83d1a0d353": {
+      "county_id": "scs_allsaintsparish",
+      "name": "All Saints P.",
+      "start_date": "1778-03-16",
+      "end_date": "1865-09-26",
+      "filename": "bf83d1a0d353.json"
+    },
+    "563afa9cc464": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1778-03-16",
+      "end_date": "1791-02-18",
+      "filename": "563afa9cc464.json"
+    },
+    "4f3dd1a7d75c": {
+      "county_id": "scs_stbartholomewparish",
+      "name": "St. Bartholomew P.",
+      "start_date": "1778-03-16",
+      "end_date": "1865-09-26",
+      "filename": "4f3dd1a7d75c.json"
+    },
+    "670eed26e6f5": {
+      "county_id": "scs_stjohnberkeleyparish",
+      "name": "St. John-Berkeley P.",
+      "start_date": "1778-03-16",
+      "end_date": "1865-09-26",
+      "filename": "670eed26e6f5.json"
+    },
+    "1eefda62a3b1": {
+      "county_id": "scs_stlukeparish",
+      "name": "St. Luke P.",
+      "start_date": "1790-06-03",
+      "end_date": "1865-09-26",
+      "filename": "1eefda62a3b1.json"
+    },
+    "ab941f86867d": {
+      "county_id": "scs_sthelenaparish",
+      "name": "St. Helena P.",
+      "start_date": "1790-06-03",
+      "end_date": "1865-09-26",
+      "filename": "ab941f86867d.json"
+    },
+    "44431803fa24": {
+      "county_id": "scs_princegeorgewinyawparish",
+      "name": "Prince George-Win P.",
+      "start_date": "1791-02-19",
+      "end_date": "1865-09-26",
+      "filename": "44431803fa24.json"
+    },
+    "9cd4ec0f35cf": {
+      "county_id": "scs_princefrederickparish",
+      "name": "Prince Frederick P.",
+      "start_date": "1791-02-19",
+      "end_date": "1865-09-26",
+      "filename": "9cd4ec0f35cf.json"
+    },
+    "cbf529c53dcf": {
+      "county_id": "scs_orangeparish",
+      "name": "Orange P.",
+      "start_date": "1803-12-17",
+      "end_date": "1805-12-18",
+      "filename": "cbf529c53dcf.json"
+    },
+    "c354199b357f": {
+      "county_id": "scs_stmatthewparish",
+      "name": "St. Matthew P.",
+      "start_date": "1803-12-17",
+      "end_date": "1865-09-26",
+      "filename": "c354199b357f.json"
+    },
+    "f61c55ab9c87": {
+      "county_id": "scs_orangeparish",
+      "name": "Orange P.",
+      "start_date": "1805-12-19",
+      "end_date": "1865-09-26",
+      "filename": "f61c55ab9c87.json"
+    },
+    "1ae99d7d5aad": {
+      "county_id": "scs_stgeorgedorchesterparish",
+      "name": "St. George-Dor P.",
+      "start_date": "1816-12-17",
+      "end_date": "1865-09-26",
+      "filename": "1ae99d7d5aad.json"
+    },
+    "0f046b28bd8b": {
+      "county_id": "scs_stjamesgoosecreekparish",
+      "name": "St. James-Goose P.",
+      "start_date": "1816-12-17",
+      "end_date": "1865-09-26",
+      "filename": "0f046b28bd8b.json"
+    }
+  }
+}

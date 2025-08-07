@@ -1,0 +1,4255 @@
+{
+  "state": "AR",
+  "total_features": 607,
+  "features": {
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "76c7463a526b": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "76c7463a526b.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "6fb263e438f1": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1815-03-01",
+      "end_date": "1819-01-31",
+      "filename": "6fb263e438f1.json"
+    },
+    "5f39b7d469c4": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1819-07-04",
+      "end_date": "1820-05-31",
+      "filename": "5f39b7d469c4.json"
+    },
+    "1097988bb9ad": {
+      "county_id": "ars_nca1",
+      "name": "NCA 1",
+      "start_date": "1819-07-04",
+      "end_date": "1820-05-31",
+      "filename": "1097988bb9ad.json"
+    },
+    "555518f98305": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1819-02-01",
+      "end_date": "1819-07-03",
+      "filename": "555518f98305.json"
+    },
+    "25812a1a9ff9": {
+      "county_id": "ars_quapawres",
+      "name": "Quapaw Indian Res.",
+      "start_date": "1819-06-01",
+      "end_date": "1827-10-12",
+      "filename": "25812a1a9ff9.json"
+    },
+    "8ef2d9eb4914": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1819-06-01",
+      "end_date": "1823-10-29",
+      "filename": "8ef2d9eb4914.json"
+    },
+    "8f2317037ade": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1819-06-01",
+      "end_date": "1820-12-31",
+      "filename": "8f2317037ade.json"
+    },
+    "b044b5fa1c3b": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1819-06-01",
+      "end_date": "1820-03-31",
+      "filename": "b044b5fa1c3b.json"
+    },
+    "3cf3f88180c6": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "3cf3f88180c6.json"
+    },
+    "92b7c63949da": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1820-04-01",
+      "end_date": "1828-01-31",
+      "filename": "92b7c63949da.json"
+    },
+    "f8cca62f859e": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (orig., ext)",
+      "start_date": "1820-04-01",
+      "end_date": "1824-05-25",
+      "filename": "f8cca62f859e.json"
+    },
+    "55e998b2027d": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1820-10-25",
+      "end_date": "1823-10-29",
+      "filename": "55e998b2027d.json"
+    },
+    "6d66bbf0854c": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1820-10-25",
+      "end_date": "1823-10-29",
+      "filename": "6d66bbf0854c.json"
+    },
+    "b18f26bb6e1e": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1820-06-01",
+      "end_date": "1821-12-31",
+      "filename": "b18f26bb6e1e.json"
+    },
+    "bc029c0f214e": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1820-06-01",
+      "end_date": "1821-12-31",
+      "filename": "bc029c0f214e.json"
+    },
+    "e7953bd764c1": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1820-10-25",
+      "end_date": "1820-12-31",
+      "filename": "e7953bd764c1.json"
+    },
+    "94b18d13d3c6": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1821-10-24",
+      "end_date": "1823-10-29",
+      "filename": "94b18d13d3c6.json"
+    },
+    "4490feebd994": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1821-10-24",
+      "end_date": "1823-10-29",
+      "filename": "4490feebd994.json"
+    },
+    "526c298bbd4a": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1821-01-01",
+      "end_date": "1823-10-29",
+      "filename": "526c298bbd4a.json"
+    },
+    "c0d0c825e9d4": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1821-01-01",
+      "end_date": "1821-10-23",
+      "filename": "c0d0c825e9d4.json"
+    },
+    "3dbb505af85c": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1821-01-01",
+      "end_date": "1821-10-23",
+      "filename": "3dbb505af85c.json"
+    },
+    "2de2d1338a69": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1822-01-01",
+      "end_date": "1823-10-29",
+      "filename": "2de2d1338a69.json"
+    },
+    "3ca435d754f7": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1822-01-01",
+      "end_date": "1823-10-24",
+      "filename": "3ca435d754f7.json"
+    },
+    "06cde07da94d": {
+      "county_id": "ars_nca3",
+      "name": "NCA 3",
+      "start_date": "1823-10-30",
+      "end_date": "1828-10-21",
+      "filename": "06cde07da94d.json"
+    },
+    "d70f17101fac": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1823-10-30",
+      "end_date": "1827-11-30",
+      "filename": "d70f17101fac.json"
+    },
+    "4982762e2f7f": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1823-10-30",
+      "end_date": "1827-10-12",
+      "filename": "4982762e2f7f.json"
+    },
+    "6457cfc603c4": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1823-10-30",
+      "end_date": "1825-12-31",
+      "filename": "6457cfc603c4.json"
+    },
+    "c4c03975efd1": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1823-10-30",
+      "end_date": "1825-12-31",
+      "filename": "c4c03975efd1.json"
+    },
+    "667677ddbb5d": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1823-10-30",
+      "end_date": "1825-12-31",
+      "filename": "667677ddbb5d.json"
+    },
+    "f2e8a4d47550": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1823-10-30",
+      "end_date": "1824-05-25",
+      "filename": "f2e8a4d47550.json"
+    },
+    "8d03454ebd6f": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1823-10-30",
+      "end_date": "1824-05-25",
+      "filename": "8d03454ebd6f.json"
+    },
+    "8fcacd478e7e": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1823-10-30",
+      "end_date": "1824-05-25",
+      "filename": "8fcacd478e7e.json"
+    },
+    "502c13a2b8c3": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1823-10-25",
+      "end_date": "1835-11-01",
+      "filename": "502c13a2b8c3.json"
+    },
+    "3fa549c52b74": {
+      "county_id": "ars_nca2",
+      "name": "NCA 2",
+      "start_date": "1823-10-25",
+      "end_date": "1829-11-01",
+      "filename": "3fa549c52b74.json"
+    },
+    "052348cf25b1": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1823-10-25",
+      "end_date": "1823-10-29",
+      "filename": "052348cf25b1.json"
+    },
+    "bba444594a50": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (orig., ext)",
+      "start_date": "1824-05-26",
+      "end_date": "1828-05-05",
+      "filename": "bba444594a50.json"
+    },
+    "a45b7cec7a72": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1824-05-26",
+      "end_date": "1827-11-30",
+      "filename": "a45b7cec7a72.json"
+    },
+    "6af43b9c7607": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1824-05-26",
+      "end_date": "1827-10-12",
+      "filename": "6af43b9c7607.json"
+    },
+    "7532b09657a9": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1824-05-26",
+      "end_date": "1827-10-12",
+      "filename": "7532b09657a9.json"
+    },
+    "b5452fa8583e": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1875-11-30",
+      "end_date": "1875-12-06",
+      "filename": "b5452fa8583e.json"
+    },
+    "39103c11c3bc": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1876-05-01",
+      "end_date": "2000-12-31",
+      "filename": "39103c11c3bc.json"
+    },
+    "008b3fee9b90": {
+      "county_id": "ars_clay",
+      "name": "CLAY",
+      "start_date": "1876-01-01",
+      "end_date": "1895-04-29",
+      "filename": "008b3fee9b90.json"
+    },
+    "1dddae649706": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1876-05-01",
+      "end_date": "1879-02-09",
+      "filename": "1dddae649706.json"
+    },
+    "5b6810f35c5d": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1877-03-08",
+      "end_date": "2000-12-31",
+      "filename": "5b6810f35c5d.json"
+    },
+    "e7f003e2a8c5": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1877-03-08",
+      "end_date": "2000-12-31",
+      "filename": "e7f003e2a8c5.json"
+    },
+    "dc0d8c60ba8c": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1877-03-09",
+      "end_date": "2000-12-31",
+      "filename": "dc0d8c60ba8c.json"
+    },
+    "faaa0d33b340": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1877-03-09",
+      "end_date": "1885-02-16",
+      "filename": "faaa0d33b340.json"
+    },
+    "9859823fa179": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1877-03-09",
+      "end_date": "1883-03-09",
+      "filename": "9859823fa179.json"
+    },
+    "6837a3dfcaf3": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1877-03-09",
+      "end_date": "1883-03-09",
+      "filename": "6837a3dfcaf3.json"
+    },
+    "f606a1aa473e": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1879-03-20",
+      "end_date": "1889-02-24",
+      "filename": "f606a1aa473e.json"
+    },
+    "a533ad05ccb3": {
+      "county_id": "ars_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1826-01-01",
+      "end_date": "1833-12-31",
+      "filename": "a533ad05ccb3.json"
+    },
+    "fd8e9ca8785a": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1826-01-01",
+      "end_date": "1828-10-21",
+      "filename": "fd8e9ca8785a.json"
+    },
+    "bbcba5dc4450": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1826-01-01",
+      "end_date": "1827-10-23",
+      "filename": "bbcba5dc4450.json"
+    },
+    "c70ab754a6cb": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1826-01-01",
+      "end_date": "1827-10-12",
+      "filename": "c70ab754a6cb.json"
+    },
+    "30b3fa1a77a4": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1826-01-01",
+      "end_date": "1827-10-12",
+      "filename": "30b3fa1a77a4.json"
+    },
+    "670340f20aee": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1826-01-01",
+      "end_date": "1827-11-30",
+      "filename": "670340f20aee.json"
+    },
+    "534df1a2da93": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1827-12-01",
+      "end_date": "1838-02-28",
+      "filename": "534df1a2da93.json"
+    },
+    "6262f470fc9c": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1827-12-01",
+      "end_date": "1834-10-31",
+      "filename": "6262f470fc9c.json"
+    },
+    "2720d78d5662": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1827-12-01",
+      "end_date": "1829-12-31",
+      "filename": "2720d78d5662.json"
+    },
+    "2847ad2814ac": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1827-10-24",
+      "end_date": "1828-11-30",
+      "filename": "2847ad2814ac.json"
+    },
+    "928ecac5d8cf": {
+      "county_id": "art_loveley",
+      "name": "LOVELEY (ext)",
+      "start_date": "1827-12-01",
+      "end_date": "1828-05-05",
+      "filename": "928ecac5d8cf.json"
+    },
+    "9301e0ef560f": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1827-10-24",
+      "end_date": "1828-10-21",
+      "filename": "9301e0ef560f.json"
+    },
+    "2a7e253e4840": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1827-12-01",
+      "end_date": "1828-05-05",
+      "filename": "2a7e253e4840.json"
+    },
+    "b80aee319456": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1827-10-13",
+      "end_date": "1829-12-31",
+      "filename": "b80aee319456.json"
+    },
+    "f397c743d328": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1827-10-13",
+      "end_date": "1828-05-05",
+      "filename": "f397c743d328.json"
+    },
+    "ad4c1af92e43": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1827-10-13",
+      "end_date": "1827-10-23",
+      "filename": "ad4c1af92e43.json"
+    },
+    "9f1106730d26": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1827-10-13",
+      "end_date": "1827-11-30",
+      "filename": "9f1106730d26.json"
+    },
+    "ba5cf872eac4": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1827-10-13",
+      "end_date": "1828-10-21",
+      "filename": "ba5cf872eac4.json"
+    },
+    "0f8156d3be61": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1828-12-01",
+      "end_date": "1831-11-04",
+      "filename": "0f8156d3be61.json"
+    },
+    "4a6c8b3c7e44": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1828-11-01",
+      "end_date": "1831-10-25",
+      "filename": "4a6c8b3c7e44.json"
+    },
+    "84fdbe9f2f51": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1828-12-01",
+      "end_date": "1829-12-31",
+      "filename": "84fdbe9f2f51.json"
+    },
+    "b6e16fa98baa": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1828-11-01",
+      "end_date": "1829-11-01",
+      "filename": "b6e16fa98baa.json"
+    },
+    "33ecdf2ab8e8": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1828-11-01",
+      "end_date": "1829-12-24",
+      "filename": "33ecdf2ab8e8.json"
+    },
+    "1f444e327d19": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (orig., ext)",
+      "start_date": "1828-11-01",
+      "end_date": "1829-11-13",
+      "filename": "1f444e327d19.json"
+    },
+    "781599d55dad": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1828-11-01",
+      "end_date": "1829-11-13",
+      "filename": "781599d55dad.json"
+    },
+    "cb167e959f3f": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1828-10-22",
+      "end_date": "1831-10-25",
+      "filename": "cb167e959f3f.json"
+    },
+    "3d3e41f12cea": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1828-10-22",
+      "end_date": "1829-12-24",
+      "filename": "3d3e41f12cea.json"
+    },
+    "4d27b554de83": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1828-10-22",
+      "end_date": "1828-11-30",
+      "filename": "4d27b554de83.json"
+    },
+    "abaca5cf6adc": {
+      "county_id": "ars_nca3",
+      "name": "NCA 3",
+      "start_date": "1828-10-22",
+      "end_date": "1828-10-31",
+      "filename": "abaca5cf6adc.json"
+    },
+    "ec8de613633a": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1828-10-22",
+      "end_date": "1828-10-31",
+      "filename": "ec8de613633a.json"
+    },
+    "f2bec9575f66": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1828-02-01",
+      "end_date": "1840-05-20",
+      "filename": "f2bec9575f66.json"
+    },
+    "db754f0e6946": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1828-05-06",
+      "end_date": "1829-11-01",
+      "filename": "db754f0e6946.json"
+    },
+    "adc5d9610156": {
+      "county_id": "art_loveley",
+      "name": "LOVELEY (ext)",
+      "start_date": "1828-05-06",
+      "end_date": "1828-10-31",
+      "filename": "adc5d9610156.json"
+    },
+    "74cdff7ea25a": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1828-02-01",
+      "end_date": "1828-10-31",
+      "filename": "74cdff7ea25a.json"
+    },
+    "284f386641a2": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (orig., ext)",
+      "start_date": "1828-05-06",
+      "end_date": "1828-10-31",
+      "filename": "284f386641a2.json"
+    },
+    "fe8892ff516c": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1828-05-06",
+      "end_date": "1828-10-21",
+      "filename": "fe8892ff516c.json"
+    },
+    "d72b215816a5": {
+      "county_id": "ars_nca4",
+      "name": "NCA 4",
+      "start_date": "1829-12-25",
+      "end_date": "1845-01-01",
+      "filename": "d72b215816a5.json"
+    },
+    "a0b6e251ec5d": {
+      "county_id": "ars_jackson",
+      "name": "JACKSON",
+      "start_date": "1829-12-25",
+      "end_date": "1835-11-30",
+      "filename": "a0b6e251ec5d.json"
+    },
+    "787d4156bdd0": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1829-12-25",
+      "end_date": "1833-11-30",
+      "filename": "787d4156bdd0.json"
+    },
+    "424199d2443a": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1829-12-25",
+      "end_date": "1833-11-30",
+      "filename": "424199d2443a.json"
+    },
+    "1435b0c4eebf": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1829-12-25",
+      "end_date": "1833-11-30",
+      "filename": "1435b0c4eebf.json"
+    },
+    "a431ba447064": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1829-12-25",
+      "end_date": "1833-11-10",
+      "filename": "a431ba447064.json"
+    },
+    "05c838f25183": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1829-11-02",
+      "end_date": "1835-11-01",
+      "filename": "05c838f25183.json"
+    },
+    "ed6629a40e06": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1829-11-02",
+      "end_date": "1829-12-24",
+      "filename": "ed6629a40e06.json"
+    },
+    "adf2207ebe76": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1829-11-02",
+      "end_date": "1833-11-30",
+      "filename": "adf2207ebe76.json"
+    },
+    "91d0005564e4": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1829-11-02",
+      "end_date": "1833-11-07",
+      "filename": "91d0005564e4.json"
+    },
+    "309b84ff9b46": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1829-11-14",
+      "end_date": "1833-11-07",
+      "filename": "309b84ff9b46.json"
+    },
+    "02a9dfe93550": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (orig., ext)",
+      "start_date": "1829-11-14",
+      "end_date": "1840-05-20",
+      "filename": "02a9dfe93550.json"
+    },
+    "a877cbe4635b": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1830-01-01",
+      "end_date": "1840-12-24",
+      "filename": "a877cbe4635b.json"
+    },
+    "1ca8c6a3af2c": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1830-01-01",
+      "end_date": "1836-11-06",
+      "filename": "1ca8c6a3af2c.json"
+    },
+    "21eb2a6656f7": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1830-01-01",
+      "end_date": "1831-11-02",
+      "filename": "21eb2a6656f7.json"
+    },
+    "8a54ce1e7d7a": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1830-01-01",
+      "end_date": "1831-11-02",
+      "filename": "8a54ce1e7d7a.json"
+    },
+    "199b9ae6bcae": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1830-01-01",
+      "end_date": "1831-11-02",
+      "filename": "199b9ae6bcae.json"
+    },
+    "5767cff9bdfc": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1831-11-05",
+      "end_date": "1833-11-10",
+      "filename": "5767cff9bdfc.json"
+    },
+    "635767919a4b": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1831-11-05",
+      "end_date": "1833-11-10",
+      "filename": "635767919a4b.json"
+    },
+    "286fb2ce9298": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1831-11-03",
+      "end_date": "1836-11-06",
+      "filename": "286fb2ce9298.json"
+    },
+    "1095fdc24f99": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1831-11-03",
+      "end_date": "1836-11-06",
+      "filename": "1095fdc24f99.json"
+    },
+    "9c169768b319": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1831-11-03",
+      "end_date": "1835-11-01",
+      "filename": "9c169768b319.json"
+    },
+    "782068c91b5c": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1831-10-26",
+      "end_date": "1833-12-24",
+      "filename": "782068c91b5c.json"
+    },
+    "c19194264961": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1831-10-26",
+      "end_date": "1831-11-04",
+      "filename": "c19194264961.json"
+    },
+    "2a1080fce242": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1833-12-01",
+      "end_date": "1838-12-13",
+      "filename": "2a1080fce242.json"
+    },
+    "c518bf1aaadd": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1833-12-01",
+      "end_date": "1836-11-06",
+      "filename": "c518bf1aaadd.json"
+    },
+    "6e88ee652af6": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1833-12-01",
+      "end_date": "1836-11-06",
+      "filename": "6e88ee652af6.json"
+    },
+    "713b4c3772e7": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1833-12-01",
+      "end_date": "1836-10-28",
+      "filename": "713b4c3772e7.json"
+    },
+    "d38556310a09": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1833-12-01",
+      "end_date": "1835-10-23",
+      "filename": "d38556310a09.json"
+    },
+    "499f0f2d6350": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1833-12-01",
+      "end_date": "1835-10-23",
+      "filename": "499f0f2d6350.json"
+    },
+    "8c5e64f99296": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1833-12-01",
+      "end_date": "1833-12-24",
+      "filename": "8c5e64f99296.json"
+    },
+    "4b94d6c13be0": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1835-12-01",
+      "end_date": "1836-11-03",
+      "filename": "4b94d6c13be0.json"
+    },
+    "ca33b3c716ea": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1835-12-25",
+      "end_date": "1836-09-25",
+      "filename": "ca33b3c716ea.json"
+    },
+    "9ddc0e038817": {
+      "county_id": "ars_marion",
+      "name": "SEARCY (orig)",
+      "start_date": "1835-12-25",
+      "end_date": "1836-09-25",
+      "filename": "9ddc0e038817.json"
+    },
+    "0f63c0339306": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1835-12-01",
+      "end_date": "1843-02-02",
+      "filename": "0f63c0339306.json"
+    },
+    "379058a11943": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1835-11-02",
+      "end_date": "1846-11-25",
+      "filename": "379058a11943.json"
+    },
+    "06adf5970182": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1835-11-02",
+      "end_date": "1836-11-06",
+      "filename": "06adf5970182.json"
+    },
+    "7069c100b8c4": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1835-11-02",
+      "end_date": "1836-11-06",
+      "filename": "7069c100b8c4.json"
+    },
+    "49a8f8451ab4": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1835-11-02",
+      "end_date": "1836-10-04",
+      "filename": "49a8f8451ab4.json"
+    },
+    "c091b18c0aac": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1835-11-02",
+      "end_date": "1836-09-29",
+      "filename": "c091b18c0aac.json"
+    },
+    "44860f1609b2": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1835-11-02",
+      "end_date": "1835-11-30",
+      "filename": "44860f1609b2.json"
+    },
+    "d276d5a64912": {
+      "county_id": "ars_clay",
+      "name": "CLAY",
+      "start_date": "1895-04-30",
+      "end_date": "1957-03-05",
+      "filename": "d276d5a64912.json"
+    },
+    "7379d34cfe95": {
+      "county_id": "ars_howard",
+      "name": "HOWARD",
+      "start_date": "1897-03-15",
+      "end_date": "2000-12-31",
+      "filename": "7379d34cfe95.json"
+    },
+    "3f59ae5e8659": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1897-03-15",
+      "end_date": "2000-12-31",
+      "filename": "3f59ae5e8659.json"
+    },
+    "1cddf3d7e549": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1901-05-23",
+      "end_date": "2000-12-31",
+      "filename": "1cddf3d7e549.json"
+    },
+    "ee2f48ade343": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1901-04-29",
+      "end_date": "2000-12-31",
+      "filename": "ee2f48ade343.json"
+    },
+    "e992b866d617": {
+      "county_id": "ars_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1901-04-29",
+      "end_date": "2000-12-31",
+      "filename": "e992b866d617.json"
+    },
+    "59a5fd503b05": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1901-05-23",
+      "end_date": "1903-03-01",
+      "filename": "59a5fd503b05.json"
+    },
+    "834a6699c52a": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1903-03-02",
+      "end_date": "1925-02-20",
+      "filename": "834a6699c52a.json"
+    },
+    "f6ce3bf3933e": {
+      "county_id": "ars_logan",
+      "name": "LOGAN",
+      "start_date": "1903-03-02",
+      "end_date": "1922-01-01",
+      "filename": "f6ce3bf3933e.json"
+    },
+    "67484bc01f69": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1907-05-04",
+      "end_date": "1941-03-02",
+      "filename": "67484bc01f69.json"
+    },
+    "3bc62589ea87": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1907-05-04",
+      "end_date": "1915-02-16",
+      "filename": "3bc62589ea87.json"
+    },
+    "0b51cc0e62a5": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1833-12-25",
+      "end_date": "1836-09-29",
+      "filename": "0b51cc0e62a5.json"
+    },
+    "ae8a81d7bf4e": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1833-12-25",
+      "end_date": "1836-09-29",
+      "filename": "ae8a81d7bf4e.json"
+    },
+    "2032a1f6b44d": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1833-12-25",
+      "end_date": "1835-12-24",
+      "filename": "2032a1f6b44d.json"
+    },
+    "1618ba66e264": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1833-12-25",
+      "end_date": "1835-11-01",
+      "filename": "1618ba66e264.json"
+    },
+    "9faebe26b4b6": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1833-12-25",
+      "end_date": "1835-10-23",
+      "filename": "9faebe26b4b6.json"
+    },
+    "5a08178e47ad": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1833-11-11",
+      "end_date": "1836-11-03",
+      "filename": "5a08178e47ad.json"
+    },
+    "42c4a54f36c4": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1833-11-11",
+      "end_date": "1836-11-03",
+      "filename": "42c4a54f36c4.json"
+    },
+    "5c9ada1fb199": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1833-11-08",
+      "end_date": "1836-10-28",
+      "filename": "5c9ada1fb199.json"
+    },
+    "30217697f4c5": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1833-11-11",
+      "end_date": "1835-11-30",
+      "filename": "30217697f4c5.json"
+    },
+    "6e9e409180ed": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1833-11-11",
+      "end_date": "1833-12-24",
+      "filename": "6e9e409180ed.json"
+    },
+    "1e7cb344fc0b": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1833-11-08",
+      "end_date": "1833-11-30",
+      "filename": "1e7cb344fc0b.json"
+    },
+    "814d9497ea74": {
+      "county_id": "ars_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1834-01-01",
+      "end_date": "1861-01-17",
+      "filename": "814d9497ea74.json"
+    },
+    "a87e9b97dff0": {
+      "county_id": "ars_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1834-01-01",
+      "end_date": "1859-02-18",
+      "filename": "a87e9b97dff0.json"
+    },
+    "3c77e34c8717": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1834-11-01",
+      "end_date": "1835-10-28",
+      "filename": "3c77e34c8717.json"
+    },
+    "307213139c7a": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1834-11-01",
+      "end_date": "1835-10-28",
+      "filename": "307213139c7a.json"
+    },
+    "690f6db4c8dc": {
+      "county_id": "ars_jackson",
+      "name": "JACKSON",
+      "start_date": "1835-12-01",
+      "end_date": "1836-11-07",
+      "filename": "690f6db4c8dc.json"
+    },
+    "226ceda948a8": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1835-12-01",
+      "end_date": "1836-11-06",
+      "filename": "226ceda948a8.json"
+    },
+    "97d8d1b5cb94": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1835-10-29",
+      "end_date": "1861-01-17",
+      "filename": "97d8d1b5cb94.json"
+    },
+    "f656ef0f1b8d": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1835-10-29",
+      "end_date": "1838-02-28",
+      "filename": "f656ef0f1b8d.json"
+    },
+    "7f9000425e49": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1835-10-29",
+      "end_date": "1838-02-28",
+      "filename": "7f9000425e49.json"
+    },
+    "b21432273757": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1835-10-24",
+      "end_date": "1838-02-14",
+      "filename": "b21432273757.json"
+    },
+    "67572d89e13e": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1835-10-24",
+      "end_date": "1838-02-14",
+      "filename": "67572d89e13e.json"
+    },
+    "afef48324f06": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1835-10-24",
+      "end_date": "1835-11-01",
+      "filename": "afef48324f06.json"
+    },
+    "0f88794ead9f": {
+      "county_id": "ars_jackson",
+      "name": "JACKSON",
+      "start_date": "1836-11-08",
+      "end_date": "1851-01-09",
+      "filename": "0f88794ead9f.json"
+    },
+    "8d9ed582c9e9": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1836-11-08",
+      "end_date": "1838-02-20",
+      "filename": "8d9ed582c9e9.json"
+    },
+    "146604dec29b": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1836-11-07",
+      "end_date": "1869-02-03",
+      "filename": "146604dec29b.json"
+    },
+    "bd9f68b93d77": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1836-11-04",
+      "end_date": "1853-01-11",
+      "filename": "bd9f68b93d77.json"
+    },
+    "214db327c427": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1836-11-07",
+      "end_date": "1844-12-31",
+      "filename": "214db327c427.json"
+    },
+    "5b40980bb554": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1836-10-29",
+      "end_date": "1844-11-29",
+      "filename": "5b40980bb554.json"
+    },
+    "63e335de2717": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1836-11-07",
+      "end_date": "1840-12-24",
+      "filename": "63e335de2717.json"
+    },
+    "84fb8c0c532a": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1836-11-07",
+      "end_date": "1840-12-17",
+      "filename": "84fb8c0c532a.json"
+    },
+    "5be45773c782": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1836-11-04",
+      "end_date": "1840-12-17",
+      "filename": "5be45773c782.json"
+    },
+    "77e1f7587d14": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1836-10-05",
+      "end_date": "1840-12-04",
+      "filename": "77e1f7587d14.json"
+    },
+    "4c58b98570bf": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1836-11-07",
+      "end_date": "1839-03-03",
+      "filename": "4c58b98570bf.json"
+    },
+    "17268d21fb1c": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1836-10-29",
+      "end_date": "1838-12-13",
+      "filename": "17268d21fb1c.json"
+    },
+    "fb5a1bafae4e": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1836-11-07",
+      "end_date": "1838-03-01",
+      "filename": "fb5a1bafae4e.json"
+    },
+    "ea39b9b0c201": {
+      "county_id": "ars_nca5",
+      "name": "NCA 5",
+      "start_date": "1836-11-07",
+      "end_date": "1838-03-01",
+      "filename": "ea39b9b0c201.json"
+    },
+    "5fa8c4277b85": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1836-11-04",
+      "end_date": "1838-02-20",
+      "filename": "5fa8c4277b85.json"
+    },
+    "dc30dec47bea": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1836-11-07",
+      "end_date": "1838-02-24",
+      "filename": "dc30dec47bea.json"
+    },
+    "a42341685024": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1836-11-07",
+      "end_date": "1838-02-24",
+      "filename": "a42341685024.json"
+    },
+    "9c52dfaac494": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1836-10-05",
+      "end_date": "1838-02-14",
+      "filename": "9c52dfaac494.json"
+    },
+    "437364fbb37e": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1836-11-04",
+      "end_date": "1837-11-22",
+      "filename": "437364fbb37e.json"
+    },
+    "0d4f9bfddfbd": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1836-11-04",
+      "end_date": "1836-11-07",
+      "filename": "0d4f9bfddfbd.json"
+    },
+    "789560feb3bb": {
+      "county_id": "ars_benton",
+      "name": "BENTON",
+      "start_date": "1836-09-30",
+      "end_date": "1983-03-24",
+      "filename": "789560feb3bb.json"
+    },
+    "2a348b46b309": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1836-09-30",
+      "end_date": "1838-02-14",
+      "filename": "2a348b46b309.json"
+    },
+    "fc78783bda7c": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1836-09-30",
+      "end_date": "1838-02-14",
+      "filename": "fc78783bda7c.json"
+    },
+    "ff2ae8f4afd2": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1836-09-30",
+      "end_date": "1837-11-22",
+      "filename": "ff2ae8f4afd2.json"
+    },
+    "e71a742e4136": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1836-09-29",
+      "end_date": "1836-11-03",
+      "filename": "e71a742e4136.json"
+    },
+    "9539dd9e5d0c": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1836-09-30",
+      "end_date": "1836-10-04",
+      "filename": "9539dd9e5d0c.json"
+    },
+    "e177c85baaeb": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1836-09-26",
+      "end_date": "1836-11-03",
+      "filename": "e177c85baaeb.json"
+    },
+    "6fa3f144fd33": {
+      "county_id": "ars_marion",
+      "name": "SEARCY (orig)",
+      "start_date": "1836-09-26",
+      "end_date": "1836-09-28",
+      "filename": "6fa3f144fd33.json"
+    },
+    "bf71b141c388": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1837-11-23",
+      "end_date": "1839-01-31",
+      "filename": "bf71b141c388.json"
+    },
+    "f8882e4fe5e4": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1837-11-23",
+      "end_date": "1838-12-13",
+      "filename": "f8882e4fe5e4.json"
+    },
+    "407d261b34a3": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1838-12-14",
+      "end_date": "1873-04-16",
+      "filename": "407d261b34a3.json"
+    },
+    "a2f723d4fbe5": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1838-12-14",
+      "end_date": "1871-03-21",
+      "filename": "a2f723d4fbe5.json"
+    },
+    "f02bf0f7c743": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1838-12-14",
+      "end_date": "1852-12-16",
+      "filename": "f02bf0f7c743.json"
+    },
+    "81c829588e49": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1838-12-16",
+      "end_date": "1851-01-05",
+      "filename": "81c829588e49.json"
+    },
+    "57ca30045df2": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1838-12-14",
+      "end_date": "1845-01-08",
+      "filename": "57ca30045df2.json"
+    },
+    "a4d3eef17dc3": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1838-12-14",
+      "end_date": "1843-01-10",
+      "filename": "a4d3eef17dc3.json"
+    },
+    "83db70209709": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1838-12-14",
+      "end_date": "1842-12-13",
+      "filename": "83db70209709.json"
+    },
+    "c718623afb75": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1838-12-14",
+      "end_date": "1842-12-13",
+      "filename": "c718623afb75.json"
+    },
+    "1e2dffd1cff2": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1838-12-14",
+      "end_date": "1840-12-24",
+      "filename": "1e2dffd1cff2.json"
+    },
+    "63057bc3593e": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1838-12-14",
+      "end_date": "1840-12-20",
+      "filename": "63057bc3593e.json"
+    },
+    "8beaed24e3af": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1838-12-14",
+      "end_date": "1840-12-20",
+      "filename": "8beaed24e3af.json"
+    },
+    "9ce3da423af6": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1838-12-16",
+      "end_date": "1840-12-04",
+      "filename": "9ce3da423af6.json"
+    },
+    "05a6e5a399e2": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1838-11-26",
+      "end_date": "1881-03-08",
+      "filename": "05a6e5a399e2.json"
+    },
+    "24560af4c3d4": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1838-11-26",
+      "end_date": "1838-12-13",
+      "filename": "24560af4c3d4.json"
+    },
+    "f6af7523fa9b": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1838-03-01",
+      "end_date": "1859-02-18",
+      "filename": "f6af7523fa9b.json"
+    },
+    "a71de20086a0": {
+      "county_id": "ars_poinsett",
+      "name": "POINSETT",
+      "start_date": "1838-03-01",
+      "end_date": "1859-02-18",
+      "filename": "a71de20086a0.json"
+    },
+    "9febd17a35fa": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1838-03-02",
+      "end_date": "1843-06-30",
+      "filename": "9febd17a35fa.json"
+    },
+    "4dbdbc8cd297": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1838-03-01",
+      "end_date": "1840-12-25",
+      "filename": "4dbdbc8cd297.json"
+    },
+    "060b245cb112": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1838-03-01",
+      "end_date": "1840-12-24",
+      "filename": "060b245cb112.json"
+    },
+    "f9a009788f71": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1838-02-25",
+      "end_date": "1838-12-13",
+      "filename": "f9a009788f71.json"
+    },
+    "14574c9cf302": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1838-02-25",
+      "end_date": "1838-12-13",
+      "filename": "14574c9cf302.json"
+    },
+    "cc39d4b0707a": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1838-02-15",
+      "end_date": "1838-12-15",
+      "filename": "cc39d4b0707a.json"
+    },
+    "8e944b4f54bf": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1838-02-15",
+      "end_date": "1838-12-15",
+      "filename": "8e944b4f54bf.json"
+    },
+    "e8482a817e32": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1838-02-15",
+      "end_date": "1838-12-13",
+      "filename": "e8482a817e32.json"
+    },
+    "522f4ec1c984": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1838-02-15",
+      "end_date": "1838-12-13",
+      "filename": "522f4ec1c984.json"
+    },
+    "5a28740bd8bb": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1838-02-21",
+      "end_date": "1838-12-13",
+      "filename": "5a28740bd8bb.json"
+    },
+    "4c592fa840b5": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1838-02-21",
+      "end_date": "1838-12-13",
+      "filename": "4c592fa840b5.json"
+    },
+    "b9594842cb16": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1838-02-15",
+      "end_date": "1838-11-25",
+      "filename": "b9594842cb16.json"
+    },
+    "3552800982bc": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1869-04-12",
+      "end_date": "1873-04-15",
+      "filename": "3552800982bc.json"
+    },
+    "f4d10a1e0137": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1869-04-12",
+      "end_date": "1873-04-11",
+      "filename": "f4d10a1e0137.json"
+    },
+    "f7315a394bb7": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1869-04-09",
+      "end_date": "1873-03-23",
+      "filename": "f7315a394bb7.json"
+    },
+    "ee3e65e95b66": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1869-04-09",
+      "end_date": "1873-03-23",
+      "filename": "ee3e65e95b66.json"
+    },
+    "4705a078880e": {
+      "county_id": "ars_grant",
+      "name": "GRANT",
+      "start_date": "1869-02-04",
+      "end_date": "2000-12-31",
+      "filename": "4705a078880e.json"
+    },
+    "a72e0d799c84": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1869-02-04",
+      "end_date": "1873-04-04",
+      "filename": "a72e0d799c84.json"
+    },
+    "9f4c1fa6f13a": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1869-02-04",
+      "end_date": "1871-03-27",
+      "filename": "9f4c1fa6f13a.json"
+    },
+    "431ae7384cf7": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1869-02-04",
+      "end_date": "1869-04-02",
+      "filename": "431ae7384cf7.json"
+    },
+    "7c041eeea7b0": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1871-03-28",
+      "end_date": "1885-03-23",
+      "filename": "7c041eeea7b0.json"
+    },
+    "6e3e15b2f240": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1871-03-28",
+      "end_date": "1879-02-09",
+      "filename": "6e3e15b2f240.json"
+    },
+    "5c2630c9a13e": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1885-02-17",
+      "end_date": "1891-03-01",
+      "filename": "5c2630c9a13e.json"
+    },
+    "ca2f04d23a36": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1885-03-23",
+      "end_date": "1887-03-20",
+      "filename": "ca2f04d23a36.json"
+    },
+    "ea6080e3231a": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1885-03-05",
+      "end_date": "1885-03-27",
+      "filename": "ea6080e3231a.json"
+    },
+    "807fd1167ddd": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1885-03-23",
+      "end_date": "1885-03-23",
+      "filename": "807fd1167ddd.json"
+    },
+    "5903b88418d4": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1885-02-17",
+      "end_date": "1885-03-30",
+      "filename": "5903b88418d4.json"
+    },
+    "299746cac734": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1887-03-31",
+      "end_date": "1941-03-02",
+      "filename": "299746cac734.json"
+    },
+    "35af14063df4": {
+      "county_id": "ars_woodruff",
+      "name": "WOODRUFF",
+      "start_date": "1887-03-31",
+      "end_date": "2000-12-31",
+      "filename": "35af14063df4.json"
+    },
+    "317f10a0a980": {
+      "county_id": "ars_sebastian",
+      "name": "SEBASTIAN",
+      "start_date": "1887-12-31",
+      "end_date": "1890-12-30",
+      "filename": "317f10a0a980.json"
+    },
+    "57344352f975": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1887-12-31",
+      "end_date": "1895-04-06",
+      "filename": "57344352f975.json"
+    },
+    "79019cea780c": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1838-02-15",
+      "end_date": "1838-11-25",
+      "filename": "79019cea780c.json"
+    },
+    "4380f24b4bc5": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1839-02-01",
+      "end_date": "1853-01-11",
+      "filename": "4380f24b4bc5.json"
+    },
+    "0f9d85c41b6c": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1839-03-04",
+      "end_date": "1846-11-25",
+      "filename": "0f9d85c41b6c.json"
+    },
+    "b8c1c374aaf8": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1839-03-04",
+      "end_date": "1840-12-24",
+      "filename": "b8c1c374aaf8.json"
+    },
+    "411651cad4c2": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1839-02-01",
+      "end_date": "1840-12-23",
+      "filename": "411651cad4c2.json"
+    },
+    "c1580f07da29": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1840-12-21",
+      "end_date": "1852-12-31",
+      "filename": "c1580f07da29.json"
+    },
+    "3339e018b0f6": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1840-12-21",
+      "end_date": "1845-01-01",
+      "filename": "3339e018b0f6.json"
+    },
+    "95fadc43e875": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1840-12-21",
+      "end_date": "1840-12-25",
+      "filename": "95fadc43e875.json"
+    },
+    "bfa3dd485492": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1840-12-21",
+      "end_date": "1840-12-23",
+      "filename": "bfa3dd485492.json"
+    },
+    "91944ed4b45f": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1840-12-26",
+      "end_date": "1873-04-20",
+      "filename": "91944ed4b45f.json"
+    },
+    "b246ecd37cd4": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1840-12-26",
+      "end_date": "1855-01-17",
+      "filename": "b246ecd37cd4.json"
+    },
+    "2c4ad8f06240": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1840-12-25",
+      "end_date": "1873-04-16",
+      "filename": "2c4ad8f06240.json"
+    },
+    "e753265f451b": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1840-12-25",
+      "end_date": "1871-03-27",
+      "filename": "e753265f451b.json"
+    },
+    "86df5ae51fa1": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1840-12-25",
+      "end_date": "1851-01-09",
+      "filename": "86df5ae51fa1.json"
+    },
+    "3b0e059b55c7": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1840-12-25",
+      "end_date": "1850-12-06",
+      "filename": "3b0e059b55c7.json"
+    },
+    "5b109c05db80": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1840-12-24",
+      "end_date": "1846-12-17",
+      "filename": "5b109c05db80.json"
+    },
+    "cbaffb6da9a3": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1840-12-24",
+      "end_date": "1842-12-31",
+      "filename": "cbaffb6da9a3.json"
+    },
+    "7f55b7867a10": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1840-12-25",
+      "end_date": "1843-02-02",
+      "filename": "7f55b7867a10.json"
+    },
+    "8316a9059a60": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1873-04-05",
+      "end_date": "1873-04-11",
+      "filename": "8316a9059a60.json"
+    },
+    "5062c2f9c958": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1874-07-15",
+      "end_date": "2000-12-31",
+      "filename": "5062c2f9c958.json"
+    },
+    "5976d7b08929": {
+      "county_id": "ars_miller",
+      "name": "MILLER",
+      "start_date": "1874-12-22",
+      "end_date": "2000-12-31",
+      "filename": "5976d7b08929.json"
+    },
+    "95533bae0ff5": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1874-12-16",
+      "end_date": "1917-02-22",
+      "filename": "95533bae0ff5.json"
+    },
+    "a8262a4edabd": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1874-12-22",
+      "end_date": "1901-04-28",
+      "filename": "a8262a4edabd.json"
+    },
+    "51b18e70e495": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1874-05-27",
+      "end_date": "1883-03-25",
+      "filename": "51b18e70e495.json"
+    },
+    "3c84ec8a007d": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1874-05-27",
+      "end_date": "1875-11-29",
+      "filename": "3c84ec8a007d.json"
+    },
+    "6a42c0ca2a6a": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1874-07-15",
+      "end_date": "1875-03-05",
+      "filename": "6a42c0ca2a6a.json"
+    },
+    "4b0b80586c0a": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1874-12-16",
+      "end_date": "1877-03-07",
+      "filename": "4b0b80586c0a.json"
+    },
+    "10f01cf80dc3": {
+      "county_id": "ars_boone",
+      "name": "BOONE",
+      "start_date": "1875-12-09",
+      "end_date": "2000-12-31",
+      "filename": "10f01cf80dc3.json"
+    },
+    "3ca03ba57bd9": {
+      "county_id": "ars_faulkner",
+      "name": "FAULKNER",
+      "start_date": "1875-12-07",
+      "end_date": "2000-12-31",
+      "filename": "3ca03ba57bd9.json"
+    },
+    "1a501b0c3038": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1840-12-18",
+      "end_date": "1852-12-31",
+      "filename": "1a501b0c3038.json"
+    },
+    "e9a9e55ffe59": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1840-12-05",
+      "end_date": "1851-01-05",
+      "filename": "e9a9e55ffe59.json"
+    },
+    "a4883aa889b5": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1840-12-18",
+      "end_date": "1846-12-22",
+      "filename": "a4883aa889b5.json"
+    },
+    "ddc55546e451": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1840-05-21",
+      "end_date": "1846-11-25",
+      "filename": "ddc55546e451.json"
+    },
+    "9204b7d9a712": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1840-12-18",
+      "end_date": "1844-12-31",
+      "filename": "9204b7d9a712.json"
+    },
+    "75f31baf3611": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1840-12-18",
+      "end_date": "1842-11-28",
+      "filename": "75f31baf3611.json"
+    },
+    "764c572b59ec": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1840-12-05",
+      "end_date": "1840-12-20",
+      "filename": "764c572b59ec.json"
+    },
+    "b43334dfb709": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1840-12-05",
+      "end_date": "1840-12-20",
+      "filename": "b43334dfb709.json"
+    },
+    "4ccb5bb58d21": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1842-12-14",
+      "end_date": "1859-02-18",
+      "filename": "4ccb5bb58d21.json"
+    },
+    "a351f4dbb8f2": {
+      "county_id": "ars_newton",
+      "name": "NEWTON",
+      "start_date": "1842-12-14",
+      "end_date": "1853-01-09",
+      "filename": "a351f4dbb8f2.json"
+    },
+    "c4c309425e19": {
+      "county_id": "ars_ouachita",
+      "name": "OUACHITA",
+      "start_date": "1842-11-29",
+      "end_date": "1850-12-05",
+      "filename": "c4c309425e19.json"
+    },
+    "efe414030179": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1842-11-29",
+      "end_date": "1846-11-25",
+      "filename": "efe414030179.json"
+    },
+    "2ea3ccdf4c9f": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1842-12-14",
+      "end_date": "1843-01-10",
+      "filename": "2ea3ccdf4c9f.json"
+    },
+    "6aefab9bb420": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1843-01-01",
+      "end_date": "1873-03-23",
+      "filename": "6aefab9bb420.json"
+    },
+    "60e8e47d1acd": {
+      "county_id": "ars_fulton",
+      "name": "FULTON",
+      "start_date": "1843-01-01",
+      "end_date": "1855-01-17",
+      "filename": "60e8e47d1acd.json"
+    },
+    "8ad69189474f": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1843-01-11",
+      "end_date": "1854-12-28",
+      "filename": "8ad69189474f.json"
+    },
+    "ca927acd324c": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1843-02-03",
+      "end_date": "1853-01-10",
+      "filename": "ca927acd324c.json"
+    },
+    "831f0a292f63": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1843-01-11",
+      "end_date": "1846-12-17",
+      "filename": "831f0a292f63.json"
+    },
+    "cbbc7b4391c7": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1843-02-03",
+      "end_date": "1846-11-24",
+      "filename": "cbbc7b4391c7.json"
+    },
+    "bcdda60446e5": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1843-07-01",
+      "end_date": "1846-12-22",
+      "filename": "bcdda60446e5.json"
+    },
+    "24bfc0413adf": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1843-07-01",
+      "end_date": "1845-01-01",
+      "filename": "24bfc0413adf.json"
+    },
+    "abebf06f7210": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1844-11-30",
+      "end_date": "1867-03-04",
+      "filename": "abebf06f7210.json"
+    },
+    "aabd2f90d8b5": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1844-11-30",
+      "end_date": "1851-01-05",
+      "filename": "aabd2f90d8b5.json"
+    },
+    "b715817678b8": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1845-01-09",
+      "end_date": "1846-12-22",
+      "filename": "b715817678b8.json"
+    },
+    "835223f5b4ad": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1845-01-09",
+      "end_date": "1846-12-20",
+      "filename": "835223f5b4ad.json"
+    },
+    "ef2c1e5c391c": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1845-01-01",
+      "end_date": "1869-04-02",
+      "filename": "ef2c1e5c391c.json"
+    },
+    "de7096cd305b": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1845-01-02",
+      "end_date": "1852-12-31",
+      "filename": "de7096cd305b.json"
+    },
+    "3562b64fbe26": {
+      "county_id": "ars_dallas",
+      "name": "DALLAS",
+      "start_date": "1845-01-01",
+      "end_date": "1846-12-22",
+      "filename": "3562b64fbe26.json"
+    },
+    "44a355e2692c": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1845-01-01",
+      "end_date": "1846-11-25",
+      "filename": "44a355e2692c.json"
+    },
+    "8375298abf87": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1845-01-02",
+      "end_date": "1845-01-08",
+      "filename": "8375298abf87.json"
+    },
+    "b9746975b875": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1846-12-21",
+      "end_date": "1846-12-22",
+      "filename": "b9746975b875.json"
+    },
+    "dd5032cb13c2": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1846-12-21",
+      "end_date": "1846-12-22",
+      "filename": "dd5032cb13c2.json"
+    },
+    "7c60db4bcd4f": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1846-12-23",
+      "end_date": "1859-02-18",
+      "filename": "7c60db4bcd4f.json"
+    },
+    "8ebb7dc98e55": {
+      "county_id": "ars_dallas",
+      "name": "DALLAS",
+      "start_date": "1846-12-23",
+      "end_date": "1850-12-05",
+      "filename": "8ebb7dc98e55.json"
+    },
+    "3c0dba9c2320": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1846-12-23",
+      "end_date": "1848-12-26",
+      "filename": "3c0dba9c2320.json"
+    },
+    "c215844f90ef": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1846-12-23",
+      "end_date": "1848-12-29",
+      "filename": "c215844f90ef.json"
+    },
+    "8954eedcea77": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1846-12-23",
+      "end_date": "1848-12-20",
+      "filename": "8954eedcea77.json"
+    },
+    "3933e3e25308": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1846-12-23",
+      "end_date": "1848-12-20",
+      "filename": "3933e3e25308.json"
+    },
+    "129f75e5fef8": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1846-11-26",
+      "end_date": "1861-01-20",
+      "filename": "129f75e5fef8.json"
+    },
+    "95c6eefafed9": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1846-12-18",
+      "end_date": "1855-01-17",
+      "filename": "95c6eefafed9.json"
+    },
+    "37582e533610": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1846-12-18",
+      "end_date": "1854-12-28",
+      "filename": "37582e533610.json"
+    },
+    "9736ff9f0c09": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1846-11-26",
+      "end_date": "1852-12-16",
+      "filename": "9736ff9f0c09.json"
+    },
+    "5df7fa76637f": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1846-11-26",
+      "end_date": "1850-12-05",
+      "filename": "5df7fa76637f.json"
+    },
+    "b7bc232ed811": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1846-11-25",
+      "end_date": "1848-12-29",
+      "filename": "b7bc232ed811.json"
+    },
+    "099d2da6c138": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1846-11-26",
+      "end_date": "1846-12-31",
+      "filename": "099d2da6c138.json"
+    },
+    "5380fce97804": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1846-11-26",
+      "end_date": "1846-12-31",
+      "filename": "5380fce97804.json"
+    },
+    "5d7c799135ef": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1846-11-26",
+      "end_date": "1846-12-31",
+      "filename": "5d7c799135ef.json"
+    },
+    "3aeb1897debe": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1846-11-25",
+      "end_date": "1846-12-20",
+      "filename": "3aeb1897debe.json"
+    },
+    "1307a2639239": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1847-01-01",
+      "end_date": "1861-01-18",
+      "filename": "1307a2639239.json"
+    },
+    "1ca6086c3e7a": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1847-01-01",
+      "end_date": "1850-12-05",
+      "filename": "1ca6086c3e7a.json"
+    },
+    "f8cdd4211f9c": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1847-01-01",
+      "end_date": "1848-12-31",
+      "filename": "f8cdd4211f9c.json"
+    },
+    "e5fe88530f51": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1848-12-30",
+      "end_date": "1869-04-11",
+      "filename": "e5fe88530f51.json"
+    },
+    "72870c803f11": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1848-12-27",
+      "end_date": "1859-02-06",
+      "filename": "72870c803f11.json"
+    },
+    "3799061a056e": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1848-12-27",
+      "end_date": "1859-02-18",
+      "filename": "3799061a056e.json"
+    },
+    "a12441b2e236": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1848-12-30",
+      "end_date": "1850-12-06",
+      "filename": "a12441b2e236.json"
+    },
+    "0e1d4a8935bf": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1848-12-21",
+      "end_date": "1873-04-11",
+      "filename": "0e1d4a8935bf.json"
+    },
+    "baa4bd1cb077": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1848-12-21",
+      "end_date": "1848-12-26",
+      "filename": "baa4bd1cb077.json"
+    },
+    "7fc72aa5daf7": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1849-01-01",
+      "end_date": "1861-01-20",
+      "filename": "7fc72aa5daf7.json"
+    },
+    "5755135951e1": {
+      "county_id": "ars_ashley",
+      "name": "ASHLEY",
+      "start_date": "1849-01-01",
+      "end_date": "1859-01-20",
+      "filename": "5755135951e1.json"
+    },
+    "8564570171db": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1850-12-07",
+      "end_date": "1869-04-11",
+      "filename": "8564570171db.json"
+    },
+    "7a1e0716a473": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1850-12-07",
+      "end_date": "1869-04-11",
+      "filename": "7a1e0716a473.json"
+    },
+    "3ce84b4df5bb": {
+      "county_id": "ars_dallas",
+      "name": "DALLAS",
+      "start_date": "1850-12-06",
+      "end_date": "1869-04-02",
+      "filename": "3ce84b4df5bb.json"
+    },
+    "515032e91bd6": {
+      "county_id": "ars_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1850-12-06",
+      "end_date": "1862-11-18",
+      "filename": "515032e91bd6.json"
+    },
+    "26cad8f9f00d": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1850-12-06",
+      "end_date": "1859-01-20",
+      "filename": "26cad8f9f00d.json"
+    },
+    "a9c254ff497d": {
+      "county_id": "ars_ouachita",
+      "name": "OUACHITA",
+      "start_date": "1850-12-06",
+      "end_date": "1852-12-16",
+      "filename": "a9c254ff497d.json"
+    },
+    "f4bc65144887": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1850-12-06",
+      "end_date": "1852-12-16",
+      "filename": "f4bc65144887.json"
+    },
+    "5faf5db79951": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1851-01-06",
+      "end_date": "1875-03-03",
+      "filename": "5faf5db79951.json"
+    },
+    "fa9d21ebd2a0": {
+      "county_id": "ars_jackson",
+      "name": "JACKSON",
+      "start_date": "1851-01-10",
+      "end_date": "1862-11-25",
+      "filename": "fa9d21ebd2a0.json"
+    },
+    "afd13a0f7ffe": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1851-01-10",
+      "end_date": "1862-11-14",
+      "filename": "afd13a0f7ffe.json"
+    },
+    "a7cfdf9c4bfc": {
+      "county_id": "ars_sebastian",
+      "name": "SEBASTIAN",
+      "start_date": "1851-01-06",
+      "end_date": "1861-05-31",
+      "filename": "a7cfdf9c4bfc.json"
+    },
+    "57de050c245b": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1851-01-06",
+      "end_date": "1861-05-31",
+      "filename": "57de050c245b.json"
+    },
+    "e7e22bc1f413": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1851-01-06",
+      "end_date": "1859-02-06",
+      "filename": "e7e22bc1f413.json"
+    },
+    "15f8374d0b9d": {
+      "county_id": "ars_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1852-12-17",
+      "end_date": "1874-12-21",
+      "filename": "15f8374d0b9d.json"
+    },
+    "73961ef32783": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1852-12-17",
+      "end_date": "1867-03-04",
+      "filename": "73961ef32783.json"
+    },
+    "aca6c367c4b8": {
+      "county_id": "ars_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1852-12-17",
+      "end_date": "1858-12-20",
+      "filename": "aca6c367c4b8.json"
+    },
+    "d9ac46d1bf16": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1852-12-17",
+      "end_date": "1853-01-05",
+      "filename": "d9ac46d1bf16.json"
+    },
+    "7c72967909e6": {
+      "county_id": "ars_ouachita",
+      "name": "OUACHITA",
+      "start_date": "1852-12-17",
+      "end_date": "1853-01-05",
+      "filename": "7c72967909e6.json"
+    },
+    "2d20b7a9c8ca": {
+      "county_id": "ars_newton",
+      "name": "NEWTON",
+      "start_date": "1853-01-10",
+      "end_date": "1885-02-16",
+      "filename": "2d20b7a9c8ca.json"
+    },
+    "70a24bbbddd7": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1853-01-11",
+      "end_date": "1873-04-16",
+      "filename": "70a24bbbddd7.json"
+    },
+    "e3a3ccd430fd": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1853-01-11",
+      "end_date": "1873-04-11",
+      "filename": "e3a3ccd430fd.json"
+    },
+    "4569e1cce554": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1853-01-10",
+      "end_date": "1853-01-11",
+      "filename": "4569e1cce554.json"
+    },
+    "a322c997c721": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1853-01-12",
+      "end_date": "1855-01-19",
+      "filename": "a322c997c721.json"
+    },
+    "ddfa26d10325": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1853-01-12",
+      "end_date": "1854-12-19",
+      "filename": "ddfa26d10325.json"
+    },
+    "7c196ed11a4f": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1853-01-12",
+      "end_date": "1854-12-19",
+      "filename": "7c196ed11a4f.json"
+    },
+    "f8443a7bb883": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1853-01-01",
+      "end_date": "1871-03-21",
+      "filename": "f8443a7bb883.json"
+    },
+    "2a3a6b9f53e2": {
+      "county_id": "ars_ouachita",
+      "name": "OUACHITA",
+      "start_date": "1853-01-06",
+      "end_date": "1871-03-19",
+      "filename": "2a3a6b9f53e2.json"
+    },
+    "569224164856": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1853-01-06",
+      "end_date": "1858-12-20",
+      "filename": "569224164856.json"
+    },
+    "8536c1c17284": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1853-01-01",
+      "end_date": "1853-01-09",
+      "filename": "8536c1c17284.json"
+    },
+    "3ba95554d571": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1853-01-01",
+      "end_date": "1853-01-10",
+      "filename": "3ba95554d571.json"
+    },
+    "b7e31fbea592": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1854-12-29",
+      "end_date": "1869-04-07",
+      "filename": "b7e31fbea592.json"
+    },
+    "7961a8e2497b": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1854-12-29",
+      "end_date": "1869-04-07",
+      "filename": "7961a8e2497b.json"
+    },
+    "274f5ed2ec77": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1854-12-20",
+      "end_date": "1859-02-18",
+      "filename": "274f5ed2ec77.json"
+    },
+    "7149bb280f50": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1854-12-20",
+      "end_date": "1855-01-19",
+      "filename": "7149bb280f50.json"
+    },
+    "e3e4c6734c36": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1855-01-20",
+      "end_date": "1873-04-11",
+      "filename": "e3e4c6734c36.json"
+    },
+    "98d45a877fd7": {
+      "county_id": "ars_fulton",
+      "name": "FULTON",
+      "start_date": "1855-01-18",
+      "end_date": "1873-03-23",
+      "filename": "98d45a877fd7.json"
+    },
+    "15ce4561bdce": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1855-01-20",
+      "end_date": "1869-04-08",
+      "filename": "15ce4561bdce.json"
+    },
+    "c8fb159909bf": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1855-01-18",
+      "end_date": "1869-04-08",
+      "filename": "c8fb159909bf.json"
+    },
+    "d7fc13f10647": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1855-01-18",
+      "end_date": "1859-02-18",
+      "filename": "d7fc13f10647.json"
+    },
+    "93300fff1a64": {
+      "county_id": "ars_union",
+      "name": "UNION",
+      "start_date": "1858-12-21",
+      "end_date": "2000-12-31",
+      "filename": "93300fff1a64.json"
+    },
+    "31881273a5bd": {
+      "county_id": "ars_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1858-12-21",
+      "end_date": "1871-03-19",
+      "filename": "31881273a5bd.json"
+    },
+    "89e9c2eb4554": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1859-02-07",
+      "end_date": "1873-04-04",
+      "filename": "89e9c2eb4554.json"
+    },
+    "6f47a97f935a": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1859-02-19",
+      "end_date": "1871-03-26",
+      "filename": "6f47a97f935a.json"
+    },
+    "9602c03e90cf": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1859-02-19",
+      "end_date": "1871-03-21",
+      "filename": "9602c03e90cf.json"
+    },
+    "c2831df49d3b": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1859-02-19",
+      "end_date": "1869-02-03",
+      "filename": "c2831df49d3b.json"
+    },
+    "3048578d595c": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1859-02-19",
+      "end_date": "1869-02-03",
+      "filename": "3048578d595c.json"
+    },
+    "4041104c2855": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1859-02-19",
+      "end_date": "1862-11-25",
+      "filename": "4041104c2855.json"
+    },
+    "02a346b38f44": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1859-01-21",
+      "end_date": "1862-11-18",
+      "filename": "02a346b38f44.json"
+    },
+    "b610c237094b": {
+      "county_id": "ars_poinsett",
+      "name": "POINSETT",
+      "start_date": "1859-02-19",
+      "end_date": "1862-11-14",
+      "filename": "b610c237094b.json"
+    },
+    "66f7481de6b4": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1859-02-07",
+      "end_date": "1861-05-31",
+      "filename": "66f7481de6b4.json"
+    },
+    "bf791fd9708b": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1859-02-19",
+      "end_date": "1861-01-17",
+      "filename": "bf791fd9708b.json"
+    },
+    "1d942b25fa12": {
+      "county_id": "ars_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1859-02-19",
+      "end_date": "1861-01-17",
+      "filename": "1d942b25fa12.json"
+    },
+    "20fe6a740a3e": {
+      "county_id": "ars_ashley",
+      "name": "ASHLEY",
+      "start_date": "1859-01-21",
+      "end_date": "1861-01-18",
+      "filename": "20fe6a740a3e.json"
+    },
+    "3a7434e61695": {
+      "county_id": "ars_craighead",
+      "name": "CRAIGHEAD",
+      "start_date": "1859-02-19",
+      "end_date": "1862-11-14",
+      "filename": "3a7434e61695.json"
+    },
+    "4d05026c29e6": {
+      "county_id": "ars_mississippi",
+      "name": "MISSISSIPPI",
+      "start_date": "1861-01-18",
+      "end_date": "2000-12-31",
+      "filename": "4d05026c29e6.json"
+    },
+    "1c0b7315f229": {
+      "county_id": "ars_sebastian",
+      "name": "SEBASTIAN",
+      "start_date": "1861-06-01",
+      "end_date": "1887-12-30",
+      "filename": "1c0b7315f229.json"
+    },
+    "5ae8abb1b7c6": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1861-01-19",
+      "end_date": "1876-04-30",
+      "filename": "5ae8abb1b7c6.json"
+    },
+    "5a77e730a9b9": {
+      "county_id": "ars_ashley",
+      "name": "ASHLEY",
+      "start_date": "1861-01-19",
+      "end_date": "1875-11-29",
+      "filename": "5a77e730a9b9.json"
+    },
+    "599815f018e4": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1861-06-01",
+      "end_date": "1873-04-16",
+      "filename": "599815f018e4.json"
+    },
+    "f9143d6cb572": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1861-01-18",
+      "end_date": "1873-03-23",
+      "filename": "f9143d6cb572.json"
+    },
+    "17693aacab2f": {
+      "county_id": "ars_dallas",
+      "name": "DALLAS",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "17693aacab2f.json"
+    },
+    "7eb0dae011c1": {
+      "county_id": "ars_fulton",
+      "name": "FULTON",
+      "start_date": "1873-04-21",
+      "end_date": "2000-12-31",
+      "filename": "7eb0dae011c1.json"
+    },
+    "7f5bf00ec89f": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "7f5bf00ec89f.json"
+    },
+    "8b91d407b9ee": {
+      "county_id": "ars_lee",
+      "name": "LEE",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "8b91d407b9ee.json"
+    },
+    "4553fb795e2c": {
+      "county_id": "ars_littleriver",
+      "name": "LITTLE RIVER",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "4553fb795e2c.json"
+    },
+    "71166fcc5c36": {
+      "county_id": "ars_nevada",
+      "name": "NEVADA",
+      "start_date": "1873-04-19",
+      "end_date": "2000-12-31",
+      "filename": "71166fcc5c36.json"
+    },
+    "6a9ef850d7e6": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1873-04-21",
+      "end_date": "2000-12-31",
+      "filename": "6a9ef850d7e6.json"
+    },
+    "d4f56d35c75e": {
+      "county_id": "ars_stone",
+      "name": "STONE",
+      "start_date": "1873-04-21",
+      "end_date": "2000-12-31",
+      "filename": "d4f56d35c75e.json"
+    },
+    "134aa33b6841": {
+      "county_id": "ars_polk",
+      "name": "POLK",
+      "start_date": "1873-04-17",
+      "end_date": "1901-05-22",
+      "filename": "134aa33b6841.json"
+    },
+    "143149c98f74": {
+      "county_id": "ars_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1873-04-19",
+      "end_date": "1901-04-28",
+      "filename": "143149c98f74.json"
+    },
+    "42b42cebe07e": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1873-04-17",
+      "end_date": "1897-03-14",
+      "filename": "42b42cebe07e.json"
+    },
+    "a8e548aa6315": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1861-01-21",
+      "end_date": "1871-03-27",
+      "filename": "a8e548aa6315.json"
+    },
+    "958a4a23d57a": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1861-01-21",
+      "end_date": "1871-03-27",
+      "filename": "958a4a23d57a.json"
+    },
+    "afb87b75eafe": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1861-06-01",
+      "end_date": "1871-03-21",
+      "filename": "afb87b75eafe.json"
+    },
+    "35caa4910b08": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1861-01-18",
+      "end_date": "1868-07-17",
+      "filename": "35caa4910b08.json"
+    },
+    "a37af9c83183": {
+      "county_id": "ars_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1861-01-18",
+      "end_date": "1862-11-14",
+      "filename": "a37af9c83183.json"
+    },
+    "bc0c0d5afb6a": {
+      "county_id": "ars_craighead",
+      "name": "CRAIGHEAD",
+      "start_date": "1862-11-26",
+      "end_date": "2000-12-31",
+      "filename": "bc0c0d5afb6a.json"
+    },
+    "c6890ef77b29": {
+      "county_id": "ars_jackson",
+      "name": "JACKSON",
+      "start_date": "1862-11-26",
+      "end_date": "2000-12-31",
+      "filename": "c6890ef77b29.json"
+    },
+    "04f4356f639b": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1862-11-26",
+      "end_date": "1873-04-16",
+      "filename": "04f4356f639b.json"
+    },
+    "a31779a5a024": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1862-11-26",
+      "end_date": "1873-03-23",
+      "filename": "a31779a5a024.json"
+    },
+    "5881be0b2da0": {
+      "county_id": "ars_woodruff",
+      "name": "WOODRUFF",
+      "start_date": "1862-11-26",
+      "end_date": "1869-04-11",
+      "filename": "5881be0b2da0.json"
+    },
+    "8077ac387c5a": {
+      "county_id": "ars_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1862-11-19",
+      "end_date": "2000-12-31",
+      "filename": "8077ac387c5a.json"
+    },
+    "2b292928be4b": {
+      "county_id": "ars_poinsett",
+      "name": "POINSETT",
+      "start_date": "1862-11-15",
+      "end_date": "2000-12-31",
+      "filename": "2b292928be4b.json"
+    },
+    "eb377a8f9c9f": {
+      "county_id": "ars_cross",
+      "name": "CROSS",
+      "start_date": "1862-11-15",
+      "end_date": "1873-04-16",
+      "filename": "eb377a8f9c9f.json"
+    },
+    "71f10d237bca": {
+      "county_id": "ars_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1862-11-15",
+      "end_date": "1873-04-16",
+      "filename": "71f10d237bca.json"
+    },
+    "fe11a24753ee": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1862-11-19",
+      "end_date": "1871-03-27",
+      "filename": "fe11a24753ee.json"
+    },
+    "21e5b53fc9a5": {
+      "county_id": "ars_craighead",
+      "name": "CRAIGHEAD",
+      "start_date": "1862-11-15",
+      "end_date": "1862-11-25",
+      "filename": "21e5b53fc9a5.json"
+    },
+    "d10003a5797f": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1862-11-15",
+      "end_date": "1862-11-25",
+      "filename": "d10003a5797f.json"
+    },
+    "466831f69a0c": {
+      "county_id": "ars_littleriver",
+      "name": "LITTLE RIVER",
+      "start_date": "1867-03-05",
+      "end_date": "1873-04-16",
+      "filename": "466831f69a0c.json"
+    },
+    "db9cffed0575": {
+      "county_id": "ars_sevier",
+      "name": "SEVIER",
+      "start_date": "1867-03-05",
+      "end_date": "1873-04-16",
+      "filename": "db9cffed0575.json"
+    },
+    "4689209246d3": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1867-03-05",
+      "end_date": "1871-03-19",
+      "filename": "4689209246d3.json"
+    },
+    "812c8c7a68f6": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1868-07-18",
+      "end_date": "1885-02-16",
+      "filename": "812c8c7a68f6.json"
+    },
+    "8ac009f83724": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1868-07-18",
+      "end_date": "1875-02-10",
+      "filename": "8ac009f83724.json"
+    },
+    "08a40ff796fc": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1869-04-08",
+      "end_date": "1881-03-08",
+      "filename": "08a40ff796fc.json"
+    },
+    "90069dbed539": {
+      "county_id": "ars_dallas",
+      "name": "DALLAS",
+      "start_date": "1869-04-03",
+      "end_date": "1873-04-16",
+      "filename": "90069dbed539.json"
+    },
+    "582bc52218fa": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1869-04-03",
+      "end_date": "1873-04-04",
+      "filename": "582bc52218fa.json"
+    },
+    "f97b98b0a80d": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1869-04-08",
+      "end_date": "1869-04-08",
+      "filename": "f97b98b0a80d.json"
+    },
+    "84decbed38c1": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1869-04-03",
+      "end_date": "1873-04-04",
+      "filename": "84decbed38c1.json"
+    },
+    "a44ee1334cec": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1869-04-09",
+      "end_date": "1885-03-30",
+      "filename": "a44ee1334cec.json"
+    },
+    "4d0c5e9d9ce4": {
+      "county_id": "ars_boone",
+      "name": "BOONE",
+      "start_date": "1869-04-09",
+      "end_date": "1875-12-08",
+      "filename": "4d0c5e9d9ce4.json"
+    },
+    "81943cf7f672": {
+      "county_id": "ars_woodruff",
+      "name": "WOODRUFF",
+      "start_date": "1869-04-12",
+      "end_date": "1873-04-25",
+      "filename": "81943cf7f672.json"
+    },
+    "c933cd6245a5": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1869-04-12",
+      "end_date": "1873-04-16",
+      "filename": "c933cd6245a5.json"
+    },
+    "ff6707872290": {
+      "county_id": "ars_drew",
+      "name": "DREW",
+      "start_date": "1871-03-28",
+      "end_date": "1876-04-30",
+      "filename": "ff6707872290.json"
+    },
+    "ef732b31f648": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1871-03-27",
+      "end_date": "1875-03-05",
+      "filename": "ef732b31f648.json"
+    },
+    "87fde000d4b4": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1871-03-28",
+      "end_date": "1873-04-16",
+      "filename": "87fde000d4b4.json"
+    },
+    "58ac597abc4e": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1871-03-28",
+      "end_date": "1873-04-16",
+      "filename": "58ac597abc4e.json"
+    },
+    "b934d0e62d12": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1871-03-28",
+      "end_date": "1873-04-16",
+      "filename": "b934d0e62d12.json"
+    },
+    "bcd2e6dbb1ac": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1871-03-27",
+      "end_date": "1873-04-11",
+      "filename": "bcd2e6dbb1ac.json"
+    },
+    "6717a04e250f": {
+      "county_id": "ars_ouachita",
+      "name": "OUACHITA",
+      "start_date": "1871-03-20",
+      "end_date": "2000-12-31",
+      "filename": "6717a04e250f.json"
+    },
+    "ce600a08a735": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1871-03-22",
+      "end_date": "1881-03-20",
+      "filename": "ce600a08a735.json"
+    },
+    "3531635f2ef2": {
+      "county_id": "ars_nevada",
+      "name": "NEVADA",
+      "start_date": "1871-03-20",
+      "end_date": "1873-04-18",
+      "filename": "3531635f2ef2.json"
+    },
+    "f70fb481a025": {
+      "county_id": "ars_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1871-03-20",
+      "end_date": "1873-04-18",
+      "filename": "f70fb481a025.json"
+    },
+    "598ad0770aaf": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD",
+      "start_date": "1871-03-20",
+      "end_date": "1873-04-16",
+      "filename": "598ad0770aaf.json"
+    },
+    "9231c6d4de56": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1871-03-22",
+      "end_date": "1873-04-11",
+      "filename": "9231c6d4de56.json"
+    },
+    "9478fc9279da": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1871-03-22",
+      "end_date": "1873-02-26",
+      "filename": "9478fc9279da.json"
+    },
+    "b1d4a21532a6": {
+      "county_id": "ars_logan",
+      "name": "SARBER",
+      "start_date": "1871-03-22",
+      "end_date": "1873-02-26",
+      "filename": "b1d4a21532a6.json"
+    },
+    "436afc94a2e5": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1871-03-22",
+      "end_date": "1871-03-26",
+      "filename": "436afc94a2e5.json"
+    },
+    "ed36f5a8fc8a": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1873-04-12",
+      "end_date": "1875-12-06",
+      "filename": "ed36f5a8fc8a.json"
+    },
+    "89889c009fa0": {
+      "county_id": "ars_faulkner",
+      "name": "FAULKNER",
+      "start_date": "1873-04-12",
+      "end_date": "1875-12-06",
+      "filename": "89889c009fa0.json"
+    },
+    "239944498934": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1873-04-12",
+      "end_date": "1874-07-14",
+      "filename": "239944498934.json"
+    },
+    "988eaa2f8dc8": {
+      "county_id": "ars_conway",
+      "name": "CONWAY",
+      "start_date": "1873-04-12",
+      "end_date": "1874-07-14",
+      "filename": "988eaa2f8dc8.json"
+    },
+    "a919f73f5f0d": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1873-04-12",
+      "end_date": "1873-04-20",
+      "filename": "a919f73f5f0d.json"
+    },
+    "e079a890a733": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1873-04-12",
+      "end_date": "1873-04-15",
+      "filename": "e079a890a733.json"
+    },
+    "62e157dd336c": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1873-04-12",
+      "end_date": "1891-04-07",
+      "filename": "62e157dd336c.json"
+    },
+    "0d12e94e4758": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1873-04-12",
+      "end_date": "1891-04-07",
+      "filename": "0d12e94e4758.json"
+    },
+    "c736812e573d": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1873-04-16",
+      "end_date": "1875-12-06",
+      "filename": "c736812e573d.json"
+    },
+    "4210916d21bf": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1873-04-16",
+      "end_date": "1875-11-29",
+      "filename": "4210916d21bf.json"
+    },
+    "81d468274d06": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1873-04-16",
+      "end_date": "1873-04-16",
+      "filename": "81d468274d06.json"
+    },
+    "8f860ef153f1": {
+      "county_id": "ars_cleveland",
+      "name": "DORSEY",
+      "start_date": "1873-04-17",
+      "end_date": "1885-03-04",
+      "filename": "8f860ef153f1.json"
+    },
+    "803752a4c4c6": {
+      "county_id": "ars_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "803752a4c4c6.json"
+    },
+    "582515f39695": {
+      "county_id": "ars_cross",
+      "name": "CROSS",
+      "start_date": "1873-04-17",
+      "end_date": "2000-12-31",
+      "filename": "582515f39695.json"
+    },
+    "5216ed41a77d": {
+      "county_id": "ars_howard",
+      "name": "HOWARD",
+      "start_date": "1873-04-17",
+      "end_date": "1897-03-14",
+      "filename": "5216ed41a77d.json"
+    },
+    "3d69f6254ada": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1873-04-17",
+      "end_date": "1885-03-27",
+      "filename": "3d69f6254ada.json"
+    },
+    "1225fc4c7269": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1873-04-21",
+      "end_date": "1883-02-19",
+      "filename": "1225fc4c7269.json"
+    },
+    "b737205e2018": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1873-04-17",
+      "end_date": "1883-02-19",
+      "filename": "b737205e2018.json"
+    },
+    "82d249e9f281": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1873-04-17",
+      "end_date": "1883-03-25",
+      "filename": "82d249e9f281.json"
+    },
+    "43f745e5097f": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1873-04-17",
+      "end_date": "1879-03-19",
+      "filename": "43f745e5097f.json"
+    },
+    "1abda208b557": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1873-04-17",
+      "end_date": "1879-03-19",
+      "filename": "1abda208b557.json"
+    },
+    "b602bb7a1256": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1873-04-21",
+      "end_date": "1877-03-08",
+      "filename": "b602bb7a1256.json"
+    },
+    "0ca59b0e995e": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1873-04-21",
+      "end_date": "1875-02-10",
+      "filename": "0ca59b0e995e.json"
+    },
+    "20450546daec": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1873-04-17",
+      "end_date": "1875-11-29",
+      "filename": "20450546daec.json"
+    },
+    "69ef0e1a7a32": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1873-04-17",
+      "end_date": "1873-04-23",
+      "filename": "69ef0e1a7a32.json"
+    },
+    "26e9f174b12b": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1873-04-17",
+      "end_date": "1873-04-25",
+      "filename": "26e9f174b12b.json"
+    },
+    "57c6b6de1ce0": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1873-04-17",
+      "end_date": "1873-04-25",
+      "filename": "57c6b6de1ce0.json"
+    },
+    "a210d4e0b4aa": {
+      "county_id": "ars_woodruff",
+      "name": "WOODRUFF",
+      "start_date": "1873-04-26",
+      "end_date": "1887-03-14",
+      "filename": "a210d4e0b4aa.json"
+    },
+    "dbab3f3602c6": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1873-04-24",
+      "end_date": "1877-03-07",
+      "filename": "dbab3f3602c6.json"
+    },
+    "d69e7c7064e4": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1873-04-24",
+      "end_date": "1874-12-15",
+      "filename": "d69e7c7064e4.json"
+    },
+    "e2259b2513c6": {
+      "county_id": "ars_pike",
+      "name": "PIKE",
+      "start_date": "1873-04-24",
+      "end_date": "1874-12-15",
+      "filename": "e2259b2513c6.json"
+    },
+    "0fca91452d82": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1873-04-26",
+      "end_date": "1874-05-26",
+      "filename": "0fca91452d82.json"
+    },
+    "acf675090778": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1873-04-26",
+      "end_date": "1874-05-26",
+      "filename": "acf675090778.json"
+    },
+    "9ac1278c7300": {
+      "county_id": "ars_hotspring",
+      "name": "HOT SPRING",
+      "start_date": "1873-04-05",
+      "end_date": "2000-12-31",
+      "filename": "9ac1278c7300.json"
+    },
+    "d0e64a4a4f3b": {
+      "county_id": "ars_garland",
+      "name": "GARLAND",
+      "start_date": "1873-04-05",
+      "end_date": "1917-02-22",
+      "filename": "d0e64a4a4f3b.json"
+    },
+    "068269e7f0a9": {
+      "county_id": "ars_clay",
+      "name": "CLAYTON",
+      "start_date": "1873-03-24",
+      "end_date": "1875-12-31",
+      "filename": "068269e7f0a9.json"
+    },
+    "b368463fceff": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1873-03-24",
+      "end_date": "1895-04-29",
+      "filename": "b368463fceff.json"
+    },
+    "c1ae72409cfb": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1873-03-24",
+      "end_date": "1885-02-16",
+      "filename": "c1ae72409cfb.json"
+    },
+    "faee9529b97d": {
+      "county_id": "ars_logan",
+      "name": "SARBER",
+      "start_date": "1873-02-27",
+      "end_date": "1875-12-13",
+      "filename": "faee9529b97d.json"
+    },
+    "46aa7e61ca56": {
+      "county_id": "ars_baxter",
+      "name": "BAXTER",
+      "start_date": "1873-03-24",
+      "end_date": "1881-03-08",
+      "filename": "46aa7e61ca56.json"
+    },
+    "9e6d019344f5": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1873-03-24",
+      "end_date": "1875-12-08",
+      "filename": "9e6d019344f5.json"
+    },
+    "867528cfda03": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1873-02-27",
+      "end_date": "1875-03-03",
+      "filename": "867528cfda03.json"
+    },
+    "c04650cfb429": {
+      "county_id": "ars_clark",
+      "name": "CLARK",
+      "start_date": "1873-04-05",
+      "end_date": "1873-04-23",
+      "filename": "c04650cfb429.json"
+    },
+    "1ff81d9c49bd": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1873-04-05",
+      "end_date": "1873-04-23",
+      "filename": "1ff81d9c49bd.json"
+    },
+    "09466c74eb77": {
+      "county_id": "ars_fulton",
+      "name": "FULTON",
+      "start_date": "1873-03-24",
+      "end_date": "1873-04-20",
+      "filename": "09466c74eb77.json"
+    },
+    "253359629970": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1873-03-24",
+      "end_date": "1873-04-20",
+      "filename": "253359629970.json"
+    },
+    "d619895b5245": {
+      "county_id": "ars_searcy",
+      "name": "SEARCY",
+      "start_date": "1873-03-24",
+      "end_date": "1873-04-20",
+      "filename": "d619895b5245.json"
+    },
+    "edb70f0e7e4d": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1875-12-07",
+      "end_date": "1885-03-30",
+      "filename": "edb70f0e7e4d.json"
+    },
+    "4610f82c8ff4": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1875-12-07",
+      "end_date": "1885-03-30",
+      "filename": "4610f82c8ff4.json"
+    },
+    "b38fcc29b486": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1875-12-07",
+      "end_date": "1883-03-07",
+      "filename": "b38fcc29b486.json"
+    },
+    "c1775037ed8d": {
+      "county_id": "ars_logan",
+      "name": "LOGAN",
+      "start_date": "1875-12-14",
+      "end_date": "1881-03-20",
+      "filename": "c1775037ed8d.json"
+    },
+    "77db61e55067": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1875-12-09",
+      "end_date": "1881-03-08",
+      "filename": "77db61e55067.json"
+    },
+    "0417f9529386": {
+      "county_id": "ars_ashley",
+      "name": "ASHLEY",
+      "start_date": "1875-11-30",
+      "end_date": "2000-12-31",
+      "filename": "0417f9529386.json"
+    },
+    "993179812e23": {
+      "county_id": "ars_bradley",
+      "name": "BRADLEY",
+      "start_date": "1875-11-30",
+      "end_date": "2000-12-31",
+      "filename": "993179812e23.json"
+    },
+    "e93a5b53b253": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1875-02-11",
+      "end_date": "1883-02-19",
+      "filename": "e93a5b53b253.json"
+    },
+    "b603f1d3b66a": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1875-11-30",
+      "end_date": "1883-03-07",
+      "filename": "b603f1d3b66a.json"
+    },
+    "b2520140a0fb": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1875-03-04",
+      "end_date": "1881-03-08",
+      "filename": "b2520140a0fb.json"
+    },
+    "1d16332c85a1": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1875-03-04",
+      "end_date": "1881-03-08",
+      "filename": "1d16332c85a1.json"
+    },
+    "d6fd44a631d1": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1875-02-11",
+      "end_date": "1877-03-08",
+      "filename": "d6fd44a631d1.json"
+    },
+    "938b98827af0": {
+      "county_id": "ars_pope",
+      "name": "POPE",
+      "start_date": "1875-03-06",
+      "end_date": "1877-03-08",
+      "filename": "938b98827af0.json"
+    },
+    "3db7032e22db": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1875-03-06",
+      "end_date": "1877-03-08",
+      "filename": "3db7032e22db.json"
+    },
+    "76980c9b1610": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1879-03-20",
+      "end_date": "1883-03-15",
+      "filename": "76980c9b1610.json"
+    },
+    "8d7fbfcf1d83": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1879-03-20",
+      "end_date": "1883-03-15",
+      "filename": "8d7fbfcf1d83.json"
+    },
+    "e978357a7c0c": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1879-02-10",
+      "end_date": "1879-03-19",
+      "filename": "e978357a7c0c.json"
+    },
+    "21f9fb57e914": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1879-02-10",
+      "end_date": "1931-04-01",
+      "filename": "21f9fb57e914.json"
+    },
+    "531ef1f30235": {
+      "county_id": "ars_baxter",
+      "name": "BAXTER",
+      "start_date": "1881-03-09",
+      "end_date": "2000-12-31",
+      "filename": "531ef1f30235.json"
+    },
+    "00d6970658aa": {
+      "county_id": "ars_marion",
+      "name": "MARION",
+      "start_date": "1881-03-09",
+      "end_date": "2000-12-31",
+      "filename": "00d6970658aa.json"
+    },
+    "5b2298d9f9f0": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1881-03-21",
+      "end_date": "1890-12-30",
+      "filename": "5b2298d9f9f0.json"
+    },
+    "e5cb94bbf24a": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1881-03-09",
+      "end_date": "1887-03-07",
+      "filename": "e5cb94bbf24a.json"
+    },
+    "ca9837421056": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1881-03-09",
+      "end_date": "1887-03-07",
+      "filename": "ca9837421056.json"
+    },
+    "638be810e8dd": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1881-03-09",
+      "end_date": "1887-03-07",
+      "filename": "638be810e8dd.json"
+    },
+    "e011ce5d2dbf": {
+      "county_id": "ars_logan",
+      "name": "LOGAN",
+      "start_date": "1881-03-21",
+      "end_date": "1891-10-19",
+      "filename": "e011ce5d2dbf.json"
+    },
+    "343508737c17": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1881-03-09",
+      "end_date": "1885-02-16",
+      "filename": "343508737c17.json"
+    },
+    "132246fdb891": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1883-03-31",
+      "end_date": "1885-03-04",
+      "filename": "132246fdb891.json"
+    },
+    "8500c0321e27": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1883-03-31",
+      "end_date": "1885-03-04",
+      "filename": "8500c0321e27.json"
+    },
+    "64c40cfe960c": {
+      "county_id": "ars_cleburne",
+      "name": "CLEBURNE",
+      "start_date": "1883-02-20",
+      "end_date": "2000-12-31",
+      "filename": "64c40cfe960c.json"
+    },
+    "886a7373569a": {
+      "county_id": "ars_independence",
+      "name": "INDEPENDENCE",
+      "start_date": "1883-02-20",
+      "end_date": "2000-12-31",
+      "filename": "886a7373569a.json"
+    },
+    "153cb8c77dcf": {
+      "county_id": "ars_stfrancis",
+      "name": "ST. FRANCIS",
+      "start_date": "1883-03-26",
+      "end_date": "2000-12-31",
+      "filename": "153cb8c77dcf.json"
+    },
+    "579d66f8ec74": {
+      "county_id": "ars_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1883-02-20",
+      "end_date": "2000-12-31",
+      "filename": "579d66f8ec74.json"
+    },
+    "991d207fa932": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1883-02-20",
+      "end_date": "1887-03-30",
+      "filename": "991d207fa932.json"
+    },
+    "eb768e946165": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1883-03-10",
+      "end_date": "1887-01-30",
+      "filename": "eb768e946165.json"
+    },
+    "9d04f1aa04f5": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1883-03-10",
+      "end_date": "1887-01-30",
+      "filename": "9d04f1aa04f5.json"
+    },
+    "5a5f64a9a5b7": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1883-03-08",
+      "end_date": "1907-05-03",
+      "filename": "5a5f64a9a5b7.json"
+    },
+    "5207e3c98d09": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1883-03-16",
+      "end_date": "1885-03-22",
+      "filename": "5207e3c98d09.json"
+    },
+    "6b4690105dc3": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1883-03-16",
+      "end_date": "1885-03-22",
+      "filename": "6b4690105dc3.json"
+    },
+    "2244363696c0": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1883-03-08",
+      "end_date": "1883-03-30",
+      "filename": "2244363696c0.json"
+    },
+    "265b6be0ecd4": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1883-03-26",
+      "end_date": "1883-03-30",
+      "filename": "265b6be0ecd4.json"
+    },
+    "222b394af855": {
+      "county_id": "ars_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1885-03-28",
+      "end_date": "2000-12-31",
+      "filename": "222b394af855.json"
+    },
+    "5d38c85ccb63": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1885-03-31",
+      "end_date": "1983-03-24",
+      "filename": "5d38c85ccb63.json"
+    },
+    "71986fbc1602": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1885-03-31",
+      "end_date": "1915-02-16",
+      "filename": "71986fbc1602.json"
+    },
+    "63aa42eff8e0": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1885-03-24",
+      "end_date": "1889-02-24",
+      "filename": "63aa42eff8e0.json"
+    },
+    "38a7cb1801e1": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1885-03-31",
+      "end_date": "1887-03-07",
+      "filename": "38a7cb1801e1.json"
+    },
+    "109be6c083e8": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1885-03-28",
+      "end_date": "1887-03-14",
+      "filename": "109be6c083e8.json"
+    },
+    "3e00091b841e": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1885-03-24",
+      "end_date": "1887-03-20",
+      "filename": "3e00091b841e.json"
+    },
+    "e669f5ed2549": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1885-03-31",
+      "end_date": "1907-05-03",
+      "filename": "e669f5ed2549.json"
+    },
+    "ba5c7c80a7a6": {
+      "county_id": "ars_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1885-03-05",
+      "end_date": "2000-12-31",
+      "filename": "ba5c7c80a7a6.json"
+    },
+    "8d9d52a881a9": {
+      "county_id": "ars_johnson",
+      "name": "JOHNSON",
+      "start_date": "1885-02-17",
+      "end_date": "2000-12-31",
+      "filename": "8d9d52a881a9.json"
+    },
+    "ba9986ff993a": {
+      "county_id": "ars_prairie",
+      "name": "PRAIRIE",
+      "start_date": "1885-03-05",
+      "end_date": "2000-12-31",
+      "filename": "ba9986ff993a.json"
+    },
+    "d8203dd771d9": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1885-02-17",
+      "end_date": "1917-03-20",
+      "filename": "d8203dd771d9.json"
+    },
+    "976d54a14ede": {
+      "county_id": "ars_newton",
+      "name": "NEWTON",
+      "start_date": "1885-02-17",
+      "end_date": "1893-04-03",
+      "filename": "976d54a14ede.json"
+    },
+    "60b5ce56f67e": {
+      "county_id": "ars_izard",
+      "name": "IZARD",
+      "start_date": "1887-01-31",
+      "end_date": "2000-12-31",
+      "filename": "60b5ce56f67e.json"
+    },
+    "342fd9dc1afb": {
+      "county_id": "ars_monroe",
+      "name": "MONROE",
+      "start_date": "1887-03-15",
+      "end_date": "2000-12-31",
+      "filename": "342fd9dc1afb.json"
+    },
+    "9a5fac6649c7": {
+      "county_id": "ars_washington",
+      "name": "WASHINGTON",
+      "start_date": "1887-03-08",
+      "end_date": "2000-12-31",
+      "filename": "9a5fac6649c7.json"
+    },
+    "a0b9df68be38": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1887-03-21",
+      "end_date": "1925-03-26",
+      "filename": "a0b9df68be38.json"
+    },
+    "9243f79c3992": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1887-03-08",
+      "end_date": "1895-04-06",
+      "filename": "9243f79c3992.json"
+    },
+    "15988a418063": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1887-03-08",
+      "end_date": "1887-12-30",
+      "filename": "15988a418063.json"
+    },
+    "5e14348060c8": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1887-03-08",
+      "end_date": "1893-04-03",
+      "filename": "5e14348060c8.json"
+    },
+    "812c867a5369": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1887-01-31",
+      "end_date": "1891-03-01",
+      "filename": "812c867a5369.json"
+    },
+    "0352302d82cd": {
+      "county_id": "ars_woodruff",
+      "name": "WOODRUFF",
+      "start_date": "1887-03-15",
+      "end_date": "1887-03-30",
+      "filename": "0352302d82cd.json"
+    },
+    "a26da910b6f6": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1887-03-21",
+      "end_date": "1925-03-26",
+      "filename": "a26da910b6f6.json"
+    },
+    "a330a911e3b4": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1889-02-25",
+      "end_date": "2000-12-31",
+      "filename": "a330a911e3b4.json"
+    },
+    "178ea9ec9a4a": {
+      "county_id": "ars_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1889-02-25",
+      "end_date": "2000-12-31",
+      "filename": "178ea9ec9a4a.json"
+    },
+    "807d86f99b34": {
+      "county_id": "ars_sebastian",
+      "name": "SEBASTIAN",
+      "start_date": "1890-12-31",
+      "end_date": "2000-12-31",
+      "filename": "807d86f99b34.json"
+    },
+    "f65541bdb34f": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1890-12-31",
+      "end_date": "1901-05-22",
+      "filename": "f65541bdb34f.json"
+    },
+    "426e7e6f0c03": {
+      "county_id": "ars_logan",
+      "name": "LOGAN",
+      "start_date": "1891-10-20",
+      "end_date": "1903-03-01",
+      "filename": "426e7e6f0c03.json"
+    },
+    "4611b9423c56": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1891-10-20",
+      "end_date": "1893-04-12",
+      "filename": "4611b9423c56.json"
+    },
+    "7563c55439a3": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1891-03-02",
+      "end_date": "1957-03-05",
+      "filename": "7563c55439a3.json"
+    },
+    "ee075922c845": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1891-03-02",
+      "end_date": "1917-03-20",
+      "filename": "ee075922c845.json"
+    },
+    "edf4a1454286": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1891-04-08",
+      "end_date": "1893-04-12",
+      "filename": "edf4a1454286.json"
+    },
+    "a4cd19b0f495": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1891-04-08",
+      "end_date": "1891-10-19",
+      "filename": "a4cd19b0f495.json"
+    },
+    "890a15966be6": {
+      "county_id": "ars_madison",
+      "name": "MADISON",
+      "start_date": "1893-04-04",
+      "end_date": "2000-12-31",
+      "filename": "890a15966be6.json"
+    },
+    "890a50277521": {
+      "county_id": "ars_newton",
+      "name": "NEWTON",
+      "start_date": "1893-04-04",
+      "end_date": "2000-12-31",
+      "filename": "890a50277521.json"
+    },
+    "e2cb8730ac7c": {
+      "county_id": "ars_perry",
+      "name": "PERRY",
+      "start_date": "1893-04-13",
+      "end_date": "2000-12-31",
+      "filename": "e2cb8730ac7c.json"
+    },
+    "8605325fb206": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1893-04-13",
+      "end_date": "1922-01-01",
+      "filename": "8605325fb206.json"
+    },
+    "0fae1f9c5960": {
+      "county_id": "ars_greene",
+      "name": "GREENE",
+      "start_date": "1895-04-30",
+      "end_date": "2000-12-31",
+      "filename": "0fae1f9c5960.json"
+    },
+    "02c0432b2caf": {
+      "county_id": "ars_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1895-04-07",
+      "end_date": "2000-12-31",
+      "filename": "02c0432b2caf.json"
+    },
+    "4e6e0f57e008": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1895-04-07",
+      "end_date": "2000-12-31",
+      "filename": "4e6e0f57e008.json"
+    },
+    "25d3686f26a4": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI",
+      "start_date": "1915-02-17",
+      "end_date": "2000-12-31",
+      "filename": "25d3686f26a4.json"
+    },
+    "4ecab0869db5": {
+      "county_id": "ars_saline",
+      "name": "SALINE",
+      "start_date": "1915-02-17",
+      "end_date": "2000-12-31",
+      "filename": "4ecab0869db5.json"
+    },
+    "c1fd3a0cd24c": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1917-03-24",
+      "end_date": "2000-12-31",
+      "filename": "c1fd3a0cd24c.json"
+    },
+    "7f27fbf22c2f": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1917-03-24",
+      "end_date": "2000-12-31",
+      "filename": "7f27fbf22c2f.json"
+    },
+    "359153ba664e": {
+      "county_id": "ars_garland",
+      "name": "GARLAND",
+      "start_date": "1917-02-23",
+      "end_date": "2000-12-31",
+      "filename": "359153ba664e.json"
+    },
+    "5b3dd76f079b": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1917-02-23",
+      "end_date": "1925-02-20",
+      "filename": "5b3dd76f079b.json"
+    },
+    "ee6591878567": {
+      "county_id": "ars_sharp",
+      "name": "SHARP",
+      "start_date": "1917-03-21",
+      "end_date": "1917-03-23",
+      "filename": "ee6591878567.json"
+    },
+    "92db70642f7f": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1917-03-21",
+      "end_date": "1917-03-23",
+      "filename": "92db70642f7f.json"
+    },
+    "0a6ee8076bbc": {
+      "county_id": "ars_logan",
+      "name": "LOGAN",
+      "start_date": "1922-01-02",
+      "end_date": "2000-12-31",
+      "filename": "0a6ee8076bbc.json"
+    },
+    "a788aa2e178b": {
+      "county_id": "ars_yell",
+      "name": "YELL",
+      "start_date": "1922-01-02",
+      "end_date": "2000-12-31",
+      "filename": "a788aa2e178b.json"
+    },
+    "7f1af48b81ff": {
+      "county_id": "ars_scott",
+      "name": "SCOTT",
+      "start_date": "1925-02-21",
+      "end_date": "2000-12-31",
+      "filename": "7f1af48b81ff.json"
+    },
+    "3e09796f9ec0": {
+      "county_id": "ars_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1925-02-21",
+      "end_date": "2000-12-31",
+      "filename": "3e09796f9ec0.json"
+    },
+    "b758150113f0": {
+      "county_id": "ars_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1925-03-27",
+      "end_date": "2000-12-31",
+      "filename": "b758150113f0.json"
+    },
+    "85bad1a87dcd": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1925-03-27",
+      "end_date": "1931-04-01",
+      "filename": "85bad1a87dcd.json"
+    },
+    "9a5be0cbf337": {
+      "county_id": "ars_desha",
+      "name": "DESHA",
+      "start_date": "1931-04-02",
+      "end_date": "2000-12-31",
+      "filename": "9a5be0cbf337.json"
+    },
+    "bc21449bee08": {
+      "county_id": "ars_chicot",
+      "name": "CHICOT",
+      "start_date": "1931-04-02",
+      "end_date": "2000-12-31",
+      "filename": "bc21449bee08.json"
+    },
+    "475997dca88d": {
+      "county_id": "ars_white",
+      "name": "WHITE",
+      "start_date": "1941-03-03",
+      "end_date": "2000-12-31",
+      "filename": "475997dca88d.json"
+    },
+    "f47c5bc1921d": {
+      "county_id": "ars_lonoke",
+      "name": "LONOKE",
+      "start_date": "1941-03-03",
+      "end_date": "2000-12-31",
+      "filename": "f47c5bc1921d.json"
+    },
+    "ba9bd9436db6": {
+      "county_id": "ars_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1957-03-06",
+      "end_date": "2000-12-31",
+      "filename": "ba9bd9436db6.json"
+    },
+    "5190d34a1ec8": {
+      "county_id": "ars_clay",
+      "name": "CLAY",
+      "start_date": "1957-03-06",
+      "end_date": "2000-12-31",
+      "filename": "5190d34a1ec8.json"
+    },
+    "492a8bfd7cf7": {
+      "county_id": "ars_benton",
+      "name": "BENTON",
+      "start_date": "1983-03-25",
+      "end_date": "1997-04-08",
+      "filename": "492a8bfd7cf7.json"
+    },
+    "a63fa2c44305": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1983-03-25",
+      "end_date": "1997-04-08",
+      "filename": "a63fa2c44305.json"
+    },
+    "e1f820279ea6": {
+      "county_id": "ars_benton",
+      "name": "BENTON",
+      "start_date": "1997-04-09",
+      "end_date": "2000-12-31",
+      "filename": "e1f820279ea6.json"
+    },
+    "7fd26a87e817": {
+      "county_id": "ars_carroll",
+      "name": "CARROLL",
+      "start_date": "1997-04-09",
+      "end_date": "2000-12-31",
+      "filename": "7fd26a87e817.json"
+    },
+    "b5629b78d017": {
+      "county_id": "ars_arkansas",
+      "name": "ARKANSAS",
+      "start_date": "1813-12-31",
+      "end_date": "1819-05-31",
+      "filename": "b5629b78d017.json"
+    },
+    "bd14b634645e": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1819-07-04",
+      "end_date": "1820-10-24",
+      "filename": "bd14b634645e.json"
+    },
+    "b86be9158d5e": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1815-03-01",
+      "end_date": "1819-01-31",
+      "filename": "b86be9158d5e.json"
+    },
+    "6b1bc4061169": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1819-02-01",
+      "end_date": "1819-07-03",
+      "filename": "6b1bc4061169.json"
+    },
+    "94654a362556": {
+      "county_id": "ars_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1819-07-04",
+      "end_date": "1820-10-24",
+      "filename": "94654a362556.json"
+    },
+    "bfbc5d1332a3": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "bfbc5d1332a3.json"
+    },
+    "6c5f2c8ac13c": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1813-12-31",
+      "end_date": "1819-05-31",
+      "filename": "6c5f2c8ac13c.json"
+    },
+    "728870210211": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "728870210211.json"
+    },
+    "eccb7b463fdf": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1812-12-07",
+      "end_date": "1813-12-30",
+      "filename": "eccb7b463fdf.json"
+    },
+    "76f293cfefe8": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1813-12-31",
+      "end_date": "1815-02-28",
+      "filename": "76f293cfefe8.json"
+    }
+  }
+}
