@@ -67,6 +67,7 @@ app, rt = fast_app(
         Link(rel="stylesheet", href="/static/css/leaflet.css"),
         # Custom CSS
         Link(rel="stylesheet", href="/static/css/main.css"),
+        Link(rel="stylesheet", href="/static/css/map-page.css"),
         Link(rel="stylesheet", href="/static/css/leaflet.mods.css"),
         # High-resolution loading CSS
         Link(rel="stylesheet", href="/static/css/highres-loading.css"),
@@ -218,7 +219,7 @@ async def get_features_batch(state_code: str, request):
         return JSONResponse({"error": "Invalid request"}, status_code=400)
 
 
-@rt("/ahcb/maps")
+@rt("/athf/maps")
 def all_maps_page():
     # Create the page structure
     return Title("Altas of Historical County Boundaries"), Html(
@@ -240,7 +241,7 @@ def all_maps_page():
                         Span("Go to..."),
                         Ul(
                             *[
-                                Li(A(name, href=f"/ahcb/{code}"))
+                                Li(A(name, href=f"/athf/{code}"))
                                 for code, name in state_names.items()
                             ]
                         ),
@@ -266,7 +267,7 @@ def all_maps_page():
                                         src=f"/static/images/pcards/{code}_postcard.png",
                                         cls="card-img-name",
                                     ),
-                                    href=f"/ahcb/{code}",
+                                    href=f"/athf/{code}",
                                 ),
                                 cls="state-postcard",
                             )
@@ -283,7 +284,7 @@ def all_maps_page():
 
 
 # Main state page route
-@rt("/ahcb/{state_code}")
+@rt("/athf/{state_code}")
 def state_page(state_code: str):
     """Display the map page for a specific state"""
     if state_code.lower() not in US_STATES:
@@ -312,7 +313,6 @@ def state_page(state_code: str):
             Link(rel="stylesheet", href="/static/css/leaflet-mods.css"),
             Link(rel="stylesheet", href="/static/css/main.css"),
             Link(rel="stylesheet", href="/static/css/map-page.css"),
-            Link(rel="stylesheet", href="/static/css/highres-loading.css"),
         ),
         Body(
             Header(
@@ -323,7 +323,7 @@ def state_page(state_code: str):
                         "Go to...",
                         Ul(
                             *[
-                                Li(A(name, href=f"/ahcb/{code}"))
+                                Li(A(name, href=f"/athf/{code}"))
                                 for code, name in state_names.items()
                             ]
                         ),
@@ -376,11 +376,11 @@ def state_page(state_code: str):
 @rt("/")
 def home():
     """Redirect root to a default state or show state list"""
-    return RedirectResponse("/ahcb/maps", status_code=303)
+    return RedirectResponse("/athf/maps", status_code=303)
 
 
 # Handle 404s for invalid ahcb routes
-@rt("/ahcb/{path:path}")
+@rt("/athf/{path:path}")
 def ahcb_404(path: str):
     """Handle 404s for invalid AHCB routes"""
     return Titled(

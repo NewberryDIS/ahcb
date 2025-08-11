@@ -1,7 +1,7 @@
 .main-content {
   display: flex;
   height: calc(100vh - 76px); /* Need header height variable */
-  height: 100%;
+  /* height: 100%; */
   gap: 0;
   position: relative;
 }
@@ -161,4 +161,12 @@
 .time-text :is(.d, .m) {
   min-width: 2ch;
   flex-basis: 2ch;
+}
+
+.county-info .highres-info {
+  font-size: 0.76rem;
+  margin: 0.76rem 0;
+  opacity: 0.76;
+  font-style: italic;
+  border-top: 1px solid var(--fg-color, #333);
 }

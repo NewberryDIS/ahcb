@@ -2,7 +2,7 @@
 """
 Static Site Generator for Historical County Boundaries
 
-This script "cooks down" the FastHTML application into a static site
+This script cooks down the FastHTML application into a static site
 by pre-generating all the HTML pages and copying necessary assets.
 """
 

@@ -10,7 +10,7 @@ let loadedHighResData = new Map(); // Cache for loaded high-res data
 let isHighResMode = false;
 
 // Configuration
-const HIGH_RES_DELAY = 2000; // Wait 2 seconds before loading high-res data
+const HIGH_RES_DELAY = 500; // Wait before loading high-res data
 const CACHE_LIMIT = 10; // Maximum number of cached high-res datasets
 
 // Initialize the map
@@ -158,6 +158,15 @@ function createTimelineControl(timelineData) {
     const newDate = e.target.time;
     onTimelineChange(newDate);
   });
+
+  // Set initial date and trigger potential high-res loading
+  const initialDate = geojsonLayer.time || timelineControl.getDisplayed();
+  currentDate = initialDate;
+
+  // Start timer for initial high-res loading
+  dateStabilityTimer = setTimeout(() => {
+    loadHighResDataForDate(currentDate);
+  }, HIGH_RES_DELAY);
 }
 
 // Handle timeline changes
@@ -249,13 +258,35 @@ async function loadHighResFeatures(visibleFeatures) {
 
   // Collect feature IDs that need to be loaded
   const featureIds = [];
+
   for (const feature of visibleFeatures) {
-    const featureId = feature.properties.ID;
-    const manifestFeature = manifestData.features[featureId];
+    const countyId = feature.properties.ID;
+    const startDate = feature.properties.START_DATE;
+    const endDate = feature.properties.END_DATE;
+
+    // Find the manifest entry that matches this county and date range
+    let manifestFeature = null;
+    let manifestKey = null;
+
+    for (const [key, manifest] of Object.entries(manifestData.features)) {
+      if (
+        manifest.county_id === countyId &&
+        manifest.start_date === startDate &&
+        manifest.end_date === endDate
+      ) {
+        manifestFeature = manifest;
+        manifestKey = key;
+        break;
+      }
+    }
 
     if (manifestFeature) {
       const filename = manifestFeature.filename.replace(".json", "");
-      featureIds.push(filename);
+      featureIds.push({
+        filename: filename,
+        originalFeature: feature,
+        manifestKey: manifestKey,
+      });
     }
   }
 
@@ -264,7 +295,8 @@ async function loadHighResFeatures(visibleFeatures) {
   }
 
   try {
-    // Use batch API if available and we have multiple features
+    const filenames = featureIds.map((f) => f.filename);
+
     if (featureIds.length > 1) {
       const response = await fetch(`/api/features/${stateCode}/batch`, {
         method: "POST",
@@ -272,37 +304,29 @@ async function loadHighResFeatures(visibleFeatures) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          feature_ids: featureIds,
+          feature_ids: filenames,
         }),
       });
 
       if (response.ok) {
         const batchData = await response.json();
 
-        // Process batch response
-        for (const [featureId, data] of Object.entries(batchData.features)) {
-          // Find corresponding preview feature for properties
-          const previewFeature = visibleFeatures.find((f) => {
-            const manifestFeature = manifestData.features[f.properties.ID];
-            return (
-              manifestFeature &&
-              manifestFeature.filename.replace(".json", "") === featureId
-            );
-          });
+        for (const [filename, data] of Object.entries(batchData.features)) {
+          const featureInfo = featureIds.find((f) => f.filename === filename);
 
-          if (previewFeature && data) {
+          if (featureInfo && data) {
             if (data.features) {
               data.features.forEach((highResFeature) => {
                 highResFeature.properties = {
                   ...highResFeature.properties,
-                  ...previewFeature.properties,
+                  ...featureInfo.originalFeature.properties,
                 };
               });
               highResFeatures.push(...data.features);
             } else {
               data.properties = {
                 ...data.properties,
-                ...previewFeature.properties,
+                ...featureInfo.originalFeature.properties,
               };
               highResFeatures.push(data);
             }
@@ -313,93 +337,36 @@ async function loadHighResFeatures(visibleFeatures) {
       }
     }
 
-    // Fallback to individual requests if batch fails or single feature
-    for (const feature of visibleFeatures) {
-      const featureId = feature.properties.ID;
-      const manifestFeature = manifestData.features[featureId];
+    // Fallback to individual requests
+    for (const featureInfo of featureIds) {
+      try {
+        const response = await fetch(
+          `/api/feature/${stateCode}/${featureInfo.filename}`,
+        );
 
-      if (manifestFeature) {
-        const filename = manifestFeature.filename.replace(".json", "");
-        try {
-          const response = await fetch(`/api/feature/${stateCode}/${filename}`);
-          if (response.ok) {
-            const data = await response.json();
+        if (response.ok) {
+          const data = await response.json();
 
-            if (data.features) {
-              data.features.forEach((highResFeature) => {
-                highResFeature.properties = {
-                  ...highResFeature.properties,
-                  ...feature.properties,
-                };
-              });
-              highResFeatures.push(...data.features);
-            } else {
-              data.properties = {
-                ...data.properties,
-                ...feature.properties,
+          if (data.features) {
+            data.features.forEach((highResFeature) => {
+              highResFeature.properties = {
+                ...highResFeature.properties,
+                ...featureInfo.originalFeature.properties,
               };
-              highResFeatures.push(data);
-            }
+            });
+            highResFeatures.push(...data.features);
+          } else {
+            data.properties = {
+              ...data.properties,
+              ...featureInfo.originalFeature.properties,
+            };
+            highResFeatures.push(data);
           }
-        } catch (error) {
-          console.warn(
-            `Could not load high-res data for feature ${featureId}:`,
-            error,
-          );
         }
-      }
+      } catch (error) {}
     }
   } catch (error) {
-    console.error(
-      "Error in batch loading, falling back to individual requests:",
-      error,
-    );
-
-    // Final fallback: individual requests
-    const loadPromises = [];
-
-    for (const feature of visibleFeatures) {
-      const featureId = feature.properties.ID;
-      const manifestFeature = manifestData.features[featureId];
-
-      if (manifestFeature) {
-        const filename = manifestFeature.filename.replace(".json", "");
-        const loadPromise = fetch(`/api/feature/${stateCode}/${filename}`)
-          .then((response) => {
-            if (response.ok) {
-              return response.json();
-            }
-            throw new Error(`Failed to load feature ${filename}`);
-          })
-          .then((data) => {
-            if (data.features) {
-              data.features.forEach((highResFeature) => {
-                highResFeature.properties = {
-                  ...highResFeature.properties,
-                  ...feature.properties,
-                };
-              });
-              highResFeatures.push(...data.features);
-            } else {
-              data.properties = {
-                ...data.properties,
-                ...feature.properties,
-              };
-              highResFeatures.push(data);
-            }
-          })
-          .catch((error) => {
-            console.warn(
-              `Could not load high-res data for feature ${featureId}:`,
-              error,
-            );
-          });
-
-        loadPromises.push(loadPromise);
-      }
-    }
-
-    await Promise.all(loadPromises);
+    console.error("Error in loading:", error);
   }
 
   return highResFeatures;
@@ -460,7 +427,8 @@ function switchToHighResMode(highResData) {
   }
 
   isHighResMode = true;
-  showHighResIndicator();
+  // showHighResIndicator();
+  highResLoading("loaded");
 }
 
 // Switch back to preview mode
@@ -479,7 +447,8 @@ function switchToPreviewMode() {
   }
 
   isHighResMode = false;
-  hideHighResIndicator();
+  // hideHighResIndicator();
+  highResLoading("loading");
 }
 
 // Manage cache to prevent memory issues
@@ -525,23 +494,32 @@ function hideLoadingIndicator() {
 }
 
 // Show high-resolution mode indicator
-function showHighResIndicator() {
-  let indicator = document.getElementById("highres-indicator");
-  if (!indicator) {
-    indicator = document.createElement("div");
-    indicator.id = "highres-indicator";
-    indicator.className = "highres-indicator";
-    indicator.innerHTML = "🔍 High Resolution";
-    document.querySelector(".main-content").appendChild(indicator);
-  }
-  indicator.classList.add("visible");
-}
+// function showHighResIndicator() {
+//   let indicator = document.getElementById("highres-indicator");
+//   if (!indicator) {
+//     indicator = document.createElement("div");
+//     indicator.id = "highres-indicator";
+//     indicator.className = "highres-indicator";
+//     indicator.innerHTML = "🔍 High Resolution";
+//     document.querySelector(".main-content").appendChild(indicator);
+//   }
+//   indicator.classList.add("visible");
+// }
 
 // Hide high-resolution mode indicator
-function hideHighResIndicator() {
-  const indicator = document.getElementById("highres-indicator");
-  if (indicator) {
-    indicator.classList.remove("visible");
+// function hideHighResIndicator() {
+//   const indicator = document.getElementById("highres-indicator");
+//   if (indicator) {
+//     indicator.classList.remove("visible");
+//   }
+// }
+
+function highResLoading(state) {
+  const highResLoadText = document.getElementById("highres-loading");
+  if (state === "loading") {
+    highResLoadText.innerText = "Full details loading...";
+  } else if (state === "loaded") {
+    highResLoadText.innerText = "Full details loaded.";
   }
 }
 
@@ -626,6 +604,7 @@ function updateInfoPanel(properties, isHighRes = false) {
             `
                 : ""
             }
+        <p class="highres-info" id="highres-loading">Full details loaded.</p>
         </div>
     `;
 
@@ -640,7 +619,7 @@ function setupInfoPanel() {
         <p>Use the time slider to see how the county boundaries have changed over time.</p>
         <p>Use the arrow keys, play button, or next/previous buttons to navigate.</p>
         <p>Click on a county to explore the data!</p>
-        <p class="highres-info">📍 Stay on a date for ${HIGH_RES_DELAY / 1000} seconds to load detailed boundaries.</p>
+        <p class="highres-info" id="highres-loading">Full details loading...</p>
     </div>
 `;
 }
