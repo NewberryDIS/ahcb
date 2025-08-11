@@ -1,0 +1,986 @@
+{
+  "state": "CT",
+  "total_features": 140,
+  "features": {
+    "ecd627cde81a": {
+      "county_id": "ctc_colony",
+      "name": "Connecticut Colony",
+      "start_date": "1662-04-23",
+      "end_date": "1665-04-07",
+      "filename": "ecd627cde81a.json"
+    },
+    "1cbb1ac20739": {
+      "county_id": "ric_narragansett",
+      "name": "Narragansett Country",
+      "start_date": "1662-04-23",
+      "end_date": "1665-04-07",
+      "filename": "1cbb1ac20739.json"
+    },
+    "2b7c04b43252": {
+      "county_id": "ctc_colony",
+      "name": "Connecticut Colony",
+      "start_date": "1665-04-08",
+      "end_date": "1666-05-09",
+      "filename": "2b7c04b43252.json"
+    },
+    "100d688c110f": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1666-05-10",
+      "end_date": "1687-10-12",
+      "filename": "100d688c110f.json"
+    },
+    "38e743a2e4ec": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1666-05-10",
+      "end_date": "1670-05-11",
+      "filename": "38e743a2e4ec.json"
+    },
+    "63e04e3c3d67": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1666-05-10",
+      "end_date": "1675-05-17",
+      "filename": "63e04e3c3d67.json"
+    },
+    "8a5a773c7f30": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1666-05-10",
+      "end_date": "1671-05-10",
+      "filename": "8a5a773c7f30.json"
+    },
+    "63fa3b50310a": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1666-05-10",
+      "end_date": "1687-10-12",
+      "filename": "63fa3b50310a.json"
+    },
+    "b3430aeee31f": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1666-05-10",
+      "end_date": "1669-05-18",
+      "filename": "b3430aeee31f.json"
+    },
+    "f7d496a5caeb": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1669-05-19",
+      "end_date": "1674-06-02",
+      "filename": "f7d496a5caeb.json"
+    },
+    "62b3a18d8f0f": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1669-05-19",
+      "end_date": "1670-05-11",
+      "filename": "62b3a18d8f0f.json"
+    },
+    "3cd418783eeb": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1670-05-12",
+      "end_date": "1686-05-14",
+      "filename": "3cd418783eeb.json"
+    },
+    "c5f9f69382eb": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1670-05-12",
+      "end_date": "1671-05-10",
+      "filename": "c5f9f69382eb.json"
+    },
+    "72b310d4b1a2": {
+      "county_id": "cts_nca3",
+      "name": "NCA 3",
+      "start_date": "1670-05-12",
+      "end_date": "1674-06-02",
+      "filename": "72b310d4b1a2.json"
+    },
+    "d33eb33b93dd": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1671-05-11",
+      "end_date": "1675-05-12",
+      "filename": "d33eb33b93dd.json"
+    },
+    "585b58cc3253": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1671-05-11",
+      "end_date": "1675-05-12",
+      "filename": "585b58cc3253.json"
+    },
+    "72a52fc5887c": {
+      "county_id": "cts_nca4",
+      "name": "NCA 4",
+      "start_date": "1671-05-11",
+      "end_date": "1708-05-12",
+      "filename": "72a52fc5887c.json"
+    },
+    "594a666e4e4c": {
+      "county_id": "cts_nca3",
+      "name": "NCA 3",
+      "start_date": "1674-06-03",
+      "end_date": "1683-05-15",
+      "filename": "594a666e4e4c.json"
+    },
+    "bad0d2cd58aa": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1674-06-03",
+      "end_date": "1683-05-15",
+      "filename": "bad0d2cd58aa.json"
+    },
+    "ede8ac316eb5": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1675-05-18",
+      "end_date": "1683-11-27",
+      "filename": "ede8ac316eb5.json"
+    },
+    "fe59547a654b": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1675-05-18",
+      "end_date": "1686-05-14",
+      "filename": "fe59547a654b.json"
+    },
+    "a7ec938ec639": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1675-05-13",
+      "end_date": "1706-10-09",
+      "filename": "a7ec938ec639.json"
+    },
+    "64eb018bad47": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1675-05-13",
+      "end_date": "1675-05-17",
+      "filename": "64eb018bad47.json"
+    },
+    "9d8ab8b87ecb": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1683-11-28",
+      "end_date": "1687-10-12",
+      "filename": "9d8ab8b87ecb.json"
+    },
+    "23c0d296d613": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1683-05-16",
+      "end_date": "1731-07-09",
+      "filename": "23c0d296d613.json"
+    },
+    "bac2c07c28f5": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1686-05-15",
+      "end_date": "1694-05-09",
+      "filename": "bac2c07c28f5.json"
+    },
+    "76947e5d31fc": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1686-05-15",
+      "end_date": "1687-10-12",
+      "filename": "76947e5d31fc.json"
+    },
+    "738dfe3d7108": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1687-10-13",
+      "end_date": "1709-10-12",
+      "filename": "738dfe3d7108.json"
+    },
+    "81fb4d2ca566": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1687-10-13",
+      "end_date": "1697-10-13",
+      "filename": "81fb4d2ca566.json"
+    },
+    "f80d3164426a": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1687-10-13",
+      "end_date": "1706-10-09",
+      "filename": "f80d3164426a.json"
+    },
+    "8f4e8162a56b": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1687-10-13",
+      "end_date": "1690-03-14",
+      "filename": "8f4e8162a56b.json"
+    },
+    "be6f6897a99c": {
+      "county_id": "mas_suffolk",
+      "name": "SUFFOLK (Mass.)",
+      "start_date": "1690-03-15",
+      "end_date": "1731-07-09",
+      "filename": "be6f6897a99c.json"
+    },
+    "40c8c4f95c8f": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1690-03-15",
+      "end_date": "1694-05-09",
+      "filename": "40c8c4f95c8f.json"
+    },
+    "027e38231e0f": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1694-05-10",
+      "end_date": "1708-05-12",
+      "filename": "027e38231e0f.json"
+    },
+    "5ee6376bfe4c": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1694-05-10",
+      "end_date": "1697-10-13",
+      "filename": "5ee6376bfe4c.json"
+    },
+    "441c59addf96": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1697-10-14",
+      "end_date": "1699-10-11",
+      "filename": "441c59addf96.json"
+    },
+    "50d3156f88dd": {
+      "county_id": "cts_nca5",
+      "name": "NCA 5",
+      "start_date": "1697-10-14",
+      "end_date": "1717-05-08",
+      "filename": "50d3156f88dd.json"
+    },
+    "717c4da35711": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1697-10-14",
+      "end_date": "1699-10-11",
+      "filename": "717c4da35711.json"
+    },
+    "f88d9a0e2e7a": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1699-10-12",
+      "end_date": "1700-10-09",
+      "filename": "f88d9a0e2e7a.json"
+    },
+    "933ad7eb90b2": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1699-10-12",
+      "end_date": "1700-10-09",
+      "filename": "933ad7eb90b2.json"
+    },
+    "4da30c4e7ad6": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1700-10-10",
+      "end_date": "1708-10-13",
+      "filename": "4da30c4e7ad6.json"
+    },
+    "e5e49f2bcf26": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1700-10-10",
+      "end_date": "1708-05-12",
+      "filename": "e5e49f2bcf26.json"
+    },
+    "be47dea80758": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1706-10-10",
+      "end_date": "1708-05-12",
+      "filename": "be47dea80758.json"
+    },
+    "2061aa422ed9": {
+      "county_id": "cts_nca6",
+      "name": "NCA 6",
+      "start_date": "1706-10-10",
+      "end_date": "1714-10-13",
+      "filename": "2061aa422ed9.json"
+    },
+    "014141912273": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1706-10-10",
+      "end_date": "1709-10-12",
+      "filename": "014141912273.json"
+    },
+    "6f90c190b145": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1708-10-14",
+      "end_date": "1717-05-08",
+      "filename": "6f90c190b145.json"
+    },
+    "b52b7e0cfbd4": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1708-10-14",
+      "end_date": "1712-05-07",
+      "filename": "b52b7e0cfbd4.json"
+    },
+    "6ae4935f4da0": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1708-05-13",
+      "end_date": "1722-10-10",
+      "filename": "6ae4935f4da0.json"
+    },
+    "c858d743192f": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1708-05-13",
+      "end_date": "1708-10-13",
+      "filename": "c858d743192f.json"
+    },
+    "80bb7e7d245b": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1708-05-13",
+      "end_date": "1712-05-07",
+      "filename": "80bb7e7d245b.json"
+    },
+    "082ecc8122a9": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1709-10-13",
+      "end_date": "1714-10-13",
+      "filename": "082ecc8122a9.json"
+    },
+    "3994ab4ff2c3": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1709-10-13",
+      "end_date": "1722-10-10",
+      "filename": "3994ab4ff2c3.json"
+    },
+    "c33c3bd8005c": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1712-05-08",
+      "end_date": "1714-05-12",
+      "filename": "c33c3bd8005c.json"
+    },
+    "92b919537342": {
+      "county_id": "cts_nca1",
+      "name": "NCA 1",
+      "start_date": "1712-05-08",
+      "end_date": "1714-05-12",
+      "filename": "92b919537342.json"
+    },
+    "44fca125d3d8": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1714-10-14",
+      "end_date": "1728-10-09",
+      "filename": "44fca125d3d8.json"
+    },
+    "deb48624be39": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1714-05-13",
+      "end_date": "1722-10-10",
+      "filename": "deb48624be39.json"
+    },
+    "97ed4a3f544f": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1717-05-09",
+      "end_date": "1726-05-11",
+      "filename": "97ed4a3f544f.json"
+    },
+    "c60076492214": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1722-10-11",
+      "end_date": "1728-05-08",
+      "filename": "c60076492214.json"
+    },
+    "0b943cd0c725": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1722-10-11",
+      "end_date": "1726-05-11",
+      "filename": "0b943cd0c725.json"
+    },
+    "dbcb2b98480f": {
+      "county_id": "cts_nca2",
+      "name": "NCA 2",
+      "start_date": "1722-10-11",
+      "end_date": "1728-10-09",
+      "filename": "dbcb2b98480f.json"
+    },
+    "a40796f6a911": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1804-12-31",
+      "end_date": "1806-05-07",
+      "filename": "a40796f6a911.json"
+    },
+    "b994be70d04c": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1806-05-08",
+      "end_date": "2000-12-31",
+      "filename": "b994be70d04c.json"
+    },
+    "d1f4716524d4": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1806-05-08",
+      "end_date": "1807-05-13",
+      "filename": "d1f4716524d4.json"
+    },
+    "599b4ba3cc69": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1807-10-08",
+      "end_date": "2000-12-31",
+      "filename": "599b4ba3cc69.json"
+    },
+    "5a87e0a4b19b": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1807-10-08",
+      "end_date": "2000-12-31",
+      "filename": "5a87e0a4b19b.json"
+    },
+    "d8e51d8cbba3": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1807-05-14",
+      "end_date": "1807-10-07",
+      "filename": "d8e51d8cbba3.json"
+    },
+    "b3bc63566fc9": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1807-05-14",
+      "end_date": "1807-10-07",
+      "filename": "b3bc63566fc9.json"
+    },
+    "e3b90af745d6": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1824-06-03",
+      "end_date": "1881-03-15",
+      "filename": "e3b90af745d6.json"
+    },
+    "c036bbc801f8": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1726-05-12",
+      "end_date": "1783-10-08",
+      "filename": "c036bbc801f8.json"
+    },
+    "7b6acb8ccc70": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1726-05-12",
+      "end_date": "1749-10-11",
+      "filename": "7b6acb8ccc70.json"
+    },
+    "201f8f23bbba": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1726-05-12",
+      "end_date": "1728-05-08",
+      "filename": "201f8f23bbba.json"
+    },
+    "b43da6e0b27c": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1728-10-10",
+      "end_date": "1751-10-08",
+      "filename": "b43da6e0b27c.json"
+    },
+    "e8e6276bb292": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1728-05-09",
+      "end_date": "1730-05-13",
+      "filename": "e8e6276bb292.json"
+    },
+    "697d80f5ba7d": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1728-05-09",
+      "end_date": "1730-05-13",
+      "filename": "697d80f5ba7d.json"
+    },
+    "030c068f51d7": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1730-05-14",
+      "end_date": "1738-05-10",
+      "filename": "030c068f51d7.json"
+    },
+    "db8be90496ed": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1730-05-14",
+      "end_date": "1738-05-10",
+      "filename": "db8be90496ed.json"
+    },
+    "07f9b0237c64": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1731-07-10",
+      "end_date": "1742-01-15",
+      "filename": "07f9b0237c64.json"
+    },
+    "8c7c97428ec8": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER (Mass.)",
+      "start_date": "1731-07-10",
+      "end_date": "1732-06-28",
+      "filename": "8c7c97428ec8.json"
+    },
+    "9bdbb68f2007": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER (Mass.)",
+      "start_date": "1732-06-29",
+      "end_date": "1735-06-13",
+      "filename": "9bdbb68f2007.json"
+    },
+    "f4ad69f83033": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER (Mass.)",
+      "start_date": "1735-06-14",
+      "end_date": "1742-01-15",
+      "filename": "f4ad69f83033.json"
+    },
+    "042e80e55412": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1738-05-11",
+      "end_date": "1751-10-08",
+      "filename": "042e80e55412.json"
+    },
+    "2fb6e6babd38": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1738-05-11",
+      "end_date": "1749-10-11",
+      "filename": "2fb6e6babd38.json"
+    },
+    "1661d5921bcc": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1742-01-16",
+      "end_date": "1749-05-30",
+      "filename": "1661d5921bcc.json"
+    },
+    "f2d612843c40": {
+      "county_id": "mas_worcester",
+      "name": "WORCESTER (Mass.)",
+      "start_date": "1742-01-16",
+      "end_date": "1749-05-30",
+      "filename": "f2d612843c40.json"
+    },
+    "893aa3329829": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1749-10-12",
+      "end_date": "1785-10-12",
+      "filename": "893aa3329829.json"
+    },
+    "30c803cca293": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1749-10-12",
+      "end_date": "1751-10-08",
+      "filename": "30c803cca293.json"
+    },
+    "642fc2806f72": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1749-05-31",
+      "end_date": "1761-06-29",
+      "filename": "642fc2806f72.json"
+    },
+    "65497be6a0de": {
+      "county_id": "cts_nca7",
+      "name": "NCA 7",
+      "start_date": "1749-05-31",
+      "end_date": "1749-10-11",
+      "filename": "65497be6a0de.json"
+    },
+    "d0772eb3901c": {
+      "county_id": "cts_nca8",
+      "name": "NCA 8",
+      "start_date": "1749-05-31",
+      "end_date": "1749-10-11",
+      "filename": "d0772eb3901c.json"
+    },
+    "dd31ee45d9e4": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1751-10-09",
+      "end_date": "1780-05-10",
+      "filename": "dd31ee45d9e4.json"
+    },
+    "705475721589": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1751-10-09",
+      "end_date": "1774-12-30",
+      "filename": "705475721589.json"
+    },
+    "d8678d9c1f94": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1751-10-09",
+      "end_date": "1754-05-08",
+      "filename": "d8678d9c1f94.json"
+    },
+    "d683ca742a5f": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1751-10-09",
+      "end_date": "1754-05-08",
+      "filename": "d683ca742a5f.json"
+    },
+    "bcc2d73a8906": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1754-05-09",
+      "end_date": "1788-05-07",
+      "filename": "bcc2d73a8906.json"
+    },
+    "715fdd6f25d5": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1754-05-09",
+      "end_date": "1774-01-11",
+      "filename": "715fdd6f25d5.json"
+    },
+    "0dbe6cd0ab48": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1761-06-30",
+      "end_date": "1764-01-04",
+      "filename": "0dbe6cd0ab48.json"
+    },
+    "62c7bb94ee1a": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1764-01-05",
+      "end_date": "1765-02-04",
+      "filename": "62c7bb94ee1a.json"
+    },
+    "567e467d6386": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1765-02-05",
+      "end_date": "1768-06-29",
+      "filename": "567e467d6386.json"
+    },
+    "e5b710a9c079": {
+      "county_id": "mas_hampshire",
+      "name": "HAMPSHIRE (Mass.)",
+      "start_date": "1768-06-30",
+      "end_date": "1774-12-30",
+      "filename": "e5b710a9c079.json"
+    },
+    "f4917ce84da6": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1774-12-31",
+      "end_date": "1783-10-08",
+      "filename": "f4917ce84da6.json"
+    },
+    "f6acb2aae7d3": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1776-10-10",
+      "end_date": "1780-05-10",
+      "filename": "f6acb2aae7d3.json"
+    },
+    "b877fee7df41": {
+      "county_id": "cts_westmoreland",
+      "name": "WESTMORELAND (ext)",
+      "start_date": "1776-10-10",
+      "end_date": "1782-12-29",
+      "filename": "b877fee7df41.json"
+    },
+    "c3e1c2b57520": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1780-05-11",
+      "end_date": "1796-05-01",
+      "filename": "c3e1c2b57520.json"
+    },
+    "61df7d7a8e6f": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1780-05-11",
+      "end_date": "1788-05-07",
+      "filename": "61df7d7a8e6f.json"
+    },
+    "aa01ef7f3a0d": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1783-10-09",
+      "end_date": "1785-05-11",
+      "filename": "aa01ef7f3a0d.json"
+    },
+    "f8c5f0daea11": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1783-10-09",
+      "end_date": "1785-05-11",
+      "filename": "f8c5f0daea11.json"
+    },
+    "93b05ec6a621": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1785-10-13",
+      "end_date": "1789-05-13",
+      "filename": "93b05ec6a621.json"
+    },
+    "43f1acb8aebc": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1785-10-13",
+      "end_date": "1786-05-10",
+      "filename": "43f1acb8aebc.json"
+    },
+    "9c98e3ab71ff": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1785-10-13",
+      "end_date": "1786-05-10",
+      "filename": "9c98e3ab71ff.json"
+    },
+    "383225b227dd": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1785-05-12",
+      "end_date": "1803-10-12",
+      "filename": "383225b227dd.json"
+    },
+    "752df5293945": {
+      "county_id": "cts_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1785-05-12",
+      "end_date": "1799-05-08",
+      "filename": "752df5293945.json"
+    },
+    "7346d3b2c023": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1785-05-12",
+      "end_date": "1785-10-12",
+      "filename": "7346d3b2c023.json"
+    },
+    "6bf143b543a6": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1786-05-11",
+      "end_date": "1824-06-02",
+      "filename": "6bf143b543a6.json"
+    },
+    "94951ed21e55": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1786-05-11",
+      "end_date": "1789-05-13",
+      "filename": "94951ed21e55.json"
+    },
+    "43525c3e1dfd": {
+      "county_id": "cts_wr",
+      "name": "Western Reserve",
+      "start_date": "1786-09-14",
+      "end_date": "1800-04-27",
+      "filename": "43525c3e1dfd.json"
+    },
+    "512b865950fd": {
+      "county_id": "cts_fairfield",
+      "name": "FAIRFIELD",
+      "start_date": "1788-05-08",
+      "end_date": "2000-12-31",
+      "filename": "512b865950fd.json"
+    },
+    "9a7447831160": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1788-05-08",
+      "end_date": "1796-05-01",
+      "filename": "9a7447831160.json"
+    },
+    "cc582542f3e2": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1789-05-14",
+      "end_date": "1803-10-12",
+      "filename": "cc582542f3e2.json"
+    },
+    "83d2ec9fe12c": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1789-05-14",
+      "end_date": "1796-05-01",
+      "filename": "83d2ec9fe12c.json"
+    },
+    "75284bba25d1": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1796-05-02",
+      "end_date": "1798-10-10",
+      "filename": "75284bba25d1.json"
+    },
+    "762154d98632": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1796-05-02",
+      "end_date": "1798-10-10",
+      "filename": "762154d98632.json"
+    },
+    "af7e9d6194d8": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1796-05-02",
+      "end_date": "1798-10-10",
+      "filename": "af7e9d6194d8.json"
+    },
+    "b01a5c92c631": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1798-10-11",
+      "end_date": "1806-05-07",
+      "filename": "b01a5c92c631.json"
+    },
+    "ce8d3785de08": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1798-10-11",
+      "end_date": "1803-10-12",
+      "filename": "ce8d3785de08.json"
+    },
+    "2ddf0b438f68": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1798-10-11",
+      "end_date": "1799-05-08",
+      "filename": "2ddf0b438f68.json"
+    },
+    "17e6ae837bad": {
+      "county_id": "cts_middlesex",
+      "name": "MIDDLESEX",
+      "start_date": "1799-05-09",
+      "end_date": "2000-12-31",
+      "filename": "17e6ae837bad.json"
+    },
+    "5c8234b1713a": {
+      "county_id": "cts_newhaven",
+      "name": "NEW HAVEN",
+      "start_date": "1799-05-09",
+      "end_date": "1807-05-13",
+      "filename": "5c8234b1713a.json"
+    },
+    "e23708515dda": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1803-10-13",
+      "end_date": "1827-05-24",
+      "filename": "e23708515dda.json"
+    },
+    "79b32c75f3b8": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1803-10-13",
+      "end_date": "1824-06-02",
+      "filename": "79b32c75f3b8.json"
+    },
+    "97d4d19b5843": {
+      "county_id": "cts_hartford",
+      "name": "HARTFORD",
+      "start_date": "1803-10-13",
+      "end_date": "1804-12-30",
+      "filename": "97d4d19b5843.json"
+    },
+    "1d16bad77162": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1824-06-03",
+      "end_date": "1827-05-24",
+      "filename": "1d16bad77162.json"
+    },
+    "7929e72d9195": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1827-05-25",
+      "end_date": "1885-04-06",
+      "filename": "7929e72d9195.json"
+    },
+    "686bb5fb164d": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1827-05-25",
+      "end_date": "1881-03-15",
+      "filename": "686bb5fb164d.json"
+    },
+    "6d8823b058c5": {
+      "county_id": "cts_newlondon",
+      "name": "NEW LONDON",
+      "start_date": "1881-03-16",
+      "end_date": "2000-12-31",
+      "filename": "6d8823b058c5.json"
+    },
+    "9f4e79918fe0": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1881-03-16",
+      "end_date": "1885-04-06",
+      "filename": "9f4e79918fe0.json"
+    },
+    "f6e1211c6103": {
+      "county_id": "cts_tolland",
+      "name": "TOLLAND",
+      "start_date": "1885-04-07",
+      "end_date": "2000-12-31",
+      "filename": "f6e1211c6103.json"
+    },
+    "5351da86f67a": {
+      "county_id": "cts_windham",
+      "name": "WINDHAM",
+      "start_date": "1885-04-07",
+      "end_date": "2000-12-31",
+      "filename": "5351da86f67a.json"
+    },
+    "0289fc809a36": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1774-01-12",
+      "end_date": "1775-05-10",
+      "filename": "0289fc809a36.json"
+    },
+    "82acaaf80690": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1775-12-14",
+      "end_date": "1776-10-09",
+      "filename": "82acaaf80690.json"
+    },
+    "cf950742eb0d": {
+      "county_id": "cts_litchfield",
+      "name": "LITCHFIELD",
+      "start_date": "1775-05-11",
+      "end_date": "1775-12-13",
+      "filename": "cf950742eb0d.json"
+    }
+  }
+}

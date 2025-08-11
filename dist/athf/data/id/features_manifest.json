@@ -1,0 +1,1721 @@
+{
+  "state": "ID",
+  "total_features": 245,
+  "features": {
+    "ccca3dbce0fa": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-26",
+      "filename": "ccca3dbce0fa.json"
+    },
+    "03fedd51ab48": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG (Ore.)",
+      "start_date": "1843-07-05",
+      "end_date": "1845-12-18",
+      "filename": "03fedd51ab48.json"
+    },
+    "5864dbd12ff0": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1844-06-27",
+      "end_date": "1845-12-18",
+      "filename": "5864dbd12ff0.json"
+    },
+    "dfe36ab6f192": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1845-12-19",
+      "end_date": "1846-06-14",
+      "filename": "dfe36ab6f192.json"
+    },
+    "b79edf3f88c7": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG (Ore.)",
+      "start_date": "1845-12-19",
+      "end_date": "1847-12-27",
+      "filename": "b79edf3f88c7.json"
+    },
+    "8c158ac5ec24": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1846-06-15",
+      "end_date": "1853-03-01",
+      "filename": "8c158ac5ec24.json"
+    },
+    "17df7752f08d": {
+      "county_id": "ors_linn",
+      "name": "LINN (Ore.)",
+      "start_date": "1847-12-28",
+      "end_date": "1851-01-03",
+      "filename": "17df7752f08d.json"
+    },
+    "7c1165ddaaa2": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG (Ore.)",
+      "start_date": "1847-12-28",
+      "end_date": "1849-09-02",
+      "filename": "7c1165ddaaa2.json"
+    },
+    "1c6b74dedf68": {
+      "county_id": "ors_marion",
+      "name": "MARION (Ore.)",
+      "start_date": "1849-09-03",
+      "end_date": "1854-01-10",
+      "filename": "1c6b74dedf68.json"
+    },
+    "f763e7de1c25": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1851-01-28",
+      "end_date": "1852-01-06",
+      "filename": "f763e7de1c25.json"
+    },
+    "71ad7026db5f": {
+      "county_id": "ors_linn",
+      "name": "LINN (Ore.)",
+      "start_date": "1851-01-04",
+      "end_date": "1854-01-10",
+      "filename": "71ad7026db5f.json"
+    },
+    "dcc1328a8e79": {
+      "county_id": "ort_part",
+      "name": "Oregon Terr.",
+      "start_date": "1851-01-04",
+      "end_date": "1851-01-27",
+      "filename": "dcc1328a8e79.json"
+    },
+    "3d3fdf5c2aaf": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1852-01-07",
+      "end_date": "1853-12-21",
+      "filename": "3d3fdf5c2aaf.json"
+    },
+    "11732668a207": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS (Ore.)",
+      "start_date": "1853-03-02",
+      "end_date": "1854-01-10",
+      "filename": "11732668a207.json"
+    },
+    "eb898eac0173": {
+      "county_id": "ors_lane",
+      "name": "LANE (Ore.)",
+      "start_date": "1853-12-22",
+      "end_date": "1854-01-10",
+      "filename": "eb898eac0173.json"
+    },
+    "ff0492c63f9b": {
+      "county_id": "wat_part",
+      "name": "Washington Terr.",
+      "start_date": "1853-03-02",
+      "end_date": "1854-03-08",
+      "filename": "ff0492c63f9b.json"
+    },
+    "c958787a78a0": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA (Wash.)",
+      "start_date": "1854-04-25",
+      "end_date": "1858-01-13",
+      "filename": "c958787a78a0.json"
+    },
+    "14d6ed4a835a": {
+      "county_id": "ors_wasco",
+      "name": "WASCO (Ore.)",
+      "start_date": "1854-01-11",
+      "end_date": "1859-02-13",
+      "filename": "14d6ed4a835a.json"
+    },
+    "dbf74b61b5ce": {
+      "county_id": "was_skamania",
+      "name": "SKAMANIA (Wash.)",
+      "start_date": "1854-03-09",
+      "end_date": "1854-04-24",
+      "filename": "dbf74b61b5ce.json"
+    },
+    "94d0450598c4": {
+      "county_id": "wat_part",
+      "name": "Washington Terr.",
+      "start_date": "1854-03-09",
+      "end_date": "1854-04-24",
+      "filename": "94d0450598c4.json"
+    },
+    "2b0d68ee6cf9": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (Wash. Terr)",
+      "start_date": "1858-01-29",
+      "end_date": "1860-12-13",
+      "filename": "2b0d68ee6cf9.json"
+    },
+    "8a720e29ea60": {
+      "county_id": "was_wallawalla",
+      "name": "WALLA WALLA (Wash.)",
+      "start_date": "1858-01-14",
+      "end_date": "1858-01-28",
+      "filename": "8a720e29ea60.json"
+    },
+    "48b13b482daa": {
+      "county_id": "wat_part",
+      "name": "Washington Terr.",
+      "start_date": "1859-02-14",
+      "end_date": "1861-01-08",
+      "filename": "48b13b482daa.json"
+    },
+    "bc27f066fcf8": {
+      "county_id": "mts_missoula",
+      "name": "MISSOULA (Mont.)",
+      "start_date": "1860-12-14",
+      "end_date": "1861-12-19",
+      "filename": "bc27f066fcf8.json"
+    },
+    "c66844250ecd": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (Wash. Terr)",
+      "start_date": "1860-12-14",
+      "end_date": "1861-01-08",
+      "filename": "c66844250ecd.json"
+    },
+    "42699d3a0c8c": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (Wash. Terr)",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-20",
+      "filename": "42699d3a0c8c.json"
+    },
+    "ca1d7bfb62fc": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE",
+      "start_date": "1861-12-20",
+      "end_date": "1864-02-03",
+      "filename": "ca1d7bfb62fc.json"
+    },
+    "2a21bd836c8e": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-20",
+      "filename": "2a21bd836c8e.json"
+    },
+    "a2f902b09642": {
+      "county_id": "mts_missoula",
+      "name": "MISSOULA (Mont.)",
+      "start_date": "1861-12-20",
+      "end_date": "1864-01-15",
+      "filename": "a2f902b09642.json"
+    },
+    "03e67c6a4419": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (Wash. Terr)",
+      "start_date": "1861-01-09",
+      "end_date": "1861-12-19",
+      "filename": "03e67c6a4419.json"
+    },
+    "72edf74983b5": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE",
+      "start_date": "1861-01-09",
+      "end_date": "1861-03-01",
+      "filename": "72edf74983b5.json"
+    },
+    "500244cad0cf": {
+      "county_id": "ids_nca2",
+      "name": "NCA 2",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-15",
+      "filename": "500244cad0cf.json"
+    },
+    "b621d3b01431": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-21",
+      "filename": "b621d3b01431.json"
+    },
+    "38a53b01bafb": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1863-03-03",
+      "end_date": "1864-02-03",
+      "filename": "38a53b01bafb.json"
+    },
+    "435d72577fb5": {
+      "county_id": "ids_nca1",
+      "name": "NCA 1",
+      "start_date": "1863-03-03",
+      "end_date": "1864-01-15",
+      "filename": "435d72577fb5.json"
+    },
+    "04c8d8204bab": {
+      "county_id": "wat_spokane",
+      "name": "SPOKANE (Wash. Terr)",
+      "start_date": "1863-01-21",
+      "end_date": "1863-03-02",
+      "filename": "04c8d8204bab.json"
+    },
+    "f225aea57d07": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1863-01-12",
+      "end_date": "1864-01-15",
+      "filename": "f225aea57d07.json"
+    },
+    "ff90a20832f5": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1863-01-12",
+      "end_date": "1863-12-30",
+      "filename": "ff90a20832f5.json"
+    },
+    "07f21698c9ca": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1863-01-21",
+      "end_date": "1863-03-02",
+      "filename": "07f21698c9ca.json"
+    },
+    "126fe56cba52": {
+      "county_id": "ids_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1864-12-22",
+      "end_date": "1907-02-20",
+      "filename": "126fe56cba52.json"
+    },
+    "162435966add": {
+      "county_id": "ids_nca1",
+      "name": "NCA 1",
+      "start_date": "1864-12-22",
+      "end_date": "1907-02-20",
+      "filename": "162435966add.json"
+    },
+    "d12fa8da8e27": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1864-12-22",
+      "end_date": "1867-01-09",
+      "filename": "d12fa8da8e27.json"
+    },
+    "8387d5a095f2": {
+      "county_id": "ids_kootenai",
+      "name": "KOOTENAI",
+      "start_date": "1864-12-22",
+      "end_date": "1867-01-08",
+      "filename": "8387d5a095f2.json"
+    },
+    "824d4946d94c": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1864-12-22",
+      "end_date": "1866-01-11",
+      "filename": "824d4946d94c.json"
+    },
+    "45975c0173f4": {
+      "county_id": "idt_lahtoh",
+      "name": "LAH-TOH (ext)",
+      "start_date": "1864-12-22",
+      "end_date": "1867-01-08",
+      "filename": "45975c0173f4.json"
+    },
+    "0a1711d20a0e": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1864-05-26",
+      "end_date": "1868-07-24",
+      "filename": "0a1711d20a0e.json"
+    },
+    "13f1f5cf60b0": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1864-02-04",
+      "end_date": "1866-01-04",
+      "filename": "13f1f5cf60b0.json"
+    },
+    "50d4bd2511bc": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1864-02-04",
+      "end_date": "1866-01-11",
+      "filename": "50d4bd2511bc.json"
+    },
+    "ff86b1d16951": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1864-02-04",
+      "end_date": "1864-12-21",
+      "filename": "ff86b1d16951.json"
+    },
+    "531610fccb7b": {
+      "county_id": "ids_nca1",
+      "name": "NCA 1",
+      "start_date": "1864-02-04",
+      "end_date": "1864-12-21",
+      "filename": "531610fccb7b.json"
+    },
+    "8bd4d3c65913": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1864-02-04",
+      "end_date": "1866-01-04",
+      "filename": "8bd4d3c65913.json"
+    },
+    "154753adb527": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE",
+      "start_date": "1864-02-04",
+      "end_date": "1904-11-07",
+      "filename": "154753adb527.json"
+    },
+    "8a6267013669": {
+      "county_id": "ids_nca1",
+      "name": "NCA 1",
+      "start_date": "1864-01-16",
+      "end_date": "1864-02-03",
+      "filename": "8a6267013669.json"
+    },
+    "85c4bc1adbe1": {
+      "county_id": "idt_ogalala",
+      "name": "OGALALA (ext)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "85c4bc1adbe1.json"
+    },
+    "8e966b379765": {
+      "county_id": "idt_yellowstone",
+      "name": "YELLOWSTONE (ext)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "8e966b379765.json"
+    },
+    "bb2adf7195e1": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1864-01-22",
+      "end_date": "1864-02-03",
+      "filename": "bb2adf7195e1.json"
+    },
+    "251e19aff55d": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1864-01-16",
+      "end_date": "1864-02-03",
+      "filename": "251e19aff55d.json"
+    },
+    "80c728bff1ed": {
+      "county_id": "mts_custer",
+      "name": "BIG HORN (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "80c728bff1ed.json"
+    },
+    "51e8be13daa8": {
+      "county_id": "mts_chouteau",
+      "name": "CHOTEAU (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "51e8be13daa8.json"
+    },
+    "8851052ba468": {
+      "county_id": "mts_dawson",
+      "name": "DAWSON (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "8851052ba468.json"
+    },
+    "86a343772cd8": {
+      "county_id": "mts_beaverhead",
+      "name": "BEAVERHEAD (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "86a343772cd8.json"
+    },
+    "5db50f751b0d": {
+      "county_id": "mts_deerlodge",
+      "name": "DEER LODGE (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "5db50f751b0d.json"
+    },
+    "23e8810c8a70": {
+      "county_id": "mts_jefferson",
+      "name": "JEFFERSON (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "23e8810c8a70.json"
+    },
+    "6f5de824136c": {
+      "county_id": "mts_madison",
+      "name": "MADISON (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "6f5de824136c.json"
+    },
+    "fbbeea0567af": {
+      "county_id": "mts_missoula",
+      "name": "MISSOULA (Mont.)",
+      "start_date": "1864-01-16",
+      "end_date": "1864-05-25",
+      "filename": "fbbeea0567af.json"
+    },
+    "33de92dd4581": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE",
+      "start_date": "1864-01-22",
+      "end_date": "1871-01-01",
+      "filename": "33de92dd4581.json"
+    },
+    "f1e9c256607a": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1866-01-12",
+      "end_date": "1877-01-07",
+      "filename": "f1e9c256607a.json"
+    },
+    "1a0a9ba15a8e": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1866-01-12",
+      "end_date": "1867-01-09",
+      "filename": "1a0a9ba15a8e.json"
+    },
+    "8276981283ae": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1866-01-05",
+      "end_date": "1867-01-08",
+      "filename": "8276981283ae.json"
+    },
+    "b541d8da5113": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1866-01-05",
+      "end_date": "1867-01-08",
+      "filename": "b541d8da5113.json"
+    },
+    "cfefbaee4c0f": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1867-01-10",
+      "end_date": "1873-01-09",
+      "filename": "cfefbaee4c0f.json"
+    },
+    "949a2a52f6be": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1867-01-10",
+      "end_date": "1873-01-09",
+      "filename": "949a2a52f6be.json"
+    },
+    "d111c3a3b65c": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1867-01-10",
+      "end_date": "1869-01-08",
+      "filename": "d111c3a3b65c.json"
+    },
+    "e69173af83ea": {
+      "county_id": "ids_kootenai",
+      "name": "KOOTENAI",
+      "start_date": "1867-01-09",
+      "end_date": "1907-02-20",
+      "filename": "e69173af83ea.json"
+    },
+    "a0b9c8fd21b9": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1867-01-09",
+      "end_date": "1875-01-07",
+      "filename": "a0b9c8fd21b9.json"
+    },
+    "184471ce037e": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1867-01-09",
+      "end_date": "1867-01-09",
+      "filename": "184471ce037e.json"
+    },
+    "39e96009eac9": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1868-07-25",
+      "end_date": "1871-01-01",
+      "filename": "39e96009eac9.json"
+    },
+    "ce7a3c01b559": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1869-01-09",
+      "end_date": "1873-01-09",
+      "filename": "ce7a3c01b559.json"
+    },
+    "8247226cd394": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1869-01-09",
+      "end_date": "1873-01-09",
+      "filename": "8247226cd394.json"
+    },
+    "482d72789f9e": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE",
+      "start_date": "1871-01-02",
+      "end_date": "1879-02-19",
+      "filename": "482d72789f9e.json"
+    },
+    "31d9f8abecaf": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1871-01-02",
+      "end_date": "1875-01-04",
+      "filename": "31d9f8abecaf.json"
+    },
+    "dd70fa828272": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1873-01-10",
+      "end_date": "1879-02-19",
+      "filename": "dd70fa828272.json"
+    },
+    "a868cc2a4dae": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1873-01-10",
+      "end_date": "1879-02-19",
+      "filename": "a868cc2a4dae.json"
+    },
+    "9085a10c3e1a": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1873-01-10",
+      "end_date": "1877-01-07",
+      "filename": "9085a10c3e1a.json"
+    },
+    "d28ceea3a8bc": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1873-01-10",
+      "end_date": "1875-01-07",
+      "filename": "d28ceea3a8bc.json"
+    },
+    "04e5468565e7": {
+      "county_id": "ids_bearlake",
+      "name": "BEAR LAKE",
+      "start_date": "1875-01-05",
+      "end_date": "2000-12-31",
+      "filename": "04e5468565e7.json"
+    },
+    "946a11435f4d": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1875-01-08",
+      "end_date": "1879-02-19",
+      "filename": "946a11435f4d.json"
+    },
+    "31c3f36c4a1c": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1875-01-05",
+      "end_date": "1877-01-07",
+      "filename": "31c3f36c4a1c.json"
+    },
+    "1da1df3e681d": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1875-01-08",
+      "end_date": "1885-01-20",
+      "filename": "1da1df3e681d.json"
+    },
+    "e8abf8aebcf2": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1877-01-08",
+      "end_date": "1881-03-31",
+      "filename": "e8abf8aebcf2.json"
+    },
+    "23b616c58aac": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1877-01-08",
+      "end_date": "1881-03-31",
+      "filename": "23b616c58aac.json"
+    },
+    "8703279f9c3c": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1877-01-08",
+      "end_date": "1879-02-19",
+      "filename": "8703279f9c3c.json"
+    },
+    "e4a98a21177d": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE",
+      "start_date": "1879-02-20",
+      "end_date": "1930-11-03",
+      "filename": "e4a98a21177d.json"
+    },
+    "c2318c334470": {
+      "county_id": "ids_cassia",
+      "name": "CASSIA",
+      "start_date": "1879-02-20",
+      "end_date": "1907-02-20",
+      "filename": "c2318c334470.json"
+    },
+    "7d9b388d615f": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1879-02-20",
+      "end_date": "1885-01-12",
+      "filename": "7d9b388d615f.json"
+    },
+    "c4e983026609": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1879-02-20",
+      "end_date": "1885-01-20",
+      "filename": "c4e983026609.json"
+    },
+    "2a2d0f585e16": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1879-02-20",
+      "end_date": "1883-01-30",
+      "filename": "2a2d0f585e16.json"
+    },
+    "2ce1980e8915": {
+      "county_id": "ids_washington",
+      "name": "WASHINGTON",
+      "start_date": "1879-02-20",
+      "end_date": "1883-01-30",
+      "filename": "2ce1980e8915.json"
+    },
+    "65606bfcc883": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1879-02-20",
+      "end_date": "1881-03-31",
+      "filename": "65606bfcc883.json"
+    },
+    "5f3d8fab7dbe": {
+      "county_id": "ids_custer",
+      "name": "CUSTER",
+      "start_date": "1881-04-01",
+      "end_date": "1889-02-03",
+      "filename": "5f3d8fab7dbe.json"
+    },
+    "8d5765a85846": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1881-04-01",
+      "end_date": "1887-01-14",
+      "filename": "8d5765a85846.json"
+    },
+    "050f949087fc": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1881-04-01",
+      "end_date": "1885-01-20",
+      "filename": "050f949087fc.json"
+    },
+    "4c959666d2ec": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1881-04-01",
+      "end_date": "1883-01-30",
+      "filename": "4c959666d2ec.json"
+    },
+    "85438bda501e": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1883-01-31",
+      "end_date": "1892-11-25",
+      "filename": "85438bda501e.json"
+    },
+    "7c44f57d9676": {
+      "county_id": "ids_washington",
+      "name": "WASHINGTON",
+      "start_date": "1883-01-31",
+      "end_date": "1891-02-10",
+      "filename": "7c44f57d9676.json"
+    },
+    "78798d9c4623": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1883-01-31",
+      "end_date": "1885-01-20",
+      "filename": "78798d9c4623.json"
+    },
+    "04381c821d45": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1885-01-13",
+      "end_date": "1913-01-29",
+      "filename": "04381c821d45.json"
+    },
+    "ad9fc0b82585": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1885-01-21",
+      "end_date": "1891-03-06",
+      "filename": "ad9fc0b82585.json"
+    },
+    "ce44713a11e5": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1885-01-13",
+      "end_date": "1889-02-06",
+      "filename": "ce44713a11e5.json"
+    },
+    "ba8c8840c629": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1885-01-21",
+      "end_date": "1887-01-14",
+      "filename": "ba8c8840c629.json"
+    },
+    "65bebc87b0b1": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1885-01-21",
+      "end_date": "1887-01-14",
+      "filename": "65bebc87b0b1.json"
+    },
+    "c3db0294c045": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1885-01-21",
+      "end_date": "1888-05-13",
+      "filename": "c3db0294c045.json"
+    },
+    "67be73384b7a": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1887-01-15",
+      "end_date": "1891-03-02",
+      "filename": "67be73384b7a.json"
+    },
+    "72766c302692": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1887-01-15",
+      "end_date": "1889-02-06",
+      "filename": "72766c302692.json"
+    },
+    "492ef1beb45b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1887-01-15",
+      "end_date": "1889-02-03",
+      "filename": "492ef1beb45b.json"
+    },
+    "1622f48ba7d4": {
+      "county_id": "ids_latah",
+      "name": "LATAH",
+      "start_date": "1888-05-14",
+      "end_date": "2000-12-31",
+      "filename": "1622f48ba7d4.json"
+    },
+    "9c867c30d9fc": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1888-05-14",
+      "end_date": "1889-02-06",
+      "filename": "9c867c30d9fc.json"
+    },
+    "c0862fb7969d": {
+      "county_id": "ids_elmore",
+      "name": "ELMORE",
+      "start_date": "1889-02-07",
+      "end_date": "1911-03-02",
+      "filename": "c0862fb7969d.json"
+    },
+    "4810d047fddf": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1889-02-07",
+      "end_date": "1891-03-02",
+      "filename": "4810d047fddf.json"
+    },
+    "fd02f4b46a7c": {
+      "county_id": "ids_logan",
+      "name": "LOGAN (ext)",
+      "start_date": "1889-02-07",
+      "end_date": "1891-03-02",
+      "filename": "fd02f4b46a7c.json"
+    },
+    "028b02494f35": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1889-02-07",
+      "end_date": "1891-03-06",
+      "filename": "028b02494f35.json"
+    },
+    "ea6a39f40b45": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1889-02-07",
+      "end_date": "1891-02-10",
+      "filename": "ea6a39f40b45.json"
+    },
+    "1b6d66894f53": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1889-02-07",
+      "end_date": "1904-11-07",
+      "filename": "1b6d66894f53.json"
+    },
+    "4fe3f8fd010b": {
+      "county_id": "ids_custer",
+      "name": "CUSTER",
+      "start_date": "1889-02-04",
+      "end_date": "1925-03-12",
+      "filename": "4fe3f8fd010b.json"
+    },
+    "f20520fa0bdc": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1889-02-04",
+      "end_date": "1889-02-06",
+      "filename": "f20520fa0bdc.json"
+    },
+    "f475cb939f71": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1891-03-07",
+      "end_date": "1896-11-02",
+      "filename": "f475cb939f71.json"
+    },
+    "b9fe179337b4": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1891-03-07",
+      "end_date": "1893-03-03",
+      "filename": "b9fe179337b4.json"
+    },
+    "4cf34b503afb": {
+      "county_id": "ids_alta",
+      "name": "ALTA (ext)",
+      "start_date": "1891-03-07",
+      "end_date": "1891-05-05",
+      "filename": "4cf34b503afb.json"
+    },
+    "6b1a3c93778d": {
+      "county_id": "ids_logan",
+      "name": "LOGAN (ext)",
+      "start_date": "1891-05-06",
+      "end_date": "1895-03-04",
+      "filename": "6b1a3c93778d.json"
+    },
+    "7f788a26f08f": {
+      "county_id": "ids_alturas",
+      "name": "ALTURAS (ext)",
+      "start_date": "1891-05-06",
+      "end_date": "1895-03-04",
+      "filename": "7f788a26f08f.json"
+    },
+    "6262e1570848": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1891-05-06",
+      "end_date": "1915-05-10",
+      "filename": "6262e1570848.json"
+    },
+    "37e30410ce6c": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1891-02-11",
+      "end_date": "1895-02-22",
+      "filename": "37e30410ce6c.json"
+    },
+    "b158a3407c56": {
+      "county_id": "ids_washington",
+      "name": "WASHINGTON",
+      "start_date": "1891-02-11",
+      "end_date": "1895-02-22",
+      "filename": "b158a3407c56.json"
+    },
+    "ad2e49283efe": {
+      "county_id": "ids_alta",
+      "name": "ALTA (ext)",
+      "start_date": "1891-03-03",
+      "end_date": "1891-03-06",
+      "filename": "ad2e49283efe.json"
+    },
+    "b271c8d6b77c": {
+      "county_id": "ids_lincoln01",
+      "name": "LINCOLN (orig)",
+      "start_date": "1891-03-03",
+      "end_date": "1891-05-05",
+      "filename": "b271c8d6b77c.json"
+    },
+    "7d92ce7fd468": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1891-03-03",
+      "end_date": "1891-05-05",
+      "filename": "7d92ce7fd468.json"
+    },
+    "610dc240ee9c": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1892-11-26",
+      "end_date": "1948-11-01",
+      "filename": "610dc240ee9c.json"
+    },
+    "6c8bbe7495ba": {
+      "county_id": "ids_canyon",
+      "name": "CANYON",
+      "start_date": "1892-11-26",
+      "end_date": "1915-05-10",
+      "filename": "6c8bbe7495ba.json"
+    },
+    "7f9627587e1a": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1893-03-06",
+      "end_date": "1918-11-05",
+      "filename": "7f9627587e1a.json"
+    },
+    "4d320e85ccb9": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1893-03-06",
+      "end_date": "1904-11-07",
+      "filename": "4d320e85ccb9.json"
+    },
+    "84c2b3a03a06": {
+      "county_id": "ids_fremont",
+      "name": "FREMONT",
+      "start_date": "1893-03-04",
+      "end_date": "1896-11-02",
+      "filename": "84c2b3a03a06.json"
+    },
+    "dc53ab90b20e": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1893-03-04",
+      "end_date": "1893-03-05",
+      "filename": "dc53ab90b20e.json"
+    },
+    "50756c15fd12": {
+      "county_id": "ids_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1895-03-18",
+      "end_date": "1913-01-27",
+      "filename": "50756c15fd12.json"
+    },
+    "d88b2c46aa75": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1895-03-18",
+      "end_date": "1911-03-02",
+      "filename": "d88b2c46aa75.json"
+    },
+    "632868d6c46e": {
+      "county_id": "ids_washington",
+      "name": "WASHINGTON",
+      "start_date": "1895-02-23",
+      "end_date": "1911-03-14",
+      "filename": "632868d6c46e.json"
+    },
+    "ff93b84c7e6b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1895-02-23",
+      "end_date": "1903-02-20",
+      "filename": "ff93b84c7e6b.json"
+    },
+    "7471a84e3f8a": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1895-03-05",
+      "end_date": "1895-03-17",
+      "filename": "7471a84e3f8a.json"
+    },
+    "d8059bc437a5": {
+      "county_id": "ids_fremont",
+      "name": "FREMONT",
+      "start_date": "1896-11-03",
+      "end_date": "1904-11-07",
+      "filename": "d8059bc437a5.json"
+    },
+    "89d2029cb676": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1896-11-03",
+      "end_date": "1903-02-20",
+      "filename": "89d2029cb676.json"
+    },
+    "58433659ca07": {
+      "county_id": "ids_clearwater01",
+      "name": "CLEARWATER (prop)",
+      "start_date": "1901-03-21",
+      "end_date": "1901-03-21",
+      "filename": "58433659ca07.json"
+    },
+    "341d39513053": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1903-02-21",
+      "end_date": "1911-03-09",
+      "filename": "341d39513053.json"
+    },
+    "b7cd06cee317": {
+      "county_id": "ids_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1903-02-21",
+      "end_date": "1911-03-09",
+      "filename": "b7cd06cee317.json"
+    },
+    "5888a4d71054": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1903-02-21",
+      "end_date": "1911-03-09",
+      "filename": "5888a4d71054.json"
+    },
+    "8bbf0f742157": {
+      "county_id": "ids_fremont",
+      "name": "FREMONT",
+      "start_date": "1904-11-08",
+      "end_date": "1913-11-03",
+      "filename": "8bbf0f742157.json"
+    },
+    "5d6f6303709c": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1904-11-08",
+      "end_date": "1911-02-26",
+      "filename": "5d6f6303709c.json"
+    },
+    "7c20beeb17da": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1904-11-08",
+      "end_date": "1911-02-06",
+      "filename": "7c20beeb17da.json"
+    },
+    "2dbb8cc15b60": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE",
+      "start_date": "1904-11-08",
+      "end_date": "2000-12-31",
+      "filename": "2dbb8cc15b60.json"
+    },
+    "b4fe34074586": {
+      "county_id": "ids_lewis01",
+      "name": "LEWIS (prop)",
+      "start_date": "1905-02-28",
+      "end_date": "1905-02-28",
+      "filename": "b4fe34074586.json"
+    },
+    "6e0bdb0c30af": {
+      "county_id": "ids_clark01",
+      "name": "CLARK (prop)",
+      "start_date": "1905-02-28",
+      "end_date": "1905-02-28",
+      "filename": "6e0bdb0c30af.json"
+    },
+    "0f0ca3465384": {
+      "county_id": "ids_twinfalls",
+      "name": "TWIN FALLS",
+      "start_date": "1907-02-21",
+      "end_date": "2000-12-31",
+      "filename": "0f0ca3465384.json"
+    },
+    "1d4d6f73f736": {
+      "county_id": "ids_bonner",
+      "name": "BONNER",
+      "start_date": "1907-02-21",
+      "end_date": "1915-01-22",
+      "filename": "1d4d6f73f736.json"
+    },
+    "54d34915142f": {
+      "county_id": "ids_kootenai",
+      "name": "KOOTENAI",
+      "start_date": "1907-02-21",
+      "end_date": "1915-01-22",
+      "filename": "54d34915142f.json"
+    },
+    "2f7b36fe3618": {
+      "county_id": "ids_cassia",
+      "name": "CASSIA",
+      "start_date": "1907-02-21",
+      "end_date": "1913-01-29",
+      "filename": "2f7b36fe3618.json"
+    },
+    "8cb00ac5aa32": {
+      "county_id": "ids_lewis",
+      "name": "LEWIS",
+      "start_date": "1911-03-20",
+      "end_date": "2000-12-31",
+      "filename": "8cb00ac5aa32.json"
+    },
+    "381d9da34cf2": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1911-03-20",
+      "end_date": "2000-12-31",
+      "filename": "381d9da34cf2.json"
+    },
+    "e55f178c9288": {
+      "county_id": "ids_clearwater",
+      "name": "CLEARWATER",
+      "start_date": "1911-02-27",
+      "end_date": "2000-12-31",
+      "filename": "e55f178c9288.json"
+    },
+    "74b9da0c578e": {
+      "county_id": "ids_lemhi",
+      "name": "LEMHI",
+      "start_date": "1911-03-10",
+      "end_date": "2000-12-31",
+      "filename": "74b9da0c578e.json"
+    },
+    "a1a12afefe85": {
+      "county_id": "ids_adams",
+      "name": "ADAMS",
+      "start_date": "1911-03-15",
+      "end_date": "2000-12-31",
+      "filename": "a1a12afefe85.json"
+    },
+    "9f7e31aa4762": {
+      "county_id": "ids_washington",
+      "name": "WASHINGTON",
+      "start_date": "1911-03-15",
+      "end_date": "2000-12-31",
+      "filename": "9f7e31aa4762.json"
+    },
+    "c68026f5ce18": {
+      "county_id": "ids_bonneville",
+      "name": "BONNEVILLE",
+      "start_date": "1911-02-07",
+      "end_date": "2000-12-31",
+      "filename": "c68026f5ce18.json"
+    },
+    "a47ec8c0a5d4": {
+      "county_id": "ids_elmore",
+      "name": "ELMORE",
+      "start_date": "1911-03-03",
+      "end_date": "1930-11-03",
+      "filename": "a47ec8c0a5d4.json"
+    },
+    "136469c3358e": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1911-03-10",
+      "end_date": "1918-11-05",
+      "filename": "136469c3358e.json"
+    },
+    "fd38b74746ad": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1911-03-03",
+      "end_date": "1913-01-29",
+      "filename": "fd38b74746ad.json"
+    },
+    "200350714cd6": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1911-02-07",
+      "end_date": "1913-01-29",
+      "filename": "200350714cd6.json"
+    },
+    "492e3d923eaf": {
+      "county_id": "ids_nezperce",
+      "name": "NEZ PERCE",
+      "start_date": "1911-02-27",
+      "end_date": "1911-03-19",
+      "filename": "492e3d923eaf.json"
+    },
+    "115a1a638309": {
+      "county_id": "ids_cassia",
+      "name": "CASSIA",
+      "start_date": "1913-01-30",
+      "end_date": "2000-12-31",
+      "filename": "115a1a638309.json"
+    },
+    "2c57f9f0ac93": {
+      "county_id": "ids_fremont",
+      "name": "FREMONT",
+      "start_date": "1913-11-04",
+      "end_date": "1919-01-31",
+      "filename": "2c57f9f0ac93.json"
+    },
+    "d5a9d566d4b2": {
+      "county_id": "ids_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1913-01-28",
+      "end_date": "1919-02-07",
+      "filename": "d5a9d566d4b2.json"
+    },
+    "12a8fb5fa2b7": {
+      "county_id": "ids_minidoka",
+      "name": "MINIDOKA",
+      "start_date": "1913-01-28",
+      "end_date": "1919-02-07",
+      "filename": "12a8fb5fa2b7.json"
+    },
+    "f69bbb02a3b8": {
+      "county_id": "ids_gooding",
+      "name": "GOODING",
+      "start_date": "1913-01-28",
+      "end_date": "1919-02-07",
+      "filename": "f69bbb02a3b8.json"
+    },
+    "81dc592e79cd": {
+      "county_id": "ids_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1913-01-30",
+      "end_date": "1918-11-05",
+      "filename": "81dc592e79cd.json"
+    },
+    "276726abfe96": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1913-01-30",
+      "end_date": "1917-02-05",
+      "filename": "276726abfe96.json"
+    },
+    "861d00d3d8e2": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1913-01-30",
+      "end_date": "1917-02-05",
+      "filename": "861d00d3d8e2.json"
+    },
+    "01da1ef680aa": {
+      "county_id": "ids_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1913-11-04",
+      "end_date": "1917-02-05",
+      "filename": "01da1ef680aa.json"
+    },
+    "e2605e7a7a0d": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1913-01-30",
+      "end_date": "1916-11-06",
+      "filename": "e2605e7a7a0d.json"
+    },
+    "102b6ad3a58c": {
+      "county_id": "ids_power",
+      "name": "POWER",
+      "start_date": "1913-01-30",
+      "end_date": "1916-11-06",
+      "filename": "102b6ad3a58c.json"
+    },
+    "f7c2ea622ff2": {
+      "county_id": "ids_madison",
+      "name": "MADISON",
+      "start_date": "1913-11-04",
+      "end_date": "1915-01-25",
+      "filename": "f7c2ea622ff2.json"
+    },
+    "83b3c0619252": {
+      "county_id": "ids_boundary",
+      "name": "BOUNDARY",
+      "start_date": "1915-01-23",
+      "end_date": "2000-12-31",
+      "filename": "83b3c0619252.json"
+    },
+    "89581c671be5": {
+      "county_id": "ids_bonner",
+      "name": "BONNER",
+      "start_date": "1915-01-23",
+      "end_date": "2000-12-31",
+      "filename": "89581c671be5.json"
+    },
+    "c901a71ab654": {
+      "county_id": "ids_kootenai",
+      "name": "KOOTENAI",
+      "start_date": "1915-01-23",
+      "end_date": "2000-12-31",
+      "filename": "c901a71ab654.json"
+    },
+    "204dae41b68e": {
+      "county_id": "ids_benewah",
+      "name": "BENEWAH",
+      "start_date": "1915-01-23",
+      "end_date": "2000-12-31",
+      "filename": "204dae41b68e.json"
+    },
+    "0b546b50de2b": {
+      "county_id": "ids_gem",
+      "name": "GEM",
+      "start_date": "1915-05-11",
+      "end_date": "2000-12-31",
+      "filename": "0b546b50de2b.json"
+    },
+    "71f247fef77c": {
+      "county_id": "ids_teton",
+      "name": "TETON",
+      "start_date": "1915-01-26",
+      "end_date": "2000-12-31",
+      "filename": "71f247fef77c.json"
+    },
+    "f2b306b30acc": {
+      "county_id": "ids_madison",
+      "name": "MADISON",
+      "start_date": "1915-01-26",
+      "end_date": "2000-12-31",
+      "filename": "f2b306b30acc.json"
+    },
+    "9c1e30af1119": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1915-05-11",
+      "end_date": "1918-11-05",
+      "filename": "9c1e30af1119.json"
+    },
+    "82ecc4c1b7b7": {
+      "county_id": "ids_canyon",
+      "name": "CANYON",
+      "start_date": "1915-05-11",
+      "end_date": "1917-05-10",
+      "filename": "82ecc4c1b7b7.json"
+    },
+    "3c866cc583bc": {
+      "county_id": "ids_power",
+      "name": "POWER",
+      "start_date": "1916-11-07",
+      "end_date": "1927-03-14",
+      "filename": "3c866cc583bc.json"
+    },
+    "20966e6d4107": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1916-11-07",
+      "end_date": "1927-03-14",
+      "filename": "20966e6d4107.json"
+    },
+    "94d03af508c1": {
+      "county_id": "ids_payette",
+      "name": "PAYETTE",
+      "start_date": "1917-05-11",
+      "end_date": "2000-12-31",
+      "filename": "94d03af508c1.json"
+    },
+    "c4f6ae2d9718": {
+      "county_id": "ids_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1917-02-06",
+      "end_date": "2000-12-31",
+      "filename": "c4f6ae2d9718.json"
+    },
+    "64c321ca2a31": {
+      "county_id": "ids_canyon",
+      "name": "CANYON",
+      "start_date": "1917-05-11",
+      "end_date": "2000-12-31",
+      "filename": "64c321ca2a31.json"
+    },
+    "0cb495e41b2d": {
+      "county_id": "ids_camas",
+      "name": "CAMAS",
+      "start_date": "1917-02-06",
+      "end_date": "2000-12-31",
+      "filename": "0cb495e41b2d.json"
+    },
+    "0673500127f0": {
+      "county_id": "ids_bingham",
+      "name": "BINGHAM",
+      "start_date": "1917-02-06",
+      "end_date": "2000-12-31",
+      "filename": "0673500127f0.json"
+    },
+    "640a0f7a5451": {
+      "county_id": "ids_butte",
+      "name": "BUTTE",
+      "start_date": "1917-02-06",
+      "end_date": "1937-03-14",
+      "filename": "640a0f7a5451.json"
+    },
+    "392cd11dccff": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1917-02-06",
+      "end_date": "1925-03-12",
+      "filename": "392cd11dccff.json"
+    },
+    "096aad93c03b": {
+      "county_id": "ids_selway",
+      "name": "SELWAY (prop)",
+      "start_date": "1917-03-14",
+      "end_date": "1917-03-14",
+      "filename": "096aad93c03b.json"
+    },
+    "4bf63f9256e4": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1918-11-06",
+      "end_date": "2000-12-31",
+      "filename": "4bf63f9256e4.json"
+    },
+    "d6c4bd81848a": {
+      "county_id": "ids_valley",
+      "name": "VALLEY",
+      "start_date": "1918-11-06",
+      "end_date": "2000-12-31",
+      "filename": "d6c4bd81848a.json"
+    },
+    "bc9da6512856": {
+      "county_id": "ids_boise",
+      "name": "BOISE",
+      "start_date": "1918-11-06",
+      "end_date": "2000-12-31",
+      "filename": "bc9da6512856.json"
+    },
+    "e6188e1c0666": {
+      "county_id": "ids_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1918-11-06",
+      "end_date": "1946-11-04",
+      "filename": "e6188e1c0666.json"
+    },
+    "5144e7580ab8": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1918-11-06",
+      "end_date": "1919-02-10",
+      "filename": "5144e7580ab8.json"
+    },
+    "9f88b8b349ba": {
+      "county_id": "ids_fremont",
+      "name": "FREMONT",
+      "start_date": "1919-02-01",
+      "end_date": "2000-12-31",
+      "filename": "9f88b8b349ba.json"
+    },
+    "698f62200904": {
+      "county_id": "ids_clark",
+      "name": "CLARK",
+      "start_date": "1919-02-01",
+      "end_date": "2000-12-31",
+      "filename": "698f62200904.json"
+    },
+    "6788b9f3a553": {
+      "county_id": "ids_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1919-02-08",
+      "end_date": "2000-12-31",
+      "filename": "6788b9f3a553.json"
+    },
+    "08079d6dc332": {
+      "county_id": "ids_minidoka",
+      "name": "MINIDOKA",
+      "start_date": "1919-02-08",
+      "end_date": "2000-12-31",
+      "filename": "08079d6dc332.json"
+    },
+    "fdd8430892eb": {
+      "county_id": "ids_gooding",
+      "name": "GOODING",
+      "start_date": "1919-02-08",
+      "end_date": "2000-12-31",
+      "filename": "fdd8430892eb.json"
+    },
+    "4f18d3a44acb": {
+      "county_id": "ids_jerome",
+      "name": "JEROME",
+      "start_date": "1919-02-08",
+      "end_date": "2000-12-31",
+      "filename": "4f18d3a44acb.json"
+    },
+    "a8c0916c9528": {
+      "county_id": "ids_caribou",
+      "name": "CARIBOU",
+      "start_date": "1919-02-11",
+      "end_date": "1948-11-01",
+      "filename": "a8c0916c9528.json"
+    },
+    "bedac6bf4aa1": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1919-02-11",
+      "end_date": "1927-03-14",
+      "filename": "bedac6bf4aa1.json"
+    },
+    "b71c25dcc68b": {
+      "county_id": "ids_annex1",
+      "name": "Annex 1 (prop)",
+      "start_date": "1919-02-11",
+      "end_date": "1919-02-11",
+      "filename": "b71c25dcc68b.json"
+    },
+    "9558e4b16b15": {
+      "county_id": "ids_annex2",
+      "name": "Annex 2 (prop)",
+      "start_date": "1919-02-19",
+      "end_date": "1919-02-19",
+      "filename": "9558e4b16b15.json"
+    },
+    "9c637fa3a029": {
+      "county_id": "ids_blaine",
+      "name": "BLAINE",
+      "start_date": "1925-03-13",
+      "end_date": "2000-12-31",
+      "filename": "9c637fa3a029.json"
+    },
+    "229df8dfe083": {
+      "county_id": "ids_custer",
+      "name": "CUSTER",
+      "start_date": "1925-03-13",
+      "end_date": "1937-03-14",
+      "filename": "229df8dfe083.json"
+    },
+    "5cb74b6b77b3": {
+      "county_id": "ids_power",
+      "name": "POWER",
+      "start_date": "1927-03-15",
+      "end_date": "2000-12-31",
+      "filename": "5cb74b6b77b3.json"
+    },
+    "a665fe17be97": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1927-03-15",
+      "end_date": "2000-12-31",
+      "filename": "a665fe17be97.json"
+    },
+    "038510b7bdc7": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1927-03-15",
+      "end_date": "1946-11-04",
+      "filename": "038510b7bdc7.json"
+    },
+    "e64eb381751e": {
+      "county_id": "ids_elmore",
+      "name": "ELMORE",
+      "start_date": "1930-11-04",
+      "end_date": "1948-11-01",
+      "filename": "e64eb381751e.json"
+    },
+    "2be756a99f69": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE",
+      "start_date": "1930-11-04",
+      "end_date": "2000-12-31",
+      "filename": "2be756a99f69.json"
+    },
+    "eca940bc3602": {
+      "county_id": "ids_annex3",
+      "name": "Annex 3 (prop)",
+      "start_date": "1931-02-27",
+      "end_date": "1931-02-27",
+      "filename": "eca940bc3602.json"
+    },
+    "ae184f244cf5": {
+      "county_id": "ids_annex4",
+      "name": "Annex 4 (prop)",
+      "start_date": "1931-03-17",
+      "end_date": "1931-03-17",
+      "filename": "ae184f244cf5.json"
+    },
+    "3df5632ea6b5": {
+      "county_id": "ids_custer",
+      "name": "CUSTER",
+      "start_date": "1937-03-15",
+      "end_date": "2000-12-31",
+      "filename": "3df5632ea6b5.json"
+    },
+    "d2628752c1de": {
+      "county_id": "ids_butte",
+      "name": "BUTTE",
+      "start_date": "1937-03-15",
+      "end_date": "2000-12-31",
+      "filename": "d2628752c1de.json"
+    },
+    "c6e668d79267": {
+      "county_id": "ids_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1946-11-05",
+      "end_date": "2000-12-31",
+      "filename": "c6e668d79267.json"
+    },
+    "57b06caac469": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1946-11-05",
+      "end_date": "1948-11-01",
+      "filename": "57b06caac469.json"
+    },
+    "52d74ff258bd": {
+      "county_id": "ids_annex5",
+      "name": "Annex 5 (prop)",
+      "start_date": "1947-03-19",
+      "end_date": "1947-03-19",
+      "filename": "52d74ff258bd.json"
+    },
+    "6243b986c0c7": {
+      "county_id": "ids_elmore",
+      "name": "ELMORE",
+      "start_date": "1948-11-02",
+      "end_date": "2000-12-31",
+      "filename": "6243b986c0c7.json"
+    },
+    "623e9e45e998": {
+      "county_id": "ids_ada",
+      "name": "ADA",
+      "start_date": "1948-11-02",
+      "end_date": "2000-12-31",
+      "filename": "623e9e45e998.json"
+    },
+    "733538c38bee": {
+      "county_id": "ids_caribou",
+      "name": "CARIBOU",
+      "start_date": "1948-11-02",
+      "end_date": "2000-12-31",
+      "filename": "733538c38bee.json"
+    },
+    "0ed2695bd215": {
+      "county_id": "ids_bannock",
+      "name": "BANNOCK",
+      "start_date": "1948-11-02",
+      "end_date": "2000-12-31",
+      "filename": "0ed2695bd215.json"
+    },
+    "a55c89f42bb9": {
+      "county_id": "ids_annex6",
+      "name": "Annex 6 (prop)",
+      "start_date": "1949-02-26",
+      "end_date": "1949-02-26",
+      "filename": "a55c89f42bb9.json"
+    },
+    "e3ca7923763b": {
+      "county_id": "ids_idaho",
+      "name": "IDAHO",
+      "start_date": "1861-12-20",
+      "end_date": "1863-01-11",
+      "filename": "e3ca7923763b.json"
+    },
+    "09f3a91195fb": {
+      "county_id": "ids_shoshone",
+      "name": "SHOSHONE",
+      "start_date": "1861-03-02",
+      "end_date": "1861-12-19",
+      "filename": "09f3a91195fb.json"
+    },
+    "0a54efebb741": {
+      "county_id": "ids_nca2",
+      "name": "NCA 2",
+      "start_date": "1863-03-03",
+      "end_date": "1863-12-30",
+      "filename": "0a54efebb741.json"
+    },
+    "21f9d9055601": {
+      "county_id": "ids_owyhee",
+      "name": "OWYHEE",
+      "start_date": "1863-12-31",
+      "end_date": "1864-01-21",
+      "filename": "21f9d9055601.json"
+    },
+    "0d5ad393a91b": {
+      "county_id": "ids_oneida",
+      "name": "ONEIDA",
+      "start_date": "1864-01-22",
+      "end_date": "1864-05-25",
+      "filename": "0d5ad393a91b.json"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "state": "HI",
+  "total_features": 8,
+  "features": {
+    "89a684ae5a72": {
+      "county_id": "his_kauai",
+      "name": "KAUAI",
+      "start_date": "1903-04-22",
+      "end_date": "2000-12-31",
+      "filename": "89a684ae5a72.json"
+    },
+    "92441eb74ee8": {
+      "county_id": "his_kalawao",
+      "name": "KALAWAO",
+      "start_date": "1903-04-22",
+      "end_date": "2000-12-31",
+      "filename": "92441eb74ee8.json"
+    },
+    "f955d701b3fc": {
+      "county_id": "his_maui",
+      "name": "MAUI",
+      "start_date": "1903-04-22",
+      "end_date": "2000-12-31",
+      "filename": "f955d701b3fc.json"
+    },
+    "49d2ebc4ac83": {
+      "county_id": "hit_oahu",
+      "name": "OAHU (ext)",
+      "start_date": "1903-04-22",
+      "end_date": "1907-04-29",
+      "filename": "49d2ebc4ac83.json"
+    },
+    "904ee35f8662": {
+      "county_id": "hit_easthawaii",
+      "name": "EAST HAWAII (ext)",
+      "start_date": "1903-04-22",
+      "end_date": "1905-04-12",
+      "filename": "904ee35f8662.json"
+    },
+    "388e95de9744": {
+      "county_id": "hit_westhawaii",
+      "name": "WEST HAWAII (ext)",
+      "start_date": "1903-04-22",
+      "end_date": "1905-04-12",
+      "filename": "388e95de9744.json"
+    },
+    "700a713562eb": {
+      "county_id": "his_hawaii",
+      "name": "HAWAII",
+      "start_date": "1905-04-13",
+      "end_date": "2000-12-31",
+      "filename": "700a713562eb.json"
+    },
+    "c8e2b0185760": {
+      "county_id": "his_honolulu",
+      "name": "HONOLULU",
+      "start_date": "1907-04-30",
+      "end_date": "2000-12-31",
+      "filename": "c8e2b0185760.json"
+    }
+  }
+}

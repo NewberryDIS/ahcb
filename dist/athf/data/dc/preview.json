@@ -1,0 +1,624 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "District of Columbia",
+                "ID": "dcs",
+                "STATE": "DC",
+                "FIPS": "11001",
+                "VERSION": 1,
+                "START_DATE": "1791-03-30",
+                "END_DATE": "1846-09-06",
+                "CHANGE": "The United States created an unnamed district from land ceded by Maryland and Virginia to be the seat of national government . Until 1801 the county jurisdictions of Maryland and Virginia continued in ceded areas.",
+                "CITATION": "(Richardson, 1:102; Van Zandt, 90)",
+                "AREA_SQMI": 100.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "District of Columbia"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.91059595745878,
+                            38.89391229167654
+                        ],
+                        [
+                            -77.03949895757887,
+                            38.791114291580925
+                        ],
+                        [
+                            -77.17218695770248,
+                            38.893264291675905
+                        ],
+                        [
+                            -77.04099895758031,
+                            38.99511029177097
+                        ],
+                        [
+                            -76.91059595745878,
+                            38.89391229167654
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "MONTGOMERY (Md.)",
+                "ID": "mds_montgomery",
+                "STATE": "MD",
+                "FIPS": "24031",
+                "VERSION": 1,
+                "START_DATE": "1791-03-30",
+                "END_DATE": "1801-02-26",
+                "CHANGE": "The United States created an unnamed district from land ceded by Maryland and Virginia to be the seat of national government . MONTGOMERY (Md.) continued county functions of Maryland in ceded areas.",
+                "CITATION": "(Md., Laws Since 1763, \"Proceedings of Convention,\" 6 September 1776; Richardson, 1:102; Van Zandt, 90)",
+                "AREA_SQMI": 527.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "MONTGOMERY (Md.)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.18710795771631,
+                            39.340598292092636
+                        ],
+                        [
+                            -77.13501195766776,
+                            39.27181329202858
+                        ],
+                        [
+                            -77.0448009575839,
+                            39.2377062919968
+                        ],
+                        [
+                            -77.00959995755102,
+                            39.20690629196815
+                        ],
+                        [
+                            -77.00149895754339,
+                            39.1706072919344
+                        ],
+                        [
+                            -76.95159795749692,
+                            39.14610829191156
+                        ],
+                        [
+                            -76.95869795750355,
+                            39.134309291900536
+                        ],
+                        [
+                            -76.88789795743764,
+                            39.13175729189811
+                        ],
+                        [
+                            -77.0650999576028,
+                            38.89324229167596
+                        ],
+                        [
+                            -77.10340095763831,
+                            38.91291229169428
+                        ],
+                        [
+                            -77.1481789576801,
+                            38.96500329174273
+                        ],
+                        [
+                            -77.24980295777482,
+                            38.985910291762366
+                        ],
+                        [
+                            -77.24840295777335,
+                            39.02690929180039
+                        ],
+                        [
+                            -77.34028795785889,
+                            39.06299129183412
+                        ],
+                        [
+                            -77.45820295796875,
+                            39.07372329184409
+                        ],
+                        [
+                            -77.4817529579907,
+                            39.10622929187434
+                        ],
+                        [
+                            -77.52479495803072,
+                            39.12871429189522
+                        ],
+                        [
+                            -77.51642695802298,
+                            39.17089229193448
+                        ],
+                        [
+                            -77.47859695798775,
+                            39.189168291951546
+                        ],
+                        [
+                            -77.45888395796942,
+                            39.21982729198021
+                        ],
+                        [
+                            -77.1678589576984,
+                            39.35429029210536
+                        ],
+                        [
+                            -77.18710795771631,
+                            39.340598292092636
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "PRINCE GEORGES (Md.)",
+                "ID": "mds_princegeorges",
+                "STATE": "MD",
+                "FIPS": "24033",
+                "VERSION": 1,
+                "START_DATE": "1791-03-30",
+                "END_DATE": "1801-02-26",
+                "CHANGE": "The United States created an unnamed district from land ceded by Maryland and Virginia to be the seat of national government . PRINCE GEORGES (Md.) continued county functions of Maryland in ceded areas.",
+                "CITATION": "(Archives of Md., 46:141-142; Richardson, 1:102; Van Zandt, 90)",
+                "AREA_SQMI": 545.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "PRINCE GEORGES (Md.)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.88789795743764,
+                            39.13175729189811
+                        ],
+                        [
+                            -76.82759395738162,
+                            39.094109291863106
+                        ],
+                        [
+                            -76.83559395738894,
+                            39.06810929183894
+                        ],
+                        [
+                            -76.74789195730727,
+                            39.03361029180678
+                        ],
+                        [
+                            -76.69818995726109,
+                            38.9837112917603
+                        ],
+                        [
+                            -76.69058895725402,
+                            38.924512291705014
+                        ],
+                        [
+                            -76.6704939572353,
+                            38.90732329168918
+                        ],
+                        [
+                            -76.71449395727609,
+                            38.77925229156995
+                        ],
+                        [
+                            -76.68458595724837,
+                            38.745859291538636
+                        ],
+                        [
+                            -76.70196095726442,
+                            38.71086829150613
+                        ],
+                        [
+                            -76.68698295725062,
+                            38.680636291478095
+                        ],
+                        [
+                            -76.70100295726365,
+                            38.668363291466676
+                        ],
+                        [
+                            -76.68332895724711,
+                            38.6611792914598
+                        ],
+                        [
+                            -76.69285295725604,
+                            38.63643829143689
+                        ],
+                        [
+                            -76.67260995723723,
+                            38.617966291419634
+                        ],
+                        [
+                            -76.68298795724695,
+                            38.53929629134632
+                        ],
+                        [
+                            -76.74071095730051,
+                            38.55876129136459
+                        ],
+                        [
+                            -76.74914395730843,
+                            38.61839029141993
+                        ],
+                        [
+                            -76.86283995741428,
+                            38.658618291457515
+                        ],
+                        [
+                            -77.00109495754305,
+                            38.65481829145392
+                        ],
+                        [
+                            -77.04799795758686,
+                            38.61621829141791
+                        ],
+                        [
+                            -77.08579995762193,
+                            38.70661629150209
+                        ],
+                        [
+                            -77.04139895758067,
+                            38.724515291518856
+                        ],
+                        [
+                            -77.04599895758497,
+                            38.84131329162756
+                        ],
+                        [
+                            -77.0316989575715,
+                            38.85051329163616
+                        ],
+                        [
+                            -77.0650999576028,
+                            38.89324229167596
+                        ],
+                        [
+                            -76.90720295745564,
+                            39.11781229188523
+                        ],
+                        [
+                            -76.88789795743764,
+                            39.13175729189811
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "FAIRFAX (Va.)",
+                "ID": "vas_fairfax",
+                "STATE": "VA",
+                "FIPS": "51059",
+                "VERSION": 1,
+                "START_DATE": "1791-03-30",
+                "END_DATE": "1801-02-26",
+                "CHANGE": "The United States created an unnamed district from land ceded by Maryland and Virginia to be the seat of national government . FAIRFAX (Va.) continued county functions of Maryland in ceded areas.",
+                "CITATION": "Richardson, 1:102; Van Zandt, 88, 90",
+                "AREA_SQMI": 330.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "FAIRFAX (Va.)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.24680295777193,
+                            38.97611029175323
+                        ],
+                        [
+                            -77.14660095767863,
+                            38.964211291742004
+                        ],
+                        [
+                            -77.0316989575715,
+                            38.85051329163616
+                        ],
+                        [
+                            -77.04599895758497,
+                            38.84131329162756
+                        ],
+                        [
+                            -77.03579895757548,
+                            38.814913291603034
+                        ],
+                        [
+                            -77.04549895758441,
+                            38.714315291509365
+                        ],
+                        [
+                            -77.1220009576557,
+                            38.68581629148275
+                        ],
+                        [
+                            -77.13020095766342,
+                            38.63501729143559
+                        ],
+                        [
+                            -77.22550295775204,
+                            38.605618291408064
+                        ],
+                        [
+                            -77.21820395774535,
+                            38.6449172914447
+                        ],
+                        [
+                            -77.25538795777993,
+                            38.68177429147909
+                        ],
+                        [
+                            -77.3565079578741,
+                            38.7260152915203
+                        ],
+                        [
+                            -77.3743919578908,
+                            38.7121162915073
+                        ],
+                        [
+                            -77.38840895790372,
+                            38.74861529154123
+                        ],
+                        [
+                            -77.41200895792576,
+                            38.74511529153801
+                        ],
+                        [
+                            -77.41280995792658,
+                            38.77111529156218
+                        ],
+                        [
+                            -77.44761095795889,
+                            38.803814291592744
+                        ],
+                        [
+                            -77.46961095797951,
+                            38.79592429158538
+                        ],
+                        [
+                            -77.3461699578645,
+                            38.84821429163412
+                        ],
+                        [
+                            -77.28741495780969,
+                            38.96589029174356
+                        ],
+                        [
+                            -77.24680295777193,
+                            38.97611029175323
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "WASHINGTON (ext)",
+                "ID": "dcs_washington",
+                "STATE": "DC",
+                "FIPS": "",
+                "VERSION": 1,
+                "START_DATE": "1801-02-27",
+                "END_DATE": "1871-02-20",
+                "CHANGE": "WASHINGTON (extinct) created as one of two original counties when the federal government established a circuit court for the seat of national government, now called District of Columbia.",
+                "CITATION": "(U.S. Stat., vol. 2, ch. 15 [1801]/pp. 103-108)",
+                "AREA_SQMI": 68.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "WASHINGTON (extinct)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.04099895758031,
+                            38.99511029177097
+                        ],
+                        [
+                            -76.90939595745772,
+                            38.89281229167568
+                        ],
+                        [
+                            -77.03859895757796,
+                            38.79151429158128
+                        ],
+                        [
+                            -77.04059995757984,
+                            38.87121229165541
+                        ],
+                        [
+                            -77.11990095765373,
+                            38.934311291714266
+                        ],
+                        [
+                            -77.04099895758031,
+                            38.99511029177097
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "ALEXANDRIA",
+                "ID": "vas_arlington",
+                "STATE": "VA",
+                "FIPS": "51013",
+                "VERSION": 1,
+                "START_DATE": "1801-02-27",
+                "END_DATE": "1846-09-06",
+                "CHANGE": "ALEXANDRIA (now ARLINGTON, Va.) created as one of two original counties when the federal government established a circuit court for the seat of national government, now called the District of Columbia.",
+                "CITATION": "(U.S. Stat., vol. 2, ch. 15 [1801]/pp. 103-108)",
+                "AREA_SQMI": 32.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "ALEXANDRIA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.11990095765373,
+                            38.934311291714266
+                        ],
+                        [
+                            -77.0390999575784,
+                            38.86811229165255
+                        ],
+                        [
+                            -77.03859895757796,
+                            38.79151429158128
+                        ],
+                        [
+                            -77.17218695770248,
+                            38.893264291675905
+                        ],
+                        [
+                            -77.11990095765373,
+                            38.934311291714266
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "District of Columbia",
+                "ID": "dcs",
+                "STATE": "DC",
+                "FIPS": "11001",
+                "VERSION": 2,
+                "START_DATE": "1846-09-07",
+                "END_DATE": "2000-12-31",
+                "CHANGE": "The federal government retroceded to Virginia all of the district territory west of the Potomac River; ALEXANDRIA (now ARLINGTON, Va.) eliminated from the District of Columbia.",
+                "CITATION": "(U.S. Stat., vol. 9, ch. 35 [1846]/pp. 35-37, and appendix 3/p. 1000)",
+                "AREA_SQMI": 68.0,
+                "DATASET": "DC_Historical_Counties",
+                "CNTY_TYPE": "County",
+                "FULL_NAME": "District of Columbia"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.04099895758031,
+                            38.99511029177097
+                        ],
+                        [
+                            -76.90939595745772,
+                            38.89281229167568
+                        ],
+                        [
+                            -77.03859895757796,
+                            38.79151429158128
+                        ],
+                        [
+                            -77.04059995757984,
+                            38.87121229165541
+                        ],
+                        [
+                            -77.11990095765373,
+                            38.934311291714266
+                        ],
+                        [
+                            -77.04099895758031,
+                            38.99511029177097
+                        ]
+                    ]
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "state": "DC",
+        "feature_count": 7,
+        "date_range": {
+            "min_date": "1791-03-30",
+            "max_date": "2000-12-31"
+        },
+        "processed_at": "2025-08-04T17:10:25.228894"
+    },
+    "county_index": {
+        "dcs": [
+            {
+                "feature_index": 0,
+                "start_date": "1791-03-30",
+                "end_date": "1846-09-06",
+                "name": "District of Columbia",
+                "full_name": "District of Columbia"
+            },
+            {
+                "feature_index": 6,
+                "start_date": "1846-09-07",
+                "end_date": "2000-12-31",
+                "name": "District of Columbia",
+                "full_name": "District of Columbia"
+            }
+        ],
+        "mds_montgomery": [
+            {
+                "feature_index": 1,
+                "start_date": "1791-03-30",
+                "end_date": "1801-02-26",
+                "name": "MONTGOMERY (Md.)",
+                "full_name": "MONTGOMERY (Md.)"
+            }
+        ],
+        "mds_princegeorges": [
+            {
+                "feature_index": 2,
+                "start_date": "1791-03-30",
+                "end_date": "1801-02-26",
+                "name": "PRINCE GEORGES (Md.)",
+                "full_name": "PRINCE GEORGES (Md.)"
+            }
+        ],
+        "vas_fairfax": [
+            {
+                "feature_index": 3,
+                "start_date": "1791-03-30",
+                "end_date": "1801-02-26",
+                "name": "FAIRFAX (Va.)",
+                "full_name": "FAIRFAX (Va.)"
+            }
+        ],
+        "dcs_washington": [
+            {
+                "feature_index": 4,
+                "start_date": "1801-02-27",
+                "end_date": "1871-02-20",
+                "name": "WASHINGTON (ext)",
+                "full_name": "WASHINGTON (extinct)"
+            }
+        ],
+        "vas_arlington": [
+            {
+                "feature_index": 5,
+                "start_date": "1801-02-27",
+                "end_date": "1846-09-06",
+                "name": "ALEXANDRIA",
+                "full_name": "ALEXANDRIA"
+            }
+        ]
+    }
+}

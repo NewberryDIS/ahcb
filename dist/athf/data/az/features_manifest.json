@@ -1,0 +1,587 @@
+{
+  "state": "AZ",
+  "total_features": 83,
+  "features": {
+    "6910e8f6877d": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1848-07-04",
+      "end_date": "1850-12-12",
+      "filename": "6910e8f6877d.json"
+    },
+    "cfe96063c9ec": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1848-07-04",
+      "end_date": "1850-12-12",
+      "filename": "cfe96063c9ec.json"
+    },
+    "94fbe187c1fd": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "94fbe187c1fd.json"
+    },
+    "a55e85d7045d": {
+      "county_id": "nmt_part",
+      "name": "New Mexico Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "a55e85d7045d.json"
+    },
+    "0b5414d34568": {
+      "county_id": "nmt_disputed",
+      "name": "Disputed Area",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "0b5414d34568.json"
+    },
+    "ae84511952ac": {
+      "county_id": "nms_socorro",
+      "name": "SOCORRO (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "ae84511952ac.json"
+    },
+    "f70226dc5614": {
+      "county_id": "nms_valencia",
+      "name": "VALENCIA (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "f70226dc5614.json"
+    },
+    "5f363ec5b242": {
+      "county_id": "nms_rioarriba",
+      "name": "RIO ARRIBA (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "5f363ec5b242.json"
+    },
+    "505d4906bbc1": {
+      "county_id": "nmt_santaana",
+      "name": "SANTA ANA (N.M Terr)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "505d4906bbc1.json"
+    },
+    "a4e927a607e6": {
+      "county_id": "nms_bernalillo",
+      "name": "BERNALILLO (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1863-02-23",
+      "filename": "a4e927a607e6.json"
+    },
+    "f6eba8846612": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1855-02-02",
+      "filename": "f6eba8846612.json"
+    },
+    "cfb6526178f3": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1860-01-31",
+      "filename": "cfb6526178f3.json"
+    },
+    "72f40bb38177": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1852-01-09",
+      "end_date": "1853-12-29",
+      "filename": "72f40bb38177.json"
+    },
+    "f3c778f8a0c2": {
+      "county_id": "nmt_disputed",
+      "name": "Disputed Area",
+      "start_date": "1852-01-09",
+      "end_date": "1853-12-29",
+      "filename": "f3c778f8a0c2.json"
+    },
+    "b98548e22b97": {
+      "county_id": "nms_gdp",
+      "name": "Gadsden Purchase",
+      "start_date": "1853-12-30",
+      "end_date": "1854-08-03",
+      "filename": "b98548e22b97.json"
+    },
+    "211c598f819c": {
+      "county_id": "nmt_part",
+      "name": "New Mexico Terr.",
+      "start_date": "1854-08-04",
+      "end_date": "1855-02-02",
+      "filename": "211c598f819c.json"
+    },
+    "99607eefb2f9": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA (N.M.)",
+      "start_date": "1855-02-03",
+      "end_date": "1860-01-31",
+      "filename": "99607eefb2f9.json"
+    },
+    "681cb112c7b2": {
+      "county_id": "nmt_arizona",
+      "name": "ARIZONA (N.M. Terr.)",
+      "start_date": "1860-02-01",
+      "end_date": "1862-01-17",
+      "filename": "681cb112c7b2.json"
+    },
+    "7f0e2ba68950": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA (N.M.)",
+      "start_date": "1860-02-01",
+      "end_date": "1862-01-17",
+      "filename": "7f0e2ba68950.json"
+    },
+    "4459eaa9c4cc": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1860-02-01",
+      "end_date": "1861-01-11",
+      "filename": "4459eaa9c4cc.json"
+    },
+    "696671c98eda": {
+      "county_id": "azt_castledome",
+      "name": "CASTLE DOME (prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "696671c98eda.json"
+    },
+    "904600764a12": {
+      "county_id": "azt_donaana",
+      "name": "DO\u00d1A ANA (prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "904600764a12.json"
+    },
+    "de2b0944953f": {
+      "county_id": "azt_ewell",
+      "name": "EWELL (prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "de2b0944953f.json"
+    },
+    "b00e792c436a": {
+      "county_id": "azt_mesilla",
+      "name": "MESILLA (prop)",
+      "start_date": "1860-04-05",
+      "end_date": "1860-04-05",
+      "filename": "b00e792c436a.json"
+    },
+    "e10608241e2d": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-17",
+      "filename": "e10608241e2d.json"
+    },
+    "97a961801c4a": {
+      "county_id": "nmt_sanjuan",
+      "name": "SAN JUAN (N.M. Terr)",
+      "start_date": "1861-01-12",
+      "end_date": "1862-01-17",
+      "filename": "97a961801c4a.json"
+    },
+    "bc3daabe893c": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1861-01-12",
+      "end_date": "1861-02-27",
+      "filename": "bc3daabe893c.json"
+    },
+    "06ba0ac13a58": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA (N.M.)",
+      "start_date": "1862-01-18",
+      "end_date": "1863-01-27",
+      "filename": "06ba0ac13a58.json"
+    },
+    "096121edcb18": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1862-01-18",
+      "end_date": "1863-02-23",
+      "filename": "096121edcb18.json"
+    },
+    "c925af43f101": {
+      "county_id": "azt",
+      "name": "Arizona Terr.",
+      "start_date": "1863-02-24",
+      "end_date": "1864-11-09",
+      "filename": "c925af43f101.json"
+    },
+    "6650f74c815d": {
+      "county_id": "nms_donaana",
+      "name": "DO\u00d1A ANA (N.M.)",
+      "start_date": "1863-01-28",
+      "end_date": "1863-02-23",
+      "filename": "6650f74c815d.json"
+    },
+    "610c89473303": {
+      "county_id": "nmt_arizona",
+      "name": "ARIZONA (N.M. Terr.)",
+      "start_date": "1863-01-28",
+      "end_date": "1863-02-23",
+      "filename": "610c89473303.json"
+    },
+    "18e5e01f3d48": {
+      "county_id": "azs_yuma",
+      "name": "YUMA",
+      "start_date": "1864-11-10",
+      "end_date": "1983-04-26",
+      "filename": "18e5e01f3d48.json"
+    },
+    "b58727c8458b": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1864-11-10",
+      "end_date": "1873-02-13",
+      "filename": "b58727c8458b.json"
+    },
+    "be53d11337d8": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1864-11-10",
+      "end_date": "1871-02-13",
+      "filename": "be53d11337d8.json"
+    },
+    "87402a77de61": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE",
+      "start_date": "1864-11-10",
+      "end_date": "1865-12-21",
+      "filename": "87402a77de61.json"
+    },
+    "5ea13b163b34": {
+      "county_id": "azt_pahute",
+      "name": "PAH-UTE (ext)",
+      "start_date": "1865-12-22",
+      "end_date": "1866-05-04",
+      "filename": "5ea13b163b34.json"
+    },
+    "d03cdcb333ec": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE",
+      "start_date": "1865-12-22",
+      "end_date": "1866-05-04",
+      "filename": "d03cdcb333ec.json"
+    },
+    "f5142e138595": {
+      "county_id": "azt_pahute",
+      "name": "PAH-UTE (ext)",
+      "start_date": "1866-05-05",
+      "end_date": "1871-02-17",
+      "filename": "f5142e138595.json"
+    },
+    "d45c843b9242": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE",
+      "start_date": "1866-05-05",
+      "end_date": "1871-02-17",
+      "filename": "d45c843b9242.json"
+    },
+    "0f9307136e66": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE",
+      "start_date": "1871-02-18",
+      "end_date": "1883-03-05",
+      "filename": "0f9307136e66.json"
+    },
+    "1dd03c421baf": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1871-02-14",
+      "end_date": "1877-01-30",
+      "filename": "1dd03c421baf.json"
+    },
+    "f48ad16eb528": {
+      "county_id": "azs_maricopa",
+      "name": "MARICOPA",
+      "start_date": "1871-02-14",
+      "end_date": "1873-02-13",
+      "filename": "f48ad16eb528.json"
+    },
+    "f390d4674c60": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1873-02-14",
+      "end_date": "1875-01-31",
+      "filename": "f390d4674c60.json"
+    },
+    "aeb1596f23c2": {
+      "county_id": "azs_maricopa",
+      "name": "MARICOPA",
+      "start_date": "1873-02-14",
+      "end_date": "1875-01-31",
+      "filename": "aeb1596f23c2.json"
+    },
+    "4e92061efd25": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1875-02-01",
+      "end_date": "1877-01-30",
+      "filename": "4e92061efd25.json"
+    },
+    "e6fc01388265": {
+      "county_id": "azs_pinal",
+      "name": "PINAL",
+      "start_date": "1875-02-01",
+      "end_date": "1877-02-08",
+      "filename": "e6fc01388265.json"
+    },
+    "cfb93d0f4195": {
+      "county_id": "azs_maricopa",
+      "name": "MARICOPA",
+      "start_date": "1875-02-01",
+      "end_date": "1877-01-30",
+      "filename": "cfb93d0f4195.json"
+    },
+    "4d31be4624bb": {
+      "county_id": "azs_pinal",
+      "name": "PINAL",
+      "start_date": "1877-02-09",
+      "end_date": "1881-02-07",
+      "filename": "4d31be4624bb.json"
+    },
+    "b7b56cd2d00a": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1877-02-09",
+      "end_date": "1881-01-31",
+      "filename": "b7b56cd2d00a.json"
+    },
+    "a6288b40a309": {
+      "county_id": "azs_maricopa",
+      "name": "MARICOPA",
+      "start_date": "1877-01-31",
+      "end_date": "1881-02-07",
+      "filename": "a6288b40a309.json"
+    },
+    "84b1b3009157": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1877-01-31",
+      "end_date": "1879-02-13",
+      "filename": "84b1b3009157.json"
+    },
+    "7ca6f3288369": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1877-01-31",
+      "end_date": "1877-02-08",
+      "filename": "7ca6f3288369.json"
+    },
+    "8b4512098e1f": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1879-02-14",
+      "end_date": "1883-03-05",
+      "filename": "8b4512098e1f.json"
+    },
+    "fd0fbbeba6d2": {
+      "county_id": "azs_apache",
+      "name": "APACHE",
+      "start_date": "1879-02-14",
+      "end_date": "1881-03-09",
+      "filename": "fd0fbbeba6d2.json"
+    },
+    "21492be51fa0": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1881-03-10",
+      "end_date": "1899-03-14",
+      "filename": "21492be51fa0.json"
+    },
+    "6e125cf9dcd9": {
+      "county_id": "azs_apache",
+      "name": "APACHE",
+      "start_date": "1881-03-10",
+      "end_date": "1895-03-20",
+      "filename": "6e125cf9dcd9.json"
+    },
+    "561a2e85c993": {
+      "county_id": "azs_graham",
+      "name": "GRAHAM",
+      "start_date": "1881-03-10",
+      "end_date": "1885-03-11",
+      "filename": "561a2e85c993.json"
+    },
+    "bc8d7fa2461a": {
+      "county_id": "azs_maricopa",
+      "name": "MARICOPA",
+      "start_date": "1881-02-08",
+      "end_date": "2000-12-31",
+      "filename": "bc8d7fa2461a.json"
+    },
+    "cc9249c31126": {
+      "county_id": "azs_pinal",
+      "name": "PINAL",
+      "start_date": "1881-02-08",
+      "end_date": "2000-12-31",
+      "filename": "cc9249c31126.json"
+    },
+    "2150629783f5": {
+      "county_id": "azs_cochise",
+      "name": "COCHISE",
+      "start_date": "1881-02-01",
+      "end_date": "1968-03-13",
+      "filename": "2150629783f5.json"
+    },
+    "d941131a6a8d": {
+      "county_id": "azs_gila",
+      "name": "GILA",
+      "start_date": "1881-02-08",
+      "end_date": "1885-03-11",
+      "filename": "d941131a6a8d.json"
+    },
+    "93ac99c79e65": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1881-02-01",
+      "end_date": "1881-03-09",
+      "filename": "93ac99c79e65.json"
+    },
+    "4332f8da7769": {
+      "county_id": "azs_mohave",
+      "name": "MOHAVE",
+      "start_date": "1883-03-06",
+      "end_date": "2000-12-31",
+      "filename": "4332f8da7769.json"
+    },
+    "fc74a92a74c6": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1883-03-06",
+      "end_date": "1889-03-20",
+      "filename": "fc74a92a74c6.json"
+    },
+    "6bdc5531a780": {
+      "county_id": "azs_graham",
+      "name": "GRAHAM",
+      "start_date": "1885-03-12",
+      "end_date": "1909-03-09",
+      "filename": "6bdc5531a780.json"
+    },
+    "9fc0a940fb79": {
+      "county_id": "azs_gila",
+      "name": "GILA",
+      "start_date": "1885-03-12",
+      "end_date": "1889-03-20",
+      "filename": "9fc0a940fb79.json"
+    },
+    "0846c7020114": {
+      "county_id": "azs_gila",
+      "name": "GILA",
+      "start_date": "1889-03-21",
+      "end_date": "1891-03-18",
+      "filename": "0846c7020114.json"
+    },
+    "319a65b042da": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1889-03-21",
+      "end_date": "1891-02-18",
+      "filename": "319a65b042da.json"
+    },
+    "a5f08f8c022b": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1891-03-19",
+      "end_date": "2000-12-31",
+      "filename": "a5f08f8c022b.json"
+    },
+    "35577ff28590": {
+      "county_id": "azs_gila",
+      "name": "GILA",
+      "start_date": "1891-03-19",
+      "end_date": "2000-12-31",
+      "filename": "35577ff28590.json"
+    },
+    "710b86a8cec2": {
+      "county_id": "azs_coconino",
+      "name": "COCONINO",
+      "start_date": "1891-02-19",
+      "end_date": "2000-12-31",
+      "filename": "710b86a8cec2.json"
+    },
+    "af1045d51c14": {
+      "county_id": "azs_yavapai",
+      "name": "YAVAPAI",
+      "start_date": "1891-02-19",
+      "end_date": "1891-03-18",
+      "filename": "af1045d51c14.json"
+    },
+    "e94445103e78": {
+      "county_id": "azs_navajo",
+      "name": "NAVAJO",
+      "start_date": "1895-03-21",
+      "end_date": "2000-12-31",
+      "filename": "e94445103e78.json"
+    },
+    "e20587c91933": {
+      "county_id": "azs_apache",
+      "name": "APACHE",
+      "start_date": "1895-03-21",
+      "end_date": "2000-12-31",
+      "filename": "e20587c91933.json"
+    },
+    "8f2b95914009": {
+      "county_id": "azs_pima",
+      "name": "PIMA",
+      "start_date": "1899-03-15",
+      "end_date": "2000-12-31",
+      "filename": "8f2b95914009.json"
+    },
+    "0fedadf73fd6": {
+      "county_id": "azs_santacruz",
+      "name": "SANTA CRUZ",
+      "start_date": "1899-03-15",
+      "end_date": "1968-03-13",
+      "filename": "0fedadf73fd6.json"
+    },
+    "0961c28bd8be": {
+      "county_id": "azs_greenlee",
+      "name": "GREENLEE",
+      "start_date": "1909-03-10",
+      "end_date": "2000-12-31",
+      "filename": "0961c28bd8be.json"
+    },
+    "57f06e5d79d9": {
+      "county_id": "azs_graham",
+      "name": "GRAHAM",
+      "start_date": "1909-03-10",
+      "end_date": "2000-12-31",
+      "filename": "57f06e5d79d9.json"
+    },
+    "02b421ee77e5": {
+      "county_id": "azs_cochise",
+      "name": "COCHISE",
+      "start_date": "1968-03-14",
+      "end_date": "2000-12-31",
+      "filename": "02b421ee77e5.json"
+    },
+    "b80a4020f1f2": {
+      "county_id": "azs_santacruz",
+      "name": "SANTA CRUZ",
+      "start_date": "1968-03-14",
+      "end_date": "2000-12-31",
+      "filename": "b80a4020f1f2.json"
+    },
+    "237ca2fb6b16": {
+      "county_id": "azs_lapaz",
+      "name": "LA PAZ",
+      "start_date": "1983-04-27",
+      "end_date": "2000-12-31",
+      "filename": "237ca2fb6b16.json"
+    },
+    "805fcc0577b1": {
+      "county_id": "azs_yuma",
+      "name": "YUMA",
+      "start_date": "1983-04-27",
+      "end_date": "2000-12-31",
+      "filename": "805fcc0577b1.json"
+    }
+  }
+}

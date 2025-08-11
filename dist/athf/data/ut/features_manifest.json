@@ -1,0 +1,1497 @@
+{
+  "state": "UT",
+  "total_features": 213,
+  "features": {
+    "01b340c46834": {
+      "county_id": "des",
+      "name": "Deseret",
+      "start_date": "1849-07-02",
+      "end_date": "1850-01-30",
+      "filename": "01b340c46834.json"
+    },
+    "d518bba06259": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1850-10-05",
+      "end_date": "1852-03-02",
+      "filename": "d518bba06259.json"
+    },
+    "97621f5e6cf8": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1850-12-03",
+      "end_date": "1852-03-02",
+      "filename": "97621f5e6cf8.json"
+    },
+    "9a98186d41ff": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1850-10-05",
+      "end_date": "1852-03-02",
+      "filename": "9a98186d41ff.json"
+    },
+    "a001a0521bd7": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1850-10-05",
+      "end_date": "1852-03-02",
+      "filename": "a001a0521bd7.json"
+    },
+    "8b5a92b357af": {
+      "county_id": "des",
+      "name": "Deseret",
+      "start_date": "1850-12-03",
+      "end_date": "1851-04-04",
+      "filename": "8b5a92b357af.json"
+    },
+    "6b125d132026": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1850-01-31",
+      "end_date": "1852-03-02",
+      "filename": "6b125d132026.json"
+    },
+    "e68fe3d2c8e7": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1850-01-31",
+      "end_date": "1852-03-02",
+      "filename": "e68fe3d2c8e7.json"
+    },
+    "9a35eae40b85": {
+      "county_id": "uts_tooele",
+      "name": "TUILLA",
+      "start_date": "1850-01-31",
+      "end_date": "1852-03-02",
+      "filename": "9a35eae40b85.json"
+    },
+    "6d7916c8a159": {
+      "county_id": "uts_iron",
+      "name": "LITTLE SALT LAKE",
+      "start_date": "1850-01-31",
+      "end_date": "1850-12-02",
+      "filename": "6d7916c8a159.json"
+    },
+    "26c80dcd4d49": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1850-01-31",
+      "end_date": "1850-10-04",
+      "filename": "26c80dcd4d49.json"
+    },
+    "c1d79ce6ff5e": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1850-01-31",
+      "end_date": "1850-10-04",
+      "filename": "c1d79ce6ff5e.json"
+    },
+    "b4abed4962ad": {
+      "county_id": "utt",
+      "name": "Utah Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1851-04-04",
+      "filename": "b4abed4962ad.json"
+    },
+    "540fb6ef1dc5": {
+      "county_id": "des",
+      "name": "Deseret",
+      "start_date": "1850-01-31",
+      "end_date": "1850-12-02",
+      "filename": "540fb6ef1dc5.json"
+    },
+    "66b6afaeccd4": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1851-10-04",
+      "end_date": "1852-03-02",
+      "filename": "66b6afaeccd4.json"
+    },
+    "712a485a95cc": {
+      "county_id": "utt",
+      "name": "Utah Terr.",
+      "start_date": "1851-10-04",
+      "end_date": "1852-03-02",
+      "filename": "712a485a95cc.json"
+    },
+    "c0ff2b548455": {
+      "county_id": "utt",
+      "name": "Utah Terr.",
+      "start_date": "1851-04-05",
+      "end_date": "1851-10-03",
+      "filename": "c0ff2b548455.json"
+    },
+    "b41d42803d9b": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1852-03-03",
+      "end_date": "1856-01-04",
+      "filename": "b41d42803d9b.json"
+    },
+    "7fb627bf07d5": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1852-03-03",
+      "end_date": "1855-01-09",
+      "filename": "7fb627bf07d5.json"
+    },
+    "59d8e07facfc": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "59d8e07facfc.json"
+    },
+    "78e4e0f3c43b": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "78e4e0f3c43b.json"
+    },
+    "87360f18e1c4": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "87360f18e1c4.json"
+    },
+    "75bd8e400362": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "75bd8e400362.json"
+    },
+    "9caaaa11c3e7": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "9caaaa11c3e7.json"
+    },
+    "f180785e3853": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "f180785e3853.json"
+    },
+    "d6159e52600d": {
+      "county_id": "utt_desert",
+      "name": "DESERT (Ut Ter, ext)",
+      "start_date": "1852-03-03",
+      "end_date": "1856-01-04",
+      "filename": "d6159e52600d.json"
+    },
+    "044f606af01c": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "044f606af01c.json"
+    },
+    "ae69f2649ddd": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "ae69f2649ddd.json"
+    },
+    "707910ebd133": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "707910ebd133.json"
+    },
+    "86a13a2caddc": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1854-01-13",
+      "end_date": "1861-02-27",
+      "filename": "86a13a2caddc.json"
+    },
+    "755e68c7e00d": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1854-01-17",
+      "end_date": "1861-01-17",
+      "filename": "755e68c7e00d.json"
+    },
+    "8bf8acf3d0ee": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "8bf8acf3d0ee.json"
+    },
+    "f8f6c000eed7": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1854-01-13",
+      "end_date": "1856-01-04",
+      "filename": "f8f6c000eed7.json"
+    },
+    "677b4a546819": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1854-01-13",
+      "end_date": "1856-01-04",
+      "filename": "677b4a546819.json"
+    },
+    "e16ce6c53dc9": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1854-01-17",
+      "end_date": "1855-01-17",
+      "filename": "e16ce6c53dc9.json"
+    },
+    "2f09b099e253": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1854-01-13",
+      "end_date": "1855-01-17",
+      "filename": "2f09b099e253.json"
+    },
+    "3ed29834a32f": {
+      "county_id": "utt_carson",
+      "name": "CARSON (Ut Ter, ext)",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "3ed29834a32f.json"
+    },
+    "5f169c61d434": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1854-01-13",
+      "end_date": "1855-01-09",
+      "filename": "5f169c61d434.json"
+    },
+    "e0992b3b4ddd": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "e0992b3b4ddd.json"
+    },
+    "2b739a9bd9ef": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1854-01-13",
+      "end_date": "1855-01-09",
+      "filename": "2b739a9bd9ef.json"
+    },
+    "9e88541a07cd": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1855-01-18",
+      "end_date": "1861-02-27",
+      "filename": "9e88541a07cd.json"
+    },
+    "7e37323b7353": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1855-01-18",
+      "end_date": "1856-01-04",
+      "filename": "7e37323b7353.json"
+    },
+    "b658b9f6d760": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1855-01-10",
+      "end_date": "1856-01-04",
+      "filename": "b658b9f6d760.json"
+    },
+    "9d2a821e7b13": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1855-01-10",
+      "end_date": "1862-01-16",
+      "filename": "9d2a821e7b13.json"
+    },
+    "611c5b0dcce7": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1855-01-10",
+      "end_date": "1862-01-16",
+      "filename": "611c5b0dcce7.json"
+    },
+    "08cea81f3085": {
+      "county_id": "utt_shambip",
+      "name": "SHAMBIP (ext)",
+      "start_date": "1856-01-12",
+      "end_date": "1861-01-17",
+      "filename": "08cea81f3085.json"
+    },
+    "a8643f1df6b1": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1856-01-12",
+      "end_date": "1861-01-17",
+      "filename": "a8643f1df6b1.json"
+    },
+    "ec2d8d7ec0af": {
+      "county_id": "utt_cedar",
+      "name": "CEDAR (Ut Ter, ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "ec2d8d7ec0af.json"
+    },
+    "b1fafa6b3f1c": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "b1fafa6b3f1c.json"
+    },
+    "b7f29b0cb50f": {
+      "county_id": "uts_cache",
+      "name": "CACHE",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "b7f29b0cb50f.json"
+    },
+    "4d914ea607ad": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "4d914ea607ad.json"
+    },
+    "18f43ddb46a6": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "18f43ddb46a6.json"
+    },
+    "462e5e1d3cb2": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "462e5e1d3cb2.json"
+    },
+    "a1e6fa79a2b5": {
+      "county_id": "utt_malad",
+      "name": "MALAD (Ut Ter, ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1862-01-16",
+      "filename": "a1e6fa79a2b5.json"
+    },
+    "1e4aa29740e6": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "1e4aa29740e6.json"
+    },
+    "6846d5d06123": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "6846d5d06123.json"
+    },
+    "d58a3f99f69d": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "d58a3f99f69d.json"
+    },
+    "f5cccc3a1ae6": {
+      "county_id": "utt_humboldt",
+      "name": "HUMBOLDT (ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "f5cccc3a1ae6.json"
+    },
+    "eb4a58868ec4": {
+      "county_id": "utt_carson",
+      "name": "CARSON (Ut Ter, ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-03-01",
+      "filename": "eb4a58868ec4.json"
+    },
+    "2cd4f8485cb8": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "2cd4f8485cb8.json"
+    },
+    "a019b479d2d4": {
+      "county_id": "utt_greasewood",
+      "name": "GREASEWOOD (ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "a019b479d2d4.json"
+    },
+    "f2e084150977": {
+      "county_id": "utt_stmarys",
+      "name": "ST. MARY'S (ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "f2e084150977.json"
+    },
+    "7b811498bc72": {
+      "county_id": "utt_desert",
+      "name": "DESERT (Ut Ter, ext)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "7b811498bc72.json"
+    },
+    "e5ff6527b759": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1856-01-05",
+      "end_date": "1856-01-11",
+      "filename": "e5ff6527b759.json"
+    },
+    "aca04e60d609": {
+      "county_id": "jet_mountain",
+      "name": "MOUNTAIN (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "aca04e60d609.json"
+    },
+    "f6b770de5896": {
+      "county_id": "jet_saratoga",
+      "name": "SARATOGA (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "f6b770de5896.json"
+    },
+    "64fdc2f82780": {
+      "county_id": "jet_part",
+      "name": "Jefferson Terr.",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "64fdc2f82780.json"
+    },
+    "f23181827f03": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "f23181827f03.json"
+    },
+    "510cc413bc17": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "510cc413bc17.json"
+    },
+    "79d0c7380021": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "79d0c7380021.json"
+    },
+    "c4f8ed97d4e9": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1861-02-28",
+      "end_date": "1862-01-16",
+      "filename": "c4f8ed97d4e9.json"
+    },
+    "fea5d778f45f": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1861-02-28",
+      "end_date": "1861-03-01",
+      "filename": "fea5d778f45f.json"
+    },
+    "74feda7b82da": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1861-03-02",
+      "end_date": "1862-01-16",
+      "filename": "74feda7b82da.json"
+    },
+    "34664c384eb2": {
+      "county_id": "utt_stmarys",
+      "name": "ST. MARY'S (ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "34664c384eb2.json"
+    },
+    "f4c9658f7f8b": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "f4c9658f7f8b.json"
+    },
+    "942ad19e014d": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "942ad19e014d.json"
+    },
+    "f94db830692a": {
+      "county_id": "utt_shambip",
+      "name": "SHAMBIP (ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "f94db830692a.json"
+    },
+    "09b795b13fec": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "09b795b13fec.json"
+    },
+    "f70cf778525a": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "f70cf778525a.json"
+    },
+    "fa4d8d9ab122": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "fa4d8d9ab122.json"
+    },
+    "213444882ac9": {
+      "county_id": "utt_humboldt",
+      "name": "HUMBOLDT (ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-03-01",
+      "filename": "213444882ac9.json"
+    },
+    "925952fc8c49": {
+      "county_id": "utt_greasewood",
+      "name": "GREASEWOOD (ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "925952fc8c49.json"
+    },
+    "4946077f8deb": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "4946077f8deb.json"
+    },
+    "d9e8f6800e29": {
+      "county_id": "utt_desert",
+      "name": "DESERT (Ut Ter, ext)",
+      "start_date": "1861-01-18",
+      "end_date": "1862-01-16",
+      "filename": "d9e8f6800e29.json"
+    },
+    "57685011a3ab": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1862-07-14",
+      "end_date": "1866-01-09",
+      "filename": "57685011a3ab.json"
+    },
+    "22a6cdf50820": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1862-07-14",
+      "end_date": "1866-01-09",
+      "filename": "22a6cdf50820.json"
+    },
+    "c33c3d7193eb": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1862-07-14",
+      "end_date": "1865-01-15",
+      "filename": "c33c3d7193eb.json"
+    },
+    "a76e4c16dae8": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1862-07-14",
+      "end_date": "1864-01-15",
+      "filename": "a76e4c16dae8.json"
+    },
+    "0bcdcba53e8d": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER",
+      "start_date": "1862-07-14",
+      "end_date": "1866-05-04",
+      "filename": "0bcdcba53e8d.json"
+    },
+    "7d66198c07ba": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1862-07-14",
+      "end_date": "1866-05-04",
+      "filename": "7d66198c07ba.json"
+    },
+    "993d10437cdb": {
+      "county_id": "uts_morgan",
+      "name": "MORGAN",
+      "start_date": "1862-01-17",
+      "end_date": "2003-12-31",
+      "filename": "993d10437cdb.json"
+    },
+    "b0ef56f31ace": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1862-01-17",
+      "end_date": "1880-02-17",
+      "filename": "b0ef56f31ace.json"
+    },
+    "182b047a0887": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1862-01-17",
+      "end_date": "1880-02-17",
+      "filename": "182b047a0887.json"
+    },
+    "e585cedfa334": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1862-01-17",
+      "end_date": "1880-02-17",
+      "filename": "e585cedfa334.json"
+    },
+    "ee9794614b61": {
+      "county_id": "uts_wasatch",
+      "name": "WASATCH",
+      "start_date": "1862-01-17",
+      "end_date": "1880-02-17",
+      "filename": "ee9794614b61.json"
+    },
+    "1c700762b183": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1862-01-17",
+      "end_date": "1868-07-24",
+      "filename": "1c700762b183.json"
+    },
+    "e9fffa82bad0": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1862-01-17",
+      "end_date": "1868-07-24",
+      "filename": "e9fffa82bad0.json"
+    },
+    "58607f012eae": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1862-01-17",
+      "end_date": "1866-01-09",
+      "filename": "58607f012eae.json"
+    },
+    "89d8775ac1a5": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1862-01-17",
+      "end_date": "1865-01-15",
+      "filename": "89d8775ac1a5.json"
+    },
+    "ff190edfd09e": {
+      "county_id": "uts_cache",
+      "name": "CACHE",
+      "start_date": "1862-01-17",
+      "end_date": "1864-01-15",
+      "filename": "ff190edfd09e.json"
+    },
+    "9c93a96b8828": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "9c93a96b8828.json"
+    },
+    "80b60b7a3ca6": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "80b60b7a3ca6.json"
+    },
+    "78959c37f4e5": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "78959c37f4e5.json"
+    },
+    "d376987d8ba7": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "d376987d8ba7.json"
+    },
+    "45b30fa06460": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE",
+      "start_date": "1862-01-17",
+      "end_date": "1868-01-28",
+      "filename": "45b30fa06460.json"
+    },
+    "27d881222e88": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "27d881222e88.json"
+    },
+    "5711bbc4f245": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1862-01-17",
+      "end_date": "1862-07-13",
+      "filename": "5711bbc4f245.json"
+    },
+    "0f1d6a986561": {
+      "county_id": "uts_cache",
+      "name": "CACHE",
+      "start_date": "1864-01-16",
+      "end_date": "2003-12-31",
+      "filename": "0f1d6a986561.json"
+    },
+    "e14818b4d21b": {
+      "county_id": "uts_kane",
+      "name": "KANE",
+      "start_date": "1864-01-16",
+      "end_date": "1869-07-31",
+      "filename": "e14818b4d21b.json"
+    },
+    "bc9c278382ba": {
+      "county_id": "uts_rich",
+      "name": "RICHLAND",
+      "start_date": "1864-01-16",
+      "end_date": "1868-01-28",
+      "filename": "bc9c278382ba.json"
+    },
+    "155b3aa0be96": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1880-02-18",
+      "end_date": "2003-12-31",
+      "filename": "155b3aa0be96.json"
+    },
+    "f207a0150764": {
+      "county_id": "uts_weber",
+      "name": "WEBER",
+      "start_date": "1880-02-18",
+      "end_date": "2003-12-31",
+      "filename": "f207a0150764.json"
+    },
+    "fba5939228d9": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1880-02-18",
+      "end_date": "1917-03-04",
+      "filename": "fba5939228d9.json"
+    },
+    "3c7c62cca806": {
+      "county_id": "uts_uintah",
+      "name": "UINTAH",
+      "start_date": "1880-02-18",
+      "end_date": "1892-02-26",
+      "filename": "3c7c62cca806.json"
+    },
+    "ff3fedc28376": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1880-02-18",
+      "end_date": "1888-03-05",
+      "filename": "ff3fedc28376.json"
+    },
+    "99a137be5a16": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1880-02-18",
+      "end_date": "1884-03-12",
+      "filename": "99a137be5a16.json"
+    },
+    "3506bbc0c966": {
+      "county_id": "uts_wasatch",
+      "name": "WASATCH",
+      "start_date": "1880-02-18",
+      "end_date": "1884-03-12",
+      "filename": "3506bbc0c966.json"
+    },
+    "5f03ea99e1bf": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1880-02-12",
+      "end_date": "1880-02-16",
+      "filename": "5f03ea99e1bf.json"
+    },
+    "8960f19ff85b": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1880-02-12",
+      "end_date": "1880-02-16",
+      "filename": "8960f19ff85b.json"
+    },
+    "d570a74718ae": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1864-01-16",
+      "end_date": "1866-01-09",
+      "filename": "d570a74718ae.json"
+    },
+    "159b292d54a1": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1865-01-16",
+      "end_date": "1866-05-04",
+      "filename": "159b292d54a1.json"
+    },
+    "e30d3b6149b6": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1865-01-16",
+      "end_date": "1866-01-09",
+      "filename": "e30d3b6149b6.json"
+    },
+    "2532742d6774": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1865-01-16",
+      "end_date": "1866-01-09",
+      "filename": "2532742d6774.json"
+    },
+    "1bf9a833fbd9": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1865-01-16",
+      "end_date": "1866-01-09",
+      "filename": "1bf9a833fbd9.json"
+    },
+    "d872cc3f06fc": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER",
+      "start_date": "1866-05-05",
+      "end_date": "2003-12-31",
+      "filename": "d872cc3f06fc.json"
+    },
+    "456cd8aa095a": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1866-05-05",
+      "end_date": "1888-03-05",
+      "filename": "456cd8aa095a.json"
+    },
+    "9df31918d821": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER",
+      "start_date": "1866-05-05",
+      "end_date": "1880-02-17",
+      "filename": "9df31918d821.json"
+    },
+    "3e20051f52af": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1866-05-05",
+      "end_date": "1880-02-16",
+      "filename": "3e20051f52af.json"
+    },
+    "814d07cf1e76": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1866-05-05",
+      "end_date": "1870-02-17",
+      "filename": "814d07cf1e76.json"
+    },
+    "39b7cf473ebd": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1866-05-05",
+      "end_date": "1869-02-17",
+      "filename": "39b7cf473ebd.json"
+    },
+    "b8bed9c09cab": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1866-01-10",
+      "end_date": "1880-02-11",
+      "filename": "b8bed9c09cab.json"
+    },
+    "3fa7dae7c627": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1866-01-10",
+      "end_date": "1880-02-11",
+      "filename": "3fa7dae7c627.json"
+    },
+    "b271bc7d98f9": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1866-01-10",
+      "end_date": "1880-02-11",
+      "filename": "b271bc7d98f9.json"
+    },
+    "cb95670533af": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1866-01-10",
+      "end_date": "1870-02-17",
+      "filename": "cb95670533af.json"
+    },
+    "5c5ef5e65bd6": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "5c5ef5e65bd6.json"
+    },
+    "d382fcdcc409": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "d382fcdcc409.json"
+    },
+    "d3abb8d3f81a": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1866-01-10",
+      "end_date": "1866-05-04",
+      "filename": "d3abb8d3f81a.json"
+    },
+    "225c5d26b3d0": {
+      "county_id": "uts_rich",
+      "name": "RICH",
+      "start_date": "1868-07-25",
+      "end_date": "1872-02-15",
+      "filename": "225c5d26b3d0.json"
+    },
+    "6db7ab24c95c": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1868-07-25",
+      "end_date": "1872-02-15",
+      "filename": "6db7ab24c95c.json"
+    },
+    "311737d6dac3": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (ext)",
+      "start_date": "1868-07-25",
+      "end_date": "1872-02-15",
+      "filename": "311737d6dac3.json"
+    },
+    "161aff89ca3e": {
+      "county_id": "uts_saltlake",
+      "name": "SALT LAKE",
+      "start_date": "1868-01-29",
+      "end_date": "1880-02-17",
+      "filename": "161aff89ca3e.json"
+    },
+    "ffc3ea6b2f44": {
+      "county_id": "uts_rich",
+      "name": "RICH",
+      "start_date": "1868-01-29",
+      "end_date": "1868-07-24",
+      "filename": "ffc3ea6b2f44.json"
+    },
+    "095bce61fd8f": {
+      "county_id": "uts_kane",
+      "name": "KANE",
+      "start_date": "1869-08-01",
+      "end_date": "1880-02-16",
+      "filename": "095bce61fd8f.json"
+    },
+    "bd5ac42efa12": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1869-08-01",
+      "end_date": "1872-02-15",
+      "filename": "bd5ac42efa12.json"
+    },
+    "e7c326dbe589": {
+      "county_id": "utt_riovirgen",
+      "name": "RIO VIRGEN (ext)",
+      "start_date": "1869-02-18",
+      "end_date": "1872-02-15",
+      "filename": "e7c326dbe589.json"
+    },
+    "fae1062f1111": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1869-02-18",
+      "end_date": "1869-07-31",
+      "filename": "fae1062f1111.json"
+    },
+    "781af447e863": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1870-02-18",
+      "end_date": "1888-03-05",
+      "filename": "781af447e863.json"
+    },
+    "fc72e06140d7": {
+      "county_id": "uts_tooele",
+      "name": "TOOELE",
+      "start_date": "1870-02-18",
+      "end_date": "1880-02-17",
+      "filename": "fc72e06140d7.json"
+    },
+    "e3a4e68b2c9f": {
+      "county_id": "uts_rich",
+      "name": "RICH",
+      "start_date": "1872-02-16",
+      "end_date": "1917-05-07",
+      "filename": "e3a4e68b2c9f.json"
+    },
+    "2fca5a13d3f4": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1872-02-16",
+      "end_date": "1882-12-31",
+      "filename": "2fca5a13d3f4.json"
+    },
+    "0ca4ec7d917d": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1872-02-16",
+      "end_date": "1880-02-17",
+      "filename": "0ca4ec7d917d.json"
+    },
+    "fb6659056d6c": {
+      "county_id": "uts_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1880-02-17",
+      "end_date": "2003-12-31",
+      "filename": "fb6659056d6c.json"
+    },
+    "2820ae20da12": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1880-02-17",
+      "end_date": "1892-03-09",
+      "filename": "2820ae20da12.json"
+    },
+    "53a862c5491c": {
+      "county_id": "uts_emery",
+      "name": "EMERY",
+      "start_date": "1880-02-17",
+      "end_date": "1890-03-12",
+      "filename": "53a862c5491c.json"
+    },
+    "4c2497d5ac59": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1880-02-17",
+      "end_date": "1890-03-09",
+      "filename": "4c2497d5ac59.json"
+    },
+    "ab37e576baf0": {
+      "county_id": "uts_kane",
+      "name": "KANE",
+      "start_date": "1880-02-17",
+      "end_date": "1882-12-31",
+      "filename": "ab37e576baf0.json"
+    },
+    "9893a6db4cbf": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1880-02-17",
+      "end_date": "1882-03-08",
+      "filename": "9893a6db4cbf.json"
+    },
+    "0670a8b6bd3c": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1880-02-17",
+      "end_date": "1880-02-17",
+      "filename": "0670a8b6bd3c.json"
+    },
+    "8cf7802e8aeb": {
+      "county_id": "uts_boxelder",
+      "name": "BOX ELDER",
+      "start_date": "1880-02-18",
+      "end_date": "2003-12-31",
+      "filename": "8cf7802e8aeb.json"
+    },
+    "27fe2325566e": {
+      "county_id": "uts_davis",
+      "name": "DAVIS",
+      "start_date": "1880-02-18",
+      "end_date": "2003-12-31",
+      "filename": "27fe2325566e.json"
+    },
+    "dd46e78b8e0d": {
+      "county_id": "uts_saltlake",
+      "name": "SALT LAKE",
+      "start_date": "1880-02-18",
+      "end_date": "2003-12-31",
+      "filename": "dd46e78b8e0d.json"
+    },
+    "ca60c13ab409": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1880-02-12",
+      "end_date": "1880-02-16",
+      "filename": "ca60c13ab409.json"
+    },
+    "d272e95df59d": {
+      "county_id": "uts_emery",
+      "name": "EMERY",
+      "start_date": "1880-02-12",
+      "end_date": "1880-02-16",
+      "filename": "d272e95df59d.json"
+    },
+    "5fb01f4af934": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1882-03-09",
+      "end_date": "1882-12-31",
+      "filename": "5fb01f4af934.json"
+    },
+    "0c5a9997592b": {
+      "county_id": "uts_garfield",
+      "name": "GARFIELD",
+      "start_date": "1882-03-09",
+      "end_date": "1884-03-12",
+      "filename": "0c5a9997592b.json"
+    },
+    "0e60dc2763d7": {
+      "county_id": "uts_kane",
+      "name": "KANE",
+      "start_date": "1883-01-01",
+      "end_date": "2003-12-31",
+      "filename": "0e60dc2763d7.json"
+    },
+    "91aaffdf4801": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1883-01-01",
+      "end_date": "1892-03-09",
+      "filename": "91aaffdf4801.json"
+    },
+    "4c593aa9d092": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1883-01-01",
+      "end_date": "1884-03-12",
+      "filename": "4c593aa9d092.json"
+    },
+    "d18054020204": {
+      "county_id": "uts_garfield",
+      "name": "GARFIELD",
+      "start_date": "1884-03-13",
+      "end_date": "2003-12-31",
+      "filename": "d18054020204.json"
+    },
+    "2db94f4a639b": {
+      "county_id": "uts_utah",
+      "name": "UTAH",
+      "start_date": "1884-03-13",
+      "end_date": "2003-12-31",
+      "filename": "2db94f4a639b.json"
+    },
+    "f05b3bad62e7": {
+      "county_id": "uts_wasatch",
+      "name": "WASATCH",
+      "start_date": "1884-03-13",
+      "end_date": "1915-01-03",
+      "filename": "f05b3bad62e7.json"
+    },
+    "b08fe2b13799": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1884-03-13",
+      "end_date": "1892-03-09",
+      "filename": "b08fe2b13799.json"
+    },
+    "7006c092f0b2": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1888-03-06",
+      "end_date": "1919-03-07",
+      "filename": "7006c092f0b2.json"
+    },
+    "dff89afe72e0": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1888-03-06",
+      "end_date": "1913-03-18",
+      "filename": "dff89afe72e0.json"
+    },
+    "46471e1891c0": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1888-03-06",
+      "end_date": "1890-03-09",
+      "filename": "46471e1891c0.json"
+    },
+    "32d917c779a7": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1890-03-13",
+      "end_date": "1913-03-18",
+      "filename": "32d917c779a7.json"
+    },
+    "01f0df889dbe": {
+      "county_id": "uts_emery",
+      "name": "EMERY",
+      "start_date": "1890-03-13",
+      "end_date": "1894-03-07",
+      "filename": "01f0df889dbe.json"
+    },
+    "398e32b33652": {
+      "county_id": "uts_grand",
+      "name": "GRAND",
+      "start_date": "1890-03-13",
+      "end_date": "1892-02-26",
+      "filename": "398e32b33652.json"
+    },
+    "67fa7be3bded": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1890-03-10",
+      "end_date": "1921-03-09",
+      "filename": "67fa7be3bded.json"
+    },
+    "2e774ac6bb08": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1890-03-10",
+      "end_date": "1890-03-12",
+      "filename": "2e774ac6bb08.json"
+    },
+    "0bfd8fc38ca4": {
+      "county_id": "uts_grand",
+      "name": "GRAND",
+      "start_date": "1892-02-27",
+      "end_date": "2002-12-31",
+      "filename": "0bfd8fc38ca4.json"
+    },
+    "c8505b1c35bc": {
+      "county_id": "uts_iron",
+      "name": "IRON",
+      "start_date": "1892-03-10",
+      "end_date": "2003-12-31",
+      "filename": "c8505b1c35bc.json"
+    },
+    "ff0fad9e9669": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON",
+      "start_date": "1892-03-10",
+      "end_date": "2003-12-31",
+      "filename": "ff0fad9e9669.json"
+    },
+    "62613dff3a04": {
+      "county_id": "uts_wayne",
+      "name": "WAYNE",
+      "start_date": "1892-03-10",
+      "end_date": "2003-12-31",
+      "filename": "62613dff3a04.json"
+    },
+    "9a60fa4c14ae": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1892-03-10",
+      "end_date": "1931-03-22",
+      "filename": "9a60fa4c14ae.json"
+    },
+    "14463b660e51": {
+      "county_id": "uts_uintah",
+      "name": "UINTAH",
+      "start_date": "1892-02-27",
+      "end_date": "1917-03-04",
+      "filename": "14463b660e51.json"
+    },
+    "ae57564d88fd": {
+      "county_id": "uts_carbon",
+      "name": "CARBON",
+      "start_date": "1894-03-08",
+      "end_date": "2003-12-31",
+      "filename": "ae57564d88fd.json"
+    },
+    "d675ab1f333c": {
+      "county_id": "uts_emery",
+      "name": "EMERY",
+      "start_date": "1894-03-08",
+      "end_date": "2002-12-31",
+      "filename": "d675ab1f333c.json"
+    },
+    "68d0d32d2fd0": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1913-03-19",
+      "end_date": "1919-03-07",
+      "filename": "68d0d32d2fd0.json"
+    },
+    "b8db5031bca3": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1913-03-19",
+      "end_date": "1919-03-07",
+      "filename": "b8db5031bca3.json"
+    },
+    "2f20b5cc4bbf": {
+      "county_id": "uts_wasatch",
+      "name": "WASATCH",
+      "start_date": "1915-01-04",
+      "end_date": "2003-12-31",
+      "filename": "2f20b5cc4bbf.json"
+    },
+    "9b4b38be3865": {
+      "county_id": "uts_duchesne",
+      "name": "DUCHESNE",
+      "start_date": "1915-01-04",
+      "end_date": "1917-03-04",
+      "filename": "9b4b38be3865.json"
+    },
+    "ad82a96d8d27": {
+      "county_id": "uts_rich",
+      "name": "RICH",
+      "start_date": "1917-05-08",
+      "end_date": "1921-01-18",
+      "filename": "ad82a96d8d27.json"
+    },
+    "ef24411d0032": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1917-05-08",
+      "end_date": "1918-01-06",
+      "filename": "ef24411d0032.json"
+    },
+    "58e22ecef300": {
+      "county_id": "uts_duchesne",
+      "name": "DUCHESNE",
+      "start_date": "1917-03-05",
+      "end_date": "2003-12-31",
+      "filename": "58e22ecef300.json"
+    },
+    "82c2da06ba52": {
+      "county_id": "uts_uintah",
+      "name": "UINTAH",
+      "start_date": "1917-03-05",
+      "end_date": "1918-01-06",
+      "filename": "82c2da06ba52.json"
+    },
+    "490a39945d96": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1917-03-05",
+      "end_date": "1917-05-07",
+      "filename": "490a39945d96.json"
+    },
+    "cfdcfddd9ac7": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1918-01-07",
+      "end_date": "1921-01-18",
+      "filename": "cfdcfddd9ac7.json"
+    },
+    "cc6f86d89f42": {
+      "county_id": "uts_uintah",
+      "name": "UINTAH",
+      "start_date": "1918-01-07",
+      "end_date": "1919-12-30",
+      "filename": "cc6f86d89f42.json"
+    },
+    "593413107f2f": {
+      "county_id": "uts_daggett",
+      "name": "DAGGETT",
+      "start_date": "1918-01-07",
+      "end_date": "1919-12-30",
+      "filename": "593413107f2f.json"
+    },
+    "fb0e49a24693": {
+      "county_id": "uts_daggett",
+      "name": "DAGGETT",
+      "start_date": "1919-12-31",
+      "end_date": "2003-12-31",
+      "filename": "fb0e49a24693.json"
+    },
+    "6cd824434d26": {
+      "county_id": "uts_juab",
+      "name": "JUAB",
+      "start_date": "1919-03-08",
+      "end_date": "2003-12-31",
+      "filename": "6cd824434d26.json"
+    },
+    "28714152047c": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE",
+      "start_date": "1919-03-08",
+      "end_date": "2003-12-31",
+      "filename": "28714152047c.json"
+    },
+    "dcb1ba8be4f8": {
+      "county_id": "uts_uintah",
+      "name": "UINTAH",
+      "start_date": "1919-12-31",
+      "end_date": "2003-12-31",
+      "filename": "dcb1ba8be4f8.json"
+    },
+    "1b6866159cec": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1919-03-08",
+      "end_date": "1921-03-09",
+      "filename": "1b6866159cec.json"
+    },
+    "db01e6620558": {
+      "county_id": "uts_rich",
+      "name": "RICH",
+      "start_date": "1921-01-19",
+      "end_date": "2003-12-31",
+      "filename": "db01e6620558.json"
+    },
+    "63884d123982": {
+      "county_id": "uts_summit",
+      "name": "SUMMIT",
+      "start_date": "1921-01-19",
+      "end_date": "2003-12-31",
+      "filename": "63884d123982.json"
+    },
+    "ecdf5b043b93": {
+      "county_id": "uts_millard",
+      "name": "MILLARD",
+      "start_date": "1921-03-10",
+      "end_date": "2003-12-31",
+      "filename": "ecdf5b043b93.json"
+    },
+    "39aa6ecbe61e": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1921-03-10",
+      "end_date": "1931-03-22",
+      "filename": "39aa6ecbe61e.json"
+    },
+    "e33393c89f82": {
+      "county_id": "uts_sevier",
+      "name": "SEVIER",
+      "start_date": "1931-03-23",
+      "end_date": "2003-12-31",
+      "filename": "e33393c89f82.json"
+    },
+    "87befd701561": {
+      "county_id": "uts_piute",
+      "name": "PIUTE",
+      "start_date": "1931-03-23",
+      "end_date": "2003-12-31",
+      "filename": "87befd701561.json"
+    },
+    "09b3ae80a090": {
+      "county_id": "uts_emery",
+      "name": "EMERY",
+      "start_date": "2003-01-01",
+      "end_date": "2003-12-31",
+      "filename": "09b3ae80a090.json"
+    },
+    "ce63626771de": {
+      "county_id": "uts_grand",
+      "name": "GRAND",
+      "start_date": "2003-01-01",
+      "end_date": "2003-12-31",
+      "filename": "ce63626771de.json"
+    }
+  }
+}

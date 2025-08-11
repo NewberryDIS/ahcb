@@ -1,0 +1,2841 @@
+{
+  "state": "FL",
+  "total_features": 405,
+  "features": {
+    "63b3a304cc92": {
+      "county_id": "bef",
+      "name": "British East Florida",
+      "start_date": "1763-10-07",
+      "end_date": "1783-09-02",
+      "filename": "63b3a304cc92.json"
+    },
+    "fc9d2547a0a0": {
+      "county_id": "bwf",
+      "name": "British West Florida",
+      "start_date": "1763-10-07",
+      "end_date": "1764-07-30",
+      "filename": "fc9d2547a0a0.json"
+    },
+    "e2dc5ec791d7": {
+      "county_id": "bwf",
+      "name": "British West Florida",
+      "start_date": "1764-07-31",
+      "end_date": "1783-09-02",
+      "filename": "e2dc5ec791d7.json"
+    },
+    "57cdf444df6e": {
+      "county_id": "swf",
+      "name": "Spanish West Florida",
+      "start_date": "1783-09-03",
+      "end_date": "1813-04-14",
+      "filename": "57cdf444df6e.json"
+    },
+    "0d90adc597b8": {
+      "county_id": "sef",
+      "name": "Spanish East Florida",
+      "start_date": "1783-09-03",
+      "end_date": "1819-02-21",
+      "filename": "0d90adc597b8.json"
+    },
+    "b3bdfa587f5d": {
+      "county_id": "fls_disputed",
+      "name": "Disputed Area",
+      "start_date": "1804-03-26",
+      "end_date": "1813-04-14",
+      "filename": "b3bdfa587f5d.json"
+    },
+    "1981915d246a": {
+      "county_id": "swf",
+      "name": "Spanish West Florida",
+      "start_date": "1813-04-15",
+      "end_date": "1819-02-21",
+      "filename": "1981915d246a.json"
+    },
+    "174bbda55fdc": {
+      "county_id": "sef",
+      "name": "Spanish East Florida",
+      "start_date": "1819-02-22",
+      "end_date": "1821-07-20",
+      "filename": "174bbda55fdc.json"
+    },
+    "a999aa5fc44d": {
+      "county_id": "swf",
+      "name": "Spanish West Florida",
+      "start_date": "1819-02-22",
+      "end_date": "1821-07-20",
+      "filename": "a999aa5fc44d.json"
+    },
+    "8b1343fd98d3": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1821-07-21",
+      "end_date": "1822-08-11",
+      "filename": "8b1343fd98d3.json"
+    },
+    "8b3ef39190e9": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1821-07-21",
+      "end_date": "1822-08-11",
+      "filename": "8b3ef39190e9.json"
+    },
+    "7b1c9819c12f": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1822-08-12",
+      "end_date": "1824-12-28",
+      "filename": "7b1c9819c12f.json"
+    },
+    "b822f84b7f14": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1822-08-12",
+      "end_date": "1823-06-23",
+      "filename": "b822f84b7f14.json"
+    },
+    "2bf60a7afe99": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1822-08-12",
+      "end_date": "1823-06-23",
+      "filename": "2bf60a7afe99.json"
+    },
+    "005cd1990bf9": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1822-08-12",
+      "end_date": "1823-06-23",
+      "filename": "005cd1990bf9.json"
+    },
+    "d3af66606633": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1823-07-03",
+      "end_date": "1836-02-03",
+      "filename": "d3af66606633.json"
+    },
+    "535f23359f5c": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1823-07-03",
+      "end_date": "1824-12-28",
+      "filename": "535f23359f5c.json"
+    },
+    "95e19eeba694": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1823-06-24",
+      "end_date": "1824-12-28",
+      "filename": "95e19eeba694.json"
+    },
+    "89b73c9bbde4": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1823-06-24",
+      "end_date": "1824-12-28",
+      "filename": "89b73c9bbde4.json"
+    },
+    "c2693b086fca": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1823-06-24",
+      "end_date": "1823-07-02",
+      "filename": "c2693b086fca.json"
+    },
+    "1244ebd30404": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1823-06-24",
+      "end_date": "1824-12-28",
+      "filename": "1244ebd30404.json"
+    },
+    "34f9d08b78eb": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1824-12-29",
+      "end_date": "1832-02-07",
+      "filename": "34f9d08b78eb.json"
+    },
+    "f58fba12c3c4": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1824-12-29",
+      "end_date": "1827-01-19",
+      "filename": "f58fba12c3c4.json"
+    },
+    "effd94de6162": {
+      "county_id": "fls_orange",
+      "name": "MOSQUITO",
+      "start_date": "1824-12-29",
+      "end_date": "1828-01-18",
+      "filename": "effd94de6162.json"
+    },
+    "2a732292b7af": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1824-12-29",
+      "end_date": "1828-01-18",
+      "filename": "2a732292b7af.json"
+    },
+    "8a94a1a1596d": {
+      "county_id": "fls_indianlands",
+      "name": "Indian lands",
+      "start_date": "1824-12-29",
+      "end_date": "1828-01-18",
+      "filename": "8a94a1a1596d.json"
+    },
+    "4f199f790e24": {
+      "county_id": "fls_nassau",
+      "name": "NASSAU",
+      "start_date": "1824-12-29",
+      "end_date": "1826-12-29",
+      "filename": "4f199f790e24.json"
+    },
+    "d24984ce27ea": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1824-12-29",
+      "end_date": "1826-12-29",
+      "filename": "d24984ce27ea.json"
+    },
+    "d0b401e56d2e": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1824-12-29",
+      "end_date": "1825-12-08",
+      "filename": "d0b401e56d2e.json"
+    },
+    "0f67a9d44951": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1824-12-29",
+      "end_date": "1825-12-08",
+      "filename": "0f67a9d44951.json"
+    },
+    "2d4268f0dff4": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1824-12-29",
+      "end_date": "1825-12-08",
+      "filename": "2d4268f0dff4.json"
+    },
+    "28814ebe783e": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1824-12-29",
+      "end_date": "1844-03-13",
+      "filename": "28814ebe783e.json"
+    },
+    "c8345b4c04e5": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1825-12-09",
+      "end_date": "1848-01-07",
+      "filename": "c8345b4c04e5.json"
+    },
+    "7dd4c7856dbd": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1825-12-09",
+      "end_date": "1842-02-17",
+      "filename": "7dd4c7856dbd.json"
+    },
+    "7e6ad44ea118": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1825-12-09",
+      "end_date": "1827-01-11",
+      "filename": "7e6ad44ea118.json"
+    },
+    "6ca1bf4b55fc": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1825-12-09",
+      "end_date": "1827-01-11",
+      "filename": "6ca1bf4b55fc.json"
+    },
+    "74b86df92836": {
+      "county_id": "fls_nassau",
+      "name": "NASSAU",
+      "start_date": "1826-12-30",
+      "end_date": "1857-01-01",
+      "filename": "74b86df92836.json"
+    },
+    "08abc6a69c16": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1826-12-30",
+      "end_date": "1828-11-22",
+      "filename": "08abc6a69c16.json"
+    },
+    "be28a0ba3f9c": {
+      "county_id": "fls_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1827-12-26",
+      "end_date": "2000-12-31",
+      "filename": "be28a0ba3f9c.json"
+    },
+    "8baad5fccb35": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1827-12-26",
+      "end_date": "1833-02-08",
+      "filename": "8baad5fccb35.json"
+    },
+    "2b085328d182": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1827-12-26",
+      "end_date": "1828-01-18",
+      "filename": "2b085328d182.json"
+    },
+    "92161e0ac14a": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1827-01-12",
+      "end_date": "1828-10-28",
+      "filename": "92161e0ac14a.json"
+    },
+    "da2475579a5c": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1827-01-12",
+      "end_date": "1828-10-28",
+      "filename": "da2475579a5c.json"
+    },
+    "39e9034c7b5e": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1827-01-20",
+      "end_date": "1828-01-18",
+      "filename": "39e9034c7b5e.json"
+    },
+    "37b14ac77da8": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1827-01-20",
+      "end_date": "1827-12-25",
+      "filename": "37b14ac77da8.json"
+    },
+    "ed97396ad676": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1828-10-29",
+      "end_date": "1832-02-08",
+      "filename": "ed97396ad676.json"
+    },
+    "b713c5817b70": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1828-10-29",
+      "end_date": "1832-02-07",
+      "filename": "b713c5817b70.json"
+    },
+    "dda7a77c0cc8": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1828-01-19",
+      "end_date": "1829-11-13",
+      "filename": "dda7a77c0cc8.json"
+    },
+    "3e8ebcd9ed8e": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1828-01-19",
+      "end_date": "1829-11-13",
+      "filename": "3e8ebcd9ed8e.json"
+    },
+    "51f0e33b0983": {
+      "county_id": "fls_orange",
+      "name": "MOSQUITO",
+      "start_date": "1828-01-19",
+      "end_date": "1844-03-13",
+      "filename": "51f0e33b0983.json"
+    },
+    "05601c0b5d88": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1828-01-19",
+      "end_date": "1832-02-03",
+      "filename": "05601c0b5d88.json"
+    },
+    "6943a5374e8f": {
+      "county_id": "fls_indianlands",
+      "name": "Indian lands",
+      "start_date": "1828-01-19",
+      "end_date": "1834-01-24",
+      "filename": "6943a5374e8f.json"
+    },
+    "e3241c41a52d": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1828-11-23",
+      "end_date": "1844-03-14",
+      "filename": "e3241c41a52d.json"
+    },
+    "4db7abc20be2": {
+      "county_id": "fls_overlap",
+      "name": "Overlap Area",
+      "start_date": "1828-11-23",
+      "end_date": "1857-01-01",
+      "filename": "4db7abc20be2.json"
+    },
+    "62cc77b8d518": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1829-11-14",
+      "end_date": "1831-02-12",
+      "filename": "62cc77b8d518.json"
+    },
+    "e3e8e3e67006": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1829-11-14",
+      "end_date": "1831-02-12",
+      "filename": "e3e8e3e67006.json"
+    },
+    "69f522682c07": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1831-02-13",
+      "end_date": "1832-01-29",
+      "filename": "69f522682c07.json"
+    },
+    "b757516efdd0": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1831-02-13",
+      "end_date": "1832-01-29",
+      "filename": "b757516efdd0.json"
+    },
+    "7503f35a4f08": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1832-02-11",
+      "end_date": "1833-02-15",
+      "filename": "7503f35a4f08.json"
+    },
+    "eec981973df5": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1832-02-11",
+      "end_date": "1833-02-15",
+      "filename": "eec981973df5.json"
+    },
+    "a88c40aa4917": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1832-02-08",
+      "end_date": "1851-01-12",
+      "filename": "a88c40aa4917.json"
+    },
+    "2cbb34c3b5f5": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1832-01-30",
+      "end_date": "1843-03-10",
+      "filename": "2cbb34c3b5f5.json"
+    },
+    "2373ef19cfd9": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1832-02-08",
+      "end_date": "1838-01-25",
+      "filename": "2373ef19cfd9.json"
+    },
+    "fad60a201864": {
+      "county_id": "flt_fayette",
+      "name": "FAYETTE (ext)",
+      "start_date": "1832-02-09",
+      "end_date": "1833-02-15",
+      "filename": "fad60a201864.json"
+    },
+    "0e597a4cd033": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1832-01-30",
+      "end_date": "1833-02-08",
+      "filename": "0e597a4cd033.json"
+    },
+    "4c808292bd6f": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1832-02-09",
+      "end_date": "1832-02-10",
+      "filename": "4c808292bd6f.json"
+    },
+    "1ec6496eeaea": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1832-02-08",
+      "end_date": "1832-02-10",
+      "filename": "1ec6496eeaea.json"
+    },
+    "0ff123274846": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1832-02-04",
+      "end_date": "1835-02-09",
+      "filename": "0ff123274846.json"
+    },
+    "8f9e8f628f2d": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1832-02-04",
+      "end_date": "1834-01-24",
+      "filename": "8f9e8f628f2d.json"
+    },
+    "9a2a30457f5b": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1833-02-09",
+      "end_date": "1843-02-21",
+      "filename": "9a2a30457f5b.json"
+    },
+    "4865d8af6b1b": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1833-02-09",
+      "end_date": "1843-02-21",
+      "filename": "4865d8af6b1b.json"
+    },
+    "419a4229d543": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1833-02-16",
+      "end_date": "1838-01-25",
+      "filename": "419a4229d543.json"
+    },
+    "28887649c90a": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1833-02-16",
+      "end_date": "1834-01-31",
+      "filename": "28887649c90a.json"
+    },
+    "fd361ace5c7a": {
+      "county_id": "flt_fayette",
+      "name": "FAYETTE (ext)",
+      "start_date": "1833-02-16",
+      "end_date": "1834-01-31",
+      "filename": "fd361ace5c7a.json"
+    },
+    "3873f3f0c019": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1834-02-01",
+      "end_date": "1838-01-25",
+      "filename": "3873f3f0c019.json"
+    },
+    "adda9d51a6f0": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1834-01-25",
+      "end_date": "1843-02-23",
+      "filename": "adda9d51a6f0.json"
+    },
+    "cb35b2c8159a": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1834-01-25",
+      "end_date": "1835-02-09",
+      "filename": "cb35b2c8159a.json"
+    },
+    "5fc717833ff2": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1835-02-10",
+      "end_date": "1844-03-14",
+      "filename": "5fc717833ff2.json"
+    },
+    "6cff17f00153": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1835-02-10",
+      "end_date": "1843-02-23",
+      "filename": "6cff17f00153.json"
+    },
+    "5466a6b3c01f": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1836-02-04",
+      "end_date": "1866-12-07",
+      "filename": "5466a6b3c01f.json"
+    },
+    "0f6374622a02": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1836-02-04",
+      "end_date": "1859-01-12",
+      "filename": "0f6374622a02.json"
+    },
+    "3df7b71558de": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1838-01-26",
+      "end_date": "1851-01-12",
+      "filename": "3df7b71558de.json"
+    },
+    "1dc220efec99": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1838-01-26",
+      "end_date": "1845-03-09",
+      "filename": "1dc220efec99.json"
+    },
+    "02965ebc3843": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1838-01-26",
+      "end_date": "1840-02-24",
+      "filename": "02965ebc3843.json"
+    },
+    "6e678cf688c8": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1838-01-26",
+      "end_date": "1840-02-24",
+      "filename": "6e678cf688c8.json"
+    },
+    "467f741d0785": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1840-02-25",
+      "end_date": "1847-01-03",
+      "filename": "467f741d0785.json"
+    },
+    "45a266ab3f69": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1840-02-25",
+      "end_date": "1845-03-09",
+      "filename": "45a266ab3f69.json"
+    },
+    "6f33838caa5b": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1842-02-18",
+      "end_date": "1851-01-10",
+      "filename": "6f33838caa5b.json"
+    },
+    "55978c63649c": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1842-02-18",
+      "end_date": "1851-01-10",
+      "filename": "55978c63649c.json"
+    },
+    "d5d49bc86396": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1843-03-11",
+      "end_date": "1849-01-05",
+      "filename": "d5d49bc86396.json"
+    },
+    "d6f5c53d83aa": {
+      "county_id": "fls_wakulla",
+      "name": "WAKULLA",
+      "start_date": "1843-03-11",
+      "end_date": "1849-01-05",
+      "filename": "d6f5c53d83aa.json"
+    },
+    "265e92eac5b6": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1843-02-24",
+      "end_date": "1844-03-13",
+      "filename": "265e92eac5b6.json"
+    },
+    "3f8c2e0cca03": {
+      "county_id": "fls_hernando",
+      "name": "HERNANDO",
+      "start_date": "1843-02-24",
+      "end_date": "1844-03-05",
+      "filename": "3f8c2e0cca03.json"
+    },
+    "acb5f0f34a1a": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1843-02-22",
+      "end_date": "1844-02-04",
+      "filename": "acb5f0f34a1a.json"
+    },
+    "8188e3fc253f": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1843-02-22",
+      "end_date": "1844-02-04",
+      "filename": "8188e3fc253f.json"
+    },
+    "20a3dc76b6e8": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1843-02-24",
+      "end_date": "1844-03-05",
+      "filename": "20a3dc76b6e8.json"
+    },
+    "3a1bc8339634": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1844-03-14",
+      "end_date": "1846-12-31",
+      "filename": "3a1bc8339634.json"
+    },
+    "089c642d3411": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1844-03-14",
+      "end_date": "1846-12-24",
+      "filename": "089c642d3411.json"
+    },
+    "906dbe55eaa7": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1844-03-14",
+      "end_date": "1846-12-24",
+      "filename": "906dbe55eaa7.json"
+    },
+    "4b3f046bc6da": {
+      "county_id": "fls_orange",
+      "name": "MOSQUITO",
+      "start_date": "1844-03-14",
+      "end_date": "1845-01-29",
+      "filename": "4b3f046bc6da.json"
+    },
+    "f8932666c8d2": {
+      "county_id": "fls_brevard",
+      "name": "ST. LUCIE (orig)",
+      "start_date": "1844-03-14",
+      "end_date": "1845-02-26",
+      "filename": "f8932666c8d2.json"
+    },
+    "1cd70442c1d0": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1844-03-14",
+      "end_date": "1844-03-14",
+      "filename": "1cd70442c1d0.json"
+    },
+    "3b0f5e461185": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1844-03-15",
+      "end_date": "1858-12-30",
+      "filename": "3b0f5e461185.json"
+    },
+    "cf9ed6b9a970": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1844-03-15",
+      "end_date": "1857-01-01",
+      "filename": "cf9ed6b9a970.json"
+    },
+    "621422cc048d": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1844-03-15",
+      "end_date": "1845-03-09",
+      "filename": "621422cc048d.json"
+    },
+    "f491ae461219": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1844-02-05",
+      "end_date": "1879-03-10",
+      "filename": "f491ae461219.json"
+    },
+    "73b8a5cc683f": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1844-02-05",
+      "end_date": "1856-12-22",
+      "filename": "73b8a5cc683f.json"
+    },
+    "4e7ec0d51577": {
+      "county_id": "fls_hernando",
+      "name": "BENTON",
+      "start_date": "1844-03-06",
+      "end_date": "1846-12-31",
+      "filename": "4e7ec0d51577.json"
+    },
+    "d6106361f008": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1844-03-06",
+      "end_date": "1844-03-13",
+      "filename": "d6106361f008.json"
+    },
+    "bb05e5dc6628": {
+      "county_id": "fls_levy",
+      "name": "LEVY",
+      "start_date": "1845-03-10",
+      "end_date": "1877-02-05",
+      "filename": "bb05e5dc6628.json"
+    },
+    "a944177966f6": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1845-03-10",
+      "end_date": "1873-02-13",
+      "filename": "a944177966f6.json"
+    },
+    "72327e6cbe3a": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1845-03-10",
+      "end_date": "1849-01-12",
+      "filename": "72327e6cbe3a.json"
+    },
+    "f8c2479f0e5b": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1845-03-10",
+      "end_date": "1847-01-03",
+      "filename": "f8c2479f0e5b.json"
+    },
+    "39bd16da8967": {
+      "county_id": "fls_brevard",
+      "name": "ST. LUCIE (orig)",
+      "start_date": "1845-02-27",
+      "end_date": "1846-12-27",
+      "filename": "39bd16da8967.json"
+    },
+    "8fc8c6ce240a": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1845-02-27",
+      "end_date": "1846-12-24",
+      "filename": "8fc8c6ce240a.json"
+    },
+    "97b3d52ec8f0": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1845-01-30",
+      "end_date": "1845-02-26",
+      "filename": "97b3d52ec8f0.json"
+    },
+    "6e57bc8732fd": {
+      "county_id": "fls_brevard",
+      "name": "ST. LUCIE (orig)",
+      "start_date": "1846-12-28",
+      "end_date": "1849-01-09",
+      "filename": "6e57bc8732fd.json"
+    },
+    "ffa3bd412447": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1846-12-28",
+      "end_date": "1849-01-09",
+      "filename": "ffa3bd412447.json"
+    },
+    "5505f27f8f15": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1846-12-25",
+      "end_date": "1848-12-29",
+      "filename": "5505f27f8f15.json"
+    },
+    "96b43c7cb68b": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1846-12-25",
+      "end_date": "1848-12-29",
+      "filename": "96b43c7cb68b.json"
+    },
+    "e8c250229fcf": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1846-12-25",
+      "end_date": "1846-12-27",
+      "filename": "e8c250229fcf.json"
+    },
+    "d84744603426": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1847-12-28",
+      "end_date": "1873-02-13",
+      "filename": "d84744603426.json"
+    },
+    "4162779dd8ca": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1847-12-28",
+      "end_date": "1848-01-07",
+      "filename": "4162779dd8ca.json"
+    },
+    "ac71859a5af4": {
+      "county_id": "fls_hernando",
+      "name": "BENTON",
+      "start_date": "1847-01-01",
+      "end_date": "1850-12-23",
+      "filename": "ac71859a5af4.json"
+    },
+    "9ea72917fad6": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1847-01-01",
+      "end_date": "1855-01-08",
+      "filename": "9ea72917fad6.json"
+    },
+    "e4a50d02dcd9": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1847-01-04",
+      "end_date": "1847-12-27",
+      "filename": "e4a50d02dcd9.json"
+    },
+    "39610862b6d4": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1847-01-04",
+      "end_date": "1847-12-27",
+      "filename": "39610862b6d4.json"
+    },
+    "ab08b4d6c214": {
+      "county_id": "fls_holmes",
+      "name": "HOLMES",
+      "start_date": "1848-01-08",
+      "end_date": "1915-08-07",
+      "filename": "ab08b4d6c214.json"
+    },
+    "c3f3ae5a367c": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1848-01-08",
+      "end_date": "1873-02-13",
+      "filename": "c3f3ae5a367c.json"
+    },
+    "dc66443af74d": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1848-12-30",
+      "end_date": "1853-01-07",
+      "filename": "dc66443af74d.json"
+    },
+    "40f93baa92fe": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1848-01-08",
+      "end_date": "1851-01-10",
+      "filename": "40f93baa92fe.json"
+    },
+    "509ecd9ba2b8": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1848-12-30",
+      "end_date": "1849-01-12",
+      "filename": "509ecd9ba2b8.json"
+    },
+    "5f938ca4c738": {
+      "county_id": "fls_brevard",
+      "name": "ST. LUCIE (orig)",
+      "start_date": "1849-01-10",
+      "end_date": "1855-01-05",
+      "filename": "5f938ca4c738.json"
+    },
+    "683962c65c24": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1849-01-13",
+      "end_date": "1859-01-14",
+      "filename": "683962c65c24.json"
+    },
+    "dd36aeb24239": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1849-01-13",
+      "end_date": "1859-01-14",
+      "filename": "dd36aeb24239.json"
+    },
+    "08d3c02169d3": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1849-01-13",
+      "end_date": "1858-12-30",
+      "filename": "08d3c02169d3.json"
+    },
+    "6d689ae10048": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1849-01-06",
+      "end_date": "1851-01-21",
+      "filename": "6d689ae10048.json"
+    },
+    "29ccbb7ea333": {
+      "county_id": "fls_wakulla",
+      "name": "WAKULLA",
+      "start_date": "1849-01-06",
+      "end_date": "1851-01-12",
+      "filename": "29ccbb7ea333.json"
+    },
+    "c4ae040811c2": {
+      "county_id": "fls_hernando",
+      "name": "HERNANDO",
+      "start_date": "1850-12-24",
+      "end_date": "1879-12-31",
+      "filename": "c4ae040811c2.json"
+    },
+    "dc2e77ad725c": {
+      "county_id": "fls_wakulla",
+      "name": "WAKULLA",
+      "start_date": "1851-01-22",
+      "end_date": "1986-09-30",
+      "filename": "dc2e77ad725c.json"
+    },
+    "41234b0f79b9": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1851-01-22",
+      "end_date": "1879-03-10",
+      "filename": "41234b0f79b9.json"
+    },
+    "527e9c88db34": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1851-01-11",
+      "end_date": "1947-05-30",
+      "filename": "527e9c88db34.json"
+    },
+    "4684f82ebb70": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1851-01-13",
+      "end_date": "1885-02-15",
+      "filename": "4684f82ebb70.json"
+    },
+    "1e98584e851d": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1851-01-13",
+      "end_date": "1855-12-14",
+      "filename": "1e98584e851d.json"
+    },
+    "845b860d6feb": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1851-01-11",
+      "end_date": "1853-01-13",
+      "filename": "845b860d6feb.json"
+    },
+    "604f3e3aaab7": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1851-01-11",
+      "end_date": "1853-01-13",
+      "filename": "604f3e3aaab7.json"
+    },
+    "19845c47a64f": {
+      "county_id": "fls_wakulla",
+      "name": "WAKULLA",
+      "start_date": "1851-01-13",
+      "end_date": "1851-01-21",
+      "filename": "19845c47a64f.json"
+    },
+    "7fe088de5301": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1853-01-14",
+      "end_date": "1915-09-06",
+      "filename": "7fe088de5301.json"
+    },
+    "21eaa8d8728d": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1853-01-14",
+      "end_date": "1913-05-16",
+      "filename": "21eaa8d8728d.json"
+    },
+    "ede906717852": {
+      "county_id": "fls_volusia",
+      "name": "VOLUSIA",
+      "start_date": "1854-12-29",
+      "end_date": "1875-02-14",
+      "filename": "ede906717852.json"
+    },
+    "667a70bd1ac3": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1854-12-29",
+      "end_date": "1866-12-05",
+      "filename": "667a70bd1ac3.json"
+    },
+    "64e280f4df16": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1855-01-09",
+      "end_date": "1861-02-07",
+      "filename": "64e280f4df16.json"
+    },
+    "cab4c474fbf2": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1855-12-15",
+      "end_date": "1859-12-21",
+      "filename": "cab4c474fbf2.json"
+    },
+    "69eee2b357bd": {
+      "county_id": "fls_liberty",
+      "name": "LIBERTY",
+      "start_date": "1855-12-15",
+      "end_date": "1859-12-21",
+      "filename": "69eee2b357bd.json"
+    },
+    "50478fd93873": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1855-01-06",
+      "end_date": "1859-01-12",
+      "filename": "50478fd93873.json"
+    },
+    "b5b724e6cdc1": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1855-01-09",
+      "end_date": "1859-01-12",
+      "filename": "b5b724e6cdc1.json"
+    },
+    "a2dc868b736a": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1856-12-23",
+      "end_date": "1923-05-30",
+      "filename": "a2dc868b736a.json"
+    },
+    "dbabd865aeff": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1856-12-23",
+      "end_date": "1858-12-20",
+      "filename": "dbabd865aeff.json"
+    },
+    "4782eaafeb1f": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1856-12-23",
+      "end_date": "1858-12-20",
+      "filename": "4782eaafeb1f.json"
+    },
+    "2ed3e831c290": {
+      "county_id": "fls_nassau",
+      "name": "NASSAU",
+      "start_date": "1857-01-02",
+      "end_date": "1859-01-14",
+      "filename": "2ed3e831c290.json"
+    },
+    "f0073a88e6c5": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1857-01-02",
+      "end_date": "1858-12-30",
+      "filename": "f0073a88e6c5.json"
+    },
+    "a38a3d735051": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1858-12-21",
+      "end_date": "1877-02-12",
+      "filename": "a38a3d735051.json"
+    },
+    "8353e9dd29ac": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1858-12-21",
+      "end_date": "1877-02-12",
+      "filename": "8353e9dd29ac.json"
+    },
+    "ec68d52425a7": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1858-12-31",
+      "end_date": "1870-02-02",
+      "filename": "ec68d52425a7.json"
+    },
+    "c8d660dd878e": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1858-12-31",
+      "end_date": "1859-02-27",
+      "filename": "c8d660dd878e.json"
+    },
+    "6b83b15282bc": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1858-12-31",
+      "end_date": "1859-01-14",
+      "filename": "6b83b15282bc.json"
+    },
+    "4482f1b3a472": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1858-12-31",
+      "end_date": "1859-01-14",
+      "filename": "4482f1b3a472.json"
+    },
+    "ee78e8811e89": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1859-12-22",
+      "end_date": "1909-12-31",
+      "filename": "ee78e8811e89.json"
+    },
+    "5d54f00cf7e0": {
+      "county_id": "fls_liberty",
+      "name": "LIBERTY",
+      "start_date": "1859-12-22",
+      "end_date": "1885-02-15",
+      "filename": "5d54f00cf7e0.json"
+    },
+    "392110e86cad": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1859-12-22",
+      "end_date": "1883-02-25",
+      "filename": "392110e86cad.json"
+    },
+    "c0b49713c290": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1859-12-22",
+      "end_date": "1875-02-14",
+      "filename": "c0b49713c290.json"
+    },
+    "7317b72bd60d": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1859-12-22",
+      "end_date": "1868-07-29",
+      "filename": "7317b72bd60d.json"
+    },
+    "611c32186a99": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1859-12-22",
+      "end_date": "1868-07-29",
+      "filename": "611c32186a99.json"
+    },
+    "6b5e94e9d27e": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1859-12-12",
+      "end_date": "1889-05-29",
+      "filename": "6b5e94e9d27e.json"
+    },
+    "47e8f6fbecd8": {
+      "county_id": "fls_suwannee",
+      "name": "SUWANNEE",
+      "start_date": "1859-12-12",
+      "end_date": "1889-05-29",
+      "filename": "47e8f6fbecd8.json"
+    },
+    "7f4dd58ac429": {
+      "county_id": "fls_nassau",
+      "name": "NASSAU",
+      "start_date": "1859-01-15",
+      "end_date": "1911-05-18",
+      "filename": "7f4dd58ac429.json"
+    },
+    "42537328bfc7": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1859-01-13",
+      "end_date": "1874-02-18",
+      "filename": "42537328bfc7.json"
+    },
+    "677e0256172e": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1859-01-13",
+      "end_date": "1866-12-07",
+      "filename": "677e0256172e.json"
+    },
+    "f09552689859": {
+      "county_id": "fls_bradford",
+      "name": "NEW RIVER",
+      "start_date": "1859-02-28",
+      "end_date": "1861-02-07",
+      "filename": "f09552689859.json"
+    },
+    "93940d43e093": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1859-01-13",
+      "end_date": "1861-02-07",
+      "filename": "93940d43e093.json"
+    },
+    "eda5f9ec7752": {
+      "county_id": "fls_suwannee",
+      "name": "SUWANNEE",
+      "start_date": "1859-02-28",
+      "end_date": "1859-12-11",
+      "filename": "eda5f9ec7752.json"
+    },
+    "896d5d16eee6": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1859-02-28",
+      "end_date": "1859-12-11",
+      "filename": "896d5d16eee6.json"
+    },
+    "a4ad249932cf": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1859-01-15",
+      "end_date": "1859-12-21",
+      "filename": "a4ad249932cf.json"
+    },
+    "8dafb75bc16b": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1859-01-15",
+      "end_date": "1859-12-21",
+      "filename": "8dafb75bc16b.json"
+    },
+    "8d0811b5c27b": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1859-01-15",
+      "end_date": "1859-12-21",
+      "filename": "8d0811b5c27b.json"
+    },
+    "bba9efb2f41f": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1859-01-15",
+      "end_date": "1859-12-21",
+      "filename": "bba9efb2f41f.json"
+    },
+    "728ad612d1d7": {
+      "county_id": "fls_bradford",
+      "name": "BRADFORD",
+      "start_date": "1861-12-06",
+      "end_date": "1870-02-02",
+      "filename": "728ad612d1d7.json"
+    },
+    "d397969c4ad3": {
+      "county_id": "fls_baker",
+      "name": "BAKER",
+      "start_date": "1861-02-08",
+      "end_date": "1911-05-18",
+      "filename": "d397969c4ad3.json"
+    },
+    "40c5d5190e81": {
+      "county_id": "fls_bradford",
+      "name": "NEW RIVER",
+      "start_date": "1861-02-08",
+      "end_date": "1861-12-05",
+      "filename": "40c5d5190e81.json"
+    },
+    "03b4280439df": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1861-02-08",
+      "end_date": "1871-01-29",
+      "filename": "03b4280439df.json"
+    },
+    "0d79bb550d44": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1861-02-08",
+      "end_date": "1866-12-12",
+      "filename": "0d79bb550d44.json"
+    },
+    "24a7193a6609": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1861-02-08",
+      "end_date": "1866-12-05",
+      "filename": "24a7193a6609.json"
+    },
+    "b29a26ee842f": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1866-12-08",
+      "end_date": "1874-02-18",
+      "filename": "b29a26ee842f.json"
+    },
+    "2fb1d2b53ae2": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1866-12-08",
+      "end_date": "1874-02-18",
+      "filename": "2fb1d2b53ae2.json"
+    },
+    "e738b6ece82d": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1866-12-08",
+      "end_date": "1873-02-17",
+      "filename": "e738b6ece82d.json"
+    },
+    "1be17cd6acb6": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1866-12-13",
+      "end_date": "1874-02-18",
+      "filename": "1be17cd6acb6.json"
+    },
+    "7a6bd05ca066": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1866-12-13",
+      "end_date": "1871-01-29",
+      "filename": "7a6bd05ca066.json"
+    },
+    "9df2ade57bcd": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1866-12-06",
+      "end_date": "1872-02-13",
+      "filename": "9df2ade57bcd.json"
+    },
+    "b00bf4ec2596": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1866-12-06",
+      "end_date": "1866-12-07",
+      "filename": "b00bf4ec2596.json"
+    },
+    "8ec55dc4ab3e": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1868-07-30",
+      "end_date": "1875-02-14",
+      "filename": "8ec55dc4ab3e.json"
+    },
+    "8d4b49b7b7b6": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1868-07-30",
+      "end_date": "1875-02-14",
+      "filename": "8d4b49b7b7b6.json"
+    },
+    "1e9e0fd6f5f0": {
+      "county_id": "fls_bradford",
+      "name": "BRADFORD",
+      "start_date": "1870-02-03",
+      "end_date": "1921-09-30",
+      "filename": "1e9e0fd6f5f0.json"
+    },
+    "d2892490d849": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1870-02-03",
+      "end_date": "1911-06-02",
+      "filename": "d2892490d849.json"
+    },
+    "416250a302c9": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1871-01-30",
+      "end_date": "1874-02-18",
+      "filename": "416250a302c9.json"
+    },
+    "7b93da2dc6f5": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1871-01-30",
+      "end_date": "1872-02-13",
+      "filename": "7b93da2dc6f5.json"
+    },
+    "9bbf803e9bca": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1872-02-14",
+      "end_date": "1879-03-04",
+      "filename": "9bbf803e9bca.json"
+    },
+    "4041898d8b28": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1872-02-14",
+      "end_date": "1873-02-17",
+      "filename": "4041898d8b28.json"
+    },
+    "4b4cca3c3a7a": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1873-02-14",
+      "end_date": "1897-06-03",
+      "filename": "4b4cca3c3a7a.json"
+    },
+    "a17178d41509": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1873-02-14",
+      "end_date": "1875-02-27",
+      "filename": "a17178d41509.json"
+    },
+    "181add642b43": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1873-02-14",
+      "end_date": "1875-02-27",
+      "filename": "181add642b43.json"
+    },
+    "ec876fb1ff69": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1873-02-18",
+      "end_date": "1874-02-18",
+      "filename": "ec876fb1ff69.json"
+    },
+    "3e11c232651f": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1873-02-18",
+      "end_date": "1874-02-18",
+      "filename": "3e11c232651f.json"
+    },
+    "3feea7c76c03": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1874-02-19",
+      "end_date": "1911-11-13",
+      "filename": "3feea7c76c03.json"
+    },
+    "655d612a2639": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1874-02-19",
+      "end_date": "1909-06-30",
+      "filename": "655d612a2639.json"
+    },
+    "80b7c6d945f3": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1874-02-19",
+      "end_date": "1879-03-10",
+      "filename": "80b7c6d945f3.json"
+    },
+    "7bff1068d65d": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1874-02-19",
+      "end_date": "1879-03-04",
+      "filename": "7bff1068d65d.json"
+    },
+    "6f5453dd1ed4": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1874-02-19",
+      "end_date": "1879-03-04",
+      "filename": "6f5453dd1ed4.json"
+    },
+    "3cf8a50693fb": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1874-02-19",
+      "end_date": "1877-02-20",
+      "filename": "3cf8a50693fb.json"
+    },
+    "45c80a7f4eae": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1874-02-19",
+      "end_date": "1877-02-20",
+      "filename": "45c80a7f4eae.json"
+    },
+    "7bd74f543e8c": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1875-02-15",
+      "end_date": "1911-05-18",
+      "filename": "7bd74f543e8c.json"
+    },
+    "437efa4ca2cc": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1875-02-15",
+      "end_date": "1899-05-23",
+      "filename": "437efa4ca2cc.json"
+    },
+    "44f4955d4f90": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1875-02-28",
+      "end_date": "1897-05-30",
+      "filename": "44f4955d4f90.json"
+    },
+    "a96fc2272927": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1875-02-28",
+      "end_date": "1897-05-30",
+      "filename": "a96fc2272927.json"
+    },
+    "ebcee6c21eab": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1875-02-15",
+      "end_date": "1883-02-25",
+      "filename": "ebcee6c21eab.json"
+    },
+    "5513562d6570": {
+      "county_id": "fls_volusia",
+      "name": "VOLUSIA",
+      "start_date": "1875-02-15",
+      "end_date": "1879-03-10",
+      "filename": "5513562d6570.json"
+    },
+    "607a807df566": {
+      "county_id": "fls_levy",
+      "name": "LEVY",
+      "start_date": "1877-02-06",
+      "end_date": "1911-06-02",
+      "filename": "607a807df566.json"
+    },
+    "769479500c9d": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1877-02-21",
+      "end_date": "1887-05-12",
+      "filename": "769479500c9d.json"
+    },
+    "441e163402bc": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1877-02-21",
+      "end_date": "1887-05-18",
+      "filename": "441e163402bc.json"
+    },
+    "b3c07b05e348": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1877-02-06",
+      "end_date": "1887-05-27",
+      "filename": "b3c07b05e348.json"
+    },
+    "a80c7e2a52c2": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1877-02-13",
+      "end_date": "1883-01-30",
+      "filename": "a80c7e2a52c2.json"
+    },
+    "3f515a5c7ce2": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1877-02-13",
+      "end_date": "1883-01-30",
+      "filename": "3f515a5c7ce2.json"
+    },
+    "c0e876c8a881": {
+      "county_id": "fls_volusia",
+      "name": "VOLUSIA",
+      "start_date": "1879-03-11",
+      "end_date": "1899-05-23",
+      "filename": "c0e876c8a881.json"
+    },
+    "eb649c357f7e": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1879-03-05",
+      "end_date": "1887-07-25",
+      "filename": "eb649c357f7e.json"
+    },
+    "55c9756827ec": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1879-03-05",
+      "end_date": "1887-07-10",
+      "filename": "55c9756827ec.json"
+    },
+    "a7fcc795564a": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1879-03-11",
+      "end_date": "1887-07-10",
+      "filename": "a7fcc795564a.json"
+    },
+    "7519400df857": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1879-03-11",
+      "end_date": "1881-02-06",
+      "filename": "7519400df857.json"
+    },
+    "7ecbeb704850": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1879-03-11",
+      "end_date": "1881-02-06",
+      "filename": "7ecbeb704850.json"
+    },
+    "b560749e56d0": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1879-03-05",
+      "end_date": "1879-12-31",
+      "filename": "b560749e56d0.json"
+    },
+    "9e99dd9ba9e6": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1880-01-01",
+      "end_date": "1883-03-04",
+      "filename": "9e99dd9ba9e6.json"
+    },
+    "3577173b4b5b": {
+      "county_id": "fls_hernando",
+      "name": "HERNANDO",
+      "start_date": "1880-01-01",
+      "end_date": "1883-03-04",
+      "filename": "3577173b4b5b.json"
+    },
+    "a1e30c83caae": {
+      "county_id": "fls_leon",
+      "name": "LEON",
+      "start_date": "1881-02-07",
+      "end_date": "2000-12-31",
+      "filename": "a1e30c83caae.json"
+    },
+    "7ba4bc24cfe0": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1881-02-07",
+      "end_date": "1923-05-30",
+      "filename": "7ba4bc24cfe0.json"
+    },
+    "39b201ac1209": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1883-02-26",
+      "end_date": "1927-06-05",
+      "filename": "39b201ac1209.json"
+    },
+    "050e4337d914": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1883-03-05",
+      "end_date": "1889-05-30",
+      "filename": "050e4337d914.json"
+    },
+    "72c95dfbed2d": {
+      "county_id": "fls_hernando",
+      "name": "HERNANDO",
+      "start_date": "1883-03-05",
+      "end_date": "1887-06-01",
+      "filename": "72c95dfbed2d.json"
+    },
+    "e96c02980b42": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1883-02-26",
+      "end_date": "1887-05-27",
+      "filename": "e96c02980b42.json"
+    },
+    "f0cf0ba7eb6e": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1883-01-31",
+      "end_date": "1887-05-27",
+      "filename": "f0cf0ba7eb6e.json"
+    },
+    "4b349f0e8e89": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1883-01-31",
+      "end_date": "1887-05-27",
+      "filename": "4b349f0e8e89.json"
+    },
+    "68cafaa8cb4a": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1885-02-16",
+      "end_date": "1972-03-29",
+      "filename": "68cafaa8cb4a.json"
+    },
+    "1ead41a35dce": {
+      "county_id": "fls_liberty",
+      "name": "LIBERTY",
+      "start_date": "1885-02-16",
+      "end_date": "1909-12-31",
+      "filename": "1ead41a35dce.json"
+    },
+    "7dc5a94b0531": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1887-07-26",
+      "end_date": "1889-05-30",
+      "filename": "7dc5a94b0531.json"
+    },
+    "d62992b4bba2": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1887-07-26",
+      "end_date": "1889-05-30",
+      "filename": "d62992b4bba2.json"
+    },
+    "c2214ba88ec2": {
+      "county_id": "fls_lake",
+      "name": "LAKE",
+      "start_date": "1887-07-26",
+      "end_date": "1889-05-30",
+      "filename": "c2214ba88ec2.json"
+    },
+    "04b25957f2e2": {
+      "county_id": "fls_citrus",
+      "name": "CITRUS",
+      "start_date": "1887-06-02",
+      "end_date": "2000-12-31",
+      "filename": "04b25957f2e2.json"
+    },
+    "9b875101b1b7": {
+      "county_id": "fls_hernando",
+      "name": "HERNANDO",
+      "start_date": "1887-06-02",
+      "end_date": "2000-12-31",
+      "filename": "9b875101b1b7.json"
+    },
+    "5ddf99ac015c": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1887-05-28",
+      "end_date": "1973-12-30",
+      "filename": "5ddf99ac015c.json"
+    },
+    "169208ac1b8e": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1887-05-13",
+      "end_date": "1961-05-12",
+      "filename": "169208ac1b8e.json"
+    },
+    "4450f486d45b": {
+      "county_id": "fls_lee",
+      "name": "LEE",
+      "start_date": "1887-05-13",
+      "end_date": "1923-07-06",
+      "filename": "4450f486d45b.json"
+    },
+    "87f38c76d0b3": {
+      "county_id": "fls_desoto",
+      "name": "DE SOTO",
+      "start_date": "1887-05-19",
+      "end_date": "1921-04-22",
+      "filename": "87f38c76d0b3.json"
+    },
+    "1d9714694f14": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1887-05-19",
+      "end_date": "1921-06-14",
+      "filename": "1d9714694f14.json"
+    },
+    "5fb535a275db": {
+      "county_id": "fls_osceola",
+      "name": "OSCEOLA",
+      "start_date": "1887-07-11",
+      "end_date": "1917-08-06",
+      "filename": "5fb535a275db.json"
+    },
+    "b8aa5bcb0e68": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1887-05-28",
+      "end_date": "1911-05-23",
+      "filename": "b8aa5bcb0e68.json"
+    },
+    "9207b5703d04": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1887-05-28",
+      "end_date": "1911-05-23",
+      "filename": "9207b5703d04.json"
+    },
+    "ca317188e7dd": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1887-05-28",
+      "end_date": "1927-06-05",
+      "filename": "ca317188e7dd.json"
+    },
+    "868dd2d84ddf": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1887-07-11",
+      "end_date": "1905-06-30",
+      "filename": "868dd2d84ddf.json"
+    },
+    "372d86142ad7": {
+      "county_id": "fls_pasco",
+      "name": "PASCO",
+      "start_date": "1887-06-02",
+      "end_date": "1891-06-09",
+      "filename": "372d86142ad7.json"
+    },
+    "f05df3fa84e8": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1887-07-11",
+      "end_date": "1887-07-25",
+      "filename": "f05df3fa84e8.json"
+    },
+    "2ff8bb68c177": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1889-05-31",
+      "end_date": "2000-12-31",
+      "filename": "2ff8bb68c177.json"
+    },
+    "74e378bfb200": {
+      "county_id": "fls_suwannee",
+      "name": "SUWANNEE",
+      "start_date": "1889-05-30",
+      "end_date": "2000-12-31",
+      "filename": "74e378bfb200.json"
+    },
+    "559580b7ff08": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1889-05-30",
+      "end_date": "1953-12-31",
+      "filename": "559580b7ff08.json"
+    },
+    "9b3e69e291b1": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1889-05-31",
+      "end_date": "1913-04-24",
+      "filename": "9b3e69e291b1.json"
+    },
+    "9b16cc24e255": {
+      "county_id": "fls_lake",
+      "name": "LAKE",
+      "start_date": "1889-05-31",
+      "end_date": "1891-06-09",
+      "filename": "9b16cc24e255.json"
+    },
+    "819684ca7d0e": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1889-05-31",
+      "end_date": "1891-06-09",
+      "filename": "819684ca7d0e.json"
+    },
+    "f6b2dda1db9e": {
+      "county_id": "fls_lake",
+      "name": "LAKE",
+      "start_date": "1891-06-10",
+      "end_date": "2000-12-31",
+      "filename": "f6b2dda1db9e.json"
+    },
+    "f887c5ac1531": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1891-06-10",
+      "end_date": "1942-07-28",
+      "filename": "f887c5ac1531.json"
+    },
+    "f3e0e9f04522": {
+      "county_id": "fls_pasco",
+      "name": "PASCO",
+      "start_date": "1891-06-10",
+      "end_date": "1942-07-28",
+      "filename": "f3e0e9f04522.json"
+    },
+    "b70e98e8aead": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1897-06-04",
+      "end_date": "1913-06-30",
+      "filename": "b70e98e8aead.json"
+    },
+    "bfb1afa3b57a": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1897-06-04",
+      "end_date": "1913-05-16",
+      "filename": "bfb1afa3b57a.json"
+    },
+    "1bd1c606ecf1": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1897-05-31",
+      "end_date": "1915-08-07",
+      "filename": "1bd1c606ecf1.json"
+    },
+    "9793b0197a68": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1897-05-31",
+      "end_date": "1897-06-03",
+      "filename": "9793b0197a68.json"
+    },
+    "bea9904617db": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1899-05-24",
+      "end_date": "1917-06-11",
+      "filename": "bea9904617db.json"
+    },
+    "7e99b2e4af26": {
+      "county_id": "fls_volusia",
+      "name": "VOLUSIA",
+      "start_date": "1899-05-24",
+      "end_date": "1917-06-11",
+      "filename": "7e99b2e4af26.json"
+    },
+    "66e9a29827b4": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1905-07-01",
+      "end_date": "1959-11-02",
+      "filename": "66e9a29827b4.json"
+    },
+    "75ba8610bc7b": {
+      "county_id": "fls_stlucie",
+      "name": "ST. LUCIE",
+      "start_date": "1905-07-01",
+      "end_date": "1917-08-06",
+      "filename": "75ba8610bc7b.json"
+    },
+    "d5a5f18560aa": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1909-07-01",
+      "end_date": "1915-09-30",
+      "filename": "d5a5f18560aa.json"
+    },
+    "e4ce01e3649d": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1909-07-01",
+      "end_date": "1915-09-30",
+      "filename": "e4ce01e3649d.json"
+    },
+    "e87ccae22222": {
+      "county_id": "fls_gadsden",
+      "name": "GADSDEN",
+      "start_date": "1910-01-01",
+      "end_date": "2000-12-31",
+      "filename": "e87ccae22222.json"
+    },
+    "31c899409801": {
+      "county_id": "fls_liberty",
+      "name": "LIBERTY",
+      "start_date": "1910-01-01",
+      "end_date": "2000-12-31",
+      "filename": "31c899409801.json"
+    },
+    "aa65bdd6be27": {
+      "county_id": "fls_nassau",
+      "name": "NASSAU",
+      "start_date": "1911-05-19",
+      "end_date": "2000-12-31",
+      "filename": "aa65bdd6be27.json"
+    },
+    "9b7dfc47974a": {
+      "county_id": "fls_baker",
+      "name": "BAKER",
+      "start_date": "1911-05-19",
+      "end_date": "2000-12-31",
+      "filename": "9b7dfc47974a.json"
+    },
+    "5727e69a2ff5": {
+      "county_id": "fls_taylor",
+      "name": "TAYLOR",
+      "start_date": "1911-05-24",
+      "end_date": "2000-12-31",
+      "filename": "5727e69a2ff5.json"
+    },
+    "6fa30bcc07f2": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1911-05-19",
+      "end_date": "1976-06-30",
+      "filename": "6fa30bcc07f2.json"
+    },
+    "a1e105faa15e": {
+      "county_id": "fls_pinellas",
+      "name": "PINELLAS",
+      "start_date": "1911-11-14",
+      "end_date": "1939-05-14",
+      "filename": "a1e105faa15e.json"
+    },
+    "5ff214c72ff0": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1911-11-14",
+      "end_date": "1939-05-14",
+      "filename": "5ff214c72ff0.json"
+    },
+    "b3ba69e6f5fd": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1911-05-24",
+      "end_date": "1921-04-24",
+      "filename": "b3ba69e6f5fd.json"
+    },
+    "91b1ec8f6aeb": {
+      "county_id": "fls_levy",
+      "name": "LEVY",
+      "start_date": "1911-06-03",
+      "end_date": "1913-06-06",
+      "filename": "91b1ec8f6aeb.json"
+    },
+    "1428453e1b30": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1911-06-03",
+      "end_date": "1913-06-06",
+      "filename": "1428453e1b30.json"
+    },
+    "072774afda5e": {
+      "county_id": "fls_bay",
+      "name": "BAY",
+      "start_date": "1913-07-01",
+      "end_date": "2000-12-31",
+      "filename": "072774afda5e.json"
+    },
+    "483550d388c6": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1913-07-01",
+      "end_date": "1925-07-06",
+      "filename": "483550d388c6.json"
+    },
+    "85bb6ab1b315": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1913-07-01",
+      "end_date": "1915-08-07",
+      "filename": "85bb6ab1b315.json"
+    },
+    "ac6c1a2bde6c": {
+      "county_id": "fls_levy",
+      "name": "LEVY",
+      "start_date": "1913-06-07",
+      "end_date": "2000-12-31",
+      "filename": "ac6c1a2bde6c.json"
+    },
+    "2ac861958a05": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1913-04-25",
+      "end_date": "2000-12-31",
+      "filename": "2ac861958a05.json"
+    },
+    "f4301411c50e": {
+      "county_id": "fls_seminole",
+      "name": "SEMINOLE",
+      "start_date": "1913-04-25",
+      "end_date": "2000-12-31",
+      "filename": "f4301411c50e.json"
+    },
+    "bcbdb6d57372": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1913-06-07",
+      "end_date": "1925-12-31",
+      "filename": "bcbdb6d57372.json"
+    },
+    "6e4450912fa9": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1913-05-17",
+      "end_date": "1915-09-06",
+      "filename": "6e4450912fa9.json"
+    },
+    "e142d407278a": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1913-05-17",
+      "end_date": "1913-06-30",
+      "filename": "e142d407278a.json"
+    },
+    "7bb472544a83": {
+      "county_id": "fls_broward01",
+      "name": "BROWARD (prop)",
+      "start_date": "1913-06-06",
+      "end_date": "1913-06-06",
+      "filename": "7bb472544a83.json"
+    },
+    "c56e6439feac": {
+      "county_id": "fls_holmes",
+      "name": "HOLMES",
+      "start_date": "1915-08-08",
+      "end_date": "2000-12-31",
+      "filename": "c56e6439feac.json"
+    },
+    "9d49fcc94840": {
+      "county_id": "fls_jackson",
+      "name": "JACKSON",
+      "start_date": "1915-08-08",
+      "end_date": "2000-12-31",
+      "filename": "9d49fcc94840.json"
+    },
+    "519dd9feaed1": {
+      "county_id": "fls_walton",
+      "name": "WALTON",
+      "start_date": "1915-09-07",
+      "end_date": "2000-12-31",
+      "filename": "519dd9feaed1.json"
+    },
+    "c75617afe483": {
+      "county_id": "fls_washington",
+      "name": "WASHINGTON",
+      "start_date": "1915-08-08",
+      "end_date": "2000-12-31",
+      "filename": "c75617afe483.json"
+    },
+    "a12383e1fa27": {
+      "county_id": "fls_broward",
+      "name": "BROWARD",
+      "start_date": "1915-10-01",
+      "end_date": "2000-12-31",
+      "filename": "a12383e1fa27.json"
+    },
+    "54f4206d217e": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1915-10-01",
+      "end_date": "1961-05-12",
+      "filename": "54f4206d217e.json"
+    },
+    "1765ce9f3399": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1915-09-07",
+      "end_date": "1951-06-10",
+      "filename": "1765ce9f3399.json"
+    },
+    "78505fac41bc": {
+      "county_id": "fls_okaloosa",
+      "name": "OKALOOSA",
+      "start_date": "1915-09-07",
+      "end_date": "1947-05-30",
+      "filename": "78505fac41bc.json"
+    },
+    "a1dc23f83a3d": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1915-10-01",
+      "end_date": "1917-08-06",
+      "filename": "a1dc23f83a3d.json"
+    },
+    "7d8adc5cd691": {
+      "county_id": "fls_bloxham",
+      "name": "BLOXHAM (prop)",
+      "start_date": "1915-06-01",
+      "end_date": "1915-06-01",
+      "filename": "7d8adc5cd691.json"
+    },
+    "29384d720197": {
+      "county_id": "fls_flagler",
+      "name": "FLAGLER",
+      "start_date": "1917-06-12",
+      "end_date": "2000-12-31",
+      "filename": "29384d720197.json"
+    },
+    "cc9487d1f5b4": {
+      "county_id": "fls_stjohns",
+      "name": "ST. JOHNS",
+      "start_date": "1917-06-12",
+      "end_date": "2000-12-31",
+      "filename": "cc9487d1f5b4.json"
+    },
+    "aa2c47ec548c": {
+      "county_id": "fls_volusia",
+      "name": "VOLUSIA",
+      "start_date": "1917-06-12",
+      "end_date": "2000-12-31",
+      "filename": "aa2c47ec548c.json"
+    },
+    "c18dccfc703c": {
+      "county_id": "fls_osceola",
+      "name": "OSCEOLA",
+      "start_date": "1917-08-07",
+      "end_date": "1967-12-31",
+      "filename": "c18dccfc703c.json"
+    },
+    "77f49fcaef4e": {
+      "county_id": "fls_okeechobee",
+      "name": "OKEECHOBEE",
+      "start_date": "1917-08-07",
+      "end_date": "1963-05-28",
+      "filename": "77f49fcaef4e.json"
+    },
+    "be58f9a60a28": {
+      "county_id": "fls_stlucie",
+      "name": "ST. LUCIE",
+      "start_date": "1917-08-07",
+      "end_date": "1925-06-28",
+      "filename": "be58f9a60a28.json"
+    },
+    "c5ab57b2cddd": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1917-08-07",
+      "end_date": "1925-05-07",
+      "filename": "c5ab57b2cddd.json"
+    },
+    "556a8399c46f": {
+      "county_id": "fls_charlotte",
+      "name": "CHARLOTTE",
+      "start_date": "1921-04-23",
+      "end_date": "2000-12-31",
+      "filename": "556a8399c46f.json"
+    },
+    "1b0f890bfe3b": {
+      "county_id": "fls_dixie",
+      "name": "DIXIE",
+      "start_date": "1921-04-25",
+      "end_date": "2000-12-31",
+      "filename": "1b0f890bfe3b.json"
+    },
+    "85d1c7947949": {
+      "county_id": "fls_desoto",
+      "name": "DE SOTO",
+      "start_date": "1921-04-23",
+      "end_date": "2000-12-31",
+      "filename": "85d1c7947949.json"
+    },
+    "b0b21524bb44": {
+      "county_id": "fls_hardee",
+      "name": "HARDEE",
+      "start_date": "1921-04-23",
+      "end_date": "2000-12-31",
+      "filename": "b0b21524bb44.json"
+    },
+    "529056aa66ed": {
+      "county_id": "fls_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1921-04-25",
+      "end_date": "2000-12-31",
+      "filename": "529056aa66ed.json"
+    },
+    "89fa40f2437d": {
+      "county_id": "fls_manatee",
+      "name": "MANATEE",
+      "start_date": "1921-06-15",
+      "end_date": "2000-12-31",
+      "filename": "89fa40f2437d.json"
+    },
+    "baf6011dc43f": {
+      "county_id": "fls_union",
+      "name": "UNION",
+      "start_date": "1921-10-01",
+      "end_date": "2000-12-31",
+      "filename": "baf6011dc43f.json"
+    },
+    "f2a66dbaad01": {
+      "county_id": "fls_highlands",
+      "name": "HIGHLANDS",
+      "start_date": "1921-04-23",
+      "end_date": "1949-06-12",
+      "filename": "f2a66dbaad01.json"
+    },
+    "127be695f1ac": {
+      "county_id": "fls_bradford",
+      "name": "BRADFORD",
+      "start_date": "1921-10-01",
+      "end_date": "1927-06-05",
+      "filename": "127be695f1ac.json"
+    },
+    "e8abc2cf358d": {
+      "county_id": "fls_glades",
+      "name": "GLADES",
+      "start_date": "1921-04-23",
+      "end_date": "1925-05-07",
+      "filename": "e8abc2cf358d.json"
+    },
+    "413c47e68086": {
+      "county_id": "fls_sarasota",
+      "name": "SARASOTA",
+      "start_date": "1921-06-15",
+      "end_date": "2000-12-31",
+      "filename": "413c47e68086.json"
+    },
+    "76417ca18e0c": {
+      "county_id": "fls_hendry",
+      "name": "HENDRY",
+      "start_date": "1923-07-10",
+      "end_date": "1925-05-13",
+      "filename": "76417ca18e0c.json"
+    },
+    "5b0f43b56d1a": {
+      "county_id": "fls_lee",
+      "name": "LEE",
+      "start_date": "1923-07-10",
+      "end_date": "2000-12-31",
+      "filename": "5b0f43b56d1a.json"
+    },
+    "edb26ae3cc68": {
+      "county_id": "fls_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1923-05-31",
+      "end_date": "2000-12-31",
+      "filename": "edb26ae3cc68.json"
+    },
+    "6737c782a7e9": {
+      "county_id": "fls_madison",
+      "name": "MADISON",
+      "start_date": "1923-05-31",
+      "end_date": "2000-12-31",
+      "filename": "6737c782a7e9.json"
+    },
+    "63ed5c75ef6a": {
+      "county_id": "fls_collier",
+      "name": "COLLIER",
+      "start_date": "1923-07-07",
+      "end_date": "2000-12-31",
+      "filename": "63ed5c75ef6a.json"
+    },
+    "3e9795acead2": {
+      "county_id": "fls_lee",
+      "name": "LEE",
+      "start_date": "1923-07-07",
+      "end_date": "1923-07-09",
+      "filename": "3e9795acead2.json"
+    },
+    "b2d63e774cb2": {
+      "county_id": "fls_stlucie",
+      "name": "ST. LUCIE",
+      "start_date": "1925-08-04",
+      "end_date": "2000-12-31",
+      "filename": "b2d63e774cb2.json"
+    },
+    "a3da47273e51": {
+      "county_id": "fls_martin",
+      "name": "MARTIN",
+      "start_date": "1925-08-04",
+      "end_date": "1963-05-28",
+      "filename": "a3da47273e51.json"
+    },
+    "55475f3e16ce": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1925-08-04",
+      "end_date": "1963-05-28",
+      "filename": "55475f3e16ce.json"
+    },
+    "92db2bcb2e01": {
+      "county_id": "fls_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1925-07-07",
+      "end_date": "2000-12-31",
+      "filename": "92db2bcb2e01.json"
+    },
+    "062fcfaa1168": {
+      "county_id": "fls_gulf",
+      "name": "GULF",
+      "start_date": "1925-07-07",
+      "end_date": "1972-03-29",
+      "filename": "062fcfaa1168.json"
+    },
+    "e09c39232fcb": {
+      "county_id": "fls_indianriver",
+      "name": "INDIAN RIVER",
+      "start_date": "1925-06-29",
+      "end_date": "1959-11-02",
+      "filename": "e09c39232fcb.json"
+    },
+    "160a78794255": {
+      "county_id": "fls_hendry",
+      "name": "HENDRY",
+      "start_date": "1925-05-14",
+      "end_date": "1937-09-06",
+      "filename": "160a78794255.json"
+    },
+    "bae3d312d9a2": {
+      "county_id": "fls_stlucie",
+      "name": "ST. LUCIE",
+      "start_date": "1925-06-29",
+      "end_date": "1925-08-03",
+      "filename": "bae3d312d9a2.json"
+    },
+    "a6a639b9ccc3": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1925-05-14",
+      "end_date": "1925-08-03",
+      "filename": "a6a639b9ccc3.json"
+    },
+    "3cab66dbb120": {
+      "county_id": "fls_glades",
+      "name": "GLADES",
+      "start_date": "1925-05-08",
+      "end_date": "1937-09-06",
+      "filename": "3cab66dbb120.json"
+    },
+    "187bfe7b0659": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1925-05-08",
+      "end_date": "1925-05-13",
+      "filename": "187bfe7b0659.json"
+    },
+    "95e9cc410db6": {
+      "county_id": "fls_gilchrist",
+      "name": "GILCHRIST",
+      "start_date": "1926-01-01",
+      "end_date": "2000-12-31",
+      "filename": "95e9cc410db6.json"
+    },
+    "8c4b392a03c5": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1926-01-01",
+      "end_date": "1953-12-31",
+      "filename": "8c4b392a03c5.json"
+    },
+    "8d186297e0e9": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1927-06-06",
+      "end_date": "1984-06-13",
+      "filename": "8d186297e0e9.json"
+    },
+    "8284ef4922c5": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1927-06-06",
+      "end_date": "1976-06-30",
+      "filename": "8284ef4922c5.json"
+    },
+    "2a4bcd5e4938": {
+      "county_id": "fls_bradford",
+      "name": "BRADFORD",
+      "start_date": "1927-06-06",
+      "end_date": "1953-12-31",
+      "filename": "2a4bcd5e4938.json"
+    },
+    "526c64fbf310": {
+      "county_id": "fls_hendry",
+      "name": "HENDRY",
+      "start_date": "1937-09-07",
+      "end_date": "1963-05-28",
+      "filename": "526c64fbf310.json"
+    },
+    "b67c20129ee0": {
+      "county_id": "fls_glades",
+      "name": "GLADES",
+      "start_date": "1937-09-07",
+      "end_date": "1949-06-12",
+      "filename": "b67c20129ee0.json"
+    },
+    "2da7b2d2fe9d": {
+      "county_id": "fls_pinellas",
+      "name": "PINELLAS",
+      "start_date": "1939-05-15",
+      "end_date": "2000-12-31",
+      "filename": "2da7b2d2fe9d.json"
+    },
+    "8dac204f3c58": {
+      "county_id": "fls_hillsborough",
+      "name": "HILLSBOROUGH",
+      "start_date": "1939-05-15",
+      "end_date": "2000-12-31",
+      "filename": "8dac204f3c58.json"
+    },
+    "a938a3c7987a": {
+      "county_id": "fls_pasco",
+      "name": "PASCO",
+      "start_date": "1942-07-29",
+      "end_date": "1949-12-30",
+      "filename": "a938a3c7987a.json"
+    },
+    "9ab062b4b76e": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1942-07-29",
+      "end_date": "1949-12-30",
+      "filename": "9ab062b4b76e.json"
+    },
+    "03495666a5d9": {
+      "county_id": "fls_okaloosa",
+      "name": "OKALOOSA",
+      "start_date": "1947-05-31",
+      "end_date": "2000-12-31",
+      "filename": "03495666a5d9.json"
+    },
+    "fd54fa916984": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1947-05-31",
+      "end_date": "1951-06-10",
+      "filename": "fd54fa916984.json"
+    },
+    "b291fb8872b2": {
+      "county_id": "fls_highlands",
+      "name": "HIGHLANDS",
+      "start_date": "1949-06-13",
+      "end_date": "2000-12-31",
+      "filename": "b291fb8872b2.json"
+    },
+    "f50cc9bfafea": {
+      "county_id": "fls_pasco",
+      "name": "PASCO",
+      "start_date": "1949-12-31",
+      "end_date": "2000-12-31",
+      "filename": "f50cc9bfafea.json"
+    },
+    "a339b9c04fcf": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1949-12-31",
+      "end_date": "1967-12-31",
+      "filename": "a339b9c04fcf.json"
+    },
+    "9b6d140a6bb5": {
+      "county_id": "fls_glades",
+      "name": "GLADES",
+      "start_date": "1949-06-13",
+      "end_date": "1963-05-28",
+      "filename": "9b6d140a6bb5.json"
+    },
+    "b2285b4e224f": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1951-06-11",
+      "end_date": "1957-06-28",
+      "filename": "b2285b4e224f.json"
+    },
+    "26b6891613d6": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1951-06-11",
+      "end_date": "1957-06-28",
+      "filename": "26b6891613d6.json"
+    },
+    "225b1127060d": {
+      "county_id": "fls_bradford",
+      "name": "BRADFORD",
+      "start_date": "1954-01-01",
+      "end_date": "2000-12-31",
+      "filename": "225b1127060d.json"
+    },
+    "1bf29ee0c8d5": {
+      "county_id": "fls_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1954-01-01",
+      "end_date": "2000-12-31",
+      "filename": "1bf29ee0c8d5.json"
+    },
+    "e64b1484d7e0": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1954-01-01",
+      "end_date": "1973-12-30",
+      "filename": "e64b1484d7e0.json"
+    },
+    "510db2b42668": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1957-06-29",
+      "end_date": "1991-04-26",
+      "filename": "510db2b42668.json"
+    },
+    "8c30fc05f162": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1957-06-29",
+      "end_date": "1991-04-26",
+      "filename": "8c30fc05f162.json"
+    },
+    "a25e73824a52": {
+      "county_id": "fls_brevard",
+      "name": "BREVARD",
+      "start_date": "1959-11-03",
+      "end_date": "2000-12-31",
+      "filename": "a25e73824a52.json"
+    },
+    "d78a90702bbf": {
+      "county_id": "fls_indianriver",
+      "name": "INDIAN RIVER",
+      "start_date": "1959-11-03",
+      "end_date": "2000-12-31",
+      "filename": "d78a90702bbf.json"
+    },
+    "2b89b3e05f99": {
+      "county_id": "fls_monroe",
+      "name": "MONROE",
+      "start_date": "1961-05-13",
+      "end_date": "2000-12-31",
+      "filename": "2b89b3e05f99.json"
+    },
+    "ddf5250f3ed6": {
+      "county_id": "fls_miamidade",
+      "name": "DADE",
+      "start_date": "1961-05-13",
+      "end_date": "1997-11-12",
+      "filename": "ddf5250f3ed6.json"
+    },
+    "9f045977a96d": {
+      "county_id": "fls_martin",
+      "name": "MARTIN",
+      "start_date": "1963-05-29",
+      "end_date": "2000-12-31",
+      "filename": "9f045977a96d.json"
+    },
+    "625b7d946e65": {
+      "county_id": "fls_okeechobee",
+      "name": "OKEECHOBEE",
+      "start_date": "1963-05-29",
+      "end_date": "2000-12-31",
+      "filename": "625b7d946e65.json"
+    },
+    "c707787499c7": {
+      "county_id": "fls_palmbeach",
+      "name": "PALM BEACH",
+      "start_date": "1963-05-29",
+      "end_date": "2000-12-31",
+      "filename": "c707787499c7.json"
+    },
+    "08be88588af4": {
+      "county_id": "fls_glades",
+      "name": "GLADES",
+      "start_date": "1963-05-29",
+      "end_date": "2000-12-31",
+      "filename": "08be88588af4.json"
+    },
+    "1cd740983cba": {
+      "county_id": "fls_hendry",
+      "name": "HENDRY",
+      "start_date": "1963-05-29",
+      "end_date": "2000-12-31",
+      "filename": "1cd740983cba.json"
+    },
+    "4f03b404b034": {
+      "county_id": "fls_polk",
+      "name": "POLK",
+      "start_date": "1968-01-01",
+      "end_date": "2000-12-31",
+      "filename": "4f03b404b034.json"
+    },
+    "4bb31ea6f03c": {
+      "county_id": "fls_osceola",
+      "name": "OSCEOLA",
+      "start_date": "1968-01-01",
+      "end_date": "2000-12-31",
+      "filename": "4bb31ea6f03c.json"
+    },
+    "04beeabc4bbb": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1972-03-30",
+      "end_date": "1986-09-30",
+      "filename": "04beeabc4bbb.json"
+    },
+    "4d3365e20ab4": {
+      "county_id": "fls_gulf",
+      "name": "GULF",
+      "start_date": "1972-03-30",
+      "end_date": "2000-12-31",
+      "filename": "4d3365e20ab4.json"
+    },
+    "66b13ca6bac0": {
+      "county_id": "fls_alachua",
+      "name": "ALACHUA",
+      "start_date": "1973-12-31",
+      "end_date": "2000-12-31",
+      "filename": "66b13ca6bac0.json"
+    },
+    "60588c185946": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1973-12-31",
+      "end_date": "2000-12-31",
+      "filename": "60588c185946.json"
+    },
+    "e6e518c60898": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1976-07-01",
+      "end_date": "1980-12-30",
+      "filename": "e6e518c60898.json"
+    },
+    "a09894165a99": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1976-07-01",
+      "end_date": "1980-12-30",
+      "filename": "a09894165a99.json"
+    },
+    "7a8a5080109a": {
+      "county_id": "fls_duval",
+      "name": "DUVAL",
+      "start_date": "1980-12-31",
+      "end_date": "2000-12-31",
+      "filename": "7a8a5080109a.json"
+    },
+    "01f6579abb45": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1980-12-31",
+      "end_date": "1984-06-13",
+      "filename": "01f6579abb45.json"
+    },
+    "b52e8e2f10d9": {
+      "county_id": "fls_clay",
+      "name": "CLAY",
+      "start_date": "1984-06-14",
+      "end_date": "2000-12-31",
+      "filename": "b52e8e2f10d9.json"
+    },
+    "af2a937fddcc": {
+      "county_id": "fls_putnam",
+      "name": "PUTNAM",
+      "start_date": "1984-06-14",
+      "end_date": "2000-12-31",
+      "filename": "af2a937fddcc.json"
+    },
+    "0937aa868cf8": {
+      "county_id": "fls_wakulla",
+      "name": "WAKULLA",
+      "start_date": "1986-10-01",
+      "end_date": "2000-12-31",
+      "filename": "0937aa868cf8.json"
+    },
+    "093fa2b97a61": {
+      "county_id": "fls_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1986-10-01",
+      "end_date": "2000-12-31",
+      "filename": "093fa2b97a61.json"
+    },
+    "d4ad282a1955": {
+      "county_id": "fls_escambia",
+      "name": "ESCAMBIA",
+      "start_date": "1991-04-27",
+      "end_date": "2000-12-31",
+      "filename": "d4ad282a1955.json"
+    },
+    "5c5e35da00a7": {
+      "county_id": "fls_santarosa",
+      "name": "SANTA ROSA",
+      "start_date": "1991-04-27",
+      "end_date": "2000-12-31",
+      "filename": "5c5e35da00a7.json"
+    },
+    "feb13d8cc34b": {
+      "county_id": "fls_miamidade",
+      "name": "MIAMI-DADE",
+      "start_date": "1997-11-13",
+      "end_date": "2000-12-31",
+      "filename": "feb13d8cc34b.json"
+    },
+    "6a67f71e70f0": {
+      "county_id": "fls_sumter",
+      "name": "SUMTER",
+      "start_date": "1853-01-08",
+      "end_date": "1866-12-12",
+      "filename": "6a67f71e70f0.json"
+    },
+    "95050c037a9c": {
+      "county_id": "fls_marion",
+      "name": "MARION",
+      "start_date": "1853-01-08",
+      "end_date": "1877-02-05",
+      "filename": "95050c037a9c.json"
+    },
+    "9cb49474bbea": {
+      "county_id": "fls_orange",
+      "name": "ORANGE",
+      "start_date": "1849-01-10",
+      "end_date": "1854-12-28",
+      "filename": "9cb49474bbea.json"
+    }
+  }
+}

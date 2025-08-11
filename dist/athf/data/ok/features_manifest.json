@@ -1,0 +1,1217 @@
+{
+  "state": "OK",
+  "total_features": 173,
+  "features": {
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "76c7463a526b": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "76c7463a526b.json"
+    },
+    "2a0cd9a030a7": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "2a0cd9a030a7.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "47e5784ac5e0": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1819-02-21",
+      "filename": "47e5784ac5e0.json"
+    },
+    "a0342e76e718": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-02-22",
+      "end_date": "1819-05-31",
+      "filename": "a0342e76e718.json"
+    },
+    "6e585f995e9a": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1819-02-22",
+      "end_date": "1836-12-18",
+      "filename": "6e585f995e9a.json"
+    },
+    "5c7326051c87": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1819-07-04",
+      "end_date": "1820-12-31",
+      "filename": "5c7326051c87.json"
+    },
+    "c86745bcfbcd": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-07-04",
+      "end_date": "1821-08-09",
+      "filename": "c86745bcfbcd.json"
+    },
+    "8ef2d9eb4914": {
+      "county_id": "ars_clark",
+      "name": "CLARK (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1823-10-29",
+      "filename": "8ef2d9eb4914.json"
+    },
+    "8f2317037ade": {
+      "county_id": "ars_pulaski",
+      "name": "PULASKI (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1820-12-31",
+      "filename": "8f2317037ade.json"
+    },
+    "b044b5fa1c3b": {
+      "county_id": "ars_hempstead",
+      "name": "HEMPSTEAD (Ark.)",
+      "start_date": "1819-06-01",
+      "end_date": "1820-03-31",
+      "filename": "b044b5fa1c3b.json"
+    },
+    "728870210211": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-06-01",
+      "end_date": "1819-07-03",
+      "filename": "728870210211.json"
+    },
+    "f8cca62f859e": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (Ark., orig)",
+      "start_date": "1820-04-01",
+      "end_date": "1824-05-25",
+      "filename": "f8cca62f859e.json"
+    },
+    "4490feebd994": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1821-10-24",
+      "end_date": "1823-10-29",
+      "filename": "4490feebd994.json"
+    },
+    "3dbb505af85c": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1821-01-01",
+      "end_date": "1821-10-23",
+      "filename": "3dbb505af85c.json"
+    },
+    "308139364970": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1824-05-25",
+      "filename": "308139364970.json"
+    },
+    "fbc1a3874181": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1821-01-01",
+      "end_date": "1824-05-25",
+      "filename": "fbc1a3874181.json"
+    },
+    "8d03454ebd6f": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1823-10-30",
+      "end_date": "1824-05-25",
+      "filename": "8d03454ebd6f.json"
+    },
+    "8fcacd478e7e": {
+      "county_id": "ars_clark",
+      "name": "CLARK (Ark.)",
+      "start_date": "1823-10-30",
+      "end_date": "1824-05-25",
+      "filename": "8fcacd478e7e.json"
+    },
+    "bba444594a50": {
+      "county_id": "ars_miller01",
+      "name": "MILLER (Ark., orig)",
+      "start_date": "1824-05-26",
+      "end_date": "1828-05-05",
+      "filename": "bba444594a50.json"
+    },
+    "a45b7cec7a72": {
+      "county_id": "art_part",
+      "name": "Arkansas Terr.",
+      "start_date": "1824-05-26",
+      "end_date": "1827-11-30",
+      "filename": "a45b7cec7a72.json"
+    },
+    "6af43b9c7607": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1824-05-26",
+      "end_date": "1827-10-12",
+      "filename": "6af43b9c7607.json"
+    },
+    "7532b09657a9": {
+      "county_id": "ars_clark",
+      "name": "CLARK (Ark.)",
+      "start_date": "1824-05-26",
+      "end_date": "1827-10-12",
+      "filename": "7532b09657a9.json"
+    },
+    "004d89edcc66": {
+      "county_id": "okt_indianterr",
+      "name": "Indian Terr.",
+      "start_date": "1824-05-26",
+      "end_date": "1828-05-05",
+      "filename": "004d89edcc66.json"
+    },
+    "928ecac5d8cf": {
+      "county_id": "art_loveley",
+      "name": "LOVELEY (Ark., ext)",
+      "start_date": "1827-12-01",
+      "end_date": "1828-05-05",
+      "filename": "928ecac5d8cf.json"
+    },
+    "2a7e253e4840": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1827-12-01",
+      "end_date": "1828-05-05",
+      "filename": "2a7e253e4840.json"
+    },
+    "f397c743d328": {
+      "county_id": "ars_clark",
+      "name": "CLARK (Ark.)",
+      "start_date": "1827-10-13",
+      "end_date": "1828-05-05",
+      "filename": "f397c743d328.json"
+    },
+    "9f1106730d26": {
+      "county_id": "ars_crawford",
+      "name": "CRAWFORD (Ark.)",
+      "start_date": "1827-10-13",
+      "end_date": "1827-11-30",
+      "filename": "9f1106730d26.json"
+    },
+    "3c54489c3dc8": {
+      "county_id": "okt_indianterr",
+      "name": "Indian Terr.",
+      "start_date": "1828-05-06",
+      "end_date": "1890-05-01",
+      "filename": "3c54489c3dc8.json"
+    },
+    "1c0384c90498": {
+      "county_id": "txs_bexar",
+      "name": "BEXAR (Tex.)",
+      "start_date": "1836-12-19",
+      "end_date": "1839-11-27",
+      "filename": "1c0384c90498.json"
+    },
+    "85eb24e06065": {
+      "county_id": "txs_fannin",
+      "name": "FANNIN (Tex.)",
+      "start_date": "1839-11-28",
+      "end_date": "1846-03-13",
+      "filename": "85eb24e06065.json"
+    },
+    "76fbae710ad9": {
+      "county_id": "txs_bexar",
+      "name": "BEXAR (Tex.)",
+      "start_date": "1839-11-28",
+      "end_date": "1848-03-14",
+      "filename": "76fbae710ad9.json"
+    },
+    "28a3fa05b86a": {
+      "county_id": "txs_nca",
+      "name": "Texas NCA",
+      "start_date": "1846-03-14",
+      "end_date": "1860-02-07",
+      "filename": "28a3fa05b86a.json"
+    },
+    "1899b21a6438": {
+      "county_id": "txs_santafe",
+      "name": "SANTA FE (Tex., ext)",
+      "start_date": "1848-03-15",
+      "end_date": "1849-12-30",
+      "filename": "1899b21a6438.json"
+    },
+    "97b5543ed6ae": {
+      "county_id": "txs_santafe",
+      "name": "SANTA FE (Tex., ext)",
+      "start_date": "1849-12-31",
+      "end_date": "1850-12-12",
+      "filename": "97b5543ed6ae.json"
+    },
+    "3d9be7031068": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1890-05-01",
+      "filename": "3d9be7031068.json"
+    },
+    "7b69a175785a": {
+      "county_id": "oks_greer",
+      "name": "GREER",
+      "start_date": "1860-02-08",
+      "end_date": "1896-05-03",
+      "filename": "7b69a175785a.json"
+    },
+    "6b3706429323": {
+      "county_id": "oks_beaver",
+      "name": "BEAVER",
+      "start_date": "1890-05-02",
+      "end_date": "1907-11-15",
+      "filename": "6b3706429323.json"
+    },
+    "32df1c200458": {
+      "county_id": "oks_payne",
+      "name": "PAYNE",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "32df1c200458.json"
+    },
+    "df1080f5d515": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "df1080f5d515.json"
+    },
+    "43ecd20c2672": {
+      "county_id": "oks_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "43ecd20c2672.json"
+    },
+    "8bc456c105aa": {
+      "county_id": "oks_kingfisher",
+      "name": "KINGFISHER",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "8bc456c105aa.json"
+    },
+    "9b605e89bcf4": {
+      "county_id": "oks_logan",
+      "name": "LOGAN",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "9b605e89bcf4.json"
+    },
+    "9b26d3deadc9": {
+      "county_id": "oks_canadian",
+      "name": "CANADIAN",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "9b26d3deadc9.json"
+    },
+    "7b08351edacf": {
+      "county_id": "oks_oklahoma",
+      "name": "OKLAHOMA",
+      "start_date": "1890-05-02",
+      "end_date": "1891-08-31",
+      "filename": "7b08351edacf.json"
+    },
+    "610d70fc2d9d": {
+      "county_id": "okt_indianterr",
+      "name": "Indian Terr.",
+      "start_date": "1890-05-02",
+      "end_date": "1893-08-18",
+      "filename": "610d70fc2d9d.json"
+    },
+    "599de491e0cf": {
+      "county_id": "oks_payne",
+      "name": "PAYNE",
+      "start_date": "1891-09-01",
+      "end_date": "1893-09-15",
+      "filename": "599de491e0cf.json"
+    },
+    "6dd73f249677": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1891-09-01",
+      "end_date": "1893-08-18",
+      "filename": "6dd73f249677.json"
+    },
+    "2760fa6aa723": {
+      "county_id": "oks_rogermills",
+      "name": "ROGER MILLS",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "2760fa6aa723.json"
+    },
+    "8b2cb8861ddc": {
+      "county_id": "oks_kingfisher",
+      "name": "KINGFISHER",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "8b2cb8861ddc.json"
+    },
+    "6700ddce7454": {
+      "county_id": "oks_logan",
+      "name": "LOGAN",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "6700ddce7454.json"
+    },
+    "cdce7ae9628e": {
+      "county_id": "oks_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "cdce7ae9628e.json"
+    },
+    "c28bdd2946ee": {
+      "county_id": "oks_oklahoma",
+      "name": "OKLAHOMA",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "c28bdd2946ee.json"
+    },
+    "dec55894893c": {
+      "county_id": "oks_cleveland",
+      "name": "CLEVELAND",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "dec55894893c.json"
+    },
+    "9fd0deba5e63": {
+      "county_id": "oks_pottawatomie",
+      "name": "POTTAWATOMIE",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "9fd0deba5e63.json"
+    },
+    "a6e534666af9": {
+      "county_id": "oks_washita",
+      "name": "WASHITA",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "a6e534666af9.json"
+    },
+    "7901a49f21ed": {
+      "county_id": "oks_dewey",
+      "name": "DEWEY",
+      "start_date": "1891-09-01",
+      "end_date": "2000-12-31",
+      "filename": "7901a49f21ed.json"
+    },
+    "3dd096c8627e": {
+      "county_id": "okt_countyi",
+      "name": "COUNTY I (ext)",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "3dd096c8627e.json"
+    },
+    "1ab1aafff8ed": {
+      "county_id": "oks_blaine",
+      "name": "BLAINE",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "1ab1aafff8ed.json"
+    },
+    "ab7809a2f478": {
+      "county_id": "oks_custer",
+      "name": "CUSTER",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "ab7809a2f478.json"
+    },
+    "e7628e3db679": {
+      "county_id": "oks_canadian",
+      "name": "CANADIAN",
+      "start_date": "1891-09-01",
+      "end_date": "1901-07-07",
+      "filename": "e7628e3db679.json"
+    },
+    "01fd24ee536a": {
+      "county_id": "okt_day",
+      "name": "DAY (ext)",
+      "start_date": "1891-09-01",
+      "end_date": "1907-11-15",
+      "filename": "01fd24ee536a.json"
+    },
+    "8921a924934e": {
+      "county_id": "oks_grant",
+      "name": "GRANT",
+      "start_date": "1893-09-16",
+      "end_date": "2000-12-31",
+      "filename": "8921a924934e.json"
+    },
+    "04e0d6ad8d69": {
+      "county_id": "oks_garfield",
+      "name": "GARFIELD",
+      "start_date": "1893-09-16",
+      "end_date": "2000-12-31",
+      "filename": "04e0d6ad8d69.json"
+    },
+    "8c0680cbdef4": {
+      "county_id": "oks_noble",
+      "name": "NOBLE",
+      "start_date": "1893-09-16",
+      "end_date": "1904-04-20",
+      "filename": "8c0680cbdef4.json"
+    },
+    "3b053996ed58": {
+      "county_id": "oks_kay",
+      "name": "KAY",
+      "start_date": "1893-09-16",
+      "end_date": "1904-04-20",
+      "filename": "3b053996ed58.json"
+    },
+    "2f7c52149294": {
+      "county_id": "oks_payne",
+      "name": "PAYNE",
+      "start_date": "1893-09-16",
+      "end_date": "1907-11-15",
+      "filename": "2f7c52149294.json"
+    },
+    "a6730b9aa4ec": {
+      "county_id": "oks_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1893-09-16",
+      "end_date": "1904-04-20",
+      "filename": "a6730b9aa4ec.json"
+    },
+    "a128a4f4469e": {
+      "county_id": "oks_woods",
+      "name": "WOODS",
+      "start_date": "1893-09-16",
+      "end_date": "1907-11-15",
+      "filename": "a128a4f4469e.json"
+    },
+    "012bda2335b9": {
+      "county_id": "oks_woodward",
+      "name": "WOODWARD",
+      "start_date": "1893-09-16",
+      "end_date": "1907-11-15",
+      "filename": "012bda2335b9.json"
+    },
+    "0da8cdb72db3": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1893-09-16",
+      "end_date": "1896-05-03",
+      "filename": "0da8cdb72db3.json"
+    },
+    "e4200746d693": {
+      "county_id": "okt_indianterr",
+      "name": "Indian Terr.",
+      "start_date": "1893-08-19",
+      "end_date": "1907-11-15",
+      "filename": "e4200746d693.json"
+    },
+    "eb0b85c8561b": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1893-08-19",
+      "end_date": "1893-09-15",
+      "filename": "eb0b85c8561b.json"
+    },
+    "8349a349e34f": {
+      "county_id": "oks_greer",
+      "name": "GREER",
+      "start_date": "1896-05-04",
+      "end_date": "1907-11-15",
+      "filename": "8349a349e34f.json"
+    },
+    "d6fa74d8f4c5": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1896-05-04",
+      "end_date": "1901-07-07",
+      "filename": "d6fa74d8f4c5.json"
+    },
+    "a8cdfd4060d7": {
+      "county_id": "oks_caddo",
+      "name": "CADDO",
+      "start_date": "1901-07-08",
+      "end_date": "1907-11-15",
+      "filename": "a8cdfd4060d7.json"
+    },
+    "aaa2a35fea48": {
+      "county_id": "oks_blaine",
+      "name": "BLAINE",
+      "start_date": "1901-07-08",
+      "end_date": "1907-11-15",
+      "filename": "aaa2a35fea48.json"
+    },
+    "981b45d69e44": {
+      "county_id": "oks_rogermills",
+      "name": "ROGER MILLS",
+      "start_date": "1901-07-08",
+      "end_date": "1907-11-15",
+      "filename": "981b45d69e44.json"
+    },
+    "f077f1249752": {
+      "county_id": "oks_washita",
+      "name": "WASHITA",
+      "start_date": "1901-07-08",
+      "end_date": "2000-12-31",
+      "filename": "f077f1249752.json"
+    },
+    "e3746305a583": {
+      "county_id": "oks_kiowa",
+      "name": "KIOWA",
+      "start_date": "1901-07-08",
+      "end_date": "1911-12-11",
+      "filename": "e3746305a583.json"
+    },
+    "fa8743e12e9d": {
+      "county_id": "oks_canadian",
+      "name": "CANADIAN",
+      "start_date": "1901-07-08",
+      "end_date": "2000-12-31",
+      "filename": "fa8743e12e9d.json"
+    },
+    "8563bb92772f": {
+      "county_id": "oks_comanche",
+      "name": "COMANCHE",
+      "start_date": "1901-07-08",
+      "end_date": "1907-11-15",
+      "filename": "8563bb92772f.json"
+    },
+    "7841ce74f202": {
+      "county_id": "oks_custer",
+      "name": "CUSTER",
+      "start_date": "1901-07-08",
+      "end_date": "2000-12-31",
+      "filename": "7841ce74f202.json"
+    },
+    "9370de720873": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1901-07-08",
+      "end_date": "1904-04-20",
+      "filename": "9370de720873.json"
+    },
+    "3c58560e2bc1": {
+      "county_id": "oks_kay",
+      "name": "KAY",
+      "start_date": "1904-04-21",
+      "end_date": "2000-12-31",
+      "filename": "3c58560e2bc1.json"
+    },
+    "418e95c35328": {
+      "county_id": "oks_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1904-04-21",
+      "end_date": "2000-12-31",
+      "filename": "418e95c35328.json"
+    },
+    "771c673aeacd": {
+      "county_id": "oks_noble",
+      "name": "NOBLE",
+      "start_date": "1904-04-21",
+      "end_date": "1907-11-15",
+      "filename": "771c673aeacd.json"
+    },
+    "1204250f178e": {
+      "county_id": "okt",
+      "name": "Oklahoma Terr.",
+      "start_date": "1904-04-21",
+      "end_date": "1907-11-15",
+      "filename": "1204250f178e.json"
+    },
+    "49cad21c88d5": {
+      "county_id": "oks_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1907-11-16",
+      "end_date": "1925-12-30",
+      "filename": "49cad21c88d5.json"
+    },
+    "d8b0e5e351b6": {
+      "county_id": "oks_love",
+      "name": "LOVE",
+      "start_date": "1907-11-16",
+      "end_date": "1925-12-30",
+      "filename": "d8b0e5e351b6.json"
+    },
+    "ee63ca2bb6c8": {
+      "county_id": "oks_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1907-11-16",
+      "end_date": "1924-11-20",
+      "filename": "ee63ca2bb6c8.json"
+    },
+    "5ab80bf53026": {
+      "county_id": "oks_mcintosh",
+      "name": "McINTOSH",
+      "start_date": "1907-11-16",
+      "end_date": "1915-12-30",
+      "filename": "5ab80bf53026.json"
+    },
+    "bc82c2b6f123": {
+      "county_id": "oks_hughes",
+      "name": "HUGHES",
+      "start_date": "1907-11-16",
+      "end_date": "1915-12-30",
+      "filename": "bc82c2b6f123.json"
+    },
+    "03f45b843309": {
+      "county_id": "oks_rogers",
+      "name": "ROGERS",
+      "start_date": "1907-11-16",
+      "end_date": "1918-09-02",
+      "filename": "03f45b843309.json"
+    },
+    "8894bc7ae8a7": {
+      "county_id": "oks_tulsa",
+      "name": "TULSA",
+      "start_date": "1907-11-16",
+      "end_date": "1909-12-30",
+      "filename": "8894bc7ae8a7.json"
+    },
+    "1a4f6877c020": {
+      "county_id": "oks_wagoner",
+      "name": "WAGONER",
+      "start_date": "1907-11-16",
+      "end_date": "1909-12-30",
+      "filename": "1a4f6877c020.json"
+    },
+    "7039f2ea9686": {
+      "county_id": "oks_okmulgee",
+      "name": "OKMULGEE",
+      "start_date": "1907-11-16",
+      "end_date": "1918-06-30",
+      "filename": "7039f2ea9686.json"
+    },
+    "0ca0246bb7a8": {
+      "county_id": "oks_craig",
+      "name": "CRAIG",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "0ca0246bb7a8.json"
+    },
+    "e23f63ccac3f": {
+      "county_id": "oks_ottawa",
+      "name": "OTTAWA",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "e23f63ccac3f.json"
+    },
+    "de450ef95320": {
+      "county_id": "oks_nowata",
+      "name": "NOWATA",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "de450ef95320.json"
+    },
+    "2a92b84c68c5": {
+      "county_id": "oks_delaware",
+      "name": "DELAWARE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "2a92b84c68c5.json"
+    },
+    "d4157a3817ad": {
+      "county_id": "oks_mayes",
+      "name": "MAYES",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "d4157a3817ad.json"
+    },
+    "10288ae1b4f1": {
+      "county_id": "oks_creek",
+      "name": "CREEK",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "10288ae1b4f1.json"
+    },
+    "b9951c262601": {
+      "county_id": "oks_adair",
+      "name": "ADAIR",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "b9951c262601.json"
+    },
+    "2c6104c57f9a": {
+      "county_id": "oks_muskogee",
+      "name": "MUSKOGEE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "2c6104c57f9a.json"
+    },
+    "ee4ea2bd4df8": {
+      "county_id": "oks_okfuskee",
+      "name": "OKFUSKEE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "ee4ea2bd4df8.json"
+    },
+    "a75cac82c6a6": {
+      "county_id": "oks_sequoyah",
+      "name": "SEQUOYAH",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "a75cac82c6a6.json"
+    },
+    "4b4cdc20876e": {
+      "county_id": "oks_seminole",
+      "name": "SEMINOLE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "4b4cdc20876e.json"
+    },
+    "82ae02ced7ef": {
+      "county_id": "oks_haskell",
+      "name": "HASKELL",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "82ae02ced7ef.json"
+    },
+    "b0b215680562": {
+      "county_id": "oks_leflore",
+      "name": "LE FLORE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "b0b215680562.json"
+    },
+    "1ed560c1be33": {
+      "county_id": "oks_mcclain",
+      "name": "McCLAIN",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "1ed560c1be33.json"
+    },
+    "f5dd50121105": {
+      "county_id": "oks_pittsburg",
+      "name": "PITTSBURG",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "f5dd50121105.json"
+    },
+    "e67b64883c71": {
+      "county_id": "oks_latimer",
+      "name": "LATIMER",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "e67b64883c71.json"
+    },
+    "c7d2f2da863e": {
+      "county_id": "oks_pontotoc",
+      "name": "PONTOTOC",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "c7d2f2da863e.json"
+    },
+    "a67884d1842e": {
+      "county_id": "oks_garvin",
+      "name": "GARVIN",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "a67884d1842e.json"
+    },
+    "98aae280140f": {
+      "county_id": "oks_coal",
+      "name": "COAL",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "98aae280140f.json"
+    },
+    "ed6784f44054": {
+      "county_id": "oks_pushmataha",
+      "name": "PUSHMATAHA",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "ed6784f44054.json"
+    },
+    "501ea17238db": {
+      "county_id": "oks_atoka",
+      "name": "ATOKA",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "501ea17238db.json"
+    },
+    "33410cd75111": {
+      "county_id": "oks_murray",
+      "name": "MURRAY",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "33410cd75111.json"
+    },
+    "a340bce8a8bf": {
+      "county_id": "oks_mccurtain",
+      "name": "McCURTAIN",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "a340bce8a8bf.json"
+    },
+    "f296f72dcf40": {
+      "county_id": "oks_carter",
+      "name": "CARTER",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "f296f72dcf40.json"
+    },
+    "d2d49360e6b1": {
+      "county_id": "oks_johnston",
+      "name": "JOHNSTON",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "d2d49360e6b1.json"
+    },
+    "beeb3e807c6a": {
+      "county_id": "oks_bryan",
+      "name": "BRYAN",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "beeb3e807c6a.json"
+    },
+    "7961d6b52da3": {
+      "county_id": "oks_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "7961d6b52da3.json"
+    },
+    "7316497aa700": {
+      "county_id": "oks_washington",
+      "name": "WASHINGTON",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "7316497aa700.json"
+    },
+    "62aefce2c56c": {
+      "county_id": "oks_marshall",
+      "name": "MARSHALL",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "62aefce2c56c.json"
+    },
+    "ab0645e672c3": {
+      "county_id": "oks_comanche",
+      "name": "COMANCHE",
+      "start_date": "1907-11-16",
+      "end_date": "1912-11-17",
+      "filename": "ab0645e672c3.json"
+    },
+    "26a27363d627": {
+      "county_id": "oks_caddo",
+      "name": "CADDO",
+      "start_date": "1907-11-16",
+      "end_date": "1911-12-30",
+      "filename": "26a27363d627.json"
+    },
+    "7238ef49793c": {
+      "county_id": "oks_grady",
+      "name": "GRADY",
+      "start_date": "1907-11-16",
+      "end_date": "1911-12-30",
+      "filename": "7238ef49793c.json"
+    },
+    "6c694e73f55d": {
+      "county_id": "oks_tillman",
+      "name": "TILLMAN",
+      "start_date": "1907-11-16",
+      "end_date": "1911-12-11",
+      "filename": "6c694e73f55d.json"
+    },
+    "6d16aced04bb": {
+      "county_id": "oks_harper",
+      "name": "HARPER",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "6d16aced04bb.json"
+    },
+    "f473c55f5974": {
+      "county_id": "oks_cimarron",
+      "name": "CIMARRON",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "f473c55f5974.json"
+    },
+    "484f762fc253": {
+      "county_id": "oks_osage",
+      "name": "OSAGE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "484f762fc253.json"
+    },
+    "151c2d4b2d27": {
+      "county_id": "oks_texas",
+      "name": "TEXAS",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "151c2d4b2d27.json"
+    },
+    "fe8195d12af2": {
+      "county_id": "oks_major",
+      "name": "MAJOR",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "fe8195d12af2.json"
+    },
+    "25d8585b4a52": {
+      "county_id": "oks_jackson",
+      "name": "JACKSON",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "25d8585b4a52.json"
+    },
+    "f43706a405eb": {
+      "county_id": "oks_stephens",
+      "name": "STEPHENS",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "f43706a405eb.json"
+    },
+    "c1a8cc28049c": {
+      "county_id": "oks_alfalfa",
+      "name": "ALFALFA",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "c1a8cc28049c.json"
+    },
+    "0dfb42ad6f7c": {
+      "county_id": "oks_beaver",
+      "name": "BEAVER",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "0dfb42ad6f7c.json"
+    },
+    "8e8417d6c619": {
+      "county_id": "oks_beckham",
+      "name": "BECKHAM",
+      "start_date": "1907-11-16",
+      "end_date": "1910-12-30",
+      "filename": "8e8417d6c619.json"
+    },
+    "aa5bfbe828be": {
+      "county_id": "oks_greer",
+      "name": "GREER",
+      "start_date": "1907-11-16",
+      "end_date": "1909-05-21",
+      "filename": "aa5bfbe828be.json"
+    },
+    "1bdc72eb133c": {
+      "county_id": "oks_blaine",
+      "name": "BLAINE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "1bdc72eb133c.json"
+    },
+    "3bf5572cde81": {
+      "county_id": "oks_woodward",
+      "name": "WOODWARD",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "3bf5572cde81.json"
+    },
+    "a5c4548ccaff": {
+      "county_id": "oks_woods",
+      "name": "WOODS",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "a5c4548ccaff.json"
+    },
+    "1ec3dd65b5b6": {
+      "county_id": "oks_noble",
+      "name": "NOBLE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "1ec3dd65b5b6.json"
+    },
+    "b36cd721ca84": {
+      "county_id": "oks_payne",
+      "name": "PAYNE",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "b36cd721ca84.json"
+    },
+    "2d5b7d22b72f": {
+      "county_id": "oks_rogermills",
+      "name": "ROGER MILLS",
+      "start_date": "1907-11-16",
+      "end_date": "2000-12-31",
+      "filename": "2d5b7d22b72f.json"
+    },
+    "40c6829980b5": {
+      "county_id": "oks_ellis",
+      "name": "ELLIS",
+      "start_date": "1907-11-16",
+      "end_date": "1908-05-28",
+      "filename": "40c6829980b5.json"
+    },
+    "457c7aafaca1": {
+      "county_id": "oks_nca",
+      "name": "NCA",
+      "start_date": "1907-11-16",
+      "end_date": "1908-05-28",
+      "filename": "457c7aafaca1.json"
+    },
+    "7012631bf783": {
+      "county_id": "oks_ellis",
+      "name": "ELLIS",
+      "start_date": "1908-05-29",
+      "end_date": "2000-12-31",
+      "filename": "7012631bf783.json"
+    },
+    "320b51823997": {
+      "county_id": "oks_wagoner",
+      "name": "WAGONER",
+      "start_date": "1909-12-31",
+      "end_date": "1924-11-20",
+      "filename": "320b51823997.json"
+    },
+    "d0aa0aca5e29": {
+      "county_id": "oks_tulsa",
+      "name": "TULSA",
+      "start_date": "1909-12-31",
+      "end_date": "1918-09-02",
+      "filename": "d0aa0aca5e29.json"
+    },
+    "d6aa277999ae": {
+      "county_id": "oks_harmon",
+      "name": "HARMON",
+      "start_date": "1909-05-22",
+      "end_date": "2000-12-31",
+      "filename": "d6aa277999ae.json"
+    },
+    "c1cf2ff890e3": {
+      "county_id": "oks_greer",
+      "name": "GREER",
+      "start_date": "1909-05-22",
+      "end_date": "1910-12-30",
+      "filename": "c1cf2ff890e3.json"
+    },
+    "d978b38d2561": {
+      "county_id": "oks_beckham",
+      "name": "BECKHAM",
+      "start_date": "1910-12-31",
+      "end_date": "2000-12-31",
+      "filename": "d978b38d2561.json"
+    },
+    "485268daf718": {
+      "county_id": "oks_greer",
+      "name": "GREER",
+      "start_date": "1910-12-31",
+      "end_date": "2000-12-31",
+      "filename": "485268daf718.json"
+    },
+    "e9837c188d0f": {
+      "county_id": "oks_caddo",
+      "name": "CADDO",
+      "start_date": "1911-12-31",
+      "end_date": "2000-12-31",
+      "filename": "e9837c188d0f.json"
+    },
+    "eaf967546c0e": {
+      "county_id": "oks_grady",
+      "name": "GRADY",
+      "start_date": "1911-12-31",
+      "end_date": "2000-12-31",
+      "filename": "eaf967546c0e.json"
+    },
+    "55a31ef6def0": {
+      "county_id": "oks_kiowa",
+      "name": "KIOWA",
+      "start_date": "1911-12-12",
+      "end_date": "2000-12-31",
+      "filename": "55a31ef6def0.json"
+    },
+    "a3d25156a71d": {
+      "county_id": "oks_tillman",
+      "name": "TILLMAN",
+      "start_date": "1911-12-12",
+      "end_date": "2000-12-31",
+      "filename": "a3d25156a71d.json"
+    },
+    "74ac3bc47570": {
+      "county_id": "oks_comanche",
+      "name": "COMANCHE",
+      "start_date": "1912-11-18",
+      "end_date": "2000-12-31",
+      "filename": "74ac3bc47570.json"
+    },
+    "ea682703318a": {
+      "county_id": "oks_cotton",
+      "name": "COTTON",
+      "start_date": "1912-11-18",
+      "end_date": "2000-12-31",
+      "filename": "ea682703318a.json"
+    },
+    "28e004905dad": {
+      "county_id": "oks_mcintosh",
+      "name": "McINTOSH",
+      "start_date": "1915-12-31",
+      "end_date": "1918-06-30",
+      "filename": "28e004905dad.json"
+    },
+    "1a3db836e4ae": {
+      "county_id": "oks_hughes",
+      "name": "HUGHES",
+      "start_date": "1915-12-31",
+      "end_date": "2000-12-31",
+      "filename": "1a3db836e4ae.json"
+    },
+    "d85308c4fe67": {
+      "county_id": "oks_rogers",
+      "name": "ROGERS",
+      "start_date": "1918-09-03",
+      "end_date": "2000-12-31",
+      "filename": "d85308c4fe67.json"
+    },
+    "303bcee2036f": {
+      "county_id": "oks_tulsa",
+      "name": "TULSA",
+      "start_date": "1918-09-03",
+      "end_date": "2000-12-31",
+      "filename": "303bcee2036f.json"
+    },
+    "856bb9a80905": {
+      "county_id": "oks_mcintosh",
+      "name": "McINTOSH",
+      "start_date": "1918-07-01",
+      "end_date": "2000-12-31",
+      "filename": "856bb9a80905.json"
+    },
+    "6ed72d559fe8": {
+      "county_id": "oks_okmulgee",
+      "name": "OKMULGEE",
+      "start_date": "1918-07-01",
+      "end_date": "2000-12-31",
+      "filename": "6ed72d559fe8.json"
+    },
+    "de5a4b03152b": {
+      "county_id": "oks_wagoner",
+      "name": "WAGONER",
+      "start_date": "1924-11-21",
+      "end_date": "2000-12-31",
+      "filename": "de5a4b03152b.json"
+    },
+    "fcc184aa53be": {
+      "county_id": "oks_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1924-11-21",
+      "end_date": "2000-12-31",
+      "filename": "fcc184aa53be.json"
+    },
+    "453da01f9db0": {
+      "county_id": "oks_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1925-12-31",
+      "end_date": "2000-12-31",
+      "filename": "453da01f9db0.json"
+    },
+    "42fbb1209842": {
+      "county_id": "oks_love",
+      "name": "LOVE",
+      "start_date": "1925-12-31",
+      "end_date": "2000-12-31",
+      "filename": "42fbb1209842.json"
+    }
+  }
+}
