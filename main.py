@@ -132,6 +132,7 @@ global_header = (
                     ]
                 ),
                 cls="nav-menu",
+                id="nav-menu",
             ),
             ft("dark-mode-toggle")(),
             cls="header-right",
@@ -165,6 +166,7 @@ def home():
                     cls="home-content",
                 )
             ),
+            Script(src="/athf/static/js/main.js"),
             Script(src="/athf/static/js/dark-mode-toggle.js"),
             Script(src="/athf/static/js/newberry-logo.js"),
         ),
@@ -214,6 +216,7 @@ def all_maps_page():
                 )
             ),
             Script(src="/athf/static/js/wander.js"),
+            Script(src="/athf/static/js/main.js"),
             Script(src="/athf/static/js/dark-mode-toggle.js"),
             Script(src="/athf/static/js/newberry-logo.js"),
         ),
@@ -272,6 +275,7 @@ def state_page(state_code: str):
             # JavaScript files and initialization
             Script(src="/athf/static/js/dark-mode-toggle.js"),
             Script(src="/athf/static/js/newberry-logo.js"),
+            Script(src="/athf/static/js/main.js"),
             Script(src="/athf/static/js/leaflet.js"),
             Script(src="/athf/static/js/leaflet.timeline.min.js"),
             Script(src="/athf/static/js/map.js"),

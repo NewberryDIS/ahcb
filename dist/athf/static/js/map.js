@@ -200,7 +200,7 @@ async function loadHighResDataForDate(date) {
   }
 
   // Show loading indicator
-  showLoadingIndicator("Loading detailed boundaries...");
+  showLoadingIndicator();
 
   try {
     // Get features that should be visible at this date
