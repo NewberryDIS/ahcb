@@ -1,0 +1,119 @@
+.jumbotron {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("/athf/static/images/usa_dark.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.styrene {
+  background-image: url("/athf/static/images/jumbo-styrene.png");
+}
+.rock {
+  background-image: url("/athf/static/images/jumbo-rockwell.png");
+}
+.big {
+  text-decoration: none;
+  mix-blend-mode: difference;
+  flex: 1;
+  width: 75vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.big h1 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  color: transparent;
+  height: 66%;
+  width: 66%;
+}
+.smalls {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: column-reverse;
+  justify-content: space-evenly;
+}
+.smalls {
+  /* flex-basis: 20vw; */
+  flex-basis: 300px;
+}
+.small {
+  color: var(--fg-color);
+  text-decoration: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.small {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 33px;
+  /* line-height: 30px; */
+  line-height: 1;
+  /* background-image: linear-gradient( */
+  /*   to right, */
+  /*   rgba(0, 0, 0, 0.4), */
+  /*   rgba(0, 0, 0, 0.4) */
+  /* ); */
+  /* background-image: url("/athf/static/images/smalls_bg.jpg"); */
+}
+#aboutus {
+  background-image:
+    linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("/athf/static/images/aboutus.jpg");
+}
+#downloads {
+  background-image:
+    linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("/athf/static/images/downloads.jpg");
+}
+body:has(.jumbotron) .main-header {
+  display: none;
+}
+.small#maps {
+  /* background-image: linear-gradient( */
+  /*   to right, */
+  /*   rgba(0, 0, 0, 0.4), */
+  /*   rgba(0, 0, 0, 0.4) */
+  /* ); */
+  & h2 {
+    background-image: linear-gradient(to right, darkred, darkred);
+  }
+}
+.small:not(#maps) h2 {
+  /* border-width: 1px 1px 0 1px; */
+  /* background-image: linear-gradient(to right, darkred, darkred); */
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  );
+}
+.small h2 {
+  /* mix-blend-mode: difference; */
+  /* border: 1px solid white; */
+  font-family: "styrene";
+  padding: 2rem;
+  display: block;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 0 100%;
+  background-position: 100% 0;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+  transition: 333ms;
+}
+.small:hover h2 {
+  background-size: 100% 100%;
+}

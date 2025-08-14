@@ -1,4 +1,3 @@
-// Global variables
 let map;
 let timelineControl;
 let currentHighlight;
@@ -9,86 +8,90 @@ let dateStabilityTimer;
 let loadedHighResData = new Map();
 let isHighResMode = false;
 
+let downloadModal;
+
+document.body.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+    if (event.target.classList.contains("time-slider")) {
+      event.preventDefault();
+      handleRangeInputKeypress(event.key);
+    }
+  }
+});
+
 // Configuration
 const HIGH_RES_DELAY = 500;
 const CACHE_LIMIT = 10;
 
-// Initialize the map
-function initializeMap(stateCode, stateName, previewData, manifestData) {
-  // Calculate bounds from preview data
-  const bounds = calculateBounds(previewData);
+function getDateFromURL() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const dateParam = urlParams.get("date");
 
-  // Initialize map
-  map = L.map("map").fitBounds(bounds, {
-    padding: [20, 20],
-    paddingBottomRight: [220, 20],
-  });
-
-  // Add base tile layer
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution:
-      '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  }).addTo(map);
-
-  // Process data for timeline
-  const timelineData = processDataForTimeline(previewData);
-
-  // Create timeline control
-  createTimelineControl(timelineData);
-
-  // Set up info panel
-  setupInfoPanel();
-
-  // Add loading indicator
-  addLoadingIndicator();
+  if (dateParam) {
+    return parseHistoricalDate(dateParam);
+  }
+  return null;
 }
 
-// Calculate bounds from GeoJSON data
-function calculateBounds(geojsonData) {
-  const group = L.geoJSON(geojsonData);
-  return group.getBounds();
+function parseHistoricalDate(dateString, returnType = "timestamp") {
+  // console.log(" parseHistoricalDate dateString", dateString)
+
+  // Parse as UTC to avoid timezone issues, then create a local date at noon
+  // This prevents off-by-one errors from timezone shifts
+  if (typeof dateString === "number") {
+    let date = new Date(dateString);
+    if (returnType === "date") {
+      return date;
+    } else {
+      return date.getTime();
+    }
+  } else if (
+    typeof dateString === "undefined" ||
+    typeof dateString !== "string" ||
+    dateString.indexOf("-") === -1
+  ) {
+    dateString = "2000-12-31";
+  }
+  const parts = dateString.split("-") || ["2000", "12", "31"];
+  if (parts.length === 3) {
+    const year = parseInt(parts[0]);
+    const month = parseInt(parts[1]) - 1; // Month is 0-indexed
+    const day = parseInt(parts[2]);
+
+    if (!isNaN(year) && !isNaN(month) && !isNaN(day)) {
+      // Create date at noon local time to avoid timezone edge cases
+      const date = new Date(year, month, day, 12, 0, 0);
+      if (returnType === "date") {
+        return date;
+      } else {
+        return date.getTime();
+      }
+    }
+  }
+  return new Date().getTime();
 }
 
-// Process GeoJSON data for timeline use
-function processDataForTimeline(geojsonData) {
-  const processedFeatures = geojsonData.features.map((feature) => {
-    const startDate = new Date(feature.properties.START_DATE);
-    const endDate = feature.properties.END_DATE
-      ? new Date(feature.properties.END_DATE)
-      : new Date();
-
-    return {
-      type: "Feature",
-      properties: {
-        ...feature.properties,
-        start: startDate.getTime(),
-        end: endDate.getTime(),
-      },
-      geometry: feature.geometry,
-    };
-  });
-
-  return {
-    type: "FeatureCollection",
-    features: processedFeatures,
-  };
-}
-
-// Create timeline control
 function createTimelineControl(timelineData) {
   // Get date range
-  const dates = [];
+  // Dedupe date list
+  const allDates = [];
   timelineData.features.forEach((feature) => {
-    dates.push(feature.properties.start);
-    if (feature.properties.end !== feature.properties.start) {
-      dates.push(feature.properties.end);
-    }
+    allDates.push(feature.properties.START_DATE);
+    allDates.push(feature.properties.END_DATE);
   });
 
+  let dates = [...new Set(allDates)].map((d) => new Date(d).getTime());
   const minDate = Math.min(...dates);
   const maxDate = Math.max(...dates);
 
-  // Create timeline layer
+  const urlDate = getDateFromURL();
+
+  if (urlDate && (urlDate < minDate || urlDate > maxDate)) {
+    console.warn(
+      `Date parameter ${new Date(urlDate).toISOString().split("T")[0]} is outside data range (${new Date(minDate).toISOString().split("T")[0]} - ${new Date(maxDate).toISOString().split("T")[0]})`,
+    );
+  }
+
   geojsonLayer = L.timeline(timelineData, {
     pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
@@ -96,7 +99,7 @@ function createTimelineControl(timelineData) {
         fillColor: "var(--county-bg-color)",
         color: "var(--county-fg-color)",
         weight: 2,
-        opacity: 1,
+        opacity: 0.8,
         fillOpacity: 0.6,
       });
     },
@@ -110,12 +113,10 @@ function createTimelineControl(timelineData) {
       };
     },
     onEachFeature: function (feature, layer) {
-      // Add click event
       layer.on("click", function (e) {
         onCountyClick(feature, layer);
       });
 
-      // Add hover effect
       layer.on("mouseover", function (e) {
         layer.setStyle({
           weight: 2,
@@ -141,7 +142,7 @@ function createTimelineControl(timelineData) {
   // Create timeline control
   timelineControl = L.timelineSliderControl({
     formatOutput: function (date) {
-      return formatDate(new Date(date));
+      return formatDate(parseHistoricalDate(date, "date"));
     },
     duration: 1000,
     showTicks: true,
@@ -153,15 +154,20 @@ function createTimelineControl(timelineData) {
   timelineControl.addTo(map);
   timelineControl.addTimelines(geojsonLayer);
 
-  // Listen for timeline changes
+  // If URL date was provided and is valid, set the timeline to that date
+  if (urlDate && urlDate >= minDate && urlDate <= maxDate) {
+    timelineControl.setTime(urlDate);
+    // console.log(
+    //   `Timeline positioned at URL date: ${new Date(urlDate).toISOString().split("T")[0]}`,
+    // );
+  }
+
   geojsonLayer.on("change", function (e) {
     const newDate = e.target.time;
     onTimelineChange(newDate);
   });
 
-  // Set initial date and trigger potential high-res loading
-  const initialDate = geojsonLayer.time || timelineControl.getDisplayed();
-  currentDate = initialDate;
+  currentDate = geojsonLayer.time || minDate; // Use actual timeline time or fallback to minDate
 
   // Start timer for initial high-res loading
   dateStabilityTimer = setTimeout(() => {
@@ -169,21 +175,74 @@ function createTimelineControl(timelineData) {
   }, HIGH_RES_DELAY);
 }
 
-// Handle timeline changes
+// Initialize the map
+function initializeMap(stateCode, stateName, previewData, manifestData) {
+  const bounds = calculateBounds(previewData);
+
+  // Initialize map
+  map = L.map("map").fitBounds(bounds, {
+    padding: [20, 20],
+    paddingBottomRight: [220, 20],
+  });
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  const timelineData = processDataForTimeline(previewData);
+
+  createTimelineControl(timelineData);
+  setupInfoPanel();
+  addLoadingIndicator();
+}
+
+function calculateBounds(geojsonData) {
+  const group = L.geoJSON(geojsonData);
+  return group.getBounds();
+}
+
+function processDataForTimeline(geojsonData) {
+  const processedFeatures = geojsonData.features.map((feature) => {
+    const startDate =
+      feature.properties.START_DATE &&
+      typeof feature.properties.START_DATE === "string"
+        ? parseHistoricalDate(feature.properties.START_DATE)
+        : new Date().getTime();
+    const endDate =
+      feature.properties.END_DATE &&
+      typeof feature.properties.END_DATE === "string"
+        ? parseHistoricalDate(feature.properties.END_DATE)
+        : new Date().getTime();
+
+    return {
+      type: "Feature",
+      properties: {
+        ...feature.properties,
+        start: startDate,
+        end: endDate,
+      },
+      geometry: feature.geometry,
+    };
+  });
+  return {
+    type: "FeatureCollection",
+    features: processedFeatures,
+  };
+}
+
 function onTimelineChange(newDate) {
   currentDate = newDate;
-
+  // console.log("currentDate", currentDate);
   // Clear any existing timer
   if (dateStabilityTimer) {
     clearTimeout(dateStabilityTimer);
   }
 
-  // If we're in high-res mode and the date changed, switch back to preview
   if (isHighResMode) {
     switchToPreviewMode();
   }
 
-  // Set a new timer to load high-res data after delay
   dateStabilityTimer = setTimeout(() => {
     loadHighResDataForDate(currentDate);
   }, HIGH_RES_DELAY);
@@ -199,11 +258,9 @@ async function loadHighResDataForDate(date) {
     return;
   }
 
-  // Show loading indicator
   showLoadingIndicator();
 
   try {
-    // Get features that should be visible at this date
     const visibleFeatures = getVisibleFeaturesAtDate(date);
 
     if (visibleFeatures.length === 0) {
@@ -211,7 +268,6 @@ async function loadHighResDataForDate(date) {
       return;
     }
 
-    // Load high-res data for visible features
     const highResFeatures = await loadHighResFeatures(visibleFeatures);
 
     if (highResFeatures.length > 0) {
@@ -220,10 +276,7 @@ async function loadHighResDataForDate(date) {
         features: highResFeatures,
       };
 
-      // Cache the data (with cache management)
       manageCache(dateKey, highResData);
-
-      // Switch to high-res mode
       switchToHighResMode(highResData);
     }
   } catch (error) {
@@ -233,7 +286,6 @@ async function loadHighResDataForDate(date) {
   }
 }
 
-// Get features that should be visible at a given date
 function getVisibleFeaturesAtDate(date) {
   const visibleFeatures = [];
 
@@ -252,11 +304,10 @@ function getVisibleFeaturesAtDate(date) {
   return visibleFeatures;
 }
 
-// Load high-resolution features from static files
 async function loadHighResFeatures(visibleFeatures) {
   const highResFeatures = [];
+  // console.log("visibleFeatures", visibleFeatures);
 
-  // Collect feature IDs that need to be loaded
   const featureIds = [];
 
   for (const feature of visibleFeatures) {
@@ -264,7 +315,6 @@ async function loadHighResFeatures(visibleFeatures) {
     const startDate = feature.properties.START_DATE;
     const endDate = feature.properties.END_DATE;
 
-    // Find the manifest entry that matches this county and date range
     let manifestFeature = null;
 
     for (const [key, manifest] of Object.entries(manifestData.features)) {
@@ -291,7 +341,6 @@ async function loadHighResFeatures(visibleFeatures) {
     return highResFeatures;
   }
 
-  // Load each feature individually from static files
   for (const featureInfo of featureIds) {
     try {
       const response = await fetch(
@@ -302,7 +351,7 @@ async function loadHighResFeatures(visibleFeatures) {
         const data = await response.json();
 
         if (data.features) {
-          // Handle FeatureCollection
+          // Handle many features (usually the case)
           data.features.forEach((highResFeature) => {
             highResFeature.properties = {
               ...highResFeature.properties,
@@ -327,11 +376,9 @@ async function loadHighResFeatures(visibleFeatures) {
   return highResFeatures;
 }
 
-// Switch to high-resolution mode
 function switchToHighResMode(highResData) {
   if (!highResData || highResData.features.length === 0) return;
 
-  // Remove existing high-res layer if it exists
   if (highResLayer) {
     map.removeLayer(highResLayer);
   }
@@ -348,30 +395,24 @@ function switchToHighResMode(highResData) {
       };
     },
     onEachFeature: function (feature, layer) {
-      // Add click event
       layer.on("click", function (e) {
         onCountyClick(feature, layer, true);
       });
 
-      // Add hover effect
       layer.on("mouseover", function (e) {
         layer.setStyle({
           weight: 2,
           opacity: 1,
           fillOpacity: 0.9,
-          fillColor: "var(--county-accent-color)",
         });
       });
 
       layer.on("mouseout", function (e) {
-        if (currentHighlight !== layer) {
-          layer.setStyle({
-            weight: 1,
-            opacity: 0.9,
-            fillOpacity: 0.7,
-            fillColor: "var(--county-bg-color)",
-          });
-        }
+        layer.setStyle({
+          weight: currentHighlight === layer ? 2 : 1,
+          opacity: 0.9,
+          fillOpacity: 0.7,
+        });
       });
     },
   }).addTo(map);
@@ -385,7 +426,6 @@ function switchToHighResMode(highResData) {
   highResLoading("loaded");
 }
 
-// Switch back to preview mode
 function switchToPreviewMode() {
   if (highResLayer) {
     map.removeLayer(highResLayer);
@@ -415,21 +455,19 @@ function manageCache(dateKey, data) {
   loadedHighResData.set(dateKey, data);
 }
 
-// Add loading indicator to the page
 function addLoadingIndicator() {
   const indicator = document.createElement("div");
   indicator.id = "loading-indicator";
   indicator.className = "loading-indicator hidden";
   indicator.innerHTML = `
-    <div class="loading-content">
-      <div class="loading-spinner"></div>
-      <div class="loading-text">Loading...</div>
-    </div>
-  `;
+<div class="loading-content">
+  <div class="loading-spinner"></div>
+  <div class="loading-text">Loading...</div>
+</div>
+`;
   document.body.appendChild(indicator);
 }
 
-// Show loading indicator
 function showLoadingIndicator(message = "Loading...") {
   const indicator = document.getElementById("loading-indicator");
   if (indicator) {
@@ -438,7 +476,6 @@ function showLoadingIndicator(message = "Loading...") {
   }
 }
 
-// Hide loading indicator
 function hideLoadingIndicator() {
   const indicator = document.getElementById("loading-indicator");
   if (indicator) {
@@ -457,11 +494,6 @@ function highResLoading(state) {
   }
 }
 
-document.getElementById("map").onkeydown = function (e) {
-  e.stopPropagation();
-};
-
-// Handle county click
 function onCountyClick(feature, layer, isHighRes = false) {
   // Remove previous highlight
   if (currentHighlight) {
@@ -470,8 +502,10 @@ function onCountyClick(feature, layer, isHighRes = false) {
     } else {
       currentHighlight.setStyle({
         weight: 1,
-        opacity: isHighRes ? 0.9 : 0.8,
-        fillOpacity: isHighRes ? 0.7 : 0.6,
+        opacity: 0.9,
+        fillOpacity: 0.7,
+        color: "var(--county-fg-color)",
+        fillColor: "var(--county-bg-color)",
       });
     }
   }
@@ -480,67 +514,64 @@ function onCountyClick(feature, layer, isHighRes = false) {
     weight: 3,
     opacity: 1,
     fillOpacity: isHighRes ? 0.9 : 0.8,
-    color: "var(--county-fg-color)",
+    fillColor: "var(--county-accent-color)",
   });
 
   currentHighlight = layer;
 
-  // Update info panel
   updateInfoPanel(feature.properties, isHighRes);
 }
 
-// Update info panel with county information
 function updateInfoPanel(properties, isHighRes = false) {
   const infoPanel = document.getElementById("infotext");
-
   const infoHTML = `
-        <div class="county-info">
-            <h3>${properties.FULL_NAME || properties.NAME}</h3>
-            ${isHighRes ? '<div class="resolution-badge">High Resolution</div>' : ""}
-            <div class="info-item">
-                <label>Effective Dates:</label>
-                <p>${formatDate(new Date(properties.START_DATE))} - ${properties.END_DATE ? formatDate(new Date(properties.END_DATE)) : "Present"}</p>
-            </div>
-            ${
-              properties.CHANGE
-                ? `
-                <div class="info-item">
-                    <label>Change:</label>
-                    <p>${properties.CHANGE}</p>
-                </div>
-            `
-                : ""
-            }
-            ${
-              properties.CITATION
-                ? `
-                <div class="info-item">
-                    <cite>${properties.CITATION}</cite>
-                </div>
-            `
-                : ""
-            }
-        <p class="highres-info" id="highres-loading">Full details loaded.</p>
-        </div>
-    `;
+<div class="county-info">
+  <h3>${properties.FULL_NAME || properties.NAME}</h3>
+  <div class="info-item">
+  <label>Effective Dates:</label>
+  <p>${formatDate(parseHistoricalDate(properties.START_DATE, "date"))} - ${properties.END_DATE ? formatDate(parseHistoricalDate(properties.END_DATE, "date")) : "Present"}</p>
+</div>
+${
+  properties.CHANGE
+    ? `
+<div class="info-item">
+  <label>Change:</label>
+  <p>${properties.CHANGE}</p>
+</div>
+`
+    : ""
+}
+${
+  properties.CITATION
+    ? `
+<div class="info-item">
+  <cite>${properties.CITATION}</cite>
+</div>
+`
+    : ""
+}
+  <p class="highres-info" id="highres-loading">Full details load${isHighRes ? "ed" : "ing.."}.</p>
+</div>
+`;
 
   infoPanel.innerHTML = infoHTML;
 }
 
 // Setup info panel
+// for resetting after date change
 function setupInfoPanel() {
   const infoPanel = document.getElementById("infotext");
   infoPanel.innerHTML = `
-    <div class="county-info">
-        <p>Use the time slider to see how the county boundaries have changed over time.</p>
-        <p>Use the arrow keys, play button, or next/previous buttons to navigate.</p>
-        <p>Click on a county to explore the data!</p>
-        <p class="highres-info" id="highres-loading">Full details loading...</p>
-    </div>
+<div class="county-info">
+  <p>Use the time slider to see how the county boundaries have changed over time.</p>
+  <p>Use the arrow keys, play button, or next/previous buttons to navigate.</p>
+  <p>Click on a county to explore the data!</p>
+  <p class="highres-info" id="highres-loading">Full details loading...</p>
+</div>
 `;
 }
 
-// Format date for display
+// Modify date display to prevent user apoplexy
 function formatDate(date) {
   const m = date.getMonth() + 1;
   const d = date.getDate();
@@ -549,10 +580,50 @@ function formatDate(date) {
   return `<span class="m">${m}</span>/<span class="d">${d}</span>/<span class="y">${y}</span>`;
 }
 
-// Export functions for use in other scripts if needed
+function handleRangeInputKeypress(key) {
+  if (key === "ArrowLeft") {
+    const prevButton = document.querySelector(
+      ".leaflet-timeline-control .prev",
+    );
+    if (prevButton) prevButton.click();
+  } else {
+    const nextButton = document.querySelector(
+      ".leaflet-timeline-control .next",
+    );
+    if (nextButton) nextButton.click();
+  }
+}
+
+const uiBtn = document.getElementById("change-ui-size");
+uiBtn.addEventListener("click", changeUISize);
+
+function changeUISize(e) {
+  const btn = e.target;
+  const leafletControls = document.querySelector(
+    ".leaflet-bottom:has(.leaflet-timeline-control)",
+  );
+  if (leafletControls.classList.contains("double-size")) {
+    leafletControls.classList.remove("double-size");
+    leafletControls.classList.remove("one-point-five-size");
+    btn.classList.remove("double-size");
+    btn.classList.remove("one-point-five-size");
+  } else if (leafletControls.classList.contains("one-point-five-size")) {
+    leafletControls.classList.add("double-size");
+    leafletControls.classList.remove("one-point-five-size");
+    btn.classList.add("double-size");
+    btn.classList.remove("one-point-five-size");
+  } else {
+    leafletControls.classList.remove("double-size");
+    leafletControls.classList.add("one-point-five-size");
+    btn.classList.remove("double-size");
+    btn.classList.add("one-point-five-size");
+  }
+}
+
 window.mapUtils = {
   formatDate,
   updateInfoPanel,
+  changeUISize,
   switchToHighResMode,
   switchToPreviewMode,
   loadHighResDataForDate,

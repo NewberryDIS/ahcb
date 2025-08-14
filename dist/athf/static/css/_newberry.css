@@ -61,6 +61,24 @@ body {
 @font-face {
   /* transcription  */
   /* not officially sanctioned!!! */
+  font-family: "hepta-bold";
+  src: url("/athf/static/fonts/HeptaSlab-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  /* transcription  */
+  /* not officially sanctioned!!! */
+  font-family: "hepta-black";
+  src: url("/athf/static/fonts/HeptaSlab-Black.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  /* transcription  */
+  /* not officially sanctioned!!! */
   font-family: "0xproto";
   src: url("/athf/static/fonts/0xProto-Regular.woff2") format("woff");
   font-weight: normal;
@@ -80,9 +98,12 @@ h3,
 h4,
 h5,
 h6,
-dt,
-p {
+dt {
   font-family: "styrene";
+}
+
+p {
+  font-family: "signifier";
 }
 
 body,
@@ -94,7 +115,8 @@ b {
   font-family: "styrene bold";
 }
 
-.link-lines {
+.link-lines,
+.marked a:not(.no-lines) {
   text-decoration: none;
   color: currentcolor;
   background:
@@ -115,7 +137,9 @@ b {
 }
 
 .link-lines:hover,
-.link-lines:focus {
+.marked a:not(.no-lines):hover,
+.link-lines:focus,
+.marked a:not(.no-lines):focus {
   background-size:
     0 0.1rem,
     100% 0.1rem;

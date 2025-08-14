@@ -1,4 +1,4 @@
-# Historical County Boundaries Website
+# Atlas of Historical County Boundaries
 
 A FastHTML application for displaying interactive maps of historical county boundaries for US states.
 
@@ -21,8 +21,6 @@ project/
 │   │   └── features/
 │   │       ├── {feature_id}.json
 │   │       └── ...
-│   ├── dc/                    # Washington DC data
-│   │   └── ...
 │   └── ...                    # Other states
 └── dist/                      # Generated static site (created by generator)
     ├── index.html
@@ -42,17 +40,6 @@ project/
 ## Setup Instructions
 
 ### 1. Install Dependencies
-
-Create a `requirements.txt` file:
-
-```txt
-fasthtml>=0.6.0
-uvicorn[standard]>=0.24.0
-python-multipart>=0.0.6
-requests>=2.31.0
-```
-
-Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -76,11 +63,6 @@ Create the directory structure:
 mkdir -p static/css static/js
 ```
 
-Copy the CSS and JavaScript code from the artifacts into:
-
-- `static/css/main.css`
-- `static/js/map.js`
-
 ### 4. Run the Development Server
 
 ```bash
@@ -88,13 +70,6 @@ python main.py
 ```
 
 The application will be available at `http://localhost:5001`
-
-Access state pages at: `http://localhost:5001/ahcb/{state_code}`
-
-For example:
-
-- Arizona: `http://localhost:5001/ahcb/az`
-- Washington DC: `http://localhost:5001/ahcb/dc`
 
 ### 5. Generate Static Site
 
@@ -108,8 +83,22 @@ This will create a `dist/` directory with the complete static site.
 
 Options:
 
+- `--clean` - Delete all contents of output directory and copy fresh (default: False)
+- `--build-only` - Build the site to the output directory but do not run server afterwards (default: False)
 - `--output DIR` - Specify output directory (default: dist)
-- `--base-url URL` - Base URL for the app (default: http://localhost:5001)
+- `--base-url URL` - Base URL for the app (default: <http://localhost:5001>)
+
+## Additional Scripts
+
+- `simplify_boundaries.py`
+  - Creates the "\_preview" versions of the files. Takes jsonp as input but you can change that.
+- `data-cleaner.py`
+  - Expects files similar to the output of `simplify_boundaries.py` and:
+    - removes fields not used by the site
+    - creates individual "feature" files for all high-resolution features for each state
+    - creates a mapping file since the original data does not have unique ids for layers
+- `_build_and_deploy.sh`
+  - Builds and rsyncs the output to our server.
 
 ## Features
 
@@ -118,71 +107,42 @@ Options:
 - **Leaflet.js** integration for map display
 - **Leaflet Timeline** for temporal navigation
 - Click counties to view detailed information
-- Responsive design for mobile and desktop
 
 ### Timeline Controls
 
 - Previous/Next buttons for stepping through time
 - Play button for animated timeline
 - Scrubber bar for direct date selection
-- Current date display
+- URL query parameter handling: use ?date=YYYY-MM-DD to link directly to a date
 
 ### County Information Panel
 
 - Displays county metadata when clicked
 - Shows start/end dates, changes, citations
-- Responsive sidebar layout
-
-### API Endpoints
-
-- `/api/feature/{state_code}/{feature_id}` - Get detailed feature data
-- Serves individual county detail files
 
 ## Customization
-
-### Styling
-
-- Modify `static/css/main.css` for visual customization
-- Colors, fonts, and layout can be easily adjusted
-- Responsive breakpoints included
 
 ### Map Behavior
 
 - Edit `static/js/map.js` to modify map interactions
-- County coloring algorithm can be customized
-- Timeline behavior is configurable
+- Standard Leaflet and Leaflet.Timeline options are accessible
+- Feature colors are set in JavaScript using CSS variables
 
 ### Data Processing
 
 - The app expects GeoJSON format with specific properties
 - Required properties: `START_DATE`, `END_DATE`, `NAME`, `ID`
-- Optional properties: `FIPS`, `AREA_SQMI`, `CHANGE`, `CITATION`
 
 ## Deployment
 
 ### Static Site Deployment
 
-After running the static generator, the `dist/` directory contains a complete static site that can be deployed to:
-
-- GitHub Pages
-- Netlify
-- Vercel
-- Any static file hosting service
-
-### Dynamic Deployment
-
-The FastHTML app can be deployed to platforms supporting Python/ASGI:
-
-- Railway
-- Heroku
-- DigitalOcean App Platform
-- AWS/GCP/Azure
+After running the static generator, the `dist/` directory contains a complete static site that can be deployed wherever you might normally do so.
 
 ## Browser Support
 
-- Modern browsers with ES6+ support
-- Leaflet.js compatibility
-- Responsive design for mobile devices
+- All modern browsers with ES6+ are supported
+- Requires Leaflet.js compatibility
 
 ## Performance Considerations
 
@@ -192,13 +152,6 @@ The FastHTML app can be deployed to platforms supporting Python/ASGI:
 - Static generation eliminates server-side processing
 
 ## Troubleshooting
-
-### Common Issues
-
-1. **Map not displaying**: Check that Leaflet CSS/JS are loading correctly
-2. **Timeline not working**: Ensure Leaflet Timeline extension is loaded
-3. **Data not loading**: Verify data file structure and paths
-4. **Static generation fails**: Ensure all states have required data files
 
 ### Debug Mode
 

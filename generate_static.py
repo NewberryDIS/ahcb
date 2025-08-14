@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# /athf/about!/usr/bin/env python3
 """
 Static site generator with incremental file copying and development server
 Generates a static version of the FastHTML site with efficient file management
@@ -17,6 +17,9 @@ from pathlib import Path
 from typing import Dict, Set
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
+
+BASE_PATH = "athf"
+SIMPLE_ROUTES = ["", "/about", "/maps", "/download", "/clear"]
 
 
 class IncrementalCopy:
@@ -73,6 +76,9 @@ class IncrementalCopy:
                 # Filter by extensions if specified
                 if extensions and src_file.suffix.lower() not in extensions:
                     continue
+                # Don't copy vim buffers
+                if src_file.suffix.endswith("~"):
+                    continue
 
                 # Calculate destination path
                 rel_path = src_file.relative_to(src_dir)
@@ -113,6 +119,9 @@ class StaticSiteGenerator:
             total_copied += copied
             if copied > 0:
                 print(f"📁 Copied {copied} static files")
+                # if copied < 3:
+                #     for file in self.copier.manifest:
+                #         print(f"   - {file}")
 
         # Copy data directory (this is the big one with 17k+ files)
         if Path("data").exists():
@@ -124,6 +133,9 @@ class StaticSiteGenerator:
             total_copied += copied
             if copied > 0:
                 print(f"📊 Copied {copied} data files")
+                # if copied < 3:
+                #     for file in self.copier.manifest:
+                #         print(f"   - {file}")
 
         return total_copied
 
@@ -149,20 +161,27 @@ class StaticSiteGenerator:
         pages_generated = 0
 
         try:
-            # Home page
-            response = client.get("/athf")
-            if response.status_code == 200:
-                self.save_page("athf/index.html", response.text)
-                pages_generated += 1
-
-            # All maps page
-            response = client.get("/athf/maps")
-            if response.status_code == 200:
-                self.save_page("athf/maps/index.html", response.text)
-                pages_generated += 1
+            for r in SIMPLE_ROUTES:
+                response = client.get(f"/{BASE_PATH}{r}")
+                if response.status_code == 200:
+                    self.save_page(f"{BASE_PATH}{r}/index.html", response.text)
+                    pages_generated += 1
 
             # Individual state pages
             for state_code in STATE_NAMES.keys():
+                try:
+                    response = client.get(f"/athf/dl/{state_code}")
+                    if response.status_code == 200:
+                        self.save_page(
+                            f"athf/dl/{state_code}/index.html", response.text
+                        )
+                        pages_generated += 1
+                    else:
+                        print(
+                            f"⚠️  Skipped {state_code} (status {response.status_code})"
+                        )
+                except Exception as e:
+                    print(f"⚠️  Error generating {state_code}: {e}")
                 try:
                     response = client.get(f"/athf/{state_code}")
                     if response.status_code == 200:

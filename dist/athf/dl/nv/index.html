@@ -1,0 +1,32 @@
+ <!doctype html>
+ <html>
+   <head>
+     <title>Download state data</title>
+     <link rel="canonical" href="http://testserver/athf/dl/nv">
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script><script src="https://cdn.jsdelivr.net/gh/answerdotai/fasthtml-js@1.0.12/fasthtml.js"></script><script src="https://cdn.jsdelivr.net/gh/answerdotai/surreal@main/surreal.js"></script><script src="https://cdn.jsdelivr.net/gh/gnat/css-scope-inline@main/script.js"></script><script type="module">import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="/athf/static/css/_base.css">
+     <link rel="stylesheet" href="/athf/static/css/_newberry.css">
+     <link rel="stylesheet" href="/athf/static/css/main.css">
+   </head>
+   <body>
+     <div hx-get="/athf/clear" hx-swap="outerHTML" hx-target="#download-modal" id="download-modal" class="download-modal">
+       <section onclick="event.stopPropagation()">
+         <h2>Download the data for Nevada in the following formats:</h2>
+         <ul>
+           <li>
+<a href="/ahcb/download/gis/NV_AtlasHCB.zip" target="_blank" class="link-lines">GIS Files</a>           </li>
+           <li>
+<a href="/ahcb/download/kmz/NV_HistCountiesKMZ.zip" target="_blank" class="link-lines">KMZ Files</a>           </li>
+           <li>
+<a href="/ahcb/download/pdf/NV_HistCountiesPDF.zip" target="_blank" class="link-lines">PDF Files</a>           </li>
+         </ul>
+         <p>
+See our<a href="/athf/download" class="link-lines in-text-link">download page</a>for more information and additional download options.         </p>
+       </section>
+     </div>
+   </body>
+ </html>

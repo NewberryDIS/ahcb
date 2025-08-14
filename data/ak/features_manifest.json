@@ -1,0 +1,1175 @@
+{
+  "state": "AK",
+  "total_features": 167,
+  "features": {
+    "069981e77452": {
+      "county_id": "aks_southerndist",
+      "name": "Southern Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "069981e77452.json"
+    },
+    "6345f9075d50": {
+      "county_id": "aks_northerndist",
+      "name": "Northern Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "6345f9075d50.json"
+    },
+    "5ebd22977879": {
+      "county_id": "aks_kodiakdist",
+      "name": "Kodiak Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "5ebd22977879.json"
+    },
+    "e098a00f75ab": {
+      "county_id": "aks_southeasterndist",
+      "name": "Southeastern Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "e098a00f75ab.json"
+    },
+    "fc581e49be4f": {
+      "county_id": "aks_arcticdist",
+      "name": "Arctic Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "fc581e49be4f.json"
+    },
+    "ddf87ed6828d": {
+      "county_id": "aks_kuskokwimdist",
+      "name": "Kuskokwim Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "ddf87ed6828d.json"
+    },
+    "21d7121cd9fa": {
+      "county_id": "aks_yukondist",
+      "name": "Yukon Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "21d7121cd9fa.json"
+    },
+    "13c074d57d46": {
+      "county_id": "aks_southerndist",
+      "name": "Southern Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "13c074d57d46.json"
+    },
+    "d96d47f9ca4f": {
+      "county_id": "aks_northerndist",
+      "name": "Northern Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "d96d47f9ca4f.json"
+    },
+    "04797a1e0963": {
+      "county_id": "aks_arcticdist",
+      "name": "Arctic Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "04797a1e0963.json"
+    },
+    "807d76c492e9": {
+      "county_id": "aks_southeasterndist",
+      "name": "Southeastern Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "807d76c492e9.json"
+    },
+    "21f54ef40ac7": {
+      "county_id": "aks_kodiakdist",
+      "name": "Kodiak Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "21f54ef40ac7.json"
+    },
+    "861c1db34d7c": {
+      "county_id": "aks_nushagakdist",
+      "name": "Nushagak Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "861c1db34d7c.json"
+    },
+    "39b987f7d7d6": {
+      "county_id": "aks_kuskokwimdist",
+      "name": "Kuskokwim Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "39b987f7d7d6.json"
+    },
+    "e8f755b9a10f": {
+      "county_id": "aks_yukondist",
+      "name": "Yukon Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "e8f755b9a10f.json"
+    },
+    "55864927b5c5": {
+      "county_id": "aks_northerndist",
+      "name": "Northern Dist.",
+      "start_date": "1900-06-01",
+      "end_date": "1910-04-14",
+      "filename": "55864927b5c5.json"
+    },
+    "72de91479c74": {
+      "county_id": "aks_southerndist",
+      "name": "Southern Dist.",
+      "start_date": "1900-06-01",
+      "end_date": "1910-04-14",
+      "filename": "72de91479c74.json"
+    },
+    "fd3490cf1ab8": {
+      "county_id": "aks_firstjudicial",
+      "name": "First Jud. Dist.",
+      "start_date": "1910-04-15",
+      "end_date": "1919-12-31",
+      "filename": "fd3490cf1ab8.json"
+    },
+    "957774fbfde0": {
+      "county_id": "aks_thirdjudicial",
+      "name": "Third Jud. Dist.",
+      "start_date": "1910-04-15",
+      "end_date": "1919-12-31",
+      "filename": "957774fbfde0.json"
+    },
+    "91292c00f92d": {
+      "county_id": "aks_secondjudicial",
+      "name": "Second Jud. Dist.",
+      "start_date": "1910-04-15",
+      "end_date": "1919-12-31",
+      "filename": "91292c00f92d.json"
+    },
+    "e6154e49a80c": {
+      "county_id": "aks_fourthjudicial",
+      "name": "Fourth Jud. Dist.",
+      "start_date": "1910-04-15",
+      "end_date": "1919-12-31",
+      "filename": "e6154e49a80c.json"
+    },
+    "d222618a152c": {
+      "county_id": "aks_thirdjudicial",
+      "name": "Third Jud. Dist.",
+      "start_date": "1920-01-01",
+      "end_date": "1930-03-31",
+      "filename": "d222618a152c.json"
+    },
+    "48fa8a854301": {
+      "county_id": "aks_secondjudicial",
+      "name": "Second Jud. Dist.",
+      "start_date": "1920-01-01",
+      "end_date": "1930-03-31",
+      "filename": "48fa8a854301.json"
+    },
+    "3b735107ac79": {
+      "county_id": "aks_firstjudicial",
+      "name": "First Jud. Dist.",
+      "start_date": "1920-01-01",
+      "end_date": "1930-03-31",
+      "filename": "3b735107ac79.json"
+    },
+    "83adf8826e8a": {
+      "county_id": "aks_fourthjudicial",
+      "name": "Fourth Jud. Dist.",
+      "start_date": "1920-01-01",
+      "end_date": "1930-03-31",
+      "filename": "83adf8826e8a.json"
+    },
+    "c1ce493ef273": {
+      "county_id": "aks_thirdjudicial",
+      "name": "Third Jud. Dist.",
+      "start_date": "1930-04-01",
+      "end_date": "1940-03-31",
+      "filename": "c1ce493ef273.json"
+    },
+    "2439bb40262a": {
+      "county_id": "aks_secondjudicial",
+      "name": "Second Jud. Dist.",
+      "start_date": "1930-04-01",
+      "end_date": "1940-03-31",
+      "filename": "2439bb40262a.json"
+    },
+    "f7b7d9fa67c4": {
+      "county_id": "aks_firstjudicial",
+      "name": "First Jud. Dist.",
+      "start_date": "1930-04-01",
+      "end_date": "1940-03-31",
+      "filename": "f7b7d9fa67c4.json"
+    },
+    "f63bbc149281": {
+      "county_id": "aks_fourthjudicial",
+      "name": "Fourth Jud. Dist.",
+      "start_date": "1930-04-01",
+      "end_date": "1940-03-31",
+      "filename": "f63bbc149281.json"
+    },
+    "b924fc1ab5cf": {
+      "county_id": "aks_fourthjudicial",
+      "name": "Fourth Jud. Dist.",
+      "start_date": "1940-04-01",
+      "end_date": "1950-03-31",
+      "filename": "b924fc1ab5cf.json"
+    },
+    "d82181430c15": {
+      "county_id": "aks_secondjudicial",
+      "name": "Second Jud. Dist.",
+      "start_date": "1940-04-01",
+      "end_date": "1950-03-31",
+      "filename": "d82181430c15.json"
+    },
+    "1a045bc5bbf7": {
+      "county_id": "aks_thirdjudicial",
+      "name": "Third Jud. Dist.",
+      "start_date": "1940-04-01",
+      "end_date": "1950-03-31",
+      "filename": "1a045bc5bbf7.json"
+    },
+    "0315a116dfd8": {
+      "county_id": "aks_firstjudicial",
+      "name": "First Jud. Dist.",
+      "start_date": "1940-04-01",
+      "end_date": "1950-03-31",
+      "filename": "0315a116dfd8.json"
+    },
+    "8b101664201b": {
+      "county_id": "aks_firstjudicial",
+      "name": "First Jud. Dist.",
+      "start_date": "1950-04-01",
+      "end_date": "1960-03-31",
+      "filename": "8b101664201b.json"
+    },
+    "6d395b48a932": {
+      "county_id": "aks_fourthjudicial",
+      "name": "Fourth Jud. Dist.",
+      "start_date": "1950-04-01",
+      "end_date": "1960-03-31",
+      "filename": "6d395b48a932.json"
+    },
+    "0491502a84f2": {
+      "county_id": "aks_secondjudicial",
+      "name": "Second Jud. Dist.",
+      "start_date": "1950-04-01",
+      "end_date": "1960-03-31",
+      "filename": "0491502a84f2.json"
+    },
+    "c636ea9718e4": {
+      "county_id": "aks_thirdjudicial",
+      "name": "Third Jud. Dist.",
+      "start_date": "1950-04-01",
+      "end_date": "1960-03-31",
+      "filename": "c636ea9718e4.json"
+    },
+    "f1e6af94fc82": {
+      "county_id": "aks_aleutianislands",
+      "name": "Aleutian Islands",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "f1e6af94fc82.json"
+    },
+    "8f60cb930f32": {
+      "county_id": "aks_anchorage",
+      "name": "Anchorage",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "8f60cb930f32.json"
+    },
+    "64d26f123858": {
+      "county_id": "aks_barrow",
+      "name": "Barrow",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "64d26f123858.json"
+    },
+    "395e139bfb7d": {
+      "county_id": "aks_bethel",
+      "name": "Bethel",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "395e139bfb7d.json"
+    },
+    "101343045e64": {
+      "county_id": "aks_cordovamccarthy",
+      "name": "Cordova-McCarthy",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "101343045e64.json"
+    },
+    "c045e905ef86": {
+      "county_id": "aks_bristolbay",
+      "name": "Bristol Bay",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "c045e905ef86.json"
+    },
+    "4ab845a65e0c": {
+      "county_id": "aks_fairbanks",
+      "name": "Fairbanks",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "4ab845a65e0c.json"
+    },
+    "b3fe4223cd9b": {
+      "county_id": "aks_juneau",
+      "name": "Juneau",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "b3fe4223cd9b.json"
+    },
+    "cc5ef4663287": {
+      "county_id": "aks_kenai",
+      "name": "Kenai-Cook Inlet",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "cc5ef4663287.json"
+    },
+    "10b245b6af1f": {
+      "county_id": "aks_ketchikan",
+      "name": "Ketchikan",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "10b245b6af1f.json"
+    },
+    "c484e3132202": {
+      "county_id": "aks_kobuk",
+      "name": "Kobuk",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "c484e3132202.json"
+    },
+    "7b212c234d6c": {
+      "county_id": "aks_kodiak",
+      "name": "Kodiak",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "7b212c234d6c.json"
+    },
+    "f5bdcf4b01de": {
+      "county_id": "aks_kuskokwim",
+      "name": "Kuskokwim",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "f5bdcf4b01de.json"
+    },
+    "4d618bf3486a": {
+      "county_id": "aks_lynncanal",
+      "name": "Lynn Canal-I.S.",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "4d618bf3486a.json"
+    },
+    "d01a808f40fc": {
+      "county_id": "aks_nome",
+      "name": "Nome",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "d01a808f40fc.json"
+    },
+    "ea3504d42d31": {
+      "county_id": "aks_palmerwasilla",
+      "name": "Palmer-W.-T.",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "ea3504d42d31.json"
+    },
+    "1aa2f76d0741": {
+      "county_id": "aks_princeofwales",
+      "name": "Prince of Wales",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "1aa2f76d0741.json"
+    },
+    "7f25d7d99d3f": {
+      "county_id": "aks_seward",
+      "name": "Seward",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "7f25d7d99d3f.json"
+    },
+    "acdbf05c4a3e": {
+      "county_id": "aks_sitka",
+      "name": "Sitka",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "acdbf05c4a3e.json"
+    },
+    "38ae900d6dc5": {
+      "county_id": "aks_upperyukon",
+      "name": "Upper Yukon",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "38ae900d6dc5.json"
+    },
+    "89813d383af0": {
+      "county_id": "aks_valdezchitina",
+      "name": "Valdez-C.-W.",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "89813d383af0.json"
+    },
+    "4bc44da52f48": {
+      "county_id": "aks_wadehampton",
+      "name": "Wade-Hampton",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "4bc44da52f48.json"
+    },
+    "c997d59a40b2": {
+      "county_id": "aks_wrangellpetersburg",
+      "name": "Wrangell-Petersburg",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "c997d59a40b2.json"
+    },
+    "4b9af4ae0448": {
+      "county_id": "aks_yukonkoyukuk",
+      "name": "Yukon-Koyukuk",
+      "start_date": "1960-04-01",
+      "end_date": "1970-03-31",
+      "filename": "4b9af4ae0448.json"
+    },
+    "eb6e5e843b62": {
+      "county_id": "aks_juneau",
+      "name": "Juneau",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "eb6e5e843b62.json"
+    },
+    "636ac782a5c4": {
+      "county_id": "aks_valdezchitina",
+      "name": "Valdez-C.-W.",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "636ac782a5c4.json"
+    },
+    "bc1daa9ede59": {
+      "county_id": "aks_outerketchikan",
+      "name": "Outer Ketchikan",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "bc1daa9ede59.json"
+    },
+    "5ce8edd83f10": {
+      "county_id": "aks_kodiak",
+      "name": "Kodiak Island",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "5ce8edd83f10.json"
+    },
+    "4b9414c111b7": {
+      "county_id": "aks_matanuskasusitna",
+      "name": "Matanuska-Susitna",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "4b9414c111b7.json"
+    },
+    "21de5f6275f7": {
+      "county_id": "aks_bristolbay",
+      "name": "Bristol Bay",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "21de5f6275f7.json"
+    },
+    "adc68bcc9b0b": {
+      "county_id": "aks_bethel",
+      "name": "Bethel",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "adc68bcc9b0b.json"
+    },
+    "ac451bb059c1": {
+      "county_id": "aks_kobuk",
+      "name": "Kobuk",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "ac451bb059c1.json"
+    },
+    "b66bb675f517": {
+      "county_id": "aks_aleutianislands",
+      "name": "Aleutian Islands",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "b66bb675f517.json"
+    },
+    "9eae276b3f9d": {
+      "county_id": "aks_kuskokwim",
+      "name": "Kuskokwim",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "9eae276b3f9d.json"
+    },
+    "52adcbfa2cb0": {
+      "county_id": "aks_skagwayyakutat",
+      "name": "Skagway-Yakutat",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "52adcbfa2cb0.json"
+    },
+    "f8cb5ba94c1c": {
+      "county_id": "aks_nome",
+      "name": "Nome",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "f8cb5ba94c1c.json"
+    },
+    "5d20a256997e": {
+      "county_id": "aks_seward",
+      "name": "Seward",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "5d20a256997e.json"
+    },
+    "983dfae6b4f4": {
+      "county_id": "aks_haines",
+      "name": "Haines",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "983dfae6b4f4.json"
+    },
+    "bf047d72ba87": {
+      "county_id": "aks_northslope",
+      "name": "North Slope",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "bf047d72ba87.json"
+    },
+    "c91e356af3ed": {
+      "county_id": "aks_skagwayya",
+      "name": "Skagway-Y.-A.",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "c91e356af3ed.json"
+    },
+    "77025a971447": {
+      "county_id": "aks_aleutianseast",
+      "name": "Aleutians East",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "77025a971447.json"
+    },
+    "d5fab085a5d3": {
+      "county_id": "aks_ketchikan",
+      "name": "Ketchikan Gateway",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "d5fab085a5d3.json"
+    },
+    "23f9cacd384b": {
+      "county_id": "aks_aleutianswest",
+      "name": "Aleutians West",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "23f9cacd384b.json"
+    },
+    "f97fd26e00c3": {
+      "county_id": "aks_sitka",
+      "name": "Sitka",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "f97fd26e00c3.json"
+    },
+    "f8e0c6c1e44e": {
+      "county_id": "aks_lakepeninsula",
+      "name": "Lake and Peninsula",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "f8e0c6c1e44e.json"
+    },
+    "06f35328c981": {
+      "county_id": "aks_princeofwales",
+      "name": "Prince of Wales",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "06f35328c981.json"
+    },
+    "f21c8005e575": {
+      "county_id": "aks_fairbanksnorthstar",
+      "name": "Fairbanks North Star",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "f21c8005e575.json"
+    },
+    "b21f38c5380a": {
+      "county_id": "aks_upperyukon",
+      "name": "Upper Yukon",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "b21f38c5380a.json"
+    },
+    "b8e7405b6074": {
+      "county_id": "aks_angoon",
+      "name": "Angoon",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "b8e7405b6074.json"
+    },
+    "ed215071054d": {
+      "county_id": "aks_kenai",
+      "name": "Kenai-Cook Inlet",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "ed215071054d.json"
+    },
+    "64fcb00de643": {
+      "county_id": "aks_anchorage",
+      "name": "Anchorage",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "64fcb00de643.json"
+    },
+    "ddd3c9c9a9d0": {
+      "county_id": "aks_barrow",
+      "name": "Barrow",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "ddd3c9c9a9d0.json"
+    },
+    "f17c60535656": {
+      "county_id": "aks_sitka",
+      "name": "Sitka",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "f17c60535656.json"
+    },
+    "076441c31091": {
+      "county_id": "aks_yukonkoyukuk",
+      "name": "Yukon-Koyukuk",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "076441c31091.json"
+    },
+    "849eeb10bf92": {
+      "county_id": "aks_wrangellpetersburg",
+      "name": "Wrangell-Petersburg",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "849eeb10bf92.json"
+    },
+    "0ab1e6f46547": {
+      "county_id": "aks_haines",
+      "name": "Haines",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "0ab1e6f46547.json"
+    },
+    "25843e850b00": {
+      "county_id": "aks_bristolbayborough",
+      "name": "Bristol Bay Borough",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "25843e850b00.json"
+    },
+    "2e9b89b4a016": {
+      "county_id": "aks_cordovamccarthy",
+      "name": "Cordova-McCarthy",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "2e9b89b4a016.json"
+    },
+    "fb686b6896ab": {
+      "county_id": "aks_ketchikan",
+      "name": "Ketchikan",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "fb686b6896ab.json"
+    },
+    "d777b81bf551": {
+      "county_id": "aks_southeastfairbanks",
+      "name": "Southeast Fairbanks",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "d777b81bf551.json"
+    },
+    "faec4b72bfc9": {
+      "county_id": "aks_wadehampton",
+      "name": "Wade-Hampton",
+      "start_date": "1970-04-01",
+      "end_date": "1980-03-31",
+      "filename": "faec4b72bfc9.json"
+    },
+    "bf68f1100d2f": {
+      "county_id": "aks_yukonkoyukuk",
+      "name": "Yukon-Koyukuk",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "bf68f1100d2f.json"
+    },
+    "37b7d1f3c1cc": {
+      "county_id": "aks_haines",
+      "name": "Haines",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "37b7d1f3c1cc.json"
+    },
+    "78b695eff17e": {
+      "county_id": "aks_sitka",
+      "name": "Sitka",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "78b695eff17e.json"
+    },
+    "ee61d1edfda0": {
+      "county_id": "aks_kenai",
+      "name": "Kenai Peninsula",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "ee61d1edfda0.json"
+    },
+    "d0db6819dd2f": {
+      "county_id": "aks_bristolbayborough",
+      "name": "Bristol Bay Borough",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "d0db6819dd2f.json"
+    },
+    "a18249d00868": {
+      "county_id": "aks_southeastfairbanks",
+      "name": "Southeast Fairbanks",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "a18249d00868.json"
+    },
+    "eda03a0020ae": {
+      "county_id": "aks_valdezcordova",
+      "name": "Valdez-Cordova",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "eda03a0020ae.json"
+    },
+    "cd972d9fbdf4": {
+      "county_id": "aks_ketchikan",
+      "name": "Ketchikan Gateway",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "cd972d9fbdf4.json"
+    },
+    "717c2003b7f8": {
+      "county_id": "aks_matanuskasusitna",
+      "name": "Matanuska-Susitna",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "717c2003b7f8.json"
+    },
+    "901ae243b741": {
+      "county_id": "aks_bethel",
+      "name": "Bethel",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "901ae243b741.json"
+    },
+    "c03bbfc33a72": {
+      "county_id": "aks_wadehampton",
+      "name": "Wade-Hampton",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "c03bbfc33a72.json"
+    },
+    "9ddb47defaf9": {
+      "county_id": "aks_nome",
+      "name": "Nome",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "9ddb47defaf9.json"
+    },
+    "baabe555fd82": {
+      "county_id": "aks_juneau",
+      "name": "Juneau",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "baabe555fd82.json"
+    },
+    "ae54994d48cc": {
+      "county_id": "aks_fairbanksnorthstar",
+      "name": "Fairbanks North Star",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "ae54994d48cc.json"
+    },
+    "6f113c8ce56a": {
+      "county_id": "aks_skagwayya",
+      "name": "Skagway-Y.-A.",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "6f113c8ce56a.json"
+    },
+    "59f29ee1b268": {
+      "county_id": "aks_wrangellpetersburg",
+      "name": "Wrangell-Petersburg",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "59f29ee1b268.json"
+    },
+    "912d7630546d": {
+      "county_id": "aks_kobuk",
+      "name": "Kobuk",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "912d7630546d.json"
+    },
+    "7460135b9ca0": {
+      "county_id": "aks_anchorage",
+      "name": "Anchorage",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "7460135b9ca0.json"
+    },
+    "5a9e4f91f420": {
+      "county_id": "aks_northslope",
+      "name": "North Slope",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "5a9e4f91f420.json"
+    },
+    "9e2089fc9e86": {
+      "county_id": "aks_princeofwalesok",
+      "name": "Prince Of Wales-O.K.",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "9e2089fc9e86.json"
+    },
+    "0783c53e2c70": {
+      "county_id": "aks_dillingham",
+      "name": "Dillingham",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "0783c53e2c70.json"
+    },
+    "483c5f57c6ed": {
+      "county_id": "aks_kodiak",
+      "name": "Kodiak Island",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "483c5f57c6ed.json"
+    },
+    "1adb4b4c1bdd": {
+      "county_id": "aks_aleutianislands",
+      "name": "Aleutian Islands",
+      "start_date": "1980-04-01",
+      "end_date": "1990-03-31",
+      "filename": "1adb4b4c1bdd.json"
+    },
+    "ebd0ec0fd981": {
+      "county_id": "aks_northwestarctic",
+      "name": "Northwest Arctic",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "ebd0ec0fd981.json"
+    },
+    "42e2cb754c6b": {
+      "county_id": "aks_bethel",
+      "name": "Bethel",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "42e2cb754c6b.json"
+    },
+    "456caeff853a": {
+      "county_id": "aks_dillingham",
+      "name": "Dillingham",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "456caeff853a.json"
+    },
+    "0d591c2cb8f9": {
+      "county_id": "aks_fairbanksnorthstar",
+      "name": "Fairbanks North Star",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "0d591c2cb8f9.json"
+    },
+    "3ac9c585e56f": {
+      "county_id": "aks_wadehampton",
+      "name": "Wade-Hampton",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "3ac9c585e56f.json"
+    },
+    "c4853f951e04": {
+      "county_id": "aks_kenai",
+      "name": "Kenai Peninsula",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "c4853f951e04.json"
+    },
+    "8775997d6d1e": {
+      "county_id": "aks_nome",
+      "name": "Nome",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "8775997d6d1e.json"
+    },
+    "419544df82b6": {
+      "county_id": "aks_valdezcordova",
+      "name": "Valdez-Cordova",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "419544df82b6.json"
+    },
+    "737dd3db71a0": {
+      "county_id": "aks_matanuskasusitna",
+      "name": "Matanuska-Susitna",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "737dd3db71a0.json"
+    },
+    "05bf91387da1": {
+      "county_id": "aks_wrangellpetersburg",
+      "name": "Wrangell-Petersburg",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "05bf91387da1.json"
+    },
+    "c379e79570f2": {
+      "county_id": "aks_yukonkoyukuk",
+      "name": "Yukon-Koyukuk",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "c379e79570f2.json"
+    },
+    "b64645688fb4": {
+      "county_id": "aks_southeastfairbanks",
+      "name": "Southeast Fairbanks",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "b64645688fb4.json"
+    },
+    "8e96c02f9dc3": {
+      "county_id": "aks_kodiak",
+      "name": "Kodiak Island",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "8e96c02f9dc3.json"
+    },
+    "9ed02edb330a": {
+      "county_id": "aks_anchorage",
+      "name": "Anchorage",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "9ed02edb330a.json"
+    },
+    "940b2beb0353": {
+      "county_id": "aks_juneau",
+      "name": "Juneau",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "940b2beb0353.json"
+    },
+    "6fc794d57bf6": {
+      "county_id": "aks_princeofwalesok",
+      "name": "Prince Of Wales-O.K.",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "6fc794d57bf6.json"
+    },
+    "d531236fd23c": {
+      "county_id": "aks_bristolbayborough",
+      "name": "Bristol Bay Borough",
+      "start_date": "1990-04-01",
+      "end_date": "2000-03-31",
+      "filename": "d531236fd23c.json"
+    },
+    "3f7dd2cbceb0": {
+      "county_id": "aks_sitka",
+      "name": "Sitka",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "3f7dd2cbceb0.json"
+    },
+    "b9e8fa892d1b": {
+      "county_id": "aks_northwestarctic",
+      "name": "Northwest Arctic",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "b9e8fa892d1b.json"
+    },
+    "ff9c5ccbc2d3": {
+      "county_id": "aks_juneau",
+      "name": "Juneau",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "ff9c5ccbc2d3.json"
+    },
+    "8bd3f05bf996": {
+      "county_id": "aks_fairbanksnorthstar",
+      "name": "Fairbanks North Star",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "8bd3f05bf996.json"
+    },
+    "e3f19ad0a1e1": {
+      "county_id": "aks_kenai",
+      "name": "Kenai Peninsula",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "e3f19ad0a1e1.json"
+    },
+    "9bbce1022c32": {
+      "county_id": "aks_bethel",
+      "name": "Bethel",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "9bbce1022c32.json"
+    },
+    "ae51359d7507": {
+      "county_id": "aks_valdezcordova",
+      "name": "Valdez-Cordova",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "ae51359d7507.json"
+    },
+    "7cbc70591d1a": {
+      "county_id": "aks_haines",
+      "name": "Haines",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "7cbc70591d1a.json"
+    },
+    "966a52875045": {
+      "county_id": "aks_yakutat",
+      "name": "Yakutat",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "966a52875045.json"
+    },
+    "fe108ae778b7": {
+      "county_id": "aks_anchorage",
+      "name": "Anchorage",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "fe108ae778b7.json"
+    },
+    "1a59162ba7cb": {
+      "county_id": "aks_skagwayha",
+      "name": "Skagway-H.-A.",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "1a59162ba7cb.json"
+    },
+    "eaf5781daf9f": {
+      "county_id": "aks_kodiak",
+      "name": "Kodiak Island",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "eaf5781daf9f.json"
+    },
+    "12c3e0fa64ca": {
+      "county_id": "aks_aleutianseast",
+      "name": "Aleutians East",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "12c3e0fa64ca.json"
+    },
+    "91d03cbe641a": {
+      "county_id": "aks_northslope",
+      "name": "North Slope",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "91d03cbe641a.json"
+    },
+    "7946e3f00c9f": {
+      "county_id": "aks_bristolbayborough",
+      "name": "Bristol Bay Borough",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "7946e3f00c9f.json"
+    },
+    "4df57fba99ae": {
+      "county_id": "aks_wrangellpetersburg",
+      "name": "Wrangell-Petersburg",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "4df57fba99ae.json"
+    },
+    "79363bfc5f65": {
+      "county_id": "aks_wadehampton",
+      "name": "Wade-Hampton",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "79363bfc5f65.json"
+    },
+    "731d547fc21c": {
+      "county_id": "aks_princeofwalesok",
+      "name": "Prince Of Wales-O.K.",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "731d547fc21c.json"
+    },
+    "6bff8e2a7aa9": {
+      "county_id": "aks_yukonkoyukuk",
+      "name": "Yukon-Koyukuk",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "6bff8e2a7aa9.json"
+    },
+    "df4433564bf9": {
+      "county_id": "aks_ketchikan",
+      "name": "Ketchikan Gateway",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "df4433564bf9.json"
+    },
+    "e8afcd8ca66b": {
+      "county_id": "aks_lakepeninsula",
+      "name": "Lake and Peninsula",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "e8afcd8ca66b.json"
+    },
+    "3831725c4b4b": {
+      "county_id": "aks_dillingham",
+      "name": "Dillingham",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "3831725c4b4b.json"
+    },
+    "2c62437e5905": {
+      "county_id": "aks_matanuskasusitna",
+      "name": "Matanuska-Susitna",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "2c62437e5905.json"
+    },
+    "463b0d192033": {
+      "county_id": "aks_southeastfairbanks",
+      "name": "Southeast Fairbanks",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "463b0d192033.json"
+    },
+    "967f37c5a570": {
+      "county_id": "aks_denali",
+      "name": "Denali",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "967f37c5a570.json"
+    },
+    "cb0611841a0d": {
+      "county_id": "aks_aleutianswest",
+      "name": "Aleutians West",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "cb0611841a0d.json"
+    },
+    "e3277b882696": {
+      "county_id": "aks_nome",
+      "name": "Nome",
+      "start_date": "2000-04-01",
+      "end_date": "2000-12-31",
+      "filename": "e3277b882696.json"
+    },
+    "9c477bbbebe0": {
+      "county_id": "aks_unalaskadist",
+      "name": "Aleutian Dist.",
+      "start_date": "1880-06-01",
+      "end_date": "1890-06-01",
+      "filename": "9c477bbbebe0.json"
+    },
+    "b5972a1af250": {
+      "county_id": "aks_unalaskadist",
+      "name": "Unalaska Dist.",
+      "start_date": "1890-06-02",
+      "end_date": "1900-05-31",
+      "filename": "b5972a1af250.json"
+    }
+  }
+}

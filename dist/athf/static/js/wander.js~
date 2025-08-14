@@ -1,8 +1,0 @@
-const states = document.querySelectorAll("card-img-name");
-states.forEach((s) => {
-  console.log("wandering....");
-  s.addEventListener(click, clickWander(s));
-});
-function clickWander(el) {
-  el.classList.toggle("clicked");
-}

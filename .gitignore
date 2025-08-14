@@ -1,3 +1,7 @@
+# LLM instruction files
+PROMPT*
+_cast*
+
 # Logs
 logs
 *.log
@@ -89,7 +93,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
