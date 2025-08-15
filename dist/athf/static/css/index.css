@@ -75,9 +75,6 @@
     linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("/athf/static/images/downloads.jpg");
 }
-body:has(.jumbotron) .main-header {
-  display: none;
-}
 .small#maps {
   /* background-image: linear-gradient( */
   /*   to right, */
@@ -101,6 +98,7 @@ body:has(.jumbotron) .main-header {
   /* mix-blend-mode: difference; */
   /* border: 1px solid white; */
   font-family: "styrene";
+  color: rgb(var(--granite)) !important;
   padding: 2rem;
   display: block;
   width: 100%;
@@ -116,4 +114,24 @@ body:has(.jumbotron) .main-header {
 }
 .small:hover h2 {
   background-size: 100% 100%;
+}
+/* disappearing header */
+
+body:has(.jumbotron) .main-header {
+  position: fixed;
+  transition: var(--global-transition, 333ms);
+  top: -60px;
+  left: 0;
+  right: 0;
+}
+.main-header::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 30px;
+}
+body:has(.jumbotron) .main-header:hover {
+  top: 0;
 }

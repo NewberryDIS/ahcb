@@ -93,7 +93,7 @@ main {
   left: 0;
   right: 0;
   overflow: auto;
-  z-index: 888;
+  z-index: 878;
   max-height: 0;
   border: 0;
   padding: 0;
@@ -176,9 +176,30 @@ body:not(.dark) .nav-menu ul {
   margin-top: 0.76rem;
   border-bottom: 1px solid var(--fg-color);
 }
-.text-page ul {
-  list-style-type: none;
-  margin-left: 2rem;
-  font-family: "signifier";
+.text-page li {
+  margin: 0.5rem 0;
+  /* list-style-type: none; */
   /* font-size */
+}
+.text-page table {
+  border-collapse: collapse;
+}
+.text-page :is(th, td) {
+  border: 1px solid rgba(var(--fg), 0.5);
+  padding: 3px 9px;
+}
+.text-page thead {
+  position: sticky;
+  top: 60px;
+  background: var(--bg-color);
+}
+.text-page :is(ul, ol) {
+  padding-left: 2rem;
+}
+.text-page td {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  &:first-child {
+    text-align: left;
+  }
 }

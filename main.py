@@ -121,10 +121,13 @@ def BasePage(
                     Div(
                         "Go to...",
                         Ul(
+                            Li(A("About", href=f"/athf/about")),
+                            Li(A("Downloads", href=f"/athf/download")),
+                            Li(A("All states", href=f"/athf/maps")),
                             *[
                                 Li(A(name, href=f"/athf/{code}"))
                                 for code, name in STATE_NAMES.items()
-                            ]
+                            ],
                         ),
                         cls="nav-menu",
                         id="nav-menu",

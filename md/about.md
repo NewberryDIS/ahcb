@@ -2,7 +2,7 @@
 
 The Atlas of Historical County Boundaries provides maps and text about the creation and subsequent changes in the size, shape, and location of every county in the fifty United States and the District of Columbia until 2012. It also includes non-county areas, unsuccessful authorizations for new counties, changes in county names and organization, and the temporary attachments of non-county areas and unorganized counties to fully functioning counties. The principal sources are the most authoritative available: the session laws of the colonies, territories, and states that created and changed the counties.
 
-The Atlas of Historical County Boundaries successfully completed the project of documenting boundary changes in all 50 states in June 2010. The national data files were contributed in 2012. The atlas is not being updated with any new boundary changes. For more recent boundary data, please consult the NHGIS. The project was supported throughout its work by several current and past research centers at The Newberry Library in Chicago. The current web platform was created by [Nic White](https://nick3white.github.io).
+The Atlas of Historical County Boundaries successfully completed the project of documenting boundary changes in all 50 states in June 2010. The national data files were contributed in 2012. The atlas is not being updated with any new boundary changes. For more recent boundary data, please consult the NHGIS. The project was supported throughout its work by several current and past research centers at The Newberry Library in Chicago.
 
 ## Access and Metadata
 
@@ -16,20 +16,33 @@ Once news of the project spread, many potential users asked that the data also b
 
 The success of this first project led to this Atlas, which was launched in 1987. The goal was to provide reliable and accessible data on historical county changes for the entire nation from the colonial period onwards. All work, from historical compilation through computerized mapmaking, was concentrated at the Newberry, with principal funding from the National Endowment for the Humanities and additional support from private individuals and foundations. The project officially finished in 2012 at which point the maintenance of this site fell to the Hermon Dunlap Smith Center for the History of Cartography at the Newberry.
 
-## Project Staff
+## Credits
 
-- Dave Weimer: Project Lead;
-- Nicolas White: Developer and Designer;
-- John H. Long: Editor, and Historical Compiler;
-- Peggy Tuck Sinko: Assoc. Editor, and Historical Compiler;
-- Gordon DenBoer: Historical Compiler;
-- Emily R. Kelley: Historical Compiler, and GIS Compiler;
-- Laura Rico-Beck: GIS Specialist, and GIS Compiler;
-- Peter Siczewicz: GIS Consultant, and Interactive Map-site (ArcIMS) Designer;
-- Robert Will: Cartographic Assistant, and Historical Compiler;
-- John Ford: Cartographic Assistant, and Historical Compiler;
-- Kathryn Ford Thorne: Historical Compiler;
-- Deborah Skok: Historical Compiler;
-- George E. Goodridge, Jr.: Historical Compiler;
-- Douglas Knox: Book Digitizing Director, and GIS Compiler;
-- Brodie Austin, Parker Otto: Previous Atlas Website Designers.
+### Original Project (Data Compilation and Historical Research)
+
+The foundational historical and geographic data featured on this site was compiled and digitized by a dedicated team over a decade ago. We gratefully acknowledge their contributions:
+
+- **John H. Long**: Editor, and Historical Compiler
+- **Peggy Tuck Sinko**: Assoc. Editor, and Historical Compiler
+- **Gordon DenBoer**: Historical Compiler
+- **Emily R. Kelley**: Historical Compiler, and GIS Compiler
+- **Laura Rico-Beck**: GIS Specialist, and GIS Compiler
+- **Peter Siczewicz**: GIS Consultant, and Interactive Map-site (ArcIMS) Designer
+- **Robert Will**: Cartographic Assistant, and Historical Compiler
+- **John Ford**: Cartographic Assistant, and Historical Compiler
+- **Kathryn Ford Thorne**: Historical Compiler
+- **Deborah Skok**: Historical Compiler
+- **George E. Goodridge, Jr.**: Historical Compiler
+- **Douglas Knox**: Book Digitizing Director, and GIS Compiler
+- **Brodie Austin**: Original Website Designer
+
+This current version of the website would not be possible without their extensive work in compiling and curating the historical data.
+
+### Current Project Team (Website Rebuild and Redeployment)
+
+This updated site was launched in 2025 with a fully reimagined codebase and user experience, while retaining and reorganizing the original dataset to optimize performance and accessibility.
+
+- **[Jen Wolfe](https://n3w.srht.site/jen/)**: Project Manager
+- **[Nicolas White](https://n3w.srht.site/)**: Lead Developer and Data Engineer
+- **[Parker Otto](https://parkerotto.github.io/):** Contributing Developer
+- **[David Weimer](https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps)**: Project Director

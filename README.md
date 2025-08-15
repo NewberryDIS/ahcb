@@ -26,10 +26,16 @@ project/
     ├── index.html
     ├── 404.html
     ├── states.html
+    ├── maps/
+    │   ├── az/
+    │   │   └── index.html
     ├── ahcb/
-    │   ├── az.html
-    │   ├── dc.html
-    │   └── ...
+    │   ├── az/
+    │   │   └── index.html
+    │   ├── ny/
+    │   │   └── index.html
+    │   ├── mt/
+    │   │   └── index.html
     ├── static/
     │   ├── css/
     │   └── js/
