@@ -10,6 +10,7 @@ import shutil
 import time
 import json
 import subprocess
+import socket
 import threading
 import http.server
 import socketserver
@@ -359,6 +360,12 @@ def run_server(port: int = 8000):
     return True
 
 
+def is_port_in_use(port: int) -> bool:
+    """Check if port is in use."""
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        return s.connect_ex(("localhost", port)) == 0
+
+
 def main():
     import argparse
 
@@ -413,7 +420,11 @@ def main():
         observer.start()
         print("🔄 Auto-rebuild enabled")
 
+    ascending_port = args.port
     # Run development server
+    while is_port_in_use(ascending_port):
+        print(f"Port {ascending_port} is in use, trying next...")
+        ascending_port += 1
     try:
         run_server(args.port)
     except KeyboardInterrupt:

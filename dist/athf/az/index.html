@@ -11,7 +11,15 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
      <link rel="stylesheet" href="/athf/static/css/_base.css">
      <link rel="stylesheet" href="/athf/static/css/_newberry.css">
      <link rel="stylesheet" href="/athf/static/css/main.css">
-   </head>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619" async></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-VXBH4RD619");
+
+        </script>   </head>
    <body>
      <head>
        <link rel="stylesheet" href="/athf/static/css/leaflet.css">
@@ -20,12 +28,18 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
        <link rel="stylesheet" href="/athf/static/css/download-modal.css">
      </head>
      <body>
+       <div class="bg-overlay"></div>
        <header class="main-header">
 <newberry-logo></newberry-logo>         <h1>
 <a href="/athf/" class="link-lines">Atlas of Historical County Boundaries</a>         </h1>
          <div class="header-right">
+           <div class="dmt-wrapper">
+<dark-mode-toggle></dark-mode-toggle>           </div>
            <div id="nav-menu" class="nav-menu">
-Go to...             <ul>
+<button id="menu-button" name="menu-button">               <div class="line line1"></div>
+               <div class="line line2"></div>
+               <div class="line line3"></div>
+</button>             <ul>
                <li>
 <a href="/athf/about">About</a>               </li>
                <li>
@@ -138,7 +152,7 @@ Go to...             <ul>
 <a href="/athf/dc">District of Columbia</a>               </li>
              </ul>
            </div>
-<dark-mode-toggle></dark-mode-toggle>         </div>
+         </div>
        </header>
 <main>         <div class="main-content">
            <div id="map" class="map-container"></div>
@@ -149,6 +163,8 @@ Go to...             <ul>
          </div>
 </main>     </body>
 <script src="/athf/static/js/dark-mode-toggle.js"></script><script src="/athf/static/js/newberry-logo.js"></script><script src="/athf/static/js/main.js"></script><script>
+let navMenu;
+        </script><script>
                        // Initialize state variables 
                        const stateCode = 'az';
                        const stateName = 'Arizona';

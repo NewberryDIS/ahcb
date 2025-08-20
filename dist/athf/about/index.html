@@ -11,16 +11,30 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
      <link rel="stylesheet" href="/athf/static/css/_base.css">
      <link rel="stylesheet" href="/athf/static/css/_newberry.css">
      <link rel="stylesheet" href="/athf/static/css/main.css">
-   </head>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619" async></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-VXBH4RD619");
+
+        </script>   </head>
    <body>
      <head></head>
      <body>
+       <div class="bg-overlay"></div>
        <header class="main-header">
 <newberry-logo></newberry-logo>         <h1>
 <a href="/athf/" class="link-lines">Atlas of Historical County Boundaries</a>         </h1>
          <div class="header-right">
+           <div class="dmt-wrapper">
+<dark-mode-toggle></dark-mode-toggle>           </div>
            <div id="nav-menu" class="nav-menu">
-Go to...             <ul>
+<button id="menu-button" name="menu-button">               <div class="line line1"></div>
+               <div class="line line2"></div>
+               <div class="line line3"></div>
+</button>             <ul>
                <li>
 <a href="/athf/about">About</a>               </li>
                <li>
@@ -133,7 +147,7 @@ Go to...             <ul>
 <a href="/athf/dc">District of Columbia</a>               </li>
              </ul>
            </div>
-<dark-mode-toggle></dark-mode-toggle>         </div>
+         </div>
        </header>
 <main>         <article class="marked text-page"># About the Project
 
@@ -143,7 +157,7 @@ The Atlas of Historical County Boundaries successfully completed the project of 
 
 ## Access and Metadata
 
-The Newberry makes the contents of this site available for reuse without permission under the Creative Commons CC0 1.0 Universal Public Domain Dedication: &lt;https://creativecommons.org/publicdomain/zero/1.0/&gt;. Accompanying the data for each state and its counties are two versions of the essential metadata: one an extensive, detailed document following the Federal Geographic Data Committee (FGDC) model, the other a one-page summary.
+The Newberry makes the contents of this site available for reuse without permission under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Accompanying the data for each state and its counties are two versions of the essential metadata: one an extensive, detailed document following the Federal Geographic Data Committee (FGDC) model, the other a one-page summary.
 
 ## History of the Atlas
 
@@ -183,7 +197,11 @@ This updated site was launched in 2025 with a fully reimagined codebase and user
 - **[Nicolas White](https://n3w.srht.site/)**: Lead Developer and Data Engineer
 - **[Parker Otto](https://parkerotto.github.io/):** Contributing Developer
 - **[David Weimer](https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps)**: Project Director
+
+![National Endowment for the Humanities logo](/athf/static/images/nehlogo.webp)
 </article>
 </main>     </body>
-<script src="/athf/static/js/dark-mode-toggle.js"></script><script src="/athf/static/js/newberry-logo.js"></script><script src="/athf/static/js/main.js"></script>   </body>
+<script src="/athf/static/js/dark-mode-toggle.js"></script><script src="/athf/static/js/newberry-logo.js"></script><script src="/athf/static/js/main.js"></script><script>
+let navMenu;
+        </script>   </body>
  </html>

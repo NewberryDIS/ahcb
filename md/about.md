@@ -6,7 +6,7 @@ The Atlas of Historical County Boundaries successfully completed the project of 
 
 ## Access and Metadata
 
-The Newberry makes the contents of this site available for reuse without permission under the Creative Commons CC0 1.0 Universal Public Domain Dedication: <https://creativecommons.org/publicdomain/zero/1.0/>. Accompanying the data for each state and its counties are two versions of the essential metadata: one an extensive, detailed document following the Federal Geographic Data Committee (FGDC) model, the other a one-page summary.
+The Newberry makes the contents of this site available for reuse without permission under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Accompanying the data for each state and its counties are two versions of the essential metadata: one an extensive, detailed document following the Federal Geographic Data Committee (FGDC) model, the other a one-page summary.
 
 ## History of the Atlas
 
@@ -46,3 +46,5 @@ This updated site was launched in 2025 with a fully reimagined codebase and user
 - **[Nicolas White](https://n3w.srht.site/)**: Lead Developer and Data Engineer
 - **[Parker Otto](https://parkerotto.github.io/):** Contributing Developer
 - **[David Weimer](https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps)**: Project Director
+
+![National Endowment for the Humanities logo](/athf/static/images/nehlogo.webp)

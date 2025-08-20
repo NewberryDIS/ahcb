@@ -39,7 +39,8 @@ class NewberryLogo extends HTMLElement {
     const style = document.createElement("style");
     style.textContent = `
 .newberry-logo {
-  --hover-color: var(--fg-splash);
+--static-color: var(--fg-color);
+  --hover-color: var(--accent-color);
   display: flex;
   justify-content: start;
   align-items: center;
@@ -50,13 +51,13 @@ class NewberryLogo extends HTMLElement {
 }
 
 svg, text, path {
-  fill: var(--fg-color);
+  fill: var(--static-color);
 }
 a:hover :is(svg, path, text) {
   fill: var(--hover-color);
 }
 a {
-  color: var(--fg-color);
+  color: var(--static-color);
 }
 a:hover {
   color: var(--hover-color);

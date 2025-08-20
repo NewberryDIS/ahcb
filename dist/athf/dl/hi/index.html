@@ -11,7 +11,15 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
      <link rel="stylesheet" href="/athf/static/css/_base.css">
      <link rel="stylesheet" href="/athf/static/css/_newberry.css">
      <link rel="stylesheet" href="/athf/static/css/main.css">
-   </head>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619" async></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-VXBH4RD619");
+
+        </script>   </head>
    <body>
      <div hx-get="/athf/clear" hx-swap="outerHTML" hx-target="#download-modal" id="download-modal" class="download-modal">
        <section onclick="event.stopPropagation()">

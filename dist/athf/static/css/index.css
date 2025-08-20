@@ -1,7 +1,7 @@
 .jumbotron {
   min-height: 100vh;
   display: flex;
-  background-image: url("/athf/static/images/usa_dark.jpg");
+  background-image: url("/athf/static/images/usa_dark.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -16,7 +16,7 @@
   text-decoration: none;
   mix-blend-mode: difference;
   flex: 1;
-  width: 75vw;
+  /* width: 75vw; */
   height: 100vh;
   display: flex;
   align-items: center;
@@ -49,7 +49,10 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.small {
+#maps {
+  position: absolute;
+  bottom: 0;
+  right: 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -75,7 +78,7 @@
     linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("/athf/static/images/downloads.jpg");
 }
-.small#maps {
+#maps {
   /* background-image: linear-gradient( */
   /*   to right, */
   /*   rgba(0, 0, 0, 0.4), */
@@ -86,15 +89,13 @@
   }
 }
 .small:not(#maps) h2 {
-  /* border-width: 1px 1px 0 1px; */
-  /* background-image: linear-gradient(to right, darkred, darkred); */
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
   );
 }
-.small h2 {
+#maps h2 {
   /* mix-blend-mode: difference; */
   /* border: 1px solid white; */
   font-family: "styrene";
@@ -112,26 +113,35 @@
   background-repeat: no-repeat;
   transition: 333ms;
 }
-.small:hover h2 {
+#maps:hover h2 {
   background-size: 100% 100%;
 }
 /* disappearing header */
 
 body:has(.jumbotron) .main-header {
-  position: fixed;
-  transition: var(--global-transition, 333ms);
-  top: -60px;
-  left: 0;
-  right: 0;
-}
-.main-header::after {
-  content: "";
+  --fg-color: rgb(var(--granite)) !important;
+  --bg-color: rgb(var(--midnight)) !important;
+  --accent-color: rgb(var(--lake)) !important;
   position: absolute;
-  top: 100%;
+  top: 0;
   left: 0;
   right: 0;
-  height: 30px;
+  background: none;
+  border: none;
+  box-shadow: none;
+  & h1 {
+    display: none;
+  }
+  & .header-right {
+    /* background: var(--bg-color); */
+  }
+  /* position: fixed */
+  /* transition: var(--global-transition, 333ms); */
+  /* top: -60px; */
+  & dark-mode-toggle {
+    display: none;
+  }
 }
-body:has(.jumbotron) .main-header:hover {
-  top: 0;
-}
+/* body:has(.jumbotron) .main-header:hover { */
+/*   top: 0; */
+/* } */

@@ -68,19 +68,23 @@ main {
 
 .nav-menu {
   position: relative;
-  width: 200px;
-  border-bottom: 1px solid var(--fg-color);
 }
 .nav-menu span {
   /* width: 10ch; */
   padding: 3px 9px;
+}
+.dmt-wrapper {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .nav-menu,
 .nav-menu * {
   transition: var(--global-transition);
 }
 .nav-menu ul {
-  background: var(--bg-color);
   list-style-type: none;
   opacity: 0;
   /* display: flex; */
@@ -99,9 +103,18 @@ main {
   padding: 0;
   margin: 0;
   pointer-events: none;
+  width: 200px;
+  padding-right: 0 !important;
+  transform: translateX(calc(-100% + 50px));
+  & li {
+    background-color: var(--bg-color);
+    &:hover {
+      filter: brightness(2);
+    }
+  }
 }
 
-.nav-menu.open ul,
+.nav-menu:has(.open) ul,
 .nav-menu:hover ul {
   pointer-events: auto;
   opacity: 1;
@@ -111,32 +124,25 @@ main {
   height: auto;
   max-height: 50vh;
   overflow-y: auto;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--fg-color);
+}
+body.dark .nav-menu:has(.open) ul,
+body.dark .nav-menu:hover ul {
 }
 
 .nav-menu li a {
   display: block;
   width: 100%;
   padding: 3px 9px;
-  color: currentColor;
+  color: var(--fg-color);
+  border: 1px solid var(--fg-color);
 }
+.nav-menu:has(.open) li,
 .nav-menu.open li,
 .nav-menu:hover li {
   border: 1px solid var(--bg-color);
   /* overflow: auto; */
-}
-body:not(.dark) .nav-menu ul {
-  filter: brightness(0.87);
-  & li:hover {
-    filter: brightness(0.5);
-    border-color: var(--fg-color);
-  }
-}
-.dark .nav-menu ul {
-  filter: brightness(2);
-  & li:hover {
-    filter: brightness(1.5);
-    border-color: var(--fg-color);
-  }
 }
 
 .in-text-link {
@@ -146,7 +152,7 @@ body:not(.dark) .nav-menu ul {
   display: flex;
   align-items: center;
   justify-content: end;
-  gap: 3px;
+  gap: 1px;
 }
 @media (max-width: 768px) {
   .nav-menu {
@@ -203,3 +209,102 @@ body:not(.dark) .nav-menu ul {
     text-align: left;
   }
 }
+.text-page img {
+  width: 300px;
+  height: 200px;
+  object-fit: contain;
+}
+
+body:not(.dark) .text-page img {
+  filter: invert(1);
+}
+
+#menu-button {
+  background: var(--bg-color);
+  border: none;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 80px;
+  transform: translate3d(0, 0, 0);
+  transition: transform ease-out 200ms;
+  &.open {
+    background: var(--accent-bg-color);
+  }
+}
+
+.line {
+  pointer-events: none;
+  width: 25px;
+  height: 3px;
+  background: var(--fg-color);
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -12.5px;
+  margin-top: -1.5px;
+  transition: transform 200ms;
+}
+
+.line1 {
+  transform: translate3d(0, -8px, 0);
+}
+
+.line2 {
+  transform: translate3d(0, 0, 0);
+}
+
+.line3 {
+  transform: translate3d(0, 8px, 0);
+}
+#menu-button:hover,
+#nav-menu:has(.open),
+#nav-menu.open {
+  & .line1 {
+    transform: translate3d(0, 0, 0) rotate(45deg);
+  }
+  & .line2 {
+    transform: translate3d(0, 0, 0) scale(0.1, 1);
+  }
+  & .line3 {
+    transform: translate3d(0, 0, 0) rotate(-45deg);
+  }
+}
+/* body { */
+/*   background-size: cover; */
+/*   background-position: center; */
+/*   background-attachment: fixed; */
+/* } */
+/* body.dark { */
+/*   background-image: url("/athf/static/images/usa_dark-blank.webp"); */
+/* } */
+/* body:not(.dark) { */
+/*   background-image: url("/athf/static/images/usa_light-blank.webp"); */
+/* } */
+/* .main-header { */
+/*   background-image: linear-gradient( */
+/*     30deg, */
+/*     rgba(var(--mulberry), 0.5) 0% 40%, */
+/*     rgba(var(--flame), 0.5) 40% 100% */
+/*   ); */
+/*   background-size: cover; */
+/*   background-repeat: no-repeat; */
+/*   background-attachment: fixed; */
+/* } */
+/**/
+/* .bg-overlay { */
+/*   position: fixed; */
+/*   inset: 0; */
+/*   z-index: -1; */
+/*   background-image: linear-gradient( */
+/*     30deg, */
+/*     rgba(var(--mulberry), 0.5) 0% 40%, */
+/*     rgba(var(--flame), 0.5) 40% 100% */
+/*   ); */
+/*   background-size: cover; */
+/*   background-repeat: no-repeat; */
+/* } */
+/* article { */
+/*   background: var(--bg-color); */
+/* } */

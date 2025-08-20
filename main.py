@@ -69,6 +69,18 @@ app, rt = fast_app(
         Link(rel="stylesheet", href="/athf/static/css/_base.css"),
         Link(rel="stylesheet", href="/athf/static/css/_newberry.css"),
         Link(rel="stylesheet", href="/athf/static/css/main.css"),
+        Script(
+            src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619", _async=True
+        ),
+        Script("""
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-VXBH4RD619");
+
+        """),
     ),
 )
 
@@ -102,12 +114,24 @@ def get_state_name(state_code: str) -> str:
 
 
 def BasePage(
-    *c, css=(), js=(), title="Atlas of Historical County Boundaries", content=()
+    *c,
+    css=(),
+    js=(),
+    title="Atlas of Historical County Boundaries",
+    content=(),
 ):
+    menu_button = Button(
+        Div(cls="line line1"),
+        Div(cls="line line2"),
+        Div(cls="line line3"),
+        id="menu-button",
+        # onclick="this.classList.toggle('show')",
+    )
     return (
         Title(title),
         Head(css),
         Body(
+            Div(cls="bg-overlay"),
             Header(
                 ft("newberry-logo")(),
                 H1(
@@ -118,8 +142,9 @@ def BasePage(
                     )
                 ),
                 Div(
+                    Div(ft("dark-mode-toggle")(), cls="dmt-wrapper"),
                     Div(
-                        "Go to...",
+                        menu_button,
                         Ul(
                             Li(A("About", href=f"/athf/about")),
                             Li(A("Downloads", href=f"/athf/download")),
@@ -132,7 +157,6 @@ def BasePage(
                         cls="nav-menu",
                         id="nav-menu",
                     ),
-                    ft("dark-mode-toggle")(),
                     cls="header-right",
                 ),
                 cls="main-header",
@@ -144,6 +168,9 @@ def BasePage(
         Script(src="/athf/static/js/dark-mode-toggle.js"),
         Script(src="/athf/static/js/newberry-logo.js"),
         Script(src="/athf/static/js/main.js"),
+        Script("""
+let navMenu;
+        """),
         js,
     )
 
@@ -164,55 +191,78 @@ def data_files(path: str):
     return FileResponse(f"data/{path}")
 
 
+def lettr(l):
+    return Span(l, cls="title-letter")
+
+
+arrowSvg = """
+<svg
+   version="1.1"
+   id="svg1"
+   width="800"
+   height="256.66666"
+   viewBox="0 0 800 256.66666"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+  >
+  <defs
+     id="defs1" />
+  <path
+     d="m 251.6511,241.65199 -14.97206,-15.01465 39.32714,-39.3102 c 21.62993,-21.62061 39.32715,-39.76401 39.32715,-40.31867 0,-0.55467 -70.95,-1.00765 -157.66667,-1.00663 L -1.6534882e-8,146.00368 0.39699561,124.6685 0.79399121,103.33333 H 158.06366 c 86.49832,0 157.2692,-0.15 157.26863,-0.33334 -10e-4,-0.43806 -30.2249,-31.53102 -53.10754,-54.635291 L 244.09834,30.062734 259.04326,15.031367 273.98818,2.2105483e-8 336.66091,62.661504 l 62.67274,62.661506 -65.66178,65.67182 c -36.11397,36.1195 -65.97383,65.67182 -66.35524,65.67182 -0.38141,0 -7.43089,-6.75659 -15.66553,-15.01466 z"
+     id="path2" />
+</svg>
+"""
+
+
+def title_text(words, add_extra=False):
+    list_of_words = list(words)
+    for i, w in enumerate(list_of_words):
+        if w == " ":
+            list_of_words[i] = NotStr("&nbsp;")
+    # print(f"list of words : {list_of_words}")
+    if add_extra:
+        # axxaxxa = Div(Div(cls="ax"), Div(cls="xax"), Div(cls="xa"), cls="axxaxxa")
+        axxaxxa = Img(src="/athf/static/images/arrow.svg", cls="axxaxxa")
+        redbox = (
+            A(
+                P(
+                    Span("maps", cls="redbox-maps-text"),
+                    Span("Go to the", cls="md-plus"),
+                ),
+                Div(cls="bg"),
+                NotStr(arrowSvg),
+                href="/athf/maps/",
+                cls="redbox no-lines",
+            ),
+        )
+
+        spans = Div(map(lettr, list_of_words), cls="mini-title-container")
+        return Div(spans, redbox, cls="extra-title-container")
+    else:
+        return Div(map(lettr, list_of_words), cls="title-container")
+
+
 # Home/Index page
 @rt("/athf")
 def home():
+    page_title_text_1 = title_text("Atlas of")
+    page_title_text_2 = title_text("Historical")
+    page_title_text_3 = title_text("County ", True)
+    page_title_text_4 = title_text("Boundaries")
     return BasePage(
-        css=(Link(rel="stylesheet", href="/athf/static/css/index.css"),),
+        css=(
+            # Link(rel="stylesheet", href="/athf/static/css/index.css"),
+            Link(rel="stylesheet", href="/athf/static/css/jumbo_v2.css"),
+        ),
         content=(
             Article(
-                A(
-                    H1(
-                        "Atlas of Historical County Boundaries",
-                        # Span("Atlas of"),
-                        # Span("Historical"),
-                        # Span("County"),
-                        # Span("Boundaries"),
-                        id="jumbo",
-                    ),
-                    href=f"{BASE_PATH}/maps",
-                    cls=f"big no-lines",
-                ),
-                Section(
-                    A(
-                        H2("About the project"),
-                        href=f"{BASE_PATH}/about",
-                        cls="small no-lines",
-                        id="aboutus",
-                    ),
-                    A(
-                        H2("Download the data"),
-                        href=f"{BASE_PATH}/download",
-                        cls="small no-lines",
-                        id="downloads",
-                    ),
-                    A(
-                        H2("Go to the maps"),
-                        href=f"{BASE_PATH}/maps",
-                        cls="small no-lines",
-                        id="maps",
-                    ),
-                    cls="smalls",
-                ),
-                cls="jumbotron",
+                # Img(src="/athf/static/images/jumbo-textonly-rockwell.png"),
+                page_title_text_1,
+                page_title_text_2,
+                page_title_text_3,
+                page_title_text_4,
+                id="jumbotron",
             ),
-            Script("""
-                const jumbo = document.getElementById("jumbo");
-                if ("undefined" !== jumbo) {
-                  const bg = Math.random() - 0.5 > 0 ? "rock" : "styrene";
-                  jumbo.classList.add(bg);
-                }
-            """),
         ),
     )
 
@@ -250,10 +300,6 @@ def all_maps_page():
     return BasePage(
         title="Atlas of Historical County Boundaries",
         css=(Link(rel="stylesheet", href="/athf/static/css/all-maps.css")),
-        js=(
-            Script(src="/athf/static/js/wander.js"),
-            Script(src="/athf/static/js/main.js"),
-        ),
         content=(
             Article(
                 Ul(

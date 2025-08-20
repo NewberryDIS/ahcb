@@ -80,16 +80,16 @@
 }
 #state-ny:hover .card-img-name,
 #state-ga:hover .card-img-name {
-  animation: wiggle 0.5s;
+  animation:
+    wiggle 0.5s,
+    dance 2s,
+    vapor 500ms;
   animation-delay: 2000ms;
   animation-iteration-count: infinite;
 }
-
+/* turned off; include wander.js to activate */
 #state-ny .card-img-name.clicked,
 #state-ga .card-img-name.clicked {
-  /* animation: wander 5s; */
-  /* animation-iteration-count: infinite; */
-
   top: var(--top);
   left: var(--left);
   z-index: 10000;
