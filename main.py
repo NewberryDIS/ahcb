@@ -1,5 +1,6 @@
 from fasthtml.common import *
 import json
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, Optional
 
@@ -83,6 +84,8 @@ app, rt = fast_app(
         """),
     ),
 )
+
+# cli = Client(app)
 
 
 def load_state_data(state_code: str) -> Optional[Dict]:
@@ -295,12 +298,64 @@ def download():
     )
 
 
+# @rt("/athf/mapbg")
+# def mapbg():
+#     return BasePage(
+#         title="Atlas of Historical County Boundaries",
+#         css=(
+#             Link(rel="stylesheet", href="/athf/static/css/all-maps.css"),
+#             Link(rel="stylesheet", href="/athf/static/css/leaflet.css"),
+#         ),
+#         js=(
+#             Script(src="/athf/static/js/leaflet.js"),
+#             Script(f"""
+#                 const stateLookup = {json.dumps(STATE_NAMES)};
+#             """),
+#             Script(src="/athf/static/js/map-nav.js"),
+#         ),
+#         content=(Div(id="usa-map"),),
+#     )
+
+
 @rt("/athf/maps")
 def all_maps_page():
     return BasePage(
         title="Atlas of Historical County Boundaries",
-        css=(Link(rel="stylesheet", href="/athf/static/css/all-maps.css")),
+        css=(
+            Link(rel="stylesheet", href="/athf/static/css/all-maps.css"),
+            Link(rel="stylesheet", href="/athf/static/css/leaflet.css"),
+        ),
+        js=(
+            Script(src="/athf/static/js/leaflet.js"),
+            Script(f"""
+                const stateLookup = {json.dumps(STATE_NAMES)};
+            """),
+            Script(src="/athf/static/js/map-nav.js"),
+        ),
         content=(
+            Section(
+                Div(id="usa-map"),
+                Div(
+                    A(
+                        # H3("", cls="state-name", id="ex-tt-title"),
+                        Img(
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+                            cls="card-img",
+                            id="ex-tt-img-1",
+                        ),
+                        # Img(
+                        #     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+                        #     cls="card-img-name",
+                        #     id="ex-tt-img-2",
+                        # ),
+                        href="#",
+                        id="ex-tt-link",
+                    ),
+                    id="ex-tt",
+                    cls="state-postcard",
+                ),
+                cls="map-nav",
+            ),
             Article(
                 Ul(
                     *[
@@ -324,7 +379,7 @@ def all_maps_page():
                     ]
                 ),
                 cls="all-maps",
-            )
+            ),
         ),
     )
 
@@ -333,10 +388,30 @@ def all_maps_page():
 @rt("/athf/{state_code}")
 def state_page(state_code: str):
     """Display the map page for a specific state"""
-
     state_data = load_state_data(state_code.lower())
     state_name = get_state_name(state_code)
 
+    def date_linker(date_str):
+        # print(f"date in datelinker: {date_str}")
+        return Option(
+            date_str,
+            value=f"/athf/{state_code.lower()}?date={date_str}",
+            id=f"date-option-{date_str}",
+        )
+
+    date_list = []
+    manifest = state_data["manifest"]
+    for id, feature in manifest["features"].items():
+        start_date = feature["start_date"]
+        if start_date not in date_list:
+            date_list.append(start_date)
+            # link_list.append(
+            #     Li(A(start_date, href=f"/athf/{state_code.lower()}?date={start_date}"))
+            # )
+    date_list = list(set(date_list))
+    date_list = sorted(date_list, key=lambda x: datetime.strptime(x, "%Y-%m-%d"))
+    # link_dropdown = Ul(*link_list, cls="link-dropdown", onclick="toggleDateDropdown")
+    # print(f"date list: {date_list}")
     return BasePage(
         title=f"{state_name} - Atlas of Historical County Boundaries",
         css=(
@@ -347,21 +422,41 @@ def state_page(state_code: str):
         ),
         js=(
             Script(f"""
-                       // Initialize state variables 
                        const stateCode = '{state_code.lower()}';
                        const stateName = '{state_name}';
                        const previewData = {json.dumps(state_data["preview"])};
-                       const manifestData = {json.dumps(state_data["manifest"])};
+                       const manifestData = {json.dumps(manifest)};
+                       const urlParams = new URLSearchParams(window.location.search);
+                       window.dateParam = urlParams.get("date");
                        
                    """),
+            Script("""
+                       function openOption(el){
+                            console.log("open option fn value", el.value)
+                           let target = "_blank";
+                           if (el.value.indexOf("?") > -1 ){
+                                target="_self";
+                           }
+                           window.open(el.value, target);
+                       }
+
+            """),
             Script(src="/athf/static/js/leaflet.js"),
             Script(src="/athf/static/js/leaflet.timeline.min.js"),
             Script(src="/athf/static/js/map.js"),
             Script("""
                        // Initialize the map when DOM is loaded
-                       document.addEventListener('DOMContentLoaded', function() {{
-                           initializeMap(stateCode, stateName, previewData, manifestData);
-                       }});
+                       document.addEventListener('DOMContentLoaded', function() {
+                          initializeMap(stateCode, stateName, previewData, manifestData);
+                          if(window.dateParam){
+                            const selectedDate = document.getElementById(`date-option-${window.dateParam}`)
+                            selectedDate.selected = true
+                          } else {
+                            const allOptions = document.querySelectorAll('#link-select option')
+                            allOptions[4].selected = true;
+                          }
+                       });
+
                    """),
         ),
         content=(
@@ -371,6 +466,35 @@ def state_page(state_code: str):
                 # Info sidebar
                 Aside(
                     H2(state_name),
+                    Select(
+                        Option(
+                            "All Changes",
+                            value=f"/ahcb/documents/{state_code.upper()}_Consolidated_Chronology.htm",
+                            cls="link-lines",
+                            target="_blank",
+                        ),
+                        Option(
+                            "Changes by County",
+                            value=f"/ahcb/documents/{state_code.upper()}_Individual_County_Chronologies.htm",
+                            cls="link-lines",
+                            target="_blank",
+                        ),
+                        Option(
+                            f"{state_name} Bibliography",
+                            value=f"/ahcb/documents/{state_code.upper()}_Bibliography.htm",
+                            cls="link-lines",
+                            target="_blank",
+                        ),
+                        Option(
+                            "Commentary",
+                            value=f"/ahcb/documents/{state_code.upper()}_Commentary.htm",
+                            cls="link-lines",
+                            target="_blank",
+                        ),
+                        *map(date_linker, date_list),
+                        onchange="openOption(this)",
+                        id="link-select",
+                    ),
                     Div(
                         id="infotext",
                     ),
@@ -449,6 +573,83 @@ def download_state(state_code: str):
             cls="download-modal",
         ),
     )
+
+
+def static_usa_map():
+    map_script = Script(
+        """
+        // Initialize map with interactions disabled
+        const map = L.map('usa-map', {
+            zoomControl: false,        // Remove zoom buttons
+            scrollWheelZoom: false,    // Disable scroll zoom
+            doubleClickZoom: false,    // Disable double-click zoom
+            boxZoom: false,            // Disable box zoom
+            keyboard: false,           // Disable keyboard navigation
+            dragging: false,           // Disable panning/dragging
+            tap: false,                // Disable tap (mobile)
+            touchZoom: false,          // Disable pinch zoom
+            attributionControl: false  // Remove attribution
+        }).setView([39.8283, -98.5795], 4);
+        
+        // Simple base layer (you could even skip this for pure vector)
+        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        //     attribution: ''
+        // }).addTo(map);
+        
+        // Load and display states
+        fetch('/athf/static/us-states-albers.json' )
+            .then(response => response.json())
+            .then(statesData => {
+                L.geoJSON(statesData, {
+
+                    style: { 
+                        fillColor: 'var(--fg-color)',
+                        color: 'var(--bg-color)',
+                        weight: 1,
+                        fillOpacity: 0.8 
+                    },
+                    onEachFeature: function(feature, layer) {
+                        layer.on({
+                            mouseover: function(e) {
+                                e.target.setStyle({
+                                    fillColor: '#fff',
+                                    fillOpacity: 0.9,
+                                    weight: 2
+                                });
+                                const externalTT = document.getElementById('ex-tt');
+                                externalTT.innerText = feature.properties.NAME;
+                            },
+                            mouseout: function(e) {
+                                e.target.setStyle({
+                                    fillColor: 'var(--fg-color)', 
+                                    fillOpacity: 0.8,
+                                    weight: 1
+                                });
+                            },
+                            click: function(e) {
+                                const stateName = feature.properties.NAME.toLowerCase().replace(/\s+/g, '-');
+                                htmx.ajax('GET', `/state/${stateName}`, {target: 'body'});
+                            }
+                        });
+                        
+                        // Add tooltip with state name
+                        layer.bindTooltip(feature.properties.NAME, {
+                            permanent: false,
+                            anchor: '#usa-map',
+                             direction: 'center',
+                            className: 'state-tooltip'
+                        });
+                    }
+                }).addTo(map);
+                
+                // Optional: fit map to show all states perfectly
+                map.fitBounds(L.geoJSON(statesData).getBounds(), {padding: [10, 10]});
+            });
+    """,
+        type="module",
+    )
+
+    return Div(Div(id="usa-map"), map_script)
 
 
 @rt("/")

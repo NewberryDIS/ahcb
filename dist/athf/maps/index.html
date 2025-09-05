@@ -23,6 +23,7 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
    <body>
      <head>
        <link rel="stylesheet" href="/athf/static/css/all-maps.css">
+       <link rel="stylesheet" href="/athf/static/css/leaflet.css">
      </head>
      <body>
        <div class="bg-overlay"></div>
@@ -151,7 +152,12 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
            </div>
          </div>
        </header>
-<main>         <article class="all-maps">
+<main>         <section class="map-nav">
+           <div id="usa-map"></div>
+           <div id="ex-tt" class="state-postcard">
+<a href="#" id="ex-tt-link" name="ex-tt-link"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" id="ex-tt-img-1" class="card-img" name="ex-tt-img-1"></a>           </div>
+         </section>
+         <article class="all-maps">
            <ul>
              <li id="state-al" class="state-postcard">
 <a href="/athf/al">                 <h3 class="state-name">Alabama</h3>
@@ -314,5 +320,7 @@ proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>  
 </main>     </body>
 <script src="/athf/static/js/dark-mode-toggle.js"></script><script src="/athf/static/js/newberry-logo.js"></script><script src="/athf/static/js/main.js"></script><script>
 let navMenu;
-        </script>   </body>
+        </script><script src="/athf/static/js/leaflet.js"></script><script>
+                const stateLookup = {"al": "Alabama", "ak": "Alaska", "az": "Arizona", "ar": "Arkansas", "ca": "California", "co": "Colorado", "ct": "Connecticut", "de": "Delaware", "dt": "Dakota Territory", "fl": "Florida", "ga": "Georgia", "hi": "Hawaii", "id": "Idaho", "il": "Illinois", "in": "Indiana", "ia": "Iowa", "ks": "Kansas", "ky": "Kentucky", "la": "Louisiana", "me": "Maine", "md": "Maryland", "ma": "Massachusetts", "mi": "Michigan", "mn": "Minnesota", "ms": "Mississippi", "mo": "Missouri", "mt": "Montana", "ne": "Nebraska", "nv": "Nevada", "nh": "New Hampshire", "nj": "New Jersey", "nm": "New Mexico", "ny": "New York", "nc": "North Carolina", "nd": "North Dakota", "oh": "Ohio", "ok": "Oklahoma", "or": "Oregon", "pa": "Pennsylvania", "ri": "Rhode Island", "sc": "South Carolina", "sd": "South Dakota", "tn": "Tennessee", "tx": "Texas", "ut": "Utah", "vt": "Vermont", "va": "Virginia", "wa": "Washington", "wv": "West Virginia", "wi": "Wisconsin", "wy": "Wyoming", "dc": "District of Columbia"};
+            </script><script src="/athf/static/js/map-nav.js"></script>   </body>
  </html>

@@ -18,11 +18,7 @@ body {
   --tl-fg-color: rgb(var(--midnight));
   --tl-bg-color: rgb(var(--granite));
   --county-fg-color: rgb(var(--midnight));
-  --county-bg-color: color-mix(
-    in oklab,
-    rgb(var(--granite)),
-    var(--county-accent-color)
-  );
+  --county-bg-color: rgb(var(--granite));
   --accent-color: rgb(var(--accent));
   --fg-color: rgb(var(--fg));
   --bg-color: rgb(var(--bg));

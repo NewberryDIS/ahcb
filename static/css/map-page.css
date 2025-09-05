@@ -4,6 +4,7 @@
   /* height: 100%; */
   gap: 0;
   position: relative;
+  overflow-y: hidden;
 }
 
 .map-container {
@@ -312,3 +313,11 @@
 /* } */
 /* .download-modal li { */
 /* } */
+
+#link-select {
+  margin-bottom: 1rem;
+  width: 100%;
+  & option {
+    padding: 3px 9px;
+  }
+}

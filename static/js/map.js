@@ -99,8 +99,8 @@ function createTimelineControl(timelineData) {
         fillColor: "var(--county-bg-color)",
         color: "var(--county-fg-color)",
         weight: 2,
-        opacity: 0.8,
-        fillOpacity: 0.6,
+        opacity: 0.6,
+        fillopacity: 0.3,
       });
     },
     style: function (feature) {
@@ -108,8 +108,8 @@ function createTimelineControl(timelineData) {
         fillColor: "var(--county-bg-color)",
         color: "var(--county-fg-color)",
         weight: 1,
-        opacity: 0.8,
-        fillOpacity: 0.6,
+        opacity: 0.6,
+        fillopacity: 0.3,
       };
     },
     onEachFeature: function (feature, layer) {
@@ -120,8 +120,8 @@ function createTimelineControl(timelineData) {
       layer.on("mouseover", function (e) {
         layer.setStyle({
           weight: 2,
-          opacity: 1,
-          fillOpacity: 0.8,
+          opacity: 0.8,
+          fillopacity: 0.6,
           fillColor: "var(--county-accent-color)",
         });
       });
@@ -130,8 +130,8 @@ function createTimelineControl(timelineData) {
         if (currentHighlight !== layer) {
           layer.setStyle({
             weight: 1,
-            opacity: 0.8,
-            fillOpacity: 0.6,
+            opacity: 0.6,
+            fillopacity: 0.3,
             fillColor: "var(--county-bg-color)",
           });
         }
@@ -390,7 +390,7 @@ function switchToHighResMode(highResData) {
         fillColor: "var(--county-bg-color)",
         color: "var(--county-fg-color)",
         weight: 1,
-        opacity: 0.9,
+        opacity: 0.7,
         fillOpacity: 0.7,
       };
     },
@@ -402,16 +402,16 @@ function switchToHighResMode(highResData) {
       layer.on("mouseover", function (e) {
         layer.setStyle({
           weight: 2,
-          opacity: 1,
-          fillOpacity: 0.9,
+          opacity: 0.8,
+          fillopacity: 0.7,
         });
       });
 
       layer.on("mouseout", function (e) {
         layer.setStyle({
           weight: currentHighlight === layer ? 2 : 1,
-          opacity: 0.9,
-          fillOpacity: 0.7,
+          opacity: currentHighlight === layer ? 1 : 0.7,
+          fillOpacity: currentHighlight === layer ? 0.3 : 0.7,
         });
       });
     },
@@ -435,8 +435,8 @@ function switchToPreviewMode() {
   // Show the preview layer again
   if (geojsonLayer) {
     geojsonLayer.setStyle({
-      opacity: 0.8,
-      fillOpacity: 0.6,
+      opacity: 0.6,
+      fillopacity: 0.6,
     });
   }
 
@@ -502,7 +502,7 @@ function onCountyClick(feature, layer, isHighRes = false) {
     } else {
       currentHighlight.setStyle({
         weight: 1,
-        opacity: 0.9,
+        opacity: 0.7,
         fillOpacity: 0.7,
         color: "var(--county-fg-color)",
         fillColor: "var(--county-bg-color)",
@@ -512,9 +512,8 @@ function onCountyClick(feature, layer, isHighRes = false) {
 
   layer.setStyle({
     weight: 3,
-    opacity: 1,
-    fillOpacity: isHighRes ? 0.9 : 0.8,
-    fillColor: "var(--county-accent-color)",
+    opacity: 0.6,
+    fillOpacity: 0.3,
   });
 
   currentHighlight = layer;

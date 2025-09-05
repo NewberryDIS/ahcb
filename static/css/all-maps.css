@@ -224,3 +224,79 @@
     transform: scale(1);
   }
 }
+
+/* leaflet map */
+
+#usa-map {
+  padding-top: 70px;
+  /* border: 1px solid white; */
+  height: 77vh;
+  width: 95vw;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  /* background-size: contain; */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+}
+.leaflet-tooltip {
+  border-color: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  /* background: transparent !important; */
+}
+
+.map-nav {
+  position: relative;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  & img {
+    object-fit: contain;
+  }
+  & .state-postcard {
+    filter: none;
+    height: 33vh;
+    width: 33vw;
+    position: absolute;
+    transform-origin: center;
+    flex: 1;
+    border: none;
+    z-index: 9001;
+    transition: 500ms;
+    & .card-img {
+      opacity: 1;
+      filter: drop-shadow(0 0 10px rgb(0, 0, 0, 0.5));
+    }
+  }
+}
+
+.state-postcard.left {
+  /* bottom: 0; */
+  /* right: 0; */
+  top: 66%;
+  left: 66%;
+  transform: translate(0, -66%) rotate(-9deg);
+}
+.state-postcard.right {
+  top: 0;
+  left: 0;
+  transform: translate(0, 50%) rotate(-9deg);
+}
+
+/* .state-boundary { */
+/*   fillcolor: var(--fg-color); */
+/*   color: var(--bg-color); */
+/*   weight: 1; */
+/*   fillopacity: 0.8; */
+/* } */
+/* .state-boundary:hover { */
+/*   fillcolor: #fff; */
+/*   fillopacity: 0.9; */
+/*   weight: 2; */
+/* } */
+/* Hide zoom controls and attribution */
+.leaflet-control-zoom,
+.leaflet-control-attribution {
+  display: none !important;
+}
