@@ -384,6 +384,38 @@ def all_maps_page():
     )
 
 
+no_commentary = [
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Hawaii",
+    "Idaho",
+    "Kansas",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Mississippi",
+    "Missouri",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "Oklahoma",
+    "Oregon",
+    "Rhode Island",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Washington",
+]
+
+
 # Main state page route
 @rt("/athf/{state_code}")
 def state_page(state_code: str):
@@ -412,6 +444,11 @@ def state_page(state_code: str):
     date_list = sorted(date_list, key=lambda x: datetime.strptime(x, "%Y-%m-%d"))
     # link_dropdown = Ul(*link_list, cls="link-dropdown", onclick="toggleDateDropdown")
     # print(f"date list: {date_list}")
+    if state_name not in no_commentary:
+        commentary = state_code.upper()
+    else:
+        commentary = "No"
+
     return BasePage(
         title=f"{state_name} - Atlas of Historical County Boundaries",
         css=(
@@ -487,7 +524,7 @@ def state_page(state_code: str):
                         ),
                         Option(
                             "Commentary",
-                            value=f"/ahcb/documents/{state_code.upper()}_Commentary.htm",
+                            value=f"/ahcb/documents/{commentary}_Commentary.htm",
                             cls="link-lines",
                             target="_blank",
                         ),

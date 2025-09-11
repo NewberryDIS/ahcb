@@ -4,8 +4,6 @@
 }
 .all-maps ul {
   list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 1rem;
@@ -14,8 +12,8 @@
   position: relative;
   background-size: cover;
   background-position: center;
-  height: 20vh;
-  width: 33vh;
+  /* height: 20vh; */
+  /* width: 33vh; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -225,10 +223,48 @@
   }
 }
 
+.all-maps ul .state-postcard {
+  aspect-ratio: 1.5 / 1;
+  width: 100%;
+  height: auto;
+}
+@media screen and (min-width: 1000px) {
+  .all-maps ul {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
 /* leaflet map */
-
+@media screen and (max-width: 1000px) {
+  #usa-map,
+  #ex-tt {
+    display: none;
+  }
+  .all-maps ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    & .state-postcard {
+      aspect-ratio: 1.5 / 1;
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+@media screen and (max-width: 750px) {
+  .all-maps ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 500px) {
+  .all-maps ul {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 #usa-map {
   padding-top: 70px;
+  overflow-x: hidden;
   /* border: 1px solid white; */
   height: 77vh;
   width: 95vw;
@@ -257,7 +293,8 @@
   & .state-postcard {
     filter: none;
     height: 33vh;
-    width: 33vw;
+    width: auto;
+    aspect-ratio: 1.5 / 1;
     position: absolute;
     transform-origin: center;
     flex: 1;
@@ -276,12 +313,12 @@
   /* right: 0; */
   top: 66%;
   left: 66%;
-  transform: translate(0, -66%) rotate(-9deg);
+  transform: translate(-9%, -100%) rotate(-9deg);
 }
 .state-postcard.right {
   top: 0;
   left: 0;
-  transform: translate(0, 50%) rotate(-9deg);
+  transform: translate(9%, 9%) rotate(-9deg);
 }
 
 /* .state-boundary { */

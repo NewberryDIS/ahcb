@@ -144,7 +144,7 @@ function createTimelineControl(timelineData) {
     formatOutput: function (date) {
       return formatDate(parseHistoricalDate(date, "date"));
     },
-    duration: 1000,
+    duration: 10000,
     showTicks: true,
     waitToUpdateMap: true,
     enablePlayback: true,
@@ -601,22 +601,25 @@ function changeUISize(e) {
   const leafletControls = document.querySelector(
     ".leaflet-bottom:has(.leaflet-timeline-control)",
   );
+  const linkSelect = document.getElementById("link-select");
+  const resizableElements = [btn, leafletControls, linkSelect];
   if (leafletControls.classList.contains("double-size")) {
-    leafletControls.classList.remove("double-size");
-    leafletControls.classList.remove("one-point-five-size");
-    btn.classList.remove("double-size");
-    btn.classList.remove("one-point-five-size");
+    resizableElements.forEach((el) =>
+      toggleSize(["double-size", "one-point-five-size"], "", el),
+    );
   } else if (leafletControls.classList.contains("one-point-five-size")) {
-    leafletControls.classList.add("double-size");
-    leafletControls.classList.remove("one-point-five-size");
-    btn.classList.add("double-size");
-    btn.classList.remove("one-point-five-size");
+    resizableElements.forEach((el) =>
+      toggleSize(["one-point-five-size"], "double-size", el),
+    );
   } else {
-    leafletControls.classList.remove("double-size");
-    leafletControls.classList.add("one-point-five-size");
-    btn.classList.remove("double-size");
-    btn.classList.add("one-point-five-size");
+    resizableElements.forEach((el) =>
+      toggleSize(["double-size"], "one-point-five-size", el),
+    );
   }
+}
+function toggleSize(outClass, inClass, el) {
+  outClass.forEach((c) => el.classList.remove(c));
+  if (inClass) el.classList.add(inClass);
 }
 
 window.mapUtils = {

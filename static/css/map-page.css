@@ -274,7 +274,14 @@
     display: none;
   }
 }
-
+#link-select.double-size {
+  transform: scale(2);
+  width: 50%;
+}
+#link-select.one-point-five-size {
+  transform: scale(1.5);
+  width: 66%;
+}
 /* .download-modal:not(.show) { */
 /*   opacity: 0; */
 /*   pointer-events: none; */
@@ -316,6 +323,7 @@
 
 #link-select {
   margin-bottom: 1rem;
+  transform-origin: left;
   width: 100%;
   & option {
     padding: 3px 9px;
