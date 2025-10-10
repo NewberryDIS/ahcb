@@ -1,0 +1,720 @@
+{
+  "state": "WV",
+  "total_features": 102,
+  "features": {
+    "d286dc485f2c": {
+      "county_id": "wvs_ritchie",
+      "name": "RITCHIE",
+      "start_date": "1845-02-04",
+      "end_date": "2000-12-31",
+      "filename": "d286dc485f2c.json"
+    },
+    "997133588c91": {
+      "county_id": "wvs_wayne",
+      "name": "WAYNE",
+      "start_date": "1842-01-18",
+      "end_date": "1868-03-03",
+      "filename": "997133588c91.json"
+    },
+    "2133445ed3f8": {
+      "county_id": "wvs_monongalia",
+      "name": "MONONGALIA",
+      "start_date": "1842-01-14",
+      "end_date": "2000-12-31",
+      "filename": "2133445ed3f8.json"
+    },
+    "3e226b6d3aed": {
+      "county_id": "wvs_preston",
+      "name": "PRESTON",
+      "start_date": "1841-03-15",
+      "end_date": "2000-12-31",
+      "filename": "3e226b6d3aed.json"
+    },
+    "23142a467d8c": {
+      "county_id": "wvs_mercer",
+      "name": "MERCER",
+      "start_date": "1841-03-05",
+      "end_date": "1871-02-26",
+      "filename": "23142a467d8c.json"
+    },
+    "be7043e7eab3": {
+      "county_id": "wvs_marshall",
+      "name": "MARSHALL",
+      "start_date": "1835-05-01",
+      "end_date": "2000-12-31",
+      "filename": "be7043e7eab3.json"
+    },
+    "665560182161": {
+      "county_id": "wvs_ohio",
+      "name": "OHIO",
+      "start_date": "1835-05-01",
+      "end_date": "2000-12-31",
+      "filename": "665560182161.json"
+    },
+    "146a485d0b8c": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER",
+      "start_date": "1833-02-23",
+      "end_date": "1871-02-26",
+      "filename": "146a485d0b8c.json"
+    },
+    "e772a6604a95": {
+      "county_id": "wvs_pocahontas",
+      "name": "POCAHONTAS",
+      "start_date": "1824-12-28",
+      "end_date": "2000-12-31",
+      "filename": "e772a6604a95.json"
+    },
+    "811eee517576": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1820-02-09",
+      "end_date": "1866-01-31",
+      "filename": "811eee517576.json"
+    },
+    "344a6acda546": {
+      "county_id": "wvs_hardy",
+      "name": "HARDY",
+      "start_date": "1788-05-01",
+      "end_date": "1866-02-13",
+      "filename": "344a6acda546.json"
+    },
+    "d529451f6ab9": {
+      "county_id": "wvs_morgan",
+      "name": "MORGAN",
+      "start_date": "1820-02-09",
+      "end_date": "2000-12-31",
+      "filename": "d529451f6ab9.json"
+    },
+    "a1dd0a8f3cda": {
+      "county_id": "wvs_wood",
+      "name": "WOOD",
+      "start_date": "1863-10-07",
+      "end_date": "2000-12-31",
+      "filename": "a1dd0a8f3cda.json"
+    },
+    "88082fa1b5ef": {
+      "county_id": "wvs_wirt",
+      "name": "WIRT",
+      "start_date": "1863-10-07",
+      "end_date": "1872-02-12",
+      "filename": "88082fa1b5ef.json"
+    },
+    "aea4e1704a71": {
+      "county_id": "wvs_berkeley",
+      "name": "BERKELEY",
+      "start_date": "1820-02-09",
+      "end_date": "2000-12-31",
+      "filename": "aea4e1704a71.json"
+    },
+    "a9fe58834620": {
+      "county_id": "wvs_boone",
+      "name": "BOONE",
+      "start_date": "1868-07-20",
+      "end_date": "1868-07-26",
+      "filename": "a9fe58834620.json"
+    },
+    "7d566a58ffa6": {
+      "county_id": "wvs_mingo",
+      "name": "MINGO",
+      "start_date": "1895-01-30",
+      "end_date": "2000-12-31",
+      "filename": "7d566a58ffa6.json"
+    },
+    "8332b2f2f2ca": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN",
+      "start_date": "1895-01-30",
+      "end_date": "2000-12-31",
+      "filename": "8332b2f2f2ca.json"
+    },
+    "45c213a6d7e3": {
+      "county_id": "wvs_webster",
+      "name": "WEBSTER",
+      "start_date": "1882-04-19",
+      "end_date": "2000-12-31",
+      "filename": "45c213a6d7e3.json"
+    },
+    "cd223b9beceb": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1882-04-19",
+      "end_date": "2000-12-31",
+      "filename": "cd223b9beceb.json"
+    },
+    "8a84effd81b7": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER",
+      "start_date": "1882-04-19",
+      "end_date": "2000-12-31",
+      "filename": "8a84effd81b7.json"
+    },
+    "46d624e68f42": {
+      "county_id": "wvs_wayne",
+      "name": "WAYNE",
+      "start_date": "1872-02-27",
+      "end_date": "2000-12-31",
+      "filename": "46d624e68f42.json"
+    },
+    "8802ecae13e7": {
+      "county_id": "wvs_mineral",
+      "name": "MINERAL",
+      "start_date": "1872-02-08",
+      "end_date": "2000-12-31",
+      "filename": "8802ecae13e7.json"
+    },
+    "4ddb2ae9329e": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1872-02-08",
+      "end_date": "2000-12-31",
+      "filename": "4ddb2ae9329e.json"
+    },
+    "945d69bf7641": {
+      "county_id": "wvs_wirt",
+      "name": "WIRT",
+      "start_date": "1872-02-13",
+      "end_date": "2000-12-31",
+      "filename": "945d69bf7641.json"
+    },
+    "3b50fdfb08f6": {
+      "county_id": "wvs_roane",
+      "name": "ROANE",
+      "start_date": "1872-02-13",
+      "end_date": "2000-12-31",
+      "filename": "3b50fdfb08f6.json"
+    },
+    "191dc429fe6b": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1872-02-27",
+      "end_date": "2000-12-31",
+      "filename": "191dc429fe6b.json"
+    },
+    "089fc48ddacc": {
+      "county_id": "wvs_summers",
+      "name": "SUMMERS",
+      "start_date": "1871-02-27",
+      "end_date": "2000-12-31",
+      "filename": "089fc48ddacc.json"
+    },
+    "7283a4bdff87": {
+      "county_id": "wvs_barbour",
+      "name": "BARBOUR",
+      "start_date": "1871-02-07",
+      "end_date": "2000-12-31",
+      "filename": "7283a4bdff87.json"
+    },
+    "da933733abe3": {
+      "county_id": "wvs_tucker",
+      "name": "TUCKER",
+      "start_date": "1871-02-07",
+      "end_date": "2000-12-31",
+      "filename": "da933733abe3.json"
+    },
+    "ed57383c439d": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE",
+      "start_date": "1871-02-27",
+      "end_date": "2000-12-31",
+      "filename": "ed57383c439d.json"
+    },
+    "650b971b2d4d": {
+      "county_id": "wvs_raleigh",
+      "name": "RALEIGH",
+      "start_date": "1871-02-16",
+      "end_date": "2000-12-31",
+      "filename": "650b971b2d4d.json"
+    },
+    "afaea361975a": {
+      "county_id": "wvs_wyoming",
+      "name": "WYOMING",
+      "start_date": "1871-02-16",
+      "end_date": "2000-12-31",
+      "filename": "afaea361975a.json"
+    },
+    "0e96e131f763": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE",
+      "start_date": "1871-02-27",
+      "end_date": "2000-12-31",
+      "filename": "0e96e131f763.json"
+    },
+    "7a30e569d9b2": {
+      "county_id": "wvs_mercer",
+      "name": "MERCER",
+      "start_date": "1871-02-27",
+      "end_date": "2000-12-31",
+      "filename": "7a30e569d9b2.json"
+    },
+    "c1973e9f95e2": {
+      "county_id": "wvs_greenbrier",
+      "name": "GREENBRIER",
+      "start_date": "1871-02-27",
+      "end_date": "1882-04-18",
+      "filename": "c1973e9f95e2.json"
+    },
+    "f6be8a75658a": {
+      "county_id": "wvs_wayne",
+      "name": "WAYNE",
+      "start_date": "1869-02-26",
+      "end_date": "1872-02-26",
+      "filename": "f6be8a75658a.json"
+    },
+    "c4408b920eec": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL",
+      "start_date": "1869-02-26",
+      "end_date": "2000-12-31",
+      "filename": "c4408b920eec.json"
+    },
+    "db3cef610db1": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN",
+      "start_date": "1869-02-26",
+      "end_date": "1895-01-29",
+      "filename": "db3cef610db1.json"
+    },
+    "820e2a947bdc": {
+      "county_id": "wvs_mineral",
+      "name": "MINERAL",
+      "start_date": "1869-01-01",
+      "end_date": "1872-02-07",
+      "filename": "820e2a947bdc.json"
+    },
+    "d5cd76a586ff": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1869-01-01",
+      "end_date": "1872-02-07",
+      "filename": "d5cd76a586ff.json"
+    },
+    "6490a8f8e3a9": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1869-02-26",
+      "end_date": "1872-02-26",
+      "filename": "6490a8f8e3a9.json"
+    },
+    "02e2a27c25ca": {
+      "county_id": "wvs_wayne",
+      "name": "WAYNE",
+      "start_date": "1868-03-04",
+      "end_date": "1869-02-25",
+      "filename": "02e2a27c25ca.json"
+    },
+    "a10b54cf7be8": {
+      "county_id": "wvs_putnam",
+      "name": "PUTNAM",
+      "start_date": "1868-03-03",
+      "end_date": "2000-12-31",
+      "filename": "a10b54cf7be8.json"
+    },
+    "93fae4f7b283": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN",
+      "start_date": "1868-03-04",
+      "end_date": "1868-07-26",
+      "filename": "93fae4f7b283.json"
+    },
+    "6fa7c7eecafb": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1868-03-03",
+      "end_date": "1868-07-19",
+      "filename": "6fa7c7eecafb.json"
+    },
+    "b24801f14e64": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA",
+      "start_date": "1868-07-27",
+      "end_date": "2000-12-31",
+      "filename": "b24801f14e64.json"
+    },
+    "dae57e693f1a": {
+      "county_id": "wvs_boone",
+      "name": "BOONE",
+      "start_date": "1868-07-27",
+      "end_date": "2000-12-31",
+      "filename": "dae57e693f1a.json"
+    },
+    "5af76175a388": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN",
+      "start_date": "1868-07-27",
+      "end_date": "1869-02-25",
+      "filename": "5af76175a388.json"
+    },
+    "5be4642d9ae5": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL",
+      "start_date": "1868-07-27",
+      "end_date": "1869-02-25",
+      "filename": "5be4642d9ae5.json"
+    },
+    "6c8b5f74ed66": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1868-07-27",
+      "end_date": "1869-02-25",
+      "filename": "6c8b5f74ed66.json"
+    },
+    "f4ffd6a0c873": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1868-07-20",
+      "end_date": "1868-07-26",
+      "filename": "f4ffd6a0c873.json"
+    },
+    "7f230153af3f": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON",
+      "start_date": "1867-02-13",
+      "end_date": "2000-12-31",
+      "filename": "7f230153af3f.json"
+    },
+    "4057da193043": {
+      "county_id": "wvs_mason",
+      "name": "MASON",
+      "start_date": "1867-02-13",
+      "end_date": "2000-12-31",
+      "filename": "4057da193043.json"
+    },
+    "3a21d2e77310": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL",
+      "start_date": "1867-02-23",
+      "end_date": "1868-07-26",
+      "filename": "3a21d2e77310.json"
+    },
+    "039159944ab2": {
+      "county_id": "wvs_putnam",
+      "name": "PUTNAM",
+      "start_date": "1867-02-23",
+      "end_date": "1868-03-02",
+      "filename": "039159944ab2.json"
+    },
+    "99c172f4054f": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA",
+      "start_date": "1867-02-23",
+      "end_date": "1868-07-26",
+      "filename": "99c172f4054f.json"
+    },
+    "4b4af3e70c66": {
+      "county_id": "wvs_boone",
+      "name": "BOONE",
+      "start_date": "1867-02-23",
+      "end_date": "1868-07-19",
+      "filename": "4b4af3e70c66.json"
+    },
+    "71a2129eccbe": {
+      "county_id": "wvs_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1867-02-23",
+      "end_date": "1868-03-02",
+      "filename": "71a2129eccbe.json"
+    },
+    "682bcc0e45d8": {
+      "county_id": "wvs_grant",
+      "name": "GRANT",
+      "start_date": "1866-02-14",
+      "end_date": "2000-12-31",
+      "filename": "682bcc0e45d8.json"
+    },
+    "c119a27029a6": {
+      "county_id": "wvs_hardy",
+      "name": "HARDY",
+      "start_date": "1866-02-14",
+      "end_date": "2000-12-31",
+      "filename": "c119a27029a6.json"
+    },
+    "4ca6785fcff9": {
+      "county_id": "wvs_mineral",
+      "name": "MINERAL",
+      "start_date": "1866-02-01",
+      "end_date": "1868-12-31",
+      "filename": "4ca6785fcff9.json"
+    },
+    "936efce11de0": {
+      "county_id": "wvs_hampshire",
+      "name": "HAMPSHIRE",
+      "start_date": "1866-02-01",
+      "end_date": "1868-12-31",
+      "filename": "936efce11de0.json"
+    },
+    "0829727659f9": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1865-08-01",
+      "end_date": "2000-12-31",
+      "filename": "0829727659f9.json"
+    },
+    "929c5ee09082": {
+      "county_id": "wvs_upshur",
+      "name": "UPSHUR",
+      "start_date": "1865-08-01",
+      "end_date": "2000-12-31",
+      "filename": "929c5ee09082.json"
+    },
+    "b3c893b10129": {
+      "county_id": "wvs_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1801-10-26",
+      "end_date": "2000-12-31",
+      "filename": "b3c893b10129.json"
+    },
+    "cd95c1544bbf": {
+      "county_id": "wvs_webster",
+      "name": "WEBSTER",
+      "start_date": "1861-02-14",
+      "end_date": "1882-04-18",
+      "filename": "cd95c1544bbf.json"
+    },
+    "7b3f404f2374": {
+      "county_id": "wvs_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1861-02-14",
+      "end_date": "1882-04-18",
+      "filename": "7b3f404f2374.json"
+    },
+    "4ad6956221c1": {
+      "county_id": "wvs_braxton",
+      "name": "BRAXTON",
+      "start_date": "1860-01-10",
+      "end_date": "2000-12-31",
+      "filename": "4ad6956221c1.json"
+    },
+    "1debed5f89e2": {
+      "county_id": "wvs_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1860-01-10",
+      "end_date": "1865-07-31",
+      "filename": "1debed5f89e2.json"
+    },
+    "5a869e59b48f": {
+      "county_id": "wvs_clay",
+      "name": "CLAY",
+      "start_date": "1858-03-29",
+      "end_date": "2000-12-31",
+      "filename": "5a869e59b48f.json"
+    },
+    "282af935a5ef": {
+      "county_id": "wvs_mcdowell",
+      "name": "McDOWELL",
+      "start_date": "1858-02-20",
+      "end_date": "2000-12-31",
+      "filename": "282af935a5ef.json"
+    },
+    "cbe2a53361f0": {
+      "county_id": "wvs_wyoming",
+      "name": "WYOMING",
+      "start_date": "1858-02-20",
+      "end_date": "1871-02-15",
+      "filename": "cbe2a53361f0.json"
+    },
+    "398e97f36ea1": {
+      "county_id": "wvs_gilmer",
+      "name": "GILMER",
+      "start_date": "1856-03-11",
+      "end_date": "2000-12-31",
+      "filename": "398e97f36ea1.json"
+    },
+    "9cbe0c41f7c3": {
+      "county_id": "wvs_jackson",
+      "name": "JACKSON",
+      "start_date": "1856-03-11",
+      "end_date": "1867-02-12",
+      "filename": "9cbe0c41f7c3.json"
+    },
+    "dc5b58cc9287": {
+      "county_id": "wvs_roane",
+      "name": "ROANE",
+      "start_date": "1856-03-11",
+      "end_date": "1872-02-12",
+      "filename": "dc5b58cc9287.json"
+    },
+    "187765aebf0c": {
+      "county_id": "wvs_kanawha",
+      "name": "KANAWHA",
+      "start_date": "1856-03-11",
+      "end_date": "1867-02-22",
+      "filename": "187765aebf0c.json"
+    },
+    "8c2373856981": {
+      "county_id": "wvs_marion",
+      "name": "MARION",
+      "start_date": "1856-02-20",
+      "end_date": "2000-12-31",
+      "filename": "8c2373856981.json"
+    },
+    "2abc62d9a5ab": {
+      "county_id": "wvs_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1856-03-05",
+      "end_date": "2000-12-31",
+      "filename": "2abc62d9a5ab.json"
+    },
+    "4c8900d5e1df": {
+      "county_id": "wvs_taylor",
+      "name": "TAYLOR",
+      "start_date": "1856-02-20",
+      "end_date": "2000-12-31",
+      "filename": "4c8900d5e1df.json"
+    },
+    "791998ac233d": {
+      "county_id": "wvs_tucker",
+      "name": "TUCKER",
+      "start_date": "1856-03-07",
+      "end_date": "1871-02-06",
+      "filename": "791998ac233d.json"
+    },
+    "555e5b83cabd": {
+      "county_id": "wvs_monroe",
+      "name": "MONROE",
+      "start_date": "1856-01-10",
+      "end_date": "1871-02-26",
+      "filename": "555e5b83cabd.json"
+    },
+    "7aa4dc6700ab": {
+      "county_id": "wvs_wirt",
+      "name": "WIRT",
+      "start_date": "1853-02-16",
+      "end_date": "1863-10-06",
+      "filename": "7aa4dc6700ab.json"
+    },
+    "b6b6c2ee2dc9": {
+      "county_id": "wvs_pleasants",
+      "name": "PLEASANTS",
+      "start_date": "1851-03-29",
+      "end_date": "2000-12-31",
+      "filename": "b6b6c2ee2dc9.json"
+    },
+    "d77039b2308e": {
+      "county_id": "wvs_tyler",
+      "name": "TYLER",
+      "start_date": "1851-03-29",
+      "end_date": "2000-12-31",
+      "filename": "d77039b2308e.json"
+    },
+    "6b7523b0c76e": {
+      "county_id": "wvs_lewis",
+      "name": "LEWIS",
+      "start_date": "1851-03-26",
+      "end_date": "2000-12-31",
+      "filename": "6b7523b0c76e.json"
+    },
+    "982d6d5050ba": {
+      "county_id": "wvs_wood",
+      "name": "WOOD",
+      "start_date": "1851-03-29",
+      "end_date": "1863-10-06",
+      "filename": "982d6d5050ba.json"
+    },
+    "6d1e8627851b": {
+      "county_id": "wvs_upshur",
+      "name": "UPSHUR",
+      "start_date": "1851-03-26",
+      "end_date": "1865-07-31",
+      "filename": "6d1e8627851b.json"
+    },
+    "ec2465a33bb8": {
+      "county_id": "wvs_barbour",
+      "name": "BARBOUR",
+      "start_date": "1851-03-26",
+      "end_date": "1871-02-06",
+      "filename": "ec2465a33bb8.json"
+    },
+    "482a123f7c88": {
+      "county_id": "wvs_fayette",
+      "name": "FAYETTE",
+      "start_date": "1850-03-21",
+      "end_date": "1871-02-26",
+      "filename": "482a123f7c88.json"
+    },
+    "9fb7b766e6a0": {
+      "county_id": "wvs_putnam",
+      "name": "PUTNAM",
+      "start_date": "1850-03-12",
+      "end_date": "1867-02-22",
+      "filename": "9fb7b766e6a0.json"
+    },
+    "bcf61fed0e1f": {
+      "county_id": "wvs_logan",
+      "name": "LOGAN",
+      "start_date": "1850-01-26",
+      "end_date": "1868-03-03",
+      "filename": "bcf61fed0e1f.json"
+    },
+    "6f153197a161": {
+      "county_id": "wvs_cabell",
+      "name": "CABELL",
+      "start_date": "1850-03-12",
+      "end_date": "1867-02-22",
+      "filename": "6f153197a161.json"
+    },
+    "e2fc093f98bd": {
+      "county_id": "wvs_raleigh",
+      "name": "RALEIGH",
+      "start_date": "1850-01-23",
+      "end_date": "1871-02-15",
+      "filename": "e2fc093f98bd.json"
+    },
+    "8bc6ceffe5fa": {
+      "county_id": "wvs_brooke",
+      "name": "BROOKE",
+      "start_date": "1848-01-15",
+      "end_date": "2000-12-31",
+      "filename": "8bc6ceffe5fa.json"
+    },
+    "15714504b323": {
+      "county_id": "wvs_hancock",
+      "name": "HANCOCK",
+      "start_date": "1848-01-15",
+      "end_date": "2000-12-31",
+      "filename": "15714504b323.json"
+    },
+    "247683c2c87e": {
+      "county_id": "wvs_mason",
+      "name": "MASON",
+      "start_date": "1848-03-11",
+      "end_date": "1867-02-12",
+      "filename": "247683c2c87e.json"
+    },
+    "09bf038bfbb1": {
+      "county_id": "wvs_pendleton",
+      "name": "PENDLETON",
+      "start_date": "1847-05-01",
+      "end_date": "2000-12-31",
+      "filename": "09bf038bfbb1.json"
+    },
+    "251fc4c270b3": {
+      "county_id": "wvs_boone",
+      "name": "BOONE",
+      "start_date": "1847-03-11",
+      "end_date": "1867-02-22",
+      "filename": "251fc4c270b3.json"
+    },
+    "9acfdba77ca3": {
+      "county_id": "wvs_wetzel",
+      "name": "WETZEL",
+      "start_date": "1846-01-10",
+      "end_date": "2000-12-31",
+      "filename": "9acfdba77ca3.json"
+    },
+    "257ee5909a35": {
+      "county_id": "wvs_doddridge",
+      "name": "DODDRIDGE",
+      "start_date": "1845-02-04",
+      "end_date": "2000-12-31",
+      "filename": "257ee5909a35.json"
+    },
+    "4d1fddb2378f": {
+      "county_id": "wvs_harrison",
+      "name": "HARRISON",
+      "start_date": "1845-02-04",
+      "end_date": "2000-12-31",
+      "filename": "4d1fddb2378f.json"
+    }
+  }
+}

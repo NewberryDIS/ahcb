@@ -1,0 +1,4514 @@
+{
+  "state": "KY",
+  "total_features": 644,
+  "features": {
+    "579a402f8622": {
+      "county_id": "vas_kentucky",
+      "name": "KENTUCKY (Va., ext)",
+      "start_date": "1776-12-31",
+      "end_date": "1780-10-31",
+      "filename": "579a402f8622.json"
+    },
+    "a2303aa7222e": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE",
+      "start_date": "1780-11-01",
+      "end_date": "1786-04-30",
+      "filename": "a2303aa7222e.json"
+    },
+    "6a511ce36848": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1780-11-01",
+      "end_date": "1784-12-31",
+      "filename": "6a511ce36848.json"
+    },
+    "4cfad3a5f1c5": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1780-11-01",
+      "end_date": "1786-07-31",
+      "filename": "4cfad3a5f1c5.json"
+    },
+    "4afa7619a5b8": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1785-01-01",
+      "end_date": "1792-08-31",
+      "filename": "4afa7619a5b8.json"
+    },
+    "7672d9f491f7": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1785-01-01",
+      "end_date": "1792-08-31",
+      "filename": "7672d9f491f7.json"
+    },
+    "afdffebb1a65": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE",
+      "start_date": "1786-05-01",
+      "end_date": "1789-04-30",
+      "filename": "afdffebb1a65.json"
+    },
+    "93f23f1815c5": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1786-05-01",
+      "end_date": "1789-04-30",
+      "filename": "93f23f1815c5.json"
+    },
+    "068aac5e8ce1": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1786-08-01",
+      "end_date": "1795-05-09",
+      "filename": "068aac5e8ce1.json"
+    },
+    "e7c96d54bd4b": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1786-08-01",
+      "end_date": "1792-08-31",
+      "filename": "e7c96d54bd4b.json"
+    },
+    "d12776e4b8dc": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1786-08-01",
+      "end_date": "1797-05-31",
+      "filename": "d12776e4b8dc.json"
+    },
+    "8ec1e85f6bfa": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE",
+      "start_date": "1789-05-01",
+      "end_date": "1793-01-31",
+      "filename": "8ec1e85f6bfa.json"
+    },
+    "6d6f71a21ff9": {
+      "county_id": "kys_woodford",
+      "name": "WOODFORD",
+      "start_date": "1789-05-01",
+      "end_date": "1792-08-31",
+      "filename": "6d6f71a21ff9.json"
+    },
+    "d4f2b6144875": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1789-05-01",
+      "end_date": "1795-05-09",
+      "filename": "d4f2b6144875.json"
+    },
+    "2288b7baf8bd": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1789-05-01",
+      "end_date": "1793-01-31",
+      "filename": "2288b7baf8bd.json"
+    },
+    "98bb275df39e": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1792-09-01",
+      "end_date": "1797-02-28",
+      "filename": "98bb275df39e.json"
+    },
+    "c1a5e9638239": {
+      "county_id": "kys_scott",
+      "name": "SCOTT",
+      "start_date": "1792-09-01",
+      "end_date": "1794-01-31",
+      "filename": "c1a5e9638239.json"
+    },
+    "7ddddf3b1784": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1792-09-01",
+      "end_date": "1796-12-31",
+      "filename": "7ddddf3b1784.json"
+    },
+    "4a9a48ab15c7": {
+      "county_id": "kys_woodford",
+      "name": "WOODFORD",
+      "start_date": "1792-09-01",
+      "end_date": "1795-05-09",
+      "filename": "4a9a48ab15c7.json"
+    },
+    "d1120e905a2b": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1792-09-01",
+      "end_date": "1795-05-09",
+      "filename": "d1120e905a2b.json"
+    },
+    "7363bdaee44b": {
+      "county_id": "kys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1792-09-01",
+      "end_date": "1827-01-19",
+      "filename": "7363bdaee44b.json"
+    },
+    "2b33e986181f": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1792-09-01",
+      "end_date": "1792-12-31",
+      "filename": "2b33e986181f.json"
+    },
+    "34bc620a59d7": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1792-09-01",
+      "end_date": "1792-12-31",
+      "filename": "34bc620a59d7.json"
+    },
+    "2598e781e618": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1793-02-20",
+      "end_date": "1799-06-30",
+      "filename": "2598e781e618.json"
+    },
+    "1d510822d865": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1793-02-20",
+      "end_date": "1796-12-31",
+      "filename": "1d510822d865.json"
+    },
+    "a85c0dea3927": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1793-01-01",
+      "end_date": "1793-02-19",
+      "filename": "a85c0dea3927.json"
+    },
+    "e225d27e0454": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE",
+      "start_date": "1793-02-01",
+      "end_date": "1799-01-31",
+      "filename": "e225d27e0454.json"
+    },
+    "52635e63999b": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1793-02-01",
+      "end_date": "1794-01-31",
+      "filename": "52635e63999b.json"
+    },
+    "a3463b98e4b1": {
+      "county_id": "kys_clark",
+      "name": "CLARK",
+      "start_date": "1793-02-01",
+      "end_date": "1797-02-28",
+      "filename": "a3463b98e4b1.json"
+    },
+    "da468614337c": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1793-01-01",
+      "end_date": "1797-05-31",
+      "filename": "da468614337c.json"
+    },
+    "cbdcc5419e9a": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1793-01-01",
+      "end_date": "1799-05-09",
+      "filename": "cbdcc5419e9a.json"
+    },
+    "66077a26732c": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1794-02-01",
+      "end_date": "1795-05-09",
+      "filename": "66077a26732c.json"
+    },
+    "ac915a5fe56c": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1794-02-01",
+      "end_date": "1798-12-17",
+      "filename": "ac915a5fe56c.json"
+    },
+    "414256cc7bb1": {
+      "county_id": "kys_scott",
+      "name": "SCOTT",
+      "start_date": "1794-02-01",
+      "end_date": "1795-05-09",
+      "filename": "414256cc7bb1.json"
+    },
+    "9fc0881bc7fe": {
+      "county_id": "kys_woodford",
+      "name": "WOODFORD",
+      "start_date": "1795-05-10",
+      "end_date": "2000-12-31",
+      "filename": "9fc0881bc7fe.json"
+    },
+    "497a36e77133": {
+      "county_id": "kys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1795-05-10",
+      "end_date": "1797-05-31",
+      "filename": "497a36e77133.json"
+    },
+    "5f23d8bb48be": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1795-05-10",
+      "end_date": "1816-08-31",
+      "filename": "5f23d8bb48be.json"
+    },
+    "c49b783168b3": {
+      "county_id": "kys_scott",
+      "name": "SCOTT",
+      "start_date": "1795-05-10",
+      "end_date": "1819-03-31",
+      "filename": "c49b783168b3.json"
+    },
+    "6118a3e001a5": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1795-05-10",
+      "end_date": "1797-05-31",
+      "filename": "6118a3e001a5.json"
+    },
+    "eba2da111bdd": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1795-05-10",
+      "end_date": "1799-05-12",
+      "filename": "eba2da111bdd.json"
+    },
+    "9fef34862257": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1795-05-10",
+      "end_date": "1799-05-12",
+      "filename": "9fef34862257.json"
+    },
+    "73b52bc1da1e": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1795-05-10",
+      "end_date": "1797-05-31",
+      "filename": "73b52bc1da1e.json"
+    },
+    "d8f7d509f840": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1797-01-01",
+      "end_date": "1811-02-28",
+      "filename": "d8f7d509f840.json"
+    },
+    "5eda16eb03ff": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1797-01-01",
+      "end_date": "1824-01-14",
+      "filename": "5eda16eb03ff.json"
+    },
+    "6cc6a6577dbe": {
+      "county_id": "kys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1797-06-01",
+      "end_date": "1799-05-09",
+      "filename": "6cc6a6577dbe.json"
+    },
+    "f2c731fb1e26": {
+      "county_id": "kys_bullitt",
+      "name": "BULLITT",
+      "start_date": "1797-01-01",
+      "end_date": "1811-02-28",
+      "filename": "f2c731fb1e26.json"
+    },
+    "78cb088735f9": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1797-03-01",
+      "end_date": "1799-05-09",
+      "filename": "78cb088735f9.json"
+    },
+    "9127551329a6": {
+      "county_id": "kys_clark",
+      "name": "CLARK",
+      "start_date": "1797-03-01",
+      "end_date": "1798-12-17",
+      "filename": "9127551329a6.json"
+    },
+    "f1dce0c3b50a": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1797-03-01",
+      "end_date": "1800-05-31",
+      "filename": "f1dce0c3b50a.json"
+    },
+    "fd4da5b07d5f": {
+      "county_id": "kys_garrard",
+      "name": "GARRARD",
+      "start_date": "1797-06-01",
+      "end_date": "1799-12-31",
+      "filename": "fd4da5b07d5f.json"
+    },
+    "a4ecd0b1b67d": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1797-06-01",
+      "end_date": "1799-05-31",
+      "filename": "a4ecd0b1b67d.json"
+    },
+    "896804d2733e": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1797-06-01",
+      "end_date": "1799-12-31",
+      "filename": "896804d2733e.json"
+    },
+    "bde011aed67b": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1797-06-01",
+      "end_date": "1799-05-09",
+      "filename": "bde011aed67b.json"
+    },
+    "49e9a1789a9f": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1797-06-01",
+      "end_date": "1821-02-28",
+      "filename": "49e9a1789a9f.json"
+    },
+    "220623d5cfc7": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1797-03-01",
+      "end_date": "1799-05-14",
+      "filename": "220623d5cfc7.json"
+    },
+    "457c3e07273a": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1797-03-01",
+      "end_date": "1799-05-14",
+      "filename": "457c3e07273a.json"
+    },
+    "f3f9d64281cd": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1797-06-01",
+      "end_date": "1798-02-28",
+      "filename": "f3f9d64281cd.json"
+    },
+    "18f75614e328": {
+      "county_id": "kys_clark",
+      "name": "CLARK",
+      "start_date": "1798-12-18",
+      "end_date": "1808-03-31",
+      "filename": "18f75614e328.json"
+    },
+    "9a66a76dd3e2": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1798-12-18",
+      "end_date": "1800-05-31",
+      "filename": "9a66a76dd3e2.json"
+    },
+    "167b69b31c62": {
+      "county_id": "kys_fleming",
+      "name": "FLEMING",
+      "start_date": "1798-03-01",
+      "end_date": "1800-05-31",
+      "filename": "167b69b31c62.json"
+    },
+    "efd4c3f0f7c1": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1798-03-01",
+      "end_date": "1800-05-31",
+      "filename": "efd4c3f0f7c1.json"
+    },
+    "ff391694695b": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1799-07-01",
+      "end_date": "1801-02-28",
+      "filename": "ff391694695b.json"
+    },
+    "c38aff7359b6": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1799-07-01",
+      "end_date": "1799-12-31",
+      "filename": "c38aff7359b6.json"
+    },
+    "cbb89c783324": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1799-07-01",
+      "end_date": "1799-11-28",
+      "filename": "cbb89c783324.json"
+    },
+    "2d6b7cbfe634": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1799-07-01",
+      "end_date": "1809-03-31",
+      "filename": "2d6b7cbfe634.json"
+    },
+    "c01ac6a3ea1c": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1799-05-21",
+      "end_date": "1809-04-30",
+      "filename": "c01ac6a3ea1c.json"
+    },
+    "9c8502462b88": {
+      "county_id": "kys_boone",
+      "name": "BOONE",
+      "start_date": "1799-06-01",
+      "end_date": "1820-12-26",
+      "filename": "9c8502462b88.json"
+    },
+    "9ac8f83c6a2f": {
+      "county_id": "kys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1799-06-01",
+      "end_date": "1840-04-29",
+      "filename": "9ac8f83c6a2f.json"
+    },
+    "07b5ac202425": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1799-06-01",
+      "end_date": "1824-01-31",
+      "filename": "07b5ac202425.json"
+    },
+    "077b82c2c17f": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1799-06-01",
+      "end_date": "1820-02-29",
+      "filename": "077b82c2c17f.json"
+    },
+    "91cceb9f6734": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1799-06-01",
+      "end_date": "1799-06-30",
+      "filename": "91cceb9f6734.json"
+    },
+    "d3556e8309f8": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1799-06-01",
+      "end_date": "1800-06-01",
+      "filename": "d3556e8309f8.json"
+    },
+    "ded5dc4ec219": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1799-06-01",
+      "end_date": "1801-02-28",
+      "filename": "ded5dc4ec219.json"
+    },
+    "825a3cded827": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1799-05-21",
+      "end_date": "1800-12-03",
+      "filename": "825a3cded827.json"
+    },
+    "58e1c0e08ba0": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1799-11-29",
+      "end_date": "1801-02-28",
+      "filename": "58e1c0e08ba0.json"
+    },
+    "55069d96f6e9": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1799-11-29",
+      "end_date": "1815-03-31",
+      "filename": "55069d96f6e9.json"
+    },
+    "490d4b046ee7": {
+      "county_id": "kys_jessamine",
+      "name": "JESSAMINE",
+      "start_date": "1799-02-01",
+      "end_date": "2000-12-31",
+      "filename": "490d4b046ee7.json"
+    },
+    "b64f27f6ff6c": {
+      "county_id": "kys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1799-05-10",
+      "end_date": "1799-05-31",
+      "filename": "b64f27f6ff6c.json"
+    },
+    "83e1166348e4": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1799-05-10",
+      "end_date": "1820-02-08",
+      "filename": "83e1166348e4.json"
+    },
+    "922e77910bcf": {
+      "county_id": "kys_rowan",
+      "name": "ROWAN",
+      "start_date": "1904-04-29",
+      "end_date": "2000-12-31",
+      "filename": "922e77910bcf.json"
+    },
+    "bcf71dc56095": {
+      "county_id": "kys_lewis",
+      "name": "LEWIS",
+      "start_date": "1904-02-09",
+      "end_date": "1904-04-28",
+      "filename": "bcf71dc56095.json"
+    },
+    "dbdec3b85a7e": {
+      "county_id": "kys_elliott",
+      "name": "ELLIOTT",
+      "start_date": "1904-02-09",
+      "end_date": "1904-04-28",
+      "filename": "dbdec3b85a7e.json"
+    },
+    "834325e5a99c": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1904-02-09",
+      "end_date": "1904-04-28",
+      "filename": "834325e5a99c.json"
+    },
+    "2ea68fcf6f9e": {
+      "county_id": "kys_rowan",
+      "name": "ROWAN",
+      "start_date": "1904-02-09",
+      "end_date": "1904-04-28",
+      "filename": "2ea68fcf6f9e.json"
+    },
+    "7b31b1af0bcf": {
+      "county_id": "kys_beckham",
+      "name": "BECKHAM (ext)",
+      "start_date": "1904-02-09",
+      "end_date": "1904-04-28",
+      "filename": "7b31b1af0bcf.json"
+    },
+    "a9dedb458866": {
+      "county_id": "kys_mccreary",
+      "name": "McCREARY",
+      "start_date": "1912-03-12",
+      "end_date": "2000-12-31",
+      "filename": "a9dedb458866.json"
+    },
+    "93db320a1233": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1912-03-12",
+      "end_date": "2000-12-31",
+      "filename": "93db320a1233.json"
+    },
+    "3ccbc44a1b82": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1912-03-12",
+      "end_date": "2000-12-31",
+      "filename": "3ccbc44a1b82.json"
+    },
+    "4c3dcf159ee8": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1912-03-12",
+      "end_date": "2000-12-31",
+      "filename": "4c3dcf159ee8.json"
+    },
+    "474bcda680e4": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1799-05-13",
+      "end_date": "1799-05-31",
+      "filename": "474bcda680e4.json"
+    },
+    "8310d4be04bc": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1799-05-10",
+      "end_date": "1799-05-31",
+      "filename": "8310d4be04bc.json"
+    },
+    "74ae5ea78218": {
+      "county_id": "kys_fayette",
+      "name": "FAYETTE",
+      "start_date": "1799-02-01",
+      "end_date": "2000-12-31",
+      "filename": "74ae5ea78218.json"
+    },
+    "1d22567df9b7": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1799-05-10",
+      "end_date": "1815-03-31",
+      "filename": "1d22567df9b7.json"
+    },
+    "5630f99a5a0d": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1799-05-10",
+      "end_date": "1799-11-28",
+      "filename": "5630f99a5a0d.json"
+    },
+    "53361a6d4621": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1799-05-13",
+      "end_date": "1819-03-31",
+      "filename": "53361a6d4621.json"
+    },
+    "da45ff136b96": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1799-05-13",
+      "end_date": "1819-03-31",
+      "filename": "da45ff136b96.json"
+    },
+    "3ff14beb6b77": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1799-05-15",
+      "end_date": "1807-04-30",
+      "filename": "3ff14beb6b77.json"
+    },
+    "581445e048fa": {
+      "county_id": "kys_pendleton",
+      "name": "PENDLETON",
+      "start_date": "1799-05-10",
+      "end_date": "1819-03-31",
+      "filename": "581445e048fa.json"
+    },
+    "9f98445aa9a2": {
+      "county_id": "kys_muhlenberg",
+      "name": "MUHLENBERG",
+      "start_date": "1799-05-15",
+      "end_date": "1800-12-03",
+      "filename": "9f98445aa9a2.json"
+    },
+    "51779fa769cc": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1799-05-15",
+      "end_date": "1799-05-20",
+      "filename": "51779fa769cc.json"
+    },
+    "b46d2f242519": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1799-05-15",
+      "end_date": "1810-04-30",
+      "filename": "b46d2f242519.json"
+    },
+    "9ffe5a9281d9": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1800-06-01",
+      "end_date": "1801-12-18",
+      "filename": "9ffe5a9281d9.json"
+    },
+    "a91b005d7aa7": {
+      "county_id": "kys_fleming",
+      "name": "FLEMING",
+      "start_date": "1800-06-01",
+      "end_date": "1816-08-31",
+      "filename": "a91b005d7aa7.json"
+    },
+    "507e1b1addf5": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1800-06-01",
+      "end_date": "1817-02-28",
+      "filename": "507e1b1addf5.json"
+    },
+    "9b5c8106b0df": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1800-06-01",
+      "end_date": "1804-01-31",
+      "filename": "9b5c8106b0df.json"
+    },
+    "3b9e19954b28": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1800-06-01",
+      "end_date": "1816-08-31",
+      "filename": "3b9e19954b28.json"
+    },
+    "2eb6cfb48c83": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1800-06-01",
+      "end_date": "1807-03-31",
+      "filename": "2eb6cfb48c83.json"
+    },
+    "a3e592c30625": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1800-06-01",
+      "end_date": "1811-02-03",
+      "filename": "a3e592c30625.json"
+    },
+    "4772e74d3f3d": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1800-06-02",
+      "end_date": "1805-03-31",
+      "filename": "4772e74d3f3d.json"
+    },
+    "3617324f108a": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1800-06-02",
+      "end_date": "1801-12-18",
+      "filename": "3617324f108a.json"
+    },
+    "f8e9f7d9fdc1": {
+      "county_id": "kys_muhlenberg",
+      "name": "MUHLENBERG",
+      "start_date": "1800-12-04",
+      "end_date": "1854-05-07",
+      "filename": "f8e9f7d9fdc1.json"
+    },
+    "e3f03f0eaf57": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1800-12-04",
+      "end_date": "1819-02-28",
+      "filename": "e3f03f0eaf57.json"
+    },
+    "8e2680619c9d": {
+      "county_id": "kys_garrard",
+      "name": "GARRARD",
+      "start_date": "1800-01-01",
+      "end_date": "1801-12-18",
+      "filename": "8e2680619c9d.json"
+    },
+    "df24d7ecbb5a": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1800-01-01",
+      "end_date": "1800-05-31",
+      "filename": "df24d7ecbb5a.json"
+    },
+    "336156aee6e7": {
+      "county_id": "kys_breckinridge",
+      "name": "BRECKINRIDGE",
+      "start_date": "1800-01-01",
+      "end_date": "1824-03-21",
+      "filename": "336156aee6e7.json"
+    },
+    "e6e7107c9d92": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1800-01-01",
+      "end_date": "1804-12-14",
+      "filename": "e6e7107c9d92.json"
+    },
+    "77af2e9f4913": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1870-09-01",
+      "end_date": "1884-04-23",
+      "filename": "77af2e9f4913.json"
+    },
+    "071c593f0d4c": {
+      "county_id": "kys_lee",
+      "name": "LEE",
+      "start_date": "1870-03-01",
+      "end_date": "1890-05-23",
+      "filename": "071c593f0d4c.json"
+    },
+    "aac92b725362": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1870-03-01",
+      "end_date": "1884-05-14",
+      "filename": "aac92b725362.json"
+    },
+    "cedadbde96f8": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1870-03-01",
+      "end_date": "2000-12-31",
+      "filename": "cedadbde96f8.json"
+    },
+    "27634ec347f2": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1870-03-01",
+      "end_date": "2000-12-31",
+      "filename": "27634ec347f2.json"
+    },
+    "0039a2ee58b4": {
+      "county_id": "kys_boone",
+      "name": "BOONE",
+      "start_date": "1870-03-10",
+      "end_date": "2000-12-31",
+      "filename": "0039a2ee58b4.json"
+    },
+    "0ce36b054c93": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1870-03-10",
+      "end_date": "1876-02-08",
+      "filename": "0ce36b054c93.json"
+    },
+    "b943c1c856b7": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1870-03-12",
+      "end_date": "2000-12-31",
+      "filename": "b943c1c856b7.json"
+    },
+    "460124068004": {
+      "county_id": "kys_taylor",
+      "name": "TAYLOR",
+      "start_date": "1870-03-12",
+      "end_date": "2000-12-31",
+      "filename": "460124068004.json"
+    },
+    "98f4d334803e": {
+      "county_id": "kys_martin",
+      "name": "MARTIN",
+      "start_date": "1870-09-01",
+      "end_date": "1878-03-07",
+      "filename": "98f4d334803e.json"
+    },
+    "65f1919693cd": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1870-09-01",
+      "end_date": "1878-03-19",
+      "filename": "65f1919693cd.json"
+    },
+    "b384914ece1e": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1801-03-01",
+      "end_date": "1810-03-31",
+      "filename": "b384914ece1e.json"
+    },
+    "634f4725547e": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1801-12-19",
+      "end_date": "1807-05-03",
+      "filename": "634f4725547e.json"
+    },
+    "4a28d7f65f42": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1801-03-01",
+      "end_date": "1804-12-05",
+      "filename": "4a28d7f65f42.json"
+    },
+    "cb743ef8f3a2": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1801-03-01",
+      "end_date": "1802-03-31",
+      "filename": "cb743ef8f3a2.json"
+    },
+    "5f9ba45e1fb8": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1801-03-01",
+      "end_date": "1804-02-29",
+      "filename": "5f9ba45e1fb8.json"
+    },
+    "51be53cda640": {
+      "county_id": "kys_garrard",
+      "name": "GARRARD",
+      "start_date": "1801-12-19",
+      "end_date": "2000-12-31",
+      "filename": "51be53cda640.json"
+    },
+    "9bc80068eb17": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1801-12-19",
+      "end_date": "1805-03-31",
+      "filename": "9bc80068eb17.json"
+    },
+    "66f1bc16cab6": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1802-04-01",
+      "end_date": "1804-02-29",
+      "filename": "66f1bc16cab6.json"
+    },
+    "20da06efaad9": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1802-04-01",
+      "end_date": "1804-12-14",
+      "filename": "20da06efaad9.json"
+    },
+    "0f9c51aadb73": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1804-12-15",
+      "end_date": "1810-03-31",
+      "filename": "0f9c51aadb73.json"
+    },
+    "c82efa60f80b": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1804-12-06",
+      "end_date": "1805-12-15",
+      "filename": "c82efa60f80b.json"
+    },
+    "4a28eafd53e0": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1804-12-06",
+      "end_date": "1805-12-15",
+      "filename": "4a28eafd53e0.json"
+    },
+    "1bcfbf164e3c": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1804-12-15",
+      "end_date": "1848-02-29",
+      "filename": "1bcfbf164e3c.json"
+    },
+    "b46d6d126267": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1804-02-01",
+      "end_date": "1822-02-10",
+      "filename": "b46d6d126267.json"
+    },
+    "1305ad97b527": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1804-02-01",
+      "end_date": "1807-03-31",
+      "filename": "1305ad97b527.json"
+    },
+    "20d6c11751ce": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1804-03-01",
+      "end_date": "1804-12-05",
+      "filename": "20d6c11751ce.json"
+    },
+    "e2a7ba337cf5": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1804-03-01",
+      "end_date": "1818-01-31",
+      "filename": "e2a7ba337cf5.json"
+    },
+    "8f70b7183f52": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1805-12-16",
+      "end_date": "1826-03-31",
+      "filename": "8f70b7183f52.json"
+    },
+    "636e9911fc78": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1805-04-01",
+      "end_date": "1807-03-31",
+      "filename": "636e9911fc78.json"
+    },
+    "a67e0498ad9b": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1805-04-01",
+      "end_date": "1807-03-31",
+      "filename": "a67e0498ad9b.json"
+    },
+    "4d85730d5bd6": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1805-12-16",
+      "end_date": "1820-03-31",
+      "filename": "4d85730d5bd6.json"
+    },
+    "2a670bf10f0a": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1807-04-01",
+      "end_date": "1810-03-31",
+      "filename": "2a670bf10f0a.json"
+    },
+    "5e3e1b394457": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1807-04-01",
+      "end_date": "1818-01-16",
+      "filename": "5e3e1b394457.json"
+    },
+    "ae536d92320c": {
+      "county_id": "kys_lewis",
+      "name": "LEWIS",
+      "start_date": "1807-04-01",
+      "end_date": "1904-02-08",
+      "filename": "ae536d92320c.json"
+    },
+    "47b340480496": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1807-04-01",
+      "end_date": "1867-07-31",
+      "filename": "47b340480496.json"
+    },
+    "21457e64b173": {
+      "county_id": "kys_hopkins",
+      "name": "HOPKINS",
+      "start_date": "1807-05-01",
+      "end_date": "1820-02-29",
+      "filename": "21457e64b173.json"
+    },
+    "42dc657f6da6": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1807-05-01",
+      "end_date": "1809-03-31",
+      "filename": "42dc657f6da6.json"
+    },
+    "2ca62dab3cbb": {
+      "county_id": "kys_casey",
+      "name": "CASEY",
+      "start_date": "1807-05-04",
+      "end_date": "1808-02-18",
+      "filename": "2ca62dab3cbb.json"
+    },
+    "96391ae60818": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1807-05-04",
+      "end_date": "1808-02-18",
+      "filename": "96391ae60818.json"
+    },
+    "fa33c6bd895e": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1807-04-01",
+      "end_date": "1812-02-29",
+      "filename": "fa33c6bd895e.json"
+    },
+    "6648e141b1f7": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1807-04-01",
+      "end_date": "1808-03-31",
+      "filename": "6648e141b1f7.json"
+    },
+    "c36ae5db06ad": {
+      "county_id": "kys_casey",
+      "name": "CASEY",
+      "start_date": "1808-02-19",
+      "end_date": "1821-02-28",
+      "filename": "c36ae5db06ad.json"
+    },
+    "3f9d7cf26e0f": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1808-02-19",
+      "end_date": "1810-03-31",
+      "filename": "3f9d7cf26e0f.json"
+    },
+    "2ab3b7dc1c5f": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1808-04-01",
+      "end_date": "1815-04-30",
+      "filename": "2ab3b7dc1c5f.json"
+    },
+    "07d9d5c7ef81": {
+      "county_id": "kys_clark",
+      "name": "CLARK",
+      "start_date": "1808-04-01",
+      "end_date": "1852-05-09",
+      "filename": "07d9d5c7ef81.json"
+    },
+    "ef1cadbc645c": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1808-04-01",
+      "end_date": "1810-03-31",
+      "filename": "ef1cadbc645c.json"
+    },
+    "dd86c428f0c5": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1809-04-01",
+      "end_date": "1810-03-31",
+      "filename": "dd86c428f0c5.json"
+    },
+    "b2b4a6813090": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1809-04-01",
+      "end_date": "1811-04-30",
+      "filename": "b2b4a6813090.json"
+    },
+    "122d5dfb8dcc": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1809-05-01",
+      "end_date": "1819-02-28",
+      "filename": "122d5dfb8dcc.json"
+    },
+    "d14979f26a6b": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1809-05-01",
+      "end_date": "1821-12-18",
+      "filename": "d14979f26a6b.json"
+    },
+    "4cd21bd29251": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1810-05-01",
+      "end_date": "1815-05-31",
+      "filename": "4cd21bd29251.json"
+    },
+    "d3e4cf92f4b7": {
+      "county_id": "kys_butler",
+      "name": "BUTLER",
+      "start_date": "1810-05-01",
+      "end_date": "1813-12-28",
+      "filename": "d3e4cf92f4b7.json"
+    },
+    "d9cd3cd589e0": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1810-05-01",
+      "end_date": "1813-12-28",
+      "filename": "d9cd3cd589e0.json"
+    },
+    "768a51aad74b": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1810-04-01",
+      "end_date": "1842-02-28",
+      "filename": "768a51aad74b.json"
+    },
+    "26079990ec63": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1810-04-01",
+      "end_date": "1819-03-31",
+      "filename": "26079990ec63.json"
+    },
+    "83be1ef2814b": {
+      "county_id": "kys_grayson",
+      "name": "GRAYSON",
+      "start_date": "1810-04-01",
+      "end_date": "1825-01-31",
+      "filename": "83be1ef2814b.json"
+    },
+    "d6364d877a07": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1810-04-01",
+      "end_date": "1810-04-30",
+      "filename": "d6364d877a07.json"
+    },
+    "56a002b479ee": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1810-04-01",
+      "end_date": "1821-12-20",
+      "filename": "56a002b479ee.json"
+    },
+    "88be51752146": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1810-04-01",
+      "end_date": "1818-01-31",
+      "filename": "88be51752146.json"
+    },
+    "f37a4d7f6c8c": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1810-04-01",
+      "end_date": "1818-03-31",
+      "filename": "f37a4d7f6c8c.json"
+    },
+    "deaddca45d6d": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1810-04-01",
+      "end_date": "1812-02-29",
+      "filename": "deaddca45d6d.json"
+    },
+    "715d77e4d0f4": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1811-03-01",
+      "end_date": "1824-01-31",
+      "filename": "715d77e4d0f4.json"
+    },
+    "e3a7295e29b0": {
+      "county_id": "kys_bullitt",
+      "name": "BULLITT",
+      "start_date": "1811-03-01",
+      "end_date": "1824-01-14",
+      "filename": "e3a7295e29b0.json"
+    },
+    "0faa69a010b0": {
+      "county_id": "kys_bath",
+      "name": "BATH",
+      "start_date": "1811-02-04",
+      "end_date": "1818-02-28",
+      "filename": "0faa69a010b0.json"
+    },
+    "0b7a19d78078": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1811-02-04",
+      "end_date": "1816-05-05",
+      "filename": "0b7a19d78078.json"
+    },
+    "3f8d6931e1ae": {
+      "county_id": "kys_union",
+      "name": "UNION",
+      "start_date": "1811-05-01",
+      "end_date": "1860-06-30",
+      "filename": "3f8d6931e1ae.json"
+    },
+    "0fb019a58314": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1811-05-01",
+      "end_date": "1860-03-01",
+      "filename": "0fb019a58314.json"
+    },
+    "4adf6f50a2db": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1812-03-01",
+      "end_date": "1815-04-30",
+      "filename": "4adf6f50a2db.json"
+    },
+    "c402b255c633": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1812-03-01",
+      "end_date": "1821-12-20",
+      "filename": "c402b255c633.json"
+    },
+    "2db19d14d2c6": {
+      "county_id": "kys_butler",
+      "name": "BUTLER",
+      "start_date": "1813-12-29",
+      "end_date": "1871-03-14",
+      "filename": "2db19d14d2c6.json"
+    },
+    "74b7216d75ec": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1813-12-29",
+      "end_date": "1819-03-31",
+      "filename": "74b7216d75ec.json"
+    },
+    "c1c2a7f602d6": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1815-04-01",
+      "end_date": "1816-02-02",
+      "filename": "c1c2a7f602d6.json"
+    },
+    "e5352ffe8941": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1815-05-01",
+      "end_date": "1816-05-05",
+      "filename": "e5352ffe8941.json"
+    },
+    "ac6daca3e6fd": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1815-04-01",
+      "end_date": "1816-02-02",
+      "filename": "ac6daca3e6fd.json"
+    },
+    "aaa75ef29ff4": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1815-04-01",
+      "end_date": "1819-03-31",
+      "filename": "aaa75ef29ff4.json"
+    },
+    "5a20c53ec385": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1815-05-01",
+      "end_date": "1821-02-25",
+      "filename": "5a20c53ec385.json"
+    },
+    "d39694f465b4": {
+      "county_id": "kys_daviess",
+      "name": "DAVIESS",
+      "start_date": "1815-06-01",
+      "end_date": "1829-03-22",
+      "filename": "d39694f465b4.json"
+    },
+    "0a8d8a7505f3": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1815-06-01",
+      "end_date": "1829-03-22",
+      "filename": "0a8d8a7505f3.json"
+    },
+    "038b1261bbf6": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1816-09-01",
+      "end_date": "1820-02-08",
+      "filename": "038b1261bbf6.json"
+    },
+    "99b995587cd8": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1816-05-06",
+      "end_date": "1839-03-31",
+      "filename": "99b995587cd8.json"
+    },
+    "c0070c792a16": {
+      "county_id": "kys_fleming",
+      "name": "FLEMING",
+      "start_date": "1816-09-01",
+      "end_date": "1823-12-31",
+      "filename": "c0070c792a16.json"
+    },
+    "2c17e054157d": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1816-09-01",
+      "end_date": "1817-02-28",
+      "filename": "2c17e054157d.json"
+    },
+    "91bb335257a3": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1816-02-03",
+      "end_date": "1819-03-31",
+      "filename": "91bb335257a3.json"
+    },
+    "8b5dca079649": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1816-02-03",
+      "end_date": "1819-03-31",
+      "filename": "8b5dca079649.json"
+    },
+    "af4cd7bb75f8": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1816-05-06",
+      "end_date": "1818-01-16",
+      "filename": "af4cd7bb75f8.json"
+    },
+    "0b2cc13bd738": {
+      "county_id": "kys_bourbon",
+      "name": "BOURBON",
+      "start_date": "1817-03-01",
+      "end_date": "2000-12-31",
+      "filename": "0b2cc13bd738.json"
+    },
+    "68182a70f29b": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1817-03-01",
+      "end_date": "1823-12-31",
+      "filename": "68182a70f29b.json"
+    },
+    "4b6413b62402": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1818-04-01",
+      "end_date": "1826-01-31",
+      "filename": "4b6413b62402.json"
+    },
+    "f892731166f5": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1818-04-01",
+      "end_date": "1819-03-31",
+      "filename": "f892731166f5.json"
+    },
+    "bb19138ebb20": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1818-03-01",
+      "end_date": "1821-02-25",
+      "filename": "bb19138ebb20.json"
+    },
+    "fa98cd5a3ee9": {
+      "county_id": "kys_bath",
+      "name": "BATH",
+      "start_date": "1818-03-01",
+      "end_date": "1823-03-09",
+      "filename": "fa98cd5a3ee9.json"
+    },
+    "1568a0557a3b": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1818-02-01",
+      "end_date": "1826-01-31",
+      "filename": "1568a0557a3b.json"
+    },
+    "7e6167cf9525": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1818-02-01",
+      "end_date": "1826-03-31",
+      "filename": "7e6167cf9525.json"
+    },
+    "861a186463da": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1818-01-17",
+      "end_date": "1852-05-09",
+      "filename": "861a186463da.json"
+    },
+    "0badc88c8591": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1818-01-17",
+      "end_date": "1818-02-28",
+      "filename": "0badc88c8591.json"
+    },
+    "d7fb116bfaa8": {
+      "county_id": "kys_pendleton",
+      "name": "PENDLETON",
+      "start_date": "1819-04-01",
+      "end_date": "1820-03-31",
+      "filename": "d7fb116bfaa8.json"
+    },
+    "7437d3d441fd": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-12-08",
+      "filename": "7437d3d441fd.json"
+    },
+    "a21cdbfa4d51": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1819-03-01",
+      "end_date": "1820-03-31",
+      "filename": "a21cdbfa4d51.json"
+    },
+    "4f06bb1e1fef": {
+      "county_id": "kys_scott",
+      "name": "SCOTT",
+      "start_date": "1819-04-01",
+      "end_date": "2000-12-31",
+      "filename": "4f06bb1e1fef.json"
+    },
+    "96371773b28a": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-02-03",
+      "filename": "96371773b28a.json"
+    },
+    "50499366baab": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1819-04-01",
+      "end_date": "1820-02-03",
+      "filename": "50499366baab.json"
+    },
+    "64e8fb4814aa": {
+      "county_id": "kys_simpson",
+      "name": "SIMPSON",
+      "start_date": "1819-04-01",
+      "end_date": "1820-12-08",
+      "filename": "64e8fb4814aa.json"
+    },
+    "4c9c94a0c1f7": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1819-04-01",
+      "end_date": "1825-01-31",
+      "filename": "4c9c94a0c1f7.json"
+    },
+    "3c10f459f22e": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-03-31",
+      "filename": "3c10f459f22e.json"
+    },
+    "3a505e40ac78": {
+      "county_id": "kys_hart",
+      "name": "HART",
+      "start_date": "1819-04-01",
+      "end_date": "1825-01-31",
+      "filename": "3a505e40ac78.json"
+    },
+    "9bd7366120c4": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1819-04-01",
+      "end_date": "1824-03-21",
+      "filename": "9bd7366120c4.json"
+    },
+    "3984b758bc69": {
+      "county_id": "kys_owen",
+      "name": "OWEN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-11-15",
+      "filename": "3984b758bc69.json"
+    },
+    "b44262285d73": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-12-26",
+      "filename": "b44262285d73.json"
+    },
+    "5facf4c4ddf9": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-02-29",
+      "filename": "5facf4c4ddf9.json"
+    },
+    "3d26b8b83138": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1819-03-01",
+      "end_date": "1820-02-29",
+      "filename": "3d26b8b83138.json"
+    },
+    "de4b7dd25163": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1819-04-01",
+      "end_date": "1820-03-31",
+      "filename": "de4b7dd25163.json"
+    },
+    "e84c72e3c3af": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1820-04-01",
+      "end_date": "1822-01-31",
+      "filename": "e84c72e3c3af.json"
+    },
+    "bf29e6de3199": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1820-04-01",
+      "end_date": "1821-12-18",
+      "filename": "bf29e6de3199.json"
+    },
+    "624f334ada7a": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1820-04-01",
+      "end_date": "1825-12-20",
+      "filename": "624f334ada7a.json"
+    },
+    "5ca58a82c6e4": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1820-04-01",
+      "end_date": "1826-03-31",
+      "filename": "5ca58a82c6e4.json"
+    },
+    "739446c125d5": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1820-11-16",
+      "end_date": "1827-01-11",
+      "filename": "739446c125d5.json"
+    },
+    "7bcb57e9e173": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1820-12-02",
+      "end_date": "1826-02-12",
+      "filename": "7bcb57e9e173.json"
+    },
+    "4d5802f15c1d": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1820-12-02",
+      "end_date": "1838-01-26",
+      "filename": "4d5802f15c1d.json"
+    },
+    "e640d36d1d06": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1820-12-09",
+      "end_date": "1822-11-14",
+      "filename": "e640d36d1d06.json"
+    },
+    "1197bce33f4b": {
+      "county_id": "kys_simpson",
+      "name": "SIMPSON",
+      "start_date": "1820-12-09",
+      "end_date": "1822-11-14",
+      "filename": "1197bce33f4b.json"
+    },
+    "a975c9f529d6": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1820-12-27",
+      "end_date": "1821-02-28",
+      "filename": "a975c9f529d6.json"
+    },
+    "cb24df68096a": {
+      "county_id": "kys_boone",
+      "name": "BOONE",
+      "start_date": "1820-12-27",
+      "end_date": "1837-02-08",
+      "filename": "cb24df68096a.json"
+    },
+    "ff229dab28ae": {
+      "county_id": "kys_pendleton",
+      "name": "PENDLETON",
+      "start_date": "1820-04-01",
+      "end_date": "1882-04-21",
+      "filename": "ff229dab28ae.json"
+    },
+    "a2a3fe0e2d22": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1820-04-01",
+      "end_date": "1827-01-05",
+      "filename": "a2a3fe0e2d22.json"
+    },
+    "2dcf20d83e16": {
+      "county_id": "kys_owen",
+      "name": "OWEN",
+      "start_date": "1820-11-16",
+      "end_date": "1821-02-28",
+      "filename": "2dcf20d83e16.json"
+    },
+    "9906548934b7": {
+      "county_id": "kys_monroe",
+      "name": "MONROE",
+      "start_date": "1820-04-01",
+      "end_date": "1825-01-31",
+      "filename": "9906548934b7.json"
+    },
+    "d4c3276b30d9": {
+      "county_id": "kys_todd",
+      "name": "TODD",
+      "start_date": "1820-04-01",
+      "end_date": "1822-01-31",
+      "filename": "d4c3276b30d9.json"
+    },
+    "5988205d2eca": {
+      "county_id": "kys_trigg",
+      "name": "TRIGG",
+      "start_date": "1820-04-01",
+      "end_date": "1824-12-31",
+      "filename": "5988205d2eca.json"
+    },
+    "700def4c5c53": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1820-04-01",
+      "end_date": "2000-12-31",
+      "filename": "700def4c5c53.json"
+    },
+    "5fac83e5432d": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1820-02-09",
+      "end_date": "1834-02-21",
+      "filename": "5fac83e5432d.json"
+    },
+    "650216953a34": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1820-03-01",
+      "end_date": "1824-01-14",
+      "filename": "650216953a34.json"
+    },
+    "1b2fb1518071": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1820-03-01",
+      "end_date": "1820-11-15",
+      "filename": "1b2fb1518071.json"
+    },
+    "7052f3b885dd": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1820-02-09",
+      "end_date": "1827-01-05",
+      "filename": "7052f3b885dd.json"
+    },
+    "afa7a9fde959": {
+      "county_id": "kys_hopkins",
+      "name": "HOPKINS",
+      "start_date": "1820-03-01",
+      "end_date": "1860-06-30",
+      "filename": "afa7a9fde959.json"
+    },
+    "da3404f67764": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1820-02-04",
+      "end_date": "1820-12-01",
+      "filename": "da3404f67764.json"
+    },
+    "4f65b5e798a5": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1820-02-04",
+      "end_date": "1820-12-01",
+      "filename": "4f65b5e798a5.json"
+    },
+    "57835af1f445": {
+      "county_id": "kys_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1820-03-01",
+      "end_date": "1820-03-31",
+      "filename": "57835af1f445.json"
+    },
+    "045ed65c58e9": {
+      "county_id": "kys_graves",
+      "name": "GRAVES",
+      "start_date": "1821-12-19",
+      "end_date": "2000-12-31",
+      "filename": "045ed65c58e9.json"
+    },
+    "2089326c1861": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1821-03-01",
+      "end_date": "1828-02-29",
+      "filename": "2089326c1861.json"
+    },
+    "60bb4e5bb1d3": {
+      "county_id": "kys_owen",
+      "name": "OWEN",
+      "start_date": "1821-03-01",
+      "end_date": "1828-02-29",
+      "filename": "60bb4e5bb1d3.json"
+    },
+    "a6aa0ecc3d47": {
+      "county_id": "kys_casey",
+      "name": "CASEY",
+      "start_date": "1821-03-01",
+      "end_date": "1827-12-18",
+      "filename": "a6aa0ecc3d47.json"
+    },
+    "34832fc46513": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1821-02-26",
+      "end_date": "1826-02-12",
+      "filename": "34832fc46513.json"
+    },
+    "cf0b438c79a0": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1821-02-26",
+      "end_date": "1822-02-10",
+      "filename": "cf0b438c79a0.json"
+    },
+    "6ce672abcd13": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1821-03-01",
+      "end_date": "1827-01-19",
+      "filename": "6ce672abcd13.json"
+    },
+    "f30ddb9f1baa": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1821-12-21",
+      "end_date": "1826-02-12",
+      "filename": "f30ddb9f1baa.json"
+    },
+    "266540a551b4": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1821-12-21",
+      "end_date": "1858-04-24",
+      "filename": "266540a551b4.json"
+    },
+    "536ca2d68df7": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1821-12-19",
+      "end_date": "1824-12-31",
+      "filename": "536ca2d68df7.json"
+    },
+    "7d25614bded8": {
+      "county_id": "kys_calloway",
+      "name": "CALLOWAY",
+      "start_date": "1821-12-19",
+      "end_date": "1842-05-31",
+      "filename": "7d25614bded8.json"
+    },
+    "94f47cf7c43e": {
+      "county_id": "kys_hickman",
+      "name": "HICKMAN",
+      "start_date": "1821-12-19",
+      "end_date": "1842-05-22",
+      "filename": "94f47cf7c43e.json"
+    },
+    "9daf786085b0": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1821-12-19",
+      "end_date": "1838-01-31",
+      "filename": "9daf786085b0.json"
+    },
+    "35bca133d82e": {
+      "county_id": "kys_mccracken",
+      "name": "McCRACKEN",
+      "start_date": "1821-12-19",
+      "end_date": "1842-05-22",
+      "filename": "35bca133d82e.json"
+    },
+    "8b27a9747c57": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1821-02-26",
+      "end_date": "1839-03-31",
+      "filename": "8b27a9747c57.json"
+    },
+    "c7aa099230ed": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1822-03-01",
+      "end_date": "1823-03-09",
+      "filename": "c7aa099230ed.json"
+    },
+    "4fe69e2bb885": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1822-03-01",
+      "end_date": "1850-03-03",
+      "filename": "4fe69e2bb885.json"
+    },
+    "4e67ec3eca1e": {
+      "county_id": "kys_simpson",
+      "name": "SIMPSON",
+      "start_date": "1822-11-15",
+      "end_date": "1859-11-29",
+      "filename": "4e67ec3eca1e.json"
+    },
+    "18df2bb5e3e3": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1822-11-15",
+      "end_date": "1825-01-31",
+      "filename": "18df2bb5e3e3.json"
+    },
+    "d29b792ebd47": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1822-02-11",
+      "end_date": "1830-01-28",
+      "filename": "d29b792ebd47.json"
+    },
+    "50553b8f6e6a": {
+      "county_id": "kys_todd",
+      "name": "TODD",
+      "start_date": "1822-02-01",
+      "end_date": "1823-01-31",
+      "filename": "50553b8f6e6a.json"
+    },
+    "5e90ab291e3e": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1822-02-01",
+      "end_date": "1823-01-31",
+      "filename": "5e90ab291e3e.json"
+    },
+    "231ebea6bef4": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1822-02-11",
+      "end_date": "1830-01-28",
+      "filename": "231ebea6bef4.json"
+    },
+    "bae5d99c71bf": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1822-02-11",
+      "end_date": "1822-02-28",
+      "filename": "bae5d99c71bf.json"
+    },
+    "4c23c9a06f55": {
+      "county_id": "kys_todd",
+      "name": "TODD",
+      "start_date": "1823-02-01",
+      "end_date": "2000-12-31",
+      "filename": "4c23c9a06f55.json"
+    },
+    "b7ffad8e350d": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1874-01-13",
+      "end_date": "2000-12-31",
+      "filename": "b7ffad8e350d.json"
+    },
+    "4ce2e71132af": {
+      "county_id": "kys_oldham",
+      "name": "OLDHAM",
+      "start_date": "1874-01-13",
+      "end_date": "2000-12-31",
+      "filename": "4ce2e71132af.json"
+    },
+    "a3e1d61db831": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1876-02-09",
+      "end_date": "2000-12-31",
+      "filename": "a3e1d61db831.json"
+    },
+    "02d15c1f5aba": {
+      "county_id": "kys_owen",
+      "name": "OWEN",
+      "start_date": "1876-02-09",
+      "end_date": "2000-12-31",
+      "filename": "02d15c1f5aba.json"
+    },
+    "60c3af9f3962": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1876-03-20",
+      "end_date": "1884-04-02",
+      "filename": "60c3af9f3962.json"
+    },
+    "c0938ea1fc60": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1876-03-20",
+      "end_date": "1912-03-11",
+      "filename": "c0938ea1fc60.json"
+    },
+    "cafb20132f3f": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1878-02-23",
+      "end_date": "1890-04-14",
+      "filename": "cafb20132f3f.json"
+    },
+    "f1eb34f29b0a": {
+      "county_id": "kys_anderson",
+      "name": "ANDERSON",
+      "start_date": "1878-02-23",
+      "end_date": "1890-04-14",
+      "filename": "f1eb34f29b0a.json"
+    },
+    "354b185dcfe4": {
+      "county_id": "kys_martin",
+      "name": "MARTIN",
+      "start_date": "1878-03-08",
+      "end_date": "2000-12-31",
+      "filename": "354b185dcfe4.json"
+    },
+    "b607c76fc2d9": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1878-03-08",
+      "end_date": "2000-12-31",
+      "filename": "b607c76fc2d9.json"
+    },
+    "ff21b7e6ebc6": {
+      "county_id": "kys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1878-03-20",
+      "end_date": "2000-12-31",
+      "filename": "ff21b7e6ebc6.json"
+    },
+    "fca5630ba84e": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1823-02-01",
+      "end_date": "1869-01-13",
+      "filename": "fca5630ba84e.json"
+    },
+    "c726b0721aa2": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1823-03-10",
+      "end_date": "1824-01-06",
+      "filename": "c726b0721aa2.json"
+    },
+    "136dc359a9af": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1823-03-10",
+      "end_date": "1824-01-06",
+      "filename": "136dc359a9af.json"
+    },
+    "fc3655605345": {
+      "county_id": "kys_bath",
+      "name": "BATH",
+      "start_date": "1823-03-10",
+      "end_date": "1854-03-05",
+      "filename": "fc3655605345.json"
+    },
+    "670b6d86a049": {
+      "county_id": "kys_breckinridge",
+      "name": "BRECKINRIDGE",
+      "start_date": "1824-03-22",
+      "end_date": "1829-03-22",
+      "filename": "670b6d86a049.json"
+    },
+    "d79e6bb762d3": {
+      "county_id": "kys_meade",
+      "name": "MEADE",
+      "start_date": "1824-03-22",
+      "end_date": "2000-12-31",
+      "filename": "d79e6bb762d3.json"
+    },
+    "9168a96786da": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1824-03-22",
+      "end_date": "1843-02-28",
+      "filename": "9168a96786da.json"
+    },
+    "c1dda08c8a71": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1824-02-01",
+      "end_date": "1833-01-13",
+      "filename": "c1dda08c8a71.json"
+    },
+    "f22f4246867e": {
+      "county_id": "kys_oldham",
+      "name": "OLDHAM",
+      "start_date": "1824-02-01",
+      "end_date": "1833-01-13",
+      "filename": "f22f4246867e.json"
+    },
+    "aa533a36d67d": {
+      "county_id": "kys_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1824-02-01",
+      "end_date": "1874-01-12",
+      "filename": "aa533a36d67d.json"
+    },
+    "2a2656b07a56": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1824-02-01",
+      "end_date": "1827-01-11",
+      "filename": "2a2656b07a56.json"
+    },
+    "1e7a6f8a0b82": {
+      "county_id": "kys_fleming",
+      "name": "FLEMING",
+      "start_date": "1824-01-01",
+      "end_date": "1856-04-30",
+      "filename": "1e7a6f8a0b82.json"
+    },
+    "cd589b647973": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1824-01-07",
+      "end_date": "1837-01-12",
+      "filename": "cd589b647973.json"
+    },
+    "1b2436b7ac65": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1824-01-07",
+      "end_date": "1839-12-15",
+      "filename": "1b2436b7ac65.json"
+    },
+    "13765d0c55f1": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1824-01-15",
+      "end_date": "1824-01-31",
+      "filename": "13765d0c55f1.json"
+    },
+    "025ea2b51b7e": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1824-01-01",
+      "end_date": "1844-02-28",
+      "filename": "025ea2b51b7e.json"
+    },
+    "ee40b28f4d83": {
+      "county_id": "kys_bullitt",
+      "name": "BULLITT",
+      "start_date": "1824-01-15",
+      "end_date": "2000-12-31",
+      "filename": "ee40b28f4d83.json"
+    },
+    "f833cc7ff546": {
+      "county_id": "kys_spencer",
+      "name": "SPENCER",
+      "start_date": "1824-01-15",
+      "end_date": "2000-12-31",
+      "filename": "f833cc7ff546.json"
+    },
+    "6aa0087553a6": {
+      "county_id": "kys_nelson",
+      "name": "NELSON",
+      "start_date": "1824-01-15",
+      "end_date": "2000-12-31",
+      "filename": "6aa0087553a6.json"
+    },
+    "7ce3f1096a95": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1825-12-21",
+      "end_date": "1827-02-28",
+      "filename": "7ce3f1096a95.json"
+    },
+    "489699422cf0": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1825-12-21",
+      "end_date": "1828-02-29",
+      "filename": "489699422cf0.json"
+    },
+    "06121f542796": {
+      "county_id": "kys_grayson",
+      "name": "GRAYSON",
+      "start_date": "1825-02-01",
+      "end_date": "2000-12-31",
+      "filename": "06121f542796.json"
+    },
+    "858c8908f79b": {
+      "county_id": "kys_trigg",
+      "name": "TRIGG",
+      "start_date": "1825-01-01",
+      "end_date": "1825-12-31",
+      "filename": "858c8908f79b.json"
+    },
+    "0ab9a1f00f3a": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1825-01-01",
+      "end_date": "1825-12-31",
+      "filename": "0ab9a1f00f3a.json"
+    },
+    "b0d3cfff39ff": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1825-02-01",
+      "end_date": "1825-12-20",
+      "filename": "b0d3cfff39ff.json"
+    },
+    "fda7442a2b03": {
+      "county_id": "kys_monroe",
+      "name": "MONROE",
+      "start_date": "1825-02-01",
+      "end_date": "1830-01-19",
+      "filename": "fda7442a2b03.json"
+    },
+    "997f0f303bcf": {
+      "county_id": "kys_edmonson",
+      "name": "EDMONSON",
+      "start_date": "1825-02-01",
+      "end_date": "2000-12-31",
+      "filename": "997f0f303bcf.json"
+    },
+    "7fd64a1fb0be": {
+      "county_id": "kys_hart",
+      "name": "HART",
+      "start_date": "1825-02-01",
+      "end_date": "2000-12-31",
+      "filename": "7fd64a1fb0be.json"
+    },
+    "bcfa45c5f965": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1825-02-01",
+      "end_date": "1827-02-28",
+      "filename": "bcfa45c5f965.json"
+    },
+    "7036c158347c": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1826-04-01",
+      "end_date": "1827-12-18",
+      "filename": "7036c158347c.json"
+    },
+    "4ef042796e97": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1826-02-13",
+      "end_date": "1830-02-28",
+      "filename": "4ef042796e97.json"
+    },
+    "e5f2a2a7f5bc": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1826-02-13",
+      "end_date": "1830-02-28",
+      "filename": "e5f2a2a7f5bc.json"
+    },
+    "1b0fbfc206a1": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1826-02-13",
+      "end_date": "1839-03-31",
+      "filename": "1b0fbfc206a1.json"
+    },
+    "dd1c334fb964": {
+      "county_id": "kys_russell",
+      "name": "RUSSELL",
+      "start_date": "1826-04-01",
+      "end_date": "1840-02-29",
+      "filename": "dd1c334fb964.json"
+    },
+    "9c91287eef7f": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1826-04-01",
+      "end_date": "1831-01-07",
+      "filename": "9c91287eef7f.json"
+    },
+    "a10e47272ac2": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1826-04-01",
+      "end_date": "1830-01-19",
+      "filename": "a10e47272ac2.json"
+    },
+    "7fe40304411a": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1826-02-13",
+      "end_date": "1834-01-23",
+      "filename": "7fe40304411a.json"
+    },
+    "a9aa74e6b6fe": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1826-02-13",
+      "end_date": "1871-01-20",
+      "filename": "a9aa74e6b6fe.json"
+    },
+    "bfdecd4502f7": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1826-02-01",
+      "end_date": "1826-02-12",
+      "filename": "bfdecd4502f7.json"
+    },
+    "96d658daffac": {
+      "county_id": "kys_trigg",
+      "name": "TRIGG",
+      "start_date": "1826-01-01",
+      "end_date": "1827-01-11",
+      "filename": "96d658daffac.json"
+    },
+    "4f8b8095ec98": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1826-01-01",
+      "end_date": "1827-01-11",
+      "filename": "4f8b8095ec98.json"
+    },
+    "2e10951ac3ab": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1826-02-01",
+      "end_date": "1831-01-07",
+      "filename": "2e10951ac3ab.json"
+    },
+    "26027361bf76": {
+      "county_id": "kys_anderson",
+      "name": "ANDERSON",
+      "start_date": "1827-01-20",
+      "end_date": "1846-02-13",
+      "filename": "26027361bf76.json"
+    },
+    "fcd0feb7e0d3": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1827-01-20",
+      "end_date": "1846-02-13",
+      "filename": "fcd0feb7e0d3.json"
+    },
+    "c03d1764942f": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1827-03-01",
+      "end_date": "1860-05-06",
+      "filename": "c03d1764942f.json"
+    },
+    "60a00a46ac25": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1827-03-01",
+      "end_date": "1828-02-29",
+      "filename": "60a00a46ac25.json"
+    },
+    "7e3eadc50a9b": {
+      "county_id": "kys_casey",
+      "name": "CASEY",
+      "start_date": "1827-12-19",
+      "end_date": "1844-01-28",
+      "filename": "7e3eadc50a9b.json"
+    },
+    "5920cc6df0b9": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1827-12-19",
+      "end_date": "1844-01-28",
+      "filename": "5920cc6df0b9.json"
+    },
+    "c1cf05607181": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1827-01-20",
+      "end_date": "1842-02-28",
+      "filename": "c1cf05607181.json"
+    },
+    "31a0c72d23c9": {
+      "county_id": "kys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1827-01-20",
+      "end_date": "1834-02-28",
+      "filename": "31a0c72d23c9.json"
+    },
+    "bca5ecbef77c": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1827-01-06",
+      "end_date": "1851-12-31",
+      "filename": "bca5ecbef77c.json"
+    },
+    "db4bb2f7dd02": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1844-02-29",
+      "end_date": "1867-07-31",
+      "filename": "db4bb2f7dd02.json"
+    },
+    "206566744a78": {
+      "county_id": "kys_casey",
+      "name": "CASEY",
+      "start_date": "1844-01-29",
+      "end_date": "2000-12-31",
+      "filename": "206566744a78.json"
+    },
+    "510413686cb4": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1844-01-29",
+      "end_date": "1860-05-06",
+      "filename": "510413686cb4.json"
+    },
+    "cad20e2a04d2": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1844-02-29",
+      "end_date": "1867-07-31",
+      "filename": "cad20e2a04d2.json"
+    },
+    "afc13e0936d0": {
+      "county_id": "kys_fulton",
+      "name": "FULTON",
+      "start_date": "1845-04-01",
+      "end_date": "2000-12-31",
+      "filename": "afc13e0936d0.json"
+    },
+    "8ee41cabf93e": {
+      "county_id": "kys_hickman",
+      "name": "HICKMAN",
+      "start_date": "1845-04-01",
+      "end_date": "1854-03-07",
+      "filename": "8ee41cabf93e.json"
+    },
+    "be355662c348": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1846-02-14",
+      "end_date": "2000-12-31",
+      "filename": "be355662c348.json"
+    },
+    "b27ec274c2cd": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1846-02-21",
+      "end_date": "1860-03-02",
+      "filename": "b27ec274c2cd.json"
+    },
+    "6a8b3638a9ff": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1846-02-21",
+      "end_date": "1850-11-21",
+      "filename": "6a8b3638a9ff.json"
+    },
+    "4c938109165a": {
+      "county_id": "kys_anderson",
+      "name": "ANDERSON",
+      "start_date": "1846-02-14",
+      "end_date": "1878-02-22",
+      "filename": "4c938109165a.json"
+    },
+    "340fe40b27aa": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1860-04-25",
+      "end_date": "1860-04-30",
+      "filename": "340fe40b27aa.json"
+    },
+    "8318deee5ce6": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1860-03-03",
+      "end_date": "1860-06-30",
+      "filename": "8318deee5ce6.json"
+    },
+    "14911515d07c": {
+      "county_id": "kys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1860-04-25",
+      "end_date": "1870-08-31",
+      "filename": "14911515d07c.json"
+    },
+    "8a98d4498720": {
+      "county_id": "kys_daviess",
+      "name": "DAVIESS",
+      "start_date": "1860-03-02",
+      "end_date": "2000-12-31",
+      "filename": "8a98d4498720.json"
+    },
+    "1ed1006e2f09": {
+      "county_id": "kys_magoffin",
+      "name": "MAGOFFIN",
+      "start_date": "1860-04-25",
+      "end_date": "2000-12-31",
+      "filename": "1ed1006e2f09.json"
+    },
+    "3f990bdba548": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1860-04-25",
+      "end_date": "1860-06-30",
+      "filename": "3f990bdba548.json"
+    },
+    "a8b0c12a8a11": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1860-02-27",
+      "end_date": "1878-02-22",
+      "filename": "a8b0c12a8a11.json"
+    },
+    "49dcaf9519cd": {
+      "county_id": "kys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1860-02-27",
+      "end_date": "1890-04-14",
+      "filename": "49dcaf9519cd.json"
+    },
+    "318306cdc1b9": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1861-09-20",
+      "end_date": "1869-03-31",
+      "filename": "318306cdc1b9.json"
+    },
+    "e0c1c60bff66": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1861-09-20",
+      "end_date": "1870-08-31",
+      "filename": "e0c1c60bff66.json"
+    },
+    "9ab81b98ff33": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1861-10-01",
+      "end_date": "2000-12-31",
+      "filename": "9ab81b98ff33.json"
+    },
+    "57893c700c36": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1827-01-06",
+      "end_date": "1834-02-21",
+      "filename": "57893c700c36.json"
+    },
+    "da5f429e96a2": {
+      "county_id": "kys_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1827-01-12",
+      "end_date": "1827-01-19",
+      "filename": "da5f429e96a2.json"
+    },
+    "0b1add50949a": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1827-01-12",
+      "end_date": "1837-02-28",
+      "filename": "0b1add50949a.json"
+    },
+    "6c65ce7f5d45": {
+      "county_id": "kys_trigg",
+      "name": "TRIGG",
+      "start_date": "1827-01-12",
+      "end_date": "1828-02-12",
+      "filename": "6c65ce7f5d45.json"
+    },
+    "de922c3b027d": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1827-01-12",
+      "end_date": "1828-02-12",
+      "filename": "de922c3b027d.json"
+    },
+    "405958138bf6": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1828-03-01",
+      "end_date": "1837-02-08",
+      "filename": "405958138bf6.json"
+    },
+    "883a72471310": {
+      "county_id": "kys_owen",
+      "name": "OWEN",
+      "start_date": "1828-03-01",
+      "end_date": "1876-02-08",
+      "filename": "883a72471310.json"
+    },
+    "ba051abaf3f1": {
+      "county_id": "kys_trigg",
+      "name": "TRIGG",
+      "start_date": "1828-02-13",
+      "end_date": "2000-12-31",
+      "filename": "ba051abaf3f1.json"
+    },
+    "ba3a3a0f36f3": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1828-02-13",
+      "end_date": "1838-01-31",
+      "filename": "ba3a3a0f36f3.json"
+    },
+    "0f4bf99b9bc7": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1828-03-01",
+      "end_date": "1861-12-09",
+      "filename": "0f4bf99b9bc7.json"
+    },
+    "58274b2ef525": {
+      "county_id": "kys_warren",
+      "name": "WARREN",
+      "start_date": "1828-03-01",
+      "end_date": "2000-12-31",
+      "filename": "58274b2ef525.json"
+    },
+    "fc0054842a8e": {
+      "county_id": "kys_hancock",
+      "name": "HANCOCK",
+      "start_date": "1829-03-23",
+      "end_date": "2000-12-31",
+      "filename": "fc0054842a8e.json"
+    },
+    "ce84b00a7dc8": {
+      "county_id": "kys_daviess",
+      "name": "DAVIESS",
+      "start_date": "1829-03-23",
+      "end_date": "1830-02-28",
+      "filename": "ce84b00a7dc8.json"
+    },
+    "ed96ba194b5a": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1829-03-23",
+      "end_date": "1830-02-28",
+      "filename": "ed96ba194b5a.json"
+    },
+    "f239ecf56bc5": {
+      "county_id": "kys_breckinridge",
+      "name": "BRECKINRIDGE",
+      "start_date": "1829-03-23",
+      "end_date": "1831-12-24",
+      "filename": "f239ecf56bc5.json"
+    },
+    "1b3a0ad265b6": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1830-01-29",
+      "end_date": "1837-01-12",
+      "filename": "1b3a0ad265b6.json"
+    },
+    "7324646100ac": {
+      "county_id": "kys_daviess",
+      "name": "DAVIESS",
+      "start_date": "1830-03-01",
+      "end_date": "1854-05-07",
+      "filename": "7324646100ac.json"
+    },
+    "8b268456e862": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1830-03-01",
+      "end_date": "1831-12-24",
+      "filename": "8b268456e862.json"
+    },
+    "3acba25711ab": {
+      "county_id": "kys_monroe",
+      "name": "MONROE",
+      "start_date": "1830-01-20",
+      "end_date": "1860-05-06",
+      "filename": "3acba25711ab.json"
+    },
+    "bd7742d749ec": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1830-01-20",
+      "end_date": "1836-03-31",
+      "filename": "bd7742d749ec.json"
+    },
+    "299c1283120b": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1830-01-29",
+      "end_date": "1838-04-30",
+      "filename": "299c1283120b.json"
+    },
+    "c186af43145c": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1830-03-01",
+      "end_date": "1831-02-28",
+      "filename": "c186af43145c.json"
+    },
+    "8734bc542d68": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1830-03-01",
+      "end_date": "1831-02-28",
+      "filename": "8734bc542d68.json"
+    },
+    "0b7602d7d387": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1831-01-08",
+      "end_date": "1836-03-31",
+      "filename": "0b7602d7d387.json"
+    },
+    "df7ecaa39fa3": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1831-01-08",
+      "end_date": "1840-02-29",
+      "filename": "df7ecaa39fa3.json"
+    },
+    "25a9cc970a79": {
+      "county_id": "kys_breckinridge",
+      "name": "BRECKINRIDGE",
+      "start_date": "1831-12-25",
+      "end_date": "2000-12-31",
+      "filename": "25a9cc970a79.json"
+    },
+    "632de5d3767c": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1831-12-25",
+      "end_date": "1854-05-07",
+      "filename": "632de5d3767c.json"
+    },
+    "f063ea3b36ed": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1831-03-01",
+      "end_date": "1858-04-24",
+      "filename": "f063ea3b36ed.json"
+    },
+    "47ed9323253e": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1831-03-01",
+      "end_date": "1834-01-23",
+      "filename": "47ed9323253e.json"
+    },
+    "96fbd1d1933e": {
+      "county_id": "kys_shelby",
+      "name": "SHELBY",
+      "start_date": "1833-01-14",
+      "end_date": "2000-12-31",
+      "filename": "96fbd1d1933e.json"
+    },
+    "4472ae03436d": {
+      "county_id": "kys_oldham",
+      "name": "OLDHAM",
+      "start_date": "1833-01-14",
+      "end_date": "1837-02-28",
+      "filename": "4472ae03436d.json"
+    },
+    "47366e11f371": {
+      "county_id": "kys_marion",
+      "name": "MARION",
+      "start_date": "1834-03-01",
+      "end_date": "2000-12-31",
+      "filename": "47366e11f371.json"
+    },
+    "a5ef4146839c": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1834-02-22",
+      "end_date": "1844-02-28",
+      "filename": "a5ef4146839c.json"
+    },
+    "71a6e8613868": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1834-02-22",
+      "end_date": "1867-07-31",
+      "filename": "71a6e8613868.json"
+    },
+    "d2c784c98bea": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1834-01-24",
+      "end_date": "1858-04-24",
+      "filename": "d2c784c98bea.json"
+    },
+    "3190aad44505": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1834-01-24",
+      "end_date": "1838-01-26",
+      "filename": "3190aad44505.json"
+    },
+    "7fad68f442cd": {
+      "county_id": "kys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1834-03-01",
+      "end_date": "1860-02-26",
+      "filename": "7fad68f442cd.json"
+    },
+    "b3da7165e896": {
+      "county_id": "kys_clinton",
+      "name": "CLINTON",
+      "start_date": "1836-04-01",
+      "end_date": "2000-12-31",
+      "filename": "b3da7165e896.json"
+    },
+    "f9087dd14a10": {
+      "county_id": "kys_wayne",
+      "name": "WAYNE",
+      "start_date": "1836-04-01",
+      "end_date": "1912-03-11",
+      "filename": "f9087dd14a10.json"
+    },
+    "67978c21a22b": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1836-04-01",
+      "end_date": "1860-05-06",
+      "filename": "67978c21a22b.json"
+    },
+    "efccc096e606": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1837-03-01",
+      "end_date": "1838-02-28",
+      "filename": "efccc096e606.json"
+    },
+    "31465eec8af9": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1837-03-01",
+      "end_date": "1838-02-28",
+      "filename": "31465eec8af9.json"
+    },
+    "b004da7cb2c9": {
+      "county_id": "kys_oldham",
+      "name": "OLDHAM",
+      "start_date": "1837-03-01",
+      "end_date": "1874-01-12",
+      "filename": "b004da7cb2c9.json"
+    },
+    "a9077df7df72": {
+      "county_id": "kys_trimble",
+      "name": "TRIMBLE",
+      "start_date": "1837-03-01",
+      "end_date": "1838-02-28",
+      "filename": "a9077df7df72.json"
+    },
+    "c6e50eccba31": {
+      "county_id": "kys_boone",
+      "name": "BOONE",
+      "start_date": "1837-02-09",
+      "end_date": "1870-03-09",
+      "filename": "c6e50eccba31.json"
+    },
+    "5074d2270b8c": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1837-01-13",
+      "end_date": "1839-12-15",
+      "filename": "5074d2270b8c.json"
+    },
+    "73ee2b64a0d9": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1837-01-13",
+      "end_date": "1838-04-30",
+      "filename": "73ee2b64a0d9.json"
+    },
+    "4358596d1057": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1837-02-09",
+      "end_date": "1837-02-28",
+      "filename": "4358596d1057.json"
+    },
+    "d7cc23a5e9e4": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1838-02-01",
+      "end_date": "1854-03-31",
+      "filename": "d7cc23a5e9e4.json"
+    },
+    "b6f1a3704140": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1838-02-01",
+      "end_date": "1842-03-31",
+      "filename": "b6f1a3704140.json"
+    },
+    "c6497e2105df": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1838-05-01",
+      "end_date": "1860-04-30",
+      "filename": "c6497e2105df.json"
+    },
+    "a53f8e262b73": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1838-05-01",
+      "end_date": "1860-04-30",
+      "filename": "a53f8e262b73.json"
+    },
+    "5b7ba3b1bab3": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1838-05-01",
+      "end_date": "1843-03-31",
+      "filename": "5b7ba3b1bab3.json"
+    },
+    "b24be2c0d427": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1838-03-01",
+      "end_date": "1867-02-26",
+      "filename": "b24be2c0d427.json"
+    },
+    "47e5e3e5df5f": {
+      "county_id": "kys_trimble",
+      "name": "TRIMBLE",
+      "start_date": "1838-03-01",
+      "end_date": "1843-02-14",
+      "filename": "47e5e3e5df5f.json"
+    },
+    "f2843ed61130": {
+      "county_id": "kys_carroll",
+      "name": "CARROLL",
+      "start_date": "1838-03-01",
+      "end_date": "1872-02-04",
+      "filename": "f2843ed61130.json"
+    },
+    "1168dc59f0c1": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1886-04-07",
+      "end_date": "2000-12-31",
+      "filename": "1168dc59f0c1.json"
+    },
+    "f0ce8ece76f5": {
+      "county_id": "kys_ballard",
+      "name": "BALLARD",
+      "start_date": "1886-05-03",
+      "end_date": "2000-12-31",
+      "filename": "f0ce8ece76f5.json"
+    },
+    "4ae213efed10": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1886-04-07",
+      "end_date": "1890-05-23",
+      "filename": "4ae213efed10.json"
+    },
+    "20c6cd436ab5": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1888-01-12",
+      "end_date": "2000-12-31",
+      "filename": "20c6cd436ab5.json"
+    },
+    "7784a19a64bc": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1888-01-12",
+      "end_date": "2000-12-31",
+      "filename": "7784a19a64bc.json"
+    },
+    "a53875c1159a": {
+      "county_id": "kys_menifee",
+      "name": "MENIFEE",
+      "start_date": "1888-04-30",
+      "end_date": "2000-12-31",
+      "filename": "a53875c1159a.json"
+    },
+    "a9e388ee8ed2": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1888-04-30",
+      "end_date": "2000-12-31",
+      "filename": "a9e388ee8ed2.json"
+    },
+    "c010c3b9c988": {
+      "county_id": "kys_knott",
+      "name": "KNOTT",
+      "start_date": "1890-05-12",
+      "end_date": "2000-12-31",
+      "filename": "c010c3b9c988.json"
+    },
+    "7c3cf248737a": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1890-05-12",
+      "end_date": "2000-12-31",
+      "filename": "7c3cf248737a.json"
+    },
+    "dc33a13860ba": {
+      "county_id": "kys_muhlenberg",
+      "name": "MUHLENBERG",
+      "start_date": "1890-05-22",
+      "end_date": "2000-12-31",
+      "filename": "dc33a13860ba.json"
+    },
+    "a3ebde87fa5a": {
+      "county_id": "kys_butler",
+      "name": "BUTLER",
+      "start_date": "1890-05-22",
+      "end_date": "2000-12-31",
+      "filename": "a3ebde87fa5a.json"
+    },
+    "a67a7b7b6f39": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1838-03-01",
+      "end_date": "1843-02-14",
+      "filename": "a67a7b7b6f39.json"
+    },
+    "b799ea899a93": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1838-01-27",
+      "end_date": "1867-07-31",
+      "filename": "b799ea899a93.json"
+    },
+    "3250b5edb500": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1838-01-27",
+      "end_date": "1841-01-27",
+      "filename": "3250b5edb500.json"
+    },
+    "ca57352624c1": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1839-04-01",
+      "end_date": "1843-01-11",
+      "filename": "ca57352624c1.json"
+    },
+    "2f7c5aa39fa1": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1839-04-01",
+      "end_date": "1843-05-31",
+      "filename": "2f7c5aa39fa1.json"
+    },
+    "931cea06b161": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1839-04-01",
+      "end_date": "1841-01-27",
+      "filename": "931cea06b161.json"
+    },
+    "dcb2aabfccdc": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1839-04-01",
+      "end_date": "1843-05-31",
+      "filename": "dcb2aabfccdc.json"
+    },
+    "7816ec618411": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1839-12-16",
+      "end_date": "1854-01-13",
+      "filename": "7816ec618411.json"
+    },
+    "ddea2c93a779": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1839-12-16",
+      "end_date": "1843-03-31",
+      "filename": "ddea2c93a779.json"
+    },
+    "54c8836558c9": {
+      "county_id": "kys_pulaski",
+      "name": "PULASKI",
+      "start_date": "1840-03-01",
+      "end_date": "1912-03-11",
+      "filename": "54c8836558c9.json"
+    },
+    "8408cc6b0d84": {
+      "county_id": "kys_russell",
+      "name": "RUSSELL",
+      "start_date": "1840-03-01",
+      "end_date": "2000-12-31",
+      "filename": "8408cc6b0d84.json"
+    },
+    "e9f375687f15": {
+      "county_id": "kys_campbell",
+      "name": "CAMPBELL",
+      "start_date": "1840-04-30",
+      "end_date": "2000-12-31",
+      "filename": "e9f375687f15.json"
+    },
+    "c34c81ee8f19": {
+      "county_id": "kys_kenton",
+      "name": "KENTON",
+      "start_date": "1840-04-30",
+      "end_date": "1851-12-31",
+      "filename": "c34c81ee8f19.json"
+    },
+    "3ffd30ae30e4": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1841-01-28",
+      "end_date": "1842-03-31",
+      "filename": "3ffd30ae30e4.json"
+    },
+    "d8ad5535f62d": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1841-01-28",
+      "end_date": "1842-03-31",
+      "filename": "d8ad5535f62d.json"
+    },
+    "b6d8b2b45c99": {
+      "county_id": "kys_marshall",
+      "name": "MARSHALL",
+      "start_date": "1842-06-01",
+      "end_date": "2000-12-31",
+      "filename": "b6d8b2b45c99.json"
+    },
+    "fcf62a72bb65": {
+      "county_id": "kys_boyle",
+      "name": "BOYLE",
+      "start_date": "1842-03-01",
+      "end_date": "2000-12-31",
+      "filename": "fcf62a72bb65.json"
+    },
+    "eae0050c3f9d": {
+      "county_id": "kys_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1842-03-01",
+      "end_date": "2000-12-31",
+      "filename": "eae0050c3f9d.json"
+    },
+    "80cf7a97a3b1": {
+      "county_id": "kys_letcher",
+      "name": "LETCHER",
+      "start_date": "1842-04-01",
+      "end_date": "1858-02-02",
+      "filename": "80cf7a97a3b1.json"
+    },
+    "1e70c19a06d7": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1842-04-01",
+      "end_date": "1843-01-11",
+      "filename": "1e70c19a06d7.json"
+    },
+    "9e9274c5fcfa": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1842-04-01",
+      "end_date": "1852-01-08",
+      "filename": "9e9274c5fcfa.json"
+    },
+    "013344d2ef08": {
+      "county_id": "kys_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1842-04-01",
+      "end_date": "1848-02-01",
+      "filename": "013344d2ef08.json"
+    },
+    "1980ebfc05b7": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1842-04-01",
+      "end_date": "1848-02-01",
+      "filename": "1980ebfc05b7.json"
+    },
+    "e4484c96db6b": {
+      "county_id": "kys_hickman",
+      "name": "HICKMAN",
+      "start_date": "1842-05-23",
+      "end_date": "1845-03-31",
+      "filename": "e4484c96db6b.json"
+    },
+    "596eee606e0b": {
+      "county_id": "kys_ballard",
+      "name": "BALLARD",
+      "start_date": "1842-05-23",
+      "end_date": "1854-03-07",
+      "filename": "596eee606e0b.json"
+    },
+    "e3c5e3cb47b2": {
+      "county_id": "kys_mccracken",
+      "name": "McCRACKEN",
+      "start_date": "1842-05-23",
+      "end_date": "2000-12-31",
+      "filename": "e3c5e3cb47b2.json"
+    },
+    "5daa3ae63632": {
+      "county_id": "kys_calloway",
+      "name": "CALLOWAY",
+      "start_date": "1842-06-01",
+      "end_date": "2000-12-31",
+      "filename": "5daa3ae63632.json"
+    },
+    "386f5b75aef0": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1842-03-01",
+      "end_date": "1860-02-26",
+      "filename": "386f5b75aef0.json"
+    },
+    "44d28cda8f6e": {
+      "county_id": "kys_larue",
+      "name": "LARUE",
+      "start_date": "1843-03-01",
+      "end_date": "2000-12-31",
+      "filename": "44d28cda8f6e.json"
+    },
+    "955e89e04b62": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1843-04-01",
+      "end_date": "1850-03-03",
+      "filename": "955e89e04b62.json"
+    },
+    "92bed4103364": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1843-04-01",
+      "end_date": "1850-03-03",
+      "filename": "92bed4103364.json"
+    },
+    "c912c66b1f25": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1843-01-12",
+      "end_date": "1846-02-20",
+      "filename": "c912c66b1f25.json"
+    },
+    "6cbf7dd007de": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1843-01-12",
+      "end_date": "1843-05-31",
+      "filename": "6cbf7dd007de.json"
+    },
+    "a57a5474e8f6": {
+      "county_id": "kys_trimble",
+      "name": "TRIMBLE",
+      "start_date": "1843-02-15",
+      "end_date": "2000-12-31",
+      "filename": "a57a5474e8f6.json"
+    },
+    "21bbb5cf3fe4": {
+      "county_id": "kys_henry",
+      "name": "HENRY",
+      "start_date": "1843-02-15",
+      "end_date": "2000-12-31",
+      "filename": "21bbb5cf3fe4.json"
+    },
+    "80df2a8ce77c": {
+      "county_id": "kys_hardin",
+      "name": "HARDIN",
+      "start_date": "1843-03-01",
+      "end_date": "2000-12-31",
+      "filename": "80df2a8ce77c.json"
+    },
+    "74d49ae108c1": {
+      "county_id": "kys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1843-04-01",
+      "end_date": "1860-04-24",
+      "filename": "74d49ae108c1.json"
+    },
+    "64a2a3cfed82": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1843-06-01",
+      "end_date": "1852-05-09",
+      "filename": "64a2a3cfed82.json"
+    },
+    "b466652fd89d": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1843-06-01",
+      "end_date": "1846-02-20",
+      "filename": "b466652fd89d.json"
+    },
+    "ff199f72bb7c": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1843-06-01",
+      "end_date": "1854-02-28",
+      "filename": "ff199f72bb7c.json"
+    },
+    "45243a7b929d": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1843-06-01",
+      "end_date": "1850-11-21",
+      "filename": "45243a7b929d.json"
+    },
+    "2310e4f464bf": {
+      "county_id": "kys_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1848-02-02",
+      "end_date": "2000-12-31",
+      "filename": "2310e4f464bf.json"
+    },
+    "d269a9a9323b": {
+      "county_id": "kys_crittenden",
+      "name": "CRITTENDEN",
+      "start_date": "1848-02-02",
+      "end_date": "2000-12-31",
+      "filename": "d269a9a9323b.json"
+    },
+    "6c8b59a6746a": {
+      "county_id": "kys_taylor",
+      "name": "TAYLOR",
+      "start_date": "1848-03-01",
+      "end_date": "1869-03-12",
+      "filename": "6c8b59a6746a.json"
+    },
+    "8eda1830d05e": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1848-03-01",
+      "end_date": "1860-05-06",
+      "filename": "8eda1830d05e.json"
+    },
+    "3a398f9c6cdb": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1850-12-09",
+      "end_date": "1852-01-08",
+      "filename": "3a398f9c6cdb.json"
+    },
+    "bf9250a12683": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1850-12-09",
+      "end_date": "1858-02-02",
+      "filename": "bf9250a12683.json"
+    },
+    "f58e87670eec": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1850-03-04",
+      "end_date": "1852-01-08",
+      "filename": "f58e87670eec.json"
+    },
+    "31a2a06741d8": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1850-03-04",
+      "end_date": "1852-01-08",
+      "filename": "31a2a06741d8.json"
+    },
+    "806c4c76dc90": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1850-03-04",
+      "end_date": "1852-01-08",
+      "filename": "806c4c76dc90.json"
+    },
+    "546902666d6a": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1850-11-22",
+      "end_date": "1850-12-08",
+      "filename": "546902666d6a.json"
+    },
+    "f082822c7b19": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1850-11-22",
+      "end_date": "1850-12-08",
+      "filename": "f082822c7b19.json"
+    },
+    "7c66ec3dca5c": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1852-01-09",
+      "end_date": "1858-04-24",
+      "filename": "7c66ec3dca5c.json"
+    },
+    "31c7d6945a21": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1852-01-09",
+      "end_date": "1854-01-13",
+      "filename": "31c7d6945a21.json"
+    },
+    "a6987518588a": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1852-01-09",
+      "end_date": "1870-08-31",
+      "filename": "a6987518588a.json"
+    },
+    "f321fd8d4b02": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1852-01-09",
+      "end_date": "1860-04-24",
+      "filename": "f321fd8d4b02.json"
+    },
+    "a1ff5e0b09c8": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1852-05-10",
+      "end_date": "1854-02-28",
+      "filename": "a1ff5e0b09c8.json"
+    },
+    "b98fef64f3d6": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1852-01-09",
+      "end_date": "1867-07-31",
+      "filename": "b98fef64f3d6.json"
+    },
+    "6cfc1abc642c": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1852-01-01",
+      "end_date": "1867-02-26",
+      "filename": "6cfc1abc642c.json"
+    },
+    "71a7f2301e58": {
+      "county_id": "kys_kenton",
+      "name": "KENTON",
+      "start_date": "1852-01-01",
+      "end_date": "2000-12-31",
+      "filename": "71a7f2301e58.json"
+    },
+    "c392a1f39ef0": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1852-05-10",
+      "end_date": "1854-03-05",
+      "filename": "c392a1f39ef0.json"
+    },
+    "a83d49109016": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1852-05-10",
+      "end_date": "1869-04-30",
+      "filename": "a83d49109016.json"
+    },
+    "a566d7b36eb2": {
+      "county_id": "kys_clark",
+      "name": "CLARK",
+      "start_date": "1852-05-10",
+      "end_date": "2000-12-31",
+      "filename": "a566d7b36eb2.json"
+    },
+    "4202cd28d601": {
+      "county_id": "kys_bath",
+      "name": "BATH",
+      "start_date": "1854-03-06",
+      "end_date": "1869-04-30",
+      "filename": "4202cd28d601.json"
+    },
+    "238009a1f6b2": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1854-03-06",
+      "end_date": "1856-04-30",
+      "filename": "238009a1f6b2.json"
+    },
+    "1784fe7b3c40": {
+      "county_id": "kys_ballard",
+      "name": "BALLARD",
+      "start_date": "1854-03-08",
+      "end_date": "1886-05-02",
+      "filename": "1784fe7b3c40.json"
+    },
+    "b57431a67a0f": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1854-04-01",
+      "end_date": "1863-01-19",
+      "filename": "b57431a67a0f.json"
+    },
+    "508f340d1d3d": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1854-05-08",
+      "end_date": "1871-03-14",
+      "filename": "508f340d1d3d.json"
+    },
+    "57b1a6ad33ff": {
+      "county_id": "kys_daviess",
+      "name": "DAVIESS",
+      "start_date": "1854-05-08",
+      "end_date": "1860-03-01",
+      "filename": "57b1a6ad33ff.json"
+    },
+    "ddb8102f4139": {
+      "county_id": "kys_hickman",
+      "name": "HICKMAN",
+      "start_date": "1854-03-08",
+      "end_date": "2000-12-31",
+      "filename": "ddb8102f4139.json"
+    },
+    "1c74f39ccbb6": {
+      "county_id": "kys_lyon",
+      "name": "LYON",
+      "start_date": "1854-04-01",
+      "end_date": "1863-01-19",
+      "filename": "1c74f39ccbb6.json"
+    },
+    "c14dc4fcdb1a": {
+      "county_id": "kys_mclean",
+      "name": "McLEAN",
+      "start_date": "1854-05-08",
+      "end_date": "2000-12-31",
+      "filename": "c14dc4fcdb1a.json"
+    },
+    "37eda128e295": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1854-03-06",
+      "end_date": "1860-06-30",
+      "filename": "37eda128e295.json"
+    },
+    "554af7f16208": {
+      "county_id": "kys_muhlenberg",
+      "name": "MUHLENBERG",
+      "start_date": "1854-05-08",
+      "end_date": "1890-05-21",
+      "filename": "554af7f16208.json"
+    },
+    "5e4fb4e20d63": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1854-01-14",
+      "end_date": "1854-03-05",
+      "filename": "5e4fb4e20d63.json"
+    },
+    "7cc8438e4107": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1854-01-14",
+      "end_date": "1860-04-30",
+      "filename": "7cc8438e4107.json"
+    },
+    "7aafdf702e07": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1854-03-01",
+      "end_date": "1858-04-24",
+      "filename": "7aafdf702e07.json"
+    },
+    "46d430cbb055": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1854-03-01",
+      "end_date": "1858-04-24",
+      "filename": "46d430cbb055.json"
+    },
+    "becb3d6fc71b": {
+      "county_id": "kys_fleming",
+      "name": "FLEMING",
+      "start_date": "1856-05-01",
+      "end_date": "2000-12-31",
+      "filename": "becb3d6fc71b.json"
+    },
+    "78ef7bab53e9": {
+      "county_id": "kys_rowan",
+      "name": "ROWAN",
+      "start_date": "1856-05-01",
+      "end_date": "1904-02-08",
+      "filename": "78ef7bab53e9.json"
+    },
+    "5bd1fbe3f6ae": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1856-05-01",
+      "end_date": "1860-04-24",
+      "filename": "5bd1fbe3f6ae.json"
+    },
+    "5375a3ae8694": {
+      "county_id": "kys_estill",
+      "name": "ESTILL",
+      "start_date": "1858-04-25",
+      "end_date": "1870-02-28",
+      "filename": "5375a3ae8694.json"
+    },
+    "b2fb5491077d": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1858-04-25",
+      "end_date": "1860-03-02",
+      "filename": "b2fb5491077d.json"
+    },
+    "9c42b6d1c945": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1858-04-25",
+      "end_date": "1878-04-14",
+      "filename": "9c42b6d1c945.json"
+    },
+    "7ef69e17b28b": {
+      "county_id": "kys_letcher",
+      "name": "LETCHER",
+      "start_date": "1858-02-03",
+      "end_date": "1884-04-23",
+      "filename": "7ef69e17b28b.json"
+    },
+    "1822a508e212": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1858-02-03",
+      "end_date": "1878-04-14",
+      "filename": "1822a508e212.json"
+    },
+    "97a65059df12": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1858-04-25",
+      "end_date": "1871-02-23",
+      "filename": "97a65059df12.json"
+    },
+    "3999af79c3a9": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1858-04-25",
+      "end_date": "1861-04-03",
+      "filename": "3999af79c3a9.json"
+    },
+    "d85c5000708c": {
+      "county_id": "kys_jackson",
+      "name": "JACKSON",
+      "start_date": "1858-04-25",
+      "end_date": "1861-04-03",
+      "filename": "d85c5000708c.json"
+    },
+    "e11bd362ec63": {
+      "county_id": "kys_madison",
+      "name": "MADISON",
+      "start_date": "1858-04-25",
+      "end_date": "2000-12-31",
+      "filename": "e11bd362ec63.json"
+    },
+    "255ee846f855": {
+      "county_id": "kys_simpson",
+      "name": "SIMPSON",
+      "start_date": "1859-11-30",
+      "end_date": "1869-01-13",
+      "filename": "255ee846f855.json"
+    },
+    "b3e107ead92f": {
+      "county_id": "kys_union",
+      "name": "UNION",
+      "start_date": "1860-07-01",
+      "end_date": "1861-12-31",
+      "filename": "b3e107ead92f.json"
+    },
+    "19655834075d": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1860-07-01",
+      "end_date": "1870-02-28",
+      "filename": "19655834075d.json"
+    },
+    "ed6fa92953d8": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1860-07-01",
+      "end_date": "1869-04-30",
+      "filename": "ed6fa92953d8.json"
+    },
+    "b4f053b7d157": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1860-05-07",
+      "end_date": "1869-03-12",
+      "filename": "b4f053b7d157.json"
+    },
+    "04a664ffc839": {
+      "county_id": "kys_adair",
+      "name": "ADAIR",
+      "start_date": "1860-05-07",
+      "end_date": "1861-09-30",
+      "filename": "04a664ffc839.json"
+    },
+    "9959a18b1bef": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1860-05-07",
+      "end_date": "1866-02-16",
+      "filename": "9959a18b1bef.json"
+    },
+    "d9832f1273e1": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1860-05-07",
+      "end_date": "1861-12-09",
+      "filename": "d9832f1273e1.json"
+    },
+    "a384591fe490": {
+      "county_id": "kys_boyd",
+      "name": "BOYD",
+      "start_date": "1860-05-01",
+      "end_date": "2000-12-31",
+      "filename": "a384591fe490.json"
+    },
+    "bcddfa6f1c5e": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1860-05-01",
+      "end_date": "1862-03-13",
+      "filename": "bcddfa6f1c5e.json"
+    },
+    "79308c622af0": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1860-05-01",
+      "end_date": "1862-03-13",
+      "filename": "79308c622af0.json"
+    },
+    "253454a4fe78": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1860-05-01",
+      "end_date": "1861-09-19",
+      "filename": "253454a4fe78.json"
+    },
+    "e2b049d7146f": {
+      "county_id": "kys_metcalfe",
+      "name": "METCALFE",
+      "start_date": "1860-05-07",
+      "end_date": "1861-09-30",
+      "filename": "e2b049d7146f.json"
+    },
+    "2ca6a26fff11": {
+      "county_id": "kys_monroe",
+      "name": "MONROE",
+      "start_date": "1860-05-07",
+      "end_date": "2000-12-31",
+      "filename": "2ca6a26fff11.json"
+    },
+    "8be602724af0": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1860-07-01",
+      "end_date": "1865-12-17",
+      "filename": "8be602724af0.json"
+    },
+    "1170eaf1c68a": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1860-07-01",
+      "end_date": "1865-12-17",
+      "filename": "1170eaf1c68a.json"
+    },
+    "683b812937d3": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1860-07-01",
+      "end_date": "1870-02-28",
+      "filename": "683b812937d3.json"
+    },
+    "e520320e3ac4": {
+      "county_id": "kys_webster",
+      "name": "WEBSTER",
+      "start_date": "1860-07-01",
+      "end_date": "1861-12-31",
+      "filename": "e520320e3ac4.json"
+    },
+    "a566b9c57b83": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1860-07-01",
+      "end_date": "2000-12-31",
+      "filename": "a566b9c57b83.json"
+    },
+    "6f25966a2f82": {
+      "county_id": "kys_hopkins",
+      "name": "HOPKINS",
+      "start_date": "1860-07-01",
+      "end_date": "2000-12-31",
+      "filename": "6f25966a2f82.json"
+    },
+    "8208e82939ef": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1860-05-01",
+      "end_date": "1861-09-19",
+      "filename": "8208e82939ef.json"
+    },
+    "82449921a8e4": {
+      "county_id": "kys_henderson",
+      "name": "HENDERSON",
+      "start_date": "1860-03-02",
+      "end_date": "1860-06-30",
+      "filename": "82449921a8e4.json"
+    },
+    "b648f315b9ed": {
+      "county_id": "kys_owsley",
+      "name": "OWSLEY",
+      "start_date": "1860-03-03",
+      "end_date": "1860-06-30",
+      "filename": "b648f315b9ed.json"
+    },
+    "9a6314eccd09": {
+      "county_id": "kys_metcalfe",
+      "name": "METCALFE",
+      "start_date": "1861-10-01",
+      "end_date": "1866-02-16",
+      "filename": "9a6314eccd09.json"
+    },
+    "e3051abf0f70": {
+      "county_id": "kys_allen",
+      "name": "ALLEN",
+      "start_date": "1861-12-10",
+      "end_date": "2000-12-31",
+      "filename": "e3051abf0f70.json"
+    },
+    "1c7c2d7e6971": {
+      "county_id": "kys_barren",
+      "name": "BARREN",
+      "start_date": "1861-12-10",
+      "end_date": "2000-12-31",
+      "filename": "1c7c2d7e6971.json"
+    },
+    "6e3a8a28db24": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1861-04-04",
+      "end_date": "1871-02-23",
+      "filename": "6e3a8a28db24.json"
+    },
+    "3d387bd68197": {
+      "county_id": "kys_jackson",
+      "name": "JACKSON",
+      "start_date": "1861-04-04",
+      "end_date": "2000-12-31",
+      "filename": "3d387bd68197.json"
+    },
+    "570abba0dead": {
+      "county_id": "kys_union",
+      "name": "UNION",
+      "start_date": "1862-01-01",
+      "end_date": "2000-12-31",
+      "filename": "570abba0dead.json"
+    },
+    "56fd1d83cda8": {
+      "county_id": "kys_webster",
+      "name": "WEBSTER",
+      "start_date": "1862-01-01",
+      "end_date": "2000-12-31",
+      "filename": "56fd1d83cda8.json"
+    },
+    "970fd1b27246": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1862-03-14",
+      "end_date": "1865-02-21",
+      "filename": "970fd1b27246.json"
+    },
+    "c1c2485f74e1": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1862-03-14",
+      "end_date": "1865-02-21",
+      "filename": "c1c2485f74e1.json"
+    },
+    "7ce69d9b85c3": {
+      "county_id": "kys_lyon",
+      "name": "LYON",
+      "start_date": "1863-01-20",
+      "end_date": "2000-12-31",
+      "filename": "7ce69d9b85c3.json"
+    },
+    "f3584f020809": {
+      "county_id": "kys_caldwell",
+      "name": "CALDWELL",
+      "start_date": "1863-01-20",
+      "end_date": "2000-12-31",
+      "filename": "f3584f020809.json"
+    },
+    "04b43f8b71ed": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1865-12-18",
+      "end_date": "1866-02-16",
+      "filename": "04b43f8b71ed.json"
+    },
+    "7c26d8ddd4bc": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1865-06-03",
+      "end_date": "2000-12-31",
+      "filename": "7c26d8ddd4bc.json"
+    },
+    "d8ddaa161ee6": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1865-06-03",
+      "end_date": "1869-03-31",
+      "filename": "d8ddaa161ee6.json"
+    },
+    "dc6cf1195a38": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1865-12-18",
+      "end_date": "1866-02-16",
+      "filename": "dc6cf1195a38.json"
+    },
+    "17062a8898a5": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1865-02-22",
+      "end_date": "1865-06-02",
+      "filename": "17062a8898a5.json"
+    },
+    "6fbbc14505d4": {
+      "county_id": "kys_greenup",
+      "name": "GREENUP",
+      "start_date": "1865-02-22",
+      "end_date": "1865-06-02",
+      "filename": "6fbbc14505d4.json"
+    },
+    "ee889e2fbe34": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1866-02-17",
+      "end_date": "1939-12-30",
+      "filename": "ee889e2fbe34.json"
+    },
+    "171e8aebe2b2": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1866-02-17",
+      "end_date": "1868-02-19",
+      "filename": "171e8aebe2b2.json"
+    },
+    "5a2cba9f3115": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1866-02-17",
+      "end_date": "1868-02-19",
+      "filename": "5a2cba9f3115.json"
+    },
+    "f618a9ed930a": {
+      "county_id": "kys_metcalfe",
+      "name": "METCALFE",
+      "start_date": "1866-02-17",
+      "end_date": "1939-12-30",
+      "filename": "f618a9ed930a.json"
+    },
+    "d6aee9e076ed": {
+      "county_id": "kys_robertson",
+      "name": "ROBERTSON",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "d6aee9e076ed.json"
+    },
+    "26748c65975d": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1867-08-01",
+      "end_date": "1882-04-21",
+      "filename": "26748c65975d.json"
+    },
+    "3c171d1ab8b0": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1867-02-27",
+      "end_date": "1868-02-25",
+      "filename": "3c171d1ab8b0.json"
+    },
+    "07d33ca27cf3": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1867-02-27",
+      "end_date": "1868-02-25",
+      "filename": "07d33ca27cf3.json"
+    },
+    "84778e3b4bae": {
+      "county_id": "kys_mason",
+      "name": "MASON",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "84778e3b4bae.json"
+    },
+    "e79d34b2705a": {
+      "county_id": "kys_harrison",
+      "name": "HARRISON",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "e79d34b2705a.json"
+    },
+    "e52da4dce067": {
+      "county_id": "kys_nicholas",
+      "name": "NICHOLAS",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "e52da4dce067.json"
+    },
+    "f2337c8643f6": {
+      "county_id": "kys_bell",
+      "name": "JOSH BELL",
+      "start_date": "1867-08-01",
+      "end_date": "1871-01-20",
+      "filename": "f2337c8643f6.json"
+    },
+    "bc8ba4970fc7": {
+      "county_id": "kys_harlan",
+      "name": "HARLAN",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "bc8ba4970fc7.json"
+    },
+    "edf98a64810f": {
+      "county_id": "kys_knox",
+      "name": "KNOX",
+      "start_date": "1867-08-01",
+      "end_date": "2000-12-31",
+      "filename": "edf98a64810f.json"
+    },
+    "335d1435ce91": {
+      "county_id": "kys_henrietta",
+      "name": "HENRIETTA (prop)",
+      "start_date": "1867-01-26",
+      "end_date": "1867-01-26",
+      "filename": "335d1435ce91.json"
+    },
+    "271da18aaa45": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1868-02-26",
+      "end_date": "1872-02-04",
+      "filename": "271da18aaa45.json"
+    },
+    "55adc121e083": {
+      "county_id": "kys_grant",
+      "name": "GRANT",
+      "start_date": "1868-02-26",
+      "end_date": "1870-03-09",
+      "filename": "55adc121e083.json"
+    },
+    "b1dd64022bba": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1868-02-20",
+      "end_date": "1869-04-30",
+      "filename": "b1dd64022bba.json"
+    },
+    "e28a2e849782": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1868-02-20",
+      "end_date": "1869-03-31",
+      "filename": "e28a2e849782.json"
+    },
+    "a3017f703726": {
+      "county_id": "kys_menifee",
+      "name": "MENIFEE",
+      "start_date": "1869-05-01",
+      "end_date": "1880-04-21",
+      "filename": "a3017f703726.json"
+    },
+    "d1e4860c71ad": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1869-05-01",
+      "end_date": "1880-04-21",
+      "filename": "d1e4860c71ad.json"
+    },
+    "55a68acaba32": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1869-05-01",
+      "end_date": "1878-04-03",
+      "filename": "55a68acaba32.json"
+    },
+    "66bba6dd3e76": {
+      "county_id": "kys_bath",
+      "name": "BATH",
+      "start_date": "1869-05-01",
+      "end_date": "2000-12-31",
+      "filename": "66bba6dd3e76.json"
+    },
+    "3cb1651d0392": {
+      "county_id": "kys_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1869-05-01",
+      "end_date": "2000-12-31",
+      "filename": "3cb1651d0392.json"
+    },
+    "7948f43bb8df": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1869-05-01",
+      "end_date": "1870-02-28",
+      "filename": "7948f43bb8df.json"
+    },
+    "a5cb35f8325a": {
+      "county_id": "kys_logan",
+      "name": "LOGAN",
+      "start_date": "1869-01-14",
+      "end_date": "2000-12-31",
+      "filename": "a5cb35f8325a.json"
+    },
+    "26660d8f3fd6": {
+      "county_id": "kys_simpson",
+      "name": "SIMPSON",
+      "start_date": "1869-01-14",
+      "end_date": "2000-12-31",
+      "filename": "26660d8f3fd6.json"
+    },
+    "c518b564973b": {
+      "county_id": "kys_taylor",
+      "name": "TAYLOR",
+      "start_date": "1869-03-13",
+      "end_date": "1870-03-11",
+      "filename": "c518b564973b.json"
+    },
+    "c8a06684c8fb": {
+      "county_id": "kys_green",
+      "name": "GREEN",
+      "start_date": "1869-03-13",
+      "end_date": "1870-03-11",
+      "filename": "c8a06684c8fb.json"
+    },
+    "4b672f2b7497": {
+      "county_id": "kys_elliott",
+      "name": "ELLIOTT",
+      "start_date": "1869-04-01",
+      "end_date": "1904-02-08",
+      "filename": "4b672f2b7497.json"
+    },
+    "9b25c8915dc9": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1869-04-01",
+      "end_date": "1904-02-08",
+      "filename": "9b25c8915dc9.json"
+    },
+    "cf95e7eb1695": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1869-04-01",
+      "end_date": "1869-04-30",
+      "filename": "cf95e7eb1695.json"
+    },
+    "bd1287648e9b": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1869-04-01",
+      "end_date": "1870-08-31",
+      "filename": "bd1287648e9b.json"
+    },
+    "bf508bc85d1c": {
+      "county_id": "kys_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1870-09-01",
+      "end_date": "1878-03-07",
+      "filename": "bf508bc85d1c.json"
+    },
+    "f8a88fc63d8e": {
+      "county_id": "kys_johnson",
+      "name": "JOHNSON",
+      "start_date": "1870-09-01",
+      "end_date": "1878-03-19",
+      "filename": "f8a88fc63d8e.json"
+    },
+    "e36656c2c7c2": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1870-03-01",
+      "end_date": "1878-04-03",
+      "filename": "e36656c2c7c2.json"
+    },
+    "0fb27d37ad3c": {
+      "county_id": "kys_butler",
+      "name": "BUTLER",
+      "start_date": "1871-03-15",
+      "end_date": "1890-05-21",
+      "filename": "0fb27d37ad3c.json"
+    },
+    "1593a8b622f2": {
+      "county_id": "kys_bell",
+      "name": "JOSH BELL",
+      "start_date": "1871-01-21",
+      "end_date": "1873-04-30",
+      "filename": "1593a8b622f2.json"
+    },
+    "785f62259e9d": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1871-02-24",
+      "end_date": "1884-04-02",
+      "filename": "785f62259e9d.json"
+    },
+    "e7788b1b4867": {
+      "county_id": "kys_whitley",
+      "name": "WHITLEY",
+      "start_date": "1871-01-21",
+      "end_date": "1876-03-19",
+      "filename": "e7788b1b4867.json"
+    },
+    "5c606e866ef4": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1871-02-24",
+      "end_date": "1876-03-19",
+      "filename": "5c606e866ef4.json"
+    },
+    "cc9499ab90cd": {
+      "county_id": "kys_ohio",
+      "name": "OHIO",
+      "start_date": "1871-03-15",
+      "end_date": "2000-12-31",
+      "filename": "cc9499ab90cd.json"
+    },
+    "ca9b3b84b056": {
+      "county_id": "kys_carroll",
+      "name": "CARROLL",
+      "start_date": "1872-02-05",
+      "end_date": "2000-12-31",
+      "filename": "ca9b3b84b056.json"
+    },
+    "f0cab558f9fb": {
+      "county_id": "kys_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1872-02-05",
+      "end_date": "2000-12-31",
+      "filename": "f0cab558f9fb.json"
+    },
+    "3adf3fee26c4": {
+      "county_id": "kys_bell",
+      "name": "BELL",
+      "start_date": "1873-05-01",
+      "end_date": "2000-12-31",
+      "filename": "3adf3fee26c4.json"
+    },
+    "df5067e79b3b": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1878-03-20",
+      "end_date": "1884-05-14",
+      "filename": "df5067e79b3b.json"
+    },
+    "f1600ab44ec2": {
+      "county_id": "kys_morgan",
+      "name": "MORGAN",
+      "start_date": "1878-04-04",
+      "end_date": "2000-12-31",
+      "filename": "f1600ab44ec2.json"
+    },
+    "bed0f8012a02": {
+      "county_id": "kys_leslie",
+      "name": "LESLIE",
+      "start_date": "1878-04-15",
+      "end_date": "1890-03-18",
+      "filename": "bed0f8012a02.json"
+    },
+    "6233868040fa": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1878-04-15",
+      "end_date": "1884-05-14",
+      "filename": "6233868040fa.json"
+    },
+    "8ef321bb4c61": {
+      "county_id": "kys_clay",
+      "name": "CLAY",
+      "start_date": "1878-04-15",
+      "end_date": "2000-12-31",
+      "filename": "8ef321bb4c61.json"
+    },
+    "792484b9502b": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1878-04-04",
+      "end_date": "1880-04-21",
+      "filename": "792484b9502b.json"
+    },
+    "d283a962e4a4": {
+      "county_id": "kys_powell",
+      "name": "POWELL",
+      "start_date": "1880-04-22",
+      "end_date": "1888-04-29",
+      "filename": "d283a962e4a4.json"
+    },
+    "711bd14347d9": {
+      "county_id": "kys_menifee",
+      "name": "MENIFEE",
+      "start_date": "1880-04-22",
+      "end_date": "1888-04-29",
+      "filename": "711bd14347d9.json"
+    },
+    "a03428e30c07": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1880-04-22",
+      "end_date": "1886-04-06",
+      "filename": "a03428e30c07.json"
+    },
+    "a3fb7028629a": {
+      "county_id": "kys_pendleton",
+      "name": "PENDLETON",
+      "start_date": "1882-04-22",
+      "end_date": "2000-12-31",
+      "filename": "a3fb7028629a.json"
+    },
+    "23f0629356ac": {
+      "county_id": "kys_bracken",
+      "name": "BRACKEN",
+      "start_date": "1882-04-22",
+      "end_date": "2000-12-31",
+      "filename": "23f0629356ac.json"
+    },
+    "a60acde35f67": {
+      "county_id": "kys_breathitt",
+      "name": "BREATHITT",
+      "start_date": "1884-05-15",
+      "end_date": "1886-04-06",
+      "filename": "a60acde35f67.json"
+    },
+    "3eacae070c0c": {
+      "county_id": "kys_knott",
+      "name": "KNOTT",
+      "start_date": "1884-05-15",
+      "end_date": "1890-05-11",
+      "filename": "3eacae070c0c.json"
+    },
+    "63e623e78a51": {
+      "county_id": "kys_floyd",
+      "name": "FLOYD",
+      "start_date": "1884-05-15",
+      "end_date": "1888-01-11",
+      "filename": "63e623e78a51.json"
+    },
+    "ddde81fc2173": {
+      "county_id": "kys_letcher",
+      "name": "LETCHER",
+      "start_date": "1884-05-15",
+      "end_date": "2000-12-31",
+      "filename": "ddde81fc2173.json"
+    },
+    "815340689cf1": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1884-05-15",
+      "end_date": "1890-03-18",
+      "filename": "815340689cf1.json"
+    },
+    "763bc8bb8361": {
+      "county_id": "kys_laurel",
+      "name": "LAUREL",
+      "start_date": "1884-04-03",
+      "end_date": "2000-12-31",
+      "filename": "763bc8bb8361.json"
+    },
+    "7ea55feef8c1": {
+      "county_id": "kys_rockcastle",
+      "name": "ROCKCASTLE",
+      "start_date": "1884-04-03",
+      "end_date": "2000-12-31",
+      "filename": "7ea55feef8c1.json"
+    },
+    "928dce4f7e2d": {
+      "county_id": "kys_pike",
+      "name": "PIKE",
+      "start_date": "1884-04-24",
+      "end_date": "1888-01-11",
+      "filename": "928dce4f7e2d.json"
+    },
+    "bc7bcec97361": {
+      "county_id": "kys_letcher",
+      "name": "LETCHER",
+      "start_date": "1884-04-24",
+      "end_date": "1884-05-14",
+      "filename": "bc7bcec97361.json"
+    },
+    "7826df9d7727": {
+      "county_id": "kys_carlisle",
+      "name": "CARLISLE",
+      "start_date": "1886-05-03",
+      "end_date": "2000-12-31",
+      "filename": "7826df9d7727.json"
+    },
+    "63b2b6a254c6": {
+      "county_id": "kys_wolfe",
+      "name": "WOLFE",
+      "start_date": "1890-05-24",
+      "end_date": "2000-12-31",
+      "filename": "63b2b6a254c6.json"
+    },
+    "338fc9b86b05": {
+      "county_id": "kys_lee",
+      "name": "LEE",
+      "start_date": "1890-05-24",
+      "end_date": "2000-12-31",
+      "filename": "338fc9b86b05.json"
+    },
+    "871d1fd39d0f": {
+      "county_id": "kys_anderson",
+      "name": "ANDERSON",
+      "start_date": "1890-05-26",
+      "end_date": "2000-12-31",
+      "filename": "871d1fd39d0f.json"
+    },
+    "dad6b767fd25": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1890-05-26",
+      "end_date": "2000-12-31",
+      "filename": "dad6b767fd25.json"
+    },
+    "f80cbaa6b49c": {
+      "county_id": "kys_mercer",
+      "name": "MERCER",
+      "start_date": "1890-04-15",
+      "end_date": "1890-05-25",
+      "filename": "f80cbaa6b49c.json"
+    },
+    "339775649520": {
+      "county_id": "kys_anderson",
+      "name": "ANDERSON",
+      "start_date": "1890-04-15",
+      "end_date": "1890-05-25",
+      "filename": "339775649520.json"
+    },
+    "2ec41630e932": {
+      "county_id": "kys_leslie",
+      "name": "LESLIE",
+      "start_date": "1890-03-19",
+      "end_date": "2000-12-31",
+      "filename": "2ec41630e932.json"
+    },
+    "b3c725cbcf7e": {
+      "county_id": "kys_perry",
+      "name": "PERRY",
+      "start_date": "1890-03-19",
+      "end_date": "1890-05-11",
+      "filename": "b3c725cbcf7e.json"
+    },
+    "36a9f72e1328": {
+      "county_id": "kys_washington",
+      "name": "WASHINGTON",
+      "start_date": "1890-04-15",
+      "end_date": "2000-12-31",
+      "filename": "36a9f72e1328.json"
+    },
+    "cdec93c7fb3e": {
+      "county_id": "kys_lewis",
+      "name": "LEWIS",
+      "start_date": "1904-04-29",
+      "end_date": "2000-12-31",
+      "filename": "cdec93c7fb3e.json"
+    },
+    "dbc1baae0cea": {
+      "county_id": "kys_elliott",
+      "name": "ELLIOTT",
+      "start_date": "1904-04-29",
+      "end_date": "2000-12-31",
+      "filename": "dbc1baae0cea.json"
+    },
+    "891198af9ab2": {
+      "county_id": "kys_carter",
+      "name": "CARTER",
+      "start_date": "1904-04-29",
+      "end_date": "2000-12-31",
+      "filename": "891198af9ab2.json"
+    },
+    "6b61d8383e57": {
+      "county_id": "kys_metcalfe",
+      "name": "METCALFE",
+      "start_date": "1939-12-31",
+      "end_date": "2000-12-31",
+      "filename": "6b61d8383e57.json"
+    },
+    "c1c44db7bd12": {
+      "county_id": "kys_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1939-12-31",
+      "end_date": "2000-12-31",
+      "filename": "c1c44db7bd12.json"
+    },
+    "bcf91e8304cb": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA (Va.)",
+      "start_date": "1738-12-15",
+      "end_date": "1754-04-30",
+      "filename": "bcf91e8304cb.json"
+    },
+    "159e9d1c92e5": {
+      "county_id": "vas_augusta",
+      "name": "AUGUSTA (Va.)",
+      "start_date": "1754-05-01",
+      "end_date": "1770-01-30",
+      "filename": "159e9d1c92e5.json"
+    },
+    "15cc7fa384c4": {
+      "county_id": "vas_botetourt",
+      "name": "BOTETOURT (Va.)",
+      "start_date": "1770-01-31",
+      "end_date": "1772-11-30",
+      "filename": "15cc7fa384c4.json"
+    },
+    "52216b410b7b": {
+      "county_id": "vas_fincastle",
+      "name": "FINCASTLE (Va., ext)",
+      "start_date": "1772-12-01",
+      "end_date": "1776-12-30",
+      "filename": "52216b410b7b.json"
+    },
+    "2f8036a4893d": {
+      "county_id": "vas_orange",
+      "name": "ORANGE (Va.)",
+      "start_date": "1735-01-01",
+      "end_date": "1738-12-14",
+      "filename": "2f8036a4893d.json"
+    }
+  }
+}

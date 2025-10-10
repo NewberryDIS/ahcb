@@ -1,0 +1,2393 @@
+{
+  "state": "KS",
+  "total_features": 341,
+  "features": {
+    "2075254efae0": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "2075254efae0.json"
+    },
+    "f3ebee895a02": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "f3ebee895a02.json"
+    },
+    "ed3ffb673468": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "ed3ffb673468.json"
+    },
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "2a0cd9a030a7": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "2a0cd9a030a7.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "d425265babbb": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "d425265babbb.json"
+    },
+    "47e5784ac5e0": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1819-02-21",
+      "filename": "47e5784ac5e0.json"
+    },
+    "5dab549f33df": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-02-22",
+      "end_date": "1821-08-09",
+      "filename": "5dab549f33df.json"
+    },
+    "6e585f995e9a": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1819-02-22",
+      "end_date": "1836-12-18",
+      "filename": "6e585f995e9a.json"
+    },
+    "b05cab157d34": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1850-12-12",
+      "filename": "b05cab157d34.json"
+    },
+    "2d297d3d8940": {
+      "county_id": "txs_bexarpart",
+      "name": "BEXAR (Tex.)",
+      "start_date": "1836-12-19",
+      "end_date": "1848-03-14",
+      "filename": "2d297d3d8940.json"
+    },
+    "baf94be9f580": {
+      "county_id": "mos_buchanan",
+      "name": "BUCHANAN (Mo.)",
+      "start_date": "1838-12-31",
+      "end_date": "1950-08-02",
+      "filename": "baf94be9f580.json"
+    },
+    "126a473bb8e5": {
+      "county_id": "txs_santafepart",
+      "name": "SANTA FE (Tex., ext)",
+      "start_date": "1848-03-15",
+      "end_date": "1850-12-12",
+      "filename": "126a473bb8e5.json"
+    },
+    "546664cfc089": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1854-05-29",
+      "filename": "546664cfc089.json"
+    },
+    "8cbd62991af1": {
+      "county_id": "kst",
+      "name": "Kansas Terr.",
+      "start_date": "1854-05-30",
+      "end_date": "1855-08-24",
+      "filename": "8cbd62991af1.json"
+    },
+    "1131dfd689bf": {
+      "county_id": "kss_anderson",
+      "name": "ANDERSON",
+      "start_date": "1855-08-25",
+      "end_date": "2000-12-31",
+      "filename": "1131dfd689bf.json"
+    },
+    "40cf376c3950": {
+      "county_id": "kss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1855-08-25",
+      "end_date": "2000-12-31",
+      "filename": "40cf376c3950.json"
+    },
+    "a132dc254145": {
+      "county_id": "kss_linn",
+      "name": "LINN",
+      "start_date": "1855-08-25",
+      "end_date": "2000-12-31",
+      "filename": "a132dc254145.json"
+    },
+    "71da77ebdad6": {
+      "county_id": "kss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1855-08-25",
+      "end_date": "2000-12-31",
+      "filename": "71da77ebdad6.json"
+    },
+    "639521e7b243": {
+      "county_id": "kss_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1855-08-25",
+      "end_date": "2000-12-31",
+      "filename": "639521e7b243.json"
+    },
+    "6b3619cb7e3b": {
+      "county_id": "kss_cherokee",
+      "name": "McGEE",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-17",
+      "filename": "6b3619cb7e3b.json"
+    },
+    "e77e90ec1ee1": {
+      "county_id": "kss_bourbon",
+      "name": "BOURBON",
+      "start_date": "1855-08-25",
+      "end_date": "1867-02-12",
+      "filename": "e77e90ec1ee1.json"
+    },
+    "44321b7433dd": {
+      "county_id": "kss_miami",
+      "name": "LYKINS",
+      "start_date": "1855-08-25",
+      "end_date": "1861-06-02",
+      "filename": "44321b7433dd.json"
+    },
+    "4ac0c9ad3d2b": {
+      "county_id": "kss_johnson",
+      "name": "JOHNSON",
+      "start_date": "1855-08-25",
+      "end_date": "1859-01-28",
+      "filename": "4ac0c9ad3d2b.json"
+    },
+    "fe79a81e54a5": {
+      "county_id": "kss_leavenworth",
+      "name": "LEAVENWORTH",
+      "start_date": "1855-08-25",
+      "end_date": "1859-01-28",
+      "filename": "fe79a81e54a5.json"
+    },
+    "62a3f51994d2": {
+      "county_id": "kss_woodson",
+      "name": "WOODSON",
+      "start_date": "1855-08-25",
+      "end_date": "1861-06-02",
+      "filename": "62a3f51994d2.json"
+    },
+    "048d7fae4847": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-26",
+      "filename": "048d7fae4847.json"
+    },
+    "aadb877a762c": {
+      "county_id": "kss_neosho",
+      "name": "DORN",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-26",
+      "filename": "aadb877a762c.json"
+    },
+    "775df7da245e": {
+      "county_id": "kss_hunter",
+      "name": "HUNTER (ext)",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-26",
+      "filename": "775df7da245e.json"
+    },
+    "1aa2f866345a": {
+      "county_id": "kss_seward01",
+      "name": "GODFREY",
+      "start_date": "1855-08-25",
+      "end_date": "1861-06-02",
+      "filename": "1aa2f866345a.json"
+    },
+    "62245fbe6117": {
+      "county_id": "kss_allen",
+      "name": "ALLEN",
+      "start_date": "1855-08-25",
+      "end_date": "1865-02-12",
+      "filename": "62245fbe6117.json"
+    },
+    "ff623014b218": {
+      "county_id": "kst_madison",
+      "name": "MADISON (Ks. Terr)",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-06",
+      "filename": "ff623014b218.json"
+    },
+    "30666e6638c8": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-26",
+      "filename": "30666e6638c8.json"
+    },
+    "b458d5246353": {
+      "county_id": "kss_lyon",
+      "name": "BRECKENRIDGE",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-06",
+      "filename": "b458d5246353.json"
+    },
+    "c21fb8657359": {
+      "county_id": "kss_wabaunsee",
+      "name": "RICHARDSON",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-10",
+      "filename": "c21fb8657359.json"
+    },
+    "08f48fd326d6": {
+      "county_id": "kss_osage",
+      "name": "WELLER",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-10",
+      "filename": "08f48fd326d6.json"
+    },
+    "8b11c1dd10d2": {
+      "county_id": "kss_coffey",
+      "name": "COFFEY",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-26",
+      "filename": "8b11c1dd10d2.json"
+    },
+    "a06a8ad6afb8": {
+      "county_id": "kss_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1855-08-25",
+      "end_date": "1865-02-10",
+      "filename": "a06a8ad6afb8.json"
+    },
+    "e7c9454dc619": {
+      "county_id": "kss_jackson",
+      "name": "CALHOUN",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "e7c9454dc619.json"
+    },
+    "caa6afde1d24": {
+      "county_id": "kss_shawnee",
+      "name": "SHAWNEE",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-22",
+      "filename": "caa6afde1d24.json"
+    },
+    "e76320c97efa": {
+      "county_id": "kss_morris",
+      "name": "WISE",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-10",
+      "filename": "e76320c97efa.json"
+    },
+    "6ec00d235f2d": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-10",
+      "filename": "6ec00d235f2d.json"
+    },
+    "d57cd8a99993": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-10",
+      "filename": "d57cd8a99993.json"
+    },
+    "4e36b36cc585": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1855-08-25",
+      "end_date": "1860-02-16",
+      "filename": "4e36b36cc585.json"
+    },
+    "1835ce903b98": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "1835ce903b98.json"
+    },
+    "552c430b141b": {
+      "county_id": "kss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "552c430b141b.json"
+    },
+    "92fae288c333": {
+      "county_id": "kss_brown",
+      "name": "BROWN",
+      "start_date": "1855-08-25",
+      "end_date": "1868-02-29",
+      "filename": "92fae288c333.json"
+    },
+    "885ab42da377": {
+      "county_id": "kss_atchison",
+      "name": "ATCHISON",
+      "start_date": "1855-08-25",
+      "end_date": "1950-08-02",
+      "filename": "885ab42da377.json"
+    },
+    "57351e40d60e": {
+      "county_id": "kss_doniphan",
+      "name": "DONIPHAN",
+      "start_date": "1855-08-25",
+      "end_date": "1950-08-02",
+      "filename": "57351e40d60e.json"
+    },
+    "8de31f61d2d2": {
+      "county_id": "kst_arapahoe",
+      "name": "ARAPAHOE (Ks. Terr)",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-28",
+      "filename": "8de31f61d2d2.json"
+    },
+    "4f69b65fe000": {
+      "county_id": "kss_nca1",
+      "name": "NCA 1",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "4f69b65fe000.json"
+    },
+    "96483a287a7c": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "96483a287a7c.json"
+    },
+    "182c54686590": {
+      "county_id": "kss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "182c54686590.json"
+    },
+    "c76501edb47a": {
+      "county_id": "kss_clay",
+      "name": "CLAY",
+      "start_date": "1857-02-20",
+      "end_date": "2000-12-31",
+      "filename": "c76501edb47a.json"
+    },
+    "2fefd8eb17a4": {
+      "county_id": "kss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1857-02-20",
+      "end_date": "2000-12-31",
+      "filename": "2fefd8eb17a4.json"
+    },
+    "5b154174780f": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1857-02-20",
+      "end_date": "1860-02-23",
+      "filename": "5b154174780f.json"
+    },
+    "b04bc17ef1c3": {
+      "county_id": "kss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1857-02-20",
+      "end_date": "1865-02-10",
+      "filename": "b04bc17ef1c3.json"
+    },
+    "70b6d6be82ba": {
+      "county_id": "kss_jackson",
+      "name": "CALHOUN",
+      "start_date": "1857-02-20",
+      "end_date": "1859-02-10",
+      "filename": "70b6d6be82ba.json"
+    },
+    "566b66ecdd6e": {
+      "county_id": "kss_dickinson",
+      "name": "DICKINSON",
+      "start_date": "1857-02-20",
+      "end_date": "1860-02-23",
+      "filename": "566b66ecdd6e.json"
+    },
+    "3133800f4636": {
+      "county_id": "kss_pottawatomie",
+      "name": "POTTAWATOMIE",
+      "start_date": "1857-02-20",
+      "end_date": "1860-02-22",
+      "filename": "3133800f4636.json"
+    },
+    "969dd3da7673": {
+      "county_id": "kss_nca3",
+      "name": "NCA 3",
+      "start_date": "1857-02-20",
+      "end_date": "1859-02-10",
+      "filename": "969dd3da7673.json"
+    },
+    "8b6134edc8cb": {
+      "county_id": "kss_nca1",
+      "name": "NCA 1",
+      "start_date": "1857-02-20",
+      "end_date": "1859-02-10",
+      "filename": "8b6134edc8cb.json"
+    },
+    "78fa8251dcbe": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1857-02-20",
+      "end_date": "1859-02-10",
+      "filename": "78fa8251dcbe.json"
+    },
+    "c565eafc4fe9": {
+      "county_id": "kss_wyandotte",
+      "name": "WYANDOTTE",
+      "start_date": "1859-01-29",
+      "end_date": "2000-12-31",
+      "filename": "c565eafc4fe9.json"
+    },
+    "c2a17dba7b39": {
+      "county_id": "kss_johnson",
+      "name": "JOHNSON",
+      "start_date": "1859-01-29",
+      "end_date": "2000-12-31",
+      "filename": "c2a17dba7b39.json"
+    },
+    "531240b694f6": {
+      "county_id": "kss_leavenworth",
+      "name": "LEAVENWORTH",
+      "start_date": "1859-01-29",
+      "end_date": "2000-12-31",
+      "filename": "531240b694f6.json"
+    },
+    "d56e32068410": {
+      "county_id": "kss_jackson",
+      "name": "JACKSON",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-22",
+      "filename": "d56e32068410.json"
+    },
+    "ef0569dbd407": {
+      "county_id": "kss_lyon",
+      "name": "BRECKENRIDGE",
+      "start_date": "1859-02-07",
+      "end_date": "1860-02-26",
+      "filename": "ef0569dbd407.json"
+    },
+    "f0f070a464d8": {
+      "county_id": "kst_madison",
+      "name": "MADISON (Ks. Terr)",
+      "start_date": "1859-02-07",
+      "end_date": "1860-02-26",
+      "filename": "f0f070a464d8.json"
+    },
+    "fa848126a90c": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-16",
+      "filename": "fa848126a90c.json"
+    },
+    "c46163e6b2fc": {
+      "county_id": "kss_chase",
+      "name": "CHASE",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-16",
+      "filename": "c46163e6b2fc.json"
+    },
+    "0806a4bbebe3": {
+      "county_id": "kss_morris",
+      "name": "MORRIS",
+      "start_date": "1859-02-11",
+      "end_date": "1864-02-15",
+      "filename": "0806a4bbebe3.json"
+    },
+    "77415efdd39f": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-26",
+      "filename": "77415efdd39f.json"
+    },
+    "bd53aa121d1f": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-16",
+      "filename": "bd53aa121d1f.json"
+    },
+    "a77fb2bb45dc": {
+      "county_id": "kss_osage",
+      "name": "OSAGE",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-22",
+      "filename": "a77fb2bb45dc.json"
+    },
+    "1b3ec7dc7543": {
+      "county_id": "kss_nca4",
+      "name": "NCA 4",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-16",
+      "filename": "1b3ec7dc7543.json"
+    },
+    "83f824017e55": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1859-02-11",
+      "end_date": "1860-02-14",
+      "filename": "83f824017e55.json"
+    },
+    "8a74f25f418b": {
+      "county_id": "kst_montana",
+      "name": "MONTANA (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "8a74f25f418b.json"
+    },
+    "ed2998de77f4": {
+      "county_id": "kst_elpaso",
+      "name": "EL PASO (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "ed2998de77f4.json"
+    },
+    "59c883f15879": {
+      "county_id": "kst_fremont",
+      "name": "FREMONT (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "59c883f15879.json"
+    },
+    "63844c921579": {
+      "county_id": "kst_broderick",
+      "name": "BRODERICK (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "63844c921579.json"
+    },
+    "b8862ea0dcbb": {
+      "county_id": "kst_arapahoe",
+      "name": "ARAPAHOE (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "b8862ea0dcbb.json"
+    },
+    "25eb5cc03de4": {
+      "county_id": "kst_oro",
+      "name": "ORO (Ks. Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "25eb5cc03de4.json"
+    },
+    "1dbbf99988c6": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1860-02-17",
+      "end_date": "1860-02-20",
+      "filename": "1dbbf99988c6.json"
+    },
+    "70f4e777fc66": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1860-02-17",
+      "end_date": "1864-02-15",
+      "filename": "70f4e777fc66.json"
+    },
+    "de640d91db16": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1860-02-17",
+      "end_date": "1860-02-23",
+      "filename": "de640d91db16.json"
+    },
+    "146178eb57c1": {
+      "county_id": "kss_chase",
+      "name": "CHASE",
+      "start_date": "1860-02-17",
+      "end_date": "1860-02-26",
+      "filename": "146178eb57c1.json"
+    },
+    "6d72407ef107": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1860-02-17",
+      "end_date": "1865-02-21",
+      "filename": "6d72407ef107.json"
+    },
+    "9fdb479e227e": {
+      "county_id": "kss_otoe",
+      "name": "OTOE (ext)",
+      "start_date": "1860-02-17",
+      "end_date": "1864-02-23",
+      "filename": "9fdb479e227e.json"
+    },
+    "afb9d9be8593": {
+      "county_id": "kss_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1860-02-18",
+      "end_date": "1860-02-26",
+      "filename": "afb9d9be8593.json"
+    },
+    "35ff58ccf164": {
+      "county_id": "kss_pottawatomie",
+      "name": "POTTAWATOMIE",
+      "start_date": "1860-02-23",
+      "end_date": "2000-12-31",
+      "filename": "35ff58ccf164.json"
+    },
+    "6fc041c91d95": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1860-02-24",
+      "end_date": "1861-01-29",
+      "filename": "6fc041c91d95.json"
+    },
+    "1fa64f6fbf7d": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1860-02-24",
+      "end_date": "1861-01-29",
+      "filename": "1fa64f6fbf7d.json"
+    },
+    "128eca6e4098": {
+      "county_id": "kss_dickinson",
+      "name": "DICKINSON",
+      "start_date": "1860-02-24",
+      "end_date": "1864-02-15",
+      "filename": "128eca6e4098.json"
+    },
+    "8ab27096db64": {
+      "county_id": "kss_nca5",
+      "name": "NCA 5",
+      "start_date": "1860-02-21",
+      "end_date": "1860-02-26",
+      "filename": "8ab27096db64.json"
+    },
+    "79454f8b3573": {
+      "county_id": "kss_peketon",
+      "name": "PEKETON (ext)",
+      "start_date": "1860-02-21",
+      "end_date": "1861-01-28",
+      "filename": "79454f8b3573.json"
+    },
+    "2f8ebde9a6ab": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1860-02-21",
+      "end_date": "1860-02-26",
+      "filename": "2f8ebde9a6ab.json"
+    },
+    "7d65b8ba0c9c": {
+      "county_id": "kss_osage",
+      "name": "OSAGE",
+      "start_date": "1860-02-23",
+      "end_date": "1860-02-26",
+      "filename": "7d65b8ba0c9c.json"
+    },
+    "1cad7a8b0a1a": {
+      "county_id": "kss_jackson",
+      "name": "JACKSON",
+      "start_date": "1860-02-23",
+      "end_date": "1868-02-29",
+      "filename": "1cad7a8b0a1a.json"
+    },
+    "5eba22dfe265": {
+      "county_id": "kss_shawnee",
+      "name": "SHAWNEE",
+      "start_date": "1860-02-23",
+      "end_date": "1868-02-29",
+      "filename": "5eba22dfe265.json"
+    },
+    "94eef8f1cbf4": {
+      "county_id": "kss_ottawa",
+      "name": "OTTAWA",
+      "start_date": "1860-02-27",
+      "end_date": "2000-12-31",
+      "filename": "94eef8f1cbf4.json"
+    },
+    "33e6155c26fd": {
+      "county_id": "kss_republic",
+      "name": "REPUBLIC",
+      "start_date": "1860-02-27",
+      "end_date": "2000-12-31",
+      "filename": "33e6155c26fd.json"
+    },
+    "983243c9fb2c": {
+      "county_id": "kss_cloud",
+      "name": "SHIRLEY",
+      "start_date": "1860-02-27",
+      "end_date": "1867-02-25",
+      "filename": "983243c9fb2c.json"
+    },
+    "a1a23ce29966": {
+      "county_id": "kss_coffey",
+      "name": "COFFEY",
+      "start_date": "1860-02-27",
+      "end_date": "2000-12-31",
+      "filename": "a1a23ce29966.json"
+    },
+    "c187ae3e61ff": {
+      "county_id": "kss_osage",
+      "name": "OSAGE",
+      "start_date": "1860-02-27",
+      "end_date": "2000-12-31",
+      "filename": "c187ae3e61ff.json"
+    },
+    "4e77e98eca8b": {
+      "county_id": "kss_nca5",
+      "name": "NCA 5",
+      "start_date": "1860-02-27",
+      "end_date": "1864-02-23",
+      "filename": "4e77e98eca8b.json"
+    },
+    "9d5cb1feb7bc": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1860-02-27",
+      "end_date": "1864-02-23",
+      "filename": "9d5cb1feb7bc.json"
+    },
+    "880e329fa535": {
+      "county_id": "kss_hunter",
+      "name": "HUNTER (ext)",
+      "start_date": "1860-02-27",
+      "end_date": "1864-02-23",
+      "filename": "880e329fa535.json"
+    },
+    "839a0e723a2f": {
+      "county_id": "kss_irving",
+      "name": "IRVING (ext)",
+      "start_date": "1860-02-27",
+      "end_date": "1864-02-23",
+      "filename": "839a0e723a2f.json"
+    },
+    "a9198dadea21": {
+      "county_id": "kss_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1860-02-27",
+      "end_date": "1866-03-19",
+      "filename": "a9198dadea21.json"
+    },
+    "888150b5ecc9": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1860-02-27",
+      "end_date": "1861-06-02",
+      "filename": "888150b5ecc9.json"
+    },
+    "80fba1009b1a": {
+      "county_id": "kss_neosho",
+      "name": "DORN",
+      "start_date": "1860-02-27",
+      "end_date": "1861-06-02",
+      "filename": "80fba1009b1a.json"
+    },
+    "0c575e5f90e2": {
+      "county_id": "kss_lyon",
+      "name": "BRECKENRIDGE",
+      "start_date": "1860-02-27",
+      "end_date": "1861-01-30",
+      "filename": "0c575e5f90e2.json"
+    },
+    "c2b44b84cb56": {
+      "county_id": "kst_madison",
+      "name": "MADISON (Ks. Terr)",
+      "start_date": "1860-02-27",
+      "end_date": "1861-01-30",
+      "filename": "c2b44b84cb56.json"
+    },
+    "fa8b5862c25d": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1860-02-27",
+      "end_date": "1861-01-30",
+      "filename": "fa8b5862c25d.json"
+    },
+    "a3469607a0f3": {
+      "county_id": "kss_chase",
+      "name": "CHASE",
+      "start_date": "1860-02-27",
+      "end_date": "1864-02-23",
+      "filename": "a3469607a0f3.json"
+    },
+    "8b11b8e3ca45": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1860-02-27",
+      "end_date": "1861-01-28",
+      "filename": "8b11b8e3ca45.json"
+    },
+    "a30275d352f5": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1860-02-15",
+      "end_date": "1860-02-16",
+      "filename": "a30275d352f5.json"
+    },
+    "e9bb683b6691": {
+      "county_id": "kss_saline",
+      "name": "SALINE",
+      "start_date": "1860-02-15",
+      "end_date": "1867-02-24",
+      "filename": "e9bb683b6691.json"
+    },
+    "afb9f258675e": {
+      "county_id": "kss_miami",
+      "name": "MIAMI",
+      "start_date": "1861-06-03",
+      "end_date": "2000-12-31",
+      "filename": "afb9f258675e.json"
+    },
+    "bafe087ceaed": {
+      "county_id": "kss_seward01",
+      "name": "SEWARD (orig., ext)",
+      "start_date": "1861-06-03",
+      "end_date": "1864-02-23",
+      "filename": "bafe087ceaed.json"
+    },
+    "f9831ba91555": {
+      "county_id": "kss_nca2",
+      "name": "NCA 2",
+      "start_date": "1861-01-29",
+      "end_date": "1867-02-25",
+      "filename": "f9831ba91555.json"
+    },
+    "0a1e320fddef": {
+      "county_id": "kss_peketon",
+      "name": "PEKETON (ext)",
+      "start_date": "1861-01-29",
+      "end_date": "1865-02-21",
+      "filename": "0a1e320fddef.json"
+    },
+    "e4720cc0973f": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1861-01-30",
+      "end_date": "1871-03-09",
+      "filename": "e4720cc0973f.json"
+    },
+    "f6fced79e9af": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1861-01-30",
+      "end_date": "1864-02-15",
+      "filename": "f6fced79e9af.json"
+    },
+    "52f078d3b611": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1861-01-31",
+      "end_date": "1864-02-23",
+      "filename": "52f078d3b611.json"
+    },
+    "d5ac2e99fbc6": {
+      "county_id": "kss_lyon",
+      "name": "BRECKENRIDGE",
+      "start_date": "1861-01-31",
+      "end_date": "1862-03-06",
+      "filename": "d5ac2e99fbc6.json"
+    },
+    "2d0ddedc8b70": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1861-06-03",
+      "end_date": "1865-02-12",
+      "filename": "2d0ddedc8b70.json"
+    },
+    "41c5cf13372b": {
+      "county_id": "kss_woodson",
+      "name": "WOODSON",
+      "start_date": "1861-06-03",
+      "end_date": "1868-03-02",
+      "filename": "41c5cf13372b.json"
+    },
+    "16690c3bdba1": {
+      "county_id": "kss_neosho",
+      "name": "NEOSHO",
+      "start_date": "1861-06-03",
+      "end_date": "1865-02-12",
+      "filename": "16690c3bdba1.json"
+    },
+    "547471ecd04b": {
+      "county_id": "kss_lyon",
+      "name": "LYON",
+      "start_date": "1862-03-07",
+      "end_date": "1864-02-15",
+      "filename": "547471ecd04b.json"
+    },
+    "8e3b90cbcba8": {
+      "county_id": "kss_lyon",
+      "name": "LYON",
+      "start_date": "1864-02-16",
+      "end_date": "2000-12-31",
+      "filename": "8e3b90cbcba8.json"
+    },
+    "8858f28976e2": {
+      "county_id": "kss_dickinson",
+      "name": "DICKINSON",
+      "start_date": "1864-02-16",
+      "end_date": "1867-02-24",
+      "filename": "8858f28976e2.json"
+    },
+    "29d749837461": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1864-02-16",
+      "end_date": "1873-03-19",
+      "filename": "29d749837461.json"
+    },
+    "f347e5115762": {
+      "county_id": "kss_morris",
+      "name": "MORRIS",
+      "start_date": "1864-02-16",
+      "end_date": "1868-03-02",
+      "filename": "f347e5115762.json"
+    },
+    "56a5be7724bd": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1864-02-16",
+      "end_date": "1868-03-02",
+      "filename": "56a5be7724bd.json"
+    },
+    "bbcaa8b86542": {
+      "county_id": "kss_seward01",
+      "name": "SEWARD (orig., ext)",
+      "start_date": "1864-02-24",
+      "end_date": "1867-02-25",
+      "filename": "bbcaa8b86542.json"
+    },
+    "a8aef06c2af6": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1864-02-24",
+      "end_date": "1865-02-10",
+      "filename": "a8aef06c2af6.json"
+    },
+    "cbd0f9be6377": {
+      "county_id": "kss_chase",
+      "name": "CHASE",
+      "start_date": "1864-02-24",
+      "end_date": "1868-03-02",
+      "filename": "cbd0f9be6377.json"
+    },
+    "ab1954712ce6": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1864-02-24",
+      "end_date": "1865-02-10",
+      "filename": "ab1954712ce6.json"
+    },
+    "d359e2784d14": {
+      "county_id": "kss_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1865-02-11",
+      "end_date": "2000-12-31",
+      "filename": "d359e2784d14.json"
+    },
+    "89492d5fb00c": {
+      "county_id": "kss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1865-02-11",
+      "end_date": "2000-12-31",
+      "filename": "89492d5fb00c.json"
+    },
+    "027ab9c1259c": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1865-02-11",
+      "end_date": "1867-02-25",
+      "filename": "027ab9c1259c.json"
+    },
+    "00a0639f4b87": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1865-02-11",
+      "end_date": "1867-02-25",
+      "filename": "00a0639f4b87.json"
+    },
+    "2e05869c1e74": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1865-02-13",
+      "end_date": "1866-03-19",
+      "filename": "2e05869c1e74.json"
+    },
+    "720bd5c271f5": {
+      "county_id": "kss_neosho",
+      "name": "NEOSHO",
+      "start_date": "1865-02-13",
+      "end_date": "1866-03-19",
+      "filename": "720bd5c271f5.json"
+    },
+    "7aabd8fdea77": {
+      "county_id": "kss_allen",
+      "name": "ALLEN",
+      "start_date": "1865-02-13",
+      "end_date": "1870-03-23",
+      "filename": "7aabd8fdea77.json"
+    },
+    "4f90a93623d1": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1865-02-22",
+      "end_date": "1867-02-25",
+      "filename": "4f90a93623d1.json"
+    },
+    "5851f13bba31": {
+      "county_id": "kss_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1866-03-20",
+      "end_date": "1867-02-06",
+      "filename": "5851f13bba31.json"
+    },
+    "51a425352d16": {
+      "county_id": "kss_neosho",
+      "name": "NEOSHO",
+      "start_date": "1866-03-20",
+      "end_date": "1867-02-06",
+      "filename": "51a425352d16.json"
+    },
+    "df1eab8e98e7": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1866-03-20",
+      "end_date": "1867-02-25",
+      "filename": "df1eab8e98e7.json"
+    },
+    "4da32722cc19": {
+      "county_id": "kss_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1867-02-13",
+      "end_date": "2000-12-31",
+      "filename": "4da32722cc19.json"
+    },
+    "d5c4fda76bf7": {
+      "county_id": "kss_cowley",
+      "name": "COWLEY",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "d5c4fda76bf7.json"
+    },
+    "e20287ab761e": {
+      "county_id": "kss_ellis",
+      "name": "ELLIS",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "e20287ab761e.json"
+    },
+    "99786a684ef2": {
+      "county_id": "kss_ellsworth",
+      "name": "ELLSWORTH",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "99786a684ef2.json"
+    },
+    "78f57620dd48": {
+      "county_id": "kss_graham",
+      "name": "GRAHAM",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "78f57620dd48.json"
+    },
+    "13019499d54d": {
+      "county_id": "kss_jewell",
+      "name": "JEWELL",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "13019499d54d.json"
+    },
+    "13c6db5781f5": {
+      "county_id": "kss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "13c6db5781f5.json"
+    },
+    "0a3180233bdf": {
+      "county_id": "kss_mitchell",
+      "name": "MITCHELL",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "0a3180233bdf.json"
+    },
+    "892f48c9aa97": {
+      "county_id": "kss_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "892f48c9aa97.json"
+    },
+    "c37e94d56582": {
+      "county_id": "kss_osborne",
+      "name": "OSBORNE",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "c37e94d56582.json"
+    },
+    "8c6419669f99": {
+      "county_id": "kss_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "8c6419669f99.json"
+    },
+    "8fdd7c1c1f34": {
+      "county_id": "kss_rooks",
+      "name": "ROOKS",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "8fdd7c1c1f34.json"
+    },
+    "5abb35d1fb5c": {
+      "county_id": "kss_russell",
+      "name": "RUSSELL",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "5abb35d1fb5c.json"
+    },
+    "14d077b1606c": {
+      "county_id": "kss_smith",
+      "name": "SMITH",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "14d077b1606c.json"
+    },
+    "fbb0f6e27e07": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1875-03-25",
+      "end_date": "1978-04-16",
+      "filename": "fbb0f6e27e07.json"
+    },
+    "21c21a1ee69e": {
+      "county_id": "kss_edwards",
+      "name": "EDWARDS",
+      "start_date": "1875-03-05",
+      "end_date": "1886-02-10",
+      "filename": "21c21a1ee69e.json"
+    },
+    "68a7312f3c1f": {
+      "county_id": "kss_pratt",
+      "name": "PRATT",
+      "start_date": "1875-03-05",
+      "end_date": "1879-04-24",
+      "filename": "68a7312f3c1f.json"
+    },
+    "4c62eea6f470": {
+      "county_id": "kss_comanche",
+      "name": "COMANCHE",
+      "start_date": "1875-03-05",
+      "end_date": "1886-02-10",
+      "filename": "4c62eea6f470.json"
+    },
+    "c4a08860759a": {
+      "county_id": "kss_stafford",
+      "name": "STAFFORD",
+      "start_date": "1875-03-05",
+      "end_date": "1879-04-24",
+      "filename": "c4a08860759a.json"
+    },
+    "81c90488c3b6": {
+      "county_id": "kss_barton",
+      "name": "BARTON",
+      "start_date": "1875-03-05",
+      "end_date": "1879-04-24",
+      "filename": "81c90488c3b6.json"
+    },
+    "7d9c529d26f2": {
+      "county_id": "kss_barton",
+      "name": "BARTON",
+      "start_date": "1879-04-25",
+      "end_date": "2000-12-31",
+      "filename": "7d9c529d26f2.json"
+    },
+    "2d3ddab748cd": {
+      "county_id": "kss_pratt",
+      "name": "PRATT",
+      "start_date": "1879-04-25",
+      "end_date": "2000-12-31",
+      "filename": "2d3ddab748cd.json"
+    },
+    "04d016b462f5": {
+      "county_id": "kss_stafford",
+      "name": "STAFFORD",
+      "start_date": "1879-04-25",
+      "end_date": "2000-12-31",
+      "filename": "04d016b462f5.json"
+    },
+    "96fb2bdde0a6": {
+      "county_id": "kss_sumner",
+      "name": "SUMNER",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "96fb2bdde0a6.json"
+    },
+    "c39377c19253": {
+      "county_id": "kss_trego",
+      "name": "TREGO",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "c39377c19253.json"
+    },
+    "6954becd0311": {
+      "county_id": "kss_bourbon",
+      "name": "BOURBON",
+      "start_date": "1867-02-13",
+      "end_date": "2000-12-31",
+      "filename": "6954becd0311.json"
+    },
+    "3eb94f43add0": {
+      "county_id": "kss_butler",
+      "name": "BUTLER",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "3eb94f43add0.json"
+    },
+    "33f58f3c557b": {
+      "county_id": "kss_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1867-02-13",
+      "end_date": "2000-12-31",
+      "filename": "33f58f3c557b.json"
+    },
+    "e77eeafdb087": {
+      "county_id": "kss_cloud",
+      "name": "CLOUD",
+      "start_date": "1867-02-26",
+      "end_date": "2000-12-31",
+      "filename": "e77eeafdb087.json"
+    },
+    "ee41b378633a": {
+      "county_id": "kss_dickinson",
+      "name": "DICKINSON",
+      "start_date": "1867-02-25",
+      "end_date": "2000-12-31",
+      "filename": "ee41b378633a.json"
+    },
+    "83d7dc630f97": {
+      "county_id": "kss_norton",
+      "name": "NORTON",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "83d7dc630f97.json"
+    },
+    "af8ec7934565": {
+      "county_id": "kss_saline",
+      "name": "SALINE",
+      "start_date": "1867-02-25",
+      "end_date": "2000-12-31",
+      "filename": "af8ec7934565.json"
+    },
+    "5865a10c3103": {
+      "county_id": "kss_ness",
+      "name": "NESS",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "5865a10c3103.json"
+    },
+    "e4213c3f0934": {
+      "county_id": "kss_barton",
+      "name": "BARTON",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "e4213c3f0934.json"
+    },
+    "b8945efbc3aa": {
+      "county_id": "kss_rush",
+      "name": "RUSH",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "b8945efbc3aa.json"
+    },
+    "ddac4f0c9794": {
+      "county_id": "kss_hodgeman",
+      "name": "HODGEMAN",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "ddac4f0c9794.json"
+    },
+    "4a717c92b93b": {
+      "county_id": "kss_clark",
+      "name": "CLARK",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "4a717c92b93b.json"
+    },
+    "01efb066a78d": {
+      "county_id": "kss_ford",
+      "name": "FORD",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "01efb066a78d.json"
+    },
+    "b0b26d68bdd0": {
+      "county_id": "kss_kiowa",
+      "name": "KIOWA",
+      "start_date": "1867-02-26",
+      "end_date": "1874-03-17",
+      "filename": "b0b26d68bdd0.json"
+    },
+    "55ed6f4acfca": {
+      "county_id": "kss_comanche",
+      "name": "COMANCHE",
+      "start_date": "1867-02-26",
+      "end_date": "1875-03-04",
+      "filename": "55ed6f4acfca.json"
+    },
+    "15c1b5dc5418": {
+      "county_id": "kss_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "15c1b5dc5418.json"
+    },
+    "1992bc487fb0": {
+      "county_id": "kss_stafford",
+      "name": "STAFFORD",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "1992bc487fb0.json"
+    },
+    "bd5fe8ecf07f": {
+      "county_id": "kss_pratt",
+      "name": "PRATT",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "bd5fe8ecf07f.json"
+    },
+    "d3ec1a9b1ded": {
+      "county_id": "kss_harper",
+      "name": "HARPER",
+      "start_date": "1867-02-26",
+      "end_date": "1872-03-06",
+      "filename": "d3ec1a9b1ded.json"
+    },
+    "2e98ad2a7bd6": {
+      "county_id": "kss_barber",
+      "name": "BARBOUR",
+      "start_date": "1867-02-26",
+      "end_date": "1873-03-19",
+      "filename": "2e98ad2a7bd6.json"
+    },
+    "7a9f8c6786fb": {
+      "county_id": "kss_reno",
+      "name": "RENO",
+      "start_date": "1867-02-26",
+      "end_date": "1872-03-06",
+      "filename": "7a9f8c6786fb.json"
+    },
+    "a8684e7eb87c": {
+      "county_id": "kss_rice",
+      "name": "RICE",
+      "start_date": "1867-02-26",
+      "end_date": "1872-03-06",
+      "filename": "a8684e7eb87c.json"
+    },
+    "86d3cce08667": {
+      "county_id": "kss_mcpherson",
+      "name": "McPHERSON",
+      "start_date": "1867-02-26",
+      "end_date": "1872-03-06",
+      "filename": "86d3cce08667.json"
+    },
+    "7011a5154634": {
+      "county_id": "kss_sedgwick",
+      "name": "SEDGWICK",
+      "start_date": "1867-02-26",
+      "end_date": "1872-03-06",
+      "filename": "7011a5154634.json"
+    },
+    "650c35a74045": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1867-02-26",
+      "end_date": "1868-03-02",
+      "filename": "650c35a74045.json"
+    },
+    "b3e78aee5266": {
+      "county_id": "kss_nca6",
+      "name": "NCA 6",
+      "start_date": "1867-02-26",
+      "end_date": "1868-03-10",
+      "filename": "b3e78aee5266.json"
+    },
+    "bd5d505506dd": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1867-02-26",
+      "end_date": "1868-03-02",
+      "filename": "bd5d505506dd.json"
+    },
+    "655da2cac8e4": {
+      "county_id": "kss_howard",
+      "name": "HOWARD (ext)",
+      "start_date": "1867-02-26",
+      "end_date": "1868-03-02",
+      "filename": "655da2cac8e4.json"
+    },
+    "68d69f95fcce": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1867-02-26",
+      "end_date": "1868-03-02",
+      "filename": "68d69f95fcce.json"
+    },
+    "414da1cd5b99": {
+      "county_id": "kss_labette",
+      "name": "LABETTE",
+      "start_date": "1867-02-07",
+      "end_date": "2000-12-31",
+      "filename": "414da1cd5b99.json"
+    },
+    "a49d9edf573b": {
+      "county_id": "kss_neosho",
+      "name": "NEOSHO",
+      "start_date": "1867-02-07",
+      "end_date": "1870-03-23",
+      "filename": "a49d9edf573b.json"
+    },
+    "05f32967cfdd": {
+      "county_id": "kss_cherokee",
+      "name": "CHEROKEE",
+      "start_date": "1867-02-07",
+      "end_date": "1867-02-12",
+      "filename": "05f32967cfdd.json"
+    },
+    "b87faec6833a": {
+      "county_id": "kss_brown",
+      "name": "BROWN",
+      "start_date": "1868-03-01",
+      "end_date": "2000-12-31",
+      "filename": "b87faec6833a.json"
+    },
+    "e60c14f83164": {
+      "county_id": "kss_chase",
+      "name": "CHASE",
+      "start_date": "1868-03-03",
+      "end_date": "2000-12-31",
+      "filename": "e60c14f83164.json"
+    },
+    "f2fb90db01b5": {
+      "county_id": "kss_greenwood",
+      "name": "GREENWOOD",
+      "start_date": "1868-03-03",
+      "end_date": "2000-12-31",
+      "filename": "f2fb90db01b5.json"
+    },
+    "e4120957b9d2": {
+      "county_id": "kss_jackson",
+      "name": "JACKSON",
+      "start_date": "1868-03-01",
+      "end_date": "2000-12-31",
+      "filename": "e4120957b9d2.json"
+    },
+    "c48a20bb4d1e": {
+      "county_id": "kss_shawnee",
+      "name": "SHAWNEE",
+      "start_date": "1868-03-01",
+      "end_date": "2000-12-31",
+      "filename": "c48a20bb4d1e.json"
+    },
+    "bebdfa0db283": {
+      "county_id": "kss_wilson",
+      "name": "WILSON",
+      "start_date": "1868-03-03",
+      "end_date": "2000-12-31",
+      "filename": "bebdfa0db283.json"
+    },
+    "4712eeacf5b8": {
+      "county_id": "kss_woodson",
+      "name": "WOODSON",
+      "start_date": "1868-03-03",
+      "end_date": "2000-12-31",
+      "filename": "4712eeacf5b8.json"
+    },
+    "c18f8633def1": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1868-03-03",
+      "end_date": "1873-03-05",
+      "filename": "c18f8633def1.json"
+    },
+    "30f887146a41": {
+      "county_id": "kss_howard",
+      "name": "HOWARD (ext)",
+      "start_date": "1868-03-03",
+      "end_date": "1875-05-31",
+      "filename": "30f887146a41.json"
+    },
+    "4ebab979ffbd": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1868-03-03",
+      "end_date": "1869-02-22",
+      "filename": "4ebab979ffbd.json"
+    },
+    "2478fa84a284": {
+      "county_id": "kss_morris",
+      "name": "MORRIS",
+      "start_date": "1868-03-03",
+      "end_date": "1869-02-22",
+      "filename": "2478fa84a284.json"
+    },
+    "cfb97e912420": {
+      "county_id": "kss_gove",
+      "name": "GOVE",
+      "start_date": "1868-03-11",
+      "end_date": "1879-03-17",
+      "filename": "cfb97e912420.json"
+    },
+    "1bf546b8bdc2": {
+      "county_id": "kss_wallace",
+      "name": "WALLACE",
+      "start_date": "1868-03-11",
+      "end_date": "1879-03-17",
+      "filename": "1bf546b8bdc2.json"
+    },
+    "1da9ec16db10": {
+      "county_id": "kss_nca6",
+      "name": "NCA 6",
+      "start_date": "1868-03-11",
+      "end_date": "1873-03-19",
+      "filename": "1da9ec16db10.json"
+    },
+    "85fbf85a1df4": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1869-02-23",
+      "end_date": "1870-03-23",
+      "filename": "85fbf85a1df4.json"
+    },
+    "5b519feaeff4": {
+      "county_id": "kss_morris",
+      "name": "MORRIS",
+      "start_date": "1869-02-23",
+      "end_date": "1870-03-23",
+      "filename": "5b519feaeff4.json"
+    },
+    "2b9fb79269a1": {
+      "county_id": "kss_allen",
+      "name": "ALLEN",
+      "start_date": "1870-03-24",
+      "end_date": "2000-12-31",
+      "filename": "2b9fb79269a1.json"
+    },
+    "a08614e8c8c2": {
+      "county_id": "kss_morris",
+      "name": "MORRIS",
+      "start_date": "1870-03-24",
+      "end_date": "2000-12-31",
+      "filename": "a08614e8c8c2.json"
+    },
+    "f82f4602608e": {
+      "county_id": "kss_neosho",
+      "name": "NEOSHO",
+      "start_date": "1870-03-24",
+      "end_date": "2000-12-31",
+      "filename": "f82f4602608e.json"
+    },
+    "c7e92755b699": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1870-03-24",
+      "end_date": "1871-03-09",
+      "filename": "c7e92755b699.json"
+    },
+    "d5c70cd70804": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1871-03-10",
+      "end_date": "1873-02-24",
+      "filename": "d5c70cd70804.json"
+    },
+    "94e755058d0c": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1871-03-10",
+      "end_date": "1873-02-24",
+      "filename": "94e755058d0c.json"
+    },
+    "4e272cb48d59": {
+      "county_id": "kss_kingman",
+      "name": "KINGMAN",
+      "start_date": "1872-03-07",
+      "end_date": "2000-12-31",
+      "filename": "4e272cb48d59.json"
+    },
+    "3be8b4f7096a": {
+      "county_id": "kss_mcpherson",
+      "name": "McPHERSON",
+      "start_date": "1872-03-07",
+      "end_date": "2000-12-31",
+      "filename": "3be8b4f7096a.json"
+    },
+    "8a68e9d020f4": {
+      "county_id": "kss_sedgwick",
+      "name": "SEDGWICK",
+      "start_date": "1872-03-07",
+      "end_date": "2000-12-31",
+      "filename": "8a68e9d020f4.json"
+    },
+    "98b1f3f0e569": {
+      "county_id": "kss_rice",
+      "name": "RICE",
+      "start_date": "1872-03-07",
+      "end_date": "1886-02-25",
+      "filename": "98b1f3f0e569.json"
+    },
+    "c65175d30758": {
+      "county_id": "kss_reno",
+      "name": "RENO",
+      "start_date": "1872-03-07",
+      "end_date": "1886-02-25",
+      "filename": "c65175d30758.json"
+    },
+    "40e77a631663": {
+      "county_id": "kss_harvey",
+      "name": "HARVEY",
+      "start_date": "1872-03-07",
+      "end_date": "1873-03-05",
+      "filename": "40e77a631663.json"
+    },
+    "3717d14aa6e0": {
+      "county_id": "kss_harper",
+      "name": "HARPER",
+      "start_date": "1872-03-07",
+      "end_date": "1873-03-19",
+      "filename": "3717d14aa6e0.json"
+    },
+    "676f6bb22d4b": {
+      "county_id": "kss_cheyenne",
+      "name": "CHEYENNE",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "676f6bb22d4b.json"
+    },
+    "0055c6fe7838": {
+      "county_id": "kss_greeley",
+      "name": "GREELEY",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "0055c6fe7838.json"
+    },
+    "f5fa93da50ce": {
+      "county_id": "kss_rawlins",
+      "name": "RAWLINS",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "f5fa93da50ce.json"
+    },
+    "cc9aeb6c9c71": {
+      "county_id": "kss_scott",
+      "name": "SCOTT",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "cc9aeb6c9c71.json"
+    },
+    "75a5af6e673d": {
+      "county_id": "kss_sherman",
+      "name": "SHERMAN",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "75a5af6e673d.json"
+    },
+    "26b1c5ccc496": {
+      "county_id": "kss_wichita",
+      "name": "WICHITA",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "26b1c5ccc496.json"
+    },
+    "1875f2dda573": {
+      "county_id": "kss_barber",
+      "name": "BARBOUR",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-28",
+      "filename": "1875f2dda573.json"
+    },
+    "97aa7b885453": {
+      "county_id": "kss_decatur",
+      "name": "DECATUR",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "97aa7b885453.json"
+    },
+    "8c5d9ab61258": {
+      "county_id": "kss_harper",
+      "name": "HARPER",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "8c5d9ab61258.json"
+    },
+    "7622ebc7e915": {
+      "county_id": "kss_ness",
+      "name": "NESS",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "7622ebc7e915.json"
+    },
+    "d73f49d4a3ef": {
+      "county_id": "kss_norton",
+      "name": "BILLINGS",
+      "start_date": "1873-03-20",
+      "end_date": "1874-02-24",
+      "filename": "d73f49d4a3ef.json"
+    },
+    "d064a42914cf": {
+      "county_id": "kss_rush",
+      "name": "RUSH",
+      "start_date": "1873-03-20",
+      "end_date": "2000-12-31",
+      "filename": "d064a42914cf.json"
+    },
+    "9040fef956dd": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1873-03-20",
+      "end_date": "1875-03-24",
+      "filename": "9040fef956dd.json"
+    },
+    "57c7220837ad": {
+      "county_id": "kss_kearny",
+      "name": "KEARNEY",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "57c7220837ad.json"
+    },
+    "aec1bafb5bab": {
+      "county_id": "kss_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "aec1bafb5bab.json"
+    },
+    "9839757b0801": {
+      "county_id": "kss_buffalo",
+      "name": "BUFFALO (ext)",
+      "start_date": "1873-03-20",
+      "end_date": "1881-03-12",
+      "filename": "9839757b0801.json"
+    },
+    "57689834c7da": {
+      "county_id": "kss_sequoyah",
+      "name": "SEQUOYAH (ext)",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "57689834c7da.json"
+    },
+    "4aad661f17f1": {
+      "county_id": "kss_kansas",
+      "name": "KANSAS (ext)",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "4aad661f17f1.json"
+    },
+    "77f8537ca916": {
+      "county_id": "kss_seward",
+      "name": "SEWARD",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "77f8537ca916.json"
+    },
+    "1e571fe49449": {
+      "county_id": "kss_stanton",
+      "name": "STANTON",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "1e571fe49449.json"
+    },
+    "b6a8d71be5fa": {
+      "county_id": "kss_grant",
+      "name": "GRANT",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "b6a8d71be5fa.json"
+    },
+    "64c657137a15": {
+      "county_id": "kss_arapahoe",
+      "name": "ARAPAHOE (ext)",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "64c657137a15.json"
+    },
+    "31e959d8d274": {
+      "county_id": "kss_stevens",
+      "name": "STEVENS",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "31e959d8d274.json"
+    },
+    "84795e44bf7f": {
+      "county_id": "kss_lane",
+      "name": "LANE",
+      "start_date": "1873-03-20",
+      "end_date": "1879-03-17",
+      "filename": "84795e44bf7f.json"
+    },
+    "0da9f5536a37": {
+      "county_id": "kss_foote",
+      "name": "FOOTE (ext)",
+      "start_date": "1873-03-20",
+      "end_date": "1881-03-12",
+      "filename": "0da9f5536a37.json"
+    },
+    "cc32512496ae": {
+      "county_id": "kss_meade",
+      "name": "MEADE",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "cc32512496ae.json"
+    },
+    "9bd48a1a8581": {
+      "county_id": "kss_clark",
+      "name": "CLARK",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "9bd48a1a8581.json"
+    },
+    "ce5b212e299c": {
+      "county_id": "kss_ford",
+      "name": "FORD",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "ce5b212e299c.json"
+    },
+    "1026f42534a0": {
+      "county_id": "kss_hodgeman",
+      "name": "HODGEMAN",
+      "start_date": "1873-03-20",
+      "end_date": "1883-02-21",
+      "filename": "1026f42534a0.json"
+    },
+    "e68130e5d103": {
+      "county_id": "kss_disputed",
+      "name": "Disputed Area",
+      "start_date": "1873-03-20",
+      "end_date": "1874-03-17",
+      "filename": "e68130e5d103.json"
+    },
+    "7cc8d4f42dd1": {
+      "county_id": "kss_stafford",
+      "name": "STAFFORD",
+      "start_date": "1873-03-20",
+      "end_date": "1874-03-17",
+      "filename": "7cc8d4f42dd1.json"
+    },
+    "cd2cd54f5e4a": {
+      "county_id": "kss_nca7",
+      "name": "NCA 7",
+      "start_date": "1873-03-20",
+      "end_date": "1874-03-17",
+      "filename": "cd2cd54f5e4a.json"
+    },
+    "9e53aaf750f1": {
+      "county_id": "kss_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1873-03-20",
+      "end_date": "1874-03-17",
+      "filename": "9e53aaf750f1.json"
+    },
+    "85569863331c": {
+      "county_id": "kss_pratt",
+      "name": "PRATT",
+      "start_date": "1873-03-20",
+      "end_date": "1875-03-04",
+      "filename": "85569863331c.json"
+    },
+    "71ad908e73b0": {
+      "county_id": "kss_thomas",
+      "name": "THOMAS",
+      "start_date": "1873-03-20",
+      "end_date": "1879-03-17",
+      "filename": "71ad908e73b0.json"
+    },
+    "ee671fed93eb": {
+      "county_id": "kss_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1873-03-20",
+      "end_date": "1879-03-17",
+      "filename": "ee671fed93eb.json"
+    },
+    "fb2ce0835945": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1873-03-20",
+      "end_date": "1875-03-24",
+      "filename": "fb2ce0835945.json"
+    },
+    "db0817a02ce9": {
+      "county_id": "kss_barton",
+      "name": "BARTON",
+      "start_date": "1873-03-20",
+      "end_date": "1874-03-17",
+      "filename": "db0817a02ce9.json"
+    },
+    "1018a9801dd8": {
+      "county_id": "kss_harvey",
+      "name": "HARVEY",
+      "start_date": "1873-03-06",
+      "end_date": "2000-12-31",
+      "filename": "1018a9801dd8.json"
+    },
+    "82f82ca1ab3b": {
+      "county_id": "kss_marion",
+      "name": "MARION",
+      "start_date": "1873-03-06",
+      "end_date": "2000-12-31",
+      "filename": "82f82ca1ab3b.json"
+    },
+    "f5091121a816": {
+      "county_id": "kss_wabaunsee",
+      "name": "WABAUNSEE",
+      "start_date": "1873-02-25",
+      "end_date": "2000-12-31",
+      "filename": "f5091121a816.json"
+    },
+    "fd1b829340ec": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1873-02-25",
+      "end_date": "1873-03-19",
+      "filename": "fd1b829340ec.json"
+    },
+    "270c27ae30ec": {
+      "county_id": "kss_norton",
+      "name": "NORTON",
+      "start_date": "1874-02-25",
+      "end_date": "2000-12-31",
+      "filename": "270c27ae30ec.json"
+    },
+    "4667caa15761": {
+      "county_id": "kss_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1874-03-18",
+      "end_date": "2000-12-31",
+      "filename": "4667caa15761.json"
+    },
+    "fa93b9acba08": {
+      "county_id": "kss_stafford",
+      "name": "STAFFORD",
+      "start_date": "1874-03-18",
+      "end_date": "1875-03-04",
+      "filename": "fa93b9acba08.json"
+    },
+    "cb494d9e2eea": {
+      "county_id": "kss_edwards",
+      "name": "EDWARDS",
+      "start_date": "1874-03-18",
+      "end_date": "1875-03-04",
+      "filename": "cb494d9e2eea.json"
+    },
+    "3043fd507b8a": {
+      "county_id": "kss_kiowa",
+      "name": "KIOWA",
+      "start_date": "1874-03-18",
+      "end_date": "1875-03-04",
+      "filename": "3043fd507b8a.json"
+    },
+    "4995aecbf145": {
+      "county_id": "kss_barton",
+      "name": "BARTON",
+      "start_date": "1874-03-18",
+      "end_date": "1875-03-04",
+      "filename": "4995aecbf145.json"
+    },
+    "1929efdbcf9f": {
+      "county_id": "kss_chautauqua",
+      "name": "CHAUTAUQUA",
+      "start_date": "1875-06-01",
+      "end_date": "2000-12-31",
+      "filename": "1929efdbcf9f.json"
+    },
+    "f98378dca659": {
+      "county_id": "kss_elk",
+      "name": "ELK",
+      "start_date": "1875-06-01",
+      "end_date": "2000-12-31",
+      "filename": "f98378dca659.json"
+    },
+    "6cd634f18e41": {
+      "county_id": "kss_geary",
+      "name": "DAVIS",
+      "start_date": "1875-03-25",
+      "end_date": "1889-03-06",
+      "filename": "6cd634f18e41.json"
+    },
+    "fe8d2d3972f9": {
+      "county_id": "kss_lane",
+      "name": "LANE",
+      "start_date": "1879-03-18",
+      "end_date": "1881-03-12",
+      "filename": "fe8d2d3972f9.json"
+    },
+    "9ee0826d75ce": {
+      "county_id": "kss_thomas",
+      "name": "THOMAS",
+      "start_date": "1879-03-18",
+      "end_date": "1881-03-12",
+      "filename": "9ee0826d75ce.json"
+    },
+    "ace164788e32": {
+      "county_id": "kss_wallace",
+      "name": "WALLACE",
+      "start_date": "1879-03-18",
+      "end_date": "1881-03-12",
+      "filename": "ace164788e32.json"
+    },
+    "33803dfc2361": {
+      "county_id": "kss_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1879-03-18",
+      "end_date": "1881-03-12",
+      "filename": "33803dfc2361.json"
+    },
+    "70e6dbc06f52": {
+      "county_id": "kss_gove",
+      "name": "GOVE",
+      "start_date": "1879-03-18",
+      "end_date": "1881-03-12",
+      "filename": "70e6dbc06f52.json"
+    },
+    "fa3adfda1f34": {
+      "county_id": "kss_gove",
+      "name": "GOVE",
+      "start_date": "1881-03-13",
+      "end_date": "2000-12-31",
+      "filename": "fa3adfda1f34.json"
+    },
+    "900698f0dcd7": {
+      "county_id": "kss_logan",
+      "name": "ST. JOHN",
+      "start_date": "1881-03-13",
+      "end_date": "1887-02-24",
+      "filename": "900698f0dcd7.json"
+    },
+    "c51e5a8fb7bb": {
+      "county_id": "kss_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1881-03-13",
+      "end_date": "2000-12-31",
+      "filename": "c51e5a8fb7bb.json"
+    },
+    "1379dc3a2e92": {
+      "county_id": "kss_thomas",
+      "name": "THOMAS",
+      "start_date": "1881-03-13",
+      "end_date": "2000-12-31",
+      "filename": "1379dc3a2e92.json"
+    },
+    "5d7520cfe0ba": {
+      "county_id": "kss_wallace",
+      "name": "WALLACE",
+      "start_date": "1881-03-13",
+      "end_date": "2000-12-31",
+      "filename": "5d7520cfe0ba.json"
+    },
+    "ca8609522f2c": {
+      "county_id": "kss_lane",
+      "name": "LANE",
+      "start_date": "1881-03-13",
+      "end_date": "1883-02-21",
+      "filename": "ca8609522f2c.json"
+    },
+    "927e046ba418": {
+      "county_id": "kss_gray",
+      "name": "GRAY",
+      "start_date": "1881-03-13",
+      "end_date": "1883-02-21",
+      "filename": "927e046ba418.json"
+    },
+    "14546b31ec26": {
+      "county_id": "kss_barber",
+      "name": "BARBER",
+      "start_date": "1883-03-01",
+      "end_date": "2000-12-31",
+      "filename": "14546b31ec26.json"
+    },
+    "11fdea55d7f1": {
+      "county_id": "kss_lane",
+      "name": "LANE",
+      "start_date": "1883-02-22",
+      "end_date": "2000-12-31",
+      "filename": "11fdea55d7f1.json"
+    },
+    "714ff2dfabf2": {
+      "county_id": "kss_ford",
+      "name": "FORD",
+      "start_date": "1883-02-22",
+      "end_date": "1885-03-12",
+      "filename": "714ff2dfabf2.json"
+    },
+    "12286badd6dd": {
+      "county_id": "kss_hodgeman",
+      "name": "HODGEMAN",
+      "start_date": "1883-02-22",
+      "end_date": "1887-03-22",
+      "filename": "12286badd6dd.json"
+    },
+    "8b10ea344d04": {
+      "county_id": "kss_finney",
+      "name": "FINNEY",
+      "start_date": "1883-02-22",
+      "end_date": "1885-03-12",
+      "filename": "8b10ea344d04.json"
+    },
+    "753ea7fbcd57": {
+      "county_id": "kss_seward",
+      "name": "SEWARD",
+      "start_date": "1883-02-22",
+      "end_date": "1885-03-12",
+      "filename": "753ea7fbcd57.json"
+    },
+    "ce257ded63c6": {
+      "county_id": "kss_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1883-02-22",
+      "end_date": "1887-03-22",
+      "filename": "ce257ded63c6.json"
+    },
+    "abee7f5a452d": {
+      "county_id": "kss_clark",
+      "name": "CLARK",
+      "start_date": "1885-03-13",
+      "end_date": "2000-12-31",
+      "filename": "abee7f5a452d.json"
+    },
+    "93b6971e8dfc": {
+      "county_id": "kss_meade",
+      "name": "MEADE",
+      "start_date": "1885-03-13",
+      "end_date": "2000-12-31",
+      "filename": "93b6971e8dfc.json"
+    },
+    "9c2711bb3359": {
+      "county_id": "kss_ford",
+      "name": "FORD",
+      "start_date": "1885-03-13",
+      "end_date": "1887-03-22",
+      "filename": "9c2711bb3359.json"
+    },
+    "840c858c7e34": {
+      "county_id": "kss_finney",
+      "name": "FINNEY",
+      "start_date": "1885-03-13",
+      "end_date": "1887-03-22",
+      "filename": "840c858c7e34.json"
+    },
+    "0292ffea99e2": {
+      "county_id": "kss_seward",
+      "name": "SEWARD",
+      "start_date": "1885-03-13",
+      "end_date": "1886-02-19",
+      "filename": "0292ffea99e2.json"
+    },
+    "7b2ec28a4a31": {
+      "county_id": "kss_morton",
+      "name": "MORTON",
+      "start_date": "1886-02-20",
+      "end_date": "2000-12-31",
+      "filename": "7b2ec28a4a31.json"
+    },
+    "ad3baddf015b": {
+      "county_id": "kss_comanche",
+      "name": "COMANCHE",
+      "start_date": "1886-02-11",
+      "end_date": "2000-12-31",
+      "filename": "ad3baddf015b.json"
+    },
+    "8df9de2ebd16": {
+      "county_id": "kss_edwards",
+      "name": "EDWARDS",
+      "start_date": "1886-02-11",
+      "end_date": "2000-12-31",
+      "filename": "8df9de2ebd16.json"
+    },
+    "d7719f8f988e": {
+      "county_id": "kss_kiowa",
+      "name": "KIOWA",
+      "start_date": "1886-02-11",
+      "end_date": "2000-12-31",
+      "filename": "d7719f8f988e.json"
+    },
+    "54fa5c8026f1": {
+      "county_id": "kss_reno",
+      "name": "RENO",
+      "start_date": "1886-02-26",
+      "end_date": "2000-12-31",
+      "filename": "54fa5c8026f1.json"
+    },
+    "c6504d5b4319": {
+      "county_id": "kss_rice",
+      "name": "RICE",
+      "start_date": "1886-02-26",
+      "end_date": "2000-12-31",
+      "filename": "c6504d5b4319.json"
+    },
+    "6cf6f2e919d3": {
+      "county_id": "kss_seward",
+      "name": "SEWARD",
+      "start_date": "1886-02-20",
+      "end_date": "2000-12-31",
+      "filename": "6cf6f2e919d3.json"
+    },
+    "af3ceb38b6fa": {
+      "county_id": "kss_stevens",
+      "name": "STEVENS",
+      "start_date": "1886-02-20",
+      "end_date": "2000-12-31",
+      "filename": "af3ceb38b6fa.json"
+    },
+    "5b54b3de6ba0": {
+      "county_id": "kss_haskell",
+      "name": "HASKELL",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "5b54b3de6ba0.json"
+    },
+    "1ece4a43a9b7": {
+      "county_id": "kss_ford",
+      "name": "FORD",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "1ece4a43a9b7.json"
+    },
+    "70ef5df87dbd": {
+      "county_id": "kss_grant",
+      "name": "GRANT",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "70ef5df87dbd.json"
+    },
+    "1910242e46b7": {
+      "county_id": "kss_gray",
+      "name": "GRAY",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "1910242e46b7.json"
+    },
+    "958d55df3419": {
+      "county_id": "kss_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "958d55df3419.json"
+    },
+    "abc831f858c7": {
+      "county_id": "kss_hodgeman",
+      "name": "HODGEMAN",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "abc831f858c7.json"
+    },
+    "6cfd25d2149d": {
+      "county_id": "kss_kearny",
+      "name": "KEARNEY",
+      "start_date": "1887-03-23",
+      "end_date": "1889-03-22",
+      "filename": "6cfd25d2149d.json"
+    },
+    "63f439becf57": {
+      "county_id": "kss_logan",
+      "name": "LOGAN",
+      "start_date": "1887-02-25",
+      "end_date": "2000-12-31",
+      "filename": "63f439becf57.json"
+    },
+    "f1eef80d82d2": {
+      "county_id": "kss_stanton",
+      "name": "STANTON",
+      "start_date": "1887-03-23",
+      "end_date": "2000-12-31",
+      "filename": "f1eef80d82d2.json"
+    },
+    "81288242fe66": {
+      "county_id": "kss_finney",
+      "name": "FINNEY",
+      "start_date": "1887-03-23",
+      "end_date": "1893-03-17",
+      "filename": "81288242fe66.json"
+    },
+    "c4bb33b2c57b": {
+      "county_id": "kss_garfield",
+      "name": "GARFIELD (ext)",
+      "start_date": "1887-03-23",
+      "end_date": "1893-03-17",
+      "filename": "c4bb33b2c57b.json"
+    },
+    "32be7bcb2036": {
+      "county_id": "kss_kearny",
+      "name": "KEARNY",
+      "start_date": "1889-03-23",
+      "end_date": "2000-12-31",
+      "filename": "32be7bcb2036.json"
+    },
+    "5bf33aba81c3": {
+      "county_id": "kss_geary",
+      "name": "GEARY",
+      "start_date": "1889-03-07",
+      "end_date": "1978-04-16",
+      "filename": "5bf33aba81c3.json"
+    },
+    "66005c6933f1": {
+      "county_id": "kss_finney",
+      "name": "FINNEY",
+      "start_date": "1893-03-18",
+      "end_date": "2000-12-31",
+      "filename": "66005c6933f1.json"
+    },
+    "e62938062395": {
+      "county_id": "kss_doniphan",
+      "name": "DONIPHAN",
+      "start_date": "1950-08-03",
+      "end_date": "1958-12-31",
+      "filename": "e62938062395.json"
+    },
+    "8393f0358b1d": {
+      "county_id": "kss_atchison",
+      "name": "ATCHISON",
+      "start_date": "1950-08-03",
+      "end_date": "1958-12-31",
+      "filename": "8393f0358b1d.json"
+    },
+    "0b7e121d1a81": {
+      "county_id": "kss_doniphan",
+      "name": "DONIPHAN",
+      "start_date": "1959-01-01",
+      "end_date": "2000-12-31",
+      "filename": "0b7e121d1a81.json"
+    },
+    "289c7194c23a": {
+      "county_id": "kss_atchison",
+      "name": "ATCHISON",
+      "start_date": "1959-01-01",
+      "end_date": "2000-12-31",
+      "filename": "289c7194c23a.json"
+    },
+    "ad85108aa1e8": {
+      "county_id": "kss_riley",
+      "name": "RILEY",
+      "start_date": "1978-04-17",
+      "end_date": "2000-12-31",
+      "filename": "ad85108aa1e8.json"
+    },
+    "f97bc43e497c": {
+      "county_id": "kss_geary",
+      "name": "GEARY",
+      "start_date": "1978-04-17",
+      "end_date": "2000-12-31",
+      "filename": "f97bc43e497c.json"
+    }
+  }
+}

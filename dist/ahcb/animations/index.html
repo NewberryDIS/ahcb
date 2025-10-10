@@ -1,0 +1,197 @@
+ <!doctype html>
+ <html>
+   <head>
+     <title>Atlas of Historical County Boundaries</title>
+     <link rel="canonical" href="http://testserver/ahcb/animations">
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script><script src="https://cdn.jsdelivr.net/gh/answerdotai/fasthtml-js@1.0.12/fasthtml.js"></script><script src="https://cdn.jsdelivr.net/gh/answerdotai/surreal@main/surreal.js"></script><script src="https://cdn.jsdelivr.net/gh/gnat/css-scope-inline@main/script.js"></script><script type="module">import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+proc_htmx('.marked', e => e.innerHTML = marked.parse(e.textContent));</script>     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="/ahcb/static/css/_base.css">
+     <link rel="stylesheet" href="/ahcb/static/css/_newberry.css">
+     <link rel="stylesheet" href="/ahcb/static/css/main.css">
+<script src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619" async></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-VXBH4RD619");
+
+        </script>   </head>
+   <body>
+     <head>
+       <link rel="stylesheet" href="/athf/static/css/anim.css">
+     </head>
+     <body>
+       <div class="bg-overlay"></div>
+       <header class="main-header">
+<newberry-logo></newberry-logo>         <h1>
+<a href="/ahcb/" class="link-lines">Atlas of Historical County Boundaries</a>         </h1>
+         <div class="header-right">
+           <div class="dmt-wrapper">
+<dark-mode-toggle></dark-mode-toggle>           </div>
+           <div id="nav-menu" class="nav-menu">
+<button id="menu-button" name="menu-button">               <div class="line line1"></div>
+               <div class="line line2"></div>
+               <div class="line line3"></div>
+</button>             <ul>
+               <li>
+<a href="/ahcb/about">About</a>               </li>
+               <li>
+<a href="/ahcb/download">Downloads</a>               </li>
+               <li>
+<a href="/ahcb/maps">All states</a>               </li>
+               <li>
+<a href="/ahcb/al">Alabama</a>               </li>
+               <li>
+<a href="/ahcb/ak">Alaska</a>               </li>
+               <li>
+<a href="/ahcb/az">Arizona</a>               </li>
+               <li>
+<a href="/ahcb/ar">Arkansas</a>               </li>
+               <li>
+<a href="/ahcb/ca">California</a>               </li>
+               <li>
+<a href="/ahcb/co">Colorado</a>               </li>
+               <li>
+<a href="/ahcb/ct">Connecticut</a>               </li>
+               <li>
+<a href="/ahcb/de">Delaware</a>               </li>
+               <li>
+<a href="/ahcb/dt">Dakota Territory</a>               </li>
+               <li>
+<a href="/ahcb/fl">Florida</a>               </li>
+               <li>
+<a href="/ahcb/ga">Georgia</a>               </li>
+               <li>
+<a href="/ahcb/hi">Hawaii</a>               </li>
+               <li>
+<a href="/ahcb/id">Idaho</a>               </li>
+               <li>
+<a href="/ahcb/il">Illinois</a>               </li>
+               <li>
+<a href="/ahcb/in">Indiana</a>               </li>
+               <li>
+<a href="/ahcb/ia">Iowa</a>               </li>
+               <li>
+<a href="/ahcb/ks">Kansas</a>               </li>
+               <li>
+<a href="/ahcb/ky">Kentucky</a>               </li>
+               <li>
+<a href="/ahcb/la">Louisiana</a>               </li>
+               <li>
+<a href="/ahcb/me">Maine</a>               </li>
+               <li>
+<a href="/ahcb/md">Maryland</a>               </li>
+               <li>
+<a href="/ahcb/ma">Massachusetts</a>               </li>
+               <li>
+<a href="/ahcb/mi">Michigan</a>               </li>
+               <li>
+<a href="/ahcb/mn">Minnesota</a>               </li>
+               <li>
+<a href="/ahcb/ms">Mississippi</a>               </li>
+               <li>
+<a href="/ahcb/mo">Missouri</a>               </li>
+               <li>
+<a href="/ahcb/mt">Montana</a>               </li>
+               <li>
+<a href="/ahcb/ne">Nebraska</a>               </li>
+               <li>
+<a href="/ahcb/nv">Nevada</a>               </li>
+               <li>
+<a href="/ahcb/nh">New Hampshire</a>               </li>
+               <li>
+<a href="/ahcb/nj">New Jersey</a>               </li>
+               <li>
+<a href="/ahcb/nm">New Mexico</a>               </li>
+               <li>
+<a href="/ahcb/ny">New York</a>               </li>
+               <li>
+<a href="/ahcb/nc">North Carolina</a>               </li>
+               <li>
+<a href="/ahcb/nd">North Dakota</a>               </li>
+               <li>
+<a href="/ahcb/oh">Ohio</a>               </li>
+               <li>
+<a href="/ahcb/ok">Oklahoma</a>               </li>
+               <li>
+<a href="/ahcb/or">Oregon</a>               </li>
+               <li>
+<a href="/ahcb/pa">Pennsylvania</a>               </li>
+               <li>
+<a href="/ahcb/ri">Rhode Island</a>               </li>
+               <li>
+<a href="/ahcb/sc">South Carolina</a>               </li>
+               <li>
+<a href="/ahcb/sd">South Dakota</a>               </li>
+               <li>
+<a href="/ahcb/tn">Tennessee</a>               </li>
+               <li>
+<a href="/ahcb/tx">Texas</a>               </li>
+               <li>
+<a href="/ahcb/ut">Utah</a>               </li>
+               <li>
+<a href="/ahcb/vt">Vermont</a>               </li>
+               <li>
+<a href="/ahcb/va">Virginia</a>               </li>
+               <li>
+<a href="/ahcb/wa">Washington</a>               </li>
+               <li>
+<a href="/ahcb/wv">West Virginia</a>               </li>
+               <li>
+<a href="/ahcb/wi">Wisconsin</a>               </li>
+               <li>
+<a href="/ahcb/wy">Wyoming</a>               </li>
+               <li>
+<a href="/ahcb/dc">District of Columbia</a>               </li>
+             </ul>
+           </div>
+         </div>
+       </header>
+<main>         <article class="marked text-page anim"># National Boundary Animations
+
+## US Historical County Boundaries, 1629-2000 (0:30)
+
+![](/ahcb/static/videos/US_Historical_County_Boundaries-7-0lM1g9iSs.mp4)
+![](/ahcb/static/videos/US_Historical_County_Boundaries-7-0lM1g9iSs.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_County_Boundaries-7-0lM1g9iSs.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_County_Boundaries-jJ-0HzEgOd0.mkv)
+
+
+![](/ahcb/static/videos/US_Historical_County_Boundaries-jJ-0HzEgOd0.mkv.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_Countya_ss_State_Boundaries-QEdDU3ho1oE.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_Countya_ss_State_Boundaries-X7WzKaqCaV4.mkv)
+
+
+![](/ahcb/static/videos/US_Historical_Countya_ss_State_Boundaries-X7WzKaqCaV4.mkv.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_Statea_ss_Territorial_Boundaries-9KDJzkqCyIo.mkv)
+
+
+![](/ahcb/static/videos/US_Historical_Statea_ss_Territorial_Boundaries-9KDJzkqCyIo.mkv.mp4)
+
+
+![](/ahcb/static/videos/US_Historical_Statea_ss_Territorial_Boundaries-g5_j2UaOVDM.mkv)
+
+
+![](/ahcb/static/videos/US_Historical_Statea_ss_Territorial_Boundaries-g5_j2UaOVDM.mkv.mp4)
+
+
+</article>
+</main>     </body>
+<script src="/ahcb/static/js/dark-mode-toggle.js"></script><script src="/ahcb/static/js/newberry-logo.js"></script><script src="/ahcb/static/js/main.js"></script><script>
+let navMenu;
+        </script>   </body>
+ </html>

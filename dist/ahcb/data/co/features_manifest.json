@@ -1,0 +1,4045 @@
+{
+  "state": "CO",
+  "total_features": 577,
+  "features": {
+    "2075254efae0": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "2075254efae0.json"
+    },
+    "56308e73ac8f": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "56308e73ac8f.json"
+    },
+    "ed3ffb673468": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1806-06-30",
+      "filename": "ed3ffb673468.json"
+    },
+    "ffb53c54cb32": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1804-10-01",
+      "end_date": "1819-02-21",
+      "filename": "ffb53c54cb32.json"
+    },
+    "f3ebee895a02": {
+      "county_id": "mos_stegenevieve",
+      "name": "STE. GENEVIEVE (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "f3ebee895a02.json"
+    },
+    "2a0cd9a030a7": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-08-15",
+      "end_date": "1812-12-06",
+      "filename": "2a0cd9a030a7.json"
+    },
+    "4e0f9b4dbfa0": {
+      "county_id": "mos_newmadrid",
+      "name": "NEW MADRID (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "4e0f9b4dbfa0.json"
+    },
+    "d425265babbb": {
+      "county_id": "mos_capegirardeau",
+      "name": "CAPE GIRARDEAU (Mo.)",
+      "start_date": "1806-07-01",
+      "end_date": "1806-08-14",
+      "filename": "d425265babbb.json"
+    },
+    "47e5784ac5e0": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1819-02-21",
+      "filename": "47e5784ac5e0.json"
+    },
+    "6e585f995e9a": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1819-02-22",
+      "end_date": "1836-12-18",
+      "filename": "6e585f995e9a.json"
+    },
+    "5dab549f33df": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1819-02-22",
+      "end_date": "1821-08-09",
+      "filename": "5dab549f33df.json"
+    },
+    "f5b75d09d116": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1850-09-08",
+      "filename": "f5b75d09d116.json"
+    },
+    "7dd1f52e177d": {
+      "county_id": "mex_part",
+      "name": "Mexico",
+      "start_date": "1836-12-19",
+      "end_date": "1848-07-03",
+      "filename": "7dd1f52e177d.json"
+    },
+    "2d297d3d8940": {
+      "county_id": "txs_bexarpart",
+      "name": "BEXAR (Tex.)",
+      "start_date": "1836-12-19",
+      "end_date": "1848-03-14",
+      "filename": "2d297d3d8940.json"
+    },
+    "1bc84efa6e16": {
+      "county_id": "uft2_part",
+      "name": "Unorg. Fed. Terr. 2",
+      "start_date": "1848-07-04",
+      "end_date": "1850-09-08",
+      "filename": "1bc84efa6e16.json"
+    },
+    "9f12673d59f2": {
+      "county_id": "txs_santafepart",
+      "name": "SANTA FE (Tex., ext)",
+      "start_date": "1848-03-15",
+      "end_date": "1850-09-08",
+      "filename": "9f12673d59f2.json"
+    },
+    "f2dde165f93f": {
+      "county_id": "des",
+      "name": "Deseret",
+      "start_date": "1849-07-02",
+      "end_date": "1850-09-08",
+      "filename": "f2dde165f93f.json"
+    },
+    "a55e85d7045d": {
+      "county_id": "nmt_part",
+      "name": "New Mexico Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1852-01-08",
+      "filename": "a55e85d7045d.json"
+    },
+    "546664cfc089": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-12-13",
+      "end_date": "1854-05-29",
+      "filename": "546664cfc089.json"
+    },
+    "2e8f4ded83b7": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1850-12-12",
+      "filename": "2e8f4ded83b7.json"
+    },
+    "9933bb6113c9": {
+      "county_id": "utt_part",
+      "name": "Utah Terr.",
+      "start_date": "1850-09-09",
+      "end_date": "1852-03-02",
+      "filename": "9933bb6113c9.json"
+    },
+    "cfb6526178f3": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1852-01-09",
+      "end_date": "1860-01-31",
+      "filename": "cfb6526178f3.json"
+    },
+    "c9b2cc670939": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1854-05-30",
+      "end_date": "1861-02-27",
+      "filename": "c9b2cc670939.json"
+    },
+    "fd7e896dc56f": {
+      "county_id": "kst_part",
+      "name": "Kansas Terr.",
+      "start_date": "1854-05-30",
+      "end_date": "1855-08-24",
+      "filename": "fd7e896dc56f.json"
+    },
+    "8de31f61d2d2": {
+      "county_id": "kst_arapahoe",
+      "name": "ARAPAHOE (Ks Terr)",
+      "start_date": "1855-08-25",
+      "end_date": "1859-02-28",
+      "filename": "8de31f61d2d2.json"
+    },
+    "182c54686590": {
+      "county_id": "kss_washington",
+      "name": "WASHINGTON (Kansas)",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "182c54686590.json"
+    },
+    "eeaec0ff3a51": {
+      "county_id": "kst_part",
+      "name": "Kansas Terr.",
+      "start_date": "1855-08-25",
+      "end_date": "1857-02-19",
+      "filename": "eeaec0ff3a51.json"
+    },
+    "30d4339602c8": {
+      "county_id": "kst_part",
+      "name": "Kansas Terr.",
+      "start_date": "1857-02-20",
+      "end_date": "1860-02-20",
+      "filename": "30d4339602c8.json"
+    },
+    "25eb5cc03de4": {
+      "county_id": "kst_oro",
+      "name": "ORO (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "25eb5cc03de4.json"
+    },
+    "8a74f25f418b": {
+      "county_id": "kst_montana",
+      "name": "MONTANA (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "8a74f25f418b.json"
+    },
+    "ed2998de77f4": {
+      "county_id": "kst_elpaso",
+      "name": "EL PASO (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "ed2998de77f4.json"
+    },
+    "59c883f15879": {
+      "county_id": "kst_fremont",
+      "name": "FREMONT (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "59c883f15879.json"
+    },
+    "63844c921579": {
+      "county_id": "kst_broderick",
+      "name": "BRODERICK (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "63844c921579.json"
+    },
+    "b8862ea0dcbb": {
+      "county_id": "kst_arapahoe",
+      "name": "ARAPAHOE (Ks Terr)",
+      "start_date": "1859-03-01",
+      "end_date": "1861-01-28",
+      "filename": "b8862ea0dcbb.json"
+    },
+    "79454f8b3573": {
+      "county_id": "kss_peketon",
+      "name": "PEKETON (Kans., ext)",
+      "start_date": "1860-02-21",
+      "end_date": "1861-01-28",
+      "filename": "79454f8b3573.json"
+    },
+    "d36edfcc2957": {
+      "county_id": "kst_part",
+      "name": "Kansas Terr.",
+      "start_date": "1860-02-21",
+      "end_date": "1861-01-28",
+      "filename": "d36edfcc2957.json"
+    },
+    "4459eaa9c4cc": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1860-02-01",
+      "end_date": "1861-01-11",
+      "filename": "4459eaa9c4cc.json"
+    },
+    "eb0c8134396f": {
+      "county_id": "nms_mora",
+      "name": "MORA (N.M.)",
+      "start_date": "1860-02-01",
+      "end_date": "1861-02-27",
+      "filename": "eb0c8134396f.json"
+    },
+    "05ef0c380352": {
+      "county_id": "cot",
+      "name": "Colorado Terr.",
+      "start_date": "1861-02-28",
+      "end_date": "1861-10-31",
+      "filename": "05ef0c380352.json"
+    },
+    "2a678d5c9e4c": {
+      "county_id": "cos_boulder",
+      "name": "BOULDER",
+      "start_date": "1861-11-01",
+      "end_date": "2001-11-14",
+      "filename": "2a678d5c9e4c.json"
+    },
+    "7d3248bba09d": {
+      "county_id": "cos_clearcreek",
+      "name": "CLEAR CREEK",
+      "start_date": "1861-11-01",
+      "end_date": "2001-12-31",
+      "filename": "7d3248bba09d.json"
+    },
+    "2924ac97d9cd": {
+      "county_id": "cos_gilpin",
+      "name": "GILPIN",
+      "start_date": "1861-11-01",
+      "end_date": "2001-12-31",
+      "filename": "2924ac97d9cd.json"
+    },
+    "f160680f9078": {
+      "county_id": "cos_larimer",
+      "name": "LARIMER",
+      "start_date": "1861-11-01",
+      "end_date": "1909-05-04",
+      "filename": "f160680f9078.json"
+    },
+    "2185375f33a6": {
+      "county_id": "cos_summit",
+      "name": "SUMMIT",
+      "start_date": "1861-11-01",
+      "end_date": "1874-02-01",
+      "filename": "2185375f33a6.json"
+    },
+    "c9833879a42c": {
+      "county_id": "cos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1861-11-01",
+      "end_date": "1874-02-01",
+      "filename": "c9833879a42c.json"
+    },
+    "ac5620c6aa1b": {
+      "county_id": "cos_cheyennereserve",
+      "name": "Cheyenne Reserve",
+      "start_date": "1861-11-01",
+      "end_date": "1868-01-08",
+      "filename": "ac5620c6aa1b.json"
+    },
+    "092d4fc4820c": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1861-11-01",
+      "end_date": "1868-01-05",
+      "filename": "092d4fc4820c.json"
+    },
+    "a0afc28ac9f5": {
+      "county_id": "cos_huerfano",
+      "name": "HUERFANO",
+      "start_date": "1861-11-01",
+      "end_date": "1866-02-08",
+      "filename": "a0afc28ac9f5.json"
+    },
+    "af3fb31745f7": {
+      "county_id": "cos_elpaso",
+      "name": "EL PASO",
+      "start_date": "1861-11-01",
+      "end_date": "1866-02-05",
+      "filename": "af3fb31745f7.json"
+    },
+    "ad025ff69331": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1861-11-01",
+      "end_date": "1864-02-23",
+      "filename": "ad025ff69331.json"
+    },
+    "4a6ba30819e0": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1861-11-01",
+      "end_date": "1864-03-10",
+      "filename": "4a6ba30819e0.json"
+    },
+    "a29cbe2f3a90": {
+      "county_id": "cos_pueblo",
+      "name": "PUEBLO",
+      "start_date": "1861-11-01",
+      "end_date": "1864-03-10",
+      "filename": "a29cbe2f3a90.json"
+    },
+    "cb67bd31b8e0": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1861-11-01",
+      "end_date": "1907-04-08",
+      "filename": "cb67bd31b8e0.json"
+    },
+    "3a188f879d76": {
+      "county_id": "cos_park",
+      "name": "PARK",
+      "start_date": "1861-11-01",
+      "end_date": "1907-04-08",
+      "filename": "3a188f879d76.json"
+    },
+    "f7ed88096bd1": {
+      "county_id": "cos_weld",
+      "name": "WELD",
+      "start_date": "1861-11-01",
+      "end_date": "1887-02-08",
+      "filename": "f7ed88096bd1.json"
+    },
+    "d3a619b75aca": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1861-11-01",
+      "end_date": "1902-11-14",
+      "filename": "d3a619b75aca.json"
+    },
+    "ac24dc1d2a14": {
+      "county_id": "cos_conejos",
+      "name": "GUADALOUPE",
+      "start_date": "1861-11-01",
+      "end_date": "1861-11-06",
+      "filename": "ac24dc1d2a14.json"
+    },
+    "d64e09ec2cca": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1861-11-07",
+      "end_date": "1864-02-23",
+      "filename": "d64e09ec2cca.json"
+    },
+    "84134ede18ee": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1861-01-29",
+      "end_date": "1861-02-27",
+      "filename": "84134ede18ee.json"
+    },
+    "bc3daabe893c": {
+      "county_id": "nms_taos",
+      "name": "TAOS (N.M.)",
+      "start_date": "1861-01-12",
+      "end_date": "1861-02-27",
+      "filename": "bc3daabe893c.json"
+    },
+    "a1cdb0265fd4": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1864-02-24",
+      "end_date": "1874-02-09",
+      "filename": "a1cdb0265fd4.json"
+    },
+    "f9c0f2d70b32": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1864-02-24",
+      "end_date": "1866-12-28",
+      "filename": "f9c0f2d70b32.json"
+    },
+    "a85a47536efd": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1864-03-11",
+      "end_date": "1866-02-05",
+      "filename": "a85a47536efd.json"
+    },
+    "7c549e1ed306": {
+      "county_id": "cos_pueblo",
+      "name": "PUEBLO",
+      "start_date": "1864-03-11",
+      "end_date": "1866-02-05",
+      "filename": "7c549e1ed306.json"
+    },
+    "c9d070ec3af8": {
+      "county_id": "cos_elpaso",
+      "name": "EL PASO",
+      "start_date": "1866-02-06",
+      "end_date": "1870-02-10",
+      "filename": "c9d070ec3af8.json"
+    },
+    "42761bfe55a4": {
+      "county_id": "cos_lasanimas",
+      "name": "LAS ANIMAS",
+      "start_date": "1866-02-09",
+      "end_date": "1868-01-08",
+      "filename": "42761bfe55a4.json"
+    },
+    "82a7112a3408": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1866-12-29",
+      "end_date": "1868-01-08",
+      "filename": "82a7112a3408.json"
+    },
+    "907742a70758": {
+      "county_id": "cos_huerfano",
+      "name": "HUERFANO",
+      "start_date": "1866-02-09",
+      "end_date": "1868-01-08",
+      "filename": "907742a70758.json"
+    },
+    "fc6c819dfc09": {
+      "county_id": "cos_pueblo",
+      "name": "PUEBLO",
+      "start_date": "1866-02-06",
+      "end_date": "1868-01-08",
+      "filename": "fc6c819dfc09.json"
+    },
+    "0e1aa807dd55": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1866-02-06",
+      "end_date": "1868-01-05",
+      "filename": "0e1aa807dd55.json"
+    },
+    "9d1fd09628cf": {
+      "county_id": "cos_saguache",
+      "name": "SAGUACHE",
+      "start_date": "1866-12-29",
+      "end_date": "1872-02-08",
+      "filename": "9d1fd09628cf.json"
+    },
+    "572761178fa0": {
+      "county_id": "cos_huerfano",
+      "name": "HUERFANO",
+      "start_date": "1868-01-09",
+      "end_date": "2001-12-31",
+      "filename": "572761178fa0.json"
+    },
+    "f1d239059253": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1868-01-09",
+      "end_date": "1874-02-09",
+      "filename": "f1d239059253.json"
+    },
+    "d3ca0fec79f0": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1970-03-26",
+      "end_date": "1970-07-12",
+      "filename": "d3ca0fec79f0.json"
+    },
+    "8802bf4d4333": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-11-30",
+      "end_date": "1970-12-27",
+      "filename": "8802bf4d4333.json"
+    },
+    "caddc2774794": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-11-30",
+      "end_date": "1970-12-27",
+      "filename": "caddc2774794.json"
+    },
+    "4e47186a6bee": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-09-28",
+      "end_date": "1970-11-29",
+      "filename": "4e47186a6bee.json"
+    },
+    "33d564c1c297": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1970-09-28",
+      "end_date": "1971-11-10",
+      "filename": "33d564c1c297.json"
+    },
+    "21222859a88c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-09-09",
+      "end_date": "1970-09-27",
+      "filename": "21222859a88c.json"
+    },
+    "3ae16d9f116a": {
+      "county_id": "cos_routt",
+      "name": "ROUTT",
+      "start_date": "1930-01-01",
+      "end_date": "2001-12-31",
+      "filename": "3ae16d9f116a.json"
+    },
+    "a100db83dee0": {
+      "county_id": "cos_rioblanco",
+      "name": "RIO BLANCO",
+      "start_date": "1930-01-01",
+      "end_date": "2001-12-31",
+      "filename": "a100db83dee0.json"
+    },
+    "481a8c646c5f": {
+      "county_id": "cos_garfield",
+      "name": "GARFIELD",
+      "start_date": "1930-01-01",
+      "end_date": "2001-12-31",
+      "filename": "481a8c646c5f.json"
+    },
+    "75a0d5f03a74": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1941-12-11",
+      "end_date": "1942-11-29",
+      "filename": "75a0d5f03a74.json"
+    },
+    "e6e280870791": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1941-12-11",
+      "end_date": "1942-11-29",
+      "filename": "e6e280870791.json"
+    },
+    "22aa949c873c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1942-11-30",
+      "end_date": "1943-12-30",
+      "filename": "22aa949c873c.json"
+    },
+    "c1e9d0a5af9a": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1942-11-30",
+      "end_date": "1949-04-08",
+      "filename": "c1e9d0a5af9a.json"
+    },
+    "055cc45d2213": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1943-12-31",
+      "end_date": "1944-11-26",
+      "filename": "055cc45d2213.json"
+    },
+    "a7e6cd73a629": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1943-12-31",
+      "end_date": "1944-11-26",
+      "filename": "a7e6cd73a629.json"
+    },
+    "2ce6e456c944": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1953-04-02",
+      "end_date": "1953-10-01",
+      "filename": "2ce6e456c944.json"
+    },
+    "8c6be40b3127": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1954-04-28",
+      "end_date": "1954-08-22",
+      "filename": "8c6be40b3127.json"
+    },
+    "374fbbed579e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1954-04-28",
+      "end_date": "1954-08-22",
+      "filename": "374fbbed579e.json"
+    },
+    "46d92f35b7cd": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1954-08-23",
+      "end_date": "1954-11-07",
+      "filename": "46d92f35b7cd.json"
+    },
+    "efe7f2fe2aa0": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1954-08-23",
+      "end_date": "1954-11-07",
+      "filename": "efe7f2fe2aa0.json"
+    },
+    "e2690cbe25d9": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1954-12-07",
+      "end_date": "1955-01-03",
+      "filename": "e2690cbe25d9.json"
+    },
+    "abe9683a28b4": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1954-12-07",
+      "end_date": "1955-01-03",
+      "filename": "abe9683a28b4.json"
+    },
+    "a6ad42f687d1": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1954-11-08",
+      "end_date": "1954-12-06",
+      "filename": "a6ad42f687d1.json"
+    },
+    "17be2c085a5e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-11-21",
+      "end_date": "1966-12-26",
+      "filename": "17be2c085a5e.json"
+    },
+    "a60f21642b53": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-01-21",
+      "end_date": "1966-03-27",
+      "filename": "a60f21642b53.json"
+    },
+    "892cc2ffa0c4": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1966-01-21",
+      "end_date": "1966-11-20",
+      "filename": "892cc2ffa0c4.json"
+    },
+    "37325f9de614": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-08-22",
+      "end_date": "1966-11-20",
+      "filename": "37325f9de614.json"
+    },
+    "65b3da916b7f": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1966-08-22",
+      "end_date": "1967-01-15",
+      "filename": "65b3da916b7f.json"
+    },
+    "a29d1181ca2a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1967-12-11",
+      "end_date": "1968-01-21",
+      "filename": "a29d1181ca2a.json"
+    },
+    "f5e527590985": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1967-12-11",
+      "end_date": "1968-01-21",
+      "filename": "f5e527590985.json"
+    },
+    "7cb6b9de0257": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1967-01-16",
+      "end_date": "1967-12-10",
+      "filename": "7cb6b9de0257.json"
+    },
+    "1194f8384578": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1967-01-16",
+      "end_date": "1968-01-21",
+      "filename": "1194f8384578.json"
+    },
+    "3fe342e9bff3": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1970-09-09",
+      "end_date": "1971-10-08",
+      "filename": "3fe342e9bff3.json"
+    },
+    "4e7b898d1f3b": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-01-06",
+      "end_date": "1970-02-08",
+      "filename": "4e7b898d1f3b.json"
+    },
+    "295c14976801": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-01-06",
+      "end_date": "1970-03-15",
+      "filename": "295c14976801.json"
+    },
+    "32dd9fbc5579": {
+      "county_id": "cos_pueblo",
+      "name": "PUEBLO",
+      "start_date": "1868-01-09",
+      "end_date": "1870-02-10",
+      "filename": "32dd9fbc5579.json"
+    },
+    "9b5d68f71411": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1868-01-09",
+      "end_date": "1877-03-08",
+      "filename": "9b5d68f71411.json"
+    },
+    "835d35a7d3af": {
+      "county_id": "cos_nca2",
+      "name": "NCA 2",
+      "start_date": "1868-01-09",
+      "end_date": "1877-03-08",
+      "filename": "835d35a7d3af.json"
+    },
+    "764b235a85b8": {
+      "county_id": "cos_greenwood",
+      "name": "GREENWOOD (ext)",
+      "start_date": "1870-02-11",
+      "end_date": "1874-02-01",
+      "filename": "764b235a85b8.json"
+    },
+    "2877173f822c": {
+      "county_id": "cos_cheyennereserve",
+      "name": "Cheyenne Reserve",
+      "start_date": "1870-02-11",
+      "end_date": "1874-02-01",
+      "filename": "2877173f822c.json"
+    },
+    "f27b15f3cad9": {
+      "county_id": "cos_saguache",
+      "name": "SAGUACHE",
+      "start_date": "1872-02-09",
+      "end_date": "1874-02-09",
+      "filename": "f27b15f3cad9.json"
+    },
+    "489568bb9c3b": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1872-02-09",
+      "end_date": "1874-02-09",
+      "filename": "489568bb9c3b.json"
+    },
+    "959c22a579dc": {
+      "county_id": "cos_platte",
+      "name": "PLATTE (prop)",
+      "start_date": "1872-02-09",
+      "end_date": "1872-02-09",
+      "filename": "959c22a579dc.json"
+    },
+    "1139b4e78696": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1874-02-10",
+      "end_date": "1913-03-07",
+      "filename": "1139b4e78696.json"
+    },
+    "258b09a8a455": {
+      "county_id": "cos_bent",
+      "name": "BENT",
+      "start_date": "1874-02-06",
+      "end_date": "1889-03-24",
+      "filename": "258b09a8a455.json"
+    },
+    "a7801adfeae1": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1874-02-10",
+      "end_date": "1885-04-13",
+      "filename": "a7801adfeae1.json"
+    },
+    "ba4ca1774e07": {
+      "county_id": "cos_gunnison",
+      "name": "GUNNISON",
+      "start_date": "1881-02-23",
+      "end_date": "1883-02-10",
+      "filename": "ba4ca1774e07.json"
+    },
+    "80165b8d46a7": {
+      "county_id": "cos_delta",
+      "name": "DELTA",
+      "start_date": "1883-02-11",
+      "end_date": "2001-12-31",
+      "filename": "80165b8d46a7.json"
+    },
+    "018d9141edbf": {
+      "county_id": "cos_eagle",
+      "name": "EAGLE",
+      "start_date": "1883-02-11",
+      "end_date": "2001-12-31",
+      "filename": "018d9141edbf.json"
+    },
+    "cb028d186653": {
+      "county_id": "cos_summit",
+      "name": "SUMMIT",
+      "start_date": "1883-02-11",
+      "end_date": "2001-12-31",
+      "filename": "cb028d186653.json"
+    },
+    "f0c0f7741fab": {
+      "county_id": "cos_montrose",
+      "name": "MONTROSE",
+      "start_date": "1883-02-11",
+      "end_date": "1883-02-26",
+      "filename": "f0c0f7741fab.json"
+    },
+    "09eebb2d860a": {
+      "county_id": "cos_gunnison",
+      "name": "GUNNISON",
+      "start_date": "1883-02-11",
+      "end_date": "1883-02-13",
+      "filename": "09eebb2d860a.json"
+    },
+    "1b55574b8309": {
+      "county_id": "cos_mesa",
+      "name": "MESA",
+      "start_date": "1883-02-14",
+      "end_date": "2001-12-31",
+      "filename": "1b55574b8309.json"
+    },
+    "0aac6bb77f9f": {
+      "county_id": "cos_gunnison",
+      "name": "GUNNISON",
+      "start_date": "1883-02-14",
+      "end_date": "1883-02-26",
+      "filename": "0aac6bb77f9f.json"
+    },
+    "70b3e17e1c44": {
+      "county_id": "cos_gunnison",
+      "name": "GUNNISON",
+      "start_date": "1883-02-27",
+      "end_date": "2001-12-31",
+      "filename": "70b3e17e1c44.json"
+    },
+    "1692a3ef6184": {
+      "county_id": "cos_montrose",
+      "name": "MONTROSE",
+      "start_date": "1883-02-27",
+      "end_date": "1913-03-23",
+      "filename": "1692a3ef6184.json"
+    },
+    "82c520157ce4": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1947-12-31",
+      "end_date": "1948-03-17",
+      "filename": "82c520157ce4.json"
+    },
+    "0acc06df8539": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1947-12-31",
+      "end_date": "1948-04-02",
+      "filename": "0acc06df8539.json"
+    },
+    "db6959168841": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1947-03-27",
+      "end_date": "1947-12-26",
+      "filename": "db6959168841.json"
+    },
+    "b886cf14e326": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1947-03-27",
+      "end_date": "1947-12-26",
+      "filename": "b886cf14e326.json"
+    },
+    "8b94383e5f70": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1947-02-13",
+      "end_date": "1947-03-26",
+      "filename": "8b94383e5f70.json"
+    },
+    "73aaa37d5485": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1947-02-13",
+      "end_date": "1947-03-26",
+      "filename": "73aaa37d5485.json"
+    },
+    "7dcf5a3b2277": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1948-04-03",
+      "end_date": "1948-10-04",
+      "filename": "7dcf5a3b2277.json"
+    },
+    "51b0078060da": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1948-04-03",
+      "end_date": "1948-10-04",
+      "filename": "51b0078060da.json"
+    },
+    "069cbdcf7260": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1960-09-13",
+      "end_date": "1960-11-08",
+      "filename": "069cbdcf7260.json"
+    },
+    "8168e6f47346": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1960-09-13",
+      "end_date": "1961-02-13",
+      "filename": "8168e6f47346.json"
+    },
+    "05bb0ed76cdd": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-08-07",
+      "end_date": "1961-12-28",
+      "filename": "05bb0ed76cdd.json"
+    },
+    "e1ee5e8eaf62": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-08-07",
+      "end_date": "1961-12-28",
+      "filename": "e1ee5e8eaf62.json"
+    },
+    "f41f5aec3eb9": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-12-29",
+      "end_date": "1962-03-18",
+      "filename": "f41f5aec3eb9.json"
+    },
+    "ad02114a3f96": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-12-29",
+      "end_date": "1962-03-18",
+      "filename": "ad02114a3f96.json"
+    },
+    "4f28b03a30d2": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-07-25",
+      "end_date": "1961-08-06",
+      "filename": "4f28b03a30d2.json"
+    },
+    "d320b71d1baf": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-07-25",
+      "end_date": "1961-08-06",
+      "filename": "d320b71d1baf.json"
+    },
+    "f2409022afa5": {
+      "county_id": "cos_nca1",
+      "name": "NCA 1",
+      "start_date": "1868-01-09",
+      "end_date": "1870-02-10",
+      "filename": "f2409022afa5.json"
+    },
+    "830b054f4ada": {
+      "county_id": "cos_cheyennereserve",
+      "name": "Cheyenne Reserve",
+      "start_date": "1868-01-09",
+      "end_date": "1870-02-10",
+      "filename": "830b054f4ada.json"
+    },
+    "34f629a303f1": {
+      "county_id": "cos_lasanimas",
+      "name": "LAS ANIMAS",
+      "start_date": "1868-01-09",
+      "end_date": "1870-02-10",
+      "filename": "34f629a303f1.json"
+    },
+    "37d0c16dd280": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1868-01-06",
+      "end_date": "1872-02-08",
+      "filename": "37d0c16dd280.json"
+    },
+    "ca1603ef6d71": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1868-01-06",
+      "end_date": "1868-01-08",
+      "filename": "ca1603ef6d71.json"
+    },
+    "f1cc67c2df1c": {
+      "county_id": "cos_pueblo",
+      "name": "PUEBLO",
+      "start_date": "1870-02-11",
+      "end_date": "2001-12-31",
+      "filename": "f1cc67c2df1c.json"
+    },
+    "a38567859f57": {
+      "county_id": "cos_elpaso",
+      "name": "EL PASO",
+      "start_date": "1870-02-11",
+      "end_date": "1899-03-22",
+      "filename": "a38567859f57.json"
+    },
+    "bbcaf001aa1a": {
+      "county_id": "cos_lasanimas",
+      "name": "LAS ANIMAS",
+      "start_date": "1870-02-11",
+      "end_date": "1889-04-15",
+      "filename": "bbcaf001aa1a.json"
+    },
+    "1a8a52835dcf": {
+      "county_id": "cos_bent",
+      "name": "BENT",
+      "start_date": "1870-02-11",
+      "end_date": "1874-02-05",
+      "filename": "1a8a52835dcf.json"
+    },
+    "0000a898ab8f": {
+      "county_id": "cos_saguache",
+      "name": "SAGUACHE",
+      "start_date": "1874-02-10",
+      "end_date": "1879-02-11",
+      "filename": "0000a898ab8f.json"
+    },
+    "5cfb9bd176b2": {
+      "county_id": "cos_riogrande",
+      "name": "RIO GRANDE",
+      "start_date": "1874-02-10",
+      "end_date": "1879-02-11",
+      "filename": "5cfb9bd176b2.json"
+    },
+    "aa401d8aff71": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1874-02-10",
+      "end_date": "1877-03-08",
+      "filename": "aa401d8aff71.json"
+    },
+    "e0a671028787": {
+      "county_id": "cos_hinsdale",
+      "name": "HINSDALE",
+      "start_date": "1874-02-10",
+      "end_date": "1876-04-30",
+      "filename": "e0a671028787.json"
+    },
+    "da494532be9d": {
+      "county_id": "cos_laplata",
+      "name": "LA PLATA",
+      "start_date": "1874-02-10",
+      "end_date": "1876-04-30",
+      "filename": "da494532be9d.json"
+    },
+    "f8980398d81e": {
+      "county_id": "cos_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1874-02-02",
+      "end_date": "2001-12-31",
+      "filename": "f8980398d81e.json"
+    },
+    "b18faad44dc4": {
+      "county_id": "cos_elbert",
+      "name": "ELBERT",
+      "start_date": "1874-02-02",
+      "end_date": "1889-03-24",
+      "filename": "b18faad44dc4.json"
+    },
+    "9907e7af6336": {
+      "county_id": "cos_summit",
+      "name": "SUMMIT",
+      "start_date": "1874-02-02",
+      "end_date": "1879-02-07",
+      "filename": "9907e7af6336.json"
+    },
+    "61e93f197ed9": {
+      "county_id": "cos_grand",
+      "name": "GRAND",
+      "start_date": "1874-02-02",
+      "end_date": "1877-01-28",
+      "filename": "61e93f197ed9.json"
+    },
+    "f88c49a54e27": {
+      "county_id": "cos_greenwood",
+      "name": "GREENWOOD (ext)",
+      "start_date": "1874-02-02",
+      "end_date": "1874-02-05",
+      "filename": "f88c49a54e27.json"
+    },
+    "fc95e0be56ce": {
+      "county_id": "cos_hinsdale",
+      "name": "HINSDALE",
+      "start_date": "1876-05-01",
+      "end_date": "1893-03-26",
+      "filename": "fc95e0be56ce.json"
+    },
+    "999f684ecac2": {
+      "county_id": "cos_laplata",
+      "name": "LA PLATA",
+      "start_date": "1876-05-01",
+      "end_date": "1889-04-15",
+      "filename": "999f684ecac2.json"
+    },
+    "82bf4f0e3017": {
+      "county_id": "cos_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1876-05-01",
+      "end_date": "1877-01-17",
+      "filename": "82bf4f0e3017.json"
+    },
+    "be85827b0ff5": {
+      "county_id": "cos_custer",
+      "name": "CUSTER",
+      "start_date": "1877-03-09",
+      "end_date": "2001-12-31",
+      "filename": "be85827b0ff5.json"
+    },
+    "e89573cf9ff2": {
+      "county_id": "cos_sanjuan",
+      "name": "SAN JUAN",
+      "start_date": "1877-01-18",
+      "end_date": "2001-12-31",
+      "filename": "e89573cf9ff2.json"
+    },
+    "2e27a76086d6": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1877-03-09",
+      "end_date": "1899-03-22",
+      "filename": "2e27a76086d6.json"
+    },
+    "6e0e0febb481": {
+      "county_id": "cos_grand",
+      "name": "GRAND",
+      "start_date": "1877-01-29",
+      "end_date": "2001-12-31",
+      "filename": "6e0e0febb481.json"
+    },
+    "c572f6c0f986": {
+      "county_id": "cos_routt",
+      "name": "ROUTT",
+      "start_date": "1877-01-29",
+      "end_date": "1911-02-26",
+      "filename": "c572f6c0f986.json"
+    },
+    "ac5b4a43f39b": {
+      "county_id": "cos_gunnison",
+      "name": "GUNNISON",
+      "start_date": "1877-03-09",
+      "end_date": "1881-02-22",
+      "filename": "ac5b4a43f39b.json"
+    },
+    "148ca2576244": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1877-01-18",
+      "end_date": "1881-02-18",
+      "filename": "148ca2576244.json"
+    },
+    "3223f3130277": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1877-03-09",
+      "end_date": "1879-02-07",
+      "filename": "3223f3130277.json"
+    },
+    "228c96b4c663": {
+      "county_id": "cos_chaffee",
+      "name": "CHAFFEE",
+      "start_date": "1879-02-10",
+      "end_date": "2001-12-31",
+      "filename": "228c96b4c663.json"
+    },
+    "b3d992cd4109": {
+      "county_id": "cos_saguache",
+      "name": "SAGUACHE",
+      "start_date": "1879-02-12",
+      "end_date": "1893-03-26",
+      "filename": "b3d992cd4109.json"
+    },
+    "c0a2c61ea320": {
+      "county_id": "cos_riogrande",
+      "name": "RIO GRANDE",
+      "start_date": "1879-02-12",
+      "end_date": "1893-03-26",
+      "filename": "c0a2c61ea320.json"
+    },
+    "11024ba391b6": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1879-02-10",
+      "end_date": "2001-12-31",
+      "filename": "11024ba391b6.json"
+    },
+    "8b359ba35a5f": {
+      "county_id": "cos_summit",
+      "name": "SUMMIT",
+      "start_date": "1879-02-08",
+      "end_date": "1883-02-09",
+      "filename": "8b359ba35a5f.json"
+    },
+    "c060b1c0dd38": {
+      "county_id": "cos_lake",
+      "name": "LAKE",
+      "start_date": "1879-02-08",
+      "end_date": "1879-02-09",
+      "filename": "c060b1c0dd38.json"
+    },
+    "b19b1eb6b591": {
+      "county_id": "cos_carbonate",
+      "name": "CARBONATE (ext)",
+      "start_date": "1879-02-08",
+      "end_date": "1879-02-09",
+      "filename": "b19b1eb6b591.json"
+    },
+    "c0ad85b3cd48": {
+      "county_id": "cos_pitkin",
+      "name": "PITKIN",
+      "start_date": "1881-02-23",
+      "end_date": "2001-12-31",
+      "filename": "c0ad85b3cd48.json"
+    },
+    "70c1f389e64b": {
+      "county_id": "cos_dolores",
+      "name": "DOLORES",
+      "start_date": "1881-02-19",
+      "end_date": "1923-03-01",
+      "filename": "70c1f389e64b.json"
+    },
+    "4029748622a3": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1881-02-19",
+      "end_date": "1883-02-26",
+      "filename": "4029748622a3.json"
+    },
+    "0b84cbcbbed0": {
+      "county_id": "cos_uncompahgre",
+      "name": "UNCOMPAHGRE (ext)",
+      "start_date": "1883-02-27",
+      "end_date": "1883-03-01",
+      "filename": "0b84cbcbbed0.json"
+    },
+    "b30544cd5e0e": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1883-02-27",
+      "end_date": "1883-03-01",
+      "filename": "b30544cd5e0e.json"
+    },
+    "2fb95a721dcd": {
+      "county_id": "cos_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1883-03-02",
+      "end_date": "1917-04-16",
+      "filename": "2fb95a721dcd.json"
+    },
+    "17f2bd9d579d": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1883-03-02",
+      "end_date": "1913-03-23",
+      "filename": "17f2bd9d579d.json"
+    },
+    "b97825307365": {
+      "county_id": "cos_summit",
+      "name": "SUMMIT",
+      "start_date": "1883-02-10",
+      "end_date": "1883-02-10",
+      "filename": "b97825307365.json"
+    },
+    "cd20862454d1": {
+      "county_id": "cos_garfield",
+      "name": "GARFIELD",
+      "start_date": "1883-02-10",
+      "end_date": "1889-03-24",
+      "filename": "cd20862454d1.json"
+    },
+    "f355f2be4f57": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1885-04-14",
+      "end_date": "1905-04-19",
+      "filename": "f355f2be4f57.json"
+    },
+    "8d097f86e7c5": {
+      "county_id": "cos_archuleta",
+      "name": "ARCHULETA",
+      "start_date": "1885-04-14",
+      "end_date": "1905-04-19",
+      "filename": "8d097f86e7c5.json"
+    },
+    "3d15889fd304": {
+      "county_id": "cos_logan",
+      "name": "LOGAN",
+      "start_date": "1887-02-25",
+      "end_date": "1889-03-26",
+      "filename": "3d15889fd304.json"
+    },
+    "66604be909fc": {
+      "county_id": "cos_weld",
+      "name": "WELD",
+      "start_date": "1887-02-25",
+      "end_date": "1889-02-18",
+      "filename": "66604be909fc.json"
+    },
+    "def7d0f56dfa": {
+      "county_id": "cos_weld",
+      "name": "WELD",
+      "start_date": "1887-02-09",
+      "end_date": "1887-02-24",
+      "filename": "def7d0f56dfa.json"
+    },
+    "97378e31a530": {
+      "county_id": "cos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1887-02-09",
+      "end_date": "1889-03-14",
+      "filename": "97378e31a530.json"
+    },
+    "a3a4c94102c1": {
+      "county_id": "cos_baca",
+      "name": "BACA",
+      "start_date": "1889-04-16",
+      "end_date": "2001-12-31",
+      "filename": "a3a4c94102c1.json"
+    },
+    "9f640f795d2d": {
+      "county_id": "cos_bent",
+      "name": "BENT",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "9f640f795d2d.json"
+    },
+    "68b91d47621e": {
+      "county_id": "cos_elbert",
+      "name": "ELBERT",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "68b91d47621e.json"
+    },
+    "c0630d20fa53": {
+      "county_id": "cos_kiowa",
+      "name": "KIOWA",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "c0630d20fa53.json"
+    },
+    "472853ba2f2e": {
+      "county_id": "cos_kitcarson",
+      "name": "KIT CARSON",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "472853ba2f2e.json"
+    },
+    "4d34a2e39996": {
+      "county_id": "cos_laplata",
+      "name": "LA PLATA",
+      "start_date": "1889-04-16",
+      "end_date": "2001-12-31",
+      "filename": "4d34a2e39996.json"
+    },
+    "d6c43fc9ecd7": {
+      "county_id": "cos_lasanimas",
+      "name": "LAS ANIMAS",
+      "start_date": "1889-04-16",
+      "end_date": "2001-12-31",
+      "filename": "d6c43fc9ecd7.json"
+    },
+    "3cc547e5d724": {
+      "county_id": "cos_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "3cc547e5d724.json"
+    },
+    "aa8e366528a0": {
+      "county_id": "cos_logan",
+      "name": "LOGAN",
+      "start_date": "1889-04-09",
+      "end_date": "2001-12-31",
+      "filename": "aa8e366528a0.json"
+    },
+    "3b6faa10e085": {
+      "county_id": "cos_montezuma",
+      "name": "MONTEZUMA",
+      "start_date": "1889-04-16",
+      "end_date": "1970-08-31",
+      "filename": "3b6faa10e085.json"
+    },
+    "19ea94efb9bc": {
+      "county_id": "cos_prowers",
+      "name": "PROWERS",
+      "start_date": "1889-04-11",
+      "end_date": "2001-12-31",
+      "filename": "19ea94efb9bc.json"
+    },
+    "7dd54153bc19": {
+      "county_id": "cos_sedgwick",
+      "name": "SEDGWICK",
+      "start_date": "1889-04-09",
+      "end_date": "2001-12-31",
+      "filename": "7dd54153bc19.json"
+    },
+    "2997acc75fba": {
+      "county_id": "cos_cheyenne",
+      "name": "CHEYENNE",
+      "start_date": "1889-03-25",
+      "end_date": "2001-12-31",
+      "filename": "2997acc75fba.json"
+    },
+    "a7a82e8c3aa5": {
+      "county_id": "cos_morgan",
+      "name": "MORGAN",
+      "start_date": "1889-02-19",
+      "end_date": "2001-12-31",
+      "filename": "a7a82e8c3aa5.json"
+    },
+    "2f812e30c866": {
+      "county_id": "cos_phillips",
+      "name": "PHILLIPS",
+      "start_date": "1889-03-27",
+      "end_date": "2001-12-31",
+      "filename": "2f812e30c866.json"
+    },
+    "482e6820ceaa": {
+      "county_id": "cos_otero",
+      "name": "OTERO",
+      "start_date": "1889-03-25",
+      "end_date": "1911-05-28",
+      "filename": "482e6820ceaa.json"
+    },
+    "b816e5dcc119": {
+      "county_id": "cos_logan",
+      "name": "LOGAN",
+      "start_date": "1889-03-27",
+      "end_date": "1889-04-08",
+      "filename": "b816e5dcc119.json"
+    },
+    "8ca022ded5ed": {
+      "county_id": "cos_elbert",
+      "name": "ELBERT",
+      "start_date": "1889-03-25",
+      "end_date": "1889-04-10",
+      "filename": "8ca022ded5ed.json"
+    },
+    "661360c2529f": {
+      "county_id": "cos_bent",
+      "name": "BENT",
+      "start_date": "1889-03-25",
+      "end_date": "1889-04-10",
+      "filename": "661360c2529f.json"
+    },
+    "c83152b014f1": {
+      "county_id": "cos_rioblanco",
+      "name": "RIO BLANCO",
+      "start_date": "1889-03-25",
+      "end_date": "1929-12-31",
+      "filename": "c83152b014f1.json"
+    },
+    "68369b627382": {
+      "county_id": "cos_garfield",
+      "name": "GARFIELD",
+      "start_date": "1889-03-25",
+      "end_date": "1929-12-31",
+      "filename": "68369b627382.json"
+    },
+    "1e657730537a": {
+      "county_id": "cos_weld",
+      "name": "WELD",
+      "start_date": "1889-02-19",
+      "end_date": "2001-11-14",
+      "filename": "1e657730537a.json"
+    },
+    "8a21dae4464d": {
+      "county_id": "cos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1889-03-15",
+      "end_date": "1903-05-11",
+      "filename": "8a21dae4464d.json"
+    },
+    "9e13059f7862": {
+      "county_id": "cos_yuma",
+      "name": "YUMA",
+      "start_date": "1889-03-15",
+      "end_date": "1903-05-11",
+      "filename": "9e13059f7862.json"
+    },
+    "e1e59672770c": {
+      "county_id": "cos_hinsdale",
+      "name": "HINSDALE",
+      "start_date": "1893-03-27",
+      "end_date": "2001-12-31",
+      "filename": "e1e59672770c.json"
+    },
+    "68638ca19499": {
+      "county_id": "cos_mineral",
+      "name": "MINERAL",
+      "start_date": "1893-03-27",
+      "end_date": "2001-12-31",
+      "filename": "68638ca19499.json"
+    },
+    "feac8dea78e7": {
+      "county_id": "cos_riogrande",
+      "name": "RIO GRANDE",
+      "start_date": "1893-03-27",
+      "end_date": "2001-12-31",
+      "filename": "feac8dea78e7.json"
+    },
+    "f726c5125daa": {
+      "county_id": "cos_saguache",
+      "name": "SAGUACHE",
+      "start_date": "1893-03-27",
+      "end_date": "2001-12-31",
+      "filename": "f726c5125daa.json"
+    },
+    "661329d49d1a": {
+      "county_id": "cos_elpaso",
+      "name": "EL PASO",
+      "start_date": "1899-03-23",
+      "end_date": "2001-12-31",
+      "filename": "661329d49d1a.json"
+    },
+    "c42b90cdd5f7": {
+      "county_id": "cos_fremont",
+      "name": "FREMONT",
+      "start_date": "1899-03-23",
+      "end_date": "2001-12-31",
+      "filename": "c42b90cdd5f7.json"
+    },
+    "914776ffac0c": {
+      "county_id": "cos_teller",
+      "name": "TELLER",
+      "start_date": "1899-03-23",
+      "end_date": "2001-12-31",
+      "filename": "914776ffac0c.json"
+    },
+    "ad24b60e11fc": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1902-11-15",
+      "end_date": "1903-05-11",
+      "filename": "ad24b60e11fc.json"
+    },
+    "50f36f2706e2": {
+      "county_id": "cos_arapahoe",
+      "name": "SOUTH ARAPAHOE",
+      "start_date": "1902-11-15",
+      "end_date": "1903-04-10",
+      "filename": "50f36f2706e2.json"
+    },
+    "d5c8c13bebcf": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1902-11-15",
+      "end_date": "1941-12-10",
+      "filename": "d5c8c13bebcf.json"
+    },
+    "4c00a34d5f8d": {
+      "county_id": "cos_washington",
+      "name": "WASHINGTON",
+      "start_date": "1903-05-12",
+      "end_date": "2001-12-31",
+      "filename": "4c00a34d5f8d.json"
+    },
+    "a1c73757cc77": {
+      "county_id": "cos_yuma",
+      "name": "YUMA",
+      "start_date": "1903-05-12",
+      "end_date": "2001-12-31",
+      "filename": "a1c73757cc77.json"
+    },
+    "5e2588538210": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1903-05-12",
+      "end_date": "1941-12-10",
+      "filename": "5e2588538210.json"
+    },
+    "9452d8af89af": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1903-04-11",
+      "end_date": "1943-12-30",
+      "filename": "9452d8af89af.json"
+    },
+    "01a04c732b80": {
+      "county_id": "cos_archuleta",
+      "name": "ARCHULETA",
+      "start_date": "1905-04-20",
+      "end_date": "2001-12-31",
+      "filename": "01a04c732b80.json"
+    },
+    "ab1293ef4b70": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1905-04-20",
+      "end_date": "1913-03-07",
+      "filename": "ab1293ef4b70.json"
+    },
+    "27c193deb16c": {
+      "county_id": "cos_park",
+      "name": "PARK",
+      "start_date": "1907-04-09",
+      "end_date": "2001-12-31",
+      "filename": "27c193deb16c.json"
+    },
+    "02d1ea911ce2": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1907-04-09",
+      "end_date": "1948-03-17",
+      "filename": "02d1ea911ce2.json"
+    },
+    "ab93346b2055": {
+      "county_id": "cos_jackson",
+      "name": "JACKSON",
+      "start_date": "1909-05-05",
+      "end_date": "2001-12-31",
+      "filename": "ab93346b2055.json"
+    },
+    "1ff0a701dbee": {
+      "county_id": "cos_larimer",
+      "name": "LARIMER",
+      "start_date": "1909-05-05",
+      "end_date": "2001-12-31",
+      "filename": "1ff0a701dbee.json"
+    },
+    "ba7af39d848a": {
+      "county_id": "cos_crowley",
+      "name": "CROWLEY",
+      "start_date": "1911-05-29",
+      "end_date": "2001-12-31",
+      "filename": "ba7af39d848a.json"
+    },
+    "ec2bca408501": {
+      "county_id": "cos_moffat",
+      "name": "MOFFAT",
+      "start_date": "1911-02-27",
+      "end_date": "2001-12-31",
+      "filename": "ec2bca408501.json"
+    },
+    "f20e73ddc8ee": {
+      "county_id": "cos_otero",
+      "name": "OTERO",
+      "start_date": "1911-05-29",
+      "end_date": "2001-12-31",
+      "filename": "f20e73ddc8ee.json"
+    },
+    "8e88f054676f": {
+      "county_id": "cos_routt",
+      "name": "ROUTT",
+      "start_date": "1911-02-27",
+      "end_date": "1929-12-31",
+      "filename": "8e88f054676f.json"
+    },
+    "a8b5c70561c0": {
+      "county_id": "cos_alamosa",
+      "name": "ALAMOSA",
+      "start_date": "1913-03-08",
+      "end_date": "2001-12-31",
+      "filename": "a8b5c70561c0.json"
+    },
+    "356e95ce7541": {
+      "county_id": "cos_conejos",
+      "name": "CONEJOS",
+      "start_date": "1913-03-08",
+      "end_date": "2001-12-31",
+      "filename": "356e95ce7541.json"
+    },
+    "096dcc0153b9": {
+      "county_id": "cos_costilla",
+      "name": "COSTILLA",
+      "start_date": "1913-03-08",
+      "end_date": "2001-12-31",
+      "filename": "096dcc0153b9.json"
+    },
+    "2427b9fb75b2": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1913-03-24",
+      "end_date": "1917-04-16",
+      "filename": "2427b9fb75b2.json"
+    },
+    "28672daf3cbf": {
+      "county_id": "cos_montrose",
+      "name": "MONTROSE",
+      "start_date": "1913-03-24",
+      "end_date": "2001-12-31",
+      "filename": "28672daf3cbf.json"
+    },
+    "a58235fc8d99": {
+      "county_id": "cos_ouray",
+      "name": "OURAY",
+      "start_date": "1917-04-17",
+      "end_date": "2001-12-31",
+      "filename": "a58235fc8d99.json"
+    },
+    "b39448122730": {
+      "county_id": "cos_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1917-04-17",
+      "end_date": "1923-03-01",
+      "filename": "b39448122730.json"
+    },
+    "6a2462f1f727": {
+      "county_id": "cos_sanmiguel",
+      "name": "SAN MIGUEL",
+      "start_date": "1923-03-02",
+      "end_date": "2001-12-31",
+      "filename": "6a2462f1f727.json"
+    },
+    "5ee98b82c825": {
+      "county_id": "cos_dolores",
+      "name": "DOLORES",
+      "start_date": "1923-03-02",
+      "end_date": "1970-08-31",
+      "filename": "5ee98b82c825.json"
+    },
+    "cad7bd7d90c9": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1944-12-21",
+      "end_date": "1945-12-30",
+      "filename": "cad7bd7d90c9.json"
+    },
+    "0af8ee273611": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1944-12-21",
+      "end_date": "1945-12-30",
+      "filename": "0af8ee273611.json"
+    },
+    "dd64af2249cc": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1944-11-27",
+      "end_date": "1944-12-20",
+      "filename": "dd64af2249cc.json"
+    },
+    "49167cb8da03": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1944-11-27",
+      "end_date": "1944-12-20",
+      "filename": "49167cb8da03.json"
+    },
+    "01004940e5bd": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1945-12-31",
+      "end_date": "1946-12-30",
+      "filename": "01004940e5bd.json"
+    },
+    "6bb4cc10143c": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1945-12-31",
+      "end_date": "1946-12-30",
+      "filename": "6bb4cc10143c.json"
+    },
+    "17abd837131f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1946-12-31",
+      "end_date": "1947-02-12",
+      "filename": "17abd837131f.json"
+    },
+    "8c4d76e6e0c2": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1946-12-31",
+      "end_date": "1947-02-12",
+      "filename": "8c4d76e6e0c2.json"
+    },
+    "e9dda5cf28ee": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1947-12-27",
+      "end_date": "1947-12-30",
+      "filename": "e9dda5cf28ee.json"
+    },
+    "f32d342e2504": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1947-12-27",
+      "end_date": "1947-12-30",
+      "filename": "f32d342e2504.json"
+    },
+    "7eefd01ce9a1": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1948-10-05",
+      "end_date": "1949-04-08",
+      "filename": "7eefd01ce9a1.json"
+    },
+    "2d5b87038e02": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1948-10-05",
+      "end_date": "1949-04-08",
+      "filename": "2d5b87038e02.json"
+    },
+    "6d56f5b444d1": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1948-03-18",
+      "end_date": "1948-04-02",
+      "filename": "6d56f5b444d1.json"
+    },
+    "2a84b111f023": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1948-03-18",
+      "end_date": "1960-11-08",
+      "filename": "2a84b111f023.json"
+    },
+    "e217925dae07": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1949-04-11",
+      "end_date": "1950-02-15",
+      "filename": "e217925dae07.json"
+    },
+    "45e8c85514d6": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1949-04-11",
+      "end_date": "1950-08-14",
+      "filename": "45e8c85514d6.json"
+    },
+    "6cb58f036932": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1949-04-09",
+      "end_date": "1949-04-10",
+      "filename": "6cb58f036932.json"
+    },
+    "03a0118a1a49": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1949-04-09",
+      "end_date": "1950-02-15",
+      "filename": "03a0118a1a49.json"
+    },
+    "af9b03bc06ba": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1949-04-09",
+      "end_date": "1949-04-10",
+      "filename": "af9b03bc06ba.json"
+    },
+    "aeba9be7ba42": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1950-08-15",
+      "end_date": "1950-12-10",
+      "filename": "aeba9be7ba42.json"
+    },
+    "0aea54f8dd8d": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1950-08-15",
+      "end_date": "1950-12-10",
+      "filename": "0aea54f8dd8d.json"
+    },
+    "9090ef7863f3": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1950-12-11",
+      "end_date": "1951-02-19",
+      "filename": "9090ef7863f3.json"
+    },
+    "467bd25f5e50": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1950-12-11",
+      "end_date": "1951-02-19",
+      "filename": "467bd25f5e50.json"
+    },
+    "a6482b077870": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1950-02-16",
+      "end_date": "1950-08-14",
+      "filename": "a6482b077870.json"
+    },
+    "49f4a2abf29c": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1950-02-16",
+      "end_date": "1951-10-28",
+      "filename": "49f4a2abf29c.json"
+    },
+    "7cd547e4b2bc": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1951-07-18",
+      "end_date": "1951-10-28",
+      "filename": "7cd547e4b2bc.json"
+    },
+    "0034cebee2ea": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1951-07-18",
+      "end_date": "1952-01-06",
+      "filename": "0034cebee2ea.json"
+    },
+    "ec4d66380449": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1951-10-29",
+      "end_date": "1952-01-06",
+      "filename": "ec4d66380449.json"
+    },
+    "8876f1236387": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1951-10-29",
+      "end_date": "1953-04-01",
+      "filename": "8876f1236387.json"
+    },
+    "9fe50de766ee": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1951-02-20",
+      "end_date": "1951-07-17",
+      "filename": "9fe50de766ee.json"
+    },
+    "3193570d154a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1951-02-20",
+      "end_date": "1951-07-17",
+      "filename": "3193570d154a.json"
+    },
+    "6db00a3dba45": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1952-07-16",
+      "end_date": "1952-09-01",
+      "filename": "6db00a3dba45.json"
+    },
+    "08d57b6112aa": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1952-07-16",
+      "end_date": "1952-09-01",
+      "filename": "08d57b6112aa.json"
+    },
+    "5212ecf2400a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1952-09-02",
+      "end_date": "1953-04-01",
+      "filename": "5212ecf2400a.json"
+    },
+    "8090f935c93d": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1952-09-02",
+      "end_date": "1953-10-01",
+      "filename": "8090f935c93d.json"
+    },
+    "49439b15a002": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1952-01-07",
+      "end_date": "1952-07-15",
+      "filename": "49439b15a002.json"
+    },
+    "76d469bdab55": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1952-01-07",
+      "end_date": "1952-07-15",
+      "filename": "76d469bdab55.json"
+    },
+    "1857e2d3a12e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1953-10-02",
+      "end_date": "1954-03-15",
+      "filename": "1857e2d3a12e.json"
+    },
+    "a17416bd6202": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1953-10-02",
+      "end_date": "1954-03-15",
+      "filename": "a17416bd6202.json"
+    },
+    "76033e78c0fe": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1953-10-02",
+      "end_date": "1960-12-27",
+      "filename": "76033e78c0fe.json"
+    },
+    "a1dae6c0f2b0": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1953-04-02",
+      "end_date": "1953-10-01",
+      "filename": "a1dae6c0f2b0.json"
+    },
+    "659bd0500c5d": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1954-11-08",
+      "end_date": "1954-12-06",
+      "filename": "659bd0500c5d.json"
+    },
+    "5cbced34f517": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1954-03-16",
+      "end_date": "1954-04-27",
+      "filename": "5cbced34f517.json"
+    },
+    "19c895505d11": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1954-03-16",
+      "end_date": "1954-04-27",
+      "filename": "19c895505d11.json"
+    },
+    "fe8e4fe27c29": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-04-15",
+      "end_date": "1955-05-31",
+      "filename": "fe8e4fe27c29.json"
+    },
+    "6535aeb5228e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-04-15",
+      "end_date": "1955-05-31",
+      "filename": "6535aeb5228e.json"
+    },
+    "dbee8b80b41f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-04-05",
+      "end_date": "1955-04-14",
+      "filename": "dbee8b80b41f.json"
+    },
+    "2f985c3d26d6": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-04-05",
+      "end_date": "1955-04-14",
+      "filename": "2f985c3d26d6.json"
+    },
+    "41dbc5507379": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-02-15",
+      "end_date": "1955-04-04",
+      "filename": "41dbc5507379.json"
+    },
+    "611651bae464": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-02-15",
+      "end_date": "1955-04-04",
+      "filename": "611651bae464.json"
+    },
+    "f18d9a403e0b": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-01-31",
+      "end_date": "1955-02-14",
+      "filename": "f18d9a403e0b.json"
+    },
+    "563273fde7d5": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-01-31",
+      "end_date": "1955-02-14",
+      "filename": "563273fde7d5.json"
+    },
+    "d9e1d9fd851e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-06-01",
+      "end_date": "1955-06-29",
+      "filename": "d9e1d9fd851e.json"
+    },
+    "f50688c394a8": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-06-01",
+      "end_date": "1955-06-29",
+      "filename": "f50688c394a8.json"
+    },
+    "2c66c3d33ac0": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-05-08",
+      "end_date": "1961-06-12",
+      "filename": "2c66c3d33ac0.json"
+    },
+    "9912c702b2fc": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1961-05-08",
+      "end_date": "1962-03-26",
+      "filename": "9912c702b2fc.json"
+    },
+    "a4f26b080ec9": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-02-14",
+      "end_date": "1961-03-12",
+      "filename": "a4f26b080ec9.json"
+    },
+    "1519f49b6d31": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-02-14",
+      "end_date": "1961-03-12",
+      "filename": "1519f49b6d31.json"
+    },
+    "445e8c5d2b64": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-07-31",
+      "end_date": "1962-09-05",
+      "filename": "445e8c5d2b64.json"
+    },
+    "befa7670a34e": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1962-07-31",
+      "end_date": "1962-10-01",
+      "filename": "befa7670a34e.json"
+    },
+    "bada2f69c81a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-03-27",
+      "end_date": "1962-07-30",
+      "filename": "bada2f69c81a.json"
+    },
+    "743b6065b815": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1962-03-27",
+      "end_date": "1962-07-30",
+      "filename": "743b6065b815.json"
+    },
+    "5526809bd783": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-10-15",
+      "end_date": "1963-04-14",
+      "filename": "5526809bd783.json"
+    },
+    "4d46982b2be5": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-04-05",
+      "end_date": "1965-04-18",
+      "filename": "4d46982b2be5.json"
+    },
+    "eaf3d8605f73": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-04-05",
+      "end_date": "1965-04-18",
+      "filename": "eaf3d8605f73.json"
+    },
+    "f7f01e686fa9": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-08-23",
+      "end_date": "1965-09-12",
+      "filename": "f7f01e686fa9.json"
+    },
+    "7ec9d6cda85a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-08-23",
+      "end_date": "1965-09-26",
+      "filename": "7ec9d6cda85a.json"
+    },
+    "233339bc81af": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-12-13",
+      "end_date": "1965-12-26",
+      "filename": "233339bc81af.json"
+    },
+    "f71f0993530f": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-12-13",
+      "end_date": "1965-12-26",
+      "filename": "f71f0993530f.json"
+    },
+    "20d17fe7992e": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1965-12-13",
+      "end_date": "1966-03-27",
+      "filename": "20d17fe7992e.json"
+    },
+    "8c2647a2d2ad": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-12-27",
+      "end_date": "1966-01-20",
+      "filename": "8c2647a2d2ad.json"
+    },
+    "74cb4b841bb7": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-12-27",
+      "end_date": "1966-01-20",
+      "filename": "74cb4b841bb7.json"
+    },
+    "d32cd1929fac": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-06-30",
+      "end_date": "1955-09-12",
+      "filename": "d32cd1929fac.json"
+    },
+    "71c619e73c08": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-06-30",
+      "end_date": "1955-09-12",
+      "filename": "71c619e73c08.json"
+    },
+    "c5048db4f129": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-10-18",
+      "end_date": "1956-01-03",
+      "filename": "c5048db4f129.json"
+    },
+    "9b8b3b335e05": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-10-18",
+      "end_date": "1956-01-03",
+      "filename": "9b8b3b335e05.json"
+    },
+    "e951d5a742ab": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-09-13",
+      "end_date": "1955-09-13",
+      "filename": "e951d5a742ab.json"
+    },
+    "0bfbcb82e0f8": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-09-13",
+      "end_date": "1955-09-13",
+      "filename": "0bfbcb82e0f8.json"
+    },
+    "998c380070db": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-09-14",
+      "end_date": "1955-10-17",
+      "filename": "998c380070db.json"
+    },
+    "cd362f67ef54": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-09-14",
+      "end_date": "1955-10-17",
+      "filename": "cd362f67ef54.json"
+    },
+    "187e7267f65f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1955-01-04",
+      "end_date": "1955-01-30",
+      "filename": "187e7267f65f.json"
+    },
+    "e97292b98f08": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1955-01-04",
+      "end_date": "1955-01-30",
+      "filename": "e97292b98f08.json"
+    },
+    "a9d772427a61": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1956-05-10",
+      "end_date": "1956-05-13",
+      "filename": "a9d772427a61.json"
+    },
+    "68eceb736d27": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1956-05-10",
+      "end_date": "1956-05-13",
+      "filename": "68eceb736d27.json"
+    },
+    "43e4b4932e31": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1956-05-14",
+      "end_date": "1956-09-27",
+      "filename": "43e4b4932e31.json"
+    },
+    "8487219363f6": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1956-05-14",
+      "end_date": "1956-09-27",
+      "filename": "8487219363f6.json"
+    },
+    "58ce55e9026e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1956-09-28",
+      "end_date": "1958-01-06",
+      "filename": "58ce55e9026e.json"
+    },
+    "5adedba38d6e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1956-09-28",
+      "end_date": "1958-01-06",
+      "filename": "5adedba38d6e.json"
+    },
+    "d2684ad5f427": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1956-01-04",
+      "end_date": "1956-05-09",
+      "filename": "d2684ad5f427.json"
+    },
+    "9a3d219dc45e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1956-01-04",
+      "end_date": "1956-05-09",
+      "filename": "9a3d219dc45e.json"
+    },
+    "9bbfa1008417": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-04-15",
+      "end_date": "1958-08-04",
+      "filename": "9bbfa1008417.json"
+    },
+    "44adb973af87": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-04-15",
+      "end_date": "1958-08-04",
+      "filename": "44adb973af87.json"
+    },
+    "85ac1177141f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-08-05",
+      "end_date": "1958-09-01",
+      "filename": "85ac1177141f.json"
+    },
+    "883dcd022188": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-08-05",
+      "end_date": "1958-09-01",
+      "filename": "883dcd022188.json"
+    },
+    "cad5344b118d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-12-16",
+      "end_date": "1959-01-05",
+      "filename": "cad5344b118d.json"
+    },
+    "a60cf82e033e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-12-16",
+      "end_date": "1959-01-05",
+      "filename": "a60cf82e033e.json"
+    },
+    "09b260fc9678": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-02-26",
+      "end_date": "1958-04-14",
+      "filename": "09b260fc9678.json"
+    },
+    "db356e7a1061": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-02-26",
+      "end_date": "1958-04-14",
+      "filename": "db356e7a1061.json"
+    },
+    "01103606d9ab": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-10-07",
+      "end_date": "1958-12-15",
+      "filename": "01103606d9ab.json"
+    },
+    "97771a0eda82": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-10-07",
+      "end_date": "1958-12-15",
+      "filename": "97771a0eda82.json"
+    },
+    "46bbdb0e289d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-09-02",
+      "end_date": "1958-10-06",
+      "filename": "46bbdb0e289d.json"
+    },
+    "1bfbd49fe310": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-09-02",
+      "end_date": "1958-10-06",
+      "filename": "1bfbd49fe310.json"
+    },
+    "3150d4037e59": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1958-01-07",
+      "end_date": "1958-02-25",
+      "filename": "3150d4037e59.json"
+    },
+    "4bd59f43cb2a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1958-01-07",
+      "end_date": "1958-02-25",
+      "filename": "4bd59f43cb2a.json"
+    },
+    "d4a9903a1e8f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1959-04-15",
+      "end_date": "1959-06-01",
+      "filename": "d4a9903a1e8f.json"
+    },
+    "fe284427c9a9": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1959-04-15",
+      "end_date": "1959-06-01",
+      "filename": "fe284427c9a9.json"
+    },
+    "6a5f06ae15e3": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1959-12-29",
+      "end_date": "1960-09-12",
+      "filename": "6a5f06ae15e3.json"
+    },
+    "0d576ab45fe9": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1959-12-29",
+      "end_date": "1960-09-12",
+      "filename": "0d576ab45fe9.json"
+    },
+    "6058e16eff9b": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1959-02-04",
+      "end_date": "1959-04-14",
+      "filename": "6058e16eff9b.json"
+    },
+    "ca15734c41e7": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1959-02-04",
+      "end_date": "1959-04-14",
+      "filename": "ca15734c41e7.json"
+    },
+    "2d149a1238e3": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1959-06-02",
+      "end_date": "1959-12-28",
+      "filename": "2d149a1238e3.json"
+    },
+    "a5c3446d77ee": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1959-06-02",
+      "end_date": "1959-12-28",
+      "filename": "a5c3446d77ee.json"
+    },
+    "d203bbb0ca54": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1959-01-06",
+      "end_date": "1959-02-03",
+      "filename": "d203bbb0ca54.json"
+    },
+    "9f78c0a0263f": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1959-01-06",
+      "end_date": "1959-02-03",
+      "filename": "9f78c0a0263f.json"
+    },
+    "61a862887608": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1960-12-28",
+      "end_date": "1961-02-13",
+      "filename": "61a862887608.json"
+    },
+    "948e4e30a6cf": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1960-12-28",
+      "end_date": "1961-07-02",
+      "filename": "948e4e30a6cf.json"
+    },
+    "9e0d4631cbc8": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1960-11-09",
+      "end_date": "1960-12-27",
+      "filename": "9e0d4631cbc8.json"
+    },
+    "4dced7552e77": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1960-11-09",
+      "end_date": "1961-05-07",
+      "filename": "4dced7552e77.json"
+    },
+    "06f6bebd0355": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-07-03",
+      "end_date": "1961-07-24",
+      "filename": "06f6bebd0355.json"
+    },
+    "8a90e8064816": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1961-07-03",
+      "end_date": "1963-06-05",
+      "filename": "8a90e8064816.json"
+    },
+    "ba204dd7d21e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-06-13",
+      "end_date": "1961-07-02",
+      "filename": "ba204dd7d21e.json"
+    },
+    "a3c15b6e6aa0": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-06-13",
+      "end_date": "1961-07-24",
+      "filename": "a3c15b6e6aa0.json"
+    },
+    "b666a147257e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1961-03-13",
+      "end_date": "1961-05-07",
+      "filename": "b666a147257e.json"
+    },
+    "e8d51c188ba4": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1961-03-13",
+      "end_date": "1961-06-12",
+      "filename": "e8d51c188ba4.json"
+    },
+    "82fa3899f33f": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1962-10-15",
+      "end_date": "1963-04-14",
+      "filename": "82fa3899f33f.json"
+    },
+    "879bded78cca": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-10-02",
+      "end_date": "1962-10-14",
+      "filename": "879bded78cca.json"
+    },
+    "5dec36ad18cb": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1962-10-02",
+      "end_date": "1963-06-23",
+      "filename": "5dec36ad18cb.json"
+    },
+    "d0fea5e5905d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-09-11",
+      "end_date": "1962-10-01",
+      "filename": "d0fea5e5905d.json"
+    },
+    "06e9a3096eeb": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1962-09-11",
+      "end_date": "1962-10-14",
+      "filename": "06e9a3096eeb.json"
+    },
+    "8115144468f4": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-09-06",
+      "end_date": "1962-09-10",
+      "filename": "8115144468f4.json"
+    },
+    "43d04f26db1d": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1962-09-06",
+      "end_date": "1962-09-10",
+      "filename": "43d04f26db1d.json"
+    },
+    "0e86cc92b498": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1962-03-19",
+      "end_date": "1962-03-26",
+      "filename": "0e86cc92b498.json"
+    },
+    "a875ca01b7ec": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1962-03-19",
+      "end_date": "1962-09-05",
+      "filename": "a875ca01b7ec.json"
+    },
+    "f2c7fb9e3a5d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-08-27",
+      "end_date": "1963-09-03",
+      "filename": "f2c7fb9e3a5d.json"
+    },
+    "78888a89095d": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-08-27",
+      "end_date": "1963-09-03",
+      "filename": "78888a89095d.json"
+    },
+    "3faa0762be8f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-08-06",
+      "end_date": "1963-08-26",
+      "filename": "3faa0762be8f.json"
+    },
+    "f6c627c8de08": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-08-06",
+      "end_date": "1963-08-26",
+      "filename": "f6c627c8de08.json"
+    },
+    "fcfcc4fe324c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-12-17",
+      "end_date": "1963-12-29",
+      "filename": "fcfcc4fe324c.json"
+    },
+    "6a25d1f152c1": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-12-17",
+      "end_date": "1963-12-29",
+      "filename": "6a25d1f152c1.json"
+    },
+    "80a6049b7393": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-12-30",
+      "end_date": "1964-02-09",
+      "filename": "80a6049b7393.json"
+    },
+    "cba79adca8b6": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-12-30",
+      "end_date": "1964-02-09",
+      "filename": "cba79adca8b6.json"
+    },
+    "067be33c7fa7": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-07-09",
+      "end_date": "1963-08-05",
+      "filename": "067be33c7fa7.json"
+    },
+    "11f4f488447d": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1963-07-09",
+      "end_date": "1964-06-23",
+      "filename": "11f4f488447d.json"
+    },
+    "ec63dc3b87b8": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-06-18",
+      "end_date": "1963-06-23",
+      "filename": "ec63dc3b87b8.json"
+    },
+    "c45fc77d3dfd": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-06-18",
+      "end_date": "1963-08-05",
+      "filename": "c45fc77d3dfd.json"
+    },
+    "a9f74ae4d211": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-06-24",
+      "end_date": "1963-07-08",
+      "filename": "a9f74ae4d211.json"
+    },
+    "e108c182d7ec": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1963-06-24",
+      "end_date": "1963-07-08",
+      "filename": "e108c182d7ec.json"
+    },
+    "9efa465d4c33": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-06-06",
+      "end_date": "1963-06-17",
+      "filename": "9efa465d4c33.json"
+    },
+    "d7a1af8fbe4d": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1963-06-06",
+      "end_date": "1964-02-10",
+      "filename": "d7a1af8fbe4d.json"
+    },
+    "36b8fa09cd77": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-05-23",
+      "end_date": "1963-06-05",
+      "filename": "36b8fa09cd77.json"
+    },
+    "276df6ac0ffd": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-05-23",
+      "end_date": "1963-06-17",
+      "filename": "276df6ac0ffd.json"
+    },
+    "ce8adb7c12cc": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-09-04",
+      "end_date": "1963-12-16",
+      "filename": "ce8adb7c12cc.json"
+    },
+    "826abc9c3df1": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-09-04",
+      "end_date": "1963-12-16",
+      "filename": "826abc9c3df1.json"
+    },
+    "7bc9efa1a1f2": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1963-04-15",
+      "end_date": "1963-05-22",
+      "filename": "7bc9efa1a1f2.json"
+    },
+    "3425d0d3bc11": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1963-04-15",
+      "end_date": "1963-05-22",
+      "filename": "3425d0d3bc11.json"
+    },
+    "e52df9c4fa15": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-04-27",
+      "end_date": "1964-05-10",
+      "filename": "e52df9c4fa15.json"
+    },
+    "709cdec62a5a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-04-27",
+      "end_date": "1964-05-10",
+      "filename": "709cdec62a5a.json"
+    },
+    "94513cf92305": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-12-31",
+      "end_date": "1965-03-17",
+      "filename": "94513cf92305.json"
+    },
+    "d8a40ece4899": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-12-31",
+      "end_date": "1965-03-17",
+      "filename": "d8a40ece4899.json"
+    },
+    "2be28ae814d3": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1964-12-31",
+      "end_date": "1965-09-12",
+      "filename": "2be28ae814d3.json"
+    },
+    "5ebca21c30b5": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-12-04",
+      "end_date": "1964-12-07",
+      "filename": "5ebca21c30b5.json"
+    },
+    "5fddfe428594": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-12-04",
+      "end_date": "1964-12-07",
+      "filename": "5fddfe428594.json"
+    },
+    "55f16dd3425c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-12-08",
+      "end_date": "1964-12-30",
+      "filename": "55f16dd3425c.json"
+    },
+    "5758b9b31d69": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-12-08",
+      "end_date": "1964-12-30",
+      "filename": "5758b9b31d69.json"
+    },
+    "f9c01dce4ed6": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-02-11",
+      "end_date": "1964-04-26",
+      "filename": "f9c01dce4ed6.json"
+    },
+    "a8a585d51c59": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1964-02-11",
+      "end_date": "1964-11-29",
+      "filename": "a8a585d51c59.json"
+    },
+    "317623a7f5a8": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-07-21",
+      "end_date": "1964-10-19",
+      "filename": "317623a7f5a8.json"
+    },
+    "8914262f04af": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-07-21",
+      "end_date": "1964-11-15",
+      "filename": "8914262f04af.json"
+    },
+    "2a393f59acd2": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-06-24",
+      "end_date": "1964-07-20",
+      "filename": "2a393f59acd2.json"
+    },
+    "48b5c43ed431": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-06-24",
+      "end_date": "1964-07-20",
+      "filename": "48b5c43ed431.json"
+    },
+    "b50e7b13883b": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1964-06-24",
+      "end_date": "1964-10-19",
+      "filename": "b50e7b13883b.json"
+    },
+    "48aec98c375c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-06-09",
+      "end_date": "1964-06-23",
+      "filename": "48aec98c375c.json"
+    },
+    "d795565f60e1": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-06-09",
+      "end_date": "1964-06-23",
+      "filename": "d795565f60e1.json"
+    },
+    "74d77c9ee7ba": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-05-11",
+      "end_date": "1964-06-08",
+      "filename": "74d77c9ee7ba.json"
+    },
+    "7ac8b0a99426": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-05-11",
+      "end_date": "1964-06-08",
+      "filename": "7ac8b0a99426.json"
+    },
+    "18616c95154c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-11-16",
+      "end_date": "1964-11-23",
+      "filename": "18616c95154c.json"
+    },
+    "e417b515bc12": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-11-16",
+      "end_date": "1964-11-23",
+      "filename": "e417b515bc12.json"
+    },
+    "c4738004be5d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-11-24",
+      "end_date": "1964-11-29",
+      "filename": "c4738004be5d.json"
+    },
+    "d1d855b39080": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-11-24",
+      "end_date": "1964-12-03",
+      "filename": "d1d855b39080.json"
+    },
+    "69574a779f14": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-11-30",
+      "end_date": "1964-12-03",
+      "filename": "69574a779f14.json"
+    },
+    "6b71b18897b8": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1964-11-30",
+      "end_date": "1964-12-30",
+      "filename": "6b71b18897b8.json"
+    },
+    "69fb00b3065c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-10-20",
+      "end_date": "1964-11-15",
+      "filename": "69fb00b3065c.json"
+    },
+    "dbe1a304c329": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1964-10-20",
+      "end_date": "1966-03-27",
+      "filename": "dbe1a304c329.json"
+    },
+    "7a93fefa3a30": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1964-02-10",
+      "end_date": "1964-02-10",
+      "filename": "7a93fefa3a30.json"
+    },
+    "b5dbb48bedfd": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1964-02-10",
+      "end_date": "1964-04-26",
+      "filename": "b5dbb48bedfd.json"
+    },
+    "61d72a3a0303": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-04-19",
+      "end_date": "1965-05-02",
+      "filename": "61d72a3a0303.json"
+    },
+    "5d834d51ba0a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-12-06",
+      "end_date": "1965-12-12",
+      "filename": "5d834d51ba0a.json"
+    },
+    "0f1953a40581": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-12-06",
+      "end_date": "1965-12-12",
+      "filename": "0f1953a40581.json"
+    },
+    "451a5524fa83": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-07-12",
+      "end_date": "1965-08-22",
+      "filename": "451a5524fa83.json"
+    },
+    "91b3337e9e43": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-07-12",
+      "end_date": "1965-08-22",
+      "filename": "91b3337e9e43.json"
+    },
+    "3e45320bd943": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-06-30",
+      "end_date": "1965-07-11",
+      "filename": "3e45320bd943.json"
+    },
+    "56a1ab7aa26a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-06-30",
+      "end_date": "1965-07-11",
+      "filename": "56a1ab7aa26a.json"
+    },
+    "05f182f5842c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-03-22",
+      "end_date": "1965-04-04",
+      "filename": "05f182f5842c.json"
+    },
+    "4ca49bc86ce3": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1994-12-31",
+      "end_date": "2001-11-14",
+      "filename": "4ca49bc86ce3.json"
+    },
+    "8bb0f05832a4": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1994-12-31",
+      "end_date": "2001-12-31",
+      "filename": "8bb0f05832a4.json"
+    },
+    "fab0cbc638c7": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-31",
+      "filename": "fab0cbc638c7.json"
+    },
+    "691f0aace38c": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-31",
+      "filename": "691f0aace38c.json"
+    },
+    "9d8d1627de65": {
+      "county_id": "cos_boulder",
+      "name": "BOULDER",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-31",
+      "filename": "9d8d1627de65.json"
+    },
+    "ebb9d51009db": {
+      "county_id": "cos_broomfield",
+      "name": "BROOMFIELD",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-31",
+      "filename": "ebb9d51009db.json"
+    },
+    "bafcb066a32b": {
+      "county_id": "cos_weld",
+      "name": "WELD",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-31",
+      "filename": "bafcb066a32b.json"
+    },
+    "f180785e3853": {
+      "county_id": "uts_saltlake",
+      "name": "GREAT SALT LAKE (Ut)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "f180785e3853.json"
+    },
+    "3846dc13b574": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-04-19",
+      "end_date": "1965-05-02",
+      "filename": "3846dc13b574.json"
+    },
+    "9940597c70ff": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-03-22",
+      "end_date": "1965-04-04",
+      "filename": "9940597c70ff.json"
+    },
+    "a72ceee8d3dd": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-05-17",
+      "end_date": "1965-06-29",
+      "filename": "a72ceee8d3dd.json"
+    },
+    "4aa5e3c0c921": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-05-17",
+      "end_date": "1965-06-29",
+      "filename": "4aa5e3c0c921.json"
+    },
+    "7d8eb62533d3": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-05-03",
+      "end_date": "1965-05-16",
+      "filename": "7d8eb62533d3.json"
+    },
+    "5f9dd02abf3e": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-05-03",
+      "end_date": "1965-05-16",
+      "filename": "5f9dd02abf3e.json"
+    },
+    "607297cda708": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-09-13",
+      "end_date": "1965-09-26",
+      "filename": "607297cda708.json"
+    },
+    "17384bfdbc40": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1965-09-13",
+      "end_date": "1965-12-12",
+      "filename": "17384bfdbc40.json"
+    },
+    "5480c452d2eb": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-09-27",
+      "end_date": "1965-12-05",
+      "filename": "5480c452d2eb.json"
+    },
+    "00d9f223114b": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-09-27",
+      "end_date": "1965-12-05",
+      "filename": "00d9f223114b.json"
+    },
+    "cb69b5844d08": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1965-03-18",
+      "end_date": "1965-03-21",
+      "filename": "cb69b5844d08.json"
+    },
+    "2cce202f5b98": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1965-03-18",
+      "end_date": "1965-03-21",
+      "filename": "2cce202f5b98.json"
+    },
+    "4ead6a041681": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-04-18",
+      "end_date": "1966-06-30",
+      "filename": "4ead6a041681.json"
+    },
+    "a976dfbcb029": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1966-04-18",
+      "end_date": "1968-05-12",
+      "filename": "a976dfbcb029.json"
+    },
+    "ce333ad89b9b": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-12-27",
+      "end_date": "1967-01-15",
+      "filename": "ce333ad89b9b.json"
+    },
+    "39ee6872e2a2": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1966-12-27",
+      "end_date": "1967-12-10",
+      "filename": "39ee6872e2a2.json"
+    },
+    "4d042fd9f350": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-07-01",
+      "end_date": "1966-08-21",
+      "filename": "4d042fd9f350.json"
+    },
+    "891e29f15d71": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1966-07-01",
+      "end_date": "1966-08-21",
+      "filename": "891e29f15d71.json"
+    },
+    "b9f4563f1a2f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1966-03-28",
+      "end_date": "1966-04-17",
+      "filename": "b9f4563f1a2f.json"
+    },
+    "b9057b269f14": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1966-03-28",
+      "end_date": "1966-04-17",
+      "filename": "b9057b269f14.json"
+    },
+    "e2fa771288a6": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1966-03-28",
+      "end_date": "1966-06-30",
+      "filename": "e2fa771288a6.json"
+    },
+    "bd50475c9c85": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1966-11-21",
+      "end_date": "1966-12-26",
+      "filename": "bd50475c9c85.json"
+    },
+    "f830f0bc089a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1968-12-30",
+      "end_date": "1969-03-23",
+      "filename": "f830f0bc089a.json"
+    },
+    "ce1ab6904835": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1968-12-30",
+      "end_date": "1969-03-23",
+      "filename": "ce1ab6904835.json"
+    },
+    "2c401f0212dc": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1968-02-19",
+      "end_date": "1968-05-12",
+      "filename": "2c401f0212dc.json"
+    },
+    "729929110e33": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1968-02-19",
+      "end_date": "1968-09-08",
+      "filename": "729929110e33.json"
+    },
+    "bc93326d820a": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1968-05-13",
+      "end_date": "1968-09-08",
+      "filename": "bc93326d820a.json"
+    },
+    "21fc6b9dd93a": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1968-05-13",
+      "end_date": "1970-01-05",
+      "filename": "21fc6b9dd93a.json"
+    },
+    "755b61216e28": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1968-09-09",
+      "end_date": "1968-12-29",
+      "filename": "755b61216e28.json"
+    },
+    "d8d0ac421248": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1968-09-09",
+      "end_date": "1968-12-29",
+      "filename": "d8d0ac421248.json"
+    },
+    "62c837637133": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1968-01-22",
+      "end_date": "1968-02-18",
+      "filename": "62c837637133.json"
+    },
+    "9cd6a1e5b69c": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1968-01-22",
+      "end_date": "1969-03-23",
+      "filename": "9cd6a1e5b69c.json"
+    },
+    "ebbc73b644e2": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1968-01-22",
+      "end_date": "1968-02-18",
+      "filename": "ebbc73b644e2.json"
+    },
+    "95e54d0b21e3": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1969-12-15",
+      "end_date": "1969-12-28",
+      "filename": "95e54d0b21e3.json"
+    },
+    "47080b5879cc": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1969-12-15",
+      "end_date": "1970-02-08",
+      "filename": "47080b5879cc.json"
+    },
+    "dc27783e7d0c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1969-12-29",
+      "end_date": "1970-01-05",
+      "filename": "dc27783e7d0c.json"
+    },
+    "acf3a30ecf85": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1969-12-29",
+      "end_date": "1970-01-05",
+      "filename": "acf3a30ecf85.json"
+    },
+    "72f7e5977c32": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1969-11-21",
+      "end_date": "1969-12-14",
+      "filename": "72f7e5977c32.json"
+    },
+    "2ad0e7028e4f": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1969-11-21",
+      "end_date": "1969-12-14",
+      "filename": "2ad0e7028e4f.json"
+    },
+    "4a246780059b": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1969-09-09",
+      "end_date": "1969-11-20",
+      "filename": "4a246780059b.json"
+    },
+    "4dbdeb2c5f89": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1969-09-09",
+      "end_date": "1969-11-20",
+      "filename": "4dbdeb2c5f89.json"
+    },
+    "34875596e683": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1969-03-24",
+      "end_date": "1969-09-08",
+      "filename": "34875596e683.json"
+    },
+    "5f7e87f56405": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1969-03-24",
+      "end_date": "1969-12-28",
+      "filename": "5f7e87f56405.json"
+    },
+    "94b16e97674c": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1969-03-24",
+      "end_date": "1969-09-08",
+      "filename": "94b16e97674c.json"
+    },
+    "c1d07e880534": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-04-13",
+      "end_date": "1970-04-26",
+      "filename": "c1d07e880534.json"
+    },
+    "d431c371454a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-04-13",
+      "end_date": "1970-04-26",
+      "filename": "d431c371454a.json"
+    },
+    "7af75b5e7955": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-04-27",
+      "end_date": "1970-06-30",
+      "filename": "7af75b5e7955.json"
+    },
+    "bd11b4b72427": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-04-27",
+      "end_date": "1970-06-30",
+      "filename": "bd11b4b72427.json"
+    },
+    "2086c16ef25c": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-12-28",
+      "end_date": "1971-10-08",
+      "filename": "2086c16ef25c.json"
+    },
+    "fedab316b145": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-12-28",
+      "end_date": "1971-11-01",
+      "filename": "fedab316b145.json"
+    },
+    "591ea196fb85": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-02-09",
+      "end_date": "1970-03-15",
+      "filename": "591ea196fb85.json"
+    },
+    "dda7b6cb17f5": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1970-02-09",
+      "end_date": "1970-03-25",
+      "filename": "dda7b6cb17f5.json"
+    },
+    "0322b12f918f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-07-01",
+      "end_date": "1970-07-12",
+      "filename": "0322b12f918f.json"
+    },
+    "6f6ae8ea29f5": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-07-01",
+      "end_date": "1970-11-29",
+      "filename": "6f6ae8ea29f5.json"
+    },
+    "107892697665": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-07-13",
+      "end_date": "1970-09-08",
+      "filename": "107892697665.json"
+    },
+    "a188ec9d33d7": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1970-07-13",
+      "end_date": "1970-09-08",
+      "filename": "a188ec9d33d7.json"
+    },
+    "bdb4a1e70da2": {
+      "county_id": "cos_dolores",
+      "name": "DOLORES",
+      "start_date": "1970-09-01",
+      "end_date": "2001-12-31",
+      "filename": "bdb4a1e70da2.json"
+    },
+    "5ec09896b9c4": {
+      "county_id": "cos_montezuma",
+      "name": "MONTEZUMA",
+      "start_date": "1970-09-01",
+      "end_date": "2001-12-31",
+      "filename": "5ec09896b9c4.json"
+    },
+    "8f7c9178573d": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-03-16",
+      "end_date": "1970-03-25",
+      "filename": "8f7c9178573d.json"
+    },
+    "06c8c0551b0a": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1970-03-16",
+      "end_date": "1970-04-12",
+      "filename": "06c8c0551b0a.json"
+    },
+    "f31b2c6ff499": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1970-03-26",
+      "end_date": "1970-04-12",
+      "filename": "f31b2c6ff499.json"
+    },
+    "c682ac5d6f0c": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1970-01-06",
+      "end_date": "1970-09-27",
+      "filename": "c682ac5d6f0c.json"
+    },
+    "1d77a3a8bce2": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1971-12-27",
+      "end_date": "1972-06-05",
+      "filename": "1d77a3a8bce2.json"
+    },
+    "f6c8eed1c053": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1971-12-27",
+      "end_date": "1972-07-26",
+      "filename": "f6c8eed1c053.json"
+    },
+    "51b49558d4d0": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1971-11-11",
+      "end_date": "1971-11-21",
+      "filename": "51b49558d4d0.json"
+    },
+    "8870267ae79c": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1971-11-11",
+      "end_date": "1972-06-05",
+      "filename": "8870267ae79c.json"
+    },
+    "218febb4ca57": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1971-11-02",
+      "end_date": "1971-11-10",
+      "filename": "218febb4ca57.json"
+    },
+    "51bd7682b8f8": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1971-11-02",
+      "end_date": "1971-11-21",
+      "filename": "51bd7682b8f8.json"
+    },
+    "103ee30dc8ca": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1971-11-22",
+      "end_date": "1971-12-26",
+      "filename": "103ee30dc8ca.json"
+    },
+    "7e0fdd87ab19": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1971-11-22",
+      "end_date": "1971-12-26",
+      "filename": "7e0fdd87ab19.json"
+    },
+    "ecfc53465aad": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1971-10-09",
+      "end_date": "1971-11-01",
+      "filename": "ecfc53465aad.json"
+    },
+    "a36e65de53f4": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1971-10-09",
+      "end_date": "1972-08-02",
+      "filename": "a36e65de53f4.json"
+    },
+    "85215155f426": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1972-08-03",
+      "end_date": "1972-11-07",
+      "filename": "85215155f426.json"
+    },
+    "26a0c683d2c7": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1972-08-03",
+      "end_date": "1972-11-07",
+      "filename": "26a0c683d2c7.json"
+    },
+    "5b8bfb2e5466": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1972-07-27",
+      "end_date": "1972-08-02",
+      "filename": "5b8bfb2e5466.json"
+    },
+    "be1c9651e3d5": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1972-07-27",
+      "end_date": "1973-01-04",
+      "filename": "be1c9651e3d5.json"
+    },
+    "78b01b0ef7f2": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1972-11-08",
+      "end_date": "1973-01-09",
+      "filename": "78b01b0ef7f2.json"
+    },
+    "8fad8cd31447": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1972-11-08",
+      "end_date": "1973-01-04",
+      "filename": "8fad8cd31447.json"
+    },
+    "cb71b2fba810": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1972-06-06",
+      "end_date": "1972-07-26",
+      "filename": "cb71b2fba810.json"
+    },
+    "c2c1fe6358af": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1972-06-06",
+      "end_date": "1973-12-30",
+      "filename": "c2c1fe6358af.json"
+    },
+    "dd6c65741ed1": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1973-12-31",
+      "end_date": "1979-12-30",
+      "filename": "dd6c65741ed1.json"
+    },
+    "272a228e3ab1": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1973-12-31",
+      "end_date": "1979-12-30",
+      "filename": "272a228e3ab1.json"
+    },
+    "cf4d4fb07409": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1973-01-10",
+      "end_date": "1980-12-30",
+      "filename": "cf4d4fb07409.json"
+    },
+    "d63ea4e3e69e": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1973-01-10",
+      "end_date": "1973-12-30",
+      "filename": "d63ea4e3e69e.json"
+    },
+    "9b7345b925ba": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1973-01-05",
+      "end_date": "1980-12-30",
+      "filename": "9b7345b925ba.json"
+    },
+    "45da311c79f8": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1973-01-05",
+      "end_date": "1973-01-09",
+      "filename": "45da311c79f8.json"
+    },
+    "be6aadee7949": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1979-12-31",
+      "end_date": "1980-12-30",
+      "filename": "be6aadee7949.json"
+    },
+    "f2355e71990f": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1979-12-31",
+      "end_date": "1988-05-16",
+      "filename": "f2355e71990f.json"
+    },
+    "facf19fb5a7f": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1980-12-31",
+      "end_date": "1988-05-16",
+      "filename": "facf19fb5a7f.json"
+    },
+    "0f04674165ff": {
+      "county_id": "cos_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1980-12-31",
+      "end_date": "1994-12-30",
+      "filename": "0f04674165ff.json"
+    },
+    "15a5e60312a5": {
+      "county_id": "cos_arapahoe",
+      "name": "ARAPAHOE",
+      "start_date": "1980-12-31",
+      "end_date": "1994-12-30",
+      "filename": "15a5e60312a5.json"
+    },
+    "c884bc93c410": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1988-05-17",
+      "end_date": "1994-12-30",
+      "filename": "c884bc93c410.json"
+    },
+    "2df8daf0e03d": {
+      "county_id": "cos_adams",
+      "name": "ADAMS",
+      "start_date": "1988-05-17",
+      "end_date": "2001-11-14",
+      "filename": "2df8daf0e03d.json"
+    },
+    "de4a5ffb7f37": {
+      "county_id": "cos_denver",
+      "name": "DENVER",
+      "start_date": "1994-12-31",
+      "end_date": "2001-12-31",
+      "filename": "de4a5ffb7f37.json"
+    },
+    "707910ebd133": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "707910ebd133.json"
+    },
+    "9caaaa11c3e7": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "9caaaa11c3e7.json"
+    },
+    "75bd8e400362": {
+      "county_id": "uts_utah",
+      "name": "UTAH (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-12",
+      "filename": "75bd8e400362.json"
+    },
+    "b41d42803d9b": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1856-01-04",
+      "filename": "b41d42803d9b.json"
+    },
+    "87360f18e1c4": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1852-03-03",
+      "end_date": "1854-01-16",
+      "filename": "87360f18e1c4.json"
+    },
+    "8bf8acf3d0ee": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1854-01-17",
+      "end_date": "1856-01-04",
+      "filename": "8bf8acf3d0ee.json"
+    },
+    "86a13a2caddc": {
+      "county_id": "utt_greenriver",
+      "name": "GREEN RIVER (Ut Ter)",
+      "start_date": "1854-01-13",
+      "end_date": "1861-02-27",
+      "filename": "86a13a2caddc.json"
+    },
+    "2f09b099e253": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE (Utah)",
+      "start_date": "1854-01-13",
+      "end_date": "1855-01-17",
+      "filename": "2f09b099e253.json"
+    },
+    "9e88541a07cd": {
+      "county_id": "uts_sanpete",
+      "name": "SANPETE (Utah)",
+      "start_date": "1855-01-18",
+      "end_date": "1861-02-27",
+      "filename": "9e88541a07cd.json"
+    },
+    "1e4aa29740e6": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "1e4aa29740e6.json"
+    },
+    "6846d5d06123": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "6846d5d06123.json"
+    },
+    "d58a3f99f69d": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1856-01-05",
+      "end_date": "1861-01-17",
+      "filename": "d58a3f99f69d.json"
+    },
+    "09b795b13fec": {
+      "county_id": "uts_iron",
+      "name": "IRON (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "09b795b13fec.json"
+    },
+    "f70cf778525a": {
+      "county_id": "uts_beaver",
+      "name": "BEAVER (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "f70cf778525a.json"
+    },
+    "fa4d8d9ab122": {
+      "county_id": "uts_washington",
+      "name": "WASHINGTON (Utah)",
+      "start_date": "1861-01-18",
+      "end_date": "1861-02-27",
+      "filename": "fa4d8d9ab122.json"
+    },
+    "aca04e60d609": {
+      "county_id": "jet_mountain",
+      "name": "MOUNTAIN (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "aca04e60d609.json"
+    },
+    "ca416d3d0917": {
+      "county_id": "jet_fountain",
+      "name": "FOUNTAIN (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "ca416d3d0917.json"
+    },
+    "e4f58a4abf05": {
+      "county_id": "jet_north",
+      "name": "NORTH (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "e4f58a4abf05.json"
+    },
+    "f6b770de5896": {
+      "county_id": "jet_saratoga",
+      "name": "SARATOGA (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "f6b770de5896.json"
+    },
+    "f6c17b439fb5": {
+      "county_id": "jet_heele",
+      "name": "HEELE (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "f6c17b439fb5.json"
+    },
+    "e754bb2f0554": {
+      "county_id": "jet_jackson",
+      "name": "JACKSON (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "e754bb2f0554.json"
+    },
+    "5a24b4422c38": {
+      "county_id": "jet_stvrain",
+      "name": "ST. VRAIN (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "5a24b4422c38.json"
+    },
+    "825fa0fff61e": {
+      "county_id": "jet_cheyenne",
+      "name": "CHEYENNE (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "825fa0fff61e.json"
+    },
+    "2f3175b19555": {
+      "county_id": "jet",
+      "name": "Jefferson Terr.",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "2f3175b19555.json"
+    },
+    "772151085bc7": {
+      "county_id": "jet_jefferson",
+      "name": "JEFFERSON (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "772151085bc7.json"
+    },
+    "b3865e055d8f": {
+      "county_id": "jet_arrappahoe",
+      "name": "ARRAPPAHOE (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "b3865e055d8f.json"
+    },
+    "5f1e1646b843": {
+      "county_id": "jet_park",
+      "name": "PARK (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "5f1e1646b843.json"
+    },
+    "86306af7c6e7": {
+      "county_id": "jet_elpaso",
+      "name": "EL PASO (Jeff T)",
+      "start_date": "1859-11-28",
+      "end_date": "1861-06-05",
+      "filename": "86306af7c6e7.json"
+    }
+  }
+}

@@ -1,0 +1,2589 @@
+{
+  "state": "IL",
+  "total_features": 369,
+  "features": {
+    "ae7361cde4b3": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1784-03-01",
+      "end_date": "1787-07-12",
+      "filename": "ae7361cde4b3.json"
+    },
+    "0effda5bec0a": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1787-07-13",
+      "end_date": "1790-04-26",
+      "filename": "0effda5bec0a.json"
+    },
+    "3f19c49c928b": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1790-06-20",
+      "end_date": "1796-08-14",
+      "filename": "3f19c49c928b.json"
+    },
+    "08f7b6e661a5": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1790-06-20",
+      "end_date": "1796-08-14",
+      "filename": "08f7b6e661a5.json"
+    },
+    "88ce9e52f63d": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1790-04-27",
+      "end_date": "1790-06-19",
+      "filename": "88ce9e52f63d.json"
+    },
+    "4c420ed0b9a7": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1790-04-27",
+      "end_date": "1795-10-04",
+      "filename": "4c420ed0b9a7.json"
+    },
+    "49f208171756": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1795-10-05",
+      "end_date": "1801-02-02",
+      "filename": "49f208171756.json"
+    },
+    "e71c0aeebb4a": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1795-10-05",
+      "end_date": "1801-02-02",
+      "filename": "e71c0aeebb4a.json"
+    },
+    "07a7c3af9cd9": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1796-08-15",
+      "end_date": "1798-06-21",
+      "filename": "07a7c3af9cd9.json"
+    },
+    "8cfceb4089c4": {
+      "county_id": "nwt_wayne",
+      "name": "WAYNE (N.W. Terr.)",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "8cfceb4089c4.json"
+    },
+    "c9e9e70a8b91": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "c9e9e70a8b91.json"
+    },
+    "a86c38a975a1": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1798-06-22",
+      "end_date": "1801-02-02",
+      "filename": "a86c38a975a1.json"
+    },
+    "311481cd12d2": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1800-07-04",
+      "end_date": "1801-02-02",
+      "filename": "311481cd12d2.json"
+    },
+    "b7bd9fd1c836": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1801-02-03",
+      "end_date": "1803-04-30",
+      "filename": "b7bd9fd1c836.json"
+    },
+    "ca4b371d45dd": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1801-02-03",
+      "end_date": "1803-02-28",
+      "filename": "ca4b371d45dd.json"
+    },
+    "c138397d0f32": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1803-05-01",
+      "end_date": "1809-04-27",
+      "filename": "c138397d0f32.json"
+    },
+    "1c6bc604b53e": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1803-03-01",
+      "end_date": "1808-11-30",
+      "filename": "1c6bc604b53e.json"
+    },
+    "720c7179be44": {
+      "county_id": "int_wayne",
+      "name": "WAYNE (Ind. Terr.)",
+      "start_date": "1803-03-01",
+      "end_date": "1805-06-29",
+      "filename": "720c7179be44.json"
+    },
+    "9f5ea1ba7c5b": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1805-06-30",
+      "end_date": "1809-02-28",
+      "filename": "9f5ea1ba7c5b.json"
+    },
+    "399854708279": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1808-12-01",
+      "end_date": "1809-02-28",
+      "filename": "399854708279.json"
+    },
+    "365448b21581": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1809-04-28",
+      "end_date": "1812-09-13",
+      "filename": "365448b21581.json"
+    },
+    "35fd20e19fef": {
+      "county_id": "ilt_part",
+      "name": "Illinois Terr.",
+      "start_date": "1809-03-01",
+      "end_date": "1809-04-27",
+      "filename": "35fd20e19fef.json"
+    },
+    "de36acba5f37": {
+      "county_id": "ils_johnson",
+      "name": "JOHNSON",
+      "start_date": "1812-09-14",
+      "end_date": "1816-03-31",
+      "filename": "de36acba5f37.json"
+    },
+    "27b439bbb23f": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1812-09-14",
+      "end_date": "1813-12-10",
+      "filename": "27b439bbb23f.json"
+    },
+    "830830948abd": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1812-09-14",
+      "end_date": "1813-12-10",
+      "filename": "830830948abd.json"
+    },
+    "68a6a8502dc1": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1812-09-14",
+      "end_date": "1813-12-10",
+      "filename": "68a6a8502dc1.json"
+    },
+    "1bd42d777ddd": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1813-12-11",
+      "end_date": "1816-05-31",
+      "filename": "1bd42d777ddd.json"
+    },
+    "79ea4307fc50": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1813-12-11",
+      "end_date": "1814-11-27",
+      "filename": "79ea4307fc50.json"
+    },
+    "56f00fa0dcf6": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1813-12-11",
+      "end_date": "1816-03-31",
+      "filename": "56f00fa0dcf6.json"
+    },
+    "aee81dcdc62e": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1814-11-28",
+      "end_date": "1816-01-31",
+      "filename": "aee81dcdc62e.json"
+    },
+    "c1fbf0c41b36": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1814-11-28",
+      "end_date": "1816-12-10",
+      "filename": "c1fbf0c41b36.json"
+    },
+    "473aa5322e56": {
+      "county_id": "ils_johnson",
+      "name": "JOHNSON",
+      "start_date": "1816-04-01",
+      "end_date": "1818-01-01",
+      "filename": "473aa5322e56.json"
+    },
+    "d2b6255af78b": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1816-04-01",
+      "end_date": "1816-12-25",
+      "filename": "d2b6255af78b.json"
+    },
+    "cae6735ddeb6": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1816-04-01",
+      "end_date": "1816-05-31",
+      "filename": "cae6735ddeb6.json"
+    },
+    "900fbe3f291e": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1816-04-01",
+      "end_date": "1816-12-25",
+      "filename": "900fbe3f291e.json"
+    },
+    "88f650f1c7ec": {
+      "county_id": "ils_jackson",
+      "name": "JACKSON",
+      "start_date": "1816-04-01",
+      "end_date": "1827-01-28",
+      "filename": "88f650f1c7ec.json"
+    },
+    "104f185d5a49": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1816-12-31",
+      "end_date": "1819-03-25",
+      "filename": "104f185d5a49.json"
+    },
+    "995be57908f7": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1816-12-26",
+      "end_date": "1818-01-01",
+      "filename": "995be57908f7.json"
+    },
+    "f2201dad65e4": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1816-12-31",
+      "end_date": "1818-12-02",
+      "filename": "f2201dad65e4.json"
+    },
+    "cf96217fb510": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1816-12-26",
+      "end_date": "1818-01-01",
+      "filename": "cf96217fb510.json"
+    },
+    "5ba35b58c157": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1816-12-11",
+      "end_date": "1816-12-30",
+      "filename": "5ba35b58c157.json"
+    },
+    "b3961ebb0922": {
+      "county_id": "ils_monroe",
+      "name": "MONROE",
+      "start_date": "1816-06-01",
+      "end_date": "1825-01-14",
+      "filename": "b3961ebb0922.json"
+    },
+    "2f15f2fca6e1": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1816-06-01",
+      "end_date": "1818-01-01",
+      "filename": "2f15f2fca6e1.json"
+    },
+    "64d107627f11": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1816-06-01",
+      "end_date": "1827-01-28",
+      "filename": "64d107627f11.json"
+    },
+    "5c97bec1d811": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1816-02-01",
+      "end_date": "1816-03-31",
+      "filename": "5c97bec1d811.json"
+    },
+    "a2fbe66b31c2": {
+      "county_id": "ils_white",
+      "name": "WHITE",
+      "start_date": "1816-02-01",
+      "end_date": "1818-01-01",
+      "filename": "a2fbe66b31c2.json"
+    },
+    "c0299f45ebbc": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "c0299f45ebbc.json"
+    },
+    "b8d9f8a16e85": {
+      "county_id": "ils_union",
+      "name": "UNION",
+      "start_date": "1818-01-02",
+      "end_date": "2000-12-31",
+      "filename": "b8d9f8a16e85.json"
+    },
+    "11e70827f607": {
+      "county_id": "ils_johnson",
+      "name": "JOHNSON",
+      "start_date": "1818-01-02",
+      "end_date": "1843-02-07",
+      "filename": "11e70827f607.json"
+    },
+    "ae48d0b6acfa": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1818-01-02",
+      "end_date": "1847-02-19",
+      "filename": "ae48d0b6acfa.json"
+    },
+    "a2df75b12583": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1818-01-02",
+      "end_date": "1839-08-04",
+      "filename": "a2df75b12583.json"
+    },
+    "ed62002492b6": {
+      "county_id": "ils_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1818-01-02",
+      "end_date": "1835-02-28",
+      "filename": "ed62002492b6.json"
+    },
+    "e631ffaaaea4": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1818-12-03",
+      "end_date": "1821-01-19",
+      "filename": "e631ffaaaea4.json"
+    },
+    "9127bd3219a3": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1818-12-03",
+      "end_date": "1821-01-29",
+      "filename": "9127bd3219a3.json"
+    },
+    "e8882085b0fb": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1818-12-03",
+      "end_date": "1819-03-21",
+      "filename": "e8882085b0fb.json"
+    },
+    "7ee08d58db4e": {
+      "county_id": "ils_washington",
+      "name": "WASHINGTON",
+      "start_date": "1818-01-02",
+      "end_date": "1824-12-26",
+      "filename": "7ee08d58db4e.json"
+    },
+    "243bdcf63d56": {
+      "county_id": "ils_white",
+      "name": "WHITE",
+      "start_date": "1818-01-02",
+      "end_date": "1819-03-25",
+      "filename": "243bdcf63d56.json"
+    },
+    "938fccb85691": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1818-01-02",
+      "end_date": "1825-01-14",
+      "filename": "938fccb85691.json"
+    },
+    "e5292816aea2": {
+      "county_id": "ils_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-01-02",
+      "end_date": "1819-03-03",
+      "filename": "e5292816aea2.json"
+    },
+    "dfeee5267b3b": {
+      "county_id": "ils_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1819-03-29",
+      "end_date": "1821-02-13",
+      "filename": "dfeee5267b3b.json"
+    },
+    "349fd02d8f21": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1819-03-29",
+      "end_date": "1821-01-15",
+      "filename": "349fd02d8f21.json"
+    },
+    "e718f0fca03c": {
+      "county_id": "ils_alexander",
+      "name": "ALEXANDER",
+      "start_date": "1819-03-04",
+      "end_date": "1843-06-04",
+      "filename": "e718f0fca03c.json"
+    },
+    "509daebec5cf": {
+      "county_id": "ils_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1819-03-26",
+      "end_date": "1819-03-28",
+      "filename": "509daebec5cf.json"
+    },
+    "7916f6d3bfe6": {
+      "county_id": "ils_wayne",
+      "name": "WAYNE",
+      "start_date": "1819-03-26",
+      "end_date": "1821-02-13",
+      "filename": "7916f6d3bfe6.json"
+    },
+    "5f74924cdc38": {
+      "county_id": "ils_white",
+      "name": "WHITE",
+      "start_date": "1819-03-26",
+      "end_date": "1821-02-07",
+      "filename": "5f74924cdc38.json"
+    },
+    "b3a9dfe7ccf8": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1819-03-22",
+      "end_date": "1821-01-15",
+      "filename": "b3a9dfe7ccf8.json"
+    },
+    "2a63a60222df": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1819-03-26",
+      "end_date": "1819-03-28",
+      "filename": "2a63a60222df.json"
+    },
+    "93335de1366b": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1819-03-22",
+      "end_date": "1821-01-30",
+      "filename": "93335de1366b.json"
+    },
+    "2bbbed43ee31": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1821-02-12",
+      "end_date": "1825-01-02",
+      "filename": "2bbbed43ee31.json"
+    },
+    "c8205c73c57c": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1821-02-12",
+      "end_date": "1821-02-13",
+      "filename": "c8205c73c57c.json"
+    },
+    "e3cab4459d9f": {
+      "county_id": "ils_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1821-02-12",
+      "end_date": "1827-01-22",
+      "filename": "e3cab4459d9f.json"
+    },
+    "2b700db356f8": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1821-02-14",
+      "end_date": "1823-01-23",
+      "filename": "2b700db356f8.json"
+    },
+    "51a6285d1353": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1821-02-14",
+      "end_date": "1822-12-22",
+      "filename": "51a6285d1353.json"
+    },
+    "a43a182f453c": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1821-02-14",
+      "end_date": "1822-12-22",
+      "filename": "a43a182f453c.json"
+    },
+    "22f9761f70fa": {
+      "county_id": "ils_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1821-02-14",
+      "end_date": "1823-01-23",
+      "filename": "22f9761f70fa.json"
+    },
+    "893751c3c0a2": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1821-02-14",
+      "end_date": "1824-12-26",
+      "filename": "893751c3c0a2.json"
+    },
+    "e224c5629895": {
+      "county_id": "ils_wayne",
+      "name": "WAYNE",
+      "start_date": "1821-02-14",
+      "end_date": "1824-12-22",
+      "filename": "e224c5629895.json"
+    },
+    "cc3deeda8888": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1821-01-30",
+      "end_date": "1821-01-30",
+      "filename": "cc3deeda8888.json"
+    },
+    "0ae211dc0d69": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1821-01-30",
+      "end_date": "1823-01-30",
+      "filename": "0ae211dc0d69.json"
+    },
+    "33df7500152d": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1821-01-30",
+      "end_date": "1821-01-30",
+      "filename": "33df7500152d.json"
+    },
+    "afa4ea9d74ab": {
+      "county_id": "ils_white",
+      "name": "WHITE",
+      "start_date": "1821-02-08",
+      "end_date": "1854-11-06",
+      "filename": "afa4ea9d74ab.json"
+    },
+    "f51119cea395": {
+      "county_id": "ils_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1821-02-08",
+      "end_date": "1854-11-06",
+      "filename": "f51119cea395.json"
+    },
+    "34aa5b8cfcfb": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1821-01-31",
+      "end_date": "1821-02-11",
+      "filename": "34aa5b8cfcfb.json"
+    },
+    "b472350c3853": {
+      "county_id": "ils_pike",
+      "name": "PIKE",
+      "start_date": "1821-01-31",
+      "end_date": "1822-12-29",
+      "filename": "b472350c3853.json"
+    },
+    "54156f868e72": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1821-01-31",
+      "end_date": "1821-02-11",
+      "filename": "54156f868e72.json"
+    },
+    "0acc41e2154a": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1821-01-31",
+      "end_date": "1821-02-13",
+      "filename": "0acc41e2154a.json"
+    },
+    "e08dfcd56bde": {
+      "county_id": "ils_greene",
+      "name": "GREENE",
+      "start_date": "1821-01-20",
+      "end_date": "1839-08-04",
+      "filename": "e08dfcd56bde.json"
+    },
+    "3d606a00cc1f": {
+      "county_id": "ils_nca2",
+      "name": "NCA 2",
+      "start_date": "1821-01-20",
+      "end_date": "1823-01-30",
+      "filename": "3d606a00cc1f.json"
+    },
+    "2de59fd92a5e": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1821-01-20",
+      "end_date": "1821-01-29",
+      "filename": "2de59fd92a5e.json"
+    },
+    "3807e64ea2e8": {
+      "county_id": "ils_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1821-01-16",
+      "end_date": "1824-12-22",
+      "filename": "3807e64ea2e8.json"
+    },
+    "dbf74d892440": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1821-01-16",
+      "end_date": "1824-12-26",
+      "filename": "dbf74d892440.json"
+    },
+    "e82b17ccc950": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1821-01-16",
+      "end_date": "1821-02-13",
+      "filename": "e82b17ccc950.json"
+    },
+    "ebc7059cc60b": {
+      "county_id": "ils_pike",
+      "name": "PIKE",
+      "start_date": "1822-12-30",
+      "end_date": "1825-01-09",
+      "filename": "ebc7059cc60b.json"
+    },
+    "47ec357ff044": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1822-12-23",
+      "end_date": "1824-12-22",
+      "filename": "47ec357ff044.json"
+    },
+    "f6f4f1848fdf": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1822-12-23",
+      "end_date": "1823-01-02",
+      "filename": "f6f4f1848fdf.json"
+    },
+    "f48e53cacf96": {
+      "county_id": "ils_nca3",
+      "name": "NCA 3",
+      "start_date": "1822-12-30",
+      "end_date": "1823-01-02",
+      "filename": "f48e53cacf96.json"
+    },
+    "a251dfeb74ba": {
+      "county_id": "ils_morgan",
+      "name": "MORGAN",
+      "start_date": "1823-01-31",
+      "end_date": "1837-04-16",
+      "filename": "a251dfeb74ba.json"
+    },
+    "538b2c0b29ed": {
+      "county_id": "ils_fulton",
+      "name": "FULTON",
+      "start_date": "1823-01-28",
+      "end_date": "1825-01-12",
+      "filename": "538b2c0b29ed.json"
+    },
+    "407c8086ac57": {
+      "county_id": "ils_nca2",
+      "name": "NCA 2",
+      "start_date": "1823-01-31",
+      "end_date": "1825-01-02",
+      "filename": "407c8086ac57.json"
+    },
+    "de71b6c22421": {
+      "county_id": "ils_nca3",
+      "name": "NCA 3",
+      "start_date": "1823-01-28",
+      "end_date": "1825-01-12",
+      "filename": "de71b6c22421.json"
+    },
+    "213c1a764b59": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1823-01-31",
+      "end_date": "1824-12-22",
+      "filename": "213c1a764b59.json"
+    },
+    "623c361c8fa2": {
+      "county_id": "ils_nca5",
+      "name": "NCA 5",
+      "start_date": "1823-01-28",
+      "end_date": "1825-01-12",
+      "filename": "623c361c8fa2.json"
+    },
+    "2af2910ed897": {
+      "county_id": "ils_marion",
+      "name": "MARION",
+      "start_date": "1823-01-24",
+      "end_date": "2000-12-31",
+      "filename": "2af2910ed897.json"
+    },
+    "b267313d217c": {
+      "county_id": "ils_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1823-01-24",
+      "end_date": "2000-12-31",
+      "filename": "b267313d217c.json"
+    },
+    "1c096d8bee2e": {
+      "county_id": "ils_edgar",
+      "name": "EDGAR",
+      "start_date": "1823-01-03",
+      "end_date": "1830-12-24",
+      "filename": "1c096d8bee2e.json"
+    },
+    "0c24ee147f33": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1823-01-24",
+      "end_date": "1824-12-22",
+      "filename": "0c24ee147f33.json"
+    },
+    "39ff19acbb64": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1823-01-03",
+      "end_date": "1826-01-17",
+      "filename": "39ff19acbb64.json"
+    },
+    "7e2352f7ee19": {
+      "county_id": "ils_nca3",
+      "name": "NCA 3",
+      "start_date": "1823-01-03",
+      "end_date": "1823-01-27",
+      "filename": "7e2352f7ee19.json"
+    },
+    "dcf26d667a3d": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1823-01-03",
+      "end_date": "1825-01-12",
+      "filename": "dcf26d667a3d.json"
+    },
+    "f91882628466": {
+      "county_id": "ils_clinton",
+      "name": "CLINTON",
+      "start_date": "1824-12-27",
+      "end_date": "2000-12-31",
+      "filename": "f91882628466.json"
+    },
+    "258bef8a5704": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS",
+      "start_date": "1824-12-27",
+      "end_date": "2000-12-31",
+      "filename": "258bef8a5704.json"
+    },
+    "84ca5102e4d7": {
+      "county_id": "ils_wabash",
+      "name": "WABASH",
+      "start_date": "1824-12-27",
+      "end_date": "2000-12-31",
+      "filename": "84ca5102e4d7.json"
+    },
+    "503eba136e32": {
+      "county_id": "ils_washington",
+      "name": "WASHINGTON",
+      "start_date": "1824-12-27",
+      "end_date": "2000-12-31",
+      "filename": "503eba136e32.json"
+    },
+    "42ade9aa513d": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1824-12-27",
+      "end_date": "1843-03-01",
+      "filename": "42ade9aa513d.json"
+    },
+    "e67f92966376": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1824-12-27",
+      "end_date": "1827-01-22",
+      "filename": "e67f92966376.json"
+    },
+    "360406e928fb": {
+      "county_id": "ils_wayne",
+      "name": "WAYNE",
+      "start_date": "1824-12-23",
+      "end_date": "2000-12-31",
+      "filename": "360406e928fb.json"
+    },
+    "cae6ab53bfb2": {
+      "county_id": "ils_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1824-12-23",
+      "end_date": "1841-06-06",
+      "filename": "cae6ab53bfb2.json"
+    },
+    "fc08b1602b98": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1824-12-23",
+      "end_date": "1839-02-14",
+      "filename": "fc08b1602b98.json"
+    },
+    "5536fde02d06": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1824-12-23",
+      "end_date": "1824-12-26",
+      "filename": "5536fde02d06.json"
+    },
+    "d839e9029f8c": {
+      "county_id": "ils_clay",
+      "name": "CLAY",
+      "start_date": "1824-12-23",
+      "end_date": "1831-02-14",
+      "filename": "d839e9029f8c.json"
+    },
+    "96dac99ab245": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1824-12-23",
+      "end_date": "1831-02-14",
+      "filename": "96dac99ab245.json"
+    },
+    "1592a041502a": {
+      "county_id": "ils_nca6",
+      "name": "NCA 6",
+      "start_date": "1824-12-23",
+      "end_date": "1825-01-12",
+      "filename": "1592a041502a.json"
+    },
+    "205226c91290": {
+      "county_id": "ils_hancock",
+      "name": "HANCOCK",
+      "start_date": "1825-01-13",
+      "end_date": "2000-12-31",
+      "filename": "205226c91290.json"
+    },
+    "2896f59f0e5c": {
+      "county_id": "ils_pike",
+      "name": "PIKE",
+      "start_date": "1825-01-13",
+      "end_date": "2000-12-31",
+      "filename": "2896f59f0e5c.json"
+    },
+    "73587df7b88e": {
+      "county_id": "ils_knox",
+      "name": "KNOX",
+      "start_date": "1825-01-13",
+      "end_date": "1831-01-14",
+      "filename": "73587df7b88e.json"
+    },
+    "1afccf0db677": {
+      "county_id": "ils_monroe",
+      "name": "MONROE",
+      "start_date": "1825-01-15",
+      "end_date": "1827-01-08",
+      "filename": "1afccf0db677.json"
+    },
+    "4ec98034dfa5": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1825-01-15",
+      "end_date": "1827-01-08",
+      "filename": "4ec98034dfa5.json"
+    },
+    "2c1cebcb9a5e": {
+      "county_id": "ils_adams",
+      "name": "ADAMS",
+      "start_date": "1825-01-13",
+      "end_date": "1843-02-10",
+      "filename": "2c1cebcb9a5e.json"
+    },
+    "9de5b0f36703": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1825-01-13",
+      "end_date": "1827-02-16",
+      "filename": "9de5b0f36703.json"
+    },
+    "04aacbac74a6": {
+      "county_id": "ils_henry",
+      "name": "HENRY",
+      "start_date": "1825-01-13",
+      "end_date": "1827-02-16",
+      "filename": "04aacbac74a6.json"
+    },
+    "26a3846d3dc3": {
+      "county_id": "ils_mercer",
+      "name": "MERCER",
+      "start_date": "1825-01-13",
+      "end_date": "1827-02-16",
+      "filename": "26a3846d3dc3.json"
+    },
+    "89065b4719b7": {
+      "county_id": "ils_peoria",
+      "name": "PEORIA",
+      "start_date": "1825-01-13",
+      "end_date": "1845-02-27",
+      "filename": "89065b4719b7.json"
+    },
+    "26cf570a804d": {
+      "county_id": "ils_fulton",
+      "name": "FULTON",
+      "start_date": "1825-01-13",
+      "end_date": "1845-02-27",
+      "filename": "26cf570a804d.json"
+    },
+    "df12a8209786": {
+      "county_id": "ils_warren",
+      "name": "WARREN",
+      "start_date": "1825-01-13",
+      "end_date": "1841-01-19",
+      "filename": "df12a8209786.json"
+    },
+    "9e5922d77b37": {
+      "county_id": "ils_schuyler",
+      "name": "SCHUYLER",
+      "start_date": "1825-01-13",
+      "end_date": "1839-01-31",
+      "filename": "9e5922d77b37.json"
+    },
+    "3f323bbd3c72": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1825-01-13",
+      "end_date": "1826-01-17",
+      "filename": "3f323bbd3c72.json"
+    },
+    "b772f8f0a3d1": {
+      "county_id": "ils_nca6",
+      "name": "NCA 6",
+      "start_date": "1825-01-13",
+      "end_date": "1827-01-30",
+      "filename": "b772f8f0a3d1.json"
+    },
+    "7f1ac7758b94": {
+      "county_id": "ils_nca3",
+      "name": "NCA 3",
+      "start_date": "1825-01-13",
+      "end_date": "1826-01-24",
+      "filename": "7f1ac7758b94.json"
+    },
+    "a68c22feaf20": {
+      "county_id": "ils_nca5",
+      "name": "NCA 5",
+      "start_date": "1825-01-13",
+      "end_date": "1845-02-27",
+      "filename": "a68c22feaf20.json"
+    },
+    "47d94e290444": {
+      "county_id": "ils_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1825-01-10",
+      "end_date": "2000-12-31",
+      "filename": "47d94e290444.json"
+    },
+    "bb78bcc9dac5": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1825-01-03",
+      "end_date": "1829-01-16",
+      "filename": "bb78bcc9dac5.json"
+    },
+    "96907626bc57": {
+      "county_id": "ils_pike",
+      "name": "PIKE",
+      "start_date": "1825-01-10",
+      "end_date": "1825-01-12",
+      "filename": "96907626bc57.json"
+    },
+    "0f144254fd4e": {
+      "county_id": "ils_nca2",
+      "name": "NCA 2",
+      "start_date": "1825-01-03",
+      "end_date": "1829-01-16",
+      "filename": "0f144254fd4e.json"
+    },
+    "e42a4fee02ea": {
+      "county_id": "ils_mcdonough",
+      "name": "McDONOUGH",
+      "start_date": "1826-01-25",
+      "end_date": "2000-12-31",
+      "filename": "e42a4fee02ea.json"
+    },
+    "12704a69d1c6": {
+      "county_id": "ils_vermilion",
+      "name": "VERMILION",
+      "start_date": "1826-01-18",
+      "end_date": "1833-02-19",
+      "filename": "12704a69d1c6.json"
+    },
+    "73617e0a6c3f": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1826-01-18",
+      "end_date": "1831-01-14",
+      "filename": "73617e0a6c3f.json"
+    },
+    "95ad3b15ff31": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1826-01-18",
+      "end_date": "1830-12-24",
+      "filename": "95ad3b15ff31.json"
+    },
+    "7197688ba579": {
+      "county_id": "ils_mercer",
+      "name": "MERCER",
+      "start_date": "1827-02-17",
+      "end_date": "2000-12-31",
+      "filename": "7197688ba579.json"
+    },
+    "2e6b457c53ea": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1827-02-17",
+      "end_date": "1831-01-14",
+      "filename": "2e6b457c53ea.json"
+    },
+    "5a119963f206": {
+      "county_id": "ils_henry",
+      "name": "HENRY",
+      "start_date": "1827-02-17",
+      "end_date": "1831-01-14",
+      "filename": "5a119963f206.json"
+    },
+    "9ea068645204": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1827-02-17",
+      "end_date": "1831-01-14",
+      "filename": "9ea068645204.json"
+    },
+    "3e4f5d71a7d6": {
+      "county_id": "ils_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1827-01-31",
+      "end_date": "1830-12-24",
+      "filename": "3e4f5d71a7d6.json"
+    },
+    "fae8710c583a": {
+      "county_id": "ils_nca7",
+      "name": "NCA 7",
+      "start_date": "1827-01-31",
+      "end_date": "1829-01-18",
+      "filename": "fae8710c583a.json"
+    },
+    "8059b208ba26": {
+      "county_id": "ils_greene",
+      "name": "GREENE",
+      "start_date": "1851-03-03",
+      "end_date": "2000-12-31",
+      "filename": "8059b208ba26.json"
+    },
+    "7ee71cf1d9ff": {
+      "county_id": "ils_jersey",
+      "name": "JERSEY",
+      "start_date": "1851-03-03",
+      "end_date": "2000-12-31",
+      "filename": "7ee71cf1d9ff.json"
+    },
+    "1c88c5109fea": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1851-04-28",
+      "end_date": "1852-08-01",
+      "filename": "1c88c5109fea.json"
+    },
+    "8d1e30754069": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1852-08-02",
+      "end_date": "1854-11-06",
+      "filename": "8d1e30754069.json"
+    },
+    "560a21a79c40": {
+      "county_id": "ils_saline",
+      "name": "SALINE",
+      "start_date": "1852-08-02",
+      "end_date": "1854-11-06",
+      "filename": "560a21a79c40.json"
+    },
+    "243957b9940a": {
+      "county_id": "ils_will",
+      "name": "WILL",
+      "start_date": "1853-04-05",
+      "end_date": "2000-12-31",
+      "filename": "243957b9940a.json"
+    },
+    "f36300faad83": {
+      "county_id": "ils_iroquois",
+      "name": "IROQUOIS",
+      "start_date": "1853-04-05",
+      "end_date": "2000-12-31",
+      "filename": "f36300faad83.json"
+    },
+    "4a07f588bb8d": {
+      "county_id": "ils_kankakee",
+      "name": "KANKAKEE",
+      "start_date": "1853-04-05",
+      "end_date": "1855-06-03",
+      "filename": "4a07f588bb8d.json"
+    },
+    "8e596d916adf": {
+      "county_id": "ils_white",
+      "name": "WHITE",
+      "start_date": "1854-11-07",
+      "end_date": "2000-12-31",
+      "filename": "8e596d916adf.json"
+    },
+    "ca2ce1134f5a": {
+      "county_id": "ils_nca6",
+      "name": "NCA 6",
+      "start_date": "1827-01-31",
+      "end_date": "1830-12-24",
+      "filename": "ca2ce1134f5a.json"
+    },
+    "97c57b8fb72a": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1827-01-09",
+      "end_date": "2000-12-31",
+      "filename": "97c57b8fb72a.json"
+    },
+    "acbe2c559285": {
+      "county_id": "ils_monroe",
+      "name": "MONROE",
+      "start_date": "1827-01-09",
+      "end_date": "2000-12-31",
+      "filename": "acbe2c559285.json"
+    },
+    "05212c333398": {
+      "county_id": "ils_randolph",
+      "name": "RANDOLPH",
+      "start_date": "1827-01-29",
+      "end_date": "2000-12-31",
+      "filename": "05212c333398.json"
+    },
+    "4e943db2a562": {
+      "county_id": "ils_jackson",
+      "name": "JACKSON",
+      "start_date": "1827-01-29",
+      "end_date": "2000-12-31",
+      "filename": "4e943db2a562.json"
+    },
+    "b0fe63413c42": {
+      "county_id": "ils_shelby",
+      "name": "SHELBY",
+      "start_date": "1827-01-23",
+      "end_date": "1839-02-25",
+      "filename": "b0fe63413c42.json"
+    },
+    "bbcddbe0519f": {
+      "county_id": "ils_perry",
+      "name": "PERRY",
+      "start_date": "1827-01-29",
+      "end_date": "1835-02-28",
+      "filename": "bbcddbe0519f.json"
+    },
+    "193497b50b49": {
+      "county_id": "ils_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1827-01-23",
+      "end_date": "1839-02-14",
+      "filename": "193497b50b49.json"
+    },
+    "6efc704fd57a": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1827-01-23",
+      "end_date": "1831-02-14",
+      "filename": "6efc704fd57a.json"
+    },
+    "5ebce9ed1bca": {
+      "county_id": "ils_nca7",
+      "name": "NCA 7",
+      "start_date": "1827-01-23",
+      "end_date": "1827-01-30",
+      "filename": "5ebce9ed1bca.json"
+    },
+    "8f505e33c82c": {
+      "county_id": "ils_macoupin",
+      "name": "MACOUPIN",
+      "start_date": "1829-01-17",
+      "end_date": "2000-12-31",
+      "filename": "8f505e33c82c.json"
+    },
+    "f9b84e29074d": {
+      "county_id": "ils_macon",
+      "name": "MACON",
+      "start_date": "1829-01-19",
+      "end_date": "1839-02-28",
+      "filename": "f9b84e29074d.json"
+    },
+    "9d213b5c7afb": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1829-01-17",
+      "end_date": "1843-03-01",
+      "filename": "9d213b5c7afb.json"
+    },
+    "ddd8c7912453": {
+      "county_id": "ils_edgar",
+      "name": "EDGAR",
+      "start_date": "1830-12-25",
+      "end_date": "2000-12-31",
+      "filename": "ddd8c7912453.json"
+    },
+    "9f0980f0f1c2": {
+      "county_id": "ils_clark",
+      "name": "CLARK",
+      "start_date": "1830-12-25",
+      "end_date": "2000-12-31",
+      "filename": "9f0980f0f1c2.json"
+    },
+    "472b2b39ac6c": {
+      "county_id": "ils_coles",
+      "name": "COLES",
+      "start_date": "1830-12-25",
+      "end_date": "1843-04-30",
+      "filename": "472b2b39ac6c.json"
+    },
+    "9bb846ef4e7a": {
+      "county_id": "ils_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1830-12-25",
+      "end_date": "1840-01-26",
+      "filename": "9bb846ef4e7a.json"
+    },
+    "9d402af2a85f": {
+      "county_id": "ils_mclean",
+      "name": "McLEAN",
+      "start_date": "1830-12-25",
+      "end_date": "1837-02-26",
+      "filename": "9d402af2a85f.json"
+    },
+    "32e581a51fea": {
+      "county_id": "ils_nca6",
+      "name": "NCA 6",
+      "start_date": "1830-12-25",
+      "end_date": "1831-01-14",
+      "filename": "32e581a51fea.json"
+    },
+    "a8cb78b641ab": {
+      "county_id": "ils_fayette",
+      "name": "FAYETTE",
+      "start_date": "1831-02-15",
+      "end_date": "2000-12-31",
+      "filename": "a8cb78b641ab.json"
+    },
+    "6bd69f9b49e7": {
+      "county_id": "ils_effingham",
+      "name": "EFFINGHAM",
+      "start_date": "1831-02-15",
+      "end_date": "2000-12-31",
+      "filename": "6bd69f9b49e7.json"
+    },
+    "884a19449f5a": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1831-02-15",
+      "end_date": "2000-12-31",
+      "filename": "884a19449f5a.json"
+    },
+    "5c5bf377ee8b": {
+      "county_id": "ils_jasper",
+      "name": "JASPER",
+      "start_date": "1831-02-15",
+      "end_date": "2000-12-31",
+      "filename": "5c5bf377ee8b.json"
+    },
+    "44425fd8bd19": {
+      "county_id": "ils_rockisland",
+      "name": "ROCK ISLAND",
+      "start_date": "1831-02-09",
+      "end_date": "1854-03-03",
+      "filename": "44425fd8bd19.json"
+    },
+    "812ebc475178": {
+      "county_id": "ils_clay",
+      "name": "CLAY",
+      "start_date": "1831-02-15",
+      "end_date": "1841-06-06",
+      "filename": "812ebc475178.json"
+    },
+    "801b0b4aca6a": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1831-02-09",
+      "end_date": "1836-01-15",
+      "filename": "801b0b4aca6a.json"
+    },
+    "78f95d2396a6": {
+      "county_id": "ils_knox",
+      "name": "KNOX",
+      "start_date": "1831-01-15",
+      "end_date": "1839-03-17",
+      "filename": "78f95d2396a6.json"
+    },
+    "56b480a22817": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1831-01-15",
+      "end_date": "1837-04-02",
+      "filename": "56b480a22817.json"
+    },
+    "ac6ac50fa263": {
+      "county_id": "ils_cook",
+      "name": "COOK",
+      "start_date": "1831-01-15",
+      "end_date": "1836-01-11",
+      "filename": "ac6ac50fa263.json"
+    },
+    "a573298bdb89": {
+      "county_id": "ils_henry",
+      "name": "HENRY",
+      "start_date": "1831-01-15",
+      "end_date": "1836-01-15",
+      "filename": "a573298bdb89.json"
+    },
+    "8ba52d3bd46f": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1831-01-15",
+      "end_date": "1831-02-08",
+      "filename": "8ba52d3bd46f.json"
+    },
+    "2c2c2ca32c8f": {
+      "county_id": "ils_lasalle",
+      "name": "LA SALLE",
+      "start_date": "1831-01-15",
+      "end_date": "1837-02-26",
+      "filename": "2c2c2ca32c8f.json"
+    },
+    "34386a989376": {
+      "county_id": "ils_nca8",
+      "name": "NCA 8",
+      "start_date": "1831-01-15",
+      "end_date": "1836-01-15",
+      "filename": "34386a989376.json"
+    },
+    "ba775203c8bb": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1831-01-15",
+      "end_date": "1833-02-19",
+      "filename": "ba775203c8bb.json"
+    },
+    "271079907e1e": {
+      "county_id": "ils_nca9",
+      "name": "NCA 9",
+      "start_date": "1831-01-15",
+      "end_date": "1833-02-25",
+      "filename": "271079907e1e.json"
+    },
+    "125baa46047a": {
+      "county_id": "ils_vermilion",
+      "name": "VERMILION",
+      "start_date": "1833-02-26",
+      "end_date": "2000-12-31",
+      "filename": "125baa46047a.json"
+    },
+    "53ce10ad5f2b": {
+      "county_id": "ils_iroquois",
+      "name": "IROQUOIS",
+      "start_date": "1833-02-26",
+      "end_date": "1836-01-11",
+      "filename": "53ce10ad5f2b.json"
+    },
+    "f4c25f0f210e": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1833-02-26",
+      "end_date": "1836-01-11",
+      "filename": "f4c25f0f210e.json"
+    },
+    "0eb27f882063": {
+      "county_id": "ils_nca9",
+      "name": "NCA 9",
+      "start_date": "1833-02-26",
+      "end_date": "1836-01-11",
+      "filename": "0eb27f882063.json"
+    },
+    "1411e93920dd": {
+      "county_id": "ils_champaign",
+      "name": "CHAMPAIGN",
+      "start_date": "1833-02-20",
+      "end_date": "2000-12-31",
+      "filename": "1411e93920dd.json"
+    },
+    "9671d694cccc": {
+      "county_id": "ils_vermilion",
+      "name": "VERMILION",
+      "start_date": "1833-02-20",
+      "end_date": "1833-02-25",
+      "filename": "9671d694cccc.json"
+    },
+    "0e25c7ae1699": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1833-02-20",
+      "end_date": "1833-02-25",
+      "filename": "0e25c7ae1699.json"
+    },
+    "7d503237631b": {
+      "county_id": "ils_perry",
+      "name": "PERRY",
+      "start_date": "1835-03-01",
+      "end_date": "2000-12-31",
+      "filename": "7d503237631b.json"
+    },
+    "0cc7fa703db1": {
+      "county_id": "ils_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1835-03-01",
+      "end_date": "1839-08-04",
+      "filename": "0cc7fa703db1.json"
+    },
+    "392a8c361fd9": {
+      "county_id": "ils_henry",
+      "name": "HENRY",
+      "start_date": "1836-01-16",
+      "end_date": "2000-12-31",
+      "filename": "392a8c361fd9.json"
+    },
+    "14a62995d5ee": {
+      "county_id": "ils_whiteside",
+      "name": "WHITESIDE",
+      "start_date": "1836-01-16",
+      "end_date": "1854-03-03",
+      "filename": "14a62995d5ee.json"
+    },
+    "29a2f8727d20": {
+      "county_id": "ils_ogle",
+      "name": "OGLE",
+      "start_date": "1836-01-16",
+      "end_date": "1839-02-21",
+      "filename": "29a2f8727d20.json"
+    },
+    "9b1b74cc4216": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1836-01-16",
+      "end_date": "1837-03-03",
+      "filename": "9b1b74cc4216.json"
+    },
+    "a5a62d2f877d": {
+      "county_id": "ils_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1836-01-16",
+      "end_date": "1837-03-03",
+      "filename": "a5a62d2f877d.json"
+    },
+    "9196ab72fa0b": {
+      "county_id": "ils_mchenry",
+      "name": "McHENRY",
+      "start_date": "1836-01-16",
+      "end_date": "1839-02-28",
+      "filename": "9196ab72fa0b.json"
+    },
+    "533d8c8fbeca": {
+      "county_id": "ils_kane",
+      "name": "KANE",
+      "start_date": "1836-01-16",
+      "end_date": "1837-04-30",
+      "filename": "533d8c8fbeca.json"
+    },
+    "3da38e6a2ef7": {
+      "county_id": "ils_cook",
+      "name": "COOK",
+      "start_date": "1836-01-16",
+      "end_date": "1839-02-08",
+      "filename": "3da38e6a2ef7.json"
+    },
+    "73b24bf75c22": {
+      "county_id": "ils_nca8",
+      "name": "NCA 8",
+      "start_date": "1836-01-16",
+      "end_date": "1839-01-18",
+      "filename": "73b24bf75c22.json"
+    },
+    "e2f476150cf7": {
+      "county_id": "ils_cook",
+      "name": "COOK",
+      "start_date": "1836-01-12",
+      "end_date": "1836-01-15",
+      "filename": "e2f476150cf7.json"
+    },
+    "a5e6ff2037a6": {
+      "county_id": "ils_iroquois",
+      "name": "IROQUOIS",
+      "start_date": "1836-01-12",
+      "end_date": "1853-04-04",
+      "filename": "a5e6ff2037a6.json"
+    },
+    "cfcd60a2d4d6": {
+      "county_id": "ils_will",
+      "name": "WILL",
+      "start_date": "1836-01-12",
+      "end_date": "1853-04-04",
+      "filename": "cfcd60a2d4d6.json"
+    },
+    "3b348a17e5e6": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1836-01-12",
+      "end_date": "1837-02-26",
+      "filename": "3b348a17e5e6.json"
+    },
+    "8e86b0d54349": {
+      "county_id": "ils_stephenson",
+      "name": "STEPHENSON",
+      "start_date": "1837-03-04",
+      "end_date": "2000-12-31",
+      "filename": "8e86b0d54349.json"
+    },
+    "65b55df40fc4": {
+      "county_id": "ils_dekalb",
+      "name": "DE KALB",
+      "start_date": "1837-05-01",
+      "end_date": "2000-12-31",
+      "filename": "65b55df40fc4.json"
+    },
+    "51c18d1e49a8": {
+      "county_id": "ils_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1837-02-27",
+      "end_date": "2000-12-31",
+      "filename": "51c18d1e49a8.json"
+    },
+    "4dcf5d1f6d57": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1837-02-27",
+      "end_date": "1855-06-03",
+      "filename": "4dcf5d1f6d57.json"
+    },
+    "80cf79b4a50d": {
+      "county_id": "ils_kane",
+      "name": "KANE",
+      "start_date": "1837-05-01",
+      "end_date": "1841-02-18",
+      "filename": "80cf79b4a50d.json"
+    },
+    "bed5dddf37d4": {
+      "county_id": "ils_lasalle",
+      "name": "LA SALLE",
+      "start_date": "1837-02-27",
+      "end_date": "1841-02-16",
+      "filename": "bed5dddf37d4.json"
+    },
+    "9d778fd88ae5": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1837-04-03",
+      "end_date": "1839-01-18",
+      "filename": "9d778fd88ae5.json"
+    },
+    "250fae2cf6c6": {
+      "county_id": "ils_bureau",
+      "name": "BUREAU",
+      "start_date": "1837-04-03",
+      "end_date": "1839-01-18",
+      "filename": "250fae2cf6c6.json"
+    },
+    "0a088da6f683": {
+      "county_id": "ils_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1837-03-04",
+      "end_date": "1843-05-21",
+      "filename": "0a088da6f683.json"
+    },
+    "dc3186ae7309": {
+      "county_id": "ils_boone",
+      "name": "BOONE",
+      "start_date": "1837-03-04",
+      "end_date": "1843-05-21",
+      "filename": "dc3186ae7309.json"
+    },
+    "2e05c91eea02": {
+      "county_id": "ils_mclean",
+      "name": "McLEAN",
+      "start_date": "1837-02-27",
+      "end_date": "1839-02-28",
+      "filename": "2e05c91eea02.json"
+    },
+    "458dc07809c3": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1837-03-04",
+      "end_date": "1839-02-21",
+      "filename": "458dc07809c3.json"
+    },
+    "17ed2b02bdbe": {
+      "county_id": "ils_morgan",
+      "name": "MORGAN",
+      "start_date": "1837-04-17",
+      "end_date": "1839-02-15",
+      "filename": "17ed2b02bdbe.json"
+    },
+    "4523bd87cd47": {
+      "county_id": "ils_cass",
+      "name": "CASS",
+      "start_date": "1837-04-17",
+      "end_date": "1845-05-04",
+      "filename": "4523bd87cd47.json"
+    },
+    "740d649a984b": {
+      "county_id": "ils_lake",
+      "name": "LAKE",
+      "start_date": "1839-03-01",
+      "end_date": "2000-12-31",
+      "filename": "740d649a984b.json"
+    },
+    "e3a199379d22": {
+      "county_id": "ils_mchenry",
+      "name": "McHENRY",
+      "start_date": "1839-03-01",
+      "end_date": "2000-12-31",
+      "filename": "e3a199379d22.json"
+    },
+    "a733cdd8317d": {
+      "county_id": "ils_ogle",
+      "name": "OGLE",
+      "start_date": "1839-02-27",
+      "end_date": "2000-12-31",
+      "filename": "a733cdd8317d.json"
+    },
+    "6c164947c91d": {
+      "county_id": "ils_lee",
+      "name": "LEE",
+      "start_date": "1839-02-27",
+      "end_date": "2000-12-31",
+      "filename": "6c164947c91d.json"
+    },
+    "11abba017985": {
+      "county_id": "ils_christian",
+      "name": "DANE",
+      "start_date": "1839-02-26",
+      "end_date": "1840-01-31",
+      "filename": "11abba017985.json"
+    },
+    "8e547f36553a": {
+      "county_id": "ils_shelby",
+      "name": "SHELBY",
+      "start_date": "1839-02-26",
+      "end_date": "1843-02-15",
+      "filename": "8e547f36553a.json"
+    },
+    "77e574d4b3ea": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1843-03-03",
+      "end_date": "2000-12-31",
+      "filename": "77e574d4b3ea.json"
+    },
+    "6e2f4b1337bf": {
+      "county_id": "ils_massac",
+      "name": "MASSAC",
+      "start_date": "1843-03-03",
+      "end_date": "1843-06-04",
+      "filename": "6e2f4b1337bf.json"
+    },
+    "001fbd6392d4": {
+      "county_id": "ils_coles",
+      "name": "COLES",
+      "start_date": "1843-05-01",
+      "end_date": "1859-03-20",
+      "filename": "001fbd6392d4.json"
+    },
+    "d65b5c9501e7": {
+      "county_id": "ils_woodford",
+      "name": "WOODFORD",
+      "start_date": "1843-02-28",
+      "end_date": "2000-12-31",
+      "filename": "d65b5c9501e7.json"
+    },
+    "b312e67c1856": {
+      "county_id": "ils_mclean",
+      "name": "McLEAN",
+      "start_date": "1843-02-28",
+      "end_date": "2000-12-31",
+      "filename": "b312e67c1856.json"
+    },
+    "c6ad4baea160": {
+      "county_id": "ils_macon",
+      "name": "MACON",
+      "start_date": "1843-02-16",
+      "end_date": "2000-12-31",
+      "filename": "c6ad4baea160.json"
+    },
+    "252a29d8deae": {
+      "county_id": "ils_moultrie",
+      "name": "MOULTRIE",
+      "start_date": "1843-02-16",
+      "end_date": "2000-12-31",
+      "filename": "252a29d8deae.json"
+    },
+    "4c6eedd5103b": {
+      "county_id": "ils_shelby",
+      "name": "SHELBY",
+      "start_date": "1843-02-16",
+      "end_date": "2000-12-31",
+      "filename": "4c6eedd5103b.json"
+    },
+    "c275e044e4fe": {
+      "county_id": "ils_bond",
+      "name": "BOND",
+      "start_date": "1843-03-02",
+      "end_date": "2000-12-31",
+      "filename": "c275e044e4fe.json"
+    },
+    "a68c607318db": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1843-03-02",
+      "end_date": "2000-12-31",
+      "filename": "a68c607318db.json"
+    },
+    "cd4c683cf13e": {
+      "county_id": "ils_johnson",
+      "name": "JOHNSON",
+      "start_date": "1843-02-08",
+      "end_date": "2000-12-31",
+      "filename": "cd4c683cf13e.json"
+    },
+    "bdf9851a62ef": {
+      "county_id": "ils_coles",
+      "name": "COLES",
+      "start_date": "1859-03-21",
+      "end_date": "2000-12-31",
+      "filename": "bdf9851a62ef.json"
+    },
+    "5c475348fca0": {
+      "county_id": "ils_whiteside",
+      "name": "WHITESIDE",
+      "start_date": "1869-03-29",
+      "end_date": "2000-12-31",
+      "filename": "5c475348fca0.json"
+    },
+    "b79e1ad3fe24": {
+      "county_id": "ils_rockisland",
+      "name": "ROCK ISLAND",
+      "start_date": "1869-03-29",
+      "end_date": "2000-12-31",
+      "filename": "b79e1ad3fe24.json"
+    },
+    "bf262daca3fe": {
+      "county_id": "ils_michigan",
+      "name": "MICHIGAN (prop)",
+      "start_date": "1837-03-02",
+      "end_date": "1837-03-02",
+      "filename": "bf262daca3fe.json"
+    },
+    "d8e3cb44156f": {
+      "county_id": "ils_okaw",
+      "name": "OKAW (prop)",
+      "start_date": "1841-02-24",
+      "end_date": "1841-02-24",
+      "filename": "d8e3cb44156f.json"
+    },
+    "cac18eaf0ffd": {
+      "county_id": "ils_coffee",
+      "name": "COFFEE (prop)",
+      "start_date": "1837-03-01",
+      "end_date": "1837-03-01",
+      "filename": "cac18eaf0ffd.json"
+    },
+    "62927303b36f": {
+      "county_id": "ils_audubon",
+      "name": "AUDUBON (prop)",
+      "start_date": "1843-02-06",
+      "end_date": "1843-02-06",
+      "filename": "62927303b36f.json"
+    },
+    "a455732d8240": {
+      "county_id": "ils_kankakee01",
+      "name": "KANKAKEE (prop)",
+      "start_date": "1851-02-11",
+      "end_date": "1851-02-11",
+      "filename": "a455732d8240.json"
+    },
+    "ce92205645a0": {
+      "county_id": "ils_dewitt",
+      "name": "DE WITT",
+      "start_date": "1839-03-01",
+      "end_date": "1841-01-26",
+      "filename": "ce92205645a0.json"
+    },
+    "a9cfdbabf2f0": {
+      "county_id": "ils_mclean",
+      "name": "McLEAN",
+      "start_date": "1839-03-01",
+      "end_date": "1841-02-26",
+      "filename": "a9cfdbabf2f0.json"
+    },
+    "9111eba20bb6": {
+      "county_id": "ils_macon",
+      "name": "MACON",
+      "start_date": "1839-03-01",
+      "end_date": "1839-03-01",
+      "filename": "9111eba20bb6.json"
+    },
+    "6928d374cc14": {
+      "county_id": "ils_stark",
+      "name": "STARK",
+      "start_date": "1839-03-18",
+      "end_date": "2000-12-31",
+      "filename": "6928d374cc14.json"
+    },
+    "cfa4d47cb28d": {
+      "county_id": "ils_knox",
+      "name": "KNOX",
+      "start_date": "1839-03-18",
+      "end_date": "2000-12-31",
+      "filename": "cfa4d47cb28d.json"
+    },
+    "7996d84481c3": {
+      "county_id": "ils_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1839-08-05",
+      "end_date": "2000-12-31",
+      "filename": "7996d84481c3.json"
+    },
+    "047e186041db": {
+      "county_id": "ils_williamson",
+      "name": "WILLIAMSON",
+      "start_date": "1839-08-05",
+      "end_date": "2000-12-31",
+      "filename": "047e186041db.json"
+    },
+    "cf41d3e215e2": {
+      "county_id": "ils_hardin",
+      "name": "HARDIN",
+      "start_date": "1839-08-05",
+      "end_date": "1840-01-07",
+      "filename": "cf41d3e215e2.json"
+    },
+    "37e9c425f0a0": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1839-08-05",
+      "end_date": "1840-01-07",
+      "filename": "37e9c425f0a0.json"
+    },
+    "1584afcb0572": {
+      "county_id": "ils_greene",
+      "name": "GREENE",
+      "start_date": "1839-08-05",
+      "end_date": "1851-03-02",
+      "filename": "1584afcb0572.json"
+    },
+    "24bdc28f79cf": {
+      "county_id": "ils_jersey",
+      "name": "JERSEY",
+      "start_date": "1839-08-05",
+      "end_date": "1851-03-02",
+      "filename": "24bdc28f79cf.json"
+    },
+    "07d92a610086": {
+      "county_id": "ils_bureau",
+      "name": "BUREAU",
+      "start_date": "1839-03-02",
+      "end_date": "2000-12-31",
+      "filename": "07d92a610086.json"
+    },
+    "70c903212e40": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1839-03-02",
+      "end_date": "2000-12-31",
+      "filename": "70c903212e40.json"
+    },
+    "0ca5cc673878": {
+      "county_id": "ils_macon",
+      "name": "MACON",
+      "start_date": "1839-03-02",
+      "end_date": "1841-01-26",
+      "filename": "0ca5cc673878.json"
+    },
+    "3f3c1d1f4217": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1839-03-02",
+      "end_date": "1843-03-01",
+      "filename": "3f3c1d1f4217.json"
+    },
+    "748468302cbc": {
+      "county_id": "ils_stark",
+      "name": "STARK",
+      "start_date": "1839-03-02",
+      "end_date": "1839-03-17",
+      "filename": "748468302cbc.json"
+    },
+    "0ded64cc78fd": {
+      "county_id": "ils_christian",
+      "name": "DANE",
+      "start_date": "1839-02-15",
+      "end_date": "1839-02-25",
+      "filename": "0ded64cc78fd.json"
+    },
+    "dc856b7f85f1": {
+      "county_id": "ils_jodaviess",
+      "name": "JO DAVIESS",
+      "start_date": "1839-02-22",
+      "end_date": "2000-12-31",
+      "filename": "dc856b7f85f1.json"
+    },
+    "0922851c7199": {
+      "county_id": "ils_carroll",
+      "name": "CARROLL",
+      "start_date": "1839-02-22",
+      "end_date": "2000-12-31",
+      "filename": "0922851c7199.json"
+    },
+    "21b5776c924d": {
+      "county_id": "ils_cook",
+      "name": "COOK",
+      "start_date": "1839-02-09",
+      "end_date": "2000-12-31",
+      "filename": "21b5776c924d.json"
+    },
+    "e99af1629111": {
+      "county_id": "ils_dupage",
+      "name": "DU PAGE",
+      "start_date": "1839-02-09",
+      "end_date": "2000-12-31",
+      "filename": "e99af1629111.json"
+    },
+    "9a201591329c": {
+      "county_id": "ils_schuyler",
+      "name": "SCHUYLER",
+      "start_date": "1839-02-01",
+      "end_date": "2000-12-31",
+      "filename": "9a201591329c.json"
+    },
+    "63a79aef5075": {
+      "county_id": "ils_brown",
+      "name": "BROWN",
+      "start_date": "1839-02-01",
+      "end_date": "2000-12-31",
+      "filename": "63a79aef5075.json"
+    },
+    "86a15b8db59c": {
+      "county_id": "ils_scott",
+      "name": "SCOTT",
+      "start_date": "1839-02-16",
+      "end_date": "2000-12-31",
+      "filename": "86a15b8db59c.json"
+    },
+    "e565b59d522b": {
+      "county_id": "ils_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1839-02-15",
+      "end_date": "2000-12-31",
+      "filename": "e565b59d522b.json"
+    },
+    "36722f3e417a": {
+      "county_id": "ils_marshall",
+      "name": "MARSHALL",
+      "start_date": "1839-01-19",
+      "end_date": "1843-04-11",
+      "filename": "36722f3e417a.json"
+    },
+    "35b90caa5c3f": {
+      "county_id": "ils_logan",
+      "name": "LOGAN",
+      "start_date": "1839-02-15",
+      "end_date": "1840-01-26",
+      "filename": "35b90caa5c3f.json"
+    },
+    "1c59b6f7564c": {
+      "county_id": "ils_ogle",
+      "name": "OGLE",
+      "start_date": "1839-02-22",
+      "end_date": "1839-02-26",
+      "filename": "1c59b6f7564c.json"
+    },
+    "65ead20f0e4e": {
+      "county_id": "ils_bureau",
+      "name": "BUREAU",
+      "start_date": "1839-01-19",
+      "end_date": "1839-03-01",
+      "filename": "65ead20f0e4e.json"
+    },
+    "cd2f11f55da5": {
+      "county_id": "ils_putnam",
+      "name": "PUTNAM",
+      "start_date": "1839-01-19",
+      "end_date": "1839-03-01",
+      "filename": "cd2f11f55da5.json"
+    },
+    "80464af7e55f": {
+      "county_id": "ils_morgan",
+      "name": "MORGAN",
+      "start_date": "1839-02-16",
+      "end_date": "1845-05-04",
+      "filename": "80464af7e55f.json"
+    },
+    "9422f8fc330e": {
+      "county_id": "ils_menard",
+      "name": "MENARD",
+      "start_date": "1839-02-15",
+      "end_date": "1841-01-19",
+      "filename": "9422f8fc330e.json"
+    },
+    "9f46d50ca520": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1839-02-15",
+      "end_date": "1839-03-01",
+      "filename": "9f46d50ca520.json"
+    },
+    "bd8ec18f4ae0": {
+      "county_id": "ils_logan",
+      "name": "LOGAN",
+      "start_date": "1840-01-27",
+      "end_date": "1845-02-25",
+      "filename": "bd8ec18f4ae0.json"
+    },
+    "0d5706b78412": {
+      "county_id": "ils_christian",
+      "name": "CHRISTIAN",
+      "start_date": "1840-02-01",
+      "end_date": "2000-12-31",
+      "filename": "0d5706b78412.json"
+    },
+    "4d54f0dea157": {
+      "county_id": "ils_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1840-01-27",
+      "end_date": "1841-01-19",
+      "filename": "4d54f0dea157.json"
+    },
+    "ce2523e2a8ff": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1840-01-08",
+      "end_date": "1843-02-07",
+      "filename": "ce2523e2a8ff.json"
+    },
+    "244168c60a23": {
+      "county_id": "ils_hardin",
+      "name": "HARDIN",
+      "start_date": "1840-01-08",
+      "end_date": "1847-02-19",
+      "filename": "244168c60a23.json"
+    },
+    "140365fac315": {
+      "county_id": "ils_kane",
+      "name": "KANE",
+      "start_date": "1841-02-19",
+      "end_date": "2000-12-31",
+      "filename": "140365fac315.json"
+    },
+    "45914e7f3acd": {
+      "county_id": "ils_kendall",
+      "name": "KENDALL",
+      "start_date": "1841-02-19",
+      "end_date": "2000-12-31",
+      "filename": "45914e7f3acd.json"
+    },
+    "e8e779933719": {
+      "county_id": "ils_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1841-02-27",
+      "end_date": "2000-12-31",
+      "filename": "e8e779933719.json"
+    },
+    "3fe29421af19": {
+      "county_id": "ils_clay",
+      "name": "CLAY",
+      "start_date": "1841-06-07",
+      "end_date": "2000-12-31",
+      "filename": "3fe29421af19.json"
+    },
+    "03912537aea7": {
+      "county_id": "ils_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1841-06-07",
+      "end_date": "2000-12-31",
+      "filename": "03912537aea7.json"
+    },
+    "10ed95f52af6": {
+      "county_id": "ils_richland",
+      "name": "RICHLAND",
+      "start_date": "1841-06-07",
+      "end_date": "2000-12-31",
+      "filename": "10ed95f52af6.json"
+    },
+    "496822cfccb4": {
+      "county_id": "ils_mclean",
+      "name": "McLEAN",
+      "start_date": "1841-02-27",
+      "end_date": "1843-02-27",
+      "filename": "496822cfccb4.json"
+    },
+    "3881882a5bf4": {
+      "county_id": "ils_woodford",
+      "name": "WOODFORD",
+      "start_date": "1841-02-27",
+      "end_date": "1843-02-27",
+      "filename": "3881882a5bf4.json"
+    },
+    "5ebfe8a98f2a": {
+      "county_id": "ils_lasalle",
+      "name": "LA SALLE",
+      "start_date": "1841-02-19",
+      "end_date": "1843-04-11",
+      "filename": "5ebfe8a98f2a.json"
+    },
+    "dbc07836bb6e": {
+      "county_id": "ils_grundy",
+      "name": "GRUNDY",
+      "start_date": "1841-02-17",
+      "end_date": "2000-12-31",
+      "filename": "dbc07836bb6e.json"
+    },
+    "9b946389334b": {
+      "county_id": "ils_henderson",
+      "name": "HENDERSON",
+      "start_date": "1841-01-20",
+      "end_date": "2000-12-31",
+      "filename": "9b946389334b.json"
+    },
+    "592f42a528a4": {
+      "county_id": "ils_warren",
+      "name": "WARREN",
+      "start_date": "1841-01-20",
+      "end_date": "2000-12-31",
+      "filename": "592f42a528a4.json"
+    },
+    "2a821fb437fc": {
+      "county_id": "ils_mason",
+      "name": "MASON",
+      "start_date": "1841-01-20",
+      "end_date": "2000-12-31",
+      "filename": "2a821fb437fc.json"
+    },
+    "3d7a1eddfcdd": {
+      "county_id": "ils_piatt",
+      "name": "PIATT",
+      "start_date": "1841-01-27",
+      "end_date": "2000-12-31",
+      "filename": "3d7a1eddfcdd.json"
+    },
+    "388501ce9f60": {
+      "county_id": "ils_lasalle",
+      "name": "LA SALLE",
+      "start_date": "1841-02-17",
+      "end_date": "1841-02-18",
+      "filename": "388501ce9f60.json"
+    },
+    "5d36e6fb3482": {
+      "county_id": "ils_macon",
+      "name": "MACON",
+      "start_date": "1841-01-27",
+      "end_date": "1843-02-15",
+      "filename": "5d36e6fb3482.json"
+    },
+    "af95b08f2b7a": {
+      "county_id": "ils_dewitt",
+      "name": "DE WITT",
+      "start_date": "1841-01-27",
+      "end_date": "1845-02-25",
+      "filename": "af95b08f2b7a.json"
+    },
+    "987b9d169994": {
+      "county_id": "ils_tazewell",
+      "name": "TAZEWELL",
+      "start_date": "1841-01-20",
+      "end_date": "1841-02-26",
+      "filename": "987b9d169994.json"
+    },
+    "30a5861175ae": {
+      "county_id": "ils_menard",
+      "name": "MENARD",
+      "start_date": "1841-01-20",
+      "end_date": "1843-03-01",
+      "filename": "30a5861175ae.json"
+    },
+    "93b1013df888": {
+      "county_id": "ils_massac",
+      "name": "MASSAC",
+      "start_date": "1843-06-05",
+      "end_date": "2000-12-31",
+      "filename": "93b1013df888.json"
+    },
+    "1af3c9b07728": {
+      "county_id": "ils_alexander",
+      "name": "ALEXANDER",
+      "start_date": "1843-06-05",
+      "end_date": "2000-12-31",
+      "filename": "1af3c9b07728.json"
+    },
+    "faf4037e51e9": {
+      "county_id": "ils_pulaski",
+      "name": "PULASKI",
+      "start_date": "1843-06-05",
+      "end_date": "2000-12-31",
+      "filename": "faf4037e51e9.json"
+    },
+    "2296cc43bd25": {
+      "county_id": "ils_winnebago",
+      "name": "WINNEBAGO",
+      "start_date": "1843-05-22",
+      "end_date": "2000-12-31",
+      "filename": "2296cc43bd25.json"
+    },
+    "29a64d7080d4": {
+      "county_id": "ils_boone",
+      "name": "BOONE",
+      "start_date": "1843-05-22",
+      "end_date": "2000-12-31",
+      "filename": "29a64d7080d4.json"
+    },
+    "fb8540e0c61b": {
+      "county_id": "ils_lasalle",
+      "name": "LA SALLE",
+      "start_date": "1843-04-12",
+      "end_date": "2000-12-31",
+      "filename": "fb8540e0c61b.json"
+    },
+    "3da75ff5eb8f": {
+      "county_id": "ils_marshall",
+      "name": "MARSHALL",
+      "start_date": "1843-04-12",
+      "end_date": "2000-12-31",
+      "filename": "3da75ff5eb8f.json"
+    },
+    "bfc1b86d4095": {
+      "county_id": "ils_cumberland",
+      "name": "CUMBERLAND",
+      "start_date": "1843-05-01",
+      "end_date": "2000-12-31",
+      "filename": "bfc1b86d4095.json"
+    },
+    "d16ea60b0608": {
+      "county_id": "ils_adams",
+      "name": "ADAMS",
+      "start_date": "1843-02-11",
+      "end_date": "1847-02-26",
+      "filename": "d16ea60b0608.json"
+    },
+    "22167d819cd2": {
+      "county_id": "ils_highland",
+      "name": "MARQUETTE (ext)",
+      "start_date": "1843-02-11",
+      "end_date": "1847-02-26",
+      "filename": "22167d819cd2.json"
+    },
+    "63b4d64fd62f": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1843-03-02",
+      "end_date": "1847-02-27",
+      "filename": "63b4d64fd62f.json"
+    },
+    "7d49017084ff": {
+      "county_id": "ils_menard",
+      "name": "MENARD",
+      "start_date": "1843-03-02",
+      "end_date": "1847-02-27",
+      "filename": "7d49017084ff.json"
+    },
+    "41b57833281b": {
+      "county_id": "ils_massac",
+      "name": "MASSAC",
+      "start_date": "1843-02-08",
+      "end_date": "1843-03-02",
+      "filename": "41b57833281b.json"
+    },
+    "7be763f1f33f": {
+      "county_id": "ils_pope",
+      "name": "POPE",
+      "start_date": "1843-02-08",
+      "end_date": "1843-03-02",
+      "filename": "7be763f1f33f.json"
+    },
+    "14af42033401": {
+      "county_id": "ils_peoria",
+      "name": "PEORIA",
+      "start_date": "1845-02-28",
+      "end_date": "2000-12-31",
+      "filename": "14af42033401.json"
+    },
+    "fb7f7bf2c514": {
+      "county_id": "ils_fulton",
+      "name": "FULTON",
+      "start_date": "1845-02-28",
+      "end_date": "2000-12-31",
+      "filename": "fb7f7bf2c514.json"
+    },
+    "cf3064af4ae4": {
+      "county_id": "ils_logan",
+      "name": "LOGAN",
+      "start_date": "1845-02-26",
+      "end_date": "2000-12-31",
+      "filename": "cf3064af4ae4.json"
+    },
+    "236ec82d757d": {
+      "county_id": "ils_dewitt",
+      "name": "DE WITT",
+      "start_date": "1845-02-26",
+      "end_date": "2000-12-31",
+      "filename": "236ec82d757d.json"
+    },
+    "90b02e09e7fc": {
+      "county_id": "ils_cass",
+      "name": "CASS",
+      "start_date": "1845-05-05",
+      "end_date": "2000-12-31",
+      "filename": "90b02e09e7fc.json"
+    },
+    "ccad2c6e2005": {
+      "county_id": "ils_morgan",
+      "name": "MORGAN",
+      "start_date": "1845-05-05",
+      "end_date": "2000-12-31",
+      "filename": "ccad2c6e2005.json"
+    },
+    "0988a99f91d5": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1847-08-02",
+      "end_date": "1851-04-27",
+      "filename": "0988a99f91d5.json"
+    },
+    "d420e8803a6c": {
+      "county_id": "ils_saline",
+      "name": "SALINE",
+      "start_date": "1847-08-02",
+      "end_date": "1851-04-27",
+      "filename": "d420e8803a6c.json"
+    },
+    "b9061b20e73c": {
+      "county_id": "ils_menard",
+      "name": "MENARD",
+      "start_date": "1847-02-28",
+      "end_date": "2000-12-31",
+      "filename": "b9061b20e73c.json"
+    },
+    "6b1390a99db4": {
+      "county_id": "ils_sangamon",
+      "name": "SANGAMON",
+      "start_date": "1847-02-28",
+      "end_date": "2000-12-31",
+      "filename": "6b1390a99db4.json"
+    },
+    "4f1068072b19": {
+      "county_id": "ils_hardin",
+      "name": "HARDIN",
+      "start_date": "1847-02-20",
+      "end_date": "2000-12-31",
+      "filename": "4f1068072b19.json"
+    },
+    "e25eee99f409": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1847-02-20",
+      "end_date": "1847-08-01",
+      "filename": "e25eee99f409.json"
+    },
+    "bcb01a49955b": {
+      "county_id": "ils_highland",
+      "name": "HIGHLAND (ext)",
+      "start_date": "1847-02-27",
+      "end_date": "1848-12-30",
+      "filename": "bcb01a49955b.json"
+    },
+    "2f66d098fa67": {
+      "county_id": "ils_adams",
+      "name": "ADAMS",
+      "start_date": "1847-02-27",
+      "end_date": "1848-12-30",
+      "filename": "2f66d098fa67.json"
+    },
+    "1608b705430d": {
+      "county_id": "ils_adams",
+      "name": "ADAMS",
+      "start_date": "1848-12-31",
+      "end_date": "2000-12-31",
+      "filename": "1608b705430d.json"
+    },
+    "7d725dc7e3c6": {
+      "county_id": "ils_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1854-11-07",
+      "end_date": "2000-12-31",
+      "filename": "7d725dc7e3c6.json"
+    },
+    "f48fa6eaca9e": {
+      "county_id": "ils_gallatin",
+      "name": "GALLATIN",
+      "start_date": "1854-11-07",
+      "end_date": "2000-12-31",
+      "filename": "f48fa6eaca9e.json"
+    },
+    "aa45ad3d2edc": {
+      "county_id": "ils_saline",
+      "name": "SALINE",
+      "start_date": "1854-11-07",
+      "end_date": "2000-12-31",
+      "filename": "aa45ad3d2edc.json"
+    },
+    "2086080de28b": {
+      "county_id": "ils_whiteside",
+      "name": "WHITESIDE",
+      "start_date": "1854-03-04",
+      "end_date": "1869-03-28",
+      "filename": "2086080de28b.json"
+    },
+    "c1a93e1bf6ea": {
+      "county_id": "ils_rockisland",
+      "name": "ROCK ISLAND",
+      "start_date": "1854-03-04",
+      "end_date": "1869-03-28",
+      "filename": "c1a93e1bf6ea.json"
+    },
+    "3aa765d1c984": {
+      "county_id": "ils_kankakee",
+      "name": "KANKAKEE",
+      "start_date": "1855-06-04",
+      "end_date": "2000-12-31",
+      "filename": "3aa765d1c984.json"
+    },
+    "3e4ce0da008e": {
+      "county_id": "ils_nca4",
+      "name": "NCA 4",
+      "start_date": "1855-06-04",
+      "end_date": "1859-04-04",
+      "filename": "3e4ce0da008e.json"
+    },
+    "f20fe39c23dd": {
+      "county_id": "ils_ford",
+      "name": "FORD",
+      "start_date": "1859-04-05",
+      "end_date": "2000-12-31",
+      "filename": "f20fe39c23dd.json"
+    },
+    "3fc8049a6c49": {
+      "county_id": "ils_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1859-03-21",
+      "end_date": "2000-12-31",
+      "filename": "3fc8049a6c49.json"
+    },
+    "d09986f4053d": {
+      "county_id": "ils_oregon",
+      "name": "OREGON (prop)",
+      "start_date": "1851-02-15",
+      "end_date": "1851-02-15",
+      "filename": "d09986f4053d.json"
+    },
+    "47395b7a1845": {
+      "county_id": "ils_harrison",
+      "name": "HARRISON (prop)",
+      "start_date": "1855-02-14",
+      "end_date": "1855-02-14",
+      "filename": "47395b7a1845.json"
+    },
+    "73f21a8fda65": {
+      "county_id": "ils_lincoln",
+      "name": "LINCOLN (prop)",
+      "start_date": "1867-07-09",
+      "end_date": "1867-07-09",
+      "filename": "73f21a8fda65.json"
+    },
+    "af2709e08a52": {
+      "county_id": "ils_benton",
+      "name": "BENTON (prop)",
+      "start_date": "1843-03-04",
+      "end_date": "1843-03-04",
+      "filename": "af2709e08a52.json"
+    },
+    "77880885890b": {
+      "county_id": "ils_milton",
+      "name": "MILTON (prop)",
+      "start_date": "1843-02-21",
+      "end_date": "1843-02-21",
+      "filename": "77880885890b.json"
+    },
+    "c61c8eea4221": {
+      "county_id": "ils_holmes",
+      "name": "HOLMES (prop)",
+      "start_date": "1857-01-31",
+      "end_date": "1857-01-31",
+      "filename": "c61c8eea4221.json"
+    },
+    "788af8c5ad85": {
+      "county_id": "ils_allen",
+      "name": "ALLEN (prop)",
+      "start_date": "1841-02-27",
+      "end_date": "1841-02-27",
+      "filename": "788af8c5ad85.json"
+    },
+    "f03a641db59c": {
+      "county_id": "ils_douglas01",
+      "name": "DOUGLAS (prop)",
+      "start_date": "1857-02-13",
+      "end_date": "1857-02-13",
+      "filename": "f03a641db59c.json"
+    },
+    "129e2beea13e": {
+      "county_id": "vas_illinois",
+      "name": "ILLINOIS (Va., ext)",
+      "start_date": "1778-12-09",
+      "end_date": "1784-02-29",
+      "filename": "129e2beea13e.json"
+    },
+    "934c6b40b624": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1801-02-03",
+      "end_date": "1803-02-28",
+      "filename": "934c6b40b624.json"
+    },
+    "bdeeb45e0603": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1803-05-01",
+      "end_date": "1809-04-27",
+      "filename": "bdeeb45e0603.json"
+    },
+    "6af03fb8790a": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1803-03-01",
+      "end_date": "1803-04-30",
+      "filename": "6af03fb8790a.json"
+    },
+    "f6490ea3ad11": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1809-04-28",
+      "end_date": "1812-09-13",
+      "filename": "f6490ea3ad11.json"
+    },
+    "755b0b00163d": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1812-09-14",
+      "end_date": "1814-11-27",
+      "filename": "755b0b00163d.json"
+    },
+    "b529d52188bf": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1814-11-28",
+      "end_date": "1817-01-03",
+      "filename": "b529d52188bf.json"
+    },
+    "d907d6a8f14d": {
+      "county_id": "ils_madison",
+      "name": "MADISON",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "d907d6a8f14d.json"
+    }
+  }
+}

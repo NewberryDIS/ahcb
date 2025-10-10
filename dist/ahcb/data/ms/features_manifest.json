@@ -1,0 +1,3415 @@
+{
+  "state": "MS",
+  "total_features": 487,
+  "features": {
+    "2ad6da2f4f58": {
+      "county_id": "gas_bourbon",
+      "name": "BOURBON (Ga., ext)",
+      "start_date": "1785-02-07",
+      "end_date": "1788-01-31",
+      "filename": "2ad6da2f4f58.json"
+    },
+    "6b2ef44fa75e": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1785-02-07",
+      "end_date": "1788-01-31",
+      "filename": "6b2ef44fa75e.json"
+    },
+    "69839fa51bce": {
+      "county_id": "swf_part",
+      "name": "Spanish West Florida",
+      "start_date": "1785-02-07",
+      "end_date": "1813-04-14",
+      "filename": "69839fa51bce.json"
+    },
+    "239d89fb86d9": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1788-02-01",
+      "end_date": "1798-04-06",
+      "filename": "239d89fb86d9.json"
+    },
+    "c75a5bdabebe": {
+      "county_id": "mst",
+      "name": "Mississippi Terr.",
+      "start_date": "1798-04-07",
+      "end_date": "1799-04-01",
+      "filename": "c75a5bdabebe.json"
+    },
+    "ee33c6a4ab82": {
+      "county_id": "gas_georgiawest",
+      "name": "Georgia West Lands",
+      "start_date": "1798-04-07",
+      "end_date": "1802-04-23",
+      "filename": "ee33c6a4ab82.json"
+    },
+    "56bb855824e7": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1799-04-02",
+      "end_date": "1800-06-03",
+      "filename": "56bb855824e7.json"
+    },
+    "59bce7589e89": {
+      "county_id": "mss_jefferson",
+      "name": "PICKERING",
+      "start_date": "1799-04-02",
+      "end_date": "1800-06-03",
+      "filename": "59bce7589e89.json"
+    },
+    "5c13c3d7efbc": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON (Ala.)",
+      "start_date": "1800-06-04",
+      "end_date": "1809-12-20",
+      "filename": "5c13c3d7efbc.json"
+    },
+    "f11f0b94e603": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1800-06-04",
+      "end_date": "1802-01-29",
+      "filename": "f11f0b94e603.json"
+    },
+    "bfd9fe17a6ac": {
+      "county_id": "mss_jefferson",
+      "name": "PICKERING",
+      "start_date": "1800-06-04",
+      "end_date": "1802-01-10",
+      "filename": "bfd9fe17a6ac.json"
+    },
+    "fc6af04c52fd": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1802-01-27",
+      "end_date": "1802-01-29",
+      "filename": "fc6af04c52fd.json"
+    },
+    "1f8991918f6f": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1802-01-27",
+      "end_date": "1802-01-29",
+      "filename": "1f8991918f6f.json"
+    },
+    "343228713120": {
+      "county_id": "mss_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1802-01-27",
+      "end_date": "1802-01-29",
+      "filename": "343228713120.json"
+    },
+    "0dfdb8e67c34": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1802-01-30",
+      "end_date": "1803-03-11",
+      "filename": "0dfdb8e67c34.json"
+    },
+    "1d01f20c47b1": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1802-01-30",
+      "end_date": "1809-02-23",
+      "filename": "1d01f20c47b1.json"
+    },
+    "05093fbd60d1": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1802-01-30",
+      "end_date": "1803-03-11",
+      "filename": "05093fbd60d1.json"
+    },
+    "d57774159a43": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1802-01-30",
+      "end_date": "1809-12-20",
+      "filename": "d57774159a43.json"
+    },
+    "30628b65eb07": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1802-04-24",
+      "end_date": "1804-03-26",
+      "filename": "30628b65eb07.json"
+    },
+    "be9d47df04f8": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1802-01-30",
+      "end_date": "1804-03-26",
+      "filename": "be9d47df04f8.json"
+    },
+    "b83ee8313fab": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1802-01-11",
+      "end_date": "1802-01-26",
+      "filename": "b83ee8313fab.json"
+    },
+    "b73c8d9c5480": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1803-03-12",
+      "end_date": "1809-12-21",
+      "filename": "b73c8d9c5480.json"
+    },
+    "bc177231f793": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1803-03-12",
+      "end_date": "1809-12-21",
+      "filename": "bc177231f793.json"
+    },
+    "703334194fc5": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1804-03-27",
+      "end_date": "1808-12-12",
+      "filename": "703334194fc5.json"
+    },
+    "51cbe99b7d0a": {
+      "county_id": "mss_disputed",
+      "name": "Disputed Area",
+      "start_date": "1804-03-26",
+      "end_date": "1813-04-14",
+      "filename": "51cbe99b7d0a.json"
+    },
+    "d0c21eb6fd51": {
+      "county_id": "olt_part",
+      "name": "Orleans Terr.",
+      "start_date": "1804-03-26",
+      "end_date": "1810-12-06",
+      "filename": "d0c21eb6fd51.json"
+    },
+    "6cb6cf4d9beb": {
+      "county_id": "als_madison",
+      "name": "MADISON (Ala.)",
+      "start_date": "1808-12-13",
+      "end_date": "1817-03-02",
+      "filename": "6cb6cf4d9beb.json"
+    },
+    "5011904d46da": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1808-12-13",
+      "end_date": "1809-12-20",
+      "filename": "5011904d46da.json"
+    },
+    "d11ed786b33c": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN (Ala.)",
+      "start_date": "1809-12-21",
+      "end_date": "1817-03-02",
+      "filename": "d11ed786b33c.json"
+    },
+    "77c1e569cd10": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON (Ala.)",
+      "start_date": "1809-12-21",
+      "end_date": "1812-12-09",
+      "filename": "77c1e569cd10.json"
+    },
+    "8e777e57b6c2": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1809-12-21",
+      "end_date": "1811-12-08",
+      "filename": "8e777e57b6c2.json"
+    },
+    "053873ba0eb3": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1809-12-21",
+      "end_date": "1810-12-02",
+      "filename": "053873ba0eb3.json"
+    },
+    "e3b58920234a": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1809-12-21",
+      "end_date": "1809-12-21",
+      "filename": "e3b58920234a.json"
+    },
+    "96a744f9ea0c": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1809-12-21",
+      "end_date": "1809-12-21",
+      "filename": "96a744f9ea0c.json"
+    },
+    "973d9f088a02": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1809-12-21",
+      "end_date": "1810-12-02",
+      "filename": "973d9f088a02.json"
+    },
+    "8dc62f2f3ddb": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1809-12-21",
+      "end_date": "1809-12-21",
+      "filename": "8dc62f2f3ddb.json"
+    },
+    "122740a72f49": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1809-12-22",
+      "end_date": "1821-11-23",
+      "filename": "122740a72f49.json"
+    },
+    "8378aeeebf35": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1809-12-22",
+      "end_date": "1811-12-06",
+      "filename": "8378aeeebf35.json"
+    },
+    "610cdf126d4e": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1809-12-22",
+      "end_date": "1811-12-06",
+      "filename": "610cdf126d4e.json"
+    },
+    "ca1360c0e5de": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1809-12-22",
+      "end_date": "1810-12-02",
+      "filename": "ca1360c0e5de.json"
+    },
+    "063d3a66aa43": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1809-12-22",
+      "end_date": "1810-12-02",
+      "filename": "063d3a66aa43.json"
+    },
+    "ca428fc484e6": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1809-12-22",
+      "end_date": "1811-12-08",
+      "filename": "ca428fc484e6.json"
+    },
+    "0b4b98f4337f": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1809-02-24",
+      "end_date": "1809-12-20",
+      "filename": "0b4b98f4337f.json"
+    },
+    "22718c2c8291": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1809-02-24",
+      "end_date": "1809-12-20",
+      "filename": "22718c2c8291.json"
+    },
+    "7b810ecb42b7": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1810-12-03",
+      "end_date": "1846-03-01",
+      "filename": "7b810ecb42b7.json"
+    },
+    "9e696dd8db10": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1810-12-03",
+      "end_date": "1821-02-09",
+      "filename": "9e696dd8db10.json"
+    },
+    "db2e852da010": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1810-12-03",
+      "end_date": "1811-12-08",
+      "filename": "db2e852da010.json"
+    },
+    "38331bd0779b": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1810-12-03",
+      "end_date": "1811-12-08",
+      "filename": "38331bd0779b.json"
+    },
+    "e0f2b12ef570": {
+      "county_id": "olt_felicianacnty",
+      "name": "FELICIANA (Orl Terr)",
+      "start_date": "1810-12-07",
+      "end_date": "1812-04-29",
+      "filename": "e0f2b12ef570.json"
+    },
+    "df60f767ad6d": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1811-12-07",
+      "end_date": "1829-01-18",
+      "filename": "df60f767ad6d.json"
+    },
+    "02849be204b2": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1811-12-07",
+      "end_date": "1822-06-28",
+      "filename": "02849be204b2.json"
+    },
+    "4d90d38c24cf": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1811-12-09",
+      "end_date": "1819-02-11",
+      "filename": "4d90d38c24cf.json"
+    },
+    "6214d820b6f9": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1811-12-09",
+      "end_date": "1819-02-11",
+      "filename": "6214d820b6f9.json"
+    },
+    "fd05b8c23d52": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1811-12-09",
+      "end_date": "1817-03-02",
+      "filename": "fd05b8c23d52.json"
+    },
+    "b7f0954373e4": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1811-12-09",
+      "end_date": "1817-03-02",
+      "filename": "b7f0954373e4.json"
+    },
+    "ef9703f34700": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1811-12-09",
+      "end_date": "1814-12-21",
+      "filename": "ef9703f34700.json"
+    },
+    "7f8e728493e6": {
+      "county_id": "olt_pascagoulaparish",
+      "name": "PASCAGOULA (Orl T)",
+      "start_date": "1811-01-26",
+      "end_date": "1812-04-29",
+      "filename": "7f8e728493e6.json"
+    },
+    "d17b99fc0989": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1811-12-09",
+      "end_date": "1815-06-28",
+      "filename": "d17b99fc0989.json"
+    },
+    "f99eddd72a4b": {
+      "county_id": "olt_pascagoulaparish",
+      "name": "PASCAGOULA (Orl T)",
+      "start_date": "1811-01-04",
+      "end_date": "1811-01-25",
+      "filename": "f99eddd72a4b.json"
+    },
+    "aed47e0c3643": {
+      "county_id": "als_clarke",
+      "name": "CLARKE (Ala.)",
+      "start_date": "1812-12-10",
+      "end_date": "1817-03-02",
+      "filename": "aed47e0c3643.json"
+    },
+    "9f2478046ed7": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON (Ala.)",
+      "start_date": "1812-12-10",
+      "end_date": "1817-03-02",
+      "filename": "9f2478046ed7.json"
+    },
+    "bbf9e700174b": {
+      "county_id": "als_mobile",
+      "name": "MOBILE (Ala.)",
+      "start_date": "1812-08-01",
+      "end_date": "1812-12-17",
+      "filename": "bbf9e700174b.json"
+    },
+    "fd9c5ff4f71a": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1812-12-18",
+      "end_date": "1824-01-20",
+      "filename": "fd9c5ff4f71a.json"
+    },
+    "472ca912af40": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1812-12-18",
+      "end_date": "1817-03-02",
+      "filename": "472ca912af40.json"
+    },
+    "625f831c4132": {
+      "county_id": "als_mobile",
+      "name": "MOBILE (Ala.)",
+      "start_date": "1812-12-18",
+      "end_date": "1817-03-02",
+      "filename": "625f831c4132.json"
+    },
+    "f4bb971aee00": {
+      "county_id": "mst_part",
+      "name": "Mississippi Terr.",
+      "start_date": "1812-04-30",
+      "end_date": "1812-07-31",
+      "filename": "f4bb971aee00.json"
+    },
+    "e06120ce3339": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1814-12-22",
+      "end_date": "1819-02-04",
+      "filename": "e06120ce3339.json"
+    },
+    "aba5ec99e61c": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1814-12-22",
+      "end_date": "1815-12-08",
+      "filename": "aba5ec99e61c.json"
+    },
+    "9a8193476159": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1815-12-09",
+      "end_date": "1825-02-01",
+      "filename": "9a8193476159.json"
+    },
+    "19b1c5494b8a": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1815-12-09",
+      "end_date": "1819-02-11",
+      "filename": "19b1c5494b8a.json"
+    },
+    "24807742ada7": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1815-06-29",
+      "end_date": "1817-03-02",
+      "filename": "24807742ada7.json"
+    },
+    "458305bc1e95": {
+      "county_id": "als_monroe",
+      "name": "MONROE (Ala.)",
+      "start_date": "1815-06-29",
+      "end_date": "1816-12-05",
+      "filename": "458305bc1e95.json"
+    },
+    "d9a966ce6cd7": {
+      "county_id": "als_monroe",
+      "name": "MONROE (Ala.)",
+      "start_date": "1816-12-06",
+      "end_date": "1817-03-02",
+      "filename": "d9a966ce6cd7.json"
+    },
+    "107f87374c6b": {
+      "county_id": "als_montgomery",
+      "name": "MONTGOMERY (Ala.)",
+      "start_date": "1816-12-06",
+      "end_date": "1817-03-02",
+      "filename": "107f87374c6b.json"
+    },
+    "c37bbea3626a": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1817-03-03",
+      "end_date": "1820-05-28",
+      "filename": "c37bbea3626a.json"
+    },
+    "f1d882193594": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1817-03-03",
+      "end_date": "1820-02-02",
+      "filename": "f1d882193594.json"
+    },
+    "f85b0fca974b": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1817-03-03",
+      "end_date": "1821-02-08",
+      "filename": "f85b0fca974b.json"
+    },
+    "e7fb95ef456d": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1817-03-03",
+      "end_date": "1819-02-04",
+      "filename": "e7fb95ef456d.json"
+    },
+    "df00019fa3a4": {
+      "county_id": "mss_nca2",
+      "name": "NCA 2",
+      "start_date": "1817-03-03",
+      "end_date": "1818-02-06",
+      "filename": "df00019fa3a4.json"
+    },
+    "5ea17e5eafd1": {
+      "county_id": "als_marion",
+      "name": "MARION (Ala.)",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "5ea17e5eafd1.json"
+    },
+    "1b984b536eb6": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA (Ala.)",
+      "start_date": "1818-02-13",
+      "end_date": "1818-11-19",
+      "filename": "1b984b536eb6.json"
+    },
+    "1bac4911e102": {
+      "county_id": "mss_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "1bac4911e102.json"
+    },
+    "d4a05c0f902b": {
+      "county_id": "mss_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1818-02-13",
+      "end_date": "1820-12-18",
+      "filename": "d4a05c0f902b.json"
+    },
+    "66d0d18058c1": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA (Ala.)",
+      "start_date": "1818-11-20",
+      "end_date": "1819-12-12",
+      "filename": "66d0d18058c1.json"
+    },
+    "97a68530d086": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA (Ala.)",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-12",
+      "filename": "97a68530d086.json"
+    },
+    "82339e8696e4": {
+      "county_id": "mss_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1818-02-06",
+      "end_date": "1818-02-12",
+      "filename": "82339e8696e4.json"
+    },
+    "c4dfdc05dff6": {
+      "county_id": "als_mobile",
+      "name": "MOBILE (Ala.)",
+      "start_date": "1818-02-07",
+      "end_date": "1820-05-28",
+      "filename": "c4dfdc05dff6.json"
+    },
+    "87490458a745": {
+      "county_id": "als_washington",
+      "name": "WASHINGTON (Ala.)",
+      "start_date": "1818-02-07",
+      "end_date": "1820-05-28",
+      "filename": "87490458a745.json"
+    },
+    "34dca89965a9": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN (Ala.)",
+      "start_date": "1818-02-07",
+      "end_date": "1819-12-12",
+      "filename": "34dca89965a9.json"
+    },
+    "8055a162759e": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1819-02-12",
+      "end_date": "1830-12-08",
+      "filename": "8055a162759e.json"
+    },
+    "693b3f87163d": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1819-02-12",
+      "end_date": "1823-01-20",
+      "filename": "693b3f87163d.json"
+    },
+    "94977339be0e": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1819-02-12",
+      "end_date": "1822-06-28",
+      "filename": "94977339be0e.json"
+    },
+    "0b0d652faf77": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1819-02-12",
+      "end_date": "1821-02-09",
+      "filename": "0b0d652faf77.json"
+    },
+    "35e153d604d1": {
+      "county_id": "als_tuscaloosa",
+      "name": "TUSCALOOSA (Ala.)",
+      "start_date": "1819-12-13",
+      "end_date": "1820-12-18",
+      "filename": "35e153d604d1.json"
+    },
+    "5aa1e739cbae": {
+      "county_id": "als_baldwin",
+      "name": "BALDWIN (Ala.)",
+      "start_date": "1819-12-13",
+      "end_date": "1820-05-28",
+      "filename": "5aa1e739cbae.json"
+    },
+    "b96ae16a90ff": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1819-02-05",
+      "end_date": "1822-06-28",
+      "filename": "b96ae16a90ff.json"
+    },
+    "536e2e1bcef2": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1819-02-05",
+      "end_date": "1820-05-28",
+      "filename": "536e2e1bcef2.json"
+    },
+    "35aa047c6b72": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1819-02-05",
+      "end_date": "1819-02-11",
+      "filename": "35aa047c6b72.json"
+    },
+    "2e3902c4728d": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1820-05-29",
+      "end_date": "1822-06-26",
+      "filename": "2e3902c4728d.json"
+    },
+    "d23ba390cc2a": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1820-05-29",
+      "end_date": "1822-06-26",
+      "filename": "d23ba390cc2a.json"
+    },
+    "3e9936db85fe": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1820-05-29",
+      "end_date": "1822-06-28",
+      "filename": "3e9936db85fe.json"
+    },
+    "dec009c47e8f": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1820-02-03",
+      "end_date": "1825-02-02",
+      "filename": "dec009c47e8f.json"
+    },
+    "84b8059376f4": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1820-02-03",
+      "end_date": "1820-05-28",
+      "filename": "84b8059376f4.json"
+    },
+    "1f90f0a7dc1c": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1821-02-12",
+      "end_date": "1821-11-23",
+      "filename": "1f90f0a7dc1c.json"
+    },
+    "a6c79d6f3229": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1821-02-12",
+      "end_date": "1829-02-03",
+      "filename": "a6c79d6f3229.json"
+    },
+    "5c01524323c7": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1821-11-24",
+      "end_date": "1823-01-19",
+      "filename": "5c01524323c7.json"
+    },
+    "81e1c025c179": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1880-03-05",
+      "end_date": "1884-02-26",
+      "filename": "81e1c025c179.json"
+    },
+    "fb41afa5897c": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1880-03-05",
+      "end_date": "1882-02-27",
+      "filename": "fb41afa5897c.json"
+    },
+    "7014abbd32e3": {
+      "county_id": "mss_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1882-02-28",
+      "end_date": "2000-12-31",
+      "filename": "7014abbd32e3.json"
+    },
+    "aabb44139821": {
+      "county_id": "mss_webster",
+      "name": "WEBSTER",
+      "start_date": "1882-01-30",
+      "end_date": "2000-12-31",
+      "filename": "aabb44139821.json"
+    },
+    "24fc4aeb3efd": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1882-02-28",
+      "end_date": "1896-03-18",
+      "filename": "24fc4aeb3efd.json"
+    },
+    "dc8ea2a3ed55": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1882-03-07",
+      "end_date": "1884-02-06",
+      "filename": "dc8ea2a3ed55.json"
+    },
+    "ecc0eb218a8b": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1882-03-07",
+      "end_date": "1884-02-06",
+      "filename": "ecc0eb218a8b.json"
+    },
+    "8e842ab6d262": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1884-02-07",
+      "end_date": "1914-01-08",
+      "filename": "8e842ab6d262.json"
+    },
+    "2261ba3a386d": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1884-02-07",
+      "end_date": "1914-01-08",
+      "filename": "2261ba3a386d.json"
+    },
+    "40900e9344be": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1884-02-27",
+      "end_date": "1908-03-19",
+      "filename": "40900e9344be.json"
+    },
+    "e15bde572d89": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1884-02-27",
+      "end_date": "1906-06-03",
+      "filename": "e15bde572d89.json"
+    },
+    "bb980be68348": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1821-11-24",
+      "end_date": "1823-01-19",
+      "filename": "bb980be68348.json"
+    },
+    "194560d5a3ec": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1821-02-09",
+      "end_date": "1830-01-29",
+      "filename": "194560d5a3ec.json"
+    },
+    "516d9e69e0d8": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1821-02-10",
+      "end_date": "1870-04-06",
+      "filename": "516d9e69e0d8.json"
+    },
+    "fbb694826886": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1821-02-10",
+      "end_date": "1846-03-01",
+      "filename": "fbb694826886.json"
+    },
+    "7005b8e32223": {
+      "county_id": "mss_nca1",
+      "name": "NCA 1",
+      "start_date": "1821-02-09",
+      "end_date": "1821-02-11",
+      "filename": "7005b8e32223.json"
+    },
+    "87b369a56d87": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1822-06-29",
+      "end_date": "1825-01-31",
+      "filename": "87b369a56d87.json"
+    },
+    "687a29975139": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1822-06-29",
+      "end_date": "1823-01-16",
+      "filename": "687a29975139.json"
+    },
+    "c025c36d708a": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1822-06-29",
+      "end_date": "1823-01-20",
+      "filename": "c025c36d708a.json"
+    },
+    "a7349af99e8d": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1822-06-29",
+      "end_date": "1823-01-20",
+      "filename": "a7349af99e8d.json"
+    },
+    "8f79d4bebd7a": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1822-06-27",
+      "end_date": "1823-01-15",
+      "filename": "8f79d4bebd7a.json"
+    },
+    "69e1f5f0b77d": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1822-06-27",
+      "end_date": "1823-01-15",
+      "filename": "69e1f5f0b77d.json"
+    },
+    "5dd876f1531b": {
+      "county_id": "mss_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1823-01-21",
+      "end_date": "2000-12-31",
+      "filename": "5dd876f1531b.json"
+    },
+    "60666ca48257": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1823-01-21",
+      "end_date": "1870-04-06",
+      "filename": "60666ca48257.json"
+    },
+    "c9d5f9cf79e8": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1823-01-21",
+      "end_date": "1828-02-03",
+      "filename": "c9d5f9cf79e8.json"
+    },
+    "29a603cc0bb8": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1823-01-21",
+      "end_date": "1827-01-28",
+      "filename": "29a603cc0bb8.json"
+    },
+    "ca8a1b1aafa5": {
+      "county_id": "mss_copiah",
+      "name": "COPIAH",
+      "start_date": "1823-01-21",
+      "end_date": "1824-01-22",
+      "filename": "ca8a1b1aafa5.json"
+    },
+    "4372b497f797": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1823-01-21",
+      "end_date": "1825-01-31",
+      "filename": "4372b497f797.json"
+    },
+    "338172c98092": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1823-01-16",
+      "end_date": "1871-05-12",
+      "filename": "338172c98092.json"
+    },
+    "8fc5c51b7cde": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1823-01-20",
+      "end_date": "1827-01-28",
+      "filename": "8fc5c51b7cde.json"
+    },
+    "f2c8c61bce25": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1823-01-17",
+      "end_date": "1824-01-20",
+      "filename": "f2c8c61bce25.json"
+    },
+    "3bbc2144a153": {
+      "county_id": "mss_bainbridge",
+      "name": "BAINBRIDGE (ext)",
+      "start_date": "1823-01-17",
+      "end_date": "1824-01-20",
+      "filename": "3bbc2144a153.json"
+    },
+    "bca0674d8366": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1823-01-16",
+      "end_date": "1824-01-20",
+      "filename": "bca0674d8366.json"
+    },
+    "d26a9d3f1c8c": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1823-01-20",
+      "end_date": "1823-01-20",
+      "filename": "d26a9d3f1c8c.json"
+    },
+    "3da835a1c9cc": {
+      "county_id": "mss_simpson",
+      "name": "SIMPSON",
+      "start_date": "1824-01-23",
+      "end_date": "2000-12-31",
+      "filename": "3da835a1c9cc.json"
+    },
+    "5ab25f140a5e": {
+      "county_id": "mss_copiah",
+      "name": "COPIAH",
+      "start_date": "1824-01-23",
+      "end_date": "1870-04-06",
+      "filename": "5ab25f140a5e.json"
+    },
+    "22f5cff041cc": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1824-01-21",
+      "end_date": "1828-01-23",
+      "filename": "22f5cff041cc.json"
+    },
+    "8a51ddc044c2": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1824-01-21",
+      "end_date": "1825-02-02",
+      "filename": "8a51ddc044c2.json"
+    },
+    "49bece133d8d": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1824-01-21",
+      "end_date": "1825-01-31",
+      "filename": "49bece133d8d.json"
+    },
+    "7ec506b87da8": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1825-02-03",
+      "end_date": "1828-01-23",
+      "filename": "7ec506b87da8.json"
+    },
+    "4226ffb77efc": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1825-02-03",
+      "end_date": "1828-01-23",
+      "filename": "4226ffb77efc.json"
+    },
+    "cbcca4e2dc26": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1825-02-02",
+      "end_date": "1827-02-01",
+      "filename": "cbcca4e2dc26.json"
+    },
+    "fd1295c4591e": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1825-02-02",
+      "end_date": "1827-02-01",
+      "filename": "fd1295c4591e.json"
+    },
+    "15727bf46644": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1825-02-01",
+      "end_date": "1826-01-23",
+      "filename": "15727bf46644.json"
+    },
+    "bc233bafb618": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1825-02-01",
+      "end_date": "1826-01-23",
+      "filename": "bc233bafb618.json"
+    },
+    "92db13684f5e": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1825-02-01",
+      "end_date": "1825-02-01",
+      "filename": "92db13684f5e.json"
+    },
+    "822b8dc39594": {
+      "county_id": "mss_jones",
+      "name": "JONES",
+      "start_date": "1826-01-24",
+      "end_date": "1830-02-11",
+      "filename": "822b8dc39594.json"
+    },
+    "48eb519ab140": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1826-01-24",
+      "end_date": "1830-02-11",
+      "filename": "48eb519ab140.json"
+    },
+    "28000249eaf8": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1826-01-24",
+      "end_date": "1830-02-11",
+      "filename": "28000249eaf8.json"
+    },
+    "26c2ad375999": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1827-02-02",
+      "end_date": "1870-04-06",
+      "filename": "26c2ad375999.json"
+    },
+    "7e8f44d79ad9": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1827-02-02",
+      "end_date": "1870-04-06",
+      "filename": "7e8f44d79ad9.json"
+    },
+    "6ca61fdb7cd8": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1827-01-29",
+      "end_date": "1828-02-11",
+      "filename": "6ca61fdb7cd8.json"
+    },
+    "04fe41834857": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1827-01-29",
+      "end_date": "1828-02-05",
+      "filename": "04fe41834857.json"
+    },
+    "12c5636f14f6": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1827-01-29",
+      "end_date": "1828-01-28",
+      "filename": "12c5636f14f6.json"
+    },
+    "a56041b25cc7": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1828-02-12",
+      "end_date": "1830-02-11",
+      "filename": "a56041b25cc7.json"
+    },
+    "66c4b714477b": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1828-02-12",
+      "end_date": "1829-01-18",
+      "filename": "66c4b714477b.json"
+    },
+    "5c0ae6c9e231": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1828-02-06",
+      "end_date": "1829-01-27",
+      "filename": "5c0ae6c9e231.json"
+    },
+    "cd05477ee728": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1828-02-06",
+      "end_date": "1828-02-11",
+      "filename": "cd05477ee728.json"
+    },
+    "866bf297a47b": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1828-01-24",
+      "end_date": "1830-02-11",
+      "filename": "866bf297a47b.json"
+    },
+    "01b152c0643c": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1828-01-24",
+      "end_date": "1830-02-11",
+      "filename": "01b152c0643c.json"
+    },
+    "e92ecc471d9f": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1828-01-24",
+      "end_date": "1830-02-11",
+      "filename": "e92ecc471d9f.json"
+    },
+    "a090dc24b262": {
+      "county_id": "mss_rankin",
+      "name": "RANKIN",
+      "start_date": "1828-02-04",
+      "end_date": "1830-02-11",
+      "filename": "a090dc24b262.json"
+    },
+    "4c6c025b84bf": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1828-01-29",
+      "end_date": "1829-02-04",
+      "filename": "4c6c025b84bf.json"
+    },
+    "6493d67331ce": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1828-02-04",
+      "end_date": "1829-02-04",
+      "filename": "6493d67331ce.json"
+    },
+    "0ae683984379": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1828-01-29",
+      "end_date": "1828-02-05",
+      "filename": "0ae683984379.json"
+    },
+    "3fd4e695052f": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1829-02-05",
+      "end_date": "1840-02-21",
+      "filename": "3fd4e695052f.json"
+    },
+    "bbad1bfb10e1": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1829-01-28",
+      "end_date": "1833-12-22",
+      "filename": "bbad1bfb10e1.json"
+    },
+    "437b7c0ce522": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1829-02-05",
+      "end_date": "1830-02-11",
+      "filename": "437b7c0ce522.json"
+    },
+    "dc74be353535": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1829-01-28",
+      "end_date": "1830-02-11",
+      "filename": "dc74be353535.json"
+    },
+    "832c267b7333": {
+      "county_id": "mss_nca8",
+      "name": "NCA 8",
+      "start_date": "1829-02-04",
+      "end_date": "1830-02-11",
+      "filename": "832c267b7333.json"
+    },
+    "75c083fd717a": {
+      "county_id": "mss_nca6",
+      "name": "NCA 6",
+      "start_date": "1829-02-04",
+      "end_date": "1830-02-11",
+      "filename": "75c083fd717a.json"
+    },
+    "f5963da52f90": {
+      "county_id": "mss_nca4",
+      "name": "NCA 4",
+      "start_date": "1829-02-04",
+      "end_date": "1830-01-29",
+      "filename": "f5963da52f90.json"
+    },
+    "89e1355f3d02": {
+      "county_id": "mss_nca3",
+      "name": "NCA 3",
+      "start_date": "1829-02-04",
+      "end_date": "1830-02-11",
+      "filename": "89e1355f3d02.json"
+    },
+    "3b039a16fd5b": {
+      "county_id": "mss_nca5",
+      "name": "NCA 5",
+      "start_date": "1829-02-04",
+      "end_date": "1830-01-29",
+      "filename": "3b039a16fd5b.json"
+    },
+    "e741ef374466": {
+      "county_id": "mss_nca7",
+      "name": "NCA 7",
+      "start_date": "1829-02-04",
+      "end_date": "1830-01-29",
+      "filename": "e741ef374466.json"
+    },
+    "3d2b1f40e93f": {
+      "county_id": "mss_claiborne",
+      "name": "CLAIBORNE",
+      "start_date": "1829-01-19",
+      "end_date": "2000-12-31",
+      "filename": "3d2b1f40e93f.json"
+    },
+    "1a406ad11f91": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1829-01-19",
+      "end_date": "1829-01-27",
+      "filename": "1a406ad11f91.json"
+    },
+    "3f1034049693": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1830-12-15",
+      "end_date": "1844-01-23",
+      "filename": "3f1034049693.json"
+    },
+    "5f9afe04e67e": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1830-12-16",
+      "end_date": "1843-07-24",
+      "filename": "5f9afe04e67e.json"
+    },
+    "6009f4481e70": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1830-12-15",
+      "end_date": "1833-02-24",
+      "filename": "6009f4481e70.json"
+    },
+    "8dd694d44b1f": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1830-12-16",
+      "end_date": "1833-02-24",
+      "filename": "8dd694d44b1f.json"
+    },
+    "1fd015f49311": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1830-12-09",
+      "end_date": "1830-12-14",
+      "filename": "1fd015f49311.json"
+    },
+    "53b469a7645d": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1830-12-09",
+      "end_date": "1830-12-15",
+      "filename": "53b469a7645d.json"
+    },
+    "b0986625251d": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1830-02-12",
+      "end_date": "1833-12-22",
+      "filename": "b0986625251d.json"
+    },
+    "0514ea7146d3": {
+      "county_id": "mss_jones",
+      "name": "JONES",
+      "start_date": "1830-02-12",
+      "end_date": "1833-12-22",
+      "filename": "0514ea7146d3.json"
+    },
+    "9667c3fbf68c": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1830-02-12",
+      "end_date": "1833-12-22",
+      "filename": "9667c3fbf68c.json"
+    },
+    "7c38e9b014ef": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1830-02-12",
+      "end_date": "1833-05-05",
+      "filename": "7c38e9b014ef.json"
+    },
+    "a5f3e3847c8b": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1830-02-12",
+      "end_date": "1831-12-05",
+      "filename": "a5f3e3847c8b.json"
+    },
+    "deec69528f80": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1830-02-12",
+      "end_date": "1831-12-05",
+      "filename": "deec69528f80.json"
+    },
+    "94354b39de81": {
+      "county_id": "mss_rankin",
+      "name": "RANKIN",
+      "start_date": "1830-02-12",
+      "end_date": "1831-12-05",
+      "filename": "94354b39de81.json"
+    },
+    "b0e25c5cd732": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1830-02-12",
+      "end_date": "1830-12-14",
+      "filename": "b0e25c5cd732.json"
+    },
+    "d12448d22cc4": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1830-02-12",
+      "end_date": "1830-12-15",
+      "filename": "d12448d22cc4.json"
+    },
+    "1e50d27c0396": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1830-02-12",
+      "end_date": "1830-12-08",
+      "filename": "1e50d27c0396.json"
+    },
+    "303de84f6be0": {
+      "county_id": "mss_nca6",
+      "name": "NCA 6",
+      "start_date": "1830-02-12",
+      "end_date": "1848-02-03",
+      "filename": "303de84f6be0.json"
+    },
+    "e0b39eb3be86": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1830-02-12",
+      "end_date": "1833-12-22",
+      "filename": "e0b39eb3be86.json"
+    },
+    "8c5e201d60ab": {
+      "county_id": "mss_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1830-01-30",
+      "end_date": "1831-12-05",
+      "filename": "8c5e201d60ab.json"
+    },
+    "ee6c1316f683": {
+      "county_id": "mss_nca5",
+      "name": "NCA 5",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "ee6c1316f683.json"
+    },
+    "16427dccd145": {
+      "county_id": "mss_nca10",
+      "name": "NCA 10",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "16427dccd145.json"
+    },
+    "15cc75026f72": {
+      "county_id": "mss_nca7",
+      "name": "NCA 7",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "15cc75026f72.json"
+    },
+    "71a0d5e22dab": {
+      "county_id": "mss_nca9",
+      "name": "NCA 9",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "71a0d5e22dab.json"
+    },
+    "214ac8161c6b": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "214ac8161c6b.json"
+    },
+    "55e982946c13": {
+      "county_id": "mss_nca4",
+      "name": "NCA 4",
+      "start_date": "1830-01-30",
+      "end_date": "1830-02-11",
+      "filename": "55e982946c13.json"
+    },
+    "ee90aae3d788": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1831-12-06",
+      "end_date": "1833-12-22",
+      "filename": "ee90aae3d788.json"
+    },
+    "f2a245c7406d": {
+      "county_id": "mss_rankin",
+      "name": "RANKIN",
+      "start_date": "1831-12-06",
+      "end_date": "1833-12-22",
+      "filename": "f2a245c7406d.json"
+    },
+    "3c2bf2d69c31": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1831-12-06",
+      "end_date": "1833-12-22",
+      "filename": "3c2bf2d69c31.json"
+    },
+    "4f2745bb1eba": {
+      "county_id": "mss_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1831-12-06",
+      "end_date": "1833-12-22",
+      "filename": "4f2745bb1eba.json"
+    },
+    "631a75be1ea3": {
+      "county_id": "mss_attala",
+      "name": "ATTALA",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "631a75be1ea3.json"
+    },
+    "6faefecd65ce": {
+      "county_id": "mss_jasper",
+      "name": "JASPER",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "6faefecd65ce.json"
+    },
+    "357a5d8176a0": {
+      "county_id": "mss_kemper",
+      "name": "KEMPER",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "357a5d8176a0.json"
+    },
+    "04116eeb653f": {
+      "county_id": "mss_jones",
+      "name": "JONES",
+      "start_date": "1833-12-23",
+      "end_date": "1865-11-30",
+      "filename": "04116eeb653f.json"
+    },
+    "60baf293387a": {
+      "county_id": "mss_lauderdale",
+      "name": "LAUDERDALE",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "60baf293387a.json"
+    },
+    "46c1cf82f280": {
+      "county_id": "mss_leake",
+      "name": "LEAKE",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "46c1cf82f280.json"
+    },
+    "4c66e26766a7": {
+      "county_id": "mss_noxubee",
+      "name": "NOXUBEE",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "4c66e26766a7.json"
+    },
+    "219bf502ab1d": {
+      "county_id": "mss_smith",
+      "name": "SMITH",
+      "start_date": "1833-12-23",
+      "end_date": "2000-12-31",
+      "filename": "219bf502ab1d.json"
+    },
+    "974a63bbc262": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1833-12-23",
+      "end_date": "1880-03-04",
+      "filename": "974a63bbc262.json"
+    },
+    "6a04a0f8f502": {
+      "county_id": "mss_winston",
+      "name": "WINSTON",
+      "start_date": "1833-12-23",
+      "end_date": "1873-10-31",
+      "filename": "6a04a0f8f502.json"
+    },
+    "5e3a58f8c4a1": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1833-12-23",
+      "end_date": "1871-05-12",
+      "filename": "5e3a58f8c4a1.json"
+    },
+    "f156d8fa5e35": {
+      "county_id": "mss_clarke",
+      "name": "CLARKE",
+      "start_date": "1833-12-23",
+      "end_date": "1871-05-12",
+      "filename": "f156d8fa5e35.json"
+    },
+    "5dc870bf97c2": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1833-12-23",
+      "end_date": "1870-05-08",
+      "filename": "5dc870bf97c2.json"
+    },
+    "7fefe5749def": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1833-12-23",
+      "end_date": "1854-02-09",
+      "filename": "7fefe5749def.json"
+    },
+    "937abde23c8d": {
+      "county_id": "mss_yalobusha",
+      "name": "YALOBUSHA",
+      "start_date": "1833-12-23",
+      "end_date": "1852-06-07",
+      "filename": "937abde23c8d.json"
+    },
+    "4f7921d3518f": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1833-12-23",
+      "end_date": "1846-02-10",
+      "filename": "4f7921d3518f.json"
+    },
+    "70f9355e9cb6": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1833-12-23",
+      "end_date": "1839-02-08",
+      "filename": "70f9355e9cb6.json"
+    },
+    "1fc25ef858e0": {
+      "county_id": "mss_scott",
+      "name": "SCOTT",
+      "start_date": "1833-12-23",
+      "end_date": "1838-02-07",
+      "filename": "1fc25ef858e0.json"
+    },
+    "b331a66c3c9c": {
+      "county_id": "mss_rankin",
+      "name": "RANKIN",
+      "start_date": "1833-12-23",
+      "end_date": "1838-02-07",
+      "filename": "b331a66c3c9c.json"
+    },
+    "84de19c8b90c": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1833-12-23",
+      "end_date": "1838-02-07",
+      "filename": "84de19c8b90c.json"
+    },
+    "89145d038cef": {
+      "county_id": "mss_neshoba",
+      "name": "NESHOBA",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-24",
+      "filename": "89145d038cef.json"
+    },
+    "596f77b19d7c": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "596f77b19d7c.json"
+    },
+    "8b4afd70828a": {
+      "county_id": "mss_tallahatchie",
+      "name": "TALLAHATCHIE",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "8b4afd70828a.json"
+    },
+    "304329d05bb5": {
+      "county_id": "mss_nca11",
+      "name": "NCA 11",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "304329d05bb5.json"
+    },
+    "1242bbae4b8c": {
+      "county_id": "mss_nca12",
+      "name": "NCA 12",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "1242bbae4b8c.json"
+    },
+    "328c65a0e5a2": {
+      "county_id": "mss_nca13",
+      "name": "NCA 13",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "328c65a0e5a2.json"
+    },
+    "af6ad01fd747": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1833-12-23",
+      "end_date": "1836-02-29",
+      "filename": "af6ad01fd747.json"
+    },
+    "2cbf14ba66ae": {
+      "county_id": "mss_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1833-12-23",
+      "end_date": "1871-05-11",
+      "filename": "2cbf14ba66ae.json"
+    },
+    "d39983892c99": {
+      "county_id": "mss_oktibbeha",
+      "name": "OKTIBBEHA",
+      "start_date": "1833-12-23",
+      "end_date": "1871-05-11",
+      "filename": "d39983892c99.json"
+    },
+    "3a51bd1f62a5": {
+      "county_id": "mss_holmes",
+      "name": "HOLMES",
+      "start_date": "1833-05-06",
+      "end_date": "1918-05-30",
+      "filename": "3a51bd1f62a5.json"
+    },
+    "1293f5338e52": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1833-02-25",
+      "end_date": "1836-02-23",
+      "filename": "1293f5338e52.json"
+    },
+    "3468074c249e": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1833-02-25",
+      "end_date": "1836-02-23",
+      "filename": "3468074c249e.json"
+    },
+    "e6638f588856": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1833-05-06",
+      "end_date": "1833-12-22",
+      "filename": "e6638f588856.json"
+    },
+    "4f3c49619f75": {
+      "county_id": "mss_nca11",
+      "name": "NCA 11",
+      "start_date": "1833-05-06",
+      "end_date": "1833-12-22",
+      "filename": "4f3c49619f75.json"
+    },
+    "b95233220b9d": {
+      "county_id": "mss_newton",
+      "name": "NEWTON",
+      "start_date": "1836-02-25",
+      "end_date": "2000-12-31",
+      "filename": "b95233220b9d.json"
+    },
+    "1277f8586c10": {
+      "county_id": "mss_desoto",
+      "name": "DE SOTO",
+      "start_date": "1836-03-01",
+      "end_date": "1873-04-14",
+      "filename": "1277f8586c10.json"
+    },
+    "60fb556588d3": {
+      "county_id": "mss_neshoba",
+      "name": "NESHOBA",
+      "start_date": "1836-02-25",
+      "end_date": "1873-10-31",
+      "filename": "60fb556588d3.json"
+    },
+    "7e3bd8868f1f": {
+      "county_id": "mss_tippah",
+      "name": "TIPPAH",
+      "start_date": "1836-03-01",
+      "end_date": "1870-04-14",
+      "filename": "7e3bd8868f1f.json"
+    },
+    "f1e2e7817fe2": {
+      "county_id": "mss_tishomingo",
+      "name": "TISHOMINGO",
+      "start_date": "1836-03-01",
+      "end_date": "1870-04-14",
+      "filename": "f1e2e7817fe2.json"
+    },
+    "b231a7ec6751": {
+      "county_id": "mss_itawamba",
+      "name": "ITAWAMBA",
+      "start_date": "1836-03-01",
+      "end_date": "1866-12-09",
+      "filename": "b231a7ec6751.json"
+    },
+    "a9cf3271edeb": {
+      "county_id": "mss_pontotoc",
+      "name": "PONTOTOC",
+      "start_date": "1836-03-01",
+      "end_date": "1866-12-09",
+      "filename": "a9cf3271edeb.json"
+    },
+    "d0ba4010308b": {
+      "county_id": "mss_tallahatchie",
+      "name": "TALLAHATCHIE",
+      "start_date": "1836-03-01",
+      "end_date": "1860-03-04",
+      "filename": "d0ba4010308b.json"
+    },
+    "918c414ebf0b": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1836-03-01",
+      "end_date": "1852-06-07",
+      "filename": "918c414ebf0b.json"
+    },
+    "791f8f03ba05": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1836-03-01",
+      "end_date": "1846-01-21",
+      "filename": "791f8f03ba05.json"
+    },
+    "08e821899479": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1836-03-01",
+      "end_date": "1846-01-21",
+      "filename": "08e821899479.json"
+    },
+    "1270f0d8e2d3": {
+      "county_id": "mss_bolivar",
+      "name": "BOLIVAR",
+      "start_date": "1836-03-01",
+      "end_date": "1842-02-25",
+      "filename": "1270f0d8e2d3.json"
+    },
+    "941f2bc1038d": {
+      "county_id": "mss_coahoma",
+      "name": "COAHOMA",
+      "start_date": "1836-03-01",
+      "end_date": "1842-02-25",
+      "filename": "941f2bc1038d.json"
+    },
+    "0d1769918dcc": {
+      "county_id": "mss_panola",
+      "name": "PANOLA",
+      "start_date": "1836-03-01",
+      "end_date": "1841-02-04",
+      "filename": "0d1769918dcc.json"
+    },
+    "725a014c8df8": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1836-03-01",
+      "end_date": "1841-02-04",
+      "filename": "725a014c8df8.json"
+    },
+    "204f9ab2f86e": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1836-02-24",
+      "end_date": "1841-05-02",
+      "filename": "204f9ab2f86e.json"
+    },
+    "1127bff37adf": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1836-02-24",
+      "end_date": "1841-05-02",
+      "filename": "1127bff37adf.json"
+    },
+    "939ad118bd23": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1836-03-01",
+      "end_date": "1839-02-08",
+      "filename": "939ad118bd23.json"
+    },
+    "084f0bd6eb60": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1836-03-01",
+      "end_date": "1871-05-11",
+      "filename": "084f0bd6eb60.json"
+    },
+    "d3e4cc311eb6": {
+      "county_id": "mss_rankin",
+      "name": "RANKIN",
+      "start_date": "1838-02-08",
+      "end_date": "2000-12-31",
+      "filename": "d3e4cc311eb6.json"
+    },
+    "3ac113390335": {
+      "county_id": "mss_scott",
+      "name": "SCOTT",
+      "start_date": "1838-02-08",
+      "end_date": "1859-12-05",
+      "filename": "3ac113390335.json"
+    },
+    "6fe1d473443b": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1838-02-08",
+      "end_date": "1840-02-21",
+      "filename": "6fe1d473443b.json"
+    },
+    "8b6176a3d247": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1839-02-09",
+      "end_date": "1846-02-10",
+      "filename": "8b6176a3d247.json"
+    },
+    "fff4d8724fbf": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1839-02-09",
+      "end_date": "1844-01-22",
+      "filename": "fff4d8724fbf.json"
+    },
+    "f2f005772735": {
+      "county_id": "mss_hinds",
+      "name": "HINDS",
+      "start_date": "1840-02-22",
+      "end_date": "2000-12-31",
+      "filename": "f2f005772735.json"
+    },
+    "316da91cf305": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1840-02-22",
+      "end_date": "1859-12-05",
+      "filename": "316da91cf305.json"
+    },
+    "dc4205b8ce96": {
+      "county_id": "mss_panola",
+      "name": "PANOLA",
+      "start_date": "1841-02-05",
+      "end_date": "1871-05-12",
+      "filename": "dc4205b8ce96.json"
+    },
+    "de970ddb0474": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1841-05-03",
+      "end_date": "1844-01-23",
+      "filename": "de970ddb0474.json"
+    },
+    "196db8567881": {
+      "county_id": "mss_harrison",
+      "name": "HARRISON",
+      "start_date": "1841-05-03",
+      "end_date": "1844-01-23",
+      "filename": "196db8567881.json"
+    },
+    "a6d2f9c04ad0": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1841-05-03",
+      "end_date": "1843-07-24",
+      "filename": "a6d2f9c04ad0.json"
+    },
+    "02a4350c4b7f": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1841-02-05",
+      "end_date": "1842-02-25",
+      "filename": "02a4350c4b7f.json"
+    },
+    "78c3a7e64c2f": {
+      "county_id": "mss_bolivar",
+      "name": "BOLIVAR",
+      "start_date": "1842-02-26",
+      "end_date": "1844-02-14",
+      "filename": "78c3a7e64c2f.json"
+    },
+    "1691ebcc9289": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1842-02-26",
+      "end_date": "1844-02-20",
+      "filename": "1691ebcc9289.json"
+    },
+    "4f2d03d383f4": {
+      "county_id": "mss_coahoma",
+      "name": "COAHOMA",
+      "start_date": "1842-02-26",
+      "end_date": "1844-02-20",
+      "filename": "4f2d03d383f4.json"
+    },
+    "12735c11de49": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1843-07-25",
+      "end_date": "1844-01-25",
+      "filename": "12735c11de49.json"
+    },
+    "93d5c83a2918": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1843-07-25",
+      "end_date": "1844-01-25",
+      "filename": "93d5c83a2918.json"
+    },
+    "b721d9b60c40": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1844-01-26",
+      "end_date": "1876-04-13",
+      "filename": "b721d9b60c40.json"
+    },
+    "0d4b94f14957": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1844-01-26",
+      "end_date": "1872-02-20",
+      "filename": "0d4b94f14957.json"
+    },
+    "9d6397191ac0": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1844-01-24",
+      "end_date": "1871-05-12",
+      "filename": "9d6397191ac0.json"
+    },
+    "5fbc09cc9a17": {
+      "county_id": "mss_bolivar",
+      "name": "BOLIVAR",
+      "start_date": "1844-02-15",
+      "end_date": "1871-03-14",
+      "filename": "5fbc09cc9a17.json"
+    },
+    "7ae230e4ac42": {
+      "county_id": "mss_sunflower",
+      "name": "SUNFLOWER",
+      "start_date": "1844-02-15",
+      "end_date": "1860-03-04",
+      "filename": "7ae230e4ac42.json"
+    },
+    "d962c5bdc169": {
+      "county_id": "mss_issaquena",
+      "name": "ISSAQUENA",
+      "start_date": "1844-01-23",
+      "end_date": "1850-05-03",
+      "filename": "d962c5bdc169.json"
+    },
+    "7068495c4856": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1844-01-23",
+      "end_date": "1850-03-04",
+      "filename": "7068495c4856.json"
+    },
+    "53e65d4d8144": {
+      "county_id": "mss_coahoma",
+      "name": "COAHOMA",
+      "start_date": "1844-02-21",
+      "end_date": "1848-02-22",
+      "filename": "53e65d4d8144.json"
+    },
+    "9e2f91f02231": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1844-02-21",
+      "end_date": "1848-02-03",
+      "filename": "9e2f91f02231.json"
+    },
+    "3ba68172ae8c": {
+      "county_id": "mss_harrison",
+      "name": "HARRISON",
+      "start_date": "1844-01-24",
+      "end_date": "1846-02-24",
+      "filename": "3ba68172ae8c.json"
+    },
+    "d38bfeab4e6b": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1844-01-24",
+      "end_date": "1846-02-24",
+      "filename": "d38bfeab4e6b.json"
+    },
+    "ba182e60755d": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1846-03-02",
+      "end_date": "1882-03-06",
+      "filename": "ba182e60755d.json"
+    },
+    "da1ed04edef1": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1846-03-02",
+      "end_date": "1882-03-06",
+      "filename": "da1ed04edef1.json"
+    },
+    "c97d0e161287": {
+      "county_id": "mss_harrison",
+      "name": "HARRISON",
+      "start_date": "1846-02-25",
+      "end_date": "1875-03-04",
+      "filename": "c97d0e161287.json"
+    },
+    "12f3a94c1114": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1846-02-25",
+      "end_date": "1875-03-04",
+      "filename": "12f3a94c1114.json"
+    },
+    "9ebfa60e214f": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1846-02-11",
+      "end_date": "1852-01-26",
+      "filename": "9ebfa60e214f.json"
+    },
+    "b4fc82e480b1": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1846-02-11",
+      "end_date": "1850-03-04",
+      "filename": "b4fc82e480b1.json"
+    },
+    "a21433c0ae9f": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1846-01-22",
+      "end_date": "1850-02-18",
+      "filename": "a21433c0ae9f.json"
+    },
+    "d117fde013eb": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1846-01-22",
+      "end_date": "1850-02-18",
+      "filename": "d117fde013eb.json"
+    },
+    "97896c0591cb": {
+      "county_id": "mss_coahoma",
+      "name": "COAHOMA",
+      "start_date": "1848-02-23",
+      "end_date": "1877-01-31",
+      "filename": "97896c0591cb.json"
+    },
+    "c3774a7bd6fb": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1848-02-23",
+      "end_date": "1871-05-12",
+      "filename": "c3774a7bd6fb.json"
+    },
+    "d10e42b579c7": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1848-02-04",
+      "end_date": "1848-02-22",
+      "filename": "d10e42b579c7.json"
+    },
+    "ec8a7c920bfd": {
+      "county_id": "mss_issaquena",
+      "name": "ISSAQUENA",
+      "start_date": "1850-05-04",
+      "end_date": "1876-03-28",
+      "filename": "ec8a7c920bfd.json"
+    },
+    "97cdb56f94a9": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1850-05-04",
+      "end_date": "1852-01-26",
+      "filename": "97cdb56f94a9.json"
+    },
+    "487b448a90d0": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1850-03-05",
+      "end_date": "1871-03-14",
+      "filename": "487b448a90d0.json"
+    },
+    "b8e92aaf21e3": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1850-02-19",
+      "end_date": "1854-04-30",
+      "filename": "b8e92aaf21e3.json"
+    },
+    "99908da47978": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1850-02-19",
+      "end_date": "1852-06-07",
+      "filename": "99908da47978.json"
+    },
+    "7f79dedaca93": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1850-03-05",
+      "end_date": "1850-05-03",
+      "filename": "7f79dedaca93.json"
+    },
+    "520a67921c1f": {
+      "county_id": "mss_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1852-06-08",
+      "end_date": "2000-12-31",
+      "filename": "520a67921c1f.json"
+    },
+    "1ea02528781e": {
+      "county_id": "mss_yalobusha",
+      "name": "YALOBUSHA",
+      "start_date": "1852-06-08",
+      "end_date": "1870-05-08",
+      "filename": "1ea02528781e.json"
+    },
+    "257d9ab6e34c": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1852-06-08",
+      "end_date": "1854-04-30",
+      "filename": "257d9ab6e34c.json"
+    },
+    "e35b237e3446": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1852-06-08",
+      "end_date": "1854-02-09",
+      "filename": "e35b237e3446.json"
+    },
+    "c4e80e4362ea": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1852-01-27",
+      "end_date": "1854-02-09",
+      "filename": "c4e80e4362ea.json"
+    },
+    "abc1434f1cc8": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1852-01-27",
+      "end_date": "1854-02-09",
+      "filename": "abc1434f1cc8.json"
+    },
+    "64fcd7a70e6f": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1854-02-10",
+      "end_date": "1873-04-16",
+      "filename": "64fcd7a70e6f.json"
+    },
+    "53b2421cc7cc": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1854-02-10",
+      "end_date": "1873-04-16",
+      "filename": "53b2421cc7cc.json"
+    },
+    "41f63e564973": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1854-05-01",
+      "end_date": "1871-05-12",
+      "filename": "41f63e564973.json"
+    },
+    "b29d33ab5669": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1854-02-10",
+      "end_date": "1871-05-11",
+      "filename": "b29d33ab5669.json"
+    },
+    "4d04ea63edf4": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1854-05-01",
+      "end_date": "1870-07-20",
+      "filename": "4d04ea63edf4.json"
+    },
+    "518ab50d16af": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1854-02-10",
+      "end_date": "1870-05-08",
+      "filename": "518ab50d16af.json"
+    },
+    "5b2979c801b5": {
+      "county_id": "mss_madison",
+      "name": "MADISON",
+      "start_date": "1859-12-06",
+      "end_date": "2000-12-31",
+      "filename": "5b2979c801b5.json"
+    },
+    "0ff2ce08173a": {
+      "county_id": "mss_scott",
+      "name": "SCOTT",
+      "start_date": "1859-12-06",
+      "end_date": "2000-12-31",
+      "filename": "0ff2ce08173a.json"
+    },
+    "340eacdc5fc6": {
+      "county_id": "mss_sunflower",
+      "name": "SUNFLOWER",
+      "start_date": "1860-03-05",
+      "end_date": "1871-03-14",
+      "filename": "340eacdc5fc6.json"
+    },
+    "a6e7d4b85730": {
+      "county_id": "mss_tallahatchie",
+      "name": "TALLAHATCHIE",
+      "start_date": "1860-03-05",
+      "end_date": "1870-05-08",
+      "filename": "a6e7d4b85730.json"
+    },
+    "7de97c95fdbf": {
+      "county_id": "mss_jones",
+      "name": "DAVIS",
+      "start_date": "1865-12-01",
+      "end_date": "1869-11-30",
+      "filename": "7de97c95fdbf.json"
+    },
+    "9ee274fdf63b": {
+      "county_id": "mss_pontotoc",
+      "name": "PONTOTOC",
+      "start_date": "1866-12-10",
+      "end_date": "1870-07-06",
+      "filename": "9ee274fdf63b.json"
+    },
+    "92c023bbf27c": {
+      "county_id": "mss_lee",
+      "name": "LEE",
+      "start_date": "1866-12-10",
+      "end_date": "1870-07-06",
+      "filename": "92c023bbf27c.json"
+    },
+    "4b7007414ff4": {
+      "county_id": "mss_itawamba",
+      "name": "ITAWAMBA",
+      "start_date": "1866-12-10",
+      "end_date": "1870-04-14",
+      "filename": "4b7007414ff4.json"
+    },
+    "cf977aeab621": {
+      "county_id": "mss_jones",
+      "name": "JONES",
+      "start_date": "1869-12-01",
+      "end_date": "2000-12-31",
+      "filename": "cf977aeab621.json"
+    },
+    "bdc924a00082": {
+      "county_id": "mss_tippah",
+      "name": "TIPPAH",
+      "start_date": "1870-07-21",
+      "end_date": "2000-12-31",
+      "filename": "bdc924a00082.json"
+    },
+    "945ab1550949": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1870-07-21",
+      "end_date": "1871-05-12",
+      "filename": "945ab1550949.json"
+    },
+    "041d721eea1a": {
+      "county_id": "mss_benton",
+      "name": "BENTON",
+      "start_date": "1870-07-21",
+      "end_date": "1871-05-12",
+      "filename": "041d721eea1a.json"
+    },
+    "17d5a694f94c": {
+      "county_id": "mss_pontotoc",
+      "name": "PONTOTOC",
+      "start_date": "1870-07-07",
+      "end_date": "1873-01-22",
+      "filename": "17d5a694f94c.json"
+    },
+    "57579092f944": {
+      "county_id": "mss_lee",
+      "name": "LEE",
+      "start_date": "1870-07-07",
+      "end_date": "1873-01-22",
+      "filename": "57579092f944.json"
+    },
+    "1ed49c754612": {
+      "county_id": "mss_union",
+      "name": "UNION",
+      "start_date": "1870-07-07",
+      "end_date": "1873-01-22",
+      "filename": "1ed49c754612.json"
+    },
+    "d593696ac7ad": {
+      "county_id": "mss_tippah",
+      "name": "TIPPAH",
+      "start_date": "1870-07-07",
+      "end_date": "1870-07-20",
+      "filename": "d593696ac7ad.json"
+    },
+    "e9a2c93586f8": {
+      "county_id": "mss_alcorn",
+      "name": "ALCORN",
+      "start_date": "1870-04-15",
+      "end_date": "2000-12-31",
+      "filename": "e9a2c93586f8.json"
+    },
+    "631681e74a41": {
+      "county_id": "mss_copiah",
+      "name": "COPIAH",
+      "start_date": "1870-04-07",
+      "end_date": "2000-12-31",
+      "filename": "631681e74a41.json"
+    },
+    "31dcd9f741c8": {
+      "county_id": "mss_grenada",
+      "name": "GRENADA",
+      "start_date": "1870-05-09",
+      "end_date": "2000-12-31",
+      "filename": "31dcd9f741c8.json"
+    },
+    "5d6ac646a7c0": {
+      "county_id": "mss_itawamba",
+      "name": "ITAWAMBA",
+      "start_date": "1870-04-15",
+      "end_date": "2000-12-31",
+      "filename": "5d6ac646a7c0.json"
+    },
+    "1465c4962a49": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1870-04-07",
+      "end_date": "1880-03-04",
+      "filename": "1465c4962a49.json"
+    },
+    "e9fd75b0ff67": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1870-04-07",
+      "end_date": "1878-02-20",
+      "filename": "e9fd75b0ff67.json"
+    },
+    "717dc53031f0": {
+      "county_id": "mss_tallahatchie",
+      "name": "TALLAHATCHIE",
+      "start_date": "1870-05-09",
+      "end_date": "1877-01-31",
+      "filename": "717dc53031f0.json"
+    },
+    "fd3dae144103": {
+      "county_id": "mss_tishomingo",
+      "name": "TISHOMINGO",
+      "start_date": "1870-04-15",
+      "end_date": "1876-03-30",
+      "filename": "fd3dae144103.json"
+    },
+    "3d3e84772259": {
+      "county_id": "mss_prentiss",
+      "name": "PRENTISS",
+      "start_date": "1870-04-15",
+      "end_date": "1874-04-05",
+      "filename": "3d3e84772259.json"
+    },
+    "1da0a9e30a14": {
+      "county_id": "mss_yalobusha",
+      "name": "YALOBUSHA",
+      "start_date": "1870-05-09",
+      "end_date": "1873-05-22",
+      "filename": "1da0a9e30a14.json"
+    },
+    "1a96b9d137ff": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1870-05-09",
+      "end_date": "1871-05-12",
+      "filename": "1a96b9d137ff.json"
+    },
+    "f9ce82640d83": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1870-04-07",
+      "end_date": "1871-05-09",
+      "filename": "f9ce82640d83.json"
+    },
+    "203bf7852f4c": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1870-04-07",
+      "end_date": "1871-05-09",
+      "filename": "203bf7852f4c.json"
+    },
+    "7732aca00a43": {
+      "county_id": "mss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1870-04-07",
+      "end_date": "1871-05-09",
+      "filename": "7732aca00a43.json"
+    },
+    "671333b6e05d": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1870-05-09",
+      "end_date": "1871-03-14",
+      "filename": "671333b6e05d.json"
+    },
+    "9bf02e94e456": {
+      "county_id": "mss_tippah",
+      "name": "TIPPAH",
+      "start_date": "1870-04-15",
+      "end_date": "1870-07-06",
+      "filename": "9bf02e94e456.json"
+    },
+    "20dd268c2aea": {
+      "county_id": "mss_clarke",
+      "name": "CLARKE",
+      "start_date": "1871-05-13",
+      "end_date": "2000-12-31",
+      "filename": "20dd268c2aea.json"
+    },
+    "b7ad69034bc1": {
+      "county_id": "mss_wayne",
+      "name": "WAYNE",
+      "start_date": "1871-05-13",
+      "end_date": "2000-12-31",
+      "filename": "b7ad69034bc1.json"
+    },
+    "7ae2bcec5c80": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1871-05-13",
+      "end_date": "1910-05-01",
+      "filename": "7ae2bcec5c80.json"
+    },
+    "235150b535f3": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1871-05-13",
+      "end_date": "1908-01-05",
+      "filename": "235150b535f3.json"
+    },
+    "7f3b3ff6746a": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1871-05-13",
+      "end_date": "1877-01-25",
+      "filename": "7f3b3ff6746a.json"
+    },
+    "2e7931e7707e": {
+      "county_id": "mss_panola",
+      "name": "PANOLA",
+      "start_date": "1871-05-13",
+      "end_date": "1877-01-31",
+      "filename": "2e7931e7707e.json"
+    },
+    "ed9e85e79667": {
+      "county_id": "mss_benton",
+      "name": "BENTON",
+      "start_date": "1871-05-13",
+      "end_date": "1876-03-12",
+      "filename": "ed9e85e79667.json"
+    },
+    "06c3596c3ae5": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1871-05-13",
+      "end_date": "1876-03-05",
+      "filename": "06c3596c3ae5.json"
+    },
+    "a52aea50f169": {
+      "county_id": "mss_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1871-05-13",
+      "end_date": "1874-04-05",
+      "filename": "a52aea50f169.json"
+    },
+    "0cc364acb700": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1871-05-13",
+      "end_date": "1874-04-05",
+      "filename": "0cc364acb700.json"
+    },
+    "90da02d07da0": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1871-05-13",
+      "end_date": "1873-04-14",
+      "filename": "90da02d07da0.json"
+    },
+    "5c5ae7592315": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1871-05-13",
+      "end_date": "1873-05-22",
+      "filename": "5c5ae7592315.json"
+    },
+    "36837584d254": {
+      "county_id": "mss_bolivar",
+      "name": "BOLIVAR",
+      "start_date": "1871-03-15",
+      "end_date": "2000-12-31",
+      "filename": "36837584d254.json"
+    },
+    "66aac6ac84a3": {
+      "county_id": "mss_clay",
+      "name": "COLFAX",
+      "start_date": "1871-05-12",
+      "end_date": "1876-04-09",
+      "filename": "66aac6ac84a3.json"
+    },
+    "36f9cd0c8fc0": {
+      "county_id": "mss_lowndes",
+      "name": "LOWNDES",
+      "start_date": "1871-05-12",
+      "end_date": "2000-12-31",
+      "filename": "36f9cd0c8fc0.json"
+    },
+    "a6ae5f41f629": {
+      "county_id": "mss_monroe",
+      "name": "MONROE",
+      "start_date": "1871-05-12",
+      "end_date": "2000-12-31",
+      "filename": "a6ae5f41f629.json"
+    },
+    "5145beb0b813": {
+      "county_id": "mss_sunflower",
+      "name": "SUNFLOWER",
+      "start_date": "1871-03-15",
+      "end_date": "1918-05-30",
+      "filename": "5145beb0b813.json"
+    },
+    "74447e192211": {
+      "county_id": "mss_leflore",
+      "name": "LEFLORE",
+      "start_date": "1871-03-15",
+      "end_date": "1877-01-25",
+      "filename": "74447e192211.json"
+    },
+    "355a24154404": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1871-03-15",
+      "end_date": "1876-03-28",
+      "filename": "355a24154404.json"
+    },
+    "b76ddaa15ce9": {
+      "county_id": "mss_oktibbeha",
+      "name": "OKTIBBEHA",
+      "start_date": "1871-05-12",
+      "end_date": "1875-03-01",
+      "filename": "b76ddaa15ce9.json"
+    },
+    "cf77be3ed2b6": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1871-05-12",
+      "end_date": "1874-04-05",
+      "filename": "cf77be3ed2b6.json"
+    },
+    "a642f99a3284": {
+      "county_id": "mss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1871-05-10",
+      "end_date": "1873-04-03",
+      "filename": "a642f99a3284.json"
+    },
+    "2a5cc4c8cbb1": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1871-05-10",
+      "end_date": "1873-04-03",
+      "filename": "2a5cc4c8cbb1.json"
+    },
+    "a73c89dc6c63": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1871-05-10",
+      "end_date": "1873-04-03",
+      "filename": "a73c89dc6c63.json"
+    },
+    "b6dd3deeb384": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1871-03-15",
+      "end_date": "1871-05-12",
+      "filename": "b6dd3deeb384.json"
+    },
+    "8186f80da6ce": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1872-02-21",
+      "end_date": "1878-02-27",
+      "filename": "8186f80da6ce.json"
+    },
+    "cda71f505fd3": {
+      "county_id": "mss_pearl",
+      "name": "PEARL (ext)",
+      "start_date": "1872-02-21",
+      "end_date": "1876-04-13",
+      "filename": "cda71f505fd3.json"
+    },
+    "9fb45d50ed79": {
+      "county_id": "mss_amite",
+      "name": "AMITE",
+      "start_date": "1873-04-04",
+      "end_date": "2000-12-31",
+      "filename": "9fb45d50ed79.json"
+    },
+    "c50c5bdb1e10": {
+      "county_id": "mss_lafayette",
+      "name": "LAFAYETTE",
+      "start_date": "1873-05-23",
+      "end_date": "2000-12-31",
+      "filename": "c50c5bdb1e10.json"
+    },
+    "a950c7a11c87": {
+      "county_id": "mss_neshoba",
+      "name": "NESHOBA",
+      "start_date": "1873-11-01",
+      "end_date": "2000-12-31",
+      "filename": "a950c7a11c87.json"
+    },
+    "4cc718cd482f": {
+      "county_id": "mss_pontotoc",
+      "name": "PONTOTOC",
+      "start_date": "1873-01-23",
+      "end_date": "2000-12-31",
+      "filename": "4cc718cd482f.json"
+    },
+    "7ee7e8653716": {
+      "county_id": "mss_yalobusha",
+      "name": "YALOBUSHA",
+      "start_date": "1873-05-23",
+      "end_date": "2000-12-31",
+      "filename": "7ee7e8653716.json"
+    },
+    "a351f26a5a09": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1873-04-17",
+      "end_date": "1918-05-30",
+      "filename": "a351f26a5a09.json"
+    },
+    "4799fc068fb7": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1873-04-15",
+      "end_date": "1876-03-12",
+      "filename": "4799fc068fb7.json"
+    },
+    "7450a919346c": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1873-04-17",
+      "end_date": "1876-03-28",
+      "filename": "7450a919346c.json"
+    },
+    "d6b8b0b39857": {
+      "county_id": "mss_desoto",
+      "name": "DE SOTO",
+      "start_date": "1873-04-15",
+      "end_date": "1876-03-05",
+      "filename": "d6b8b0b39857.json"
+    },
+    "65455f466f81": {
+      "county_id": "mss_tate",
+      "name": "TATE",
+      "start_date": "1873-04-15",
+      "end_date": "1876-03-05",
+      "filename": "65455f466f81.json"
+    },
+    "303507c3d9fa": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1873-04-04",
+      "end_date": "1875-02-08",
+      "filename": "303507c3d9fa.json"
+    },
+    "f0a180631bf0": {
+      "county_id": "mss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1873-04-04",
+      "end_date": "1875-02-08",
+      "filename": "f0a180631bf0.json"
+    },
+    "b452929462b0": {
+      "county_id": "mss_winston",
+      "name": "WINSTON",
+      "start_date": "1873-11-01",
+      "end_date": "1874-04-05",
+      "filename": "b452929462b0.json"
+    },
+    "19b9257660ca": {
+      "county_id": "mss_lee",
+      "name": "LEE",
+      "start_date": "1873-01-23",
+      "end_date": "1874-04-05",
+      "filename": "19b9257660ca.json"
+    },
+    "cba1d40b67b2": {
+      "county_id": "mss_union",
+      "name": "UNION",
+      "start_date": "1873-01-23",
+      "end_date": "1874-04-05",
+      "filename": "cba1d40b67b2.json"
+    },
+    "5d1667513801": {
+      "county_id": "mss_lee",
+      "name": "LEE",
+      "start_date": "1874-04-06",
+      "end_date": "2000-12-31",
+      "filename": "5d1667513801.json"
+    },
+    "96e01facedf5": {
+      "county_id": "mss_union",
+      "name": "UNION",
+      "start_date": "1874-04-06",
+      "end_date": "2000-12-31",
+      "filename": "96e01facedf5.json"
+    },
+    "3704464744bc": {
+      "county_id": "mss_prentiss",
+      "name": "PRENTISS",
+      "start_date": "1874-04-06",
+      "end_date": "1876-03-30",
+      "filename": "3704464744bc.json"
+    },
+    "778ca69fc051": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1874-04-06",
+      "end_date": "1875-03-01",
+      "filename": "778ca69fc051.json"
+    },
+    "2157378d9db5": {
+      "county_id": "mss_winston",
+      "name": "WINSTON",
+      "start_date": "1874-04-06",
+      "end_date": "1875-03-01",
+      "filename": "2157378d9db5.json"
+    },
+    "491a96f9414f": {
+      "county_id": "mss_webster",
+      "name": "SUMNER",
+      "start_date": "1874-04-06",
+      "end_date": "1875-03-01",
+      "filename": "491a96f9414f.json"
+    },
+    "57875d0f1e0c": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1874-04-06",
+      "end_date": "1875-03-01",
+      "filename": "57875d0f1e0c.json"
+    },
+    "acb6a0677594": {
+      "county_id": "mss_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1874-04-06",
+      "end_date": "1875-03-01",
+      "filename": "acb6a0677594.json"
+    },
+    "d0d6538460b2": {
+      "county_id": "mss_chickasaw",
+      "name": "CHICKASAW",
+      "start_date": "1875-03-02",
+      "end_date": "2000-12-31",
+      "filename": "d0d6538460b2.json"
+    },
+    "0a3b8f0ba6eb": {
+      "county_id": "mss_choctaw",
+      "name": "CHOCTAW",
+      "start_date": "1875-03-02",
+      "end_date": "2000-12-31",
+      "filename": "0a3b8f0ba6eb.json"
+    },
+    "d750e6b9d300": {
+      "county_id": "mss_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1875-02-09",
+      "end_date": "2000-12-31",
+      "filename": "d750e6b9d300.json"
+    },
+    "37631bed877c": {
+      "county_id": "mss_oktibbeha",
+      "name": "OKTIBBEHA",
+      "start_date": "1875-03-02",
+      "end_date": "2000-12-31",
+      "filename": "37631bed877c.json"
+    },
+    "062f173644fb": {
+      "county_id": "mss_webster",
+      "name": "SUMNER",
+      "start_date": "1875-03-02",
+      "end_date": "1882-01-29",
+      "filename": "062f173644fb.json"
+    },
+    "6b8112cb800e": {
+      "county_id": "mss_winston",
+      "name": "WINSTON",
+      "start_date": "1875-03-02",
+      "end_date": "2000-12-31",
+      "filename": "6b8112cb800e.json"
+    },
+    "bcaf35058813": {
+      "county_id": "mss_harrison",
+      "name": "HARRISON",
+      "start_date": "1875-03-05",
+      "end_date": "1916-05-09",
+      "filename": "bcaf35058813.json"
+    },
+    "33502acb2901": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1875-03-05",
+      "end_date": "1910-05-01",
+      "filename": "33502acb2901.json"
+    },
+    "2898081b3503": {
+      "county_id": "mss_montgomery",
+      "name": "MONTGOMERY",
+      "start_date": "1875-03-02",
+      "end_date": "1882-02-27",
+      "filename": "2898081b3503.json"
+    },
+    "985912d05261": {
+      "county_id": "mss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1875-02-09",
+      "end_date": "1878-02-20",
+      "filename": "985912d05261.json"
+    },
+    "c546c04c8024": {
+      "county_id": "mss_benton",
+      "name": "BENTON",
+      "start_date": "1876-04-14",
+      "end_date": "2000-12-31",
+      "filename": "c546c04c8024.json"
+    },
+    "fefd9a7e0f69": {
+      "county_id": "mss_pearl",
+      "name": "PEARL (ext)",
+      "start_date": "1876-04-14",
+      "end_date": "1878-02-27",
+      "filename": "fefd9a7e0f69.json"
+    },
+    "6b961bc1335c": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1876-04-14",
+      "end_date": "1878-05-06",
+      "filename": "6b961bc1335c.json"
+    },
+    "5bf9c682824b": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1876-04-14",
+      "end_date": "1878-02-27",
+      "filename": "5bf9c682824b.json"
+    },
+    "f2861899140c": {
+      "county_id": "mss_clay",
+      "name": "CLAY",
+      "start_date": "1876-04-10",
+      "end_date": "2000-12-31",
+      "filename": "f2861899140c.json"
+    },
+    "f77dac61815d": {
+      "county_id": "mss_prentiss",
+      "name": "PRENTISS",
+      "start_date": "1876-03-31",
+      "end_date": "2000-12-31",
+      "filename": "f77dac61815d.json"
+    },
+    "6d8ac4c07f1f": {
+      "county_id": "mss_tate",
+      "name": "TATE",
+      "start_date": "1876-03-06",
+      "end_date": "2000-12-31",
+      "filename": "6d8ac4c07f1f.json"
+    },
+    "e86433196fbc": {
+      "county_id": "mss_tishomingo",
+      "name": "TISHOMINGO",
+      "start_date": "1876-03-31",
+      "end_date": "2000-12-31",
+      "filename": "e86433196fbc.json"
+    },
+    "8b4d794a7094": {
+      "county_id": "mss_warren",
+      "name": "WARREN",
+      "start_date": "1876-03-29",
+      "end_date": "2000-12-31",
+      "filename": "8b4d794a7094.json"
+    },
+    "01c22a7f8e44": {
+      "county_id": "mss_sharkey",
+      "name": "SHARKEY",
+      "start_date": "1876-03-29",
+      "end_date": "1918-05-30",
+      "filename": "01c22a7f8e44.json"
+    },
+    "b64a8503e7bf": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1876-03-29",
+      "end_date": "1918-05-30",
+      "filename": "b64a8503e7bf.json"
+    },
+    "df04db74179a": {
+      "county_id": "mss_issaquena",
+      "name": "ISSAQUENA",
+      "start_date": "1876-03-29",
+      "end_date": "1890-02-12",
+      "filename": "df04db74179a.json"
+    },
+    "e19b9bf87fb1": {
+      "county_id": "mss_desoto",
+      "name": "DE SOTO",
+      "start_date": "1876-03-06",
+      "end_date": "1878-05-06",
+      "filename": "e19b9bf87fb1.json"
+    },
+    "e9ecf71b2788": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1876-03-06",
+      "end_date": "1877-01-31",
+      "filename": "e9ecf71b2788.json"
+    },
+    "0c5111ca10d3": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1876-03-13",
+      "end_date": "1876-04-13",
+      "filename": "0c5111ca10d3.json"
+    },
+    "b16813bda52a": {
+      "county_id": "mss_benton",
+      "name": "BENTON",
+      "start_date": "1876-03-13",
+      "end_date": "1876-04-13",
+      "filename": "b16813bda52a.json"
+    },
+    "888fdd7648a7": {
+      "county_id": "mss_nca14",
+      "name": "NCA 14",
+      "start_date": "1876-03-29",
+      "end_date": "1890-02-12",
+      "filename": "888fdd7648a7.json"
+    },
+    "b48c16822ee9": {
+      "county_id": "mss_coahoma",
+      "name": "COAHOMA",
+      "start_date": "1877-02-01",
+      "end_date": "2000-12-31",
+      "filename": "b48c16822ee9.json"
+    },
+    "d3712caa7bc4": {
+      "county_id": "mss_panola",
+      "name": "PANOLA",
+      "start_date": "1877-02-01",
+      "end_date": "2000-12-31",
+      "filename": "d3712caa7bc4.json"
+    },
+    "d040e47cf8fc": {
+      "county_id": "mss_quitman",
+      "name": "QUITMAN",
+      "start_date": "1877-02-01",
+      "end_date": "2000-12-31",
+      "filename": "d040e47cf8fc.json"
+    },
+    "b5df03f35461": {
+      "county_id": "mss_tallahatchie",
+      "name": "TALLAHATCHIE",
+      "start_date": "1877-02-01",
+      "end_date": "2000-12-31",
+      "filename": "b5df03f35461.json"
+    },
+    "bd06bf8667a7": {
+      "county_id": "mss_tunica",
+      "name": "TUNICA",
+      "start_date": "1877-02-01",
+      "end_date": "2000-12-31",
+      "filename": "bd06bf8667a7.json"
+    },
+    "a9f0c9d53514": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1877-01-26",
+      "end_date": "1880-03-04",
+      "filename": "a9f0c9d53514.json"
+    },
+    "119fd8248f41": {
+      "county_id": "mss_leflore",
+      "name": "LEFLORE",
+      "start_date": "1877-01-26",
+      "end_date": "1880-03-04",
+      "filename": "119fd8248f41.json"
+    },
+    "d5d887fa03f0": {
+      "county_id": "mss_desoto",
+      "name": "DE SOTO",
+      "start_date": "1878-05-07",
+      "end_date": "2000-12-31",
+      "filename": "d5d887fa03f0.json"
+    },
+    "998ee32ccc09": {
+      "county_id": "mss_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1878-02-21",
+      "end_date": "2000-12-31",
+      "filename": "998ee32ccc09.json"
+    },
+    "f705a26c78eb": {
+      "county_id": "mss_marshall",
+      "name": "MARSHALL",
+      "start_date": "1878-05-07",
+      "end_date": "2000-12-31",
+      "filename": "f705a26c78eb.json"
+    },
+    "da912c613af5": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1878-02-28",
+      "end_date": "1890-02-21",
+      "filename": "da912c613af5.json"
+    },
+    "9e20a856935a": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1878-02-21",
+      "end_date": "1880-03-04",
+      "filename": "9e20a856935a.json"
+    },
+    "e09eb1c8fb24": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1878-02-28",
+      "end_date": "1880-03-04",
+      "filename": "e09eb1c8fb24.json"
+    },
+    "7be944bcae5b": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1880-03-05",
+      "end_date": "1906-06-03",
+      "filename": "7be944bcae5b.json"
+    },
+    "7d857d69be11": {
+      "county_id": "mss_leflore",
+      "name": "LEFLORE",
+      "start_date": "1880-03-05",
+      "end_date": "1896-03-18",
+      "filename": "7d857d69be11.json"
+    },
+    "82d1782d5352": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1880-03-05",
+      "end_date": "1884-02-26",
+      "filename": "82d1782d5352.json"
+    },
+    "90562712e967": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1880-03-05",
+      "end_date": "1884-02-26",
+      "filename": "90562712e967.json"
+    },
+    "c3274b102b1b": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1884-02-27",
+      "end_date": "1890-02-21",
+      "filename": "c3274b102b1b.json"
+    },
+    "c2ed4d7a3977": {
+      "county_id": "mss_issaquena",
+      "name": "ISSAQUENA",
+      "start_date": "1890-02-13",
+      "end_date": "2000-12-31",
+      "filename": "c2ed4d7a3977.json"
+    },
+    "5f468b50c081": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1890-02-22",
+      "end_date": "1908-05-15",
+      "filename": "5f468b50c081.json"
+    },
+    "d6edf91c4b7d": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1890-02-22",
+      "end_date": "1904-03-29",
+      "filename": "d6edf91c4b7d.json"
+    },
+    "94dbff26652b": {
+      "county_id": "mss_pearlriver",
+      "name": "PEARL RIVER",
+      "start_date": "1890-02-22",
+      "end_date": "1904-03-29",
+      "filename": "94dbff26652b.json"
+    },
+    "759a1d234fc4": {
+      "county_id": "mss_leflore",
+      "name": "LEFLORE",
+      "start_date": "1896-03-19",
+      "end_date": "2000-12-31",
+      "filename": "759a1d234fc4.json"
+    },
+    "b8df7198faa5": {
+      "county_id": "mss_carroll",
+      "name": "CARROLL",
+      "start_date": "1896-03-19",
+      "end_date": "2000-12-31",
+      "filename": "b8df7198faa5.json"
+    },
+    "44fe27ffb8f8": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1904-03-30",
+      "end_date": "1914-04-24",
+      "filename": "44fe27ffb8f8.json"
+    },
+    "b8856f28a37b": {
+      "county_id": "mss_pearlriver",
+      "name": "PEARL RIVER",
+      "start_date": "1904-03-30",
+      "end_date": "1908-05-15",
+      "filename": "b8856f28a37b.json"
+    },
+    "cbc3c38f3a3d": {
+      "county_id": "mss_lamar",
+      "name": "LAMAR",
+      "start_date": "1904-03-30",
+      "end_date": "1930-10-31",
+      "filename": "cbc3c38f3a3d.json"
+    },
+    "0a5cdf853619": {
+      "county_id": "mss_covington",
+      "name": "COVINGTON",
+      "start_date": "1906-06-04",
+      "end_date": "2000-12-31",
+      "filename": "0a5cdf853619.json"
+    },
+    "6440f819acb6": {
+      "county_id": "mss_jeffersondavis",
+      "name": "JEFFERSON DAVIS",
+      "start_date": "1906-06-04",
+      "end_date": "2000-12-31",
+      "filename": "6440f819acb6.json"
+    },
+    "f08c2f6581f5": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1906-06-04",
+      "end_date": "1908-03-19",
+      "filename": "f08c2f6581f5.json"
+    },
+    "a84aa55d5d5a": {
+      "county_id": "mss_lawrence",
+      "name": "LAWRENCE",
+      "start_date": "1908-03-20",
+      "end_date": "2000-12-31",
+      "filename": "a84aa55d5d5a.json"
+    },
+    "27f0808f0837": {
+      "county_id": "mss_forrest",
+      "name": "FORREST",
+      "start_date": "1908-01-06",
+      "end_date": "2000-12-31",
+      "filename": "27f0808f0837.json"
+    },
+    "bbc41ca37639": {
+      "county_id": "mss_perry",
+      "name": "PERRY",
+      "start_date": "1908-01-06",
+      "end_date": "2000-12-31",
+      "filename": "bbc41ca37639.json"
+    },
+    "bcd6b01748ba": {
+      "county_id": "mss_hancock",
+      "name": "HANCOCK",
+      "start_date": "1908-05-16",
+      "end_date": "2000-12-31",
+      "filename": "bcd6b01748ba.json"
+    },
+    "a471cfc3b28d": {
+      "county_id": "mss_pearlriver",
+      "name": "PEARL RIVER",
+      "start_date": "1908-05-16",
+      "end_date": "1930-10-31",
+      "filename": "a471cfc3b28d.json"
+    },
+    "605c0e5f2d5b": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1908-03-20",
+      "end_date": "1914-04-24",
+      "filename": "605c0e5f2d5b.json"
+    },
+    "8174edef01c9": {
+      "county_id": "mss_greene",
+      "name": "GREENE",
+      "start_date": "1910-05-02",
+      "end_date": "2000-12-31",
+      "filename": "8174edef01c9.json"
+    },
+    "1e7f936a1914": {
+      "county_id": "mss_george",
+      "name": "GEORGE",
+      "start_date": "1910-05-02",
+      "end_date": "2000-12-31",
+      "filename": "1e7f936a1914.json"
+    },
+    "e87f543207fa": {
+      "county_id": "mss_jackson",
+      "name": "JACKSON",
+      "start_date": "1910-05-02",
+      "end_date": "2000-12-31",
+      "filename": "e87f543207fa.json"
+    },
+    "d120179d826c": {
+      "county_id": "mss_adams",
+      "name": "ADAMS",
+      "start_date": "1914-01-09",
+      "end_date": "2000-12-31",
+      "filename": "d120179d826c.json"
+    },
+    "d7554a301d35": {
+      "county_id": "mss_marion",
+      "name": "MARION",
+      "start_date": "1914-04-25",
+      "end_date": "2000-12-31",
+      "filename": "d7554a301d35.json"
+    },
+    "ed8ef66b5bd4": {
+      "county_id": "mss_wilkinson",
+      "name": "WILKINSON",
+      "start_date": "1914-01-09",
+      "end_date": "2000-12-31",
+      "filename": "ed8ef66b5bd4.json"
+    },
+    "23d4b701d5a3": {
+      "county_id": "mss_walthall",
+      "name": "WALTHALL",
+      "start_date": "1914-04-25",
+      "end_date": "2000-12-31",
+      "filename": "23d4b701d5a3.json"
+    },
+    "e52c2d20bb0a": {
+      "county_id": "mss_sharkey",
+      "name": "SHARKEY",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "e52c2d20bb0a.json"
+    },
+    "f384d76812e3": {
+      "county_id": "mss_yazoo",
+      "name": "YAZOO",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "f384d76812e3.json"
+    },
+    "0901bab3512f": {
+      "county_id": "mss_lamar",
+      "name": "LAMAR",
+      "start_date": "1930-11-01",
+      "end_date": "1934-03-13",
+      "filename": "0901bab3512f.json"
+    },
+    "6393477842ed": {
+      "county_id": "mss_pearlriver",
+      "name": "PEARL RIVER",
+      "start_date": "1930-11-01",
+      "end_date": "1934-03-13",
+      "filename": "6393477842ed.json"
+    },
+    "81cae07172bb": {
+      "county_id": "mss_lamar",
+      "name": "LAMAR",
+      "start_date": "1934-03-14",
+      "end_date": "2000-12-31",
+      "filename": "81cae07172bb.json"
+    },
+    "70eed7e46bb7": {
+      "county_id": "mss_pearlriver",
+      "name": "PEARL RIVER",
+      "start_date": "1934-03-14",
+      "end_date": "2000-12-31",
+      "filename": "70eed7e46bb7.json"
+    },
+    "2cf4ad705b03": {
+      "county_id": "mss_pike",
+      "name": "PIKE",
+      "start_date": "1914-04-25",
+      "end_date": "2000-12-31",
+      "filename": "2cf4ad705b03.json"
+    },
+    "72aff8111305": {
+      "county_id": "mss_stone",
+      "name": "STONE",
+      "start_date": "1916-05-10",
+      "end_date": "2000-12-31",
+      "filename": "72aff8111305.json"
+    },
+    "75349243e91b": {
+      "county_id": "mss_harrison",
+      "name": "HARRISON",
+      "start_date": "1916-05-10",
+      "end_date": "2000-12-31",
+      "filename": "75349243e91b.json"
+    },
+    "36bb08e08d8f": {
+      "county_id": "mss_sunflower",
+      "name": "SUNFLOWER",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "36bb08e08d8f.json"
+    },
+    "bb60fb7b698e": {
+      "county_id": "mss_washington",
+      "name": "WASHINGTON",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "bb60fb7b698e.json"
+    },
+    "a2801f6c4c69": {
+      "county_id": "mss_holmes",
+      "name": "HOLMES",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "a2801f6c4c69.json"
+    },
+    "d9049c141606": {
+      "county_id": "mss_humphreys",
+      "name": "HUMPHREYS",
+      "start_date": "1918-05-31",
+      "end_date": "2000-12-31",
+      "filename": "d9049c141606.json"
+    }
+  }
+}

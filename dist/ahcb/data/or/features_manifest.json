@@ -1,0 +1,1903 @@
+{
+  "state": "OR",
+  "total_features": 271,
+  "features": {
+    "ccca3dbce0fa": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-26",
+      "filename": "ccca3dbce0fa.json"
+    },
+    "03fedd51ab48": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG",
+      "start_date": "1843-07-05",
+      "end_date": "1845-12-18",
+      "filename": "03fedd51ab48.json"
+    },
+    "7838a5a73b0a": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-25",
+      "filename": "7838a5a73b0a.json"
+    },
+    "7c815b04184e": {
+      "county_id": "ors_washington",
+      "name": "TUALITY",
+      "start_date": "1843-07-05",
+      "end_date": "1844-06-25",
+      "filename": "7c815b04184e.json"
+    },
+    "5864dbd12ff0": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1844-06-27",
+      "end_date": "1845-12-18",
+      "filename": "5864dbd12ff0.json"
+    },
+    "83bcfe6bb4b5": {
+      "county_id": "ors_washington",
+      "name": "TUALITY",
+      "start_date": "1844-06-27",
+      "end_date": "1845-12-18",
+      "filename": "83bcfe6bb4b5.json"
+    },
+    "a10f35f49e67": {
+      "county_id": "ors_nca1",
+      "name": "NCA 1",
+      "start_date": "1844-06-27",
+      "end_date": "1845-08-19",
+      "filename": "a10f35f49e67.json"
+    },
+    "6f6ff1d4eff6": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1844-06-26",
+      "end_date": "1845-12-18",
+      "filename": "6f6ff1d4eff6.json"
+    },
+    "da4281c3fd48": {
+      "county_id": "ors_washington",
+      "name": "TUALITY",
+      "start_date": "1844-06-26",
+      "end_date": "1844-06-26",
+      "filename": "da4281c3fd48.json"
+    },
+    "d994af35af81": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1845-12-21",
+      "end_date": "1846-06-14",
+      "filename": "d994af35af81.json"
+    },
+    "575929e5cc8e": {
+      "county_id": "ors_polk",
+      "name": "POLK",
+      "start_date": "1845-12-22",
+      "end_date": "1847-12-22",
+      "filename": "575929e5cc8e.json"
+    },
+    "a425164733ec": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1845-12-21",
+      "end_date": "1846-06-14",
+      "filename": "a425164733ec.json"
+    },
+    "dfe36ab6f192": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1845-12-19",
+      "end_date": "1846-06-14",
+      "filename": "dfe36ab6f192.json"
+    },
+    "b79edf3f88c7": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG",
+      "start_date": "1845-12-19",
+      "end_date": "1847-12-27",
+      "filename": "b79edf3f88c7.json"
+    },
+    "b55b1207bfdd": {
+      "county_id": "ors_washington",
+      "name": "TUALITY",
+      "start_date": "1845-12-19",
+      "end_date": "1846-12-10",
+      "filename": "b55b1207bfdd.json"
+    },
+    "04378aca7e1d": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1845-12-19",
+      "end_date": "1846-12-10",
+      "filename": "04378aca7e1d.json"
+    },
+    "0c3e340fe57f": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1845-12-19",
+      "end_date": "1846-12-10",
+      "filename": "0c3e340fe57f.json"
+    },
+    "76c4d821a9b8": {
+      "county_id": "ors_nca2",
+      "name": "NCA 2",
+      "start_date": "1845-12-19",
+      "end_date": "1845-12-21",
+      "filename": "76c4d821a9b8.json"
+    },
+    "4a850c1df190": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1845-08-20",
+      "end_date": "1845-12-20",
+      "filename": "4a850c1df190.json"
+    },
+    "8c158ac5ec24": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1846-06-15",
+      "end_date": "1853-03-01",
+      "filename": "8c158ac5ec24.json"
+    },
+    "517d3e546f42": {
+      "county_id": "was_clark",
+      "name": "VANCOUVER",
+      "start_date": "1846-06-15",
+      "end_date": "1849-09-02",
+      "filename": "517d3e546f42.json"
+    },
+    "fe3a3d0cc98a": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1846-06-15",
+      "end_date": "1851-02-02",
+      "filename": "fe3a3d0cc98a.json"
+    },
+    "a4adc9a207d4": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1846-12-11",
+      "end_date": "1853-12-14",
+      "filename": "a4adc9a207d4.json"
+    },
+    "cec8ac63d5fb": {
+      "county_id": "ors_washington",
+      "name": "TUALITY",
+      "start_date": "1846-12-11",
+      "end_date": "1849-09-02",
+      "filename": "cec8ac63d5fb.json"
+    },
+    "223a9198f515": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1846-12-11",
+      "end_date": "1853-12-14",
+      "filename": "223a9198f515.json"
+    },
+    "22ee81016f9d": {
+      "county_id": "wat_disputed",
+      "name": "Disputed Area (Wa.)",
+      "start_date": "1846-06-15",
+      "end_date": "1853-03-01",
+      "filename": "22ee81016f9d.json"
+    },
+    "17df7752f08d": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1847-12-28",
+      "end_date": "1851-01-03",
+      "filename": "17df7752f08d.json"
+    },
+    "2553ddbcbce8": {
+      "county_id": "ors_polk",
+      "name": "POLK",
+      "start_date": "1847-12-23",
+      "end_date": "1853-12-14",
+      "filename": "2553ddbcbce8.json"
+    },
+    "9afe454e6fed": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1847-12-23",
+      "end_date": "1851-01-14",
+      "filename": "9afe454e6fed.json"
+    },
+    "7c1165ddaaa2": {
+      "county_id": "ors_marion",
+      "name": "CHAMPOEG",
+      "start_date": "1847-12-28",
+      "end_date": "1849-09-02",
+      "filename": "7c1165ddaaa2.json"
+    },
+    "1c6b74dedf68": {
+      "county_id": "ors_marion",
+      "name": "MARION",
+      "start_date": "1849-09-03",
+      "end_date": "1854-01-10",
+      "filename": "1c6b74dedf68.json"
+    },
+    "0f24d9b92356": {
+      "county_id": "was_clark",
+      "name": "CLARK (Wa.)",
+      "start_date": "1849-09-03",
+      "end_date": "1852-01-11",
+      "filename": "0f24d9b92356.json"
+    },
+    "e97e62d83f30": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1849-09-03",
+      "end_date": "1854-01-15",
+      "filename": "e97e62d83f30.json"
+    },
+    "d08e41b42b45": {
+      "county_id": "ors_umpqua",
+      "name": "UMPQUA (ext)",
+      "start_date": "1851-01-24",
+      "end_date": "1853-12-21",
+      "filename": "d08e41b42b45.json"
+    },
+    "08da734c7078": {
+      "county_id": "ors_nca4",
+      "name": "NCA 4",
+      "start_date": "1851-01-24",
+      "end_date": "1851-01-27",
+      "filename": "08da734c7078.json"
+    },
+    "f763e7de1c25": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1851-01-28",
+      "end_date": "1852-01-06",
+      "filename": "f763e7de1c25.json"
+    },
+    "b32efa4bff62": {
+      "county_id": "ors_nca4",
+      "name": "NCA 4",
+      "start_date": "1851-01-28",
+      "end_date": "1852-01-06",
+      "filename": "b32efa4bff62.json"
+    },
+    "b625f8a2d0a9": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1851-01-15",
+      "end_date": "1893-02-19",
+      "filename": "b625f8a2d0a9.json"
+    },
+    "40027cb0bfcd": {
+      "county_id": "ors_nca4",
+      "name": "NCA 4",
+      "start_date": "1851-01-15",
+      "end_date": "1851-01-23",
+      "filename": "40027cb0bfcd.json"
+    },
+    "71ad7026db5f": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1851-01-04",
+      "end_date": "1854-01-10",
+      "filename": "71ad7026db5f.json"
+    },
+    "33ea2c28fbc0": {
+      "county_id": "ors_nca3",
+      "name": "NCA 3",
+      "start_date": "1851-01-04",
+      "end_date": "1851-01-27",
+      "filename": "33ea2c28fbc0.json"
+    },
+    "516c64d6533b": {
+      "county_id": "ors_nca4",
+      "name": "NCA 4",
+      "start_date": "1852-01-12",
+      "end_date": "1853-12-21",
+      "filename": "516c64d6533b.json"
+    },
+    "7ea6fa3bbdd9": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1852-01-12",
+      "end_date": "1853-12-21",
+      "filename": "7ea6fa3bbdd9.json"
+    },
+    "0b6f01fc7f17": {
+      "county_id": "was_clark",
+      "name": "CLARK (Wa.)",
+      "start_date": "1852-01-12",
+      "end_date": "1852-01-16",
+      "filename": "0b6f01fc7f17.json"
+    },
+    "e84543759f9c": {
+      "county_id": "was_clark",
+      "name": "CLARK (Wa.)",
+      "start_date": "1852-01-17",
+      "end_date": "1853-01-31",
+      "filename": "e84543759f9c.json"
+    },
+    "644cd8f6b7f6": {
+      "county_id": "was_pierce",
+      "name": "PIERCE (Wa.)",
+      "start_date": "1852-12-22",
+      "end_date": "1853-03-01",
+      "filename": "644cd8f6b7f6.json"
+    },
+    "f28bbcc2ba4f": {
+      "county_id": "was_king",
+      "name": "KING (Wa.)",
+      "start_date": "1852-12-22",
+      "end_date": "1853-03-01",
+      "filename": "f28bbcc2ba4f.json"
+    },
+    "472431642520": {
+      "county_id": "was_jefferson",
+      "name": "JEFFERSON (Wa.)",
+      "start_date": "1852-12-22",
+      "end_date": "1853-03-01",
+      "filename": "472431642520.json"
+    },
+    "42e35cbacb78": {
+      "county_id": "was_island",
+      "name": "ISLAND (Wa.)",
+      "start_date": "1852-12-22",
+      "end_date": "1853-03-01",
+      "filename": "42e35cbacb78.json"
+    },
+    "3d3fdf5c2aaf": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1852-01-07",
+      "end_date": "1853-12-21",
+      "filename": "3d3fdf5c2aaf.json"
+    },
+    "af1c58c061aa": {
+      "county_id": "ors_nca4",
+      "name": "NCA 4",
+      "start_date": "1852-01-07",
+      "end_date": "1852-01-11",
+      "filename": "af1c58c061aa.json"
+    },
+    "1c96ab1907ab": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1852-01-07",
+      "end_date": "1853-12-21",
+      "filename": "1c96ab1907ab.json"
+    },
+    "11732668a207": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1853-03-02",
+      "end_date": "1854-01-10",
+      "filename": "11732668a207.json"
+    },
+    "eb898eac0173": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1853-12-22",
+      "end_date": "1854-01-10",
+      "filename": "eb898eac0173.json"
+    },
+    "90c1b375837f": {
+      "county_id": "ors_polk",
+      "name": "POLK",
+      "start_date": "1853-12-15",
+      "end_date": "1891-02-20",
+      "filename": "90c1b375837f.json"
+    },
+    "e92b173fd2ae": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1853-12-22",
+      "end_date": "1856-12-17",
+      "filename": "e92b173fd2ae.json"
+    },
+    "4b5381571328": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1853-12-15",
+      "end_date": "1854-12-21",
+      "filename": "4b5381571328.json"
+    },
+    "4076eaf56514": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1853-12-15",
+      "end_date": "1855-01-14",
+      "filename": "4076eaf56514.json"
+    },
+    "cdb29e51064d": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1853-12-15",
+      "end_date": "1855-01-14",
+      "filename": "cdb29e51064d.json"
+    },
+    "976bb35c6953": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1853-12-22",
+      "end_date": "1854-01-10",
+      "filename": "976bb35c6953.json"
+    },
+    "fa280e707087": {
+      "county_id": "ors_umpqua",
+      "name": "UMPQUA (ext)",
+      "start_date": "1853-12-22",
+      "end_date": "1863-07-05",
+      "filename": "fa280e707087.json"
+    },
+    "63bc7b6239c5": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1853-12-22",
+      "end_date": "1855-12-17",
+      "filename": "63bc7b6239c5.json"
+    },
+    "a4362545cbf8": {
+      "county_id": "was_clark",
+      "name": "CLARK (Wa.)",
+      "start_date": "1853-02-01",
+      "end_date": "1853-03-01",
+      "filename": "a4362545cbf8.json"
+    },
+    "f23c386b3473": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1854-12-22",
+      "end_date": "1856-01-29",
+      "filename": "f23c386b3473.json"
+    },
+    "b7b3233a4be4": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1854-12-22",
+      "end_date": "1855-01-14",
+      "filename": "b7b3233a4be4.json"
+    },
+    "c784f646a22b": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1854-12-22",
+      "end_date": "1864-10-23",
+      "filename": "c784f646a22b.json"
+    },
+    "f971f2527f7a": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1854-12-22",
+      "end_date": "1855-01-29",
+      "filename": "f971f2527f7a.json"
+    },
+    "b9c7c9d9f1b0": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1854-01-11",
+      "end_date": "1887-02-15",
+      "filename": "b9c7c9d9f1b0.json"
+    },
+    "a3625990fe21": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1854-01-11",
+      "end_date": "1885-11-18",
+      "filename": "a3625990fe21.json"
+    },
+    "14d6ed4a835a": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1854-01-11",
+      "end_date": "1859-02-13",
+      "filename": "14d6ed4a835a.json"
+    },
+    "b9a033f51aa2": {
+      "county_id": "ors_marion",
+      "name": "MARION",
+      "start_date": "1854-01-11",
+      "end_date": "1856-01-29",
+      "filename": "b9a033f51aa2.json"
+    },
+    "86c772d727ca": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1854-01-11",
+      "end_date": "1855-12-17",
+      "filename": "86c772d727ca.json"
+    },
+    "613f28d5048c": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1854-01-16",
+      "end_date": "1855-01-14",
+      "filename": "613f28d5048c.json"
+    },
+    "b1bbf5329054": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1854-01-16",
+      "end_date": "1854-12-21",
+      "filename": "b1bbf5329054.json"
+    },
+    "e54017dfc77c": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1854-01-11",
+      "end_date": "1854-12-21",
+      "filename": "e54017dfc77c.json"
+    },
+    "287c061d07d5": {
+      "county_id": "ors_curry",
+      "name": "CURRY",
+      "start_date": "1855-12-18",
+      "end_date": "1856-01-21",
+      "filename": "287c061d07d5.json"
+    },
+    "4516c1d83f82": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1855-12-18",
+      "end_date": "1856-01-21",
+      "filename": "4516c1d83f82.json"
+    },
+    "8f8ce2a7ac79": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1855-12-18",
+      "end_date": "1856-12-17",
+      "filename": "8f8ce2a7ac79.json"
+    },
+    "6022a3fe2d90": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1855-01-30",
+      "end_date": "1856-01-20",
+      "filename": "6022a3fe2d90.json"
+    },
+    "e882bd91c931": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1855-01-30",
+      "end_date": "1856-01-20",
+      "filename": "e882bd91c931.json"
+    },
+    "4390d8c3cd17": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1855-01-15",
+      "end_date": "1870-10-21",
+      "filename": "4390d8c3cd17.json"
+    },
+    "cd73a0742c78": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1855-01-15",
+      "end_date": "1870-10-21",
+      "filename": "cd73a0742c78.json"
+    },
+    "2f0938defb23": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1855-01-15",
+      "end_date": "1864-10-23",
+      "filename": "2f0938defb23.json"
+    },
+    "adf6aa0cf985": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1855-01-15",
+      "end_date": "1855-01-29",
+      "filename": "adf6aa0cf985.json"
+    },
+    "1c559cf43910": {
+      "county_id": "ors_marion",
+      "name": "MARION",
+      "start_date": "1856-01-30",
+      "end_date": "1913-02-24",
+      "filename": "1c559cf43910.json"
+    },
+    "5f8e3a6752d3": {
+      "county_id": "ors_josephine",
+      "name": "JOSEPHINE",
+      "start_date": "1856-01-22",
+      "end_date": "1880-10-24",
+      "filename": "5f8e3a6752d3.json"
+    },
+    "bc81b3e32b6f": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1856-01-22",
+      "end_date": "1874-10-23",
+      "filename": "bc81b3e32b6f.json"
+    },
+    "cff9b1a20ed3": {
+      "county_id": "ors_curry",
+      "name": "CURRY",
+      "start_date": "1856-01-22",
+      "end_date": "1872-10-27",
+      "filename": "cff9b1a20ed3.json"
+    },
+    "e0168231d82d": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1856-12-18",
+      "end_date": "1863-07-05",
+      "filename": "e0168231d82d.json"
+    },
+    "3c18d05b0dc1": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1856-01-30",
+      "end_date": "1860-10-16",
+      "filename": "3c18d05b0dc1.json"
+    },
+    "cc982e1a3d88": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1856-01-21",
+      "end_date": "1857-01-21",
+      "filename": "cc982e1a3d88.json"
+    },
+    "c34053ea5d3a": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1856-12-18",
+      "end_date": "1863-07-05",
+      "filename": "c34053ea5d3a.json"
+    },
+    "9bcfe1925ffa": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1856-01-21",
+      "end_date": "1857-01-21",
+      "filename": "9bcfe1925ffa.json"
+    },
+    "031d33ac3bad": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1857-01-22",
+      "end_date": "1862-10-16",
+      "filename": "031d33ac3bad.json"
+    },
+    "1261a57a78c6": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1857-01-22",
+      "end_date": "1860-10-16",
+      "filename": "1261a57a78c6.json"
+    },
+    "47849657a34b": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1859-02-14",
+      "end_date": "1862-09-21",
+      "filename": "47849657a34b.json"
+    },
+    "53d9ea678fa2": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1860-10-17",
+      "end_date": "1887-02-14",
+      "filename": "53d9ea678fa2.json"
+    },
+    "079f51905f4b": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1860-10-17",
+      "end_date": "1862-10-16",
+      "filename": "079f51905f4b.json"
+    },
+    "9727d89a9e60": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1862-10-17",
+      "end_date": "1893-02-19",
+      "filename": "9727d89a9e60.json"
+    },
+    "d787fb599141": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1862-10-17",
+      "end_date": "1885-02-23",
+      "filename": "d787fb599141.json"
+    },
+    "2d5b832da607": {
+      "county_id": "ors_umatilla",
+      "name": "UMATILLA",
+      "start_date": "1862-09-27",
+      "end_date": "1864-10-13",
+      "filename": "2d5b832da607.json"
+    },
+    "7c4635315ebf": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1862-09-27",
+      "end_date": "1864-10-13",
+      "filename": "7c4635315ebf.json"
+    },
+    "2f3d0a2209db": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1862-09-22",
+      "end_date": "1862-09-26",
+      "filename": "2f3d0a2209db.json"
+    },
+    "6196db734e76": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1862-09-22",
+      "end_date": "1864-10-13",
+      "filename": "6196db734e76.json"
+    },
+    "329c29d368af": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1863-07-06",
+      "end_date": "1864-10-20",
+      "filename": "329c29d368af.json"
+    },
+    "fbc6ab6058c5": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1863-07-06",
+      "end_date": "1864-10-20",
+      "filename": "fbc6ab6058c5.json"
+    },
+    "a45f1f365648": {
+      "county_id": "ors_umatilla",
+      "name": "UMATILLA",
+      "start_date": "1864-10-14",
+      "end_date": "1885-02-15",
+      "filename": "a45f1f365648.json"
+    },
+    "ffb68f238a34": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1864-10-24",
+      "end_date": "1885-02-23",
+      "filename": "ffb68f238a34.json"
+    },
+    "c4167a942f06": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1864-10-24",
+      "end_date": "1885-02-23",
+      "filename": "c4167a942f06.json"
+    },
+    "e7630c074e52": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1864-10-14",
+      "end_date": "1874-10-23",
+      "filename": "e7630c074e52.json"
+    },
+    "c22247d54d57": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1864-10-21",
+      "end_date": "1874-10-23",
+      "filename": "c22247d54d57.json"
+    },
+    "db3944631712": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1864-10-21",
+      "end_date": "1872-10-27",
+      "filename": "db3944631712.json"
+    },
+    "791201ab421b": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1864-10-14",
+      "end_date": "1870-10-19",
+      "filename": "791201ab421b.json"
+    },
+    "e735e96b56b1": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1864-10-14",
+      "end_date": "1870-10-19",
+      "filename": "e735e96b56b1.json"
+    },
+    "b04bee7d7f99": {
+      "county_id": "ors_overlap",
+      "name": "Overlap Area",
+      "start_date": "1864-10-14",
+      "end_date": "1870-10-19",
+      "filename": "b04bee7d7f99.json"
+    },
+    "432dd934e1d6": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1864-10-14",
+      "end_date": "1870-10-19",
+      "filename": "432dd934e1d6.json"
+    },
+    "c6065a5902fd": {
+      "county_id": "ors_umpqua01",
+      "name": "UMPQUA (prop)",
+      "start_date": "1868-10-16",
+      "end_date": "1868-10-16",
+      "filename": "c6065a5902fd.json"
+    },
+    "65b7dd94dbda": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1870-10-22",
+      "end_date": "1887-02-14",
+      "filename": "65b7dd94dbda.json"
+    },
+    "52f27b5f3530": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1870-10-22",
+      "end_date": "1885-02-23",
+      "filename": "52f27b5f3530.json"
+    },
+    "6a10d9a091bc": {
+      "county_id": "ors_overlap",
+      "name": "Overlap Area",
+      "start_date": "1870-10-20",
+      "end_date": "1872-10-18",
+      "filename": "6a10d9a091bc.json"
+    },
+    "892599666aef": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1870-10-20",
+      "end_date": "1872-10-18",
+      "filename": "892599666aef.json"
+    },
+    "da51aa54a9dd": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1870-10-20",
+      "end_date": "1872-10-18",
+      "filename": "da51aa54a9dd.json"
+    },
+    "d8c7554f468d": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1870-10-20",
+      "end_date": "1872-10-18",
+      "filename": "d8c7554f468d.json"
+    },
+    "2a6ca03a78c0": {
+      "county_id": "ors_curry",
+      "name": "CURRY",
+      "start_date": "1872-10-28",
+      "end_date": "1880-10-24",
+      "filename": "2a6ca03a78c0.json"
+    },
+    "ed2c0159da33": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1872-10-19",
+      "end_date": "1878-10-15",
+      "filename": "ed2c0159da33.json"
+    },
+    "0392d2894675": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1872-10-19",
+      "end_date": "1878-10-15",
+      "filename": "0392d2894675.json"
+    },
+    "b4e2483c9412": {
+      "county_id": "ors_overlap",
+      "name": "Overlap Area",
+      "start_date": "1872-10-19",
+      "end_date": "1878-10-15",
+      "filename": "b4e2483c9412.json"
+    },
+    "2df2637cc811": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1872-10-28",
+      "end_date": "1878-10-18",
+      "filename": "2df2637cc811.json"
+    },
+    "b45c6834d627": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1872-10-19",
+      "end_date": "1874-10-23",
+      "filename": "b45c6834d627.json"
+    },
+    "015e42c25efc": {
+      "county_id": "ors_lake",
+      "name": "LAKE",
+      "start_date": "1874-10-24",
+      "end_date": "1882-10-19",
+      "filename": "015e42c25efc.json"
+    },
+    "ace52955950f": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1874-10-24",
+      "end_date": "1885-02-11",
+      "filename": "ace52955950f.json"
+    },
+    "6ea7f29881a3": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1874-10-24",
+      "end_date": "1882-10-23",
+      "filename": "6ea7f29881a3.json"
+    },
+    "efe41d2b9d4d": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1874-10-24",
+      "end_date": "1878-10-15",
+      "filename": "efe41d2b9d4d.json"
+    },
+    "5de90442e2d2": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1874-10-24",
+      "end_date": "1878-10-18",
+      "filename": "5de90442e2d2.json"
+    },
+    "db8171ef43e4": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1878-10-16",
+      "end_date": "1887-02-10",
+      "filename": "db8171ef43e4.json"
+    },
+    "d48757a9fa10": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1878-10-16",
+      "end_date": "1887-03-31",
+      "filename": "d48757a9fa10.json"
+    },
+    "4268bcc6db83": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1878-10-16",
+      "end_date": "1885-02-22",
+      "filename": "4268bcc6db83.json"
+    },
+    "fa8047aab92c": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1878-10-19",
+      "end_date": "1882-10-15",
+      "filename": "fa8047aab92c.json"
+    },
+    "114124ee1585": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1878-10-19",
+      "end_date": "1882-10-15",
+      "filename": "114124ee1585.json"
+    },
+    "aaf6b1a822b4": {
+      "county_id": "ors_josephine",
+      "name": "JOSEPHINE",
+      "start_date": "1880-10-25",
+      "end_date": "1885-02-11",
+      "filename": "aaf6b1a822b4.json"
+    },
+    "171ea6434aa4": {
+      "county_id": "ors_curry",
+      "name": "CURRY",
+      "start_date": "1880-10-25",
+      "end_date": "1951-04-29",
+      "filename": "171ea6434aa4.json"
+    },
+    "fb31f7eda2f7": {
+      "county_id": "ors_klamath",
+      "name": "KLAMATH",
+      "start_date": "1882-10-20",
+      "end_date": "1927-02-08",
+      "filename": "fb31f7eda2f7.json"
+    },
+    "87c3360e0d3a": {
+      "county_id": "ors_lake",
+      "name": "LAKE",
+      "start_date": "1882-10-20",
+      "end_date": "1885-11-20",
+      "filename": "87c3360e0d3a.json"
+    },
+    "9cfb7b2f2877": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1882-10-16",
+      "end_date": "1885-11-18",
+      "filename": "9cfb7b2f2877.json"
+    },
+    "9649278f4193": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1882-10-24",
+      "end_date": "1885-02-15",
+      "filename": "9649278f4193.json"
+    },
+    "230292fbf791": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1882-10-24",
+      "end_date": "1885-02-22",
+      "filename": "230292fbf791.json"
+    },
+    "407c9420b9c6": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1882-10-16",
+      "end_date": "1951-04-29",
+      "filename": "407c9420b9c6.json"
+    },
+    "bfa7a075f84d": {
+      "county_id": "ors_lake",
+      "name": "LAKE",
+      "start_date": "1885-11-21",
+      "end_date": "1927-02-08",
+      "filename": "bfa7a075f84d.json"
+    },
+    "12f986fba384": {
+      "county_id": "ors_umatilla",
+      "name": "UMATILLA",
+      "start_date": "1885-02-25",
+      "end_date": "1907-02-12",
+      "filename": "12f986fba384.json"
+    },
+    "39bb804d2257": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1885-11-19",
+      "end_date": "1903-02-18",
+      "filename": "39bb804d2257.json"
+    },
+    "b94482135813": {
+      "county_id": "ors_gilliam",
+      "name": "GILLIAM",
+      "start_date": "1885-02-25",
+      "end_date": "1891-02-19",
+      "filename": "b94482135813.json"
+    },
+    "6878c34046cb": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1885-11-21",
+      "end_date": "1889-02-24",
+      "filename": "6878c34046cb.json"
+    },
+    "096dcc392830": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1885-02-25",
+      "end_date": "1889-02-24",
+      "filename": "096dcc392830.json"
+    },
+    "dc4bc4f4290d": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1885-11-19",
+      "end_date": "1887-02-15",
+      "filename": "dc4bc4f4290d.json"
+    },
+    "285051d5899c": {
+      "county_id": "ors_morrow",
+      "name": "MORROW",
+      "start_date": "1885-02-16",
+      "end_date": "2000-12-31",
+      "filename": "285051d5899c.json"
+    },
+    "f5f475708799": {
+      "county_id": "ors_josephine",
+      "name": "JOSEPHINE",
+      "start_date": "1885-02-12",
+      "end_date": "1927-02-08",
+      "filename": "f5f475708799.json"
+    },
+    "0c7340a6cbed": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1885-02-12",
+      "end_date": "1915-02-16",
+      "filename": "0c7340a6cbed.json"
+    },
+    "8ca37a4f8b2b": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1885-02-23",
+      "end_date": "1899-02-16",
+      "filename": "8ca37a4f8b2b.json"
+    },
+    "857169176a81": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1885-02-24",
+      "end_date": "1898-10-14",
+      "filename": "857169176a81.json"
+    },
+    "c717b3ed6da8": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1885-02-24",
+      "end_date": "1893-02-21",
+      "filename": "c717b3ed6da8.json"
+    },
+    "fef30f74ce02": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1885-02-24",
+      "end_date": "1893-02-19",
+      "filename": "fef30f74ce02.json"
+    },
+    "9a44481d4ee1": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1885-02-24",
+      "end_date": "1891-02-19",
+      "filename": "9a44481d4ee1.json"
+    },
+    "d741dc9f158a": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1885-02-23",
+      "end_date": "1885-11-20",
+      "filename": "d741dc9f158a.json"
+    },
+    "fd84c605d07d": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1885-02-16",
+      "end_date": "1885-02-24",
+      "filename": "fd84c605d07d.json"
+    },
+    "a3174750ee11": {
+      "county_id": "ors_umatilla",
+      "name": "UMATILLA",
+      "start_date": "1885-02-16",
+      "end_date": "1885-02-24",
+      "filename": "a3174750ee11.json"
+    },
+    "fc0c6a7ceb4e": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1887-02-15",
+      "end_date": "1893-02-21",
+      "filename": "fc0c6a7ceb4e.json"
+    },
+    "5f3ce7471df6": {
+      "county_id": "ors_malheur",
+      "name": "MALHEUR",
+      "start_date": "1887-04-01",
+      "end_date": "1927-02-11",
+      "filename": "5f3ce7471df6.json"
+    },
+    "ac06b3df45ac": {
+      "county_id": "ors_wallowa",
+      "name": "WALLOWA",
+      "start_date": "1887-02-11",
+      "end_date": "1899-02-17",
+      "filename": "ac06b3df45ac.json"
+    },
+    "f15ca04c2338": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1887-02-16",
+      "end_date": "1907-01-28",
+      "filename": "f15ca04c2338.json"
+    },
+    "5842681e8e30": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1887-02-16",
+      "end_date": "1903-02-18",
+      "filename": "5842681e8e30.json"
+    },
+    "d230c1090994": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1887-04-01",
+      "end_date": "1901-02-28",
+      "filename": "d230c1090994.json"
+    },
+    "fcea547d9c4c": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1887-02-11",
+      "end_date": "1899-02-17",
+      "filename": "fcea547d9c4c.json"
+    },
+    "c560fb7f3078": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1887-02-15",
+      "end_date": "1891-02-19",
+      "filename": "c560fb7f3078.json"
+    },
+    "a71af3596232": {
+      "county_id": "ors_harney",
+      "name": "HARNEY",
+      "start_date": "1889-02-25",
+      "end_date": "1927-02-11",
+      "filename": "a71af3596232.json"
+    },
+    "5affc2dc7ee4": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1889-02-25",
+      "end_date": "1899-02-16",
+      "filename": "5affc2dc7ee4.json"
+    },
+    "74e7db37ef60": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1889-02-25",
+      "end_date": "1891-02-18",
+      "filename": "74e7db37ef60.json"
+    },
+    "3e04b09726af": {
+      "county_id": "ors_sherman",
+      "name": "SHERMAN",
+      "start_date": "1889-02-25",
+      "end_date": "1891-02-18",
+      "filename": "3e04b09726af.json"
+    },
+    "71725029eca2": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1891-02-20",
+      "end_date": "1908-06-22",
+      "filename": "71725029eca2.json"
+    },
+    "bb37ccfdb38b": {
+      "county_id": "ors_gilliam",
+      "name": "GILLIAM",
+      "start_date": "1891-02-20",
+      "end_date": "1899-02-16",
+      "filename": "bb37ccfdb38b.json"
+    },
+    "5414d3fde714": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1891-02-20",
+      "end_date": "1893-02-19",
+      "filename": "5414d3fde714.json"
+    },
+    "1fb0ad1b4e89": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1891-02-20",
+      "end_date": "1891-02-20",
+      "filename": "1fb0ad1b4e89.json"
+    },
+    "362a7eb01bb1": {
+      "county_id": "ors_polk",
+      "name": "POLK",
+      "start_date": "1891-02-21",
+      "end_date": "1927-03-02",
+      "filename": "362a7eb01bb1.json"
+    },
+    "c1221ed5e5cb": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1891-02-21",
+      "end_date": "1893-02-19",
+      "filename": "c1221ed5e5cb.json"
+    },
+    "59777f00757e": {
+      "county_id": "ors_sherman",
+      "name": "SHERMAN",
+      "start_date": "1891-02-19",
+      "end_date": "2000-12-31",
+      "filename": "59777f00757e.json"
+    },
+    "11fc7aafcdf0": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1891-02-19",
+      "end_date": "1891-02-19",
+      "filename": "11fc7aafcdf0.json"
+    },
+    "3dc36a56e71b": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1893-02-22",
+      "end_date": "2000-12-31",
+      "filename": "3dc36a56e71b.json"
+    },
+    "88682cbe8203": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1893-02-22",
+      "end_date": "2000-12-31",
+      "filename": "88682cbe8203.json"
+    },
+    "859bb8f95ae9": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1893-02-22",
+      "end_date": "1898-10-14",
+      "filename": "859bb8f95ae9.json"
+    },
+    "13d84b48a9ec": {
+      "county_id": "ors_yamhill",
+      "name": "YAMHILL",
+      "start_date": "1893-02-22",
+      "end_date": "2000-12-31",
+      "filename": "13d84b48a9ec.json"
+    },
+    "f73d80ed4115": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1893-02-20",
+      "end_date": "1931-03-05",
+      "filename": "f73d80ed4115.json"
+    },
+    "eab773f67649": {
+      "county_id": "ors_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1893-02-20",
+      "end_date": "1923-02-14",
+      "filename": "eab773f67649.json"
+    },
+    "042207baa478": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1893-02-20",
+      "end_date": "1923-02-14",
+      "filename": "042207baa478.json"
+    },
+    "6dd2a4721109": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1893-02-20",
+      "end_date": "1901-02-24",
+      "filename": "6dd2a4721109.json"
+    },
+    "79075d21483d": {
+      "county_id": "ors_tillamook",
+      "name": "TILLAMOOK",
+      "start_date": "1893-02-20",
+      "end_date": "1893-02-21",
+      "filename": "79075d21483d.json"
+    },
+    "88e251ece69d": {
+      "county_id": "ors_clackamas",
+      "name": "CLACKAMAS",
+      "start_date": "1893-02-20",
+      "end_date": "1893-02-21",
+      "filename": "88e251ece69d.json"
+    },
+    "35de830f3ef7": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1898-10-15",
+      "end_date": "1901-02-24",
+      "filename": "35de830f3ef7.json"
+    },
+    "8b83cc0146a6": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1898-10-15",
+      "end_date": "1901-02-24",
+      "filename": "8b83cc0146a6.json"
+    },
+    "73d55624435f": {
+      "county_id": "ors_gilliam",
+      "name": "GILLIAM",
+      "start_date": "1899-02-17",
+      "end_date": "2000-12-31",
+      "filename": "73d55624435f.json"
+    },
+    "f43c145e37cc": {
+      "county_id": "ors_grant",
+      "name": "GRANT",
+      "start_date": "1899-02-17",
+      "end_date": "2000-12-31",
+      "filename": "f43c145e37cc.json"
+    },
+    "beab6a48467b": {
+      "county_id": "ors_wallowa",
+      "name": "WALLOWA",
+      "start_date": "1899-02-18",
+      "end_date": "1907-02-12",
+      "filename": "beab6a48467b.json"
+    },
+    "5fa53fdf626f": {
+      "county_id": "ors_wheeler",
+      "name": "WHEELER",
+      "start_date": "1899-02-17",
+      "end_date": "1901-02-26",
+      "filename": "5fa53fdf626f.json"
+    },
+    "7d74731cf276": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1899-02-17",
+      "end_date": "1901-02-26",
+      "filename": "7d74731cf276.json"
+    },
+    "d3cac87c853b": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1899-02-18",
+      "end_date": "1901-02-28",
+      "filename": "d3cac87c853b.json"
+    },
+    "0ef970971c0a": {
+      "county_id": "ors_wheeler",
+      "name": "WHEELER",
+      "start_date": "1901-02-27",
+      "end_date": "2000-12-31",
+      "filename": "0ef970971c0a.json"
+    },
+    "0ce6ba813d8a": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1901-02-25",
+      "end_date": "1931-03-05",
+      "filename": "0ce6ba813d8a.json"
+    },
+    "1b6ffc98d01f": {
+      "county_id": "ors_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1923-02-15",
+      "end_date": "1927-03-02",
+      "filename": "1b6ffc98d01f.json"
+    },
+    "13d1787729cd": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1923-02-15",
+      "end_date": "1927-03-02",
+      "filename": "13d1787729cd.json"
+    },
+    "e051752f22b7": {
+      "county_id": "ors_harney",
+      "name": "HARNEY",
+      "start_date": "1927-02-12",
+      "end_date": "2000-12-31",
+      "filename": "e051752f22b7.json"
+    },
+    "555dae403c1c": {
+      "county_id": "ors_lake",
+      "name": "LAKE",
+      "start_date": "1927-02-09",
+      "end_date": "2000-12-31",
+      "filename": "555dae403c1c.json"
+    },
+    "2f91ea6f46e5": {
+      "county_id": "ors_klamath",
+      "name": "KLAMATH",
+      "start_date": "1927-02-09",
+      "end_date": "2000-12-31",
+      "filename": "2f91ea6f46e5.json"
+    },
+    "ea4b98071619": {
+      "county_id": "ors_polk",
+      "name": "POLK",
+      "start_date": "1927-03-03",
+      "end_date": "2000-12-31",
+      "filename": "ea4b98071619.json"
+    },
+    "8053812c1851": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1927-03-03",
+      "end_date": "1949-04-13",
+      "filename": "8053812c1851.json"
+    },
+    "ffa5dbfccd6d": {
+      "county_id": "ors_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1927-03-03",
+      "end_date": "1931-03-05",
+      "filename": "ffa5dbfccd6d.json"
+    },
+    "f14218826a3c": {
+      "county_id": "ors_malheur",
+      "name": "MALHEUR",
+      "start_date": "1927-02-12",
+      "end_date": "1931-02-05",
+      "filename": "f14218826a3c.json"
+    },
+    "5f02ddd89721": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1901-02-27",
+      "end_date": "1914-12-11",
+      "filename": "5f02ddd89721.json"
+    },
+    "73a0f25947a3": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1901-03-01",
+      "end_date": "1915-02-22",
+      "filename": "73a0f25947a3.json"
+    },
+    "70d06a3048d0": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1901-03-01",
+      "end_date": "1907-02-12",
+      "filename": "70d06a3048d0.json"
+    },
+    "8e52c00a4626": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1901-02-25",
+      "end_date": "1903-02-20",
+      "filename": "8e52c00a4626.json"
+    },
+    "221cc0a1eeec": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1901-02-25",
+      "end_date": "1903-02-20",
+      "filename": "221cc0a1eeec.json"
+    },
+    "0dd9989a92bb": {
+      "county_id": "ors_washington",
+      "name": "WASHINGTON",
+      "start_date": "1903-02-21",
+      "end_date": "2000-12-31",
+      "filename": "0dd9989a92bb.json"
+    },
+    "ce5b6972e042": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1903-02-21",
+      "end_date": "1931-03-05",
+      "filename": "ce5b6972e042.json"
+    },
+    "84ecb7076245": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1903-02-19",
+      "end_date": "1915-02-11",
+      "filename": "84ecb7076245.json"
+    },
+    "25e5637afaeb": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1903-02-19",
+      "end_date": "1907-01-28",
+      "filename": "25e5637afaeb.json"
+    },
+    "98f0ff9338d7": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1907-02-19",
+      "end_date": "1915-02-11",
+      "filename": "98f0ff9338d7.json"
+    },
+    "93af4bbb576a": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1907-02-19",
+      "end_date": "1913-02-24",
+      "filename": "93af4bbb576a.json"
+    },
+    "4cee50e96708": {
+      "county_id": "ors_umatilla",
+      "name": "UMATILLA",
+      "start_date": "1907-02-13",
+      "end_date": "2000-12-31",
+      "filename": "4cee50e96708.json"
+    },
+    "e4df54df52e7": {
+      "county_id": "ors_wallowa",
+      "name": "WALLOWA",
+      "start_date": "1907-02-13",
+      "end_date": "1915-02-22",
+      "filename": "e4df54df52e7.json"
+    },
+    "e5fd5e7139b7": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1907-02-13",
+      "end_date": "1915-02-22",
+      "filename": "e5fd5e7139b7.json"
+    },
+    "5fb77935131d": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1907-01-29",
+      "end_date": "1907-02-18",
+      "filename": "5fb77935131d.json"
+    },
+    "b771eb8c645c": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1907-01-29",
+      "end_date": "1907-02-18",
+      "filename": "b771eb8c645c.json"
+    },
+    "4e992bc88c6a": {
+      "county_id": "ors_hoodriver",
+      "name": "HOOD RIVER",
+      "start_date": "1908-06-23",
+      "end_date": "2000-12-31",
+      "filename": "4e992bc88c6a.json"
+    },
+    "8a443cc5e6aa": {
+      "county_id": "ors_wasco",
+      "name": "WASCO",
+      "start_date": "1908-06-23",
+      "end_date": "2000-12-31",
+      "filename": "8a443cc5e6aa.json"
+    },
+    "407e6ebc453a": {
+      "county_id": "ors_linn",
+      "name": "LINN",
+      "start_date": "1913-02-25",
+      "end_date": "2000-12-31",
+      "filename": "407e6ebc453a.json"
+    },
+    "85e70c326098": {
+      "county_id": "ors_marion",
+      "name": "MARION",
+      "start_date": "1913-02-25",
+      "end_date": "2000-12-31",
+      "filename": "85e70c326098.json"
+    },
+    "576f541a40dd": {
+      "county_id": "ors_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1914-12-12",
+      "end_date": "2000-12-31",
+      "filename": "576f541a40dd.json"
+    },
+    "21d61e405b20": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1914-12-12",
+      "end_date": "1917-01-31",
+      "filename": "21d61e405b20.json"
+    },
+    "5a1ec543b33f": {
+      "county_id": "ors_jackson",
+      "name": "JACKSON",
+      "start_date": "1915-02-17",
+      "end_date": "2000-12-31",
+      "filename": "5a1ec543b33f.json"
+    },
+    "766ddd5f8bb0": {
+      "county_id": "ors_union",
+      "name": "UNION",
+      "start_date": "1915-02-23",
+      "end_date": "2000-12-31",
+      "filename": "766ddd5f8bb0.json"
+    },
+    "fb6b7d1f6d13": {
+      "county_id": "ors_wallowa",
+      "name": "WALLOWA",
+      "start_date": "1915-02-23",
+      "end_date": "2000-12-31",
+      "filename": "fb6b7d1f6d13.json"
+    },
+    "0d10b9a626d0": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1915-02-23",
+      "end_date": "1931-02-05",
+      "filename": "0d10b9a626d0.json"
+    },
+    "c4b961583fc9": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1915-02-17",
+      "end_date": "1927-02-08",
+      "filename": "c4b961583fc9.json"
+    },
+    "e26833114d90": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1915-02-12",
+      "end_date": "1923-02-14",
+      "filename": "e26833114d90.json"
+    },
+    "d5ae7854c3bc": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1915-02-12",
+      "end_date": "1915-02-16",
+      "filename": "d5ae7854c3bc.json"
+    },
+    "cf3dcbe60662": {
+      "county_id": "ors_deschutes",
+      "name": "DESCHUTES",
+      "start_date": "1917-02-01",
+      "end_date": "2000-12-31",
+      "filename": "cf3dcbe60662.json"
+    },
+    "fb0b2e409693": {
+      "county_id": "ors_crook",
+      "name": "CROOK",
+      "start_date": "1917-02-01",
+      "end_date": "2000-12-31",
+      "filename": "fb0b2e409693.json"
+    },
+    "dc5bfad61a97": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1923-02-15",
+      "end_date": "1931-03-05",
+      "filename": "dc5bfad61a97.json"
+    },
+    "6753c6bf51be": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1927-02-09",
+      "end_date": "1983-10-13",
+      "filename": "6753c6bf51be.json"
+    },
+    "05362c5d925c": {
+      "county_id": "ors_josephine",
+      "name": "JOSEPHINE",
+      "start_date": "1927-02-09",
+      "end_date": "2000-12-31",
+      "filename": "05362c5d925c.json"
+    },
+    "4169832546cb": {
+      "county_id": "ors_columbia",
+      "name": "COLUMBIA",
+      "start_date": "1931-03-06",
+      "end_date": "2000-12-31",
+      "filename": "4169832546cb.json"
+    },
+    "0d34f935d76d": {
+      "county_id": "ors_multnomah",
+      "name": "MULTNOMAH",
+      "start_date": "1931-03-06",
+      "end_date": "2000-12-31",
+      "filename": "0d34f935d76d.json"
+    },
+    "c2392b3f6e2e": {
+      "county_id": "ors_malheur",
+      "name": "MALHEUR",
+      "start_date": "1931-02-06",
+      "end_date": "2000-12-31",
+      "filename": "c2392b3f6e2e.json"
+    },
+    "2d6dcb360b26": {
+      "county_id": "ors_lane",
+      "name": "LANE",
+      "start_date": "1931-03-06",
+      "end_date": "2000-12-31",
+      "filename": "2d6dcb360b26.json"
+    },
+    "691071ab8532": {
+      "county_id": "ors_baker",
+      "name": "BAKER",
+      "start_date": "1931-02-06",
+      "end_date": "2000-12-31",
+      "filename": "691071ab8532.json"
+    },
+    "4e2b59a36ec9": {
+      "county_id": "ors_clatsop",
+      "name": "CLATSOP",
+      "start_date": "1931-03-06",
+      "end_date": "2000-12-31",
+      "filename": "4e2b59a36ec9.json"
+    },
+    "8c6bb876ad1f": {
+      "county_id": "ors_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1931-03-06",
+      "end_date": "1949-04-13",
+      "filename": "8c6bb876ad1f.json"
+    },
+    "ccd59482c144": {
+      "county_id": "ors_benton",
+      "name": "BENTON",
+      "start_date": "1949-04-14",
+      "end_date": "2000-12-31",
+      "filename": "ccd59482c144.json"
+    },
+    "e3bd5934d5fa": {
+      "county_id": "ors_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1949-04-14",
+      "end_date": "2000-12-31",
+      "filename": "e3bd5934d5fa.json"
+    },
+    "feaf737cd293": {
+      "county_id": "ors_curry",
+      "name": "CURRY",
+      "start_date": "1951-04-30",
+      "end_date": "2000-12-31",
+      "filename": "feaf737cd293.json"
+    },
+    "a9cbb197a834": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1951-04-30",
+      "end_date": "1983-10-13",
+      "filename": "a9cbb197a834.json"
+    },
+    "603b671960c2": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1983-10-14",
+      "end_date": "1999-10-22",
+      "filename": "603b671960c2.json"
+    },
+    "4604d73bcbaa": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1983-10-14",
+      "end_date": "1999-10-22",
+      "filename": "4604d73bcbaa.json"
+    },
+    "7cd33a3fd661": {
+      "county_id": "ors_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1999-10-23",
+      "end_date": "2000-12-31",
+      "filename": "7cd33a3fd661.json"
+    },
+    "241c9e371d49": {
+      "county_id": "ors_coos",
+      "name": "COOS",
+      "start_date": "1999-10-23",
+      "end_date": "2000-12-31",
+      "filename": "241c9e371d49.json"
+    },
+    "fc1c2c7ad4ce": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1851-02-03",
+      "end_date": "1852-01-11",
+      "filename": "fc1c2c7ad4ce.json"
+    },
+    "a42de598ed42": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1852-01-12",
+      "end_date": "1852-01-16",
+      "filename": "a42de598ed42.json"
+    },
+    "3771271a29eb": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1852-01-17",
+      "end_date": "1853-01-31",
+      "filename": "3771271a29eb.json"
+    },
+    "e47a0327cb44": {
+      "county_id": "was_pacific",
+      "name": "PACIFIC (Wa.)",
+      "start_date": "1851-02-03",
+      "end_date": "1853-03-01",
+      "filename": "e47a0327cb44.json"
+    },
+    "aae13eb41641": {
+      "county_id": "was_thurston",
+      "name": "THURSTON (Wa.)",
+      "start_date": "1852-01-12",
+      "end_date": "1852-12-21",
+      "filename": "aae13eb41641.json"
+    },
+    "564eb6df64b3": {
+      "county_id": "was_thurston",
+      "name": "THURSTON (Wa.)",
+      "start_date": "1852-12-22",
+      "end_date": "1853-01-31",
+      "filename": "564eb6df64b3.json"
+    },
+    "e4727be4c5da": {
+      "county_id": "was_lewis",
+      "name": "LEWIS (Wa.)",
+      "start_date": "1853-02-01",
+      "end_date": "1853-03-01",
+      "filename": "e4727be4c5da.json"
+    },
+    "5ec1cbea0c10": {
+      "county_id": "was_thurston",
+      "name": "THURSTON (Wa.)",
+      "start_date": "1853-02-01",
+      "end_date": "1853-03-01",
+      "filename": "5ec1cbea0c10.json"
+    }
+  }
+}

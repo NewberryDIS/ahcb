@@ -1,0 +1,2253 @@
+{
+  "state": "NE",
+  "total_features": 321,
+  "features": {
+    "2075254efae0": {
+      "county_id": "mos_stlouis",
+      "name": "ST. LOUIS (Mo.)",
+      "start_date": "1804-10-01",
+      "end_date": "1812-12-06",
+      "filename": "2075254efae0.json"
+    },
+    "bea772a0d5b4": {
+      "county_id": "mot_part",
+      "name": "Missouri Terr.",
+      "start_date": "1812-12-07",
+      "end_date": "1821-08-09",
+      "filename": "bea772a0d5b4.json"
+    },
+    "f1ea5f29271c": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1821-08-10",
+      "end_date": "1854-05-29",
+      "filename": "f1ea5f29271c.json"
+    },
+    "8588f63a2e4c": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "8588f63a2e4c.json"
+    },
+    "b3e7068485f4": {
+      "county_id": "nes_halfbreedtract",
+      "name": "Half-Breed Tract",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "b3e7068485f4.json"
+    },
+    "04a66ea39485": {
+      "county_id": "nes_forney",
+      "name": "FORNEY (ext)",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "04a66ea39485.json"
+    },
+    "d5e7df78ca74": {
+      "county_id": "nes_richardson",
+      "name": "RICHARDSON",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "d5e7df78ca74.json"
+    },
+    "44842c307f73": {
+      "county_id": "nes_pierce01",
+      "name": "PIERCE (orig)",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "44842c307f73.json"
+    },
+    "9a5b10dcc2ca": {
+      "county_id": "nes_cass",
+      "name": "CASS",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "9a5b10dcc2ca.json"
+    },
+    "b7f81bbce675": {
+      "county_id": "nes_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "b7f81bbce675.json"
+    },
+    "6a4bcdc21061": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "6a4bcdc21061.json"
+    },
+    "f1c454b6932c": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "f1c454b6932c.json"
+    },
+    "a912bfc97d53": {
+      "county_id": "nes_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "a912bfc97d53.json"
+    },
+    "f2c3b96dde04": {
+      "county_id": "nes_jones",
+      "name": "JONES (ext)",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "f2c3b96dde04.json"
+    },
+    "0f4f248d36da": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1854-11-23",
+      "end_date": "1855-03-15",
+      "filename": "0f4f248d36da.json"
+    },
+    "d95c37b28883": {
+      "county_id": "nes_mckissickisland",
+      "name": "McKissick Island",
+      "start_date": "1854-11-23",
+      "end_date": "1858-10-31",
+      "filename": "d95c37b28883.json"
+    },
+    "d64404851081": {
+      "county_id": "net",
+      "name": "Nebraska Terr.",
+      "start_date": "1854-05-30",
+      "end_date": "1854-11-22",
+      "filename": "d64404851081.json"
+    },
+    "29bbd983713b": {
+      "county_id": "nes_gage",
+      "name": "GAGE",
+      "start_date": "1855-03-16",
+      "end_date": "1864-02-14",
+      "filename": "29bbd983713b.json"
+    },
+    "ea2cf670726b": {
+      "county_id": "nes_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1855-03-16",
+      "end_date": "1858-11-03",
+      "filename": "ea2cf670726b.json"
+    },
+    "71f5c214d80e": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1855-03-16",
+      "end_date": "1857-02-11",
+      "filename": "71f5c214d80e.json"
+    },
+    "5666431b6ccb": {
+      "county_id": "nes_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1855-03-16",
+      "end_date": "1857-02-09",
+      "filename": "5666431b6ccb.json"
+    },
+    "cc9278694dbe": {
+      "county_id": "nes_dakota",
+      "name": "DAKOTA",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "cc9278694dbe.json"
+    },
+    "bd918970c65f": {
+      "county_id": "nes_richardson",
+      "name": "RICHARDSON",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "bd918970c65f.json"
+    },
+    "52e46480f7f7": {
+      "county_id": "nes_forney",
+      "name": "FORNEY (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "52e46480f7f7.json"
+    },
+    "944fb12b903f": {
+      "county_id": "nes_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "944fb12b903f.json"
+    },
+    "b4701341016b": {
+      "county_id": "nes_johnston",
+      "name": "JOHNSTON (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "b4701341016b.json"
+    },
+    "40abe1f261da": {
+      "county_id": "nes_jackson",
+      "name": "JACKSON (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "40abe1f261da.json"
+    },
+    "7625bfbe121b": {
+      "county_id": "nes_clay01",
+      "name": "CLAY (orig)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "7625bfbe121b.json"
+    },
+    "14856da84518": {
+      "county_id": "nes_saline",
+      "name": "SALINE",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "14856da84518.json"
+    },
+    "32239c809d3a": {
+      "county_id": "nes_york",
+      "name": "YORK",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "32239c809d3a.json"
+    },
+    "4a50ca0f2176": {
+      "county_id": "nes_jones",
+      "name": "JONES (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "4a50ca0f2176.json"
+    },
+    "37d28f0583da": {
+      "county_id": "nes_pierce01",
+      "name": "PIERCE (orig)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "37d28f0583da.json"
+    },
+    "681eadba650c": {
+      "county_id": "nes_otoe",
+      "name": "OTOE",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "681eadba650c.json"
+    },
+    "5dcc86e39158": {
+      "county_id": "nes_cass",
+      "name": "CASS",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "5dcc86e39158.json"
+    },
+    "375c9ac1630b": {
+      "county_id": "nes_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "375c9ac1630b.json"
+    },
+    "c7f028887710": {
+      "county_id": "nes_seward",
+      "name": "GREENE",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "c7f028887710.json"
+    },
+    "f7d4434a4df0": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "f7d4434a4df0.json"
+    },
+    "cc91a47f40b8": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "cc91a47f40b8.json"
+    },
+    "8ae4ab404e8b": {
+      "county_id": "nes_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "8ae4ab404e8b.json"
+    },
+    "994f00d9e3d9": {
+      "county_id": "nes_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1855-03-16",
+      "end_date": "1857-02-11",
+      "filename": "994f00d9e3d9.json"
+    },
+    "4e0edfb89e3c": {
+      "county_id": "nes_loup01",
+      "name": "LOUP (orig)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "4e0edfb89e3c.json"
+    },
+    "92e24df98c80": {
+      "county_id": "nes_blackbird",
+      "name": "BLACKBIRD (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "92e24df98c80.json"
+    },
+    "0387f3ed6d9b": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "0387f3ed6d9b.json"
+    },
+    "dd790bd126c3": {
+      "county_id": "nes_mcneale",
+      "name": "McNEALE (ext)",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "dd790bd126c3.json"
+    },
+    "c0d151b6fcd6": {
+      "county_id": "nes_stanton",
+      "name": "IZARD",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "c0d151b6fcd6.json"
+    },
+    "a0fd1f8d838d": {
+      "county_id": "nes_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "a0fd1f8d838d.json"
+    },
+    "8ccdbe8c7fdd": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1855-03-16",
+      "end_date": "1856-01-25",
+      "filename": "8ccdbe8c7fdd.json"
+    },
+    "732f4d462329": {
+      "county_id": "nes_fillmore",
+      "name": "FILLMORE",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "732f4d462329.json"
+    },
+    "547c8b3418ae": {
+      "county_id": "nes_madison",
+      "name": "MADISON",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "547c8b3418ae.json"
+    },
+    "8e075aadf326": {
+      "county_id": "nes_otoe",
+      "name": "OTOE",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "8e075aadf326.json"
+    },
+    "5545f28a7a19": {
+      "county_id": "nes_saline",
+      "name": "SALINE",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "5545f28a7a19.json"
+    },
+    "e26b06aac43c": {
+      "county_id": "nes_seward",
+      "name": "GREENE",
+      "start_date": "1856-01-26",
+      "end_date": "1862-01-02",
+      "filename": "e26b06aac43c.json"
+    },
+    "042a9a1d3e7f": {
+      "county_id": "nes_york",
+      "name": "YORK",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "042a9a1d3e7f.json"
+    },
+    "3248a7cf8eb7": {
+      "county_id": "nes_richardson",
+      "name": "RICHARDSON",
+      "start_date": "1856-01-26",
+      "end_date": "2000-12-31",
+      "filename": "3248a7cf8eb7.json"
+    },
+    "f336b5968ddc": {
+      "county_id": "nes_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1856-01-26",
+      "end_date": "1867-02-17",
+      "filename": "f336b5968ddc.json"
+    },
+    "42a05b13f0ba": {
+      "county_id": "nes_jones",
+      "name": "JONES (ext)",
+      "start_date": "1856-01-26",
+      "end_date": "1867-02-17",
+      "filename": "42a05b13f0ba.json"
+    },
+    "be9535b8143d": {
+      "county_id": "nes_cass",
+      "name": "CASS",
+      "start_date": "1856-01-26",
+      "end_date": "1866-06-30",
+      "filename": "be9535b8143d.json"
+    },
+    "34aec141a11f": {
+      "county_id": "nes_stanton",
+      "name": "IZARD",
+      "start_date": "1856-01-26",
+      "end_date": "1862-01-09",
+      "filename": "34aec141a11f.json"
+    },
+    "7646cfe2dc82": {
+      "county_id": "nes_clay01",
+      "name": "CLAY (orig)",
+      "start_date": "1856-01-26",
+      "end_date": "1864-02-14",
+      "filename": "7646cfe2dc82.json"
+    },
+    "b9198f247b7c": {
+      "county_id": "nes_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1856-01-26",
+      "end_date": "1864-02-14",
+      "filename": "b9198f247b7c.json"
+    },
+    "31699d766506": {
+      "county_id": "nes_monroe",
+      "name": "MONROE (ext)",
+      "start_date": "1856-01-26",
+      "end_date": "1860-01-31",
+      "filename": "31699d766506.json"
+    },
+    "d97d71cf203f": {
+      "county_id": "nes_platte",
+      "name": "PLATTE",
+      "start_date": "1856-01-26",
+      "end_date": "1859-12-21",
+      "filename": "d97d71cf203f.json"
+    },
+    "6a6eee9fdefc": {
+      "county_id": "nes_butler",
+      "name": "BUTLER",
+      "start_date": "1856-01-26",
+      "end_date": "1859-12-21",
+      "filename": "6a6eee9fdefc.json"
+    },
+    "d16e1b26fcb2": {
+      "county_id": "nes_saunders",
+      "name": "CALHOUN",
+      "start_date": "1856-01-26",
+      "end_date": "1858-11-02",
+      "filename": "d16e1b26fcb2.json"
+    },
+    "075411871cd5": {
+      "county_id": "nes_dakota",
+      "name": "DAKOTA",
+      "start_date": "1856-01-26",
+      "end_date": "1858-10-31",
+      "filename": "075411871cd5.json"
+    },
+    "ed3093777109": {
+      "county_id": "nes_polk",
+      "name": "POLK",
+      "start_date": "1856-01-26",
+      "end_date": "1858-11-03",
+      "filename": "ed3093777109.json"
+    },
+    "5f4d16b277ba": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-11",
+      "filename": "5f4d16b277ba.json"
+    },
+    "17477eabbbf0": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-11",
+      "filename": "17477eabbbf0.json"
+    },
+    "5c936ba87490": {
+      "county_id": "nes_dixon",
+      "name": "DIXON",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-11",
+      "filename": "5c936ba87490.json"
+    },
+    "8c553927e24c": {
+      "county_id": "nes_pierce",
+      "name": "PIERCE",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-09",
+      "filename": "8c553927e24c.json"
+    },
+    "61543a20b838": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-09",
+      "filename": "61543a20b838.json"
+    },
+    "e1924795fd1e": {
+      "county_id": "nes_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-09",
+      "filename": "e1924795fd1e.json"
+    },
+    "36f1e701bb55": {
+      "county_id": "nes_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1856-01-26",
+      "end_date": "1873-03-02",
+      "filename": "36f1e701bb55.json"
+    },
+    "e83feb902146": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-06",
+      "filename": "e83feb902146.json"
+    },
+    "ab5347940c56": {
+      "county_id": "nes_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-06",
+      "filename": "ab5347940c56.json"
+    },
+    "62c20f01b4d0": {
+      "county_id": "nes_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-11",
+      "filename": "62c20f01b4d0.json"
+    },
+    "1fa162165c1a": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1856-01-26",
+      "end_date": "1860-01-05",
+      "filename": "1fa162165c1a.json"
+    },
+    "1390fe3299fc": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1856-01-26",
+      "end_date": "1857-02-11",
+      "filename": "1390fe3299fc.json"
+    },
+    "ee931f2dae8a": {
+      "county_id": "nes_pawneereserve",
+      "name": "Pawnee Reserve",
+      "start_date": "1857-09-24",
+      "end_date": "1879-05-31",
+      "filename": "ee931f2dae8a.json"
+    },
+    "e182c09ce26d": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1857-02-12",
+      "end_date": "1862-01-09",
+      "filename": "e182c09ce26d.json"
+    },
+    "820ef697c623": {
+      "county_id": "nes_pierce",
+      "name": "PIERCE",
+      "start_date": "1857-02-12",
+      "end_date": "1860-01-12",
+      "filename": "820ef697c623.json"
+    },
+    "b9f08746d298": {
+      "county_id": "nes_cedar",
+      "name": "CEDAR",
+      "start_date": "1857-02-12",
+      "end_date": "1860-01-12",
+      "filename": "b9f08746d298.json"
+    },
+    "13feff694baa": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1857-09-24",
+      "end_date": "1858-11-03",
+      "filename": "13feff694baa.json"
+    },
+    "7bf4d35582a4": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1857-02-12",
+      "end_date": "1858-11-01",
+      "filename": "7bf4d35582a4.json"
+    },
+    "27189b2c21b2": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1857-02-12",
+      "end_date": "1858-11-01",
+      "filename": "27189b2c21b2.json"
+    },
+    "46d31632bac5": {
+      "county_id": "nes_dixon",
+      "name": "DIXON",
+      "start_date": "1857-02-12",
+      "end_date": "1858-10-31",
+      "filename": "46d31632bac5.json"
+    },
+    "9ed7c4fb76d3": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1857-02-12",
+      "end_date": "1862-01-09",
+      "filename": "9ed7c4fb76d3.json"
+    },
+    "3e0795fbde5a": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1857-02-12",
+      "end_date": "1858-10-31",
+      "filename": "3e0795fbde5a.json"
+    },
+    "48b1e0e7ddb3": {
+      "county_id": "nes_douglas",
+      "name": "DOUGLAS",
+      "start_date": "1857-02-07",
+      "end_date": "2000-12-31",
+      "filename": "48b1e0e7ddb3.json"
+    },
+    "f546ff16deaa": {
+      "county_id": "nes_johnson",
+      "name": "JOHNSON",
+      "start_date": "1857-02-10",
+      "end_date": "2000-12-31",
+      "filename": "f546ff16deaa.json"
+    },
+    "a9753dba579d": {
+      "county_id": "nes_pawnee",
+      "name": "PAWNEE",
+      "start_date": "1857-02-10",
+      "end_date": "2000-12-31",
+      "filename": "a9753dba579d.json"
+    },
+    "861f76a87f39": {
+      "county_id": "nes_sarpy",
+      "name": "SARPY",
+      "start_date": "1857-02-07",
+      "end_date": "2000-12-31",
+      "filename": "861f76a87f39.json"
+    },
+    "5ec25576ea05": {
+      "county_id": "nes_knox",
+      "name": "L'EAU QUI COURT",
+      "start_date": "1857-02-10",
+      "end_date": "1860-01-12",
+      "filename": "5ec25576ea05.json"
+    },
+    "5586a12d8f2d": {
+      "county_id": "nes_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1857-02-10",
+      "end_date": "1858-10-31",
+      "filename": "5586a12d8f2d.json"
+    },
+    "b359a1e99853": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1857-02-07",
+      "end_date": "1857-02-11",
+      "filename": "b359a1e99853.json"
+    },
+    "63fe7adbed7c": {
+      "county_id": "nes_pierce",
+      "name": "PIERCE",
+      "start_date": "1857-02-10",
+      "end_date": "1857-02-11",
+      "filename": "63fe7adbed7c.json"
+    },
+    "d0cd63048e70": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1857-02-10",
+      "end_date": "1857-09-23",
+      "filename": "d0cd63048e70.json"
+    },
+    "aab7d0a877bf": {
+      "county_id": "nes_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1858-11-04",
+      "end_date": "1871-02-28",
+      "filename": "aab7d0a877bf.json"
+    },
+    "a171fd65c910": {
+      "county_id": "nes_polk",
+      "name": "POLK",
+      "start_date": "1858-11-04",
+      "end_date": "1865-01-31",
+      "filename": "a171fd65c910.json"
+    },
+    "eb94ed9995b6": {
+      "county_id": "nes_hall",
+      "name": "HALL",
+      "start_date": "1858-11-04",
+      "end_date": "1864-01-31",
+      "filename": "eb94ed9995b6.json"
+    },
+    "83198a607131": {
+      "county_id": "nes_merrick",
+      "name": "MERRICK",
+      "start_date": "1858-11-04",
+      "end_date": "1864-01-31",
+      "filename": "83198a607131.json"
+    },
+    "0c49347753b2": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1858-11-04",
+      "end_date": "1860-01-06",
+      "filename": "0c49347753b2.json"
+    },
+    "b566b43ea74b": {
+      "county_id": "nes_saunders",
+      "name": "CALHOUN",
+      "start_date": "1858-11-03",
+      "end_date": "1859-12-21",
+      "filename": "b566b43ea74b.json"
+    },
+    "98af416f57f9": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1858-11-03",
+      "end_date": "1859-12-21",
+      "filename": "98af416f57f9.json"
+    },
+    "87c44b3a12f8": {
+      "county_id": "nes_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1858-11-01",
+      "end_date": "1873-03-02",
+      "filename": "87c44b3a12f8.json"
+    },
+    "53675b831280": {
+      "county_id": "nes_dakota",
+      "name": "DAKOTA",
+      "start_date": "1858-11-01",
+      "end_date": "1861-03-01",
+      "filename": "53675b831280.json"
+    },
+    "7658c6b5a0ea": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1858-11-01",
+      "end_date": "1862-01-09",
+      "filename": "7658c6b5a0ea.json"
+    },
+    "63cab2111cbd": {
+      "county_id": "nes_nca2",
+      "name": "NCA 2",
+      "start_date": "1858-11-01",
+      "end_date": "1860-01-12",
+      "filename": "63cab2111cbd.json"
+    },
+    "404b3b6a2734": {
+      "county_id": "nes_dixon",
+      "name": "DIXON",
+      "start_date": "1858-11-01",
+      "end_date": "1860-01-12",
+      "filename": "404b3b6a2734.json"
+    },
+    "f12ef2586ac5": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1858-11-02",
+      "end_date": "1860-01-11",
+      "filename": "f12ef2586ac5.json"
+    },
+    "d17ba5af7e79": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1858-11-02",
+      "end_date": "1858-11-02",
+      "filename": "d17ba5af7e79.json"
+    },
+    "d973119327d0": {
+      "county_id": "nes_butler",
+      "name": "BUTLER",
+      "start_date": "1859-12-22",
+      "end_date": "2000-12-31",
+      "filename": "d973119327d0.json"
+    },
+    "2883aae1a871": {
+      "county_id": "nes_saunders",
+      "name": "CALHOUN",
+      "start_date": "1859-12-22",
+      "end_date": "1862-01-07",
+      "filename": "2883aae1a871.json"
+    },
+    "0f423820b3aa": {
+      "county_id": "nes_platte",
+      "name": "PLATTE",
+      "start_date": "1859-12-22",
+      "end_date": "1860-01-31",
+      "filename": "0f423820b3aa.json"
+    },
+    "545fe5430b7a": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1859-12-22",
+      "end_date": "1860-01-11",
+      "filename": "545fe5430b7a.json"
+    },
+    "878f2706df58": {
+      "county_id": "nes_nca4",
+      "name": "NCA 4",
+      "start_date": "1860-01-10",
+      "end_date": "1869-02-14",
+      "filename": "878f2706df58.json"
+    },
+    "71fd8b8b6600": {
+      "county_id": "nes_kearney",
+      "name": "KEARNEY",
+      "start_date": "1860-01-10",
+      "end_date": "1867-02-15",
+      "filename": "71fd8b8b6600.json"
+    },
+    "d60adcaf9fed": {
+      "county_id": "nes_nca3",
+      "name": "NCA 3",
+      "start_date": "1860-01-10",
+      "end_date": "1860-01-12",
+      "filename": "d60adcaf9fed.json"
+    },
+    "fb755dbf459c": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1860-01-10",
+      "end_date": "1860-01-10",
+      "filename": "fb755dbf459c.json"
+    },
+    "634c61111a81": {
+      "county_id": "nes_dawson",
+      "name": "DAWSON",
+      "start_date": "1860-01-11",
+      "end_date": "1871-06-05",
+      "filename": "634c61111a81.json"
+    },
+    "c71e5ba4c131": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1860-01-12",
+      "end_date": "1867-02-17",
+      "filename": "c71e5ba4c131.json"
+    },
+    "df21cd763a3b": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1860-01-12",
+      "end_date": "1867-02-17",
+      "filename": "df21cd763a3b.json"
+    },
+    "87cc97b9346c": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1860-01-11",
+      "end_date": "1860-01-12",
+      "filename": "87cc97b9346c.json"
+    },
+    "ea6036aab00a": {
+      "county_id": "nes_nuckolls",
+      "name": "NUCKOLLS",
+      "start_date": "1860-01-13",
+      "end_date": "2000-12-31",
+      "filename": "ea6036aab00a.json"
+    },
+    "c10a96621310": {
+      "county_id": "nes_cedar",
+      "name": "CEDAR",
+      "start_date": "1860-01-13",
+      "end_date": "1875-02-04",
+      "filename": "c10a96621310.json"
+    },
+    "bc7f8082849a": {
+      "county_id": "nes_pierce",
+      "name": "PIERCE",
+      "start_date": "1860-01-13",
+      "end_date": "1875-02-04",
+      "filename": "bc7f8082849a.json"
+    },
+    "ff27c4ed1743": {
+      "county_id": "nes_dixon",
+      "name": "DIXON",
+      "start_date": "1860-01-13",
+      "end_date": "1873-03-02",
+      "filename": "ff27c4ed1743.json"
+    },
+    "c80314a835a7": {
+      "county_id": "nes_nca2",
+      "name": "NCA 2",
+      "start_date": "1860-01-13",
+      "end_date": "1871-03-03",
+      "filename": "c80314a835a7.json"
+    },
+    "a7886a2b48e4": {
+      "county_id": "nes_nca3",
+      "name": "NCA 3",
+      "start_date": "1860-01-13",
+      "end_date": "1867-02-15",
+      "filename": "a7886a2b48e4.json"
+    },
+    "7e4dc009c1c2": {
+      "county_id": "nes_platte",
+      "name": "PLATTE",
+      "start_date": "1860-02-01",
+      "end_date": "1865-01-31",
+      "filename": "7e4dc009c1c2.json"
+    },
+    "97eb0efa7f57": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1860-01-13",
+      "end_date": "1861-03-01",
+      "filename": "97eb0efa7f57.json"
+    },
+    "b1e881847104": {
+      "county_id": "nes_west",
+      "name": "WEST (ext)",
+      "start_date": "1860-01-13",
+      "end_date": "1862-01-08",
+      "filename": "b1e881847104.json"
+    },
+    "4893d012489e": {
+      "county_id": "nes_knox",
+      "name": "L'EAU QUI COURT",
+      "start_date": "1860-01-13",
+      "end_date": "1861-03-01",
+      "filename": "4893d012489e.json"
+    },
+    "3da0014b701c": {
+      "county_id": "nes_lincoln",
+      "name": "SHORTER",
+      "start_date": "1860-01-07",
+      "end_date": "1861-12-10",
+      "filename": "3da0014b701c.json"
+    },
+    "cddf632172f6": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1860-01-07",
+      "end_date": "1860-01-09",
+      "filename": "cddf632172f6.json"
+    },
+    "f405aabf80e1": {
+      "county_id": "nes_wilson",
+      "name": "WILSON (ext)",
+      "start_date": "1860-01-06",
+      "end_date": "1863-03-02",
+      "filename": "f405aabf80e1.json"
+    },
+    "a1ef53b9876e": {
+      "county_id": "nes_morton",
+      "name": "MORTON (ext)",
+      "start_date": "1860-01-06",
+      "end_date": "1863-03-02",
+      "filename": "a1ef53b9876e.json"
+    },
+    "83be59763a3a": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1860-01-06",
+      "end_date": "1861-02-27",
+      "filename": "83be59763a3a.json"
+    },
+    "e49bed7e060b": {
+      "county_id": "nes_knox",
+      "name": "L'EAU QUI COURT",
+      "start_date": "1861-03-02",
+      "end_date": "1873-03-31",
+      "filename": "e49bed7e060b.json"
+    },
+    "4444cc39287c": {
+      "county_id": "nes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1861-12-11",
+      "end_date": "1869-02-14",
+      "filename": "4444cc39287c.json"
+    },
+    "0520f9c8f922": {
+      "county_id": "dkt_part",
+      "name": "Dakota Terr.",
+      "start_date": "1861-03-02",
+      "end_date": "1862-04-09",
+      "filename": "0520f9c8f922.json"
+    },
+    "1b50fb858ec0": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1861-03-02",
+      "end_date": "1862-01-08",
+      "filename": "1b50fb858ec0.json"
+    },
+    "9d898c909d88": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1861-03-02",
+      "end_date": "1863-03-02",
+      "filename": "9d898c909d88.json"
+    },
+    "869460f62727": {
+      "county_id": "nes_dakota",
+      "name": "DAKOTA",
+      "start_date": "1861-03-02",
+      "end_date": "1871-02-08",
+      "filename": "869460f62727.json"
+    },
+    "ac355f9d86ff": {
+      "county_id": "net_part",
+      "name": "Nebraska Terr.",
+      "start_date": "1861-02-28",
+      "end_date": "1861-03-01",
+      "filename": "ac355f9d86ff.json"
+    },
+    "9d82821da5b9": {
+      "county_id": "dkt_ftrandall",
+      "name": "Ft. Randall Mil Res",
+      "start_date": "1862-05-08",
+      "end_date": "1873-01-07",
+      "filename": "9d82821da5b9.json"
+    },
+    "3c73bc37c029": {
+      "county_id": "sds_todd01",
+      "name": "TODD (S.D., orig)",
+      "start_date": "1862-05-08",
+      "end_date": "1873-01-07",
+      "filename": "3c73bc37c029.json"
+    },
+    "afadb56e1870": {
+      "county_id": "dkt_part",
+      "name": "Dakota Terr.",
+      "start_date": "1862-05-08",
+      "end_date": "1873-01-07",
+      "filename": "afadb56e1870.json"
+    },
+    "88329df667f0": {
+      "county_id": "nes_holt",
+      "name": "HOLT",
+      "start_date": "1862-01-09",
+      "end_date": "2000-12-31",
+      "filename": "88329df667f0.json"
+    },
+    "fcd8272e1feb": {
+      "county_id": "nes_seward",
+      "name": "SEWARD",
+      "start_date": "1862-01-03",
+      "end_date": "2000-12-31",
+      "filename": "fcd8272e1feb.json"
+    },
+    "4c7c421cf2a0": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1862-01-10",
+      "end_date": "1873-02-17",
+      "filename": "4c7c421cf2a0.json"
+    },
+    "53d58ebc7194": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1862-01-10",
+      "end_date": "1869-02-14",
+      "filename": "53d58ebc7194.json"
+    },
+    "a086b0ca7fca": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1862-01-09",
+      "end_date": "1867-06-21",
+      "filename": "a086b0ca7fca.json"
+    },
+    "168763453c1a": {
+      "county_id": "nes_saunders",
+      "name": "SAUNDERS",
+      "start_date": "1862-01-08",
+      "end_date": "1866-06-30",
+      "filename": "168763453c1a.json"
+    },
+    "8d90bf77a236": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1862-01-10",
+      "end_date": "1866-02-11",
+      "filename": "8d90bf77a236.json"
+    },
+    "3a249a43e583": {
+      "county_id": "nes_stanton",
+      "name": "STANTON",
+      "start_date": "1862-01-10",
+      "end_date": "1866-02-11",
+      "filename": "3a249a43e583.json"
+    },
+    "455a0fd28b78": {
+      "county_id": "dkt_part",
+      "name": "Dakota Terr.",
+      "start_date": "1862-04-10",
+      "end_date": "1862-05-07",
+      "filename": "455a0fd28b78.json"
+    },
+    "71ca4646163e": {
+      "county_id": "dkt_cole",
+      "name": "COLE (Dak. Terr.)",
+      "start_date": "1862-04-10",
+      "end_date": "1864-01-06",
+      "filename": "71ca4646163e.json"
+    },
+    "f8235411c108": {
+      "county_id": "nes_gage",
+      "name": "GAGE",
+      "start_date": "1864-02-15",
+      "end_date": "2000-12-31",
+      "filename": "f8235411c108.json"
+    },
+    "04d4f89d738c": {
+      "county_id": "nes_lancaster",
+      "name": "LANCASTER",
+      "start_date": "1864-02-15",
+      "end_date": "2000-12-31",
+      "filename": "04d4f89d738c.json"
+    },
+    "eca9d100030d": {
+      "county_id": "nes_merrick",
+      "name": "MERRICK",
+      "start_date": "1864-02-15",
+      "end_date": "1873-03-02",
+      "filename": "eca9d100030d.json"
+    },
+    "99c2d64daeb3": {
+      "county_id": "nes_hall",
+      "name": "HALL",
+      "start_date": "1864-02-15",
+      "end_date": "1871-02-28",
+      "filename": "99c2d64daeb3.json"
+    },
+    "c604d6ff097f": {
+      "county_id": "sds_union",
+      "name": "UNION (S.D.)",
+      "start_date": "1864-01-07",
+      "end_date": "1871-02-08",
+      "filename": "c604d6ff097f.json"
+    },
+    "1d8009479f58": {
+      "county_id": "nes_hall",
+      "name": "HALL",
+      "start_date": "1864-02-01",
+      "end_date": "1864-02-14",
+      "filename": "1d8009479f58.json"
+    },
+    "e8f877cb87e7": {
+      "county_id": "nes_merrick",
+      "name": "MERRICK",
+      "start_date": "1864-02-01",
+      "end_date": "1864-02-14",
+      "filename": "e8f877cb87e7.json"
+    },
+    "a491e73dcd88": {
+      "county_id": "nes_polk",
+      "name": "POLK",
+      "start_date": "1865-02-01",
+      "end_date": "2000-12-31",
+      "filename": "a491e73dcd88.json"
+    },
+    "cb38d3b7ccee": {
+      "county_id": "nes_platte",
+      "name": "PLATTE",
+      "start_date": "1865-02-01",
+      "end_date": "1869-02-14",
+      "filename": "cb38d3b7ccee.json"
+    },
+    "3daecf855137": {
+      "county_id": "nes_cass",
+      "name": "CASS",
+      "start_date": "1866-07-01",
+      "end_date": "2000-12-31",
+      "filename": "3daecf855137.json"
+    },
+    "ad761bc18174": {
+      "county_id": "nes_saunders",
+      "name": "SAUNDERS",
+      "start_date": "1866-07-01",
+      "end_date": "2000-12-31",
+      "filename": "ad761bc18174.json"
+    },
+    "0e57469e6079": {
+      "county_id": "nes_stanton",
+      "name": "STANTON",
+      "start_date": "1866-02-12",
+      "end_date": "2000-12-31",
+      "filename": "0e57469e6079.json"
+    },
+    "03a56fb49f2f": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1866-02-12",
+      "end_date": "1873-02-17",
+      "filename": "03a56fb49f2f.json"
+    },
+    "6ee141e26ec8": {
+      "county_id": "nes_clay",
+      "name": "CLAY",
+      "start_date": "1867-02-16",
+      "end_date": "2000-12-31",
+      "filename": "6ee141e26ec8.json"
+    },
+    "8758290ab90a": {
+      "county_id": "nes_franklin",
+      "name": "FRANKLIN",
+      "start_date": "1867-02-16",
+      "end_date": "2000-12-31",
+      "filename": "8758290ab90a.json"
+    },
+    "d347e7560bd1": {
+      "county_id": "nes_hamilton",
+      "name": "HAMILTON",
+      "start_date": "1867-02-16",
+      "end_date": "2000-12-31",
+      "filename": "d347e7560bd1.json"
+    },
+    "38ebe2d49d77": {
+      "county_id": "nes_webster",
+      "name": "WEBSTER",
+      "start_date": "1867-02-16",
+      "end_date": "2000-12-31",
+      "filename": "38ebe2d49d77.json"
+    },
+    "c80f4ebe6d22": {
+      "county_id": "nes_cheyenne",
+      "name": "CHEYENNE",
+      "start_date": "1867-06-22",
+      "end_date": "1888-11-05",
+      "filename": "c80f4ebe6d22.json"
+    },
+    "9edaff521b0c": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1867-02-18",
+      "end_date": "1875-02-24",
+      "filename": "9edaff521b0c.json"
+    },
+    "6ba80ab4120c": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1867-06-22",
+      "end_date": "1871-02-28",
+      "filename": "6ba80ab4120c.json"
+    },
+    "65fd2441873f": {
+      "county_id": "nes_kearney",
+      "name": "KEARNEY",
+      "start_date": "1867-02-16",
+      "end_date": "1871-06-02",
+      "filename": "65fd2441873f.json"
+    },
+    "a9bd343c17c1": {
+      "county_id": "nes_adams",
+      "name": "ADAMS",
+      "start_date": "1867-02-16",
+      "end_date": "1871-02-28",
+      "filename": "a9bd343c17c1.json"
+    },
+    "3d0465e60161": {
+      "county_id": "nes_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1867-02-18",
+      "end_date": "1871-05-08",
+      "filename": "3d0465e60161.json"
+    },
+    "1c26cec392c2": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1867-02-18",
+      "end_date": "1869-02-14",
+      "filename": "1c26cec392c2.json"
+    },
+    "1c940f7c31f2": {
+      "county_id": "nes_colfax",
+      "name": "COLFAX",
+      "start_date": "1869-02-15",
+      "end_date": "2000-12-31",
+      "filename": "1c940f7c31f2.json"
+    },
+    "3ee6bc1cf2dc": {
+      "county_id": "nes_platte",
+      "name": "PLATTE",
+      "start_date": "1869-02-15",
+      "end_date": "2000-12-31",
+      "filename": "3ee6bc1cf2dc.json"
+    },
+    "83791adba27b": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1869-02-15",
+      "end_date": "1879-02-21",
+      "filename": "83791adba27b.json"
+    },
+    "30b7ef75c364": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1869-02-15",
+      "end_date": "1875-02-24",
+      "filename": "30b7ef75c364.json"
+    },
+    "cd4caffe11e0": {
+      "county_id": "nes_nca4",
+      "name": "NCA 4",
+      "start_date": "1869-02-15",
+      "end_date": "1871-02-28",
+      "filename": "cd4caffe11e0.json"
+    },
+    "12083ed37d53": {
+      "county_id": "nes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1869-02-15",
+      "end_date": "1871-02-28",
+      "filename": "12083ed37d53.json"
+    },
+    "62a1c6bac90f": {
+      "county_id": "nes_dawson",
+      "name": "DAWSON",
+      "start_date": "1871-06-06",
+      "end_date": "2000-12-31",
+      "filename": "62a1c6bac90f.json"
+    },
+    "8fb177f97aa0": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1871-06-06",
+      "end_date": "1873-01-07",
+      "filename": "8fb177f97aa0.json"
+    },
+    "d272183c7889": {
+      "county_id": "nes_kearney",
+      "name": "KEARNEY",
+      "start_date": "1871-06-06",
+      "end_date": "1873-02-10",
+      "filename": "d272183c7889.json"
+    },
+    "4eb29f4b18ea": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1871-06-06",
+      "end_date": "1872-01-16",
+      "filename": "4eb29f4b18ea.json"
+    },
+    "755a0e111aef": {
+      "county_id": "nes_adams",
+      "name": "ADAMS",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "755a0e111aef.json"
+    },
+    "84d63def1b15": {
+      "county_id": "nes_antelope",
+      "name": "ANTELOPE",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "84d63def1b15.json"
+    },
+    "5ced146852ad": {
+      "county_id": "nes_boone",
+      "name": "BOONE",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "5ced146852ad.json"
+    },
+    "7ccf0b713a47": {
+      "county_id": "nes_dakota",
+      "name": "DAKOTA",
+      "start_date": "1871-02-09",
+      "end_date": "2000-12-31",
+      "filename": "7ccf0b713a47.json"
+    },
+    "43c9132c50e7": {
+      "county_id": "nes_greeley",
+      "name": "GREELEY",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "43c9132c50e7.json"
+    },
+    "c60343a82a47": {
+      "county_id": "nes_hall",
+      "name": "HALL",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "c60343a82a47.json"
+    },
+    "edea36fb6e5f": {
+      "county_id": "nes_harlan",
+      "name": "HARLAN",
+      "start_date": "1871-06-03",
+      "end_date": "2000-12-31",
+      "filename": "edea36fb6e5f.json"
+    },
+    "b20e5ca67bc1": {
+      "county_id": "nes_howard",
+      "name": "HOWARD",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "b20e5ca67bc1.json"
+    },
+    "1c4277cd5f8e": {
+      "county_id": "nes_jefferson",
+      "name": "JEFFERSON",
+      "start_date": "1871-05-09",
+      "end_date": "2000-12-31",
+      "filename": "1c4277cd5f8e.json"
+    },
+    "b4f17143b83b": {
+      "county_id": "nes_lincoln",
+      "name": "LINCOLN",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "b4f17143b83b.json"
+    },
+    "b35e987b1791": {
+      "county_id": "nes_sherman",
+      "name": "SHERMAN",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "b35e987b1791.json"
+    },
+    "ba5ddb38084d": {
+      "county_id": "nes_thayer",
+      "name": "THAYER",
+      "start_date": "1871-05-09",
+      "end_date": "2000-12-31",
+      "filename": "ba5ddb38084d.json"
+    },
+    "302bd6056501": {
+      "county_id": "nes_valley",
+      "name": "VALLEY",
+      "start_date": "1871-03-01",
+      "end_date": "2000-12-31",
+      "filename": "302bd6056501.json"
+    },
+    "a03a50091f4d": {
+      "county_id": "nes_nca5",
+      "name": "NCA 5",
+      "start_date": "1871-03-01",
+      "end_date": "1881-02-28",
+      "filename": "a03a50091f4d.json"
+    },
+    "136ee3658fb1": {
+      "county_id": "nes_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1871-03-01",
+      "end_date": "1873-03-02",
+      "filename": "136ee3658fb1.json"
+    },
+    "4ec8a5a52dfd": {
+      "county_id": "nes_wayne",
+      "name": "WAYNE",
+      "start_date": "1871-03-04",
+      "end_date": "1873-03-02",
+      "filename": "4ec8a5a52dfd.json"
+    },
+    "cc872b19e6ac": {
+      "county_id": "nes_nca4",
+      "name": "NCA 4",
+      "start_date": "1871-03-01",
+      "end_date": "1873-02-26",
+      "filename": "cc872b19e6ac.json"
+    },
+    "76341c54c387": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1871-03-01",
+      "end_date": "1871-06-05",
+      "filename": "76341c54c387.json"
+    },
+    "0e8d77aa4b64": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1871-03-01",
+      "end_date": "1871-06-05",
+      "filename": "0e8d77aa4b64.json"
+    },
+    "c3ec9061a2fa": {
+      "county_id": "nes_kearney",
+      "name": "KEARNEY",
+      "start_date": "1871-06-03",
+      "end_date": "1871-06-05",
+      "filename": "c3ec9061a2fa.json"
+    },
+    "340ba8f2f81f": {
+      "county_id": "nes_frontier",
+      "name": "FRONTIER",
+      "start_date": "1872-01-17",
+      "end_date": "2000-12-31",
+      "filename": "340ba8f2f81f.json"
+    },
+    "75aab00fb5a6": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1872-01-17",
+      "end_date": "1873-02-10",
+      "filename": "75aab00fb5a6.json"
+    },
+    "35798a915962": {
+      "county_id": "nes_chase",
+      "name": "CHASE",
+      "start_date": "1873-02-27",
+      "end_date": "2000-12-31",
+      "filename": "35798a915962.json"
+    },
+    "3a53156c92ef": {
+      "county_id": "nes_dundy",
+      "name": "DUNDY",
+      "start_date": "1873-02-27",
+      "end_date": "2000-12-31",
+      "filename": "3a53156c92ef.json"
+    },
+    "d889ea8ab54b": {
+      "county_id": "nes_furnas",
+      "name": "FURNAS",
+      "start_date": "1873-02-27",
+      "end_date": "2000-12-31",
+      "filename": "d889ea8ab54b.json"
+    },
+    "a70b5cb652c7": {
+      "county_id": "nes_hitchcock",
+      "name": "HITCHCOCK",
+      "start_date": "1873-02-27",
+      "end_date": "2000-12-31",
+      "filename": "a70b5cb652c7.json"
+    },
+    "73bbb8ea2eb1": {
+      "county_id": "nes_redwillow",
+      "name": "RED WILLOW",
+      "start_date": "1873-02-27",
+      "end_date": "2000-12-31",
+      "filename": "73bbb8ea2eb1.json"
+    },
+    "91bfaf76ed41": {
+      "county_id": "nes_keith",
+      "name": "KEITH",
+      "start_date": "1873-02-27",
+      "end_date": "1887-11-07",
+      "filename": "91bfaf76ed41.json"
+    },
+    "feb3e9a004cc": {
+      "county_id": "nes_nca4",
+      "name": "NCA 4",
+      "start_date": "1873-02-27",
+      "end_date": "1877-02-18",
+      "filename": "feb3e9a004cc.json"
+    },
+    "6808ebada499": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1873-02-27",
+      "end_date": "1873-03-02",
+      "filename": "6808ebada499.json"
+    },
+    "a28fe13c8db8": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1873-02-27",
+      "end_date": "1873-08-28",
+      "filename": "a28fe13c8db8.json"
+    },
+    "439da22529ad": {
+      "county_id": "nes_buffalo",
+      "name": "BUFFALO",
+      "start_date": "1873-03-03",
+      "end_date": "2000-12-31",
+      "filename": "439da22529ad.json"
+    },
+    "423098c09d05": {
+      "county_id": "nes_dixon",
+      "name": "DIXON",
+      "start_date": "1873-03-03",
+      "end_date": "2000-12-31",
+      "filename": "423098c09d05.json"
+    },
+    "aa055c068469": {
+      "county_id": "nes_gosper",
+      "name": "GOSPER",
+      "start_date": "1873-08-29",
+      "end_date": "2000-12-31",
+      "filename": "aa055c068469.json"
+    },
+    "2bfb3fd49f7f": {
+      "county_id": "nes_merrick",
+      "name": "MERRICK",
+      "start_date": "1873-03-03",
+      "end_date": "2000-12-31",
+      "filename": "2bfb3fd49f7f.json"
+    },
+    "0f91bd73a1c9": {
+      "county_id": "nes_nemaha",
+      "name": "NEMAHA",
+      "start_date": "1873-03-03",
+      "end_date": "2000-12-31",
+      "filename": "0f91bd73a1c9.json"
+    },
+    "274cba503f52": {
+      "county_id": "nes_knox",
+      "name": "KNOX",
+      "start_date": "1873-04-01",
+      "end_date": "1883-05-31",
+      "filename": "274cba503f52.json"
+    },
+    "bb78fd1eb0e9": {
+      "county_id": "nes_wayne",
+      "name": "WAYNE",
+      "start_date": "1873-03-03",
+      "end_date": "1879-05-31",
+      "filename": "bb78fd1eb0e9.json"
+    },
+    "710ab6ee103d": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1873-03-03",
+      "end_date": "1879-02-21",
+      "filename": "710ab6ee103d.json"
+    },
+    "6f67cf628776": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1873-08-29",
+      "end_date": "1877-02-18",
+      "filename": "6f67cf628776.json"
+    },
+    "575c7c6066f0": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1873-03-03",
+      "end_date": "1875-02-03",
+      "filename": "575c7c6066f0.json"
+    },
+    "d998aabc99ad": {
+      "county_id": "nes_cuming",
+      "name": "CUMING",
+      "start_date": "1873-02-18",
+      "end_date": "2000-12-31",
+      "filename": "d998aabc99ad.json"
+    },
+    "0bf3e788bf60": {
+      "county_id": "nes_kearney",
+      "name": "KEARNEY",
+      "start_date": "1873-02-11",
+      "end_date": "2000-12-31",
+      "filename": "0bf3e788bf60.json"
+    },
+    "1fd0478bf18a": {
+      "county_id": "nes_phelps",
+      "name": "PHELPS",
+      "start_date": "1873-02-11",
+      "end_date": "2000-12-31",
+      "filename": "1fd0478bf18a.json"
+    },
+    "87799eed8cbd": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1873-02-18",
+      "end_date": "1873-03-02",
+      "filename": "87799eed8cbd.json"
+    },
+    "12e04d9053f4": {
+      "county_id": "nes_nca6",
+      "name": "NCA 6",
+      "start_date": "1873-02-11",
+      "end_date": "1873-02-26",
+      "filename": "12e04d9053f4.json"
+    },
+    "abe18fbaed0a": {
+      "county_id": "sds_gregory",
+      "name": "GREGORY (S.D.)",
+      "start_date": "1873-01-08",
+      "end_date": "1882-05-22",
+      "filename": "abe18fbaed0a.json"
+    },
+    "911a6730f34f": {
+      "county_id": "sds_todd01",
+      "name": "TODD (S.D., orig)",
+      "start_date": "1873-01-08",
+      "end_date": "1882-05-22",
+      "filename": "911a6730f34f.json"
+    },
+    "8bed16bedba8": {
+      "county_id": "sds_tripp",
+      "name": "TRIPP (S.D.)",
+      "start_date": "1873-01-08",
+      "end_date": "1882-05-22",
+      "filename": "8bed16bedba8.json"
+    },
+    "19d97ca614b2": {
+      "county_id": "dkt_ftrandall",
+      "name": "Ft. Randall Mil Res",
+      "start_date": "1873-01-08",
+      "end_date": "1882-05-22",
+      "filename": "19d97ca614b2.json"
+    },
+    "0d11066e7553": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1873-01-08",
+      "end_date": "1873-02-26",
+      "filename": "0d11066e7553.json"
+    },
+    "b3ac6641b7ec": {
+      "county_id": "nes_cedar",
+      "name": "CEDAR",
+      "start_date": "1875-02-05",
+      "end_date": "2000-12-31",
+      "filename": "b3ac6641b7ec.json"
+    },
+    "21b3c54bfcd1": {
+      "county_id": "nes_dodge",
+      "name": "DODGE",
+      "start_date": "1875-02-25",
+      "end_date": "2000-12-31",
+      "filename": "21b3c54bfcd1.json"
+    },
+    "bb77e64f6982": {
+      "county_id": "nes_pierce",
+      "name": "PIERCE",
+      "start_date": "1875-02-05",
+      "end_date": "2000-12-31",
+      "filename": "bb77e64f6982.json"
+    },
+    "505aef975b63": {
+      "county_id": "nes_washington",
+      "name": "WASHINGTON",
+      "start_date": "1875-02-25",
+      "end_date": "2000-12-31",
+      "filename": "505aef975b63.json"
+    },
+    "01327af2f832": {
+      "county_id": "nes_nca7",
+      "name": "NCA 7",
+      "start_date": "1875-02-04",
+      "end_date": "1877-02-16",
+      "filename": "01327af2f832.json"
+    },
+    "e59217bfd083": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1875-02-04",
+      "end_date": "1877-02-16",
+      "filename": "e59217bfd083.json"
+    },
+    "bc366f44b141": {
+      "county_id": "nes_hayes",
+      "name": "HAYES",
+      "start_date": "1877-02-19",
+      "end_date": "2000-12-31",
+      "filename": "bc366f44b141.json"
+    },
+    "2e255b5342fc": {
+      "county_id": "nes_sioux",
+      "name": "SIOUX",
+      "start_date": "1877-02-19",
+      "end_date": "1883-02-22",
+      "filename": "2e255b5342fc.json"
+    },
+    "4d203cd8731d": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1877-02-19",
+      "end_date": "1883-02-18",
+      "filename": "4d203cd8731d.json"
+    },
+    "9137b05ffb2e": {
+      "county_id": "nes_custer",
+      "name": "CUSTER",
+      "start_date": "1877-02-17",
+      "end_date": "2000-12-31",
+      "filename": "9137b05ffb2e.json"
+    },
+    "e8b730028d15": {
+      "county_id": "nes_wheeler",
+      "name": "WHEELER",
+      "start_date": "1877-02-17",
+      "end_date": "1884-10-03",
+      "filename": "e8b730028d15.json"
+    },
+    "3e1451168368": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1877-02-17",
+      "end_date": "1877-02-18",
+      "filename": "3e1451168368.json"
+    },
+    "4a8e649caecd": {
+      "county_id": "nes_wayne",
+      "name": "WAYNE",
+      "start_date": "1879-06-01",
+      "end_date": "1889-03-27",
+      "filename": "4a8e649caecd.json"
+    },
+    "88ac1c6b8885": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1879-06-01",
+      "end_date": "1889-03-27",
+      "filename": "88ac1c6b8885.json"
+    },
+    "babcd1735879": {
+      "county_id": "nes_nance",
+      "name": "NANCE",
+      "start_date": "1879-06-01",
+      "end_date": "1881-02-28",
+      "filename": "babcd1735879.json"
+    },
+    "9b63aa8fd730": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1879-02-22",
+      "end_date": "1889-03-27",
+      "filename": "9b63aa8fd730.json"
+    },
+    "7b1dce325e91": {
+      "county_id": "nes_omahareserve",
+      "name": "Omaha Reserve",
+      "start_date": "1879-02-22",
+      "end_date": "1879-05-31",
+      "filename": "7b1dce325e91.json"
+    },
+    "8977b406845b": {
+      "county_id": "nes_nance",
+      "name": "NANCE",
+      "start_date": "1881-03-01",
+      "end_date": "2000-12-31",
+      "filename": "8977b406845b.json"
+    },
+    "36d986b1a830": {
+      "county_id": "nes_nca8",
+      "name": "NCA 8",
+      "start_date": "1882-05-23",
+      "end_date": "1883-02-18",
+      "filename": "36d986b1a830.json"
+    },
+    "c983ed94a028": {
+      "county_id": "nes_cherry",
+      "name": "CHERRY",
+      "start_date": "1883-02-23",
+      "end_date": "2000-12-31",
+      "filename": "c983ed94a028.json"
+    },
+    "023eb206a2c7": {
+      "county_id": "nes_knox",
+      "name": "KNOX",
+      "start_date": "1883-06-01",
+      "end_date": "2000-12-31",
+      "filename": "023eb206a2c7.json"
+    },
+    "55e1e51eeb92": {
+      "county_id": "nes_loup",
+      "name": "LOUP",
+      "start_date": "1883-02-23",
+      "end_date": "2000-12-31",
+      "filename": "55e1e51eeb92.json"
+    },
+    "f8da02b88ec2": {
+      "county_id": "nes_nca8",
+      "name": "NCA 8",
+      "start_date": "1883-06-01",
+      "end_date": "1891-07-31",
+      "filename": "f8da02b88ec2.json"
+    },
+    "a33b3e202995": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1883-02-23",
+      "end_date": "1885-02-23",
+      "filename": "a33b3e202995.json"
+    },
+    "6f3d27fbbe83": {
+      "county_id": "nes_sioux",
+      "name": "SIOUX",
+      "start_date": "1883-02-23",
+      "end_date": "1885-02-18",
+      "filename": "6f3d27fbbe83.json"
+    },
+    "0ca15ee2783d": {
+      "county_id": "nes_brown",
+      "name": "BROWN",
+      "start_date": "1883-02-19",
+      "end_date": "1884-12-16",
+      "filename": "0ca15ee2783d.json"
+    },
+    "662a3b1b58dc": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1883-02-19",
+      "end_date": "1883-02-22",
+      "filename": "662a3b1b58dc.json"
+    },
+    "32640a7da09f": {
+      "county_id": "nes_nca8",
+      "name": "NCA 8",
+      "start_date": "1883-02-19",
+      "end_date": "1883-05-31",
+      "filename": "32640a7da09f.json"
+    },
+    "1a868c0ca319": {
+      "county_id": "nes_garfield",
+      "name": "GARFIELD",
+      "start_date": "1884-10-04",
+      "end_date": "2000-12-31",
+      "filename": "1a868c0ca319.json"
+    },
+    "80d51764e688": {
+      "county_id": "nes_keyapaha",
+      "name": "KEYA PAHA",
+      "start_date": "1884-12-17",
+      "end_date": "2000-12-31",
+      "filename": "80d51764e688.json"
+    },
+    "e8ce2a2da944": {
+      "county_id": "nes_wheeler",
+      "name": "WHEELER",
+      "start_date": "1884-10-04",
+      "end_date": "2000-12-31",
+      "filename": "e8ce2a2da944.json"
+    },
+    "3acf04b8d691": {
+      "county_id": "nes_brown",
+      "name": "BROWN",
+      "start_date": "1884-12-17",
+      "end_date": "1888-11-05",
+      "filename": "3acf04b8d691.json"
+    },
+    "2e2c6245dc0f": {
+      "county_id": "nes_blaine",
+      "name": "BLAINE",
+      "start_date": "1885-03-05",
+      "end_date": "2000-12-31",
+      "filename": "2e2c6245dc0f.json"
+    },
+    "e49f22879be2": {
+      "county_id": "nes_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1885-02-25",
+      "end_date": "2000-12-31",
+      "filename": "e49f22879be2.json"
+    },
+    "5df5e2342fee": {
+      "county_id": "nes_sioux",
+      "name": "SIOUX",
+      "start_date": "1885-02-25",
+      "end_date": "2000-12-31",
+      "filename": "5df5e2342fee.json"
+    },
+    "74ddadd03145": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1885-03-05",
+      "end_date": "1887-03-30",
+      "filename": "74ddadd03145.json"
+    },
+    "cd1c6b6ef2ab": {
+      "county_id": "nes_logan",
+      "name": "LOGAN",
+      "start_date": "1885-02-24",
+      "end_date": "2000-12-31",
+      "filename": "cd1c6b6ef2ab.json"
+    },
+    "794c46c798a0": {
+      "county_id": "nes_dawes",
+      "name": "DAWES",
+      "start_date": "1885-02-19",
+      "end_date": "1886-11-01",
+      "filename": "794c46c798a0.json"
+    },
+    "30efc43ff949": {
+      "county_id": "nes_sioux",
+      "name": "SIOUX",
+      "start_date": "1885-02-19",
+      "end_date": "1885-02-24",
+      "filename": "30efc43ff949.json"
+    },
+    "21e2c36096fc": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1885-02-24",
+      "end_date": "1885-03-04",
+      "filename": "21e2c36096fc.json"
+    },
+    "016c3569f3c3": {
+      "county_id": "nes_dawes",
+      "name": "DAWES",
+      "start_date": "1886-11-02",
+      "end_date": "2000-12-31",
+      "filename": "016c3569f3c3.json"
+    },
+    "eeb89a3a0ad5": {
+      "county_id": "nes_boxbutte",
+      "name": "BOX BUTTE",
+      "start_date": "1886-11-02",
+      "end_date": "2000-12-31",
+      "filename": "eeb89a3a0ad5.json"
+    },
+    "b90a97186f56": {
+      "county_id": "nes_keith",
+      "name": "KEITH",
+      "start_date": "1887-11-08",
+      "end_date": "2000-12-31",
+      "filename": "b90a97186f56.json"
+    },
+    "95589066740a": {
+      "county_id": "nes_mcpherson",
+      "name": "McPHERSON",
+      "start_date": "1887-03-31",
+      "end_date": "2000-12-31",
+      "filename": "95589066740a.json"
+    },
+    "7e9dbf00fae8": {
+      "county_id": "nes_perkins",
+      "name": "PERKINS",
+      "start_date": "1887-11-08",
+      "end_date": "2000-12-31",
+      "filename": "7e9dbf00fae8.json"
+    },
+    "1cd3b8ec33c6": {
+      "county_id": "nes_thomas",
+      "name": "THOMAS",
+      "start_date": "1887-03-31",
+      "end_date": "2000-12-31",
+      "filename": "1cd3b8ec33c6.json"
+    },
+    "eb8767c9fd55": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1887-03-31",
+      "end_date": "1895-04-07",
+      "filename": "eb8767c9fd55.json"
+    },
+    "827e6c322426": {
+      "county_id": "nes_grant",
+      "name": "GRANT",
+      "start_date": "1887-03-31",
+      "end_date": "1895-04-07",
+      "filename": "827e6c322426.json"
+    },
+    "bbea1b92c43d": {
+      "county_id": "nes_nca1",
+      "name": "NCA 1",
+      "start_date": "1887-03-31",
+      "end_date": "1889-03-28",
+      "filename": "bbea1b92c43d.json"
+    },
+    "58e98edfd4f0": {
+      "county_id": "nes_banner",
+      "name": "BANNER",
+      "start_date": "1888-11-06",
+      "end_date": "2000-12-31",
+      "filename": "58e98edfd4f0.json"
+    },
+    "aa3145b70c68": {
+      "county_id": "nes_brown",
+      "name": "BROWN",
+      "start_date": "1888-11-06",
+      "end_date": "2000-12-31",
+      "filename": "aa3145b70c68.json"
+    },
+    "65f07669d3f4": {
+      "county_id": "nes_kimball",
+      "name": "KIMBALL",
+      "start_date": "1888-11-06",
+      "end_date": "2000-12-31",
+      "filename": "65f07669d3f4.json"
+    },
+    "40138e1d0338": {
+      "county_id": "nes_rock",
+      "name": "ROCK",
+      "start_date": "1888-11-06",
+      "end_date": "2000-12-31",
+      "filename": "40138e1d0338.json"
+    },
+    "a45d633de68a": {
+      "county_id": "nes_scottsbluff",
+      "name": "SCOTTS BLUFF",
+      "start_date": "1888-11-06",
+      "end_date": "2000-12-31",
+      "filename": "a45d633de68a.json"
+    },
+    "7f0735f6ec3e": {
+      "county_id": "nes_cheyenne",
+      "name": "CHEYENNE",
+      "start_date": "1888-11-06",
+      "end_date": "1908-11-02",
+      "filename": "7f0735f6ec3e.json"
+    },
+    "649ec20d9f51": {
+      "county_id": "nes_deuel",
+      "name": "DEUEL",
+      "start_date": "1888-11-06",
+      "end_date": "1895-04-07",
+      "filename": "649ec20d9f51.json"
+    },
+    "afe26f046598": {
+      "county_id": "nes_burt",
+      "name": "BURT",
+      "start_date": "1889-03-28",
+      "end_date": "2000-12-31",
+      "filename": "afe26f046598.json"
+    },
+    "8747b66b920b": {
+      "county_id": "nes_hooker",
+      "name": "HOOKER",
+      "start_date": "1889-03-29",
+      "end_date": "2000-12-31",
+      "filename": "8747b66b920b.json"
+    },
+    "430692701682": {
+      "county_id": "nes_thurston",
+      "name": "THURSTON",
+      "start_date": "1889-03-28",
+      "end_date": "2000-12-31",
+      "filename": "430692701682.json"
+    },
+    "52ba39b7ff8f": {
+      "county_id": "nes_wayne",
+      "name": "WAYNE",
+      "start_date": "1889-03-28",
+      "end_date": "2000-12-31",
+      "filename": "52ba39b7ff8f.json"
+    },
+    "76745c894d6a": {
+      "county_id": "nes_boyd",
+      "name": "BOYD",
+      "start_date": "1891-08-01",
+      "end_date": "2000-12-31",
+      "filename": "76745c894d6a.json"
+    },
+    "73e08a388433": {
+      "county_id": "nes_deuel",
+      "name": "DEUEL",
+      "start_date": "1895-04-08",
+      "end_date": "1909-11-01",
+      "filename": "73e08a388433.json"
+    },
+    "27058ab15414": {
+      "county_id": "nes_grant",
+      "name": "GRANT",
+      "start_date": "1895-04-08",
+      "end_date": "1909-11-01",
+      "filename": "27058ab15414.json"
+    },
+    "5109c3e80c98": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1895-04-08",
+      "end_date": "1909-11-01",
+      "filename": "5109c3e80c98.json"
+    },
+    "112cf251536e": {
+      "county_id": "nes_morrill",
+      "name": "MORRILL",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "112cf251536e.json"
+    },
+    "6dda93194f84": {
+      "county_id": "nes_cheyenne",
+      "name": "CHEYENNE",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "6dda93194f84.json"
+    },
+    "44ddb1df7e39": {
+      "county_id": "nes_grant",
+      "name": "GRANT",
+      "start_date": "1909-11-02",
+      "end_date": "2000-12-31",
+      "filename": "44ddb1df7e39.json"
+    },
+    "d8e8abc1d9dc": {
+      "county_id": "nes_deuel",
+      "name": "DEUEL",
+      "start_date": "1909-11-02",
+      "end_date": "2000-12-31",
+      "filename": "d8e8abc1d9dc.json"
+    },
+    "a1f53e37a743": {
+      "county_id": "nes_overlap4",
+      "name": "Overlap Area 4",
+      "start_date": "1909-11-02",
+      "end_date": "1916-11-16",
+      "filename": "a1f53e37a743.json"
+    },
+    "2c88fd709469": {
+      "county_id": "nes_garden",
+      "name": "GARDEN",
+      "start_date": "1909-11-02",
+      "end_date": "1919-01-31",
+      "filename": "2c88fd709469.json"
+    },
+    "fce07d3c4040": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1909-11-02",
+      "end_date": "1916-11-16",
+      "filename": "fce07d3c4040.json"
+    },
+    "8d068bcb5fb4": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1916-11-17",
+      "end_date": "1921-04-26",
+      "filename": "8d068bcb5fb4.json"
+    },
+    "3f5853960ce1": {
+      "county_id": "nes_overlap4",
+      "name": "Overlap Area 4",
+      "start_date": "1916-11-17",
+      "end_date": "1919-01-31",
+      "filename": "3f5853960ce1.json"
+    },
+    "6adf60e4422a": {
+      "county_id": "nes_garden",
+      "name": "GARDEN",
+      "start_date": "1919-02-01",
+      "end_date": "1921-04-26",
+      "filename": "6adf60e4422a.json"
+    },
+    "84437ae2d0b5": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1921-04-27",
+      "end_date": "1925-03-30",
+      "filename": "84437ae2d0b5.json"
+    },
+    "2efb70ee0d61": {
+      "county_id": "nes_garden",
+      "name": "GARDEN",
+      "start_date": "1921-04-27",
+      "end_date": "1925-03-30",
+      "filename": "2efb70ee0d61.json"
+    },
+    "0d468287a92d": {
+      "county_id": "nes_garden",
+      "name": "GARDEN",
+      "start_date": "1925-03-31",
+      "end_date": "2000-12-31",
+      "filename": "0d468287a92d.json"
+    },
+    "883f5ea4a874": {
+      "county_id": "nes_arthur",
+      "name": "ARTHUR",
+      "start_date": "1925-03-31",
+      "end_date": "2000-12-31",
+      "filename": "883f5ea4a874.json"
+    }
+  }
+}

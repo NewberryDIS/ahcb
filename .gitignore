@@ -1,3 +1,5 @@
+static/videos
+
 # LLM instruction files
 PROMPT*
 _cast*

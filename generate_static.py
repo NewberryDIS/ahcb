@@ -1,7 +1,6 @@
-# /athf/about!/usr/bin/env python3
+# /usr/bin/env python3
 """
 Static site generator with incremental file copying and development server
-Generates a static version of the FastHTML site with efficient file management
 """
 
 import os
@@ -19,12 +18,12 @@ from typing import Dict, Set
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-BASE_PATH = "athf"
+BASE_PATH = "ahcb"
 SIMPLE_ROUTES = ["", "/about", "/maps", "/download", "/clear"]
 
 
 class IncrementalCopy:
-    """Handles efficient copying of files with modification time tracking"""
+    """Basically rsync"""
 
     def __init__(self, manifest_path: Path = Path("dist/.copy_manifest.json")):
         self.manifest_path = manifest_path
@@ -115,7 +114,7 @@ class StaticSiteGenerator:
         # Copy static directory
         if Path("static").exists():
             copied = self.copier.sync_directory(
-                Path("static"), self.output_dir / "athf" / "static"
+                Path("static"), self.output_dir / "ahcb" / "static"
             )
             total_copied += copied
             if copied > 0:
@@ -128,7 +127,7 @@ class StaticSiteGenerator:
         if Path("data").exists():
             copied = self.copier.sync_directory(
                 Path("data"),
-                self.output_dir / "athf" / "data",
+                self.output_dir / "ahcb" / "data",
                 extensions={".json"},  # Only copy JSON files from data
             )
             total_copied += copied
@@ -141,8 +140,8 @@ class StaticSiteGenerator:
         return total_copied
 
     def generate_html_pages(self):
-        """Generate HTML pages using FastHTML app"""
-        print("🔨 Generating HTML pages...")
+        """Generate HTML pages"""
+        print("Generating HTML...")
 
         # Import/reload the FastHTML app to pick up changes
         sys.path.insert(0, ".")
@@ -162,6 +161,30 @@ class StaticSiteGenerator:
         pages_generated = 0
 
         try:
+            for i in range(6):
+                try:
+                    li_response = client.get(f"/ahcb/animation/{i}")
+                    if li_response.status_code == 200:
+                        self.save_page(
+                            f"ahcb/animation/{i}/index.html", li_response.text
+                        )
+                        pages_generated += 1
+                    else:
+                        print(
+                            f"⚠️  Skipped animation #{i} (status {li_response.status_code})"
+                        )
+                    modal_response = client.get(f"/ahcb/animation/{i}/modal")
+                    if modal_response.status_code == 200:
+                        self.save_page(
+                            f"ahcb/animation/{i}/modal/index.html", modal_response.text
+                        )
+                        pages_generated += 1
+                    else:
+                        print(
+                            f"⚠️  Skipped animation #{i} (status {modal_response.status_code})"
+                        )
+                except Exception as e:
+                    print(f"⚠️  Error generating animation pages for #{i}: {e}")
             for r in SIMPLE_ROUTES:
                 response = client.get(f"/{BASE_PATH}{r}")
                 if response.status_code == 200:
@@ -171,10 +194,10 @@ class StaticSiteGenerator:
             # Individual state pages
             for state_code in STATE_NAMES.keys():
                 try:
-                    response = client.get(f"/athf/dl/{state_code}")
+                    response = client.get(f"/ahcb/dl/{state_code}")
                     if response.status_code == 200:
                         self.save_page(
-                            f"athf/dl/{state_code}/index.html", response.text
+                            f"ahcb/dl/{state_code}/index.html", response.text
                         )
                         pages_generated += 1
                     else:
@@ -182,11 +205,11 @@ class StaticSiteGenerator:
                             f"⚠️  Skipped {state_code} (status {response.status_code})"
                         )
                 except Exception as e:
-                    print(f"⚠️  Error generating {state_code}: {e}")
+                    print(f"Error generating {state_code}: {e}")
                 try:
-                    response = client.get(f"/athf/{state_code}")
+                    response = client.get(f"/ahcb/{state_code}")
                     if response.status_code == 200:
-                        self.save_page(f"athf/{state_code}/index.html", response.text)
+                        self.save_page(f"ahcb/{state_code}/index.html", response.text)
                         pages_generated += 1
                     else:
                         print(
@@ -195,16 +218,16 @@ class StaticSiteGenerator:
                 except Exception as e:
                     print(f"⚠️  Error generating {state_code}: {e}")
 
-            print(f"📄 Generated {pages_generated} HTML pages")
+            print(f"Generated {pages_generated} HTML pages")
 
         except Exception as e:
-            print(f"❌ Error generating pages: {e}")
+            print(f"Error generating pages: {e}")
             return False
 
         return True
 
     def save_page(self, path: str, content: str):
-        """Save a page to the output directory"""
+        """Save page to output dir"""
         file_path = self.output_dir / path
         file_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -212,16 +235,16 @@ class StaticSiteGenerator:
             f.write(content)
 
     def create_redirects(self):
-        """Create redirect files for compatibility"""
-        # Root redirect to /athf
+        """Create redirect files for compatibility with old ahcb"""
+        # Root redirect to /ahcb
         root_html = """<!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=/athf/">
+    <meta http-equiv="refresh" content="0; url=/ahcb/">
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, <a href="/athf/">click here</a>.</p>
+    <p>If you are not redirected automatically, <a href="/ahcb/">click here</a>.</p>
 </body>
 </html>"""
 
@@ -259,7 +282,7 @@ class StaticSiteGenerator:
 
 
 class DevRebuildHandler(FileSystemEventHandler):
-    """File watcher for development rebuilds"""
+    """File watcher for dev"""
 
     def __init__(self, generator: StaticSiteGenerator):
         self.generator = generator
@@ -321,7 +344,7 @@ class DevRebuildHandler(FileSystemEventHandler):
 
 
 class CustomHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
-    """Custom HTTP handler for serving the static site"""
+    """Custom HTTP handler for serving the local static site"""
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory="dist", **kwargs)
@@ -340,11 +363,11 @@ class CustomHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 
 def run_server(port: int = 8000):
-    """Run the development server"""
+    """Dev server"""
     try:
         with socketserver.TCPServer(("", port), CustomHTTPRequestHandler) as httpd:
             print(f"🌐 Development server running at http://localhost:{port}")
-            print(f"🌐 Atlas available at http://localhost:{port}/athf/")
+            print(f"🌐 Atlas available at http://localhost:{port}/ahcb/")
             print("📁 Serving from 'dist' directory")
             print("💡 Press Ctrl+C to stop")
             httpd.serve_forever()
@@ -352,18 +375,23 @@ def run_server(port: int = 8000):
         print("\n👋 Server stopped")
     except OSError as e:
         if e.errno == 48:  # Address already in use
-            print(f"❌ Port {port} is already in use")
-            return False
+            print(f"Port {port} is in use, trying next...")
+            # print(f"❌ Port {port} is already in use")
+            ascending_port = port + 1
+            run_server(ascending_port)
+            # return False
         else:
             print(f"❌ Server error: {e}")
             return False
     return True
 
 
-def is_port_in_use(port: int) -> bool:
-    """Check if port is in use."""
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        return s.connect_ex(("localhost", port)) == 0
+# def is_port_in_use(port: int) -> bool:
+#     while is_port_in_use(ascending_port):
+#         ascending_port += 1
+#     """Check if port is in use."""
+#     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+#         return s.connect_ex(("localhost", port)) == 0
 
 
 def main():
@@ -422,9 +450,6 @@ def main():
 
     ascending_port = args.port
     # Run development server
-    while is_port_in_use(ascending_port):
-        print(f"Port {ascending_port} is in use, trying next...")
-        ascending_port += 1
     try:
         run_server(args.port)
     except KeyboardInterrupt:

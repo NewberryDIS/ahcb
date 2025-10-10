@@ -2,7 +2,7 @@
 
 The downloads are available as the whole United States or as individual states. The data used in the _Atlas_ is readily available to download to be consulted, reviewed, and reused for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library. Please note that some files may contain the original, out-of-date copyright license; these can be ignored.
 
-## Download U.S. Files
+##  <a id="us-dl" >Download U.S. Files </a>
 
 ### US Historical States & Territories (1783-2000)
 

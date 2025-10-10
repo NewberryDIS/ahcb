@@ -1,20 +1,65 @@
-# About the Project
+# About the Atlas
 
-The Atlas of Historical County Boundaries provides maps and text about the creation and subsequent changes in the size, shape, and location of every county in the fifty United States and the District of Columbia until 2012. It also includes non-county areas, unsuccessful authorizations for new counties, changes in county names and organization, and the temporary attachments of non-county areas and unorganized counties to fully functioning counties. The principal sources are the most authoritative available: the session laws of the colonies, territories, and states that created and changed the counties.
+The Atlas of Historical County Boundaries is a comprehensive resource on the creation and evolution of every U.S. county, from the colonial period through 2012. Developed at the Newberry Library in Chicago, it provides maps, chronologies, and metadata documenting every boundary change.
 
-The Atlas of Historical County Boundaries successfully completed the project of documenting boundary changes in all 50 states in June 2010. The national data files were contributed in 2012. The atlas is not being updated with any new boundary changes. For more recent boundary data, please consult the NHGIS. The project was supported throughout its work by several current and past research centers at The Newberry Library in Chicago.
+## FAQ
 
-## Access and Metadata
+### What is the Atlas of Historical County Boundaries?
 
-The Newberry makes the contents of this site available for reuse without permission under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Accompanying the data for each state and its counties are two versions of the essential metadata: one an extensive, detailed document following the Federal Geographic Data Committee (FGDC) model, the other a one-page summary.
+The Atlas provides maps and documentation of the creation and changes to every county in the fifty U.S. states and the District of Columbia up to 2012. It also covers:
 
-## History of the Atlas
+- Non-county areas
+- Unsuccessful authorizations for new counties
+- Changes in county names and organizations
+- Temporary attachments of unorganized areas to functioning counties
 
-The Atlas was conceived in 1975 after historians working on the Atlas of Early American History (1976) at the Newberry Library in Chicago discovered the nearly complete lack of reliable maps of American counties in the revolutionary and early national periods. The U.S. Historical County Boundary Data File Project was launched in 1976 at the Newberry to create a cartographic database of county boundaries for the period from 1788 to 1980. Principal funding was provided by a grant from the National Endowment for the Humanities with additional support from private individuals and foundations. The Newberry served as sponsor and headquarters. The choice of a digital product was based upon a desire to adopt the most economical mapmaking practices—gains in efficiency over manual practices was a theme emphasized by proponents of the then new cartographic technology—and to demonstrate the applicability of that technology to historical cartography. The cartographic laboratory at the University of Wisconsin, Madison, performed the digital cartography. As the first project of its type, the Newberry undertaking necessarily had a strong experimental quality; it was, in effect, an early version of the current Atlas.
+The principal sources are the official session laws of colonies, territories, and states.
 
-Once news of the project spread, many potential users asked that the data also be published in the traditional form of books because few of them had access to the facilities needed to utilize a cartographic database. By late 1982, when the project concluded, staff had compiled data on the evolution of county boundaries in fourteen states during the nineteenth and twentieth centuries. The results were disseminated in five volumes published by G. K. Hall, the Historical Atlas and Chronology of County Boundaries, 1788–1980 (1984), and in a cartographic database, County Boundaries of Selected United States Territories/States, 1790–1980 (ICPSR 9025), deposited with the Inter-University Consortium for Political and Social Research (ICPSR) in Ann Arbor.
+### Why does the Atlas stop at 2000 (or 2012)?
 
-The success of this first project led to this Atlas, which was launched in 1987. The goal was to provide reliable and accessible data on historical county changes for the entire nation from the colonial period onwards. All work, from historical compilation through computerized mapmaking, was concentrated at the Newberry, with principal funding from the National Endowment for the Humanities and additional support from private individuals and foundations. The project officially finished in 2012 at which point the maintenance of this site fell to the Hermon Dunlap Smith Center for the History of Cartography at the Newberry.
+The Atlas project set out to cover county boundaries from the colonial era through the end of the 20th century.
+
+- Work documenting all 50 states was completed in 2010.
+- The national data files were contributed in 2012.
+
+The project is now closed and not being updated with new changes.
+
+For more recent data (post-2000), we recommend the NHGIS (National Historical Geographic Information System).
+
+### Can I send you corrections or report errors in the data?
+
+We welcome knowing when something looks wrong, but the project itself is no longer being updated. That means we cannot incorporate corrections or edits into the Atlas files. If you discover a likely error, you are still welcome to contact the Newberry Library—we may be able to make note of it for researchers, but it will not change the existing Atlas data.
+
+### Who created the Atlas?
+
+The Atlas was developed at the Newberry Library in Chicago, supported by the National Endowment for the Humanities and additional foundations and individuals.
+
+- First efforts began in 1975–76, when historians recognized the lack of reliable county boundary maps.
+- A pilot project produced data for 14 states, published in 1984 as Historical Atlas and Chronology of County Boundaries, 1788–1980.
+- The full Atlas launched in 1987 and concluded in 2012, with the Hermon Dunlap Smith Center for the History of Cartography at the Newberry maintaining the site.
+- In the summer of 2025, we rebuilt the site, due to a third-party vendor retiring a critical technological component.
+
+### Why was the Atlas originally created?
+
+Historians needed reliable maps of counties in the revolutionary and early national periods, but none existed. The Newberry’s project aimed to build a comprehensive cartographic database of county boundaries, both to serve historical research and to demonstrate the potential of digital cartography (still new at the time).
+
+### How is the data organized?
+
+For each state, the Atlas includes:
+
+- Boundary change maps
+- Chronological text descriptions
+- Metadata in two forms:
+  - A detailed FGDC-compliant document
+  - A one-page summary
+
+### Can I reuse the data?
+
+Yes. The Atlas data is released under Creative Commons CC0 1.0 Universal (Public Domain Dedication). You may use it without requesting permission.
+
+### What happened after the Atlas ended?
+
+By 2010, the project had documented all 50 states. The final national dataset was released in 2012. No further updates are planned.For ongoing county boundary research or more recent data, consult NHGIS or other contemporary GIS resources.
 
 ## Credits
 
@@ -44,7 +89,7 @@ This updated site was launched in 2025 with a fully reimagined codebase and user
 
 - **[Jen Wolfe](https://n3w.srht.site/jen/)**: Project Manager
 - **[Nicolas White](https://n3w.srht.site/)**: Lead Developer and Data Engineer
-- **[Parker Otto](https://parkerotto.github.io/):** Contributing Developer
+- **[Parker Otto](https://www.linkedin.com/in/parker-otto/):** Contributing Developer
 - **[David Weimer](https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps)**: Project Director
 
 ![National Endowment for the Humanities logo](/athf/static/images/nehlogo.webp)

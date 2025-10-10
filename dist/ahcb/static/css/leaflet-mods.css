@@ -1,0 +1,73 @@
+.leaflet-left .leaflet-control {
+  /* margin-left: 0 !important; */
+}
+
+.leaflet-bottom.double-size:has(.leaflet-timeline-control) {
+  width: calc(50% - 150px) !important;
+  transform: scale(2);
+}
+
+.leaflet-bottom.one-point-five-size:has(.leaflet-timeline-control) {
+  width: calc(66.67% - 200px) !important;
+  transform: scale(1.5);
+}
+.leaflet-bottom:has(.leaflet-timeline-control) {
+  width: calc(100% - 300px) !important;
+  transform: scale(1);
+}
+
+.leaflet-bottom:has(.leaflet-timeline-control) {
+  transform-origin: bottom left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1.5rem;
+}
+
+.leaflet-bar,
+.leaflet-control-layers,
+.leaflet-timeline-control {
+  border-radius: 0 !important;
+  border: 1px solid var(--tl-fg-color) !important;
+}
+
+.leaflet-timeline-control {
+  margin: 0 !important;
+  background: var(--tl-bg-color) !important;
+  color: var(--tl-fg-color) !important;
+}
+
+.leaflet-control-layers .button-container button {
+  margin: 1px;
+  background-color: var(--tl-bg-color) !important;
+  border-radius: 0 !important;
+
+  border: 1px solid var(--tl-fg-color) !important;
+}
+
+/* .leaflet-timeline-control input[type="range"] { */
+/*   background: var(--accent-bg-color) !important; */
+/* } */
+
+.leaflet-control.leaflet-timeline-control .button-container button.next::after,
+.leaflet-control.leaflet-timeline-control
+  .button-container
+  button.play::before {
+  border-left-color: var(--tl-fg-color) !important;
+}
+
+.leaflet-control.leaflet-timeline-control
+  .button-container
+  button.next::before {
+  background: var(--tl-fg-color) !important;
+}
+
+.leaflet-control.leaflet-timeline-control
+  .button-container
+  button.prev::before {
+  background: var(--tl-fg-color) !important;
+}
+
+.leaflet-control.leaflet-timeline-control .button-container button.prev::after {
+  border-right-color: var(--tl-fg-color) !important;
+}

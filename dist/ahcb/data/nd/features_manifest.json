@@ -1,0 +1,741 @@
+{
+  "state": "ND",
+  "total_features": 105,
+  "features": {
+    "1bbe4ff7545f": {
+      "county_id": "nds_nca9",
+      "name": "NCA 9",
+      "start_date": "1889-11-02",
+      "end_date": "1896-11-02",
+      "filename": "1bbe4ff7545f.json"
+    },
+    "ce1d63802d49": {
+      "county_id": "nds_ramsey",
+      "name": "RAMSEY",
+      "start_date": "1890-11-04",
+      "end_date": "2000-12-31",
+      "filename": "ce1d63802d49.json"
+    },
+    "6688a15e7957": {
+      "county_id": "nds_williams",
+      "name": "WILLIAMS",
+      "start_date": "1891-03-02",
+      "end_date": "1910-11-07",
+      "filename": "6688a15e7957.json"
+    },
+    "bc85fceac326": {
+      "county_id": "nds_mercer",
+      "name": "MERCER",
+      "start_date": "1892-11-08",
+      "end_date": "1896-11-02",
+      "filename": "bc85fceac326.json"
+    },
+    "f2d5ccebfb7b": {
+      "county_id": "nds_mclean",
+      "name": "McLEAN",
+      "start_date": "1892-11-08",
+      "end_date": "1908-11-02",
+      "filename": "f2d5ccebfb7b.json"
+    },
+    "be2429af513d": {
+      "county_id": "nds_ward",
+      "name": "WARD",
+      "start_date": "1892-11-08",
+      "end_date": "1909-01-15",
+      "filename": "be2429af513d.json"
+    },
+    "7bbbfc256d88": {
+      "county_id": "nds_pierce",
+      "name": "PIERCE",
+      "start_date": "1892-11-08",
+      "end_date": "2000-12-31",
+      "filename": "7bbbfc256d88.json"
+    },
+    "72a677506e0e": {
+      "county_id": "nds_bottineau",
+      "name": "BOTTINEAU",
+      "start_date": "1892-11-08",
+      "end_date": "2000-12-31",
+      "filename": "72a677506e0e.json"
+    },
+    "f72191501871": {
+      "county_id": "nds_mchenry",
+      "name": "McHENRY",
+      "start_date": "1892-11-08",
+      "end_date": "2000-12-31",
+      "filename": "f72191501871.json"
+    },
+    "ddec4821858b": {
+      "county_id": "nds_nca23",
+      "name": "NCA 23",
+      "start_date": "1892-11-08",
+      "end_date": "1896-11-02",
+      "filename": "ddec4821858b.json"
+    },
+    "00369f8a7921": {
+      "county_id": "nds_mercer",
+      "name": "MERCER",
+      "start_date": "1896-11-03",
+      "end_date": "1901-05-23",
+      "filename": "00369f8a7921.json"
+    },
+    "889dae2c7f92": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1896-11-03",
+      "end_date": "1901-05-23",
+      "filename": "889dae2c7f92.json"
+    },
+    "074aa1f1afe1": {
+      "county_id": "nds_stark",
+      "name": "STARK",
+      "start_date": "1896-11-03",
+      "end_date": "1901-05-23",
+      "filename": "074aa1f1afe1.json"
+    },
+    "40e2fed38892": {
+      "county_id": "nds_nca9",
+      "name": "NCA 9",
+      "start_date": "1896-11-03",
+      "end_date": "1914-09-02",
+      "filename": "40e2fed38892.json"
+    },
+    "e6dd89fcf87c": {
+      "county_id": "nds_hettinger",
+      "name": "HETTINGER",
+      "start_date": "1901-05-24",
+      "end_date": "1907-04-16",
+      "filename": "e6dd89fcf87c.json"
+    },
+    "79ad796c75ce": {
+      "county_id": "nds_bowman",
+      "name": "BOWMAN",
+      "start_date": "1901-05-24",
+      "end_date": "1904-11-07",
+      "filename": "79ad796c75ce.json"
+    },
+    "354179d5be71": {
+      "county_id": "nds_mercer",
+      "name": "MERCER",
+      "start_date": "1901-05-24",
+      "end_date": "2000-12-31",
+      "filename": "354179d5be71.json"
+    },
+    "bbadfb80d951": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1901-05-24",
+      "end_date": "1904-11-07",
+      "filename": "bbadfb80d951.json"
+    },
+    "9c0451540afa": {
+      "county_id": "nds_allred",
+      "name": "ALLRED (ext)",
+      "start_date": "1901-05-24",
+      "end_date": "1905-03-15",
+      "filename": "9c0451540afa.json"
+    },
+    "f294f78a80ff": {
+      "county_id": "nds_wallace",
+      "name": "WALLACE (ext)",
+      "start_date": "1901-05-24",
+      "end_date": "1905-03-15",
+      "filename": "f294f78a80ff.json"
+    },
+    "67715305b4d9": {
+      "county_id": "nds_mckenzie",
+      "name": "McKENZIE",
+      "start_date": "1901-05-24",
+      "end_date": "1905-03-15",
+      "filename": "67715305b4d9.json"
+    },
+    "72cb995ff30b": {
+      "county_id": "nds_dunn",
+      "name": "DUNN",
+      "start_date": "1901-05-24",
+      "end_date": "1908-01-17",
+      "filename": "72cb995ff30b.json"
+    },
+    "5f1aa6f1622a": {
+      "county_id": "nds_stark",
+      "name": "STARK",
+      "start_date": "1901-05-24",
+      "end_date": "1908-01-17",
+      "filename": "5f1aa6f1622a.json"
+    },
+    "6964dc76e49a": {
+      "county_id": "nds_nca23",
+      "name": "NCA 23",
+      "start_date": "1901-05-24",
+      "end_date": "1908-01-17",
+      "filename": "6964dc76e49a.json"
+    },
+    "a70c34e20973": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1904-11-08",
+      "end_date": "1907-06-09",
+      "filename": "a70c34e20973.json"
+    },
+    "98c2a0731ac2": {
+      "county_id": "nds_mckenzie",
+      "name": "McKENZIE",
+      "start_date": "1905-03-16",
+      "end_date": "2000-12-31",
+      "filename": "98c2a0731ac2.json"
+    },
+    "9cde2b8e1cef": {
+      "county_id": "nds_hettinger",
+      "name": "HETTINGER",
+      "start_date": "1907-04-17",
+      "end_date": "2000-12-31",
+      "filename": "9cde2b8e1cef.json"
+    },
+    "300ef8c79ae2": {
+      "county_id": "nds_adams",
+      "name": "ADAMS",
+      "start_date": "1907-04-17",
+      "end_date": "2000-12-31",
+      "filename": "300ef8c79ae2.json"
+    },
+    "50e07aa4b5a2": {
+      "county_id": "nds_bowman",
+      "name": "BOWMAN",
+      "start_date": "1907-06-10",
+      "end_date": "2000-12-31",
+      "filename": "50e07aa4b5a2.json"
+    },
+    "fa1742809e06": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1907-06-10",
+      "end_date": "1912-09-18",
+      "filename": "fa1742809e06.json"
+    },
+    "62a763afefaf": {
+      "county_id": "nds_mclean",
+      "name": "McLEAN",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "62a763afefaf.json"
+    },
+    "b6a4b1f4992f": {
+      "county_id": "nds_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1908-11-03",
+      "end_date": "2000-12-31",
+      "filename": "b6a4b1f4992f.json"
+    },
+    "c19dd380de9d": {
+      "county_id": "nds_dunn",
+      "name": "DUNN",
+      "start_date": "1908-01-18",
+      "end_date": "2000-12-31",
+      "filename": "c19dd380de9d.json"
+    },
+    "60460ef1dc79": {
+      "county_id": "nds_stark",
+      "name": "STARK",
+      "start_date": "1908-01-18",
+      "end_date": "2000-12-31",
+      "filename": "60460ef1dc79.json"
+    },
+    "9808dbf337c3": {
+      "county_id": "nds_mountrail",
+      "name": "MOUNTRAIL",
+      "start_date": "1909-01-16",
+      "end_date": "2000-12-31",
+      "filename": "9808dbf337c3.json"
+    },
+    "37451fbaf6c3": {
+      "county_id": "nds_ward",
+      "name": "WARD",
+      "start_date": "1909-01-16",
+      "end_date": "1910-07-11",
+      "filename": "37451fbaf6c3.json"
+    },
+    "23c4e7a7cd51": {
+      "county_id": "nds_divide",
+      "name": "DIVIDE",
+      "start_date": "1910-11-08",
+      "end_date": "2000-12-31",
+      "filename": "23c4e7a7cd51.json"
+    },
+    "a34f9fd8656c": {
+      "county_id": "nds_burke",
+      "name": "BURKE",
+      "start_date": "1910-07-12",
+      "end_date": "2000-12-31",
+      "filename": "a34f9fd8656c.json"
+    },
+    "16e85edecd50": {
+      "county_id": "nds_renville",
+      "name": "RENVILLE",
+      "start_date": "1910-07-12",
+      "end_date": "2000-12-31",
+      "filename": "16e85edecd50.json"
+    },
+    "ef979506fb3c": {
+      "county_id": "nds_ward",
+      "name": "WARD",
+      "start_date": "1910-07-12",
+      "end_date": "2000-12-31",
+      "filename": "ef979506fb3c.json"
+    },
+    "aaeafe73ba99": {
+      "county_id": "nds_williams",
+      "name": "WILLIAMS",
+      "start_date": "1910-11-08",
+      "end_date": "2000-12-31",
+      "filename": "aaeafe73ba99.json"
+    },
+    "b9b01fde5b64": {
+      "county_id": "nds_goldenvalley",
+      "name": "GOLDEN VALLEY",
+      "start_date": "1912-09-19",
+      "end_date": "2000-12-31",
+      "filename": "b9b01fde5b64.json"
+    },
+    "b23c3aaeb97d": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1912-09-19",
+      "end_date": "1914-11-02",
+      "filename": "b23c3aaeb97d.json"
+    },
+    "40965b20749f": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1914-11-03",
+      "end_date": "2000-12-31",
+      "filename": "40965b20749f.json"
+    },
+    "344e03d166d2": {
+      "county_id": "nds_slope",
+      "name": "SLOPE",
+      "start_date": "1914-11-03",
+      "end_date": "2000-12-31",
+      "filename": "344e03d166d2.json"
+    },
+    "742a2258cfe0": {
+      "county_id": "nds_sioux",
+      "name": "SIOUX",
+      "start_date": "1914-09-03",
+      "end_date": "2000-12-31",
+      "filename": "742a2258cfe0.json"
+    },
+    "e91beb35ded0": {
+      "county_id": "nds_morton",
+      "name": "MORTON",
+      "start_date": "1916-11-07",
+      "end_date": "2000-12-31",
+      "filename": "e91beb35ded0.json"
+    },
+    "f01cd57f65f7": {
+      "county_id": "nds_grant",
+      "name": "GRANT",
+      "start_date": "1916-11-07",
+      "end_date": "2000-12-31",
+      "filename": "f01cd57f65f7.json"
+    },
+    "5af66732da40": {
+      "county_id": "nds_stutsman",
+      "name": "STUTSMAN",
+      "start_date": "1873-01-04",
+      "end_date": "2000-12-31",
+      "filename": "5af66732da40.json"
+    },
+    "4cd539a7caf7": {
+      "county_id": "nds_cass",
+      "name": "CASS",
+      "start_date": "1875-01-12",
+      "end_date": "2000-12-31",
+      "filename": "4cd539a7caf7.json"
+    },
+    "6ccddc2f6166": {
+      "county_id": "nds_emmons",
+      "name": "EMMONS",
+      "start_date": "1879-02-10",
+      "end_date": "2000-12-31",
+      "filename": "6ccddc2f6166.json"
+    },
+    "134cb05a08a5": {
+      "county_id": "nds_walsh",
+      "name": "WALSH",
+      "start_date": "1881-05-02",
+      "end_date": "2000-12-31",
+      "filename": "134cb05a08a5.json"
+    },
+    "ba49c9349237": {
+      "county_id": "nds_dickey",
+      "name": "DICKEY",
+      "start_date": "1881-03-05",
+      "end_date": "2000-12-31",
+      "filename": "ba49c9349237.json"
+    },
+    "f7dec8e6aea5": {
+      "county_id": "nds_barnes",
+      "name": "BARNES",
+      "start_date": "1881-02-18",
+      "end_date": "2000-12-31",
+      "filename": "f7dec8e6aea5.json"
+    },
+    "357f961cccc3": {
+      "county_id": "nds_griggs",
+      "name": "GRIGGS",
+      "start_date": "1883-06-02",
+      "end_date": "2000-12-31",
+      "filename": "357f961cccc3.json"
+    },
+    "d74e14071485": {
+      "county_id": "nds_steele",
+      "name": "STEELE",
+      "start_date": "1883-06-02",
+      "end_date": "2000-12-31",
+      "filename": "d74e14071485.json"
+    },
+    "1e302936e57e": {
+      "county_id": "nds_traill",
+      "name": "TRAILL",
+      "start_date": "1883-06-02",
+      "end_date": "2000-12-31",
+      "filename": "1e302936e57e.json"
+    },
+    "4a9858bff38f": {
+      "county_id": "nds_sargent",
+      "name": "SARGENT",
+      "start_date": "1883-04-09",
+      "end_date": "2000-12-31",
+      "filename": "4a9858bff38f.json"
+    },
+    "c0920fd17936": {
+      "county_id": "nds_ransom",
+      "name": "RANSOM",
+      "start_date": "1883-04-09",
+      "end_date": "2000-12-31",
+      "filename": "c0920fd17936.json"
+    },
+    "7d3d0c28a749": {
+      "county_id": "nds_towner",
+      "name": "TOWNER",
+      "start_date": "1883-03-08",
+      "end_date": "2000-12-31",
+      "filename": "7d3d0c28a749.json"
+    },
+    "a3d58c5a4741": {
+      "county_id": "nds_grandforks",
+      "name": "GRAND FORKS",
+      "start_date": "1883-03-02",
+      "end_date": "2000-12-31",
+      "filename": "a3d58c5a4741.json"
+    },
+    "3bcd2ec99b1d": {
+      "county_id": "nds_nelson",
+      "name": "NELSON",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "3bcd2ec99b1d.json"
+    },
+    "f7c679b77f41": {
+      "county_id": "nds_logan",
+      "name": "LOGAN",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "f7c679b77f41.json"
+    },
+    "a5f90404d156": {
+      "county_id": "nds_lamoure",
+      "name": "LA MOURE",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "a5f90404d156.json"
+    },
+    "433fe419aacd": {
+      "county_id": "nds_mcintosh",
+      "name": "McINTOSH",
+      "start_date": "1883-03-09",
+      "end_date": "2000-12-31",
+      "filename": "433fe419aacd.json"
+    },
+    "1c56d275d322": {
+      "county_id": "nds_flannery",
+      "name": "FLANNERY (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1891-03-01",
+      "filename": "1c56d275d322.json"
+    },
+    "5a31d90eb969": {
+      "county_id": "nds_buford",
+      "name": "BUFORD (ext)",
+      "start_date": "1883-03-09",
+      "end_date": "1891-03-01",
+      "filename": "5a31d90eb969.json"
+    },
+    "072da5b9078d": {
+      "county_id": "nds_oliver",
+      "name": "OLIVER",
+      "start_date": "1885-04-14",
+      "end_date": "2000-12-31",
+      "filename": "072da5b9078d.json"
+    },
+    "82939ec65018": {
+      "county_id": "nds_ramsey",
+      "name": "RAMSEY",
+      "start_date": "1885-04-28",
+      "end_date": "1890-11-03",
+      "filename": "82939ec65018.json"
+    },
+    "1e2c1dd6e4a1": {
+      "county_id": "nds_benson",
+      "name": "BENSON",
+      "start_date": "1885-04-28",
+      "end_date": "2000-12-31",
+      "filename": "1e2c1dd6e4a1.json"
+    },
+    "cb09d4334dca": {
+      "county_id": "nds_mercer",
+      "name": "MERCER",
+      "start_date": "1885-04-14",
+      "end_date": "1892-11-07",
+      "filename": "cb09d4334dca.json"
+    },
+    "41b07b077c42": {
+      "county_id": "nds_stevens",
+      "name": "STEVENS (ext)",
+      "start_date": "1885-04-14",
+      "end_date": "1892-11-07",
+      "filename": "41b07b077c42.json"
+    },
+    "a4c75fdd57a0": {
+      "county_id": "nds_williams01",
+      "name": "WILLIAMS (orig)",
+      "start_date": "1885-04-14",
+      "end_date": "1892-11-07",
+      "filename": "a4c75fdd57a0.json"
+    },
+    "27c4e2b12075": {
+      "county_id": "nds_nca18",
+      "name": "NCA 18",
+      "start_date": "1885-05-12",
+      "end_date": "1890-11-03",
+      "filename": "27c4e2b12075.json"
+    },
+    "4cbf227cbee8": {
+      "county_id": "nds_burleigh",
+      "name": "BURLEIGH",
+      "start_date": "1885-04-06",
+      "end_date": "2000-12-31",
+      "filename": "4cbf227cbee8.json"
+    },
+    "5e620d75d3f9": {
+      "county_id": "nds_mclean",
+      "name": "McLEAN",
+      "start_date": "1885-04-06",
+      "end_date": "1892-11-07",
+      "filename": "5e620d75d3f9.json"
+    },
+    "56ff596f5874": {
+      "county_id": "nds_wells",
+      "name": "WELLS",
+      "start_date": "1885-03-31",
+      "end_date": "2000-12-31",
+      "filename": "56ff596f5874.json"
+    },
+    "9ae14a26bac2": {
+      "county_id": "nds_eddy",
+      "name": "EDDY",
+      "start_date": "1885-03-31",
+      "end_date": "2000-12-31",
+      "filename": "9ae14a26bac2.json"
+    },
+    "7ddd2dfab545": {
+      "county_id": "nds_foster",
+      "name": "FOSTER",
+      "start_date": "1885-03-31",
+      "end_date": "2000-12-31",
+      "filename": "7ddd2dfab545.json"
+    },
+    "122c1a283c33": {
+      "county_id": "nds_kidder",
+      "name": "KIDDER",
+      "start_date": "1885-03-10",
+      "end_date": "2000-12-31",
+      "filename": "122c1a283c33.json"
+    },
+    "fa708ab9c30b": {
+      "county_id": "nds_richland",
+      "name": "RICHLAND",
+      "start_date": "1885-03-09",
+      "end_date": "2000-12-31",
+      "filename": "fa708ab9c30b.json"
+    },
+    "a146e608309f": {
+      "county_id": "nds_wallace",
+      "name": "WALLACE (ext)",
+      "start_date": "1885-03-10",
+      "end_date": "1896-11-02",
+      "filename": "a146e608309f.json"
+    },
+    "2a30078c3dc7": {
+      "county_id": "nds_allred",
+      "name": "ALLRED (ext)",
+      "start_date": "1885-03-10",
+      "end_date": "1896-11-02",
+      "filename": "2a30078c3dc7.json"
+    },
+    "d12c441b8d44": {
+      "county_id": "nds_mckenzie",
+      "name": "McKENZIE",
+      "start_date": "1885-03-10",
+      "end_date": "1896-11-02",
+      "filename": "d12c441b8d44.json"
+    },
+    "ea6fe415c2d0": {
+      "county_id": "nds_dunn",
+      "name": "DUNN",
+      "start_date": "1885-03-10",
+      "end_date": "1896-11-02",
+      "filename": "ea6fe415c2d0.json"
+    },
+    "cdc763f95afa": {
+      "county_id": "nds_garfield",
+      "name": "GARFIELD (ext)",
+      "start_date": "1885-03-13",
+      "end_date": "1892-11-07",
+      "filename": "cdc763f95afa.json"
+    },
+    "907891ec1ac5": {
+      "county_id": "nds_mountrail",
+      "name": "MOUNTRAIL",
+      "start_date": "1885-03-13",
+      "end_date": "1892-11-07",
+      "filename": "907891ec1ac5.json"
+    },
+    "b49e12465e8a": {
+      "county_id": "nds_bowman",
+      "name": "BOWMAN",
+      "start_date": "1885-03-10",
+      "end_date": "1896-11-02",
+      "filename": "b49e12465e8a.json"
+    },
+    "b77ccbdfc858": {
+      "county_id": "nds_nca17",
+      "name": "NCA 17",
+      "start_date": "1885-03-13",
+      "end_date": "1892-11-07",
+      "filename": "b77ccbdfc858.json"
+    },
+    "a8a9311dbad9": {
+      "county_id": "nds_billings",
+      "name": "BILLINGS",
+      "start_date": "1887-03-13",
+      "end_date": "1896-11-02",
+      "filename": "a8a9311dbad9.json"
+    },
+    "729d01e653a1": {
+      "county_id": "nds_stark",
+      "name": "STARK",
+      "start_date": "1887-03-13",
+      "end_date": "1896-11-02",
+      "filename": "729d01e653a1.json"
+    },
+    "48ac7e244fe0": {
+      "county_id": "nds_ward",
+      "name": "WARD",
+      "start_date": "1887-05-01",
+      "end_date": "1892-11-07",
+      "filename": "48ac7e244fe0.json"
+    },
+    "ab7a18eea19d": {
+      "county_id": "nds_nca20",
+      "name": "NCA 20",
+      "start_date": "1887-05-01",
+      "end_date": "1892-11-07",
+      "filename": "ab7a18eea19d.json"
+    },
+    "ccc2d39dfd47": {
+      "county_id": "nds_nca21",
+      "name": "NCA 21",
+      "start_date": "1887-03-13",
+      "end_date": "1892-11-07",
+      "filename": "ccc2d39dfd47.json"
+    },
+    "f2608a6e3ed0": {
+      "county_id": "nds_pembina",
+      "name": "PEMBINA",
+      "start_date": "1887-03-11",
+      "end_date": "2000-12-31",
+      "filename": "f2608a6e3ed0.json"
+    },
+    "438fd56b7b45": {
+      "county_id": "nds_cavalier",
+      "name": "CAVALIER",
+      "start_date": "1887-03-11",
+      "end_date": "2000-12-31",
+      "filename": "438fd56b7b45.json"
+    },
+    "7549168dc4e0": {
+      "county_id": "nds_morton",
+      "name": "MORTON",
+      "start_date": "1887-02-18",
+      "end_date": "1916-11-06",
+      "filename": "7549168dc4e0.json"
+    },
+    "d519d9a2cad4": {
+      "county_id": "nds_rolette",
+      "name": "ROLETTE",
+      "start_date": "1887-03-11",
+      "end_date": "2000-12-31",
+      "filename": "d519d9a2cad4.json"
+    },
+    "74f2a3b5afdf": {
+      "county_id": "nds_bottineau",
+      "name": "BOTTINEAU",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "74f2a3b5afdf.json"
+    },
+    "6135c558b7b3": {
+      "county_id": "nds_renville",
+      "name": "RENVILLE",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "6135c558b7b3.json"
+    },
+    "393403bad191": {
+      "county_id": "nds_church",
+      "name": "CHURCH (ext)",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "393403bad191.json"
+    },
+    "3455603ec07a": {
+      "county_id": "nds_pierce",
+      "name": "PIERCE",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "3455603ec07a.json"
+    },
+    "2f298258fe2a": {
+      "county_id": "nds_mchenry",
+      "name": "McHENRY",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "2f298258fe2a.json"
+    },
+    "a6f47f0b56dc": {
+      "county_id": "nds_sheridan",
+      "name": "SHERIDAN",
+      "start_date": "1887-03-11",
+      "end_date": "1892-11-07",
+      "filename": "a6f47f0b56dc.json"
+    },
+    "2ae994121833": {
+      "county_id": "nds_hettinger",
+      "name": "HETTINGER",
+      "start_date": "1887-02-18",
+      "end_date": "1896-11-02",
+      "filename": "2ae994121833.json"
+    }
+  }
+}

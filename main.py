@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, Optional
 
-BASE_PATH = "/athf"
+BASE_PATH = "/ahcb"
 STATE_NAMES = {
     "al": "Alabama",
     "ak": "Alaska",
@@ -67,9 +67,9 @@ app, rt = fast_app(
         MarkdownJS(),
         Meta(charset="utf-8"),
         Meta(name="viewport", content="width=device-width, initial-scale=1"),
-        Link(rel="stylesheet", href="/athf/static/css/_base.css"),
-        Link(rel="stylesheet", href="/athf/static/css/_newberry.css"),
-        Link(rel="stylesheet", href="/athf/static/css/main.css"),
+        Link(rel="stylesheet", href="/ahcb/static/css/_base.css"),
+        Link(rel="stylesheet", href="/ahcb/static/css/_newberry.css"),
+        Link(rel="stylesheet", href="/ahcb/static/css/main.css"),
         Script(
             src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619", _async=True
         ),
@@ -140,7 +140,7 @@ def BasePage(
                 H1(
                     A(
                         "Atlas of Historical County Boundaries",
-                        href="/athf/",
+                        href="/ahcb/",
                         cls="link-lines",
                     )
                 ),
@@ -149,11 +149,11 @@ def BasePage(
                     Div(
                         menu_button,
                         Ul(
-                            Li(A("About", href=f"/athf/about")),
-                            Li(A("Downloads", href=f"/athf/download")),
-                            Li(A("All states", href=f"/athf/maps")),
+                            Li(A("About", href=f"/ahcb/about")),
+                            Li(A("Downloads", href=f"/ahcb/download")),
+                            Li(A("All states", href=f"/ahcb/maps")),
                             *[
-                                Li(A(name, href=f"/athf/{code}"))
+                                Li(A(name, href=f"/ahcb/{code}"))
                                 for code, name in STATE_NAMES.items()
                             ],
                         ),
@@ -168,9 +168,9 @@ def BasePage(
                 content,
             ),
         ),
-        Script(src="/athf/static/js/dark-mode-toggle.js"),
-        Script(src="/athf/static/js/newberry-logo.js"),
-        Script(src="/athf/static/js/main.js"),
+        Script(src="/ahcb/static/js/dark-mode-toggle.js"),
+        Script(src="/ahcb/static/js/newberry-logo.js"),
+        Script(src="/ahcb/static/js/main.js"),
         Script("""
 let navMenu;
         """),
@@ -189,7 +189,7 @@ def static_files(fname: str, ext: str):
 
 
 # Data file serving
-@rt("/athf/data/{path:path}")
+@rt("/ahcb/data/{path:path}")
 def data_files(path: str):
     return FileResponse(f"data/{path}")
 
@@ -225,7 +225,7 @@ def title_text(words, add_extra=False):
     # print(f"list of words : {list_of_words}")
     if add_extra:
         # axxaxxa = Div(Div(cls="ax"), Div(cls="xax"), Div(cls="xa"), cls="axxaxxa")
-        axxaxxa = Img(src="/athf/static/images/arrow.svg", cls="axxaxxa")
+        axxaxxa = Img(src="/ahcb/static/images/arrow.svg", cls="axxaxxa")
         redbox = (
             A(
                 P(
@@ -234,7 +234,7 @@ def title_text(words, add_extra=False):
                 ),
                 Div(cls="bg"),
                 NotStr(arrowSvg),
-                href="/athf/maps/",
+                href="/ahcb/maps/",
                 cls="redbox no-lines",
             ),
         )
@@ -246,7 +246,7 @@ def title_text(words, add_extra=False):
 
 
 # Home/Index page
-@rt("/athf")
+@rt("/ahcb")
 def home():
     page_title_text_1 = title_text("Atlas of")
     page_title_text_2 = title_text("Historical")
@@ -255,7 +255,7 @@ def home():
     return BasePage(
         css=(
             # Link(rel="stylesheet", href="/athf/static/css/index.css"),
-            Link(rel="stylesheet", href="/athf/static/css/jumbo_v2.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/jumbo_v2.css"),
         ),
         content=(
             Article(
@@ -270,7 +270,7 @@ def home():
     )
 
 
-@rt("/athf/clear")
+@rt("/ahcb/clear")
 def clear_htmx_route():
     return ""
 
@@ -282,7 +282,7 @@ with open("./md/download.md") as file:
     downloadMd = file.read()
 
 
-@rt("/athf/about")
+@rt("/ahcb/about")
 def about():
     return BasePage(
         title="About the Atlas of Historical County Boundaries",
@@ -290,7 +290,7 @@ def about():
     )
 
 
-@rt("/athf/download")
+@rt("/ahcb/download")
 def download():
     return BasePage(
         title="Download the AHCB data",
@@ -298,39 +298,152 @@ def download():
     )
 
 
-# @rt("/athf/mapbg")
-# def mapbg():
-#     return BasePage(
-#         title="Atlas of Historical County Boundaries",
-#         css=(
-#             Link(rel="stylesheet", href="/athf/static/css/all-maps.css"),
-#             Link(rel="stylesheet", href="/athf/static/css/leaflet.css"),
-#         ),
-#         js=(
-#             Script(src="/athf/static/js/leaflet.js"),
-#             Script(f"""
-#                 const stateLookup = {json.dumps(STATE_NAMES)};
-#             """),
-#             Script(src="/athf/static/js/map-nav.js"),
-#         ),
-#         content=(Div(id="usa-map"),),
-#     )
+videos = [
+    {
+        "video": "9KDJzkqCyIo",
+        "title": "US Historical State & Territorial Boundaries, 1783-2000 (3:00)",
+        "img": "us-states-territories-1783-2000-3min.webp",
+        "alt": "US Historical State & Territorial Boundaries, 1783-2000 (0:30) [graphic]",
+    },
+    {
+        "video": "7-0lM1g9iSs",
+        "title": "US Historical County Boundaries, 1629-2000 (0:30)",
+        "img": "us-counties-1629-2000.webp",
+        "alt": "US Historical County Boundaries, 1629-2000 [graphic]",
+    },
+    {
+        "video": "jJ-0HzEgOd0",
+        "title": "US Historical County Boundaries, 1629-2000 (3:00)",
+        "img": "us-counties-1629-2000-3min.webp",
+        "alt": "US Historical County Boundaries, 1629-2000 (3:00) [graphic]",
+    },
+    {
+        "video": "QEdDU3ho1oE",
+        "title": "US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (0:30)",
+        "img": "us-counties-territories-1629-2000.webp",
+        "alt": "US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (0:30) [graphic]",
+    },
+    {
+        "video": "X7WzKaqCaV4",
+        "title": "US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (3:00)",
+        "img": "us-counties-territories-1629-2000-3min.webp",
+        "alt": "US Historical County Boundaries (1629-2000), with State/Territorial boundaries (1783-2000) (3:00) [graphic]",
+    },
+    {
+        "video": "g5_j2UaOVDM",
+        "title": "US Historical State & Territorial Boundaries, 1783-2000 (0:30)",
+        "img": "us-states-territories-1783-2000.webp",
+        "alt": "US Historical State & Territorial Boundaries, 1783-2000 (0:30) [graphic]",
+    },
+    {
+        "video": "9KDJzkqCyIo",
+        "title": "US Historical State & Territorial Boundaries, 1783-2000 (3:00)",
+        "img": "us-states-territories-1783-2000-3min.webp",
+        "alt": "US Historical State & Territorial Boundaries, 1783-2000 (0:30) [graphic]",
+    },
+    {
+        "video": "7-0lM1g9iSs",
+        "title": "US Historical County Boundaries, 1629-2000 (0:30)",
+        "img": "us-counties-1629-2000.webp",
+        "alt": "US Historical County Boundaries, 1629-2000 [graphic]",
+    },
+]
+
+# @router.get("/animation/{idx}", response_class=HTMLResponse)
+# async def get_animation_li(
+#     request: Request,
+#     idx: Optional[int] = 0,
+# ):
+#     video = videos[idx]
+#     return get_template_response(
+#         "animations.html",
+#         {
+#             "request": request,
+#             "video": video,
+#         })
+# template = """
+# <li class="animation-li" style="--video-img: url({{video.image}});" onclick=??? >{{video.title}}</li>
+# """
 
 
-@rt("/athf/maps")
+@rt("/ahcb/animation/{idx}")
+def get_animation_li(idx: int = 0):
+    video = videos[idx]
+    return Div(
+        Img(
+            src=f"/ahcb/static/images/usanimations/{video['img']}",
+            cls="us-img",
+        ),
+        P(video["title"], cls="us-text"),
+        cls="link-wrapper animation-li",
+        hx_get=f"/ahcb/animation/{idx}/modal",
+        hx_target="#modal-container",
+        hx_swap="innerHTML",
+        role="button",
+        tabindex="0",
+    )
+
+
+@rt("/ahcb/animation/{idx}/modal")
+def get_animation_modal(idx: int):
+    video = videos[idx]
+    if video:
+        return Div(
+            Div(
+                hx_get="/ahcb/clear",
+                hx_target="#modal-container",
+                hx_swap="innerHTML",
+                cls="modal-backdrop",
+            ),
+            Div(
+                Button(
+                    "×",
+                    hx_get="/ahcb/clear",
+                    hx_target="#modal-container",
+                    hx_swap="innerHTML",
+                    cls="close-btn",
+                ),
+                H2(video["title"]),
+                Iframe(
+                    width="560",
+                    height="315",
+                    src=f"https://www.youtube.com/embed/{video['video']}",
+                    frameborder="0",
+                    allowfullscreen="",
+                ),
+                cls="modal-content",
+            ),
+            id="video-modal",
+            cls="modal",
+        )
+
+
+def video_index_button(i):
+    return Li(
+        Button(
+            i + 1,
+            cls="video-idx-btn",
+            id=f"video-idx-{i}",
+            hx_get=f"/ahcb/animation/{i}",
+            hx_target="#anim-li",
+        )
+    )
+
+
+@rt("/ahcb/maps")
 def all_maps_page():
     return BasePage(
         title="Atlas of Historical County Boundaries",
         css=(
-            Link(rel="stylesheet", href="/athf/static/css/all-maps.css"),
-            Link(rel="stylesheet", href="/athf/static/css/leaflet.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/all-maps.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/leaflet.css"),
         ),
         js=(
-            Script(src="/athf/static/js/leaflet.js"),
+            Script(src="/ahcb/static/js/leaflet.js"),
             Script(f"""
                 const stateLookup = {json.dumps(STATE_NAMES)};
             """),
-            Script(src="/athf/static/js/map-nav.js"),
+            Script(src="/ahcb/static/js/map-nav.js"),
         ),
         content=(
             Section(
@@ -357,20 +470,50 @@ def all_maps_page():
                 cls="map-nav",
             ),
             Article(
+                Section(
+                    A(
+                        I("Download national data"),
+                        Div(
+                            Img(
+                                src="/ahcb/static/images/usmap.svg",
+                                cls="us-img us-dl-img",
+                            ),
+                            P(
+                                "Data for the entire nation is available on the download page.  Historical commentary and metadata are also available.",
+                                cls="us-dl-caption",
+                            ),
+                            cls="link-wrapper",
+                        ),
+                        href="/ahcb/download#us-dl",
+                        cls="us-dl-link all-us-link",
+                    ),
+                    Div(
+                        I("View animations of national data"),
+                        Div(
+                            hx_get="/ahcb/animation/0",
+                            hx_trigger="load",
+                            id="anim-li",
+                        ),
+                        Ul(map(video_index_button, range(6)), cls="anim-ul"),
+                        cls="all-us-link",
+                    ),
+                    cls="all-us-links",
+                ),
+                Div(id="modal-container"),
                 Ul(
                     *[
                         Li(
                             A(
                                 H3(name, cls="state-name"),
                                 Img(
-                                    src=f"/athf/static/images/pcards/{code}_postcard_bg.webp",
+                                    src=f"/ahcb/static/images/pcards/{code}_postcard_bg.webp",
                                     cls="card-img",
                                 ),
                                 Img(
-                                    src=f"/athf/static/images/pcards/{code}_postcard_fg.webp",
+                                    src=f"/ahcb/static/images/pcards/{code}_postcard_fg.webp",
                                     cls="card-img-name",
                                 ),
-                                href=f"/athf/{code}",
+                                href=f"/ahcb/{code}",
                             ),
                             id=f"state-{code}",  # More specific ID
                             cls="state-postcard",
@@ -417,7 +560,7 @@ no_commentary = [
 
 
 # Main state page route
-@rt("/athf/{state_code}")
+@rt("/ahcb/{state_code}")
 def state_page(state_code: str):
     """Display the map page for a specific state"""
     state_data = load_state_data(state_code.lower())
@@ -427,7 +570,7 @@ def state_page(state_code: str):
         # print(f"date in datelinker: {date_str}")
         return Option(
             date_str,
-            value=f"/athf/{state_code.lower()}?date={date_str}",
+            value=f"/ahcb/{state_code.lower()}?date={date_str}",
             id=f"date-option-{date_str}",
         )
 
@@ -452,10 +595,10 @@ def state_page(state_code: str):
     return BasePage(
         title=f"{state_name} - Atlas of Historical County Boundaries",
         css=(
-            Link(rel="stylesheet", href="/athf/static/css/leaflet.css"),
-            Link(rel="stylesheet", href="/athf/static/css/leaflet-mods.css"),
-            Link(rel="stylesheet", href="/athf/static/css/map-page.css"),
-            Link(rel="stylesheet", href="/athf/static/css/download-modal.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/leaflet.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/leaflet-mods.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/map-page.css"),
+            Link(rel="stylesheet", href="/ahcb/static/css/download-modal.css"),
         ),
         js=(
             Script(f"""
@@ -478,9 +621,9 @@ def state_page(state_code: str):
                        }
 
             """),
-            Script(src="/athf/static/js/leaflet.js"),
-            Script(src="/athf/static/js/leaflet.timeline.min.js"),
-            Script(src="/athf/static/js/map.js"),
+            Script(src="/ahcb/static/js/leaflet.js"),
+            Script(src="/ahcb/static/js/leaflet.timeline.min.js"),
+            Script(src="/ahcb/static/js/map.js"),
             Script("""
                        // Initialize the map when DOM is loaded
                        document.addEventListener('DOMContentLoaded', function() {
@@ -558,7 +701,7 @@ def state_page(state_code: str):
     )
 
 
-@rt("/athf/dl/{state_code}")
+@rt("/ahcb/dl/{state_code}")
 def download_state(state_code: str):
     state_name = get_state_name(state_code)
     return (
@@ -596,14 +739,14 @@ def download_state(state_code: str):
                     "See our",
                     A(
                         "download page",
-                        href="/athf/download",
+                        href="/ahcb/download",
                         cls="link-lines in-text-link",
                     ),
                     "for more information and additional download options.",
                 ),
                 onclick="event.stopPropagation()",
             ),
-            hx_get="/athf/clear",
+            hx_get="/ahcb/clear",
             hx_swap="outerHTML",
             hx_target="#download-modal",
             id="download-modal",
@@ -615,73 +758,73 @@ def download_state(state_code: str):
 def static_usa_map():
     map_script = Script(
         """
-        // Initialize map with interactions disabled
-        const map = L.map('usa-map', {
-            zoomControl: false,        // Remove zoom buttons
-            scrollWheelZoom: false,    // Disable scroll zoom
-            doubleClickZoom: false,    // Disable double-click zoom
-            boxZoom: false,            // Disable box zoom
-            keyboard: false,           // Disable keyboard navigation
-            dragging: false,           // Disable panning/dragging
-            tap: false,                // Disable tap (mobile)
-            touchZoom: false,          // Disable pinch zoom
-            attributionControl: false  // Remove attribution
-        }).setView([39.8283, -98.5795], 4);
-        
-        // Simple base layer (you could even skip this for pure vector)
-        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        //     attribution: ''
-        // }).addTo(map);
-        
-        // Load and display states
-        fetch('/athf/static/us-states-albers.json' )
-            .then(response => response.json())
-            .then(statesData => {
-                L.geoJSON(statesData, {
+            // Initialize map with interactions disabled
+            const map = L.map('usa-map', {
+                zoomControl: false,        // Remove zoom buttons
+                scrollWheelZoom: false,    // Disable scroll zoom
+                doubleClickZoom: false,    // Disable double-click zoom
+                boxZoom: false,            // Disable box zoom
+                keyboard: false,           // Disable keyboard navigation
+                dragging: false,           // Disable panning/dragging
+                tap: false,                // Disable tap (mobile)
+                touchZoom: false,          // Disable pinch zoom
+                attributionControl: false  // Remove attribution
+            }).setView([39.8283, -98.5795], 4);
+            
+            // Simple base layer (you could even skip this for pure vector)
+            // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            //     attribution: ''
+            // }).addTo(map);
+            
+            // Load and display states
+            fetch('/ahcb/static/us-states-albers.json' )
+                .then(response => response.json())
+                .then(statesData => {
+                    L.geoJSON(statesData, {
 
-                    style: { 
-                        fillColor: 'var(--fg-color)',
-                        color: 'var(--bg-color)',
-                        weight: 1,
-                        fillOpacity: 0.8 
-                    },
-                    onEachFeature: function(feature, layer) {
-                        layer.on({
-                            mouseover: function(e) {
-                                e.target.setStyle({
-                                    fillColor: '#fff',
-                                    fillOpacity: 0.9,
-                                    weight: 2
-                                });
-                                const externalTT = document.getElementById('ex-tt');
-                                externalTT.innerText = feature.properties.NAME;
-                            },
-                            mouseout: function(e) {
-                                e.target.setStyle({
-                                    fillColor: 'var(--fg-color)', 
-                                    fillOpacity: 0.8,
-                                    weight: 1
-                                });
-                            },
-                            click: function(e) {
-                                const stateName = feature.properties.NAME.toLowerCase().replace(/\s+/g, '-');
-                                htmx.ajax('GET', `/state/${stateName}`, {target: 'body'});
-                            }
-                        });
-                        
-                        // Add tooltip with state name
-                        layer.bindTooltip(feature.properties.NAME, {
-                            permanent: false,
-                            anchor: '#usa-map',
-                             direction: 'center',
-                            className: 'state-tooltip'
-                        });
-                    }
-                }).addTo(map);
-                
-                // Optional: fit map to show all states perfectly
-                map.fitBounds(L.geoJSON(statesData).getBounds(), {padding: [10, 10]});
-            });
+                        style: { 
+                            fillColor: 'var(--fg-color)',
+                            color: 'var(--bg-color)',
+                            weight: 1,
+                            fillOpacity: 0.8 
+                        },
+                        onEachFeature: function(feature, layer) {
+                            layer.on({
+                                mouseover: function(e) {
+                                    e.target.setStyle({
+                                        fillColor: '#fff',
+                                        fillOpacity: 0.9,
+                                        weight: 2
+                                    });
+                                    const externalTT = document.getElementById('ex-tt');
+                                    externalTT.innerText = feature.properties.NAME;
+                                },
+                                mouseout: function(e) {
+                                    e.target.setStyle({
+                                        fillColor: 'var(--fg-color)', 
+                                        fillOpacity: 0.8,
+                                        weight: 1
+                                    });
+                                },
+                                click: function(e) {
+                                    const stateName = feature.properties.NAME.toLowerCase().replace(/\s+/g, '-');
+                                    htmx.ajax('GET', `/state/${stateName}`, {target: 'body'});
+                                }
+                            });
+                            
+                            // Add tooltip with state name
+                            layer.bindTooltip(feature.properties.NAME, {
+                                permanent: false,
+                                anchor: '#usa-map',
+                                 direction: 'center',
+                                className: 'state-tooltip'
+                            });
+                        }
+                    }).addTo(map);
+                    
+                    // Optional: fit map to show all states perfectly
+                    map.fitBounds(L.geoJSON(statesData).getBounds(), {padding: [10, 10]});
+                });
     """,
         type="module",
     )
@@ -692,14 +835,14 @@ def static_usa_map():
 @rt("/")
 def root():
     """Redirect root to atlas home"""
-    return RedirectResponse("/athf", status_code=303)
+    return RedirectResponse("/ahcb", status_code=303)
 
 
 # Handle 404s for invalid athf routes
 # Since it's a static site, 404s will be handled by apache
-@rt("/athf/{path:path}")
-def athf_404(path: str):
-    """Handle 404s for invalid ATHF routes"""
+@rt("/ahcb/{path:path}")
+def ahcb_404(path: str):
+    """Handle 404s for invalid AHCB routes"""
     return Titled(
         "Page Not Found",
         Div(f"'{path}' is not a valid state code", cls="error-message"),

@@ -1,0 +1,2246 @@
+{
+  "state": "MI",
+  "total_features": 320,
+  "features": {
+    "129e2beea13e": {
+      "county_id": "vas_illinois",
+      "name": "ILLINOIS (Va., ext)",
+      "start_date": "1778-12-09",
+      "end_date": "1784-02-29",
+      "filename": "129e2beea13e.json"
+    },
+    "ae7361cde4b3": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1784-03-01",
+      "end_date": "1787-07-12",
+      "filename": "ae7361cde4b3.json"
+    },
+    "d4a3c1ddc1d8": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1787-07-13",
+      "end_date": "1790-06-19",
+      "filename": "d4a3c1ddc1d8.json"
+    },
+    "9a8a927b910e": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1790-06-20",
+      "end_date": "1792-02-10",
+      "filename": "9a8a927b910e.json"
+    },
+    "3f19c49c928b": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1790-06-20",
+      "end_date": "1796-08-14",
+      "filename": "3f19c49c928b.json"
+    },
+    "1d2e5520012b": {
+      "county_id": "ohs_hamilton",
+      "name": "HAMILTON (Ohio)",
+      "start_date": "1792-02-11",
+      "end_date": "1796-08-14",
+      "filename": "1d2e5520012b.json"
+    },
+    "52590c743d20": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1792-02-11",
+      "end_date": "1796-08-14",
+      "filename": "52590c743d20.json"
+    },
+    "8cfceb4089c4": {
+      "county_id": "nwt_wayne",
+      "name": "WAYNE (N.W. Terr.)",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "8cfceb4089c4.json"
+    },
+    "c9e9e70a8b91": {
+      "county_id": "nwt_part",
+      "name": "Northwest Terr.",
+      "start_date": "1796-08-15",
+      "end_date": "1800-07-03",
+      "filename": "c9e9e70a8b91.json"
+    },
+    "4c2da9c163ee": {
+      "county_id": "nwt_wayne",
+      "name": "WAYNE (N.W. Terr.)",
+      "start_date": "1800-07-10",
+      "end_date": "1803-02-28",
+      "filename": "4c2da9c163ee.json"
+    },
+    "40a72b50ebe0": {
+      "county_id": "nwt_wayne",
+      "name": "WAYNE (N.W. Terr.)",
+      "start_date": "1800-07-04",
+      "end_date": "1800-07-09",
+      "filename": "40a72b50ebe0.json"
+    },
+    "311481cd12d2": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1800-07-04",
+      "end_date": "1801-02-02",
+      "filename": "311481cd12d2.json"
+    },
+    "ca4b371d45dd": {
+      "county_id": "ins_knox",
+      "name": "KNOX (Ind.)",
+      "start_date": "1801-02-03",
+      "end_date": "1803-02-28",
+      "filename": "ca4b371d45dd.json"
+    },
+    "934c6b40b624": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1801-02-03",
+      "end_date": "1803-02-28",
+      "filename": "934c6b40b624.json"
+    },
+    "bdeeb45e0603": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1803-05-01",
+      "end_date": "1809-04-27",
+      "filename": "bdeeb45e0603.json"
+    },
+    "720c7179be44": {
+      "county_id": "int_wayne",
+      "name": "WAYNE (Ind. Terr.)",
+      "start_date": "1803-03-01",
+      "end_date": "1805-06-29",
+      "filename": "720c7179be44.json"
+    },
+    "6af03fb8790a": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1803-03-01",
+      "end_date": "1803-04-30",
+      "filename": "6af03fb8790a.json"
+    },
+    "a9bba93a7e38": {
+      "county_id": "mit_detroitdistrict",
+      "name": "Detroit Dist.",
+      "start_date": "1805-07-03",
+      "end_date": "1811-12-31",
+      "filename": "a9bba93a7e38.json"
+    },
+    "e30c11a0a184": {
+      "county_id": "mit_eriedistrict",
+      "name": "Erie Dist.",
+      "start_date": "1805-07-03",
+      "end_date": "1816-12-10",
+      "filename": "e30c11a0a184.json"
+    },
+    "730d90a53786": {
+      "county_id": "mit_hurondistrict",
+      "name": "Huron Dist.",
+      "start_date": "1805-07-03",
+      "end_date": "1811-12-31",
+      "filename": "730d90a53786.json"
+    },
+    "3bd0e9f226de": {
+      "county_id": "mit_michilimackinacdistrict",
+      "name": "Michilimackinac Dist",
+      "start_date": "1805-07-03",
+      "end_date": "1816-10-17",
+      "filename": "3bd0e9f226de.json"
+    },
+    "9f5ea1ba7c5b": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1805-06-30",
+      "end_date": "1809-02-28",
+      "filename": "9f5ea1ba7c5b.json"
+    },
+    "24f9b16cdab1": {
+      "county_id": "mit",
+      "name": "Michigan Terr.",
+      "start_date": "1805-06-30",
+      "end_date": "1805-07-02",
+      "filename": "24f9b16cdab1.json"
+    },
+    "ba1bda416bff": {
+      "county_id": "mis_disputed",
+      "name": "Disputed Area",
+      "start_date": "1805-06-30",
+      "end_date": "1837-01-25",
+      "filename": "ba1bda416bff.json"
+    },
+    "f6490ea3ad11": {
+      "county_id": "ils_stclair",
+      "name": "ST. CLAIR (Ill.)",
+      "start_date": "1809-04-28",
+      "end_date": "1812-09-13",
+      "filename": "f6490ea3ad11.json"
+    },
+    "a39a63ac9333": {
+      "county_id": "int_part",
+      "name": "Indiana Terr.",
+      "start_date": "1809-03-01",
+      "end_date": "1816-12-10",
+      "filename": "a39a63ac9333.json"
+    },
+    "35fd20e19fef": {
+      "county_id": "ilt_part",
+      "name": "Illinois Terr.",
+      "start_date": "1809-03-01",
+      "end_date": "1809-04-27",
+      "filename": "35fd20e19fef.json"
+    },
+    "d85fe9a7c3f7": {
+      "county_id": "mit_hurondistrict",
+      "name": "Huron Dist.",
+      "start_date": "1812-01-01",
+      "end_date": "1818-10-01",
+      "filename": "d85fe9a7c3f7.json"
+    },
+    "0056e194d8e9": {
+      "county_id": "mit_detroitdistrict",
+      "name": "Detroit Dist.",
+      "start_date": "1812-01-01",
+      "end_date": "1818-10-01",
+      "filename": "0056e194d8e9.json"
+    },
+    "755b0b00163d": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1812-09-14",
+      "end_date": "1814-11-27",
+      "filename": "755b0b00163d.json"
+    },
+    "c1fbf0c41b36": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS (Ill.)",
+      "start_date": "1814-11-28",
+      "end_date": "1816-12-10",
+      "filename": "c1fbf0c41b36.json"
+    },
+    "b529d52188bf": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1814-11-28",
+      "end_date": "1817-01-03",
+      "filename": "b529d52188bf.json"
+    },
+    "75548adac89c": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1815-11-21",
+      "end_date": "1816-10-17",
+      "filename": "75548adac89c.json"
+    },
+    "f2201dad65e4": {
+      "county_id": "ils_crawford",
+      "name": "CRAWFORD (Ill.)",
+      "start_date": "1816-12-31",
+      "end_date": "1818-12-02",
+      "filename": "f2201dad65e4.json"
+    },
+    "e29a581e5fd4": {
+      "county_id": "mit_eriedistrict",
+      "name": "Erie Dist.",
+      "start_date": "1816-12-11",
+      "end_date": "1818-10-01",
+      "filename": "e29a581e5fd4.json"
+    },
+    "c0d46d1f9af3": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1816-10-18",
+      "end_date": "1817-07-13",
+      "filename": "c0d46d1f9af3.json"
+    },
+    "6a5d11d0683b": {
+      "county_id": "uft_part",
+      "name": "Unorg. Fed. Terr.",
+      "start_date": "1816-12-11",
+      "end_date": "1818-12-02",
+      "filename": "6a5d11d0683b.json"
+    },
+    "5ba35b58c157": {
+      "county_id": "ils_edwards",
+      "name": "EDWARDS (Ill.)",
+      "start_date": "1816-12-11",
+      "end_date": "1816-12-30",
+      "filename": "5ba35b58c157.json"
+    },
+    "c0299f45ebbc": {
+      "county_id": "ils_bond",
+      "name": "BOND (Ill.)",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "c0299f45ebbc.json"
+    },
+    "09e2b7b77472": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1817-07-14",
+      "end_date": "1818-01-14",
+      "filename": "09e2b7b77472.json"
+    },
+    "fd8a3df8d2e9": {
+      "county_id": "mis_monroe",
+      "name": "MONROE",
+      "start_date": "1817-07-14",
+      "end_date": "1822-09-09",
+      "filename": "fd8a3df8d2e9.json"
+    },
+    "d907d6a8f14d": {
+      "county_id": "ils_madison",
+      "name": "MADISON (Ill.)",
+      "start_date": "1817-01-04",
+      "end_date": "1818-12-02",
+      "filename": "d907d6a8f14d.json"
+    },
+    "8f1d6434a108": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1818-12-03",
+      "end_date": "1822-09-09",
+      "filename": "8f1d6434a108.json"
+    },
+    "0e48276dbb56": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-12-03",
+      "end_date": "1821-04-12",
+      "filename": "0e48276dbb56.json"
+    },
+    "c554982f097c": {
+      "county_id": "wis_brown",
+      "name": "BROWN (Wis.)",
+      "start_date": "1818-12-03",
+      "end_date": "1834-09-05",
+      "filename": "c554982f097c.json"
+    },
+    "d10502b145d2": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1818-12-03",
+      "end_date": "1821-04-12",
+      "filename": "d10502b145d2.json"
+    },
+    "ec616990120b": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD (Wis.)",
+      "start_date": "1818-12-03",
+      "end_date": "1829-12-31",
+      "filename": "ec616990120b.json"
+    },
+    "7af1084a039b": {
+      "county_id": "mis_macomb",
+      "name": "MACOMB",
+      "start_date": "1818-01-15",
+      "end_date": "1820-03-27",
+      "filename": "7af1084a039b.json"
+    },
+    "98f96468619e": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1818-01-15",
+      "end_date": "1818-12-02",
+      "filename": "98f96468619e.json"
+    },
+    "1d144cb126cc": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1818-10-02",
+      "end_date": "1818-12-02",
+      "filename": "1d144cb126cc.json"
+    },
+    "877e395d774c": {
+      "county_id": "mis_macomb",
+      "name": "MACOMB",
+      "start_date": "1820-03-28",
+      "end_date": "1821-05-07",
+      "filename": "877e395d774c.json"
+    },
+    "b25449224b39": {
+      "county_id": "mis_oakland",
+      "name": "OAKLAND",
+      "start_date": "1820-03-28",
+      "end_date": "1822-09-09",
+      "filename": "b25449224b39.json"
+    },
+    "72354ed3f8b2": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1821-04-13",
+      "end_date": "1822-09-09",
+      "filename": "72354ed3f8b2.json"
+    },
+    "bc55640473fd": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1821-04-13",
+      "end_date": "1822-09-09",
+      "filename": "bc55640473fd.json"
+    },
+    "92e849c8066f": {
+      "county_id": "mis_macomb",
+      "name": "MACOMB",
+      "start_date": "1821-05-08",
+      "end_date": "1822-09-09",
+      "filename": "92e849c8066f.json"
+    },
+    "bf05fea3211b": {
+      "county_id": "mis_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1821-05-08",
+      "end_date": "1822-09-09",
+      "filename": "bf05fea3211b.json"
+    },
+    "e61ada97e015": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1821-04-13",
+      "end_date": "1822-09-09",
+      "filename": "e61ada97e015.json"
+    },
+    "a92b73bba1ba": {
+      "county_id": "mis_oakland",
+      "name": "OAKLAND",
+      "start_date": "1822-09-10",
+      "end_date": "2000-12-31",
+      "filename": "a92b73bba1ba.json"
+    },
+    "a80560b472e4": {
+      "county_id": "mis_wayne",
+      "name": "WAYNE",
+      "start_date": "1822-09-10",
+      "end_date": "2000-12-31",
+      "filename": "a80560b472e4.json"
+    },
+    "55f29270a3dd": {
+      "county_id": "mis_lenawee",
+      "name": "LENAWEE",
+      "start_date": "1822-09-10",
+      "end_date": "1837-01-25",
+      "filename": "55f29270a3dd.json"
+    },
+    "db3f9abd05e3": {
+      "county_id": "mis_monroe",
+      "name": "MONROE",
+      "start_date": "1822-09-10",
+      "end_date": "1837-01-25",
+      "filename": "db3f9abd05e3.json"
+    },
+    "52dd03743c73": {
+      "county_id": "mis_lapeer",
+      "name": "LAPEER",
+      "start_date": "1822-09-10",
+      "end_date": "1835-03-27",
+      "filename": "52dd03743c73.json"
+    },
+    "cd7f77c1855d": {
+      "county_id": "mis_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1822-09-10",
+      "end_date": "1833-03-30",
+      "filename": "cd7f77c1855d.json"
+    },
+    "7ff6e9587071": {
+      "county_id": "mis_macomb",
+      "name": "MACOMB",
+      "start_date": "1822-09-10",
+      "end_date": "1833-03-30",
+      "filename": "7ff6e9587071.json"
+    },
+    "498452457d61": {
+      "county_id": "mis_sanilac",
+      "name": "SANILAC",
+      "start_date": "1822-09-10",
+      "end_date": "1840-03-31",
+      "filename": "498452457d61.json"
+    },
+    "252cbdd46fb6": {
+      "county_id": "mis_nca3",
+      "name": "NCA 3",
+      "start_date": "1822-09-10",
+      "end_date": "1829-09-21",
+      "filename": "252cbdd46fb6.json"
+    },
+    "99e9956386b5": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1822-09-10",
+      "end_date": "1826-12-30",
+      "filename": "99e9956386b5.json"
+    },
+    "4a2f50c1812c": {
+      "county_id": "mis_nca4",
+      "name": "NCA 4",
+      "start_date": "1822-09-10",
+      "end_date": "1829-10-28",
+      "filename": "4a2f50c1812c.json"
+    },
+    "1ed09b89f9ef": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1822-09-10",
+      "end_date": "1831-03-01",
+      "filename": "1ed09b89f9ef.json"
+    },
+    "433af4c51233": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1822-09-10",
+      "end_date": "1829-10-28",
+      "filename": "433af4c51233.json"
+    },
+    "dfe692c6fa1e": {
+      "county_id": "mis_shiawassee",
+      "name": "SHIAWASSEE",
+      "start_date": "1822-09-10",
+      "end_date": "1829-10-28",
+      "filename": "dfe692c6fa1e.json"
+    },
+    "d4963dc0bef8": {
+      "county_id": "mis_washtenaw",
+      "name": "WASHTENAW",
+      "start_date": "1822-09-10",
+      "end_date": "1829-10-28",
+      "filename": "d4963dc0bef8.json"
+    },
+    "8a3c25e4b654": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1822-09-10",
+      "end_date": "1827-01-31",
+      "filename": "8a3c25e4b654.json"
+    },
+    "d19778bab0ab": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1826-12-31",
+      "end_date": "1829-09-21",
+      "filename": "d19778bab0ab.json"
+    },
+    "29e3761250fe": {
+      "county_id": "mis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1827-02-01",
+      "end_date": "1836-07-02",
+      "filename": "29e3761250fe.json"
+    },
+    "577d5c8a41d3": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1827-02-01",
+      "end_date": "1831-03-01",
+      "filename": "577d5c8a41d3.json"
+    },
+    "8c8e544e87ad": {
+      "county_id": "mis_nca5",
+      "name": "NCA 5",
+      "start_date": "1829-11-04",
+      "end_date": "1830-09-30",
+      "filename": "8c8e544e87ad.json"
+    },
+    "7c8ff7739681": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1829-11-04",
+      "end_date": "1831-03-01",
+      "filename": "7c8ff7739681.json"
+    },
+    "4c8a7b17b311": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1829-11-04",
+      "end_date": "1831-03-01",
+      "filename": "4c8a7b17b311.json"
+    },
+    "b4405dda72d8": {
+      "county_id": "mis_berrien",
+      "name": "BERRIEN",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "b4405dda72d8.json"
+    },
+    "20a66d7eddaf": {
+      "county_id": "mis_branch",
+      "name": "BRANCH",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "20a66d7eddaf.json"
+    },
+    "0cf6a27659b5": {
+      "county_id": "mis_calhoun",
+      "name": "CALHOUN",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "0cf6a27659b5.json"
+    },
+    "8c12b769f570": {
+      "county_id": "mis_eaton",
+      "name": "EATON",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "8c12b769f570.json"
+    },
+    "551e6ccc38a2": {
+      "county_id": "mis_ingham",
+      "name": "INGHAM",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "551e6ccc38a2.json"
+    },
+    "e9518b948cf5": {
+      "county_id": "mis_jackson",
+      "name": "JACKSON",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "e9518b948cf5.json"
+    },
+    "9ebc9100f586": {
+      "county_id": "mis_kalamazoo",
+      "name": "KALAMAZOO",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "9ebc9100f586.json"
+    },
+    "a2543b46ed9e": {
+      "county_id": "mis_vanburen",
+      "name": "VAN BUREN",
+      "start_date": "1829-10-29",
+      "end_date": "2000-12-31",
+      "filename": "a2543b46ed9e.json"
+    },
+    "23c12ca69cb5": {
+      "county_id": "mis_hillsdale",
+      "name": "HILLSDALE",
+      "start_date": "1829-10-29",
+      "end_date": "1837-01-25",
+      "filename": "23c12ca69cb5.json"
+    },
+    "b96046de0225": {
+      "county_id": "mis_shiawassee",
+      "name": "SHIAWASSEE",
+      "start_date": "1829-10-29",
+      "end_date": "1833-03-20",
+      "filename": "b96046de0225.json"
+    },
+    "ccabda1c7d02": {
+      "county_id": "mis_washtenaw",
+      "name": "WASHTENAW",
+      "start_date": "1829-10-29",
+      "end_date": "1833-03-20",
+      "filename": "ccabda1c7d02.json"
+    },
+    "0ba7c382ff1e": {
+      "county_id": "mis_stjoseph",
+      "name": "ST. JOSEPH",
+      "start_date": "1829-10-29",
+      "end_date": "1831-03-02",
+      "filename": "0ba7c382ff1e.json"
+    },
+    "0bba0e6f2f07": {
+      "county_id": "mis_cass",
+      "name": "CASS",
+      "start_date": "1829-10-29",
+      "end_date": "1831-03-02",
+      "filename": "0bba0e6f2f07.json"
+    },
+    "58d4ceed6129": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1829-10-29",
+      "end_date": "1829-11-03",
+      "filename": "58d4ceed6129.json"
+    },
+    "3df9a977620a": {
+      "county_id": "mis_barry",
+      "name": "BARRY",
+      "start_date": "1829-10-29",
+      "end_date": "1831-03-01",
+      "filename": "3df9a977620a.json"
+    },
+    "bfaf506bbd23": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1829-10-29",
+      "end_date": "1829-11-03",
+      "filename": "bfaf506bbd23.json"
+    },
+    "e5168e2ab00e": {
+      "county_id": "mis_nca1",
+      "name": "NCA 1",
+      "start_date": "1829-09-22",
+      "end_date": "1829-10-28",
+      "filename": "e5168e2ab00e.json"
+    },
+    "3895b511326f": {
+      "county_id": "mis_nca3",
+      "name": "NCA 3",
+      "start_date": "1829-09-22",
+      "end_date": "1829-10-28",
+      "filename": "3895b511326f.json"
+    },
+    "b7bbd86d2221": {
+      "county_id": "mis_nca5",
+      "name": "NCA 5",
+      "start_date": "1830-10-01",
+      "end_date": "1831-03-01",
+      "filename": "b7bbd86d2221.json"
+    },
+    "86856c0c9ca0": {
+      "county_id": "wis_iowa",
+      "name": "IOWA (Wis.)",
+      "start_date": "1830-01-01",
+      "end_date": "1834-09-05",
+      "filename": "86856c0c9ca0.json"
+    },
+    "224afa75608c": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD (Wis.)",
+      "start_date": "1830-01-01",
+      "end_date": "1834-09-05",
+      "filename": "224afa75608c.json"
+    },
+    "56b38563acdf": {
+      "county_id": "mis_allegan",
+      "name": "ALLEGAN",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "56b38563acdf.json"
+    },
+    "2e42a27a24c9": {
+      "county_id": "mis_barry",
+      "name": "BARRY",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "2e42a27a24c9.json"
+    },
+    "bdead7c9a1af": {
+      "county_id": "mis_cass",
+      "name": "CASS",
+      "start_date": "1831-03-03",
+      "end_date": "2000-12-31",
+      "filename": "bdead7c9a1af.json"
+    },
+    "a3486cd3f384": {
+      "county_id": "mis_clinton",
+      "name": "CLINTON",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "a3486cd3f384.json"
+    },
+    "0adf3ba3a182": {
+      "county_id": "mis_alpena",
+      "name": "ALPENA",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "0adf3ba3a182.json"
+    },
+    "8ef1c15fbc1e": {
+      "county_id": "mis_clare",
+      "name": "CLARE",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "8ef1c15fbc1e.json"
+    },
+    "d44d6a521996": {
+      "county_id": "mis_genesee",
+      "name": "GENESEE",
+      "start_date": "1843-03-31",
+      "end_date": "2000-12-31",
+      "filename": "d44d6a521996.json"
+    },
+    "e657ba1bc74f": {
+      "county_id": "mis_lake",
+      "name": "LAKE",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "e657ba1bc74f.json"
+    },
+    "3aeac9e43f1a": {
+      "county_id": "mis_mason",
+      "name": "MASON",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "3aeac9e43f1a.json"
+    },
+    "5e18b4278bd5": {
+      "county_id": "mis_montmorency",
+      "name": "MONTMORENCY",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "5e18b4278bd5.json"
+    },
+    "ac4abc52442f": {
+      "county_id": "mis_osceola",
+      "name": "OSCEOLA",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "ac4abc52442f.json"
+    },
+    "148328606eb7": {
+      "county_id": "mis_roscommon",
+      "name": "ROSCOMMON",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "148328606eb7.json"
+    },
+    "822e6ddb014a": {
+      "county_id": "mis_crawford",
+      "name": "CRAWFORD",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "822e6ddb014a.json"
+    },
+    "2e3a0fb7cb69": {
+      "county_id": "mis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1843-03-09",
+      "end_date": "1887-02-28",
+      "filename": "2e3a0fb7cb69.json"
+    },
+    "d634a2bc1bd7": {
+      "county_id": "mis_kalkaska",
+      "name": "KALKASKA",
+      "start_date": "1843-03-08",
+      "end_date": "1881-03-11",
+      "filename": "d634a2bc1bd7.json"
+    },
+    "e042c11de75a": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "e042c11de75a.json"
+    },
+    "cafb8689c3f2": {
+      "county_id": "mis_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "cafb8689c3f2.json"
+    },
+    "89d39d4b459a": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "89d39d4b459a.json"
+    },
+    "ea2872caf7a3": {
+      "county_id": "mis_overlap2",
+      "name": "Overlap Area 2",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "ea2872caf7a3.json"
+    },
+    "10f572cc817d": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "10f572cc817d.json"
+    },
+    "de8ff7e275c7": {
+      "county_id": "mis_gladwin",
+      "name": "GLADWIN",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "de8ff7e275c7.json"
+    },
+    "7d44f32cde91": {
+      "county_id": "mis_gratiot",
+      "name": "GRATIOT",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "7d44f32cde91.json"
+    },
+    "c2520c295a03": {
+      "county_id": "mis_ionia",
+      "name": "IONIA",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "c2520c295a03.json"
+    },
+    "77c094f1b05d": {
+      "county_id": "mis_isabella",
+      "name": "ISABELLA",
+      "start_date": "1831-03-02",
+      "end_date": "2000-12-31",
+      "filename": "77c094f1b05d.json"
+    },
+    "7a7d3ae1027b": {
+      "county_id": "mis_stjoseph",
+      "name": "ST. JOSEPH",
+      "start_date": "1831-03-03",
+      "end_date": "2000-12-31",
+      "filename": "7a7d3ae1027b.json"
+    },
+    "f474c61871d9": {
+      "county_id": "mis_montcalm",
+      "name": "MONTCALM",
+      "start_date": "1831-03-02",
+      "end_date": "1859-02-10",
+      "filename": "f474c61871d9.json"
+    },
+    "51339cf7d1fc": {
+      "county_id": "mis_ottawa",
+      "name": "OTTAWA",
+      "start_date": "1831-03-02",
+      "end_date": "1859-02-03",
+      "filename": "51339cf7d1fc.json"
+    },
+    "362f1e9e1378": {
+      "county_id": "mis_midland",
+      "name": "MIDLAND",
+      "start_date": "1831-03-02",
+      "end_date": "1857-04-19",
+      "filename": "362f1e9e1378.json"
+    },
+    "6ff3091f3aa1": {
+      "county_id": "mis_arenac",
+      "name": "ARENAC",
+      "start_date": "1831-03-02",
+      "end_date": "1857-04-19",
+      "filename": "6ff3091f3aa1.json"
+    },
+    "3d7b8557e12a": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1831-03-02",
+      "end_date": "1835-03-27",
+      "filename": "3d7b8557e12a.json"
+    },
+    "40a45af67c18": {
+      "county_id": "mis_kent",
+      "name": "KENT",
+      "start_date": "1831-03-02",
+      "end_date": "1840-03-31",
+      "filename": "40a45af67c18.json"
+    },
+    "723b4052c039": {
+      "county_id": "mis_oceana",
+      "name": "OCEANA",
+      "start_date": "1831-03-02",
+      "end_date": "1840-03-31",
+      "filename": "723b4052c039.json"
+    },
+    "02162520bdc2": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1831-03-02",
+      "end_date": "1836-03-01",
+      "filename": "02162520bdc2.json"
+    },
+    "def7f1ac9642": {
+      "county_id": "mis_nca5",
+      "name": "NCA 5",
+      "start_date": "1831-03-02",
+      "end_date": "1836-03-01",
+      "filename": "def7f1ac9642.json"
+    },
+    "26fb34ab7e4d": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1831-03-02",
+      "end_date": "1836-07-02",
+      "filename": "26fb34ab7e4d.json"
+    },
+    "93e61c13ff2f": {
+      "county_id": "mis_livingston",
+      "name": "LIVINGSTON",
+      "start_date": "1833-03-21",
+      "end_date": "2000-12-31",
+      "filename": "93e61c13ff2f.json"
+    },
+    "b0caa64c60e8": {
+      "county_id": "mis_macomb",
+      "name": "MACOMB",
+      "start_date": "1833-03-31",
+      "end_date": "2000-12-31",
+      "filename": "b0caa64c60e8.json"
+    },
+    "f4e90d0b5231": {
+      "county_id": "mis_washtenaw",
+      "name": "WASHTENAW",
+      "start_date": "1833-03-21",
+      "end_date": "2000-12-31",
+      "filename": "f4e90d0b5231.json"
+    },
+    "b67ee7ec493f": {
+      "county_id": "mis_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1833-03-31",
+      "end_date": "1848-04-02",
+      "filename": "b67ee7ec493f.json"
+    },
+    "15d540d15542": {
+      "county_id": "mis_shiawassee",
+      "name": "SHIAWASSEE",
+      "start_date": "1833-03-21",
+      "end_date": "1835-03-27",
+      "filename": "15d540d15542.json"
+    },
+    "1e15fd78ec69": {
+      "county_id": "ias_dubuque",
+      "name": "DUBUQUE (Iowa)",
+      "start_date": "1834-10-01",
+      "end_date": "1836-07-02",
+      "filename": "1e15fd78ec69.json"
+    },
+    "1b5dfc291f61": {
+      "county_id": "ias_desmoines",
+      "name": "DES MOINES (Iowa)",
+      "start_date": "1834-10-01",
+      "end_date": "1836-07-02",
+      "filename": "1b5dfc291f61.json"
+    },
+    "e01cbdfa8705": {
+      "county_id": "mit_part",
+      "name": "Michigan Terr.",
+      "start_date": "1834-06-28",
+      "end_date": "1834-09-30",
+      "filename": "e01cbdfa8705.json"
+    },
+    "f2c2508213ad": {
+      "county_id": "wis_iowa",
+      "name": "IOWA (Wis.)",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "f2c2508213ad.json"
+    },
+    "fd37385e0054": {
+      "county_id": "wis_milwaukee",
+      "name": "MILWAUKEE (Wis.)",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "fd37385e0054.json"
+    },
+    "6ff2c829906f": {
+      "county_id": "wis_brown",
+      "name": "BROWN (Wis.)",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "6ff2c829906f.json"
+    },
+    "256f80a847cc": {
+      "county_id": "wis_crawford",
+      "name": "CRAWFORD (Wis.)",
+      "start_date": "1834-09-06",
+      "end_date": "1836-07-02",
+      "filename": "256f80a847cc.json"
+    },
+    "0536bd99a9dc": {
+      "county_id": "mis_shiawassee",
+      "name": "SHIAWASSEE",
+      "start_date": "1835-03-28",
+      "end_date": "2000-12-31",
+      "filename": "0536bd99a9dc.json"
+    },
+    "80cd88b9af24": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1835-03-28",
+      "end_date": "1857-04-19",
+      "filename": "80cd88b9af24.json"
+    },
+    "a9d516aa4b5e": {
+      "county_id": "mis_lapeer",
+      "name": "LAPEER",
+      "start_date": "1835-03-28",
+      "end_date": "1843-03-30",
+      "filename": "a9d516aa4b5e.json"
+    },
+    "a0e99476f074": {
+      "county_id": "mis_genesee",
+      "name": "GENESEE",
+      "start_date": "1835-03-28",
+      "end_date": "1843-03-30",
+      "filename": "a0e99476f074.json"
+    },
+    "0cb94e8a4819": {
+      "county_id": "mis_nca6",
+      "name": "NCA 6",
+      "start_date": "1836-07-03",
+      "end_date": "1843-03-08",
+      "filename": "0cb94e8a4819.json"
+    },
+    "88520878f70e": {
+      "county_id": "mis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1836-07-03",
+      "end_date": "1843-03-08",
+      "filename": "88520878f70e.json"
+    },
+    "5814c3b150de": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1836-07-03",
+      "end_date": "1840-03-31",
+      "filename": "5814c3b150de.json"
+    },
+    "85e1d72d9266": {
+      "county_id": "mis_nca2",
+      "name": "NCA 2",
+      "start_date": "1836-03-02",
+      "end_date": "1840-03-31",
+      "filename": "85e1d72d9266.json"
+    },
+    "5e59fcd90316": {
+      "county_id": "mis_hillsdale",
+      "name": "HILLSDALE",
+      "start_date": "1837-01-26",
+      "end_date": "2000-12-31",
+      "filename": "5e59fcd90316.json"
+    },
+    "b8830669d38b": {
+      "county_id": "mis_lenawee",
+      "name": "LENAWEE",
+      "start_date": "1837-01-26",
+      "end_date": "2000-12-31",
+      "filename": "b8830669d38b.json"
+    },
+    "01db28977ed8": {
+      "county_id": "mis_monroe",
+      "name": "MONROE",
+      "start_date": "1837-01-26",
+      "end_date": "2000-12-31",
+      "filename": "01db28977ed8.json"
+    },
+    "7941dcb75a48": {
+      "county_id": "mis_alcona",
+      "name": "NEGWEGON",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "7941dcb75a48.json"
+    },
+    "1c7bd7989cd3": {
+      "county_id": "mis_alpena",
+      "name": "ANAMICKEE",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "1c7bd7989cd3.json"
+    },
+    "ba1edcbb0ff9": {
+      "county_id": "mis_clare",
+      "name": "KAYKAKEE",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "ba1edcbb0ff9.json"
+    },
+    "1e37713ecd27": {
+      "county_id": "mis_crawford",
+      "name": "SHAWONO",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "1e37713ecd27.json"
+    },
+    "6b132c1b1118": {
+      "county_id": "mis_kent",
+      "name": "KENT",
+      "start_date": "1840-04-01",
+      "end_date": "2000-12-31",
+      "filename": "6b132c1b1118.json"
+    },
+    "a355ba800a59": {
+      "county_id": "mis_lake",
+      "name": "AISHCUM",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "a355ba800a59.json"
+    },
+    "f45bb47f6b94": {
+      "county_id": "mis_mason",
+      "name": "NOTIPEKAGO",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "f45bb47f6b94.json"
+    },
+    "da1c6c03096c": {
+      "county_id": "mis_missaukee",
+      "name": "MISSAUKEE",
+      "start_date": "1840-04-01",
+      "end_date": "2000-12-31",
+      "filename": "da1c6c03096c.json"
+    },
+    "d621bf67d241": {
+      "county_id": "mis_montmorency",
+      "name": "CHEONOQUET",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "d621bf67d241.json"
+    },
+    "f1adbed92df1": {
+      "county_id": "mis_newaygo",
+      "name": "NEWAYGO",
+      "start_date": "1840-04-01",
+      "end_date": "2000-12-31",
+      "filename": "f1adbed92df1.json"
+    },
+    "b5d7a40c8b03": {
+      "county_id": "mis_osceola",
+      "name": "UNWATTIN",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "b5d7a40c8b03.json"
+    },
+    "c9cc6e187801": {
+      "county_id": "mis_oscoda",
+      "name": "OSCODA",
+      "start_date": "1840-04-01",
+      "end_date": "2000-12-31",
+      "filename": "c9cc6e187801.json"
+    },
+    "b798f4ac38bb": {
+      "county_id": "mis_roscommon",
+      "name": "MIKENAUK",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "b798f4ac38bb.json"
+    },
+    "42a1578c22b3": {
+      "county_id": "mis_kalkaska",
+      "name": "WABASSEE",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "42a1578c22b3.json"
+    },
+    "d11cff37c3bd": {
+      "county_id": "mis_huron",
+      "name": "HURON",
+      "start_date": "1840-04-01",
+      "end_date": "1879-12-31",
+      "filename": "d11cff37c3bd.json"
+    },
+    "9f5f466315e3": {
+      "county_id": "mis_presqueisle",
+      "name": "PRESQUE ISLE",
+      "start_date": "1840-04-01",
+      "end_date": "1873-03-27",
+      "filename": "9f5f466315e3.json"
+    },
+    "9288711ac975": {
+      "county_id": "mis_manistee",
+      "name": "MANISTEE",
+      "start_date": "1840-04-01",
+      "end_date": "1873-03-26",
+      "filename": "9288711ac975.json"
+    },
+    "0362d0706193": {
+      "county_id": "mis_wexford",
+      "name": "KAUTAWAUBET",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "0362d0706193.json"
+    },
+    "13248f2401a9": {
+      "county_id": "mis_otsego",
+      "name": "OKKUDDO",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "13248f2401a9.json"
+    },
+    "3be427d48aed": {
+      "county_id": "mis_ogemaw",
+      "name": "OGEMAW",
+      "start_date": "1840-04-01",
+      "end_date": "1867-03-06",
+      "filename": "3be427d48aed.json"
+    },
+    "b077a39c85b5": {
+      "county_id": "mis_iosco",
+      "name": "KANOTIN",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "b077a39c85b5.json"
+    },
+    "ef8cb1a609ba": {
+      "county_id": "mis_antrim",
+      "name": "MEEGISEE",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "ef8cb1a609ba.json"
+    },
+    "8f7287d3b54b": {
+      "county_id": "mis_leelanau",
+      "name": "LEELANAU",
+      "start_date": "1840-04-01",
+      "end_date": "1855-02-11",
+      "filename": "8f7287d3b54b.json"
+    },
+    "3f2eaaf6d291": {
+      "county_id": "mis_mecosta",
+      "name": "MECOSTA",
+      "start_date": "1840-04-01",
+      "end_date": "1859-02-10",
+      "filename": "3f2eaaf6d291.json"
+    },
+    "2df4a4707869": {
+      "county_id": "mis_oceana",
+      "name": "OCEANA",
+      "start_date": "1840-04-01",
+      "end_date": "1855-02-12",
+      "filename": "2df4a4707869.json"
+    },
+    "c042e5618174": {
+      "county_id": "mis_emmet",
+      "name": "TONEDAGANA",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "c042e5618174.json"
+    },
+    "31d81c25beda": {
+      "county_id": "mis_charlevoix",
+      "name": "KESKKAUKO",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-07",
+      "filename": "31d81c25beda.json"
+    },
+    "8b3a39d33a8c": {
+      "county_id": "mis_cheboygan",
+      "name": "CHEBOYGAN",
+      "start_date": "1840-04-01",
+      "end_date": "1853-01-28",
+      "filename": "8b3a39d33a8c.json"
+    },
+    "b29eff7e1a96": {
+      "county_id": "mis_wyandot",
+      "name": "WYANDOT (ext)",
+      "start_date": "1840-04-01",
+      "end_date": "1853-01-28",
+      "filename": "b29eff7e1a96.json"
+    },
+    "d45320a8b5ce": {
+      "county_id": "mis_omeena",
+      "name": "OMEENA (ext)",
+      "start_date": "1840-04-01",
+      "end_date": "1851-04-06",
+      "filename": "d45320a8b5ce.json"
+    },
+    "944f8440cfef": {
+      "county_id": "mis_sanilac",
+      "name": "SANILAC",
+      "start_date": "1840-04-01",
+      "end_date": "1848-04-02",
+      "filename": "944f8440cfef.json"
+    },
+    "6b519c17a148": {
+      "county_id": "mis_tuscola",
+      "name": "TUSCOLA",
+      "start_date": "1840-04-01",
+      "end_date": "1845-03-18",
+      "filename": "6b519c17a148.json"
+    },
+    "8338b566724f": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1840-04-01",
+      "end_date": "1843-03-08",
+      "filename": "8338b566724f.json"
+    },
+    "a32017cf4146": {
+      "county_id": "mis_alcona",
+      "name": "ALCONA",
+      "start_date": "1843-03-08",
+      "end_date": "2000-12-31",
+      "filename": "a32017cf4146.json"
+    },
+    "234250d4643c": {
+      "county_id": "mis_wexford",
+      "name": "WEXFORD",
+      "start_date": "1843-03-08",
+      "end_date": "1873-03-26",
+      "filename": "234250d4643c.json"
+    },
+    "6c3981776744": {
+      "county_id": "mis_otsego",
+      "name": "OTSEGO",
+      "start_date": "1843-03-08",
+      "end_date": "1869-04-01",
+      "filename": "6c3981776744.json"
+    },
+    "7d479d700269": {
+      "county_id": "mis_iosco",
+      "name": "IOSCO",
+      "start_date": "1843-03-08",
+      "end_date": "1867-03-06",
+      "filename": "7d479d700269.json"
+    },
+    "8540ad811be5": {
+      "county_id": "mis_antrim",
+      "name": "ANTRIM",
+      "start_date": "1843-03-08",
+      "end_date": "1865-03-17",
+      "filename": "8540ad811be5.json"
+    },
+    "d8cf7f136fce": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1843-03-09",
+      "end_date": "1861-03-11",
+      "filename": "d8cf7f136fce.json"
+    },
+    "f71e2a75a208": {
+      "county_id": "mis_schoolcraft",
+      "name": "SCHOOLCRAFT",
+      "start_date": "1843-03-09",
+      "end_date": "1861-03-11",
+      "filename": "f71e2a75a208.json"
+    },
+    "f3fe89192419": {
+      "county_id": "mis_mackinac",
+      "name": "MICHILIMACKINAC",
+      "start_date": "1843-03-09",
+      "end_date": "1850-12-30",
+      "filename": "f3fe89192419.json"
+    },
+    "fc50f063d45c": {
+      "county_id": "mis_emmet",
+      "name": "EMMET",
+      "start_date": "1843-03-08",
+      "end_date": "1853-01-28",
+      "filename": "fc50f063d45c.json"
+    },
+    "19f181005e5b": {
+      "county_id": "mis_charlevoix",
+      "name": "CHARLEVOIX",
+      "start_date": "1843-03-08",
+      "end_date": "1853-01-28",
+      "filename": "19f181005e5b.json"
+    },
+    "b9067c710f0a": {
+      "county_id": "mis_ontonagon",
+      "name": "ONTONAGON",
+      "start_date": "1843-03-09",
+      "end_date": "1845-03-18",
+      "filename": "b9067c710f0a.json"
+    },
+    "e3ee1defc2bc": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1843-03-09",
+      "end_date": "1845-03-18",
+      "filename": "e3ee1defc2bc.json"
+    },
+    "51276a5989f4": {
+      "county_id": "mis_lapeer",
+      "name": "LAPEER",
+      "start_date": "1843-03-31",
+      "end_date": "1845-03-18",
+      "filename": "51276a5989f4.json"
+    },
+    "67a7a01f44b8": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1845-03-19",
+      "end_date": "1861-03-11",
+      "filename": "67a7a01f44b8.json"
+    },
+    "baaeb968ecd9": {
+      "county_id": "mis_tuscola",
+      "name": "TUSCOLA",
+      "start_date": "1845-03-19",
+      "end_date": "1855-02-12",
+      "filename": "baaeb968ecd9.json"
+    },
+    "b817db7d9e8f": {
+      "county_id": "mis_ontonagon",
+      "name": "ONTONAGON",
+      "start_date": "1845-03-19",
+      "end_date": "1853-01-16",
+      "filename": "b817db7d9e8f.json"
+    },
+    "c524b7d1fe0b": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1845-03-19",
+      "end_date": "1853-01-16",
+      "filename": "c524b7d1fe0b.json"
+    },
+    "655ac8813da8": {
+      "county_id": "mis_lapeer",
+      "name": "LAPEER",
+      "start_date": "1845-03-19",
+      "end_date": "1855-02-12",
+      "filename": "655ac8813da8.json"
+    },
+    "7ea41f4647b2": {
+      "county_id": "mis_sanilac",
+      "name": "SANILAC",
+      "start_date": "1848-04-03",
+      "end_date": "2000-12-31",
+      "filename": "7ea41f4647b2.json"
+    },
+    "33892540722f": {
+      "county_id": "mis_stclair",
+      "name": "ST. CLAIR",
+      "start_date": "1848-04-03",
+      "end_date": "2000-12-31",
+      "filename": "33892540722f.json"
+    },
+    "55e133638d1d": {
+      "county_id": "mis_mackinac",
+      "name": "MACKINAC",
+      "start_date": "1850-12-31",
+      "end_date": "1853-01-28",
+      "filename": "55e133638d1d.json"
+    },
+    "f25eddc4849b": {
+      "county_id": "mis_grandtraverse",
+      "name": "GRAND TRAVERSE",
+      "start_date": "1851-04-07",
+      "end_date": "1853-02-02",
+      "filename": "f25eddc4849b.json"
+    },
+    "8b744a4d69c4": {
+      "county_id": "mis_omeena",
+      "name": "OMEENA (ext)",
+      "start_date": "1851-04-07",
+      "end_date": "1853-02-02",
+      "filename": "8b744a4d69c4.json"
+    },
+    "9a988d1e2234": {
+      "county_id": "mis_mackinac",
+      "name": "MACKINAC",
+      "start_date": "1853-01-29",
+      "end_date": "1887-02-28",
+      "filename": "9a988d1e2234.json"
+    },
+    "4ae95c4bc9e5": {
+      "county_id": "mis_cheboygan",
+      "name": "CHEBOYGAN",
+      "start_date": "1853-01-29",
+      "end_date": "1873-03-27",
+      "filename": "4ae95c4bc9e5.json"
+    },
+    "8c7e91d5145b": {
+      "county_id": "mis_grandtraverse",
+      "name": "GRAND TRAVERSE",
+      "start_date": "1853-02-03",
+      "end_date": "1865-03-17",
+      "filename": "8c7e91d5145b.json"
+    },
+    "95e8fa396592": {
+      "county_id": "mis_ontonagon",
+      "name": "ONTONAGON",
+      "start_date": "1853-01-17",
+      "end_date": "1861-03-11",
+      "filename": "95e8fa396592.json"
+    },
+    "63b6350fc341": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1853-01-17",
+      "end_date": "1861-03-10",
+      "filename": "63b6350fc341.json"
+    },
+    "fce3845c538e": {
+      "county_id": "mis_emmet",
+      "name": "EMMET",
+      "start_date": "1853-01-29",
+      "end_date": "1855-02-11",
+      "filename": "fce3845c538e.json"
+    },
+    "b23876b10ef9": {
+      "county_id": "mis_lapeer",
+      "name": "LAPEER",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "b23876b10ef9.json"
+    },
+    "6f4d3d03aa22": {
+      "county_id": "mis_oceana",
+      "name": "OCEANA",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "6f4d3d03aa22.json"
+    },
+    "83f63183269a": {
+      "county_id": "mis_tuscola",
+      "name": "TUSCOLA",
+      "start_date": "1855-02-13",
+      "end_date": "2000-12-31",
+      "filename": "83f63183269a.json"
+    },
+    "0ac8a3dd7ba5": {
+      "county_id": "mis_manitou",
+      "name": "MANITOU (ext)",
+      "start_date": "1855-02-12",
+      "end_date": "1895-04-03",
+      "filename": "0ac8a3dd7ba5.json"
+    },
+    "1f00166fa664": {
+      "county_id": "mis_emmet",
+      "name": "EMMET",
+      "start_date": "1855-02-12",
+      "end_date": "1869-04-01",
+      "filename": "1f00166fa664.json"
+    },
+    "dd8a9783ae22": {
+      "county_id": "mis_leelanau",
+      "name": "LEELANAU",
+      "start_date": "1855-02-12",
+      "end_date": "1863-02-26",
+      "filename": "dd8a9783ae22.json"
+    },
+    "77e36a1c4963": {
+      "county_id": "mis_nca7",
+      "name": "NCA 7",
+      "start_date": "1855-02-13",
+      "end_date": "1859-02-03",
+      "filename": "77e36a1c4963.json"
+    },
+    "e16bad386f33": {
+      "county_id": "mis_midland",
+      "name": "MIDLAND",
+      "start_date": "1857-04-20",
+      "end_date": "2000-12-31",
+      "filename": "e16bad386f33.json"
+    },
+    "3b0da7abfdd4": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1857-04-20",
+      "end_date": "1871-04-14",
+      "filename": "3b0da7abfdd4.json"
+    },
+    "af9c070eb6db": {
+      "county_id": "mis_bay",
+      "name": "BAY",
+      "start_date": "1857-04-20",
+      "end_date": "1871-04-14",
+      "filename": "af9c070eb6db.json"
+    },
+    "e6d197cbbbe6": {
+      "county_id": "mis_mecosta",
+      "name": "MECOSTA",
+      "start_date": "1859-02-11",
+      "end_date": "2000-12-31",
+      "filename": "e6d197cbbbe6.json"
+    },
+    "ae4ab0888670": {
+      "county_id": "mis_montcalm",
+      "name": "MONTCALM",
+      "start_date": "1859-02-11",
+      "end_date": "2000-12-31",
+      "filename": "ae4ab0888670.json"
+    },
+    "6d4f031aceed": {
+      "county_id": "mis_muskegon",
+      "name": "MUSKEGON",
+      "start_date": "1859-02-04",
+      "end_date": "2000-12-31",
+      "filename": "6d4f031aceed.json"
+    },
+    "db9d99a876e7": {
+      "county_id": "mis_ottawa",
+      "name": "OTTAWA",
+      "start_date": "1859-02-04",
+      "end_date": "2000-12-31",
+      "filename": "db9d99a876e7.json"
+    },
+    "3560a28232ab": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1861-03-12",
+      "end_date": "1923-10-07",
+      "filename": "3560a28232ab.json"
+    },
+    "46869c3fd446": {
+      "county_id": "mis_ontonagon",
+      "name": "ONTONAGON",
+      "start_date": "1861-03-12",
+      "end_date": "1887-02-06",
+      "filename": "46869c3fd446.json"
+    },
+    "36599a8cb8b5": {
+      "county_id": "mis_nca9",
+      "name": "NCA 9",
+      "start_date": "1861-03-12",
+      "end_date": "1861-03-14",
+      "filename": "36599a8cb8b5.json"
+    },
+    "99cc16ae617a": {
+      "county_id": "mis_schoolcraft",
+      "name": "SCHOOLCRAFT",
+      "start_date": "1861-03-12",
+      "end_date": "1862-01-17",
+      "filename": "99cc16ae617a.json"
+    },
+    "7e49ffa6fe1a": {
+      "county_id": "mis_nca8",
+      "name": "NCA 8",
+      "start_date": "1861-03-12",
+      "end_date": "1862-01-17",
+      "filename": "7e49ffa6fe1a.json"
+    },
+    "0c1e9eac763d": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1861-03-12",
+      "end_date": "1861-03-15",
+      "filename": "0c1e9eac763d.json"
+    },
+    "d600a2ada721": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1861-03-12",
+      "end_date": "1861-03-15",
+      "filename": "d600a2ada721.json"
+    },
+    "bc52293c4aa5": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1861-03-16",
+      "end_date": "1875-02-18",
+      "filename": "bc52293c4aa5.json"
+    },
+    "012a1a0d1223": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1861-03-16",
+      "end_date": "1873-03-27",
+      "filename": "012a1a0d1223.json"
+    },
+    "6b6c32938ff4": {
+      "county_id": "mis_menominee",
+      "name": "BLEEKER",
+      "start_date": "1861-03-15",
+      "end_date": "1863-03-18",
+      "filename": "6b6c32938ff4.json"
+    },
+    "0374f9fce977": {
+      "county_id": "mis_nca9",
+      "name": "NCA 9",
+      "start_date": "1861-03-15",
+      "end_date": "1873-03-27",
+      "filename": "0374f9fce977.json"
+    },
+    "55d8a1851df5": {
+      "county_id": "mis_keweenaw",
+      "name": "KEWEENAW",
+      "start_date": "1861-03-11",
+      "end_date": "1875-03-03",
+      "filename": "55d8a1851df5.json"
+    },
+    "08e99ea8b175": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1861-03-11",
+      "end_date": "1861-03-11",
+      "filename": "08e99ea8b175.json"
+    },
+    "3187f21194c0": {
+      "county_id": "mis_schoolcraft",
+      "name": "SCHOOLCRAFT",
+      "start_date": "1862-01-18",
+      "end_date": "1875-03-25",
+      "filename": "3187f21194c0.json"
+    },
+    "c5df33e5e2d5": {
+      "county_id": "mis_benzie",
+      "name": "BENZIE",
+      "start_date": "1863-02-27",
+      "end_date": "2000-12-31",
+      "filename": "c5df33e5e2d5.json"
+    },
+    "d0d5c4bed4cd": {
+      "county_id": "mis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1863-03-19",
+      "end_date": "1875-03-09",
+      "filename": "d0d5c4bed4cd.json"
+    },
+    "f333e1673b0a": {
+      "county_id": "mis_leelanau",
+      "name": "LEELANAU",
+      "start_date": "1863-02-27",
+      "end_date": "1895-04-03",
+      "filename": "f333e1673b0a.json"
+    },
+    "42b980de29f4": {
+      "county_id": "mis_grandtraverse",
+      "name": "GRAND TRAVERSE",
+      "start_date": "1865-03-18",
+      "end_date": "2000-12-31",
+      "filename": "42b980de29f4.json"
+    },
+    "cd0492959a63": {
+      "county_id": "mis_antrim",
+      "name": "ANTRIM",
+      "start_date": "1865-03-18",
+      "end_date": "1869-04-01",
+      "filename": "cd0492959a63.json"
+    },
+    "89350ae61281": {
+      "county_id": "mis_iosco",
+      "name": "IOSCO",
+      "start_date": "1867-03-07",
+      "end_date": "1873-03-27",
+      "filename": "89350ae61281.json"
+    },
+    "40dc7f5e4869": {
+      "county_id": "mis_otsego",
+      "name": "OTSEGO",
+      "start_date": "1869-04-02",
+      "end_date": "2000-12-31",
+      "filename": "40dc7f5e4869.json"
+    },
+    "6f0e8a2789ad": {
+      "county_id": "mis_emmet",
+      "name": "EMMET",
+      "start_date": "1869-04-02",
+      "end_date": "1896-04-05",
+      "filename": "6f0e8a2789ad.json"
+    },
+    "877bb6d2e0a3": {
+      "county_id": "mis_charlevoix",
+      "name": "CHARLEVOIX",
+      "start_date": "1869-04-02",
+      "end_date": "1895-04-03",
+      "filename": "877bb6d2e0a3.json"
+    },
+    "2808abf06c55": {
+      "county_id": "mis_antrim",
+      "name": "ANTRIM",
+      "start_date": "1869-04-02",
+      "end_date": "1881-03-11",
+      "filename": "2808abf06c55.json"
+    },
+    "63990104dbd5": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1871-04-15",
+      "end_date": "1881-06-02",
+      "filename": "63990104dbd5.json"
+    },
+    "6c869536d751": {
+      "county_id": "mis_bay",
+      "name": "BAY",
+      "start_date": "1871-04-15",
+      "end_date": "1879-12-31",
+      "filename": "6c869536d751.json"
+    },
+    "51d8d1911a7f": {
+      "county_id": "mis_cheboygan",
+      "name": "CHEBOYGAN",
+      "start_date": "1873-03-28",
+      "end_date": "2000-12-31",
+      "filename": "51d8d1911a7f.json"
+    },
+    "807d859cae3c": {
+      "county_id": "mis_iosco",
+      "name": "IOSCO",
+      "start_date": "1873-03-28",
+      "end_date": "2000-12-31",
+      "filename": "807d859cae3c.json"
+    },
+    "781304b152d8": {
+      "county_id": "mis_ogemaw",
+      "name": "OGEMAW",
+      "start_date": "1873-03-28",
+      "end_date": "2000-12-31",
+      "filename": "781304b152d8.json"
+    },
+    "f830474a1459": {
+      "county_id": "mis_presqueisle",
+      "name": "PRESQUE ISLE",
+      "start_date": "1873-03-28",
+      "end_date": "2000-12-31",
+      "filename": "f830474a1459.json"
+    },
+    "5db40b97e9f1": {
+      "county_id": "mis_wexford",
+      "name": "WEXFORD",
+      "start_date": "1873-03-27",
+      "end_date": "1881-03-21",
+      "filename": "5db40b97e9f1.json"
+    },
+    "4045299cf7f0": {
+      "county_id": "mis_manistee",
+      "name": "MANISTEE",
+      "start_date": "1873-03-27",
+      "end_date": "1881-03-21",
+      "filename": "4045299cf7f0.json"
+    },
+    "f8d2161675a0": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1873-03-28",
+      "end_date": "1875-03-25",
+      "filename": "f8d2161675a0.json"
+    },
+    "01cf1ebefa53": {
+      "county_id": "mis_nca9",
+      "name": "NCA 9",
+      "start_date": "1873-03-28",
+      "end_date": "1875-03-09",
+      "filename": "01cf1ebefa53.json"
+    },
+    "2a23f5649695": {
+      "county_id": "mis_isleroyale",
+      "name": "ISLE ROYALE (ext)",
+      "start_date": "1875-03-04",
+      "end_date": "1897-04-08",
+      "filename": "2a23f5649695.json"
+    },
+    "936d576a955f": {
+      "county_id": "mis_keweenaw",
+      "name": "KEWEENAW",
+      "start_date": "1875-03-04",
+      "end_date": "1897-04-08",
+      "filename": "936d576a955f.json"
+    },
+    "d33a8f114396": {
+      "county_id": "mis_baraga",
+      "name": "BARAGA",
+      "start_date": "1875-02-19",
+      "end_date": "1885-03-11",
+      "filename": "d33a8f114396.json"
+    },
+    "739f7324f5ee": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1875-02-19",
+      "end_date": "1885-03-11",
+      "filename": "739f7324f5ee.json"
+    },
+    "f7a62bb6431d": {
+      "county_id": "mis_schoolcraft",
+      "name": "SCHOOLCRAFT",
+      "start_date": "1875-03-26",
+      "end_date": "1885-03-16",
+      "filename": "f7a62bb6431d.json"
+    },
+    "f1653ce529a1": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1875-03-26",
+      "end_date": "1877-04-25",
+      "filename": "f1653ce529a1.json"
+    },
+    "3fed5c61e396": {
+      "county_id": "mis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1875-03-10",
+      "end_date": "1877-04-25",
+      "filename": "3fed5c61e396.json"
+    },
+    "44ca1b6c123b": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1877-04-26",
+      "end_date": "1885-04-02",
+      "filename": "44ca1b6c123b.json"
+    },
+    "495eac55af2c": {
+      "county_id": "mis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1877-04-26",
+      "end_date": "1885-04-02",
+      "filename": "495eac55af2c.json"
+    },
+    "bcc14f57c447": {
+      "county_id": "mis_nca10",
+      "name": "NCA 10",
+      "start_date": "1877-04-26",
+      "end_date": "1885-04-02",
+      "filename": "bcc14f57c447.json"
+    },
+    "80d89ab115be": {
+      "county_id": "mis_huron",
+      "name": "HURON",
+      "start_date": "1880-01-01",
+      "end_date": "2000-12-31",
+      "filename": "80d89ab115be.json"
+    },
+    "8b3104ba1851": {
+      "county_id": "mis_bay",
+      "name": "BAY",
+      "start_date": "1880-01-01",
+      "end_date": "1881-06-02",
+      "filename": "8b3104ba1851.json"
+    },
+    "b2eb6680ebd7": {
+      "county_id": "mis_antrim",
+      "name": "ANTRIM",
+      "start_date": "1881-03-12",
+      "end_date": "2000-12-31",
+      "filename": "b2eb6680ebd7.json"
+    },
+    "dbdd5497a0b4": {
+      "county_id": "mis_kalkaska",
+      "name": "KALKASKA",
+      "start_date": "1881-03-12",
+      "end_date": "2000-12-31",
+      "filename": "dbdd5497a0b4.json"
+    },
+    "4656d12be5f6": {
+      "county_id": "mis_manistee",
+      "name": "MANISTEE",
+      "start_date": "1881-03-22",
+      "end_date": "2000-12-31",
+      "filename": "4656d12be5f6.json"
+    },
+    "7f707118e905": {
+      "county_id": "mis_saginaw",
+      "name": "SAGINAW",
+      "start_date": "1881-06-03",
+      "end_date": "2000-12-31",
+      "filename": "7f707118e905.json"
+    },
+    "9ed04c6a70db": {
+      "county_id": "mis_wexford",
+      "name": "WEXFORD",
+      "start_date": "1881-03-22",
+      "end_date": "2000-12-31",
+      "filename": "9ed04c6a70db.json"
+    },
+    "3feb814ee639": {
+      "county_id": "mis_bay",
+      "name": "BAY",
+      "start_date": "1881-06-03",
+      "end_date": "1883-04-20",
+      "filename": "3feb814ee639.json"
+    },
+    "c7119431a391": {
+      "county_id": "mis_arenac",
+      "name": "ARENAC",
+      "start_date": "1883-04-21",
+      "end_date": "2000-12-31",
+      "filename": "c7119431a391.json"
+    },
+    "68eb26d8f458": {
+      "county_id": "mis_bay",
+      "name": "BAY",
+      "start_date": "1883-04-21",
+      "end_date": "2000-12-31",
+      "filename": "68eb26d8f458.json"
+    },
+    "135d0fed4281": {
+      "county_id": "mis_alger",
+      "name": "ALGER",
+      "start_date": "1885-03-17",
+      "end_date": "2000-12-31",
+      "filename": "135d0fed4281.json"
+    },
+    "0a74d067d70e": {
+      "county_id": "mis_baraga",
+      "name": "BARAGA",
+      "start_date": "1885-03-12",
+      "end_date": "2000-12-31",
+      "filename": "0a74d067d70e.json"
+    },
+    "aa80aa0d03f7": {
+      "county_id": "mis_houghton",
+      "name": "HOUGHTON",
+      "start_date": "1885-03-12",
+      "end_date": "2000-12-31",
+      "filename": "aa80aa0d03f7.json"
+    },
+    "42bc66790b0c": {
+      "county_id": "mis_schoolcraft",
+      "name": "SCHOOLCRAFT",
+      "start_date": "1885-03-17",
+      "end_date": "2000-12-31",
+      "filename": "42bc66790b0c.json"
+    },
+    "a626e6949f2e": {
+      "county_id": "mis_iron",
+      "name": "IRON",
+      "start_date": "1885-04-03",
+      "end_date": "1891-05-20",
+      "filename": "a626e6949f2e.json"
+    },
+    "db59c7e832c0": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1885-04-03",
+      "end_date": "1891-05-20",
+      "filename": "db59c7e832c0.json"
+    },
+    "b9b289ad0559": {
+      "county_id": "mis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1885-04-03",
+      "end_date": "1891-05-20",
+      "filename": "b9b289ad0559.json"
+    },
+    "91b695e4052b": {
+      "county_id": "mis_chippewa",
+      "name": "CHIPPEWA",
+      "start_date": "1887-03-01",
+      "end_date": "2000-12-31",
+      "filename": "91b695e4052b.json"
+    },
+    "d3f58a120b3a": {
+      "county_id": "mis_luce",
+      "name": "LUCE",
+      "start_date": "1887-03-01",
+      "end_date": "2000-12-31",
+      "filename": "d3f58a120b3a.json"
+    },
+    "98155f271a9f": {
+      "county_id": "mis_mackinac",
+      "name": "MACKINAC",
+      "start_date": "1887-03-01",
+      "end_date": "2000-12-31",
+      "filename": "98155f271a9f.json"
+    },
+    "0705fd09ac0e": {
+      "county_id": "mis_ontonagon",
+      "name": "ONTONAGON",
+      "start_date": "1887-02-07",
+      "end_date": "2000-12-31",
+      "filename": "0705fd09ac0e.json"
+    },
+    "5546d64e46b8": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC",
+      "start_date": "1887-02-07",
+      "end_date": "1908-12-31",
+      "filename": "5546d64e46b8.json"
+    },
+    "15db3ba0242e": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1891-05-22",
+      "end_date": "2000-12-31",
+      "filename": "15db3ba0242e.json"
+    },
+    "5220717044d0": {
+      "county_id": "mis_iron",
+      "name": "IRON",
+      "start_date": "1891-05-22",
+      "end_date": "1923-10-07",
+      "filename": "5220717044d0.json"
+    },
+    "5bb5c373ace8": {
+      "county_id": "mis_dickinson",
+      "name": "DICKINSON",
+      "start_date": "1891-05-21",
+      "end_date": "2000-12-31",
+      "filename": "5bb5c373ace8.json"
+    },
+    "5fb5a37de2c0": {
+      "county_id": "mis_menominee",
+      "name": "MENOMINEE",
+      "start_date": "1891-05-21",
+      "end_date": "2000-12-31",
+      "filename": "5fb5a37de2c0.json"
+    },
+    "6e4ac56fbd3d": {
+      "county_id": "mis_marquette",
+      "name": "MARQUETTE",
+      "start_date": "1891-05-21",
+      "end_date": "1891-05-21",
+      "filename": "6e4ac56fbd3d.json"
+    },
+    "c0cc50599383": {
+      "county_id": "mis_iron",
+      "name": "IRON",
+      "start_date": "1891-05-21",
+      "end_date": "1891-05-21",
+      "filename": "c0cc50599383.json"
+    },
+    "626d753f2f84": {
+      "county_id": "mis_leelanau",
+      "name": "LEELANAU",
+      "start_date": "1895-04-04",
+      "end_date": "2000-12-31",
+      "filename": "626d753f2f84.json"
+    },
+    "4707bffd38d8": {
+      "county_id": "mis_charlevoix",
+      "name": "CHARLEVOIX",
+      "start_date": "1895-04-04",
+      "end_date": "1896-04-05",
+      "filename": "4707bffd38d8.json"
+    },
+    "420364541e8f": {
+      "county_id": "mis_charlevoix",
+      "name": "CHARLEVOIX",
+      "start_date": "1896-04-06",
+      "end_date": "2000-12-31",
+      "filename": "420364541e8f.json"
+    },
+    "7509427e5e9c": {
+      "county_id": "mis_emmet",
+      "name": "EMMET",
+      "start_date": "1896-04-06",
+      "end_date": "2000-12-31",
+      "filename": "7509427e5e9c.json"
+    },
+    "4ed6670d5d47": {
+      "county_id": "mis_keweenaw",
+      "name": "KEWEENAW",
+      "start_date": "1897-04-09",
+      "end_date": "2000-12-31",
+      "filename": "4ed6670d5d47.json"
+    },
+    "c68bde10ec7e": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC",
+      "start_date": "1909-01-01",
+      "end_date": "1923-10-07",
+      "filename": "c68bde10ec7e.json"
+    },
+    "948a24b90f03": {
+      "county_id": "mis_overlap1",
+      "name": "Overlap Area 1",
+      "start_date": "1909-01-01",
+      "end_date": "1923-10-07",
+      "filename": "948a24b90f03.json"
+    },
+    "751b364ba0d6": {
+      "county_id": "mis_iron",
+      "name": "IRON",
+      "start_date": "1923-10-08",
+      "end_date": "1926-02-28",
+      "filename": "751b364ba0d6.json"
+    },
+    "60419dd28663": {
+      "county_id": "mis_iron",
+      "name": "IRON",
+      "start_date": "1926-03-01",
+      "end_date": "2000-12-31",
+      "filename": "60419dd28663.json"
+    },
+    "1c91ee33fc2a": {
+      "county_id": "wis_door",
+      "name": "DOOR (Wis.)",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "1c91ee33fc2a.json"
+    },
+    "4cce53fc014a": {
+      "county_id": "mis_overlap3",
+      "name": "Overlap Area 3",
+      "start_date": "1926-11-22",
+      "end_date": "1936-03-15",
+      "filename": "4cce53fc014a.json"
+    },
+    "f2aaf0cd5ee3": {
+      "county_id": "mis_gogebic",
+      "name": "GOGEBIC",
+      "start_date": "1926-03-01",
+      "end_date": "2000-12-31",
+      "filename": "f2aaf0cd5ee3.json"
+    },
+    "5cb56a307cab": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1926-03-01",
+      "end_date": "1926-11-21",
+      "filename": "5cb56a307cab.json"
+    },
+    "b6d5614218e6": {
+      "county_id": "mis_delta",
+      "name": "DELTA",
+      "start_date": "1936-03-16",
+      "end_date": "2000-12-31",
+      "filename": "b6d5614218e6.json"
+    }
+  }
+}
