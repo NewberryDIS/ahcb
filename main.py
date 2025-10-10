@@ -132,7 +132,7 @@ def BasePage(
     )
     return (
         Title(title),
-        Head(css),
+        Head(css, Title(title)),
         Body(
             Div(cls="bg-overlay"),
             Header(
@@ -369,18 +369,21 @@ videos = [
 @rt("/ahcb/animation/{idx}")
 def get_animation_li(idx: int = 0):
     video = videos[idx]
-    return Div(
-        Img(
-            src=f"/ahcb/static/images/usanimations/{video['img']}",
-            cls="us-img",
+    return (
+        Title("Atlas of Historical County Boundaries"),
+        Div(
+            Img(
+                src=f"/ahcb/static/images/usanimations/{video['img']}",
+                cls="us-img",
+            ),
+            P(video["title"], cls="us-text"),
+            cls="link-wrapper animation-li",
+            hx_get=f"/ahcb/animation/{idx}/modal",
+            hx_target="#modal-container",
+            hx_swap="innerHTML",
+            role="button",
+            tabindex="0",
         ),
-        P(video["title"], cls="us-text"),
-        cls="link-wrapper animation-li",
-        hx_get=f"/ahcb/animation/{idx}/modal",
-        hx_target="#modal-container",
-        hx_swap="innerHTML",
-        role="button",
-        tabindex="0",
     )
 
 
@@ -388,33 +391,36 @@ def get_animation_li(idx: int = 0):
 def get_animation_modal(idx: int):
     video = videos[idx]
     if video:
-        return Div(
+        return (
+            Title("Atlas of Historical County Boundaries"),
             Div(
-                hx_get="/ahcb/clear",
-                hx_target="#modal-container",
-                hx_swap="innerHTML",
-                cls="modal-backdrop",
-            ),
-            Div(
-                Button(
-                    "×",
+                Div(
                     hx_get="/ahcb/clear",
                     hx_target="#modal-container",
                     hx_swap="innerHTML",
-                    cls="close-btn",
+                    cls="modal-backdrop",
                 ),
-                H2(video["title"]),
-                Iframe(
-                    width="560",
-                    height="315",
-                    src=f"https://www.youtube.com/embed/{video['video']}",
-                    frameborder="0",
-                    allowfullscreen="",
+                Div(
+                    Button(
+                        "×",
+                        hx_get="/ahcb/clear",
+                        hx_target="#modal-container",
+                        hx_swap="innerHTML",
+                        cls="close-btn",
+                    ),
+                    H2(video["title"]),
+                    Iframe(
+                        width="560",
+                        height="315",
+                        src=f"https://www.youtube.com/embed/{video['video']}",
+                        frameborder="0",
+                        allowfullscreen="",
+                    ),
+                    cls="modal-content",
                 ),
-                cls="modal-content",
+                id="video-modal",
+                cls="modal",
             ),
-            id="video-modal",
-            cls="modal",
         )
 
 
@@ -433,7 +439,7 @@ def video_index_button(i):
 @rt("/ahcb/maps")
 def all_maps_page():
     return BasePage(
-        title="Atlas of Historical County Boundaries",
+        title="Atlas of Historical County Boundaries Maps",
         css=(
             Link(rel="stylesheet", href="/ahcb/static/css/all-maps.css"),
             Link(rel="stylesheet", href="/ahcb/static/css/leaflet.css"),
